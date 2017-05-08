@@ -1,0 +1,119 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_035
+#+DATE: 2017-02-08T16:41:11+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 不如令太子將軍正迎吾得於境	said someone to the ruler of Chou, 'and welcome Wu Te there.
+:PROPERTIES:
+:SRC: ZGC 2.7.1; tr. Crump 1979 no.14, p. 34, ed. Shanghaiguji p. 58 Chou averts Ch'u's wrath by incriminating a victorious general
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_035:1a04:1::「不 / 戰國策
+:CHARPOS: 1
+:END:
+*** 不如@bùrú
+:PROPERTIES:
+:CONCEPT: uuid-ed405fc1-db4d-40a2-a803-fc30e4f70633 / SHOULD
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 1
+:END:
+不如@bùrú	[[tls:concept:SHOULD::#uuid-ed405fc1-db4d-40a2-a803-fc30e4f70633][SHOULD]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / had better, should ideally, should under the circumstances, should given the alternatives that the situation presents
+*** 迎@yíng
+:PROPERTIES:
+:CONCEPT: uuid-ae45022f-d335-4901-96ca-024c943830ad / WELCOME
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 9
+:END:
+迎@yíng	[[tls:concept:WELCOME::#uuid-ae45022f-d335-4901-96ca-024c943830ad][WELCOME]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / go out to meet (in a hostile or friendly way); specifically: to welcome, come out to welcome (also seasons like spring)
+** 而君自郊迎	Your highness himself should welcome Wu Te at the outskirts of the city
+:PROPERTIES:
+:SRC: ZGC 2.7.1; tr. Crump 1979 no.14, p. 34, ed. Shanghaiguji p. 58 Chou averts Ch'u's wrath by incriminating a victorious general
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_035:1a05:50::而君 / 戰國策
+:CHARPOS: 50
+:END:
+*** 迎@yíng
+:PROPERTIES:
+:CONCEPT: uuid-841f61f9-89cc-450f-a360-7c3b33afddd4 / WELCOME
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 54
+:END:
+迎@yíng	[[tls:concept:WELCOME::#uuid-841f61f9-89cc-450f-a360-7c3b33afddd4][WELCOME]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / welcome a contextually determinate person
+** 令天下皆知君之重吾得也	and allow all the empire to know you have treated him with great respect.
+:PROPERTIES:
+:SRC: ZGC 2.7.1; tr. Crump 1979 no.14, p. 34, ed. Shanghaiguji p. 58 Chou averts Ch'u's wrath by incriminating a victorious general
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_035:1a06:50::令天 / 戰國策
+:CHARPOS: 50
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-0074d730-81dd-4014-9c3e-08aaaf9b4b67 / RESPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 57
+:END:
+重@zhòng	[[tls:concept:RESPECT::#uuid-0074d730-81dd-4014-9c3e-08aaaf9b4b67][RESPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / regard as being of great importance and as deserving great respect (a person or a thing); treat as important
+** 因泄之楚	Next, you must make sure that rumour reaches Ch'u
+:PROPERTIES:
+:SRC: ZGC 2.7.2; tr. Crump 1979 no.14, p. 34, ed. Shanghaiguji p. 58
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_035:1a07:50::因泄 / 戰國策
+:CHARPOS: 50
+:END:
+*** 因@yīn
+:PROPERTIES:
+:CONCEPT: uuid-06e9e436-0875-4275-a9be-c991ecc156b9 / THEN
+:SYN-FUNC: uuid-13b2796a-1d8c-4ee2-88a1-0aaca4254b56
+:SEM-FEAT: uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd
+:CHARPOS: 50
+:END:
+因@yīn	[[tls:concept:THEN::#uuid-06e9e436-0875-4275-a9be-c991ecc156b9][THEN]]	V [[tls:syn-func::#uuid-13b2796a-1d8c-4ee2-88a1-0aaca4254b56][vt(oN.)adV]] {[[tls:sem-feat::#uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd][om]]} / in accordance with the contextually determinate state of affairs> and then; accordingly; thereupon immediately; on that basis, thus; and so
+*** 泄@xiè
+:PROPERTIES:
+:CONCEPT: uuid-fd1d835f-2f7a-40a3-a9ae-816392b139cb / LEAK
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 51
+:END:
+泄@xiè	[[tls:concept:LEAK::#uuid-fd1d835f-2f7a-40a3-a9ae-816392b139cb][LEAK]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / leak N1 to N2
+** 王必求之	His king will then demand the vessels from him
+:PROPERTIES:
+:SRC: ZGC 2.7.2; tr. Crump 1979 no.14, p. 34, ed. Shanghaiguji p. 58
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_035:1a11:1::王必 / 戰國策
+:CHARPOS: 1
+:END:
+*** 求@qiú
+:PROPERTIES:
+:CONCEPT: uuid-f87f5741-4fbe-40a1-8949-4f91f988e12d / DEMAND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+求@qiú	[[tls:concept:DEMAND::#uuid-f87f5741-4fbe-40a1-8949-4f91f988e12d][DEMAND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / make demands for
+** 而吾得無效也	but Wu Te will not have them to give.
+:PROPERTIES:
+:SRC: ZGC 2.7.2; tr. Crump 1979 no.14, p. 34, ed. Shanghaiguji p. 58
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_035:1a12:50::而吾 / 戰國策
+:CHARPOS: 50
+:END:
+*** 效@xiào
+:PROPERTIES:
+:CONCEPT: uuid-e9573add-9a0e-4b4c-bd1d-1692d2382011 / HAND UP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+效@xiào	[[tls:concept:HAND UP::#uuid-e9573add-9a0e-4b4c-bd1d-1692d2382011][HAND UP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / offer up; deliver; hand up and give away, surrender, hand over (to the opponent or to an authority); deliver (results, in service of a ruler)
+** 王必罪之	For this the king will find him guilty of crime.'
+:PROPERTIES:
+:SRC: ZGC 2.7.2; tr. Crump 1979 no.14, p. 34, ed. Shanghaiguji p. 58
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_035:1a12:50::王必 / 戰國策
+:CHARPOS: 50
+:END:
+*** 罪@zuì
+:PROPERTIES:
+:CONCEPT: uuid-4e4a3e9c-bdc9-49d4-a583-40584a04088d / BLAME
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21
+:CHARPOS: 52
+:END:
+罪@zuì	[[tls:concept:BLAME::#uuid-4e4a3e9c-bdc9-49d4-a583-40584a04088d][BLAME]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / regard as guilty, hold (a person) guilty

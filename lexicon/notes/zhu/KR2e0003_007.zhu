@@ -1,0 +1,139 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_007
+#+DATE: 2017-02-08T16:41:07+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 秦假道於周以伐韓	Ch'in wanted a right of way through Chou in order to attack Han.
+:PROPERTIES:
+:SRC: ZGC 1.7.1; tr. Crump 1979 no. 26, p. 41 Shih Yen tells Chou how to escape form a dilemma and gain territory from Han
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_007:1a01:50::秦假 / 戰國策
+:CHARPOS: 50
+:END:
+*** 假@jiǎ
+:PROPERTIES:
+:CONCEPT: uuid-c398018d-37b6-427d-a57d-6a28f3d7388a / BORROW
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 51
+:END:
+假@jiǎ	[[tls:concept:BORROW::#uuid-c398018d-37b6-427d-a57d-6a28f3d7388a][BORROW]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / borrow (something or someone N1) from (the owner N2) 假人於越, also 假道 "askfor/borrow right of way"
+** 周恐假之而惡於韓	Chou feared that by granting it she would alienate Han
+:PROPERTIES:
+:SRC: ZGC 1.7.1; tr. Crump 1979 no. 26, p. 41 Shih Yen tells Chou how to escape form a dilemma and gain territory from Han
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_007:1a02:50::周恐 / 戰國策
+:CHARPOS: 50
+:END:
+*** 恐@kǒng
+:PROPERTIES:
+:CONCEPT: uuid-c4822853-858e-4281-8913-fb12c11fc02a / FEAR
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:CHARPOS: 51
+:END:
+恐@kǒng	[[tls:concept:FEAR::#uuid-c4822853-858e-4281-8913-fb12c11fc02a][FEAR]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] / be very much afraid that S, live in fear that S
+** 秦敢絕塞而伐韓者	"Ch'in dares to quit her frontier defences to attack Han
+:PROPERTIES:
+:SRC: ZGC 1.7.1; tr. Crump 1979 no. 26, p. 41 Shih Yen tells Chou how to escape form a dilemma and gain territory from Han
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_007:1a06:1::『秦 / 戰國策
+:CHARPOS: 1
+:END:
+*** 塞@sài
+:PROPERTIES:
+:CONCEPT: uuid-e29007d5-14b1-4668-985d-e76d8474e48f / FORTRESS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+塞@sài	[[tls:concept:FORTRESS::#uuid-e29007d5-14b1-4668-985d-e76d8474e48f][FORTRESS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / fortress (typically in border region or outlying region)
+** 信東周也	only because she trusts Chou.
+:PROPERTIES:
+:SRC: ZGC 1.7.1; tr. Crump 1979 no. 26, p. 41 Shih Yen tells Chou how to escape form a dilemma and gain territory from Han
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_007:1a07:50::信東 / 戰國策
+:CHARPOS: 50
+:END:
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-93053bd5-398f-4809-b4d0-5fffd662e77a / TRUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 50
+:END:
+信@xìn	[[tls:concept:TRUST::#uuid-93053bd5-398f-4809-b4d0-5fffd662e77a][TRUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / have or show trust in (someone or something)
+** 公何不與周地	If you were to cede land to Chou
+:PROPERTIES:
+:SRC: ZGC 1.7.1; tr. Crump 1979 no. 26, p. 41 Shih Yen tells Chou how to escape form a dilemma and gain territory from Han
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_007:1a08:50::公何 / 戰國策
+:CHARPOS: 50
+:END:
+*** 與@yǔ / 予@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-3a798fd6-388d-4429-87b4-21de50a7ae0a / GIVE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 53
+:END:
+與@yǔ / 予@yǔ	[[tls:concept:GIVE::#uuid-3a798fd6-388d-4429-87b4-21de50a7ae0a][GIVE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / hand over (something N2) to (someone N1), typically as demanded; give (as appropriate under the circumstances, but without having to)
+** 發重使使之楚	and send an impressive embassy to Ch'u,
+:PROPERTIES:
+:SRC: ZGC 1.7.1; tr. Crump 1979 no. 26, p. 41 Shih Yen tells Chou how to escape form a dilemma and gain territory from Han
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_007:1a09:50::發重 / 戰國策
+:CHARPOS: 50
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-25ad455c-b5a9-4099-b93a-d2f3f496b50e / IMPORTANT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 51
+:END:
+重@zhòng	[[tls:concept:IMPORTANT::#uuid-25ad455c-b5a9-4099-b93a-d2f3f496b50e][IMPORTANT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / important; serious (crimes etc)
+*** 使@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-f5fde58d-6dcb-4b9a-affa-fa7879af5543 / ENVOY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+使@shǐ	[[tls:concept:ENVOY::#uuid-f5fde58d-6dcb-4b9a-affa-fa7879af5543][ENVOY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / envoy
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a / GO TO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+之@zhī	[[tls:concept:GO TO::#uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a][GO TO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / go to (so as to stay there for a considerable time, or for some business); move towards; of things: be moved to
+** 是韓不伐也	and you would not be attacked."
+:PROPERTIES:
+:SRC: ZGC 1.7.1; tr. Crump 1979 no. 26, p. 41 Shih Yen tells Chou how to escape form a dilemma and gain territory from Han
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_007:1a12:1::是韓 / 戰國策
+:CHARPOS: 1
+:END:
+*** 伐@fá
+:PROPERTIES:
+:CONCEPT: uuid-821806af-955c-436d-bbef-40da79a386c4 / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 4
+:END:
+伐@fá	[[tls:concept:ATTACK::#uuid-821806af-955c-436d-bbef-40da79a386c4][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / 可伐　be attacked
+** 是得地於韓而聽於秦也	so you will gain territory form Han while obeying Ch'in.'
+:PROPERTIES:
+:SRC: ZGC 1.7.2; tr. Crump 1979 no. 26, p. 41
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_007:1a17:1::是得 / 戰國策
+:CHARPOS: 1
+:END:
+*** 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-e0782bdf-e0bc-4441-8176-dd522646aaa6 / OBTAIN
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 2
+:END:
+得@dé	[[tls:concept:OBTAIN::#uuid-e0782bdf-e0bc-4441-8176-dd522646aaa6][OBTAIN]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / get N1 from N2
+*** 聽@tīng / @
+:PROPERTIES:
+:CONCEPT: uuid-0531c3ee-af46-4e88-813c-547e6e940f34 / OBEY
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 7
+:END:
+聽@tīng / @	[[tls:concept:OBEY::#uuid-0531c3ee-af46-4e88-813c-547e6e940f34][OBEY]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / serve under, obey

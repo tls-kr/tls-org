@@ -1,0 +1,104 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_024
+#+DATE: 2017-02-08T16:43:43+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 企者不立	The one who stands on tiptoes, does not stand firm,
+:PROPERTIES:
+:SRC: LAO 24.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_024:1a01:50::企者 / 老子
+:CHARPOS: 50
+:END:
+*** 企@qǐ / 跂@kuǐ
+:PROPERTIES:
+:CONCEPT: uuid-40c8cd5a-8609-466b-aa3f-fd1867e2ca9a / STAND
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+企@qǐ / 跂@kuǐ	[[tls:concept:STAND::#uuid-40c8cd5a-8609-466b-aa3f-fd1867e2ca9a][STAND]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / CC: stand on tip-toe in order to see far; LAO 24: stand on tip-top
+** 跨者不行	the one who strides, does not march,
+:PROPERTIES:
+:SRC: LAO 24.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_024:1a02:50::跨者 / 老子
+:CHARPOS: 50
+:END:
+*** 跨@kuà
+:PROPERTIES:
+:CONCEPT: uuid-d5b031fb-86c7-44aa-a772-c334e5e20078 / LEAP OVER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+跨@kuà	[[tls:concept:LEAP OVER::#uuid-d5b031fb-86c7-44aa-a772-c334e5e20078][LEAP OVER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / stride across (the high threshold etc)
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-ac13ccd5-0599-44d3-bcaf-aefc85b32460 / WALK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+行@xíng	[[tls:concept:WALK::#uuid-ac13ccd5-0599-44d3-bcaf-aefc85b32460][WALK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / walk, take a walk; travel; be on the move; go on a tour of inspection; walk along
+** 自見者不明	the one who shows himself does not become illustrious,
+:PROPERTIES:
+:SRC: LAO 24.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_024:1a03:50::自見 / 老子
+:CHARPOS: 50
+:END:
+*** 現@xiàn / 見@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-9bea5acd-afdb-459f-ae87-4b7cdd3a6bf3 / SHOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 50
+:END:
+現@xiàn / 見@xiàn	[[tls:concept:SHOW::#uuid-9bea5acd-afdb-459f-ae87-4b7cdd3a6bf3][SHOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / make a display of (oneself)
+** 自是者不彰	the one who approves of himself, will not become famous,
+:PROPERTIES:
+:SRC: LAO 24.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_024:1a04:50::自是 / 老子
+:CHARPOS: 50
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-6342ace4-357e-448f-b0dd-75df786a6634 / TRUE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-a4fecd25-28f7-42ff-9289-a85c54845602
+:CHARPOS: 51
+:END:
+是@shì	[[tls:concept:TRUE::#uuid-6342ace4-357e-448f-b0dd-75df786a6634][TRUE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-a4fecd25-28f7-42ff-9289-a85c54845602][putative.reflex.自]]} / consider (oneself) as right, consider one's own opinions as true
+*** 彰@zhāng
+:PROPERTIES:
+:CONCEPT: uuid-44a27554-95a7-4832-985b-a244eccd02db / VISIBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 54
+:END:
+彰@zhāng	[[tls:concept:VISIBLE::#uuid-44a27554-95a7-4832-985b-a244eccd02db][VISIBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become strikingly visible, become obvious
+** 自伐者無功	the one who boasts of himself, he will have no achievements,
+:PROPERTIES:
+:SRC: LAO 24.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_024:1a05:50::自伐 / 老子
+:CHARPOS: 50
+:END:
+*** 伐@fá
+:PROPERTIES:
+:CONCEPT: uuid-a7a4d1b9-06fe-40df-b5b6-fa57ae89a28d / BOAST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 51
+:END:
+伐@fá	[[tls:concept:BOAST::#uuid-a7a4d1b9-06fe-40df-b5b6-fa57ae89a28d][BOAST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / boast about (oneself)
+** 自矜者不長	the one who is boastful, does not become a leader,
+:PROPERTIES:
+:SRC: LAO 24.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_024:1a06:50::自矜 / 老子
+:CHARPOS: 50
+:END:
+*** 矜@jīn
+:PROPERTIES:
+:CONCEPT: uuid-5d654fa8-be93-430e-bb3a-55bb0636e446 / BOAST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 51
+:END:
+矜@jīn	[[tls:concept:BOAST::#uuid-5d654fa8-be93-430e-bb3a-55bb0636e446][BOAST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / boast about (oneself)

@@ -1,0 +1,237 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 荀子 KR3a0002_007
+#+DATE: 2017-02-08T16:41:40+0900
+#+PROPERTY: COMMIT ddeec5ec188de85913927f32a208650c789be44e
+** 五尺之豎子	would be afraid to praise the Five Lords-Protector
+:PROPERTIES:
+:SRC: XUN 7:1:1, Beida p. 77; Knoblock 2:57
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:1a03:1::五尺 / 荀子
+:CHARPOS: 1
+:END:
+*** 豎子@shùzǐ
+:PROPERTIES:
+:CONCEPT: uuid-f0315e6d-eedd-4a90-8962-916ccdaea1f2 / BOY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 4
+:END:
+豎子@shùzǐ	[[tls:concept:BOY::#uuid-f0315e6d-eedd-4a90-8962-916ccdaea1f2][BOY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / boy 五尺之豎子; 二豎子 miserable little boy; little wretch; servant boy
+** 夫孰能亡之	Who was there that could destroy him?
+:PROPERTIES:
+:SRC: XUN 7:1:3, Beida p. 78; Knoblock 2:57
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:1a22:1::夫孰 / 荀子
+:CHARPOS: 1
+:END:
+*** 夫孰@fúshú
+:PROPERTIES:
+:CONCEPT: uuid-78a5823c-04ec-4554-abfa-698e59e8be28 / WHO
+:SYN-FUNC: uuid-1ef90776-2ffe-41f4-9e97-9f113db4147f
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 1
+:END:
+夫孰@fúshú	[[tls:concept:WHO::#uuid-78a5823c-04ec-4554-abfa-698e59e8be28][WHO]]	N [[tls:syn-func::#uuid-1ef90776-2ffe-41f4-9e97-9f113db4147f][NPpro.adV]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / rhetorical question: who?
+** 倓然見管仲之能足以託國也	Without a moment's hesitation, Duke Huan could see that the ability of Guan Zhong was sufficient to justify entrusting the state to him -
+:PROPERTIES:
+:SRC: XUN 7:1:3, Beida p. 78; Knoblock 2:57
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:1a23:50::倓然 / 荀子
+:CHARPOS: 50
+:END:
+*** 託@tuō
+:PROPERTIES:
+:CONCEPT: uuid-c631ce1d-0202-4f60-b75a-a278aca08776 / ENTRUST
+:SYN-FUNC: uuid-7c17e264-ca77-426f-9d42-84b3dc58f7d0
+:SEM-FEAT: uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd
+:CHARPOS: 59
+:END:
+託@tuō	[[tls:concept:ENTRUST::#uuid-c631ce1d-0202-4f60-b75a-a278aca08776][ENTRUST]]	V [[tls:syn-func::#uuid-7c17e264-ca77-426f-9d42-84b3dc58f7d0][vttoN1(.+prep+N2)]] {[[tls:sem-feat::#uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd][om]]} / entrust (somebody N1) to a contextually defined object N2
+** 而貴戚莫之敢妬也	none of his ducal relatives dared to be jealous.
+:PROPERTIES:
+:SRC: XUN 7:1:4, Beida p. 78; Knoblock 2:57f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:1a30:1::而貴 / 荀子
+:CHARPOS: 1
+:END:
+*** 〓#妒@dù
+:PROPERTIES:
+:CONCEPT: uuid-315dafbe-e066-4c84-9c8a-0b4b9bc17d11 / JEALOUS
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+〓#妒@dù	[[tls:concept:JEALOUS::#uuid-315dafbe-e066-4c84-9c8a-0b4b9bc17d11][JEALOUS]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / show jealousy
+** 言羞稱乎五伯	would be ashamed to praise the Five Lords-protector
+:PROPERTIES:
+:SRC: XUN 7:1:6, Beida p.79 Knoblock 2:58
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:2a02:6::言羞 / 荀子
+:CHARPOS: 6
+:END:
+*** 羞@xiū
+:PROPERTIES:
+:CONCEPT: uuid-2eeced7a-105a-4fdc-a9b0-d3bd63394d8a / SHAME
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 7
+:END:
+羞@xiū	[[tls:concept:SHAME::#uuid-2eeced7a-105a-4fdc-a9b0-d3bd63394d8a][SHAME]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / feel personally ashamed to V
+** 小人之傑也	They are heroes for petty men.
+:PROPERTIES:
+:SRC: XUN 7:1:7, Beida p. 79; Knoblock 2:58
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:2a16:1::小人 / 荀子
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-86710c17-18a5-4621-866f-eac5b8c9422e / BAD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+小人@xiǎorén	[[tls:concept:BAD::#uuid-86710c17-18a5-4621-866f-eac5b8c9422e][BAD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / petty person
+** 彼王者則不然	True Kings are not at all like this.
+:PROPERTIES:
+:SRC: XUN 7:1:8, Beida p. 80; Knoblock 2:58f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:2a18:1::彼王 / 荀子
+:CHARPOS: 1
+:END:
+*** 王者@wàngzhě
+:PROPERTIES:
+:CONCEPT: uuid-a068a5db-cba9-47e7-b249-17212f158f60 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+王者@wàngzhě	[[tls:concept:RULER::#uuid-a068a5db-cba9-47e7-b249-17212f158f60][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the true king
+** 戰必能殆之而羞與之鬭	Certainly they are capable of placing others in mortal peril, but they would be ashamed to engage in conflict.
+:PROPERTIES:
+:SRC: XUN 7:1:8, Beida p. 80; Knoblock 2:58f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:2a21:1::戰必 / 荀子
+:CHARPOS: 1
+:END:
+*** 羞@xiū
+:PROPERTIES:
+:CONCEPT: uuid-2eeced7a-105a-4fdc-a9b0-d3bd63394d8a / SHAME
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 7
+:END:
+羞@xiū	[[tls:concept:SHAME::#uuid-2eeced7a-105a-4fdc-a9b0-d3bd63394d8a][SHAME]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / feel personally ashamed to V
+** 而暴國安自化矣	so that violent states will become peaceful and transform themselves.
+:PROPERTIES:
+:SRC: XUN 7:1:8, Beida p. 80; Knoblock 2:58f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:2a23:1::而暴 / 荀子
+:CHARPOS: 1
+:END:
+*** 化@huà
+:PROPERTIES:
+:CONCEPT: uuid-db5cc09f-8c26-4950-b8ca-eee79a5d3794 / CHANGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 6
+:END:
+化@huà	[[tls:concept:CHANGE::#uuid-db5cc09f-8c26-4950-b8ca-eee79a5d3794][CHANGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / change (one's own) essence, change (oneself) essentially
+** 則楚六千里而為讎人役	then like Chu, 6,000 li in extent, it will become the servant of its adversary.
+:PROPERTIES:
+:SRC: XUN 7:1:10, Beida p. 80; Knoblock 2:59
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:2a37:1::則楚 / 荀子
+:CHARPOS: 1
+:END:
+*** 人役@rényì
+:PROPERTIES:
+:CONCEPT: uuid-0de10a34-48c3-44a5-a778-6e7ebbf5e785 / SUBJECT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 9
+:END:
+人役@rényì	[[tls:concept:SUBJECT::#uuid-0de10a34-48c3-44a5-a778-6e7ebbf5e785][SUBJECT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / subjects
+** 故人主不務得道	Thus a ruler who is intent not on obtaining the Way,
+:PROPERTIES:
+:SRC: XUN 7:1:10, Beida p. 80; Knoblock 2:59
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:2a38:50::故人 / 荀子
+:CHARPOS: 50
+:END:
+*** 人主@rénzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-bec927f5-0304-4575-b245-7634a2099a95 / RULER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+人主@rénzhǔ	[[tls:concept:RULER::#uuid-bec927f5-0304-4575-b245-7634a2099a95][RULER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a ruler of men in general
+** 則莫若早同之	nothing is equal to quickly associating with colleagues,
+:PROPERTIES:
+:SRC: XUN 7:3:2, Beida p. i3; Knoblock 2:60
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:4a12:1::則莫 / 荀子
+:CHARPOS: 1
+:END:
+*** 早@zǎo / 蚤@zǎo
+:PROPERTIES:
+:CONCEPT: uuid-aabc70b3-ce77-4c60-b3e3-da9132ff3f27 / EARLY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 4
+:END:
+早@zǎo / 蚤@zǎo	[[tls:concept:EARLY::#uuid-aabc70b3-ce77-4c60-b3e3-da9132ff3f27][EARLY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / prematurely, too early; so early
+** 則好專事而妬賢能	he prefers to do things on his own, envies the worthy and capable,
+:PROPERTIES:
+:SRC: XUN 7:3:5, Beida p. i3; Knoblock 2:61
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:4a35:1::則好 / 荀子
+:CHARPOS: 1
+:END:
+*** 妒@dù
+:PROPERTIES:
+:CONCEPT: uuid-c4f84ab3-b2e6-4dc9-bd61-07440861e947 / JEALOUS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+妒@dù	[[tls:concept:JEALOUS::#uuid-c4f84ab3-b2e6-4dc9-bd61-07440861e947][JEALOUS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be jealous of (erotically or politically) 妒功　妒而惡之
+** 愛敬不倦	Be not wearied in expressing love and respect.
+:PROPERTIES:
+:SRC: XUN 7:4:2, Beida p. i4; Knoblock 2:61
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:5a16:1::愛敬 / 荀子
+:CHARPOS: 1
+:END:
+*** 愛敬@àijìng
+:PROPERTIES:
+:CONCEPT: uuid-e5f945e7-d420-4de3-bd2f-4861e977a286 / RESPECT
+:SYN-FUNC: uuid-6fbf1ba0-1013-434e-b795-029e61b40b98
+:CHARPOS: 1
+:END:
+愛敬@àijìng	[[tls:concept:RESPECT::#uuid-e5f945e7-d420-4de3-bd2f-4861e977a286][RESPECT]]	V [[tls:syn-func::#uuid-6fbf1ba0-1013-434e-b795-029e61b40b98][VPt{oN}]] / show respect to others
+*** 不倦@bùjuàn
+:PROPERTIES:
+:CONCEPT: uuid-a4bf18e7-d1c2-45a4-9852-e3afe0bdb739 / TIRELESS
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 3
+:END:
+不倦@bùjuàn	[[tls:concept:TIRELESS::#uuid-a4bf18e7-d1c2-45a4-9852-e3afe0bdb739][TIRELESS]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be indefatigable; be unexhausted
+*** 不倦@bùjuàn
+:PROPERTIES:
+:CONCEPT: uuid-6737b82c-b2a2-42f1-8781-1277e7e9bdd9 / TIRELESS
+:SYN-FUNC: uuid-0b46d59e-9906-4ab8-887b-12a0ee8244ae
+:CHARPOS: 3
+:END:
+不倦@bùjuàn	[[tls:concept:TIRELESS::#uuid-6737b82c-b2a2-42f1-8781-1277e7e9bdd9][TIRELESS]]	V [[tls:syn-func::#uuid-0b46d59e-9906-4ab8-887b-12a0ee8244ae][VPpostadV]] / tirelessly; without getting tired of it
+** 而羞為人下	but who are ashamed to be inferior to others.
+:PROPERTIES:
+:SRC: XUN 7:5:1, Beida p. 85; Knoblock 2:63
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_007:6a06:6::而羞 / 荀子
+:CHARPOS: 6
+:END:
+*** 羞@xiū
+:PROPERTIES:
+:CONCEPT: uuid-2eeced7a-105a-4fdc-a9b0-d3bd63394d8a / SHAME
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 7
+:END:
+羞@xiū	[[tls:concept:SHAME::#uuid-2eeced7a-105a-4fdc-a9b0-d3bd63394d8a][SHAME]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / feel personally ashamed to V

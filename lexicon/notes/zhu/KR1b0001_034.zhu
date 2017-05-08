@@ -1,0 +1,458 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_034
+#+DATE: 2017-02-08T16:35:51+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 王有疾弗豫	the king fell ill and was not happy.
+:PROPERTIES:
+:SRC: SHU 26.1, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a02:1::王有 / 尚書
+:CHARPOS: 1
+:END:
+*** 豫@yù / 預@yù
+:PROPERTIES:
+:CONCEPT: uuid-6cfabe04-358e-4770-bcc2-f4d0c84b5aad / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 5
+:END:
+豫@yù / 預@yù	[[tls:concept:HAPPY::#uuid-6cfabe04-358e-4770-bcc2-f4d0c84b5aad][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / feel happy
+** 我其為王穆卜	We shall for the king solemnly take the tortoise oracle.
+:PROPERTIES:
+:SRC: SHU 26.2, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a04:1::「我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4b8fce82-e898-4070-baba-2cec5ed19110 / WE
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-bbf58ba1-ae9c-48c6-8ac7-8e453376d6e1
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-4b8fce82-e898-4070-baba-2cec5ed19110][WE]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-bbf58ba1-ae9c-48c6-8ac7-8e453376d6e1][party]]} / our party, we (as opposed to others); we (Shang)
+** 未可以戚我先王	One cannot distress our former kings.
+:PROPERTIES:
+:SRC: SHU 26.3
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a06:1::「未 / 尚書
+:CHARPOS: 1
+:END:
+*** 可以@kěyǐ
+:PROPERTIES:
+:CONCEPT: uuid-0ef5e6a2-3a08-40b3-bd2c-05b230e58eec / SHOULD
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 2
+:END:
+可以@kěyǐ	[[tls:concept:SHOULD::#uuid-0ef5e6a2-3a08-40b3-bd2c-05b230e58eec][SHOULD]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / should
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 5
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 予仁若巧能	I am good and compliant, clever and capable,
+:PROPERTIES:
+:SRC: SHU 26.6, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a20:1::予仁 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-e01096db-36f9-4548-8a67-85f0a8529d01 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-e01096db-36f9-4548-8a67-85f0a8529d01][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / I (as a responsible agent)
+** 不能事鬼神	he cannot serve the Spirits.
+:PROPERTIES:
+:SRC: SHU 26.6, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a23:1::不能 / 尚書
+:CHARPOS: 1
+:END:
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-9b94b935-e39a-412c-be8b-c6177933825e / ABLE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 2
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-9b94b935-e39a-412c-be8b-c6177933825e][ABLE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / have the capacity to VERB properly, be constitutionally able to VERB; be physically capable of, be actually able to
+** 用能定爾子孫于下地	and thereby be able firmly to establish your decendants on the earth here below.
+:PROPERTIES:
+:SRC: SHU 26.7, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a26:1::用能 / 尚書
+:CHARPOS: 1
+:END:
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-9b94b935-e39a-412c-be8b-c6177933825e / ABLE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 2
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-9b94b935-e39a-412c-be8b-c6177933825e][ABLE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / have the capacity to VERB properly, be constitutionally able to VERB; be physically capable of, be actually able to
+** 無墜天之降寶命	do not let fall the precious mandate sent down by Heaven,
+:PROPERTIES:
+:SRC: SHU 26.7, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a29:1::無墜 / 尚書
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-ee9bc2d3-8d8a-497f-b4dc-077de9be8d4e / PRECIOUS
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 6
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-ee9bc2d3-8d8a-497f-b4dc-077de9be8d4e][PRECIOUS]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / most treasured, most important
+** 我先王亦永有依歸	then our former kings will also forever have a reliance and resort (i.e. sacrrifices to sustain them).
+:PROPERTIES:
+:SRC: SHU 26.7, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a30:50::我先 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 今我即命于元龜	Now I will announce the inquiry to the great tortoise.
+:PROPERTIES:
+:SRC: SHU 26.8, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a31:50::今我 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c7654b87-92ae-4eb3-8658-06b766c96e12 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c
+:CHARPOS: 51
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-c7654b87-92ae-4eb3-8658-06b766c96e12][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c][V=future.action]]} / I (with future predicate)
+** 爾之許我	If you grant me my wish (sc. that the king may recover),
+:PROPERTIES:
+:SRC: SHU 26.8, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a32:50::爾之 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-38601b54-9867-41c7-a8e2-cce55d74cd46 / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 53
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-38601b54-9867-41c7-a8e2-cce55d74cd46][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / me (non-contrastive)
+** 我其以璧與珪	I will with the bǐ jade disc and the gūi tessera
+:PROPERTIES:
+:SRC: SHU 26.8, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a33:50::我其 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c7654b87-92ae-4eb3-8658-06b766c96e12 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-c7654b87-92ae-4eb3-8658-06b766c96e12][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c][V=future.action]]} / I (with future predicate)
+** 爾不許我	If you do not grant me my wish,
+:PROPERTIES:
+:SRC: SHU 26.8, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a35:1::爾不 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-38601b54-9867-41c7-a8e2-cce55d74cd46 / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 4
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-38601b54-9867-41c7-a8e2-cce55d74cd46][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / me (non-contrastive)
+** 我乃屏璧與珪	I will shut up the jade disc and the tessera (i.e. no more function as officiant in sacrifice).
+:PROPERTIES:
+:SRC: SHU 26.8, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a36:50::我乃 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c7654b87-92ae-4eb3-8658-06b766c96e12 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-c7654b87-92ae-4eb3-8658-06b766c96e12][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c][V=future.action]]} / I (with future predicate)
+** 予小子新命	(The king said:) I, the little child, anew have obtained an appointment
+:PROPERTIES:
+:SRC: SHU 26.10
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a43:1::予小 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+*** 予小子@yúxiǎozǐ
+:PROPERTIES:
+:CONCEPT: uuid-4a1e7000-f719-4665-99f9-6eb511d1c463 / EGO
+:SYN-FUNC: uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd
+:CHARPOS: 1
+:END:
+予小子@yúxiǎozǐ	[[tls:concept:EGO::#uuid-4a1e7000-f719-4665-99f9-6eb511d1c463][EGO]]	N [[tls:syn-func::#uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd][NPpro]] / I, the little one
+*** 小子@xiǎozǐ
+:PROPERTIES:
+:CONCEPT: uuid-40bfea66-f9f0-4a43-99ac-2d24f26c2d81 / EGO
+:SYN-FUNC: uuid-13230028-2ba9-425d-b7a1-2ca77f6db263
+:CHARPOS: 2
+:END:
+小子@xiǎozǐ	[[tls:concept:EGO::#uuid-40bfea66-f9f0-4a43-99ac-2d24f26c2d81][EGO]]	N [[tls:syn-func::#uuid-13230028-2ba9-425d-b7a1-2ca77f6db263][NP{post=npro1}]] / I,little man; German: meine Wenigkeit
+*** 新@xīn
+:PROPERTIES:
+:CONCEPT: uuid-8658dd11-782b-4668-8622-ae0542b631c5 / RECENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 4
+:END:
+新@xīn	[[tls:concept:RECENT::#uuid-8658dd11-782b-4668-8622-ae0542b631c5][RECENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / newly, recently; lately; just
+** 能念予一人	is that they will (think of=) care about me, the One Man.
+:PROPERTIES:
+:SRC: SHU 26.10
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a46:1::能念 / 尚書
+:CHARPOS: 1
+:END:
+*** 念@niàn
+:PROPERTIES:
+:CONCEPT: uuid-2b3a521c-96a7-46e1-8ee1-68c9eba44310 / THINK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+念@niàn	[[tls:concept:THINK::#uuid-2b3a521c-96a7-46e1-8ee1-68c9eba44310][THINK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / think intensely of, ponder; refuse to put in the back of one's mind; be considerate in relation to
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 3
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+*** 予一人@yúyīrén
+:PROPERTIES:
+:CONCEPT: uuid-e318a8c1-90d2-4b59-adb8-1d76b8403b3c / EGO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 3
+:END:
+予一人@yúyīrén	[[tls:concept:EGO::#uuid-e318a8c1-90d2-4b59-adb8-1d76b8403b3c][EGO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / I, the one person (the king)
+** 乃納冊于金縢之匱中	he placed the tablets in the metal- bound coffer.
+:PROPERTIES:
+:SRC: SHU 26.11
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a48:1::乃納 / 尚書
+:CHARPOS: 1
+:END:
+*** 匱@guì
+:PROPERTIES:
+:CONCEPT: uuid-344e28e6-5737-4842-b0a3-2b2e54c1b576 / BOX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 8
+:END:
+匱@guì	[[tls:concept:BOX::#uuid-344e28e6-5737-4842-b0a3-2b2e54c1b576][BOX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / large wooden box with doors, a mini cupboard
+** 王翼日乃瘳	The next day the king got better.
+:PROPERTIES:
+:SRC: SHU 26.11
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a49:50::王翼 / 尚書
+:CHARPOS: 50
+:END:
+*** 瘳@chōu
+:PROPERTIES:
+:CONCEPT: uuid-8007337d-c71b-42b5-b01e-4d86355d6caf / CURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 54
+:END:
+瘳@chōu	[[tls:concept:CURE::#uuid-8007337d-c71b-42b5-b01e-4d86355d6caf][CURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be cured; have become better
+** 公將不利於孺子	The prince will do no good to the infant.
+:PROPERTIES:
+:SRC: SHU 26.12, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a52:1::「公 / 尚書
+:CHARPOS: 1
+:END:
+*** 不利@bùlì
+:PROPERTIES:
+:CONCEPT: uuid-95f8de55-57e6-42a5-ac9a-09bfd8aee933 / DAMAGE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-9530ae9f-75b5-410f-9376-4472f38c74c0
+:CHARPOS: 3
+:END:
+不利@bùlì	[[tls:concept:DAMAGE::#uuid-95f8de55-57e6-42a5-ac9a-09bfd8aee933][DAMAGE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-9530ae9f-75b5-410f-9376-4472f38c74c0][litotes]]} / do harm to
+*** 孺子@rúzǐ
+:PROPERTIES:
+:CONCEPT: uuid-3c21b710-f6c3-49ae-82d6-7317ac7c29a7 / BOY
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-420fbe78-6b7c-49ca-8927-d60349fa4f3a
+:CHARPOS: 6
+:END:
+孺子@rúzǐ	[[tls:concept:BOY::#uuid-3c21b710-f6c3-49ae-82d6-7317ac7c29a7][BOY]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-420fbe78-6b7c-49ca-8927-d60349fa4f3a][male?]]} / small child, infant; young man
+** 我之弗辟	If I do not correct (them),
+:PROPERTIES:
+:SRC: SHU 26.13, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a54:1::「我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-014a2756-d28f-4515-9f4b-823e216aa020 / WE
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-014a2756-d28f-4515-9f4b-823e216aa020][WE]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / we (including the audience)
+** 我無以告我先王	I shall nothing to answer our former kings.
+:PROPERTIES:
+:SRC: SHU 26.13, tr. Karlgren 35
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a55:50::我無 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-014a2756-d28f-4515-9f4b-823e216aa020 / WE
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-014a2756-d28f-4515-9f4b-823e216aa020][WE]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / we (including the audience)
+** 公乃為詩以貽王	the prince made an ode and presented it to the king,
+:PROPERTIES:
+:SRC: SHU 26.15
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a59:1::公乃 / 尚書
+:CHARPOS: 1
+:END:
+*** 貽@yí / 詒@yí
+:PROPERTIES:
+:CONCEPT: uuid-1ae28220-a121-4b80-835f-5d163e23dc41 / GIVE
+:SYN-FUNC: uuid-f61ce0f3-6443-41fd-b221-244fb9b98322
+:SEM-FEAT: uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd
+:CHARPOS: 6
+:END:
+貽@yí / 詒@yí	[[tls:concept:GIVE::#uuid-1ae28220-a121-4b80-835f-5d163e23dc41][GIVE]]	V [[tls:syn-func::#uuid-f61ce0f3-6443-41fd-b221-244fb9b98322][vttoN1.post-vt(oN2)]] {[[tls:sem-feat::#uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd][om]]} / give a contextually determinate things to N1
+** 乃問諸史與百執事	then asked about it with the scribe and all the functionaries.
+:PROPERTIES:
+:SRC: SHU 26.17
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a71:5::乃問 / 尚書
+:CHARPOS: 5
+:END:
+*** 問@wèn
+:PROPERTIES:
+:CONCEPT: uuid-dbbbea59-9bb4-41ba-a2cf-dec1f8326b63 / ASK
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 6
+:END:
+問@wèn	[[tls:concept:ASK::#uuid-dbbbea59-9bb4-41ba-a2cf-dec1f8326b63][ASK]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / ask (someone N2) about (something N1)　問孝於我
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-fd745f99-fb4f-42a1-b6a2-950963484d1d / AND
+:SYN-FUNC: uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 9
+:END:
+與@yǔ	[[tls:concept:AND::#uuid-fd745f99-fb4f-42a1-b6a2-950963484d1d][AND]]	V [[tls:syn-func::#uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e][vtoN1.postN2:postVt]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / and 衛侯逐公叔戍與其黨，
+*** 執事@zhíshì
+:PROPERTIES:
+:CONCEPT: uuid-ccdb4797-c74f-4282-ac48-6a4a458573ff / OFFICIAL
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:CHARPOS: 11
+:END:
+執事@zhíshì	[[tls:concept:OFFICIAL::#uuid-ccdb4797-c74f-4282-ac48-6a4a458573ff][OFFICIAL]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] / the officials in charge; the person in charge
+** 信噫公命我勿敢言	It is true, alas! But the prince ordered that we should not dare to speak (about it).
+:PROPERTIES:
+:SRC: SHU 26.17
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a73:1::「信 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-8d46e4dd-2aa1-42b7-8f1b-cd5d64aab254 / WE
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 5
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-8d46e4dd-2aa1-42b7-8f1b-cd5d64aab254][WE]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / pivot: I
+** 惟予沖人弗及知	but I, young man, have not (reached to know it=) had the means of knowing it.
+:PROPERTIES:
+:SRC: SHU 26.18
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a77:1::惟予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+** 親迎惟朕小子其新逆	I, the little child, will in person go and meet him,
+:PROPERTIES:
+:SRC: SHU 26.18
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a79:1::親迎 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-87900a1b-1f0f-459a-b46b-daa4d70f591b / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 4
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-87900a1b-1f0f-459a-b46b-daa4d70f591b][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / auto-honorific cenremonial: I (followed by an N in apposition)
+** 我國家禮亦宜之	The rites of our Royal house also justify this.
+:PROPERTIES:
+:SRC: SHU 26.18
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_034:2a80:50::我國 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 51
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation

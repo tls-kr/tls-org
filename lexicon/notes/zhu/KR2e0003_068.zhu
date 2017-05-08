@@ -1,0 +1,69 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_068
+#+DATE: 2017-02-08T16:41:16+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 宜陽之役	During the siege of Yi-yang,
+:PROPERTIES:
+:SRC: ZGC 4.10.1; tr. Crump 1979 no. 70, p 78, ed. Shanghaiguji p. 156 Kan Mao rallies the king of Ch'in from his despair
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_068:1a01:50::宜陽 / 戰國策
+:CHARPOS: 50
+:END:
+*** 役@yì
+:PROPERTIES:
+:CONCEPT: uuid-8182f8b5-480c-4911-8152-0dde6471e09b / BATTLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+役@yì	[[tls:concept:BATTLE::#uuid-8182f8b5-480c-4911-8152-0dde6471e09b][BATTLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / military campaign (including battles and marches)
+** 楚畔秦而合於韓	Ch'u broke with Ch'in and allied herself with Han.
+:PROPERTIES:
+:SRC: ZGC 4.10.1; tr. Crump 1979 no. 70, p 78, ed. Shanghaiguji p. 156 Kan Mao rallies the king of Ch'in from his despair
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_068:1a02:50::楚畔 / 戰國策
+:CHARPOS: 50
+:END:
+*** 畔@pàn / 叛@pàn
+:PROPERTIES:
+:CONCEPT: uuid-20c08846-f247-4b82-8bd9-b9e0ac6d8cb6 / REVOLT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+畔@pàn / 叛@pàn	[[tls:concept:REVOLT::#uuid-20c08846-f247-4b82-8bd9-b9e0ac6d8cb6][REVOLT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / revolt (against somebody); turn (against somebody)
+*** 合@hé
+:PROPERTIES:
+:CONCEPT: uuid-b54749cb-c9c5-48c1-89b1-65f4de65b385 / COOPERATE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 54
+:END:
+合@hé	[[tls:concept:COOPERATE::#uuid-b54749cb-c9c5-48c1-89b1-65f4de65b385][COOPERATE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / cooperate with, ally oneself with
+** 秦王懼	The king of Ch'in despaired.
+:PROPERTIES:
+:SRC: ZGC 4.10.1; tr. Crump 1979 no. 70, p 78, ed. Shanghaiguji p. 156 Kan Mao rallies the king of Ch'in from his despair
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_068:1a03:50::秦王 / 戰國策
+:CHARPOS: 50
+:END:
+*** 懼@jù
+:PROPERTIES:
+:CONCEPT: uuid-2fdd309c-09f0-49f1-a150-0a4bfbe0d82f / FEAR
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+懼@jù	[[tls:concept:FEAR::#uuid-2fdd309c-09f0-49f1-a150-0a4bfbe0d82f][FEAR]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become frightened; become scared
+** 臣是以知其御也	Ch'u picks no quarrel with us.'
+:PROPERTIES:
+:SRC: ZGC 4.10.1; tr. Crump 1979 no. 70, p 78, ed. Shanghaiguji p. 156 Kan Mao rallies the king of Ch'in from his despair
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_068:1a10:1::臣是 / 戰國策
+:CHARPOS: 1
+:END:
+*** 是以@shìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-89f0df87-9278-4369-8ece-8049930cf3f8 / THEREFORE
+:SYN-FUNC: uuid-4f1a4b20-e290-4bf0-8b31-6d55996076e2
+:CHARPOS: 2
+:END:
+是以@shìyǐ	[[tls:concept:THEREFORE::#uuid-89f0df87-9278-4369-8ece-8049930cf3f8][THEREFORE]]	P [[tls:syn-func::#uuid-4f1a4b20-e290-4bf0-8b31-6d55996076e2][PPadV{PRED}.postN{SUBJ}]] / the N therefore V-s

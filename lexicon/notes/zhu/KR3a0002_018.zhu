@@ -1,0 +1,711 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 荀子 KR3a0002_018
+#+DATE: 2017-02-08T16:41:42+0900
+#+PROPERTY: COMMIT ddeec5ec188de85913927f32a208650c789be44e
+** 主者民之唱也	The ruler is to the people as a singing master who provides the tune;
+:PROPERTIES:
+:SRC: XUN 18:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:1a04:1::主者 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 2
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 上者下之儀也	the superior is to his subordinates as the gnomon that provides the standard.
+:PROPERTIES:
+:SRC: XUN 18:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:1a05:50::上者 / 荀子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 51
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 則下愿愨矣	his subordinates will be attentive and diligent.
+:PROPERTIES:
+:SRC: XUN 18:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:1a19:1::則下 / 荀子
+:CHARPOS: 1
+:END:
+*** 愿愨@yuànquè
+:PROPERTIES:
+:CONCEPT: uuid-04df0c66-b497-47d7-ab56-48c2ea39d398 / FAITHFUL
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 3
+:END:
+愿愨@yuànquè	[[tls:concept:FAITHFUL::#uuid-04df0c66-b497-47d7-ab56-48c2ea39d398][FAITHFUL]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be trusty; be guileless
+** 故下安則貴上	If his subjects are calm and feel secure, they will esteem their superior;
+:PROPERTIES:
+:SRC: XUN 18:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:1a46:1::故下 / 荀子
+:CHARPOS: 1
+:END:
+*** 貴@guì
+:PROPERTIES:
+:CONCEPT: uuid-2cb1468c-78d5-4191-8b7a-840dd294ce01 / RESPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+貴@guì	[[tls:concept:RESPECT::#uuid-2cb1468c-78d5-4191-8b7a-840dd294ce01][RESPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / appreciate and respect
+** 聖王之子也	In the descendants of sage kings
+:PROPERTIES:
+:SRC: XUN 18:2:3, Beida p.2i4; Knoblock 3:34
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a18:1::聖王 / 荀子
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+** 聖王沒	When the sage kings died,
+:PROPERTIES:
+:SRC: XUN 18:2:4, Beida p.2i4; Knoblock 3:35
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a33:1::聖王 / 荀子
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+** 湯武者	Tang and Wu
+:PROPERTIES:
+:SRC: XUN 18:2:7, Beida p.2i4; Knoblock 3:35
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a63:1::湯、 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-f44f5f4f-8291-496a-8380-7505e052b7ac / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-4ceaf472-4546-48ef-a21a-7190752122ed
+:SEM-FEAT: uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-f44f5f4f-8291-496a-8380-7505e052b7ac][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-4ceaf472-4546-48ef-a21a-7190752122ed][npro.post-Npr]] {[[tls:sem-feat::#uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db][non-narrative]]} / 季布者，楚人也
+** 桀紂者民之怨賊也	Jie and Zhou Xin were hated as predators of the people.
+:PROPERTIES:
+:SRC: XUN 18:2:7, Beida p.2i4; Knoblock 3:35
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a65:1::桀、 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-f44f5f4f-8291-496a-8380-7505e052b7ac / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-4ceaf472-4546-48ef-a21a-7190752122ed
+:SEM-FEAT: uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-f44f5f4f-8291-496a-8380-7505e052b7ac][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-4ceaf472-4546-48ef-a21a-7190752122ed][npro.post-Npr]] {[[tls:sem-feat::#uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db][non-narrative]]} / 季布者，楚人也
+** 天下者	Since the world
+:PROPERTIES:
+:SRC: XUN 18:2:9, Beida p.2i4; Knoblock 3:35f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a76:1::天下 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 此三至者	Only a sage is capable of fully meeting
+:PROPERTIES:
+:SRC: XUN 18:2:9, Beida p.2i4; Knoblock 3:35f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a83:1::此三 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3
+:CHARPOS: 4
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3][npro:post.Npost-V{NUM}]] / after number phrase　三家者， 之數物者
+** 桀紂者其知慮至險也	The thoughts and reflections of Jie and Zhou Xin were extremely dangerous,
+:PROPERTIES:
+:SRC: XUN 18:2:10, Beida p.2i4; Knoblock 3:36
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a88:1::桀、 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-f44f5f4f-8291-496a-8380-7505e052b7ac / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-4ceaf472-4546-48ef-a21a-7190752122ed
+:SEM-FEAT: uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-f44f5f4f-8291-496a-8380-7505e052b7ac][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-4ceaf472-4546-48ef-a21a-7190752122ed][npro.post-Npr]] {[[tls:sem-feat::#uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db][non-narrative]]} / 季布者，楚人也
+** 賢者賤之	the worthy dispised them;
+:PROPERTIES:
+:SRC: XUN 18:2:10, Beida p.2i4; Knoblock 3:36
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a92:1::賢者 / 荀子
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-f5feebdb-7213-4906-b1dd-aad778d29afd / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-f5feebdb-7213-4906-b1dd-aad778d29afd][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / those who are possessed of moral worth and talent (at a certain time or in a certain place)
+** 生民怨之	and their own people hated them.
+:PROPERTIES:
+:SRC: XUN 18:2:10, Beida p.2i4; Knoblock 3:36
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a93:50::生民 / 荀子
+:CHARPOS: 50
+:END:
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-e87fb391-38bd-4ea2-9e65-7d5b8dbd6fea / LIVE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+生@shēng	[[tls:concept:LIVE::#uuid-e87fb391-38bd-4ea2-9e65-7d5b8dbd6fea][LIVE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / alive, live; living; occurring during one's lifetime
+** 是不容妻子之數也	for they were unable even to protect their own wives and children.
+:PROPERTIES:
+:SRC: XUN 18:2:10, Beida p.2i4; Knoblock 3:36
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a101:1::是不 / 荀子
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-360710ac-befe-4876-9049-5978a7651960 / SUCH
+:SYN-FUNC: uuid-57ce2afe-2539-46f3-abe4-7f85130914ca
+:CHARPOS: 1
+:END:
+是@shì	[[tls:concept:SUCH::#uuid-360710ac-befe-4876-9049-5978a7651960][SUCH]]	N [[tls:syn-func::#uuid-57ce2afe-2539-46f3-abe4-7f85130914ca][npro{PRED}]] / be such; be a paradigmatic example; be a typical case in point; be a relevant example; be a paradigm case
+** 可以小人有也	can be possessed by a petty man,
+:PROPERTIES:
+:SRC: XUN 18:2:13, Beida p.285; Knoblock 3:36
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a119:1::可以 / 荀子
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-e6ca590d-4c3c-4f9e-896a-42cf873127c0 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 3
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-e6ca590d-4c3c-4f9e-896a-42cf873127c0][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / an ordinary person
+** 不可以小人有也	so it is impossible for a petty man to possess it,
+:PROPERTIES:
+:SRC: XUN 18:2:13, Beida p.285; Knoblock 3:36
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a123:1::不可 / 荀子
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-e6ca590d-4c3c-4f9e-896a-42cf873127c0 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 4
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-e6ca590d-4c3c-4f9e-896a-42cf873127c0][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / an ordinary person
+** 天下者	The empire
+:PROPERTIES:
+:SRC: XUN 18:2:13, Beida p.285; Knoblock 3:36
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a128:1::天下 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 非聖人莫之能有也	and only a sage can possess it.
+:PROPERTIES:
+:SRC: XUN 18:2:13, Beida p.285; Knoblock 3:36
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:2a130:1::非聖 / 荀子
+:CHARPOS: 1
+:END:
+*** 聖人@shèngrén
+:PROPERTIES:
+:CONCEPT: uuid-5824c27a-874b-41da-bb65-f83306aff7b7 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 2
+:END:
+聖人@shèngrén	[[tls:concept:HERO::#uuid-5824c27a-874b-41da-bb65-f83306aff7b7][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a sage; any sage (with tensed predicate)
+*** 聖人@shèngrén
+:PROPERTIES:
+:CONCEPT: uuid-b1469cd1-5934-4f4e-b0af-4527c104e901 / HERO
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 2
+:END:
+聖人@shèngrén	[[tls:concept:HERO::#uuid-b1469cd1-5934-4f4e-b0af-4527c104e901][HERO]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be a sage (not: be THE sage) (tensed)
+** 湯武者至天下之善禁令者也	Tang and Wu were the most skillful men in the world at putting their prohibitions and commands in effect.
+:PROPERTIES:
+:SRC: XUN 18:4:1, Beida p.291; Knoblock 3:38
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:4a07:1::湯、 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-f44f5f4f-8291-496a-8380-7505e052b7ac / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-4ceaf472-4546-48ef-a21a-7190752122ed
+:SEM-FEAT: uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-f44f5f4f-8291-496a-8380-7505e052b7ac][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-4ceaf472-4546-48ef-a21a-7190752122ed][npro.post-Npr]] {[[tls:sem-feat::#uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db][non-narrative]]} / 季布者，楚人也
+** 用柯	use vats,
+:PROPERTIES:
+:SRC: XUN 18:4:2, Beida p.291;Knoblock 3:38
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:4a20:3::用柯 / 荀子
+:CHARPOS: 3
+:END:
+*** 柯@kē
+:PROPERTIES:
+:CONCEPT: uuid-bda466a9-c10f-49c9-8e7c-61d5c588f510 / HANDLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+柯@kē	[[tls:concept:HANDLE::#uuid-bda466a9-c10f-49c9-8e7c-61d5c588f510][HANDLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / axe-handle
+** 彼楚越者	Further, Chu and Yue were of the class of states
+:PROPERTIES:
+:SRC: XUN 18:4:4, Beida p.291; Knoblock 3:39
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:4a42:1::彼楚 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-f44f5f4f-8291-496a-8380-7505e052b7ac / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-4ceaf472-4546-48ef-a21a-7190752122ed
+:SEM-FEAT: uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db
+:CHARPOS: 4
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-f44f5f4f-8291-496a-8380-7505e052b7ac][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-4ceaf472-4546-48ef-a21a-7190752122ed][npro.post-Npr]] {[[tls:sem-feat::#uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db][non-narrative]]} / 季布者，楚人也
+** 坎井之鼃不可與語東海之樂	It is impossible for a frog from the well pit to join in discussing the happiness of the Eastern Sea. Starvelings lying in drainage ditches will never be adequate to share in reaching up to the ordinances of true kingship.
+:PROPERTIES:
+:SRC: XUN 18:4:4, Beida p.291; Knoblock 3:39
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:4a52:1::坎井 / 荀子
+:CHARPOS: 1
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-d5d5549b-d891-487a-9e10-ae007c269209 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 12
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-d5d5549b-d891-487a-9e10-ae007c269209][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / deep communicative happiness 熱鬧的快樂
+** 天子者	Consider the Son of Heaven:
+:PROPERTIES:
+:SRC: XUN 18:5a:1, Beida p.293; Knoblock 3:39f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:5a04:1::天子 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 智惠甚明	since their wisdom and intelligence are exceedingly perspicacious,
+:PROPERTIES:
+:SRC: XUN 18:5a:1, Beida p.293; Knoblock 3:39f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:5a09:1::智惠 / 荀子
+:CHARPOS: 1
+:END:
+*** 智@zhì / 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-fd931d75-8f5a-4d1e-b665-c7e227fdb738 / WISE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 1
+:END:
+智@zhì / 知@zhī	[[tls:concept:WISE::#uuid-fd931d75-8f5a-4d1e-b665-c7e227fdb738][WISE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / wisdom; BUDDH: perfect insight, wisdom skr. prajñā
+** 生民之屬莫不振動從服以化順之	'Every class of living people, each and all, would be stirred up and moved to follow after them and submit in order to be transformed and made obedient to them.'
+:PROPERTIES:
+:SRC: XUN 18:5a:1, Beida p.293; Knoblock 3:39f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:5a11:1::生民 / 荀子
+:CHARPOS: 1
+:END:
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-e87fb391-38bd-4ea2-9e65-7d5b8dbd6fea / LIVE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+生@shēng	[[tls:concept:LIVE::#uuid-e87fb391-38bd-4ea2-9e65-7d5b8dbd6fea][LIVE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / alive, live; living; occurring during one's lifetime
+** 若夫知慮取舍則無衰	if one refers to his wisdom, his ability to think, or his power to choose or reject, then there is no decay.
+:PROPERTIES:
+:SRC: XUN 18:5c:1, Beida p.293; Knoblock 3:41
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:5a52:1::若夫 / 荀子
+:CHARPOS: 1
+:END:
+*** 智慮@zhìlǜ
+:PROPERTIES:
+:CONCEPT: uuid-75337bae-9f87-424c-91cd-e5a7928c3e55 / INTELLIGENT
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 1
+:END:
+智慮@zhìlǜ	[[tls:concept:INTELLIGENT::#uuid-75337bae-9f87-424c-91cd-e5a7928c3e55][INTELLIGENT]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / strategic intelligence
+** 天子者埶至重而形至佚	Although the position of the Son of Heaven is the most significant position of power, his body enjoys the most perfect leisure.
+:PROPERTIES:
+:SRC: XUN 18:5c:2, Beida p.293; Knoblock 3:41
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:5a56:1::天子 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 心至愉而志無所詘	'His heart is filled with the purest pleasures, for his will is never thwarted;
+:PROPERTIES:
+:SRC: XUN 18:5c:2, Beida p.293; Knoblock 3:41
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:5a57:50::心至 / 荀子
+:CHARPOS: 50
+:END:
+*** 至愉@zhìyú
+:PROPERTIES:
+:CONCEPT: uuid-86ff7ee1-ac9b-4a8e-8b8d-4e1f5326fdfc / HAPPY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 51
+:END:
+至愉@zhìyú	[[tls:concept:HAPPY::#uuid-86ff7ee1-ac9b-4a8e-8b8d-4e1f5326fdfc][HAPPY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be supremely happily amused
+** 休猶有安樂恬愉如是者乎	and what rest has such peace and enjoyment, such tranquillity and pleasure as this?
+:PROPERTIES:
+:SRC: XUN 18:5c:6, Beida p.294; Knoblock 3:42
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:5a93:1::休猶 / 荀子
+:CHARPOS: 1
+:END:
+*** 安樂@ānlè
+:PROPERTIES:
+:CONCEPT: uuid-6725e3c4-897e-46cc-9283-82d0887cfbf9 / HAPPY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 4
+:END:
+安樂@ānlè	[[tls:concept:HAPPY::#uuid-6725e3c4-897e-46cc-9283-82d0887cfbf9][HAPPY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be in a peaceful happy state 最安樂
+*** 安樂@ānlè
+:PROPERTIES:
+:CONCEPT: uuid-ff99ba43-a3db-46c6-b1ef-c5b2587103fa / HAPPY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 4
+:END:
+安樂@ānlè	[[tls:concept:HAPPY::#uuid-ff99ba43-a3db-46c6-b1ef-c5b2587103fa][HAPPY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / peaceful happiness
+*** 恬愉@tiányú
+:PROPERTIES:
+:CONCEPT: uuid-df019caf-7db5-4472-b0a8-628737e903af / HAPPY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 6
+:END:
+恬愉@tiányú	[[tls:concept:HAPPY::#uuid-df019caf-7db5-4472-b0a8-628737e903af][HAPPY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be at ease and happy
+*** 如是@rúshì
+:PROPERTIES:
+:CONCEPT: uuid-78262734-dc3d-475d-9167-7b4db8d8c075 / RESEMBLE
+:SYN-FUNC: uuid-0b46d59e-9906-4ab8-887b-12a0ee8244ae
+:CHARPOS: 8
+:END:
+如是@rúshì	[[tls:concept:RESEMBLE::#uuid-78262734-dc3d-475d-9167-7b4db8d8c075][RESEMBLE]]	V [[tls:syn-func::#uuid-0b46d59e-9906-4ab8-887b-12a0ee8244ae][VPpostadV]] / V like this
+** 堯舜不能教化	"Yao and Shun were incapable of teaching and transforming."
+:PROPERTIES:
+:SRC: XUN 18:6:1, Beida p.297;Knoblock 3:42
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:6a02:1::『堯 / 荀子
+:CHARPOS: 1
+:END:
+*** 教化@jiàohuà
+:PROPERTIES:
+:CONCEPT: uuid-2f836fa4-e1dd-480e-83b2-22bafd431f1b / TEACH
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+教化@jiàohuà	[[tls:concept:TEACH::#uuid-2f836fa4-e1dd-480e-83b2-22bafd431f1b][TEACH]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / conduct education; engage in the teaching of Buddhism
+** 堯舜者天下之英也	Yao and Shun were the heroes of the empire;
+:PROPERTIES:
+:SRC: XUN 18:6:1, Beida p.297;Knoblock 3:42
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:6a13:1::堯、 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-f44f5f4f-8291-496a-8380-7505e052b7ac / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-4ceaf472-4546-48ef-a21a-7190752122ed
+:SEM-FEAT: uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-f44f5f4f-8291-496a-8380-7505e052b7ac][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-4ceaf472-4546-48ef-a21a-7190752122ed][npro.post-Npr]] {[[tls:sem-feat::#uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db][non-narrative]]} / 季布者，楚人也
+*** 英@yīng
+:PROPERTIES:
+:CONCEPT: uuid-f68d6813-b422-46fe-ad5a-c2037cea4d33 / HERO
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 7
+:END:
+英@yīng	[[tls:concept:HERO::#uuid-f68d6813-b422-46fe-ad5a-c2037cea4d33][HERO]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / HUAINAN: hero of the first order; hero
+** 朱象者天下之嵬	Zhu and Xiang were perverse figures,
+:PROPERTIES:
+:SRC: XUN 18:6:1, Beida p.297;Knoblock 3:42
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:6a14:50::朱、 / 荀子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-f44f5f4f-8291-496a-8380-7505e052b7ac / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-4ceaf472-4546-48ef-a21a-7190752122ed
+:SEM-FEAT: uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db
+:CHARPOS: 52
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-f44f5f4f-8291-496a-8380-7505e052b7ac][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-4ceaf472-4546-48ef-a21a-7190752122ed][npro.post-Npr]] {[[tls:sem-feat::#uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db][non-narrative]]} / 季布者，楚人也
+** 羿蠭門者天下之善射者也	Though Yi and Pengmen were the best archers in the world,
+:PROPERTIES:
+:SRC: XUN 18:6:3, Beida p.297;Knoblock 3:43
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:6a19:1::羿、 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-f44f5f4f-8291-496a-8380-7505e052b7ac / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-4ceaf472-4546-48ef-a21a-7190752122ed
+:SEM-FEAT: uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db
+:CHARPOS: 4
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-f44f5f4f-8291-496a-8380-7505e052b7ac][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-4ceaf472-4546-48ef-a21a-7190752122ed][npro.post-Npr]] {[[tls:sem-feat::#uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db][non-narrative]]} / 季布者，楚人也
+** 造父者天下之善馭者也	Although Wang Liang and Zaofu were the best charioteers in the world,
+:PROPERTIES:
+:SRC: XUN 18:6:3, Beida p.297;Knoblock 3:43
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:6a22:1::造父 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-f44f5f4f-8291-496a-8380-7505e052b7ac / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-4ceaf472-4546-48ef-a21a-7190752122ed
+:SEM-FEAT: uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-f44f5f4f-8291-496a-8380-7505e052b7ac][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-4ceaf472-4546-48ef-a21a-7190752122ed][npro.post-Npr]] {[[tls:sem-feat::#uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db][non-narrative]]} / 季布者，楚人也
+** 堯舜者天下之善教化者也	Although yao and Shun were the best at instructing and transforming,
+:PROPERTIES:
+:SRC: XUN 18:6:3, Beida p.297;Knoblock 3:43
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:6a24:1::堯、 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-f44f5f4f-8291-496a-8380-7505e052b7ac / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-4ceaf472-4546-48ef-a21a-7190752122ed
+:SEM-FEAT: uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-f44f5f4f-8291-496a-8380-7505e052b7ac][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-4ceaf472-4546-48ef-a21a-7190752122ed][npro.post-Npr]] {[[tls:sem-feat::#uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db][non-narrative]]} / 季布者，楚人也
+*** 教化@jiàohuà
+:PROPERTIES:
+:CONCEPT: uuid-2f836fa4-e1dd-480e-83b2-22bafd431f1b / TEACH
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 8
+:END:
+教化@jiàohuà	[[tls:concept:TEACH::#uuid-2f836fa4-e1dd-480e-83b2-22bafd431f1b][TEACH]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / conduct education; engage in the teaching of Buddhism
+** 而聖王之生民也	But since under the sage kings everyone was prosporous,
+:PROPERTIES:
+:SRC: XUN 18:7:2, Beida p.298; Knoblock 3:43f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:7a15:1::而聖 / 荀子
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 2
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-c119e7b9-5009-4686-bc89-1d276eb539b8 / REAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+生@shēng	[[tls:concept:REAR::#uuid-c119e7b9-5009-4686-bc89-1d276eb539b8][REAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / rear; nourish; get to flourish; provide for
+** 賢者不得使	and the worthy none to obtain employment.
+:PROPERTIES:
+:SRC: XUN 18:7:4, Beida p.299; Knoblock 3:44
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:8a06:1::賢者 / 荀子
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-f5feebdb-7213-4906-b1dd-aad778d29afd / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-f5feebdb-7213-4906-b1dd-aad778d29afd][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / those who are possessed of moral worth and talent (at a certain time or in a certain place)
+** 危人而自安	'They imperil others to make secure themselves;
+:PROPERTIES:
+:SRC: XUN 18:7:7, Beida p.299; Knoblock 3:44
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:8a35:1::「危 / 荀子
+:CHARPOS: 1
+:END:
+*** 自安@zìān
+:PROPERTIES:
+:CONCEPT: uuid-b0c41f1f-87c0-47f6-b27f-b51892a3da3a / SAFE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 4
+:END:
+自安@zìān	[[tls:concept:SAFE::#uuid-b0c41f1f-87c0-47f6-b27f-b51892a3da3a][SAFE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / keep oneself safe; secure one's own safety
+** 害人而自利	they harm others to profit themselves.'
+:PROPERTIES:
+:SRC: XUN 18:7:7, Beida p.299; Knoblock 3:44
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:8a36:50::害人 / 荀子
+:CHARPOS: 50
+:END:
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-9e4a8687-895a-405e-afc3-80d7c463224b / PROFIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 54
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-9e4a8687-895a-405e-afc3-80d7c463224b][PROFIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / profit (oneself)
+** 王制是也	- these are the regulations of the True King.'
+:PROPERTIES:
+:SRC: XUN 18:9:1, Beida p.302; Knoblock 3:46
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:10a09:1::王制 / 荀子
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-3d42454e-4d41-4669-bc58-6e42a0744ece / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9
+:CHARPOS: 3
+:END:
+是@shì	[[tls:concept:THIS::#uuid-3d42454e-4d41-4669-bc58-6e42a0744ece][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9][copula]]} / be the item(s) referred to (often abstract, typically 者 after main subject); be the items in question 夫國亦有猛狗，用事者是也。 [Contrast SUCH: be a paradigmatic example.]
+** 以聖王為師	should take the sages and kings as guide and master.
+:PROPERTIES:
+:SRC: XUN 18:9:2, Beida p.302; Knoblock 3:46
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:10a10:50::以聖 / 荀子
+:CHARPOS: 50
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 51
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+** 榮辱是也	is the distinction between honor and disgrace.
+:PROPERTIES:
+:SRC: XUN 18:9:2, Beida p.302; Knoblock 3:46
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:10a12:1::榮辱 / 荀子
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-3d42454e-4d41-4669-bc58-6e42a0744ece / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9
+:CHARPOS: 3
+:END:
+是@shì	[[tls:concept:THIS::#uuid-3d42454e-4d41-4669-bc58-6e42a0744ece][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9][copula]]} / be the item(s) referred to (often abstract, typically 者 after main subject); be the items in question 夫國亦有猛狗，用事者是也。 [Contrast SUCH: be a paradigmatic example.]
+** 小人可以有埶榮	Although it is possible that the petty man should possess honors deriving from personal circumstances,
+:PROPERTIES:
+:SRC: XUN 18:10:1, Beida p.302;Knoblock 3:47
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:10a44:1::小人 / 荀子
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-86710c17-18a5-4621-866f-eac5b8c9422e / BAD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+小人@xiǎorén	[[tls:concept:BAD::#uuid-86710c17-18a5-4621-866f-eac5b8c9422e][BAD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / petty person
+** 聖王以為法	Sages and kings used this distinction in their laws,
+:PROPERTIES:
+:SRC: XUN 18:10:2, Beida p.302;Knoblock 3:47
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:10a53:1::聖王 / 荀子
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+** 愿愨之民完衣食	and the attentive and diligent among the common people had the full complement of clothing and food.
+:PROPERTIES:
+:SRC: XUN 18:11:4, Beida p.305; Knoblock 3:48
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_018:13a08:1::愿愨 / 荀子
+:CHARPOS: 1
+:END:
+*** 愿愨@yuànquè
+:PROPERTIES:
+:CONCEPT: uuid-cf7953fd-6f72-47d9-b41e-68d7e346ca19 / FAITHFUL
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:CHARPOS: 1
+:END:
+愿愨@yuànquè	[[tls:concept:FAITHFUL::#uuid-cf7953fd-6f72-47d9-b41e-68d7e346ca19][FAITHFUL]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] / trusty; guileless

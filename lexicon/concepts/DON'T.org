@@ -1,0 +1,267 @@
+# -*- mode: mandoku-tls-view -*-
+#+TITLE: DON'T
+#+DATE: 2017-03-18T10:35:30.668+09:00        
+#+STARTUP: content
+* =CONCEPT= DON'T
+:PROPERTIES:
+:CUSTOM_ID: uuid-40a298a2-0ea4-4660-a410-a1f7029383b3
+:SYNONYM+:  SHOULD NOT
+:SYNONYM+:  MUST NOT
+:TR_ZH: 別
+:END:
+** DEFINITION
+
+COMMAND that one SHOULD NOT to ACT in a DEFINED way.
+
+** NOTES
+
+*** Old Chinese Criteria
+1. The most common prohibitive particle is wù 勿, which usually precedes transitive verbs with omitted objects.
+
+2. Wú 毋 is a prohibitive particle which normally requires that any transitive verb it precedes must retain its object.
+
+3. Wú 無 appears often used for wú 毋, but there is a clear tendency for the word to indicate a generalised "one should not" rather than a "don't" hic et nunc.
+
+*** Modern Chinese Criteria
+別
+
+不要
+
+rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／ LU JIANMING
+
+** POINTERS
+*** SEE ALSO
+ - [[tls:concept:FORBID][FORBID]]
+
+*** KIND OF
+ - [[tls:concept:COMMAND][COMMAND]]
+
+** SOURCE REFERENCES
+*** WANG LI 2000
+ - [[cite:WANG-LI-2000][Wang 王(2000), 王力古漢語字典]], p.83
+
+
+1. WL fails to note the cases where the transitive verbs after 勿 do have objects, and the precise conditions under which the word is NOT a prohibitive negation.
+
+** WORDS
+   :PROPERTIES:
+   :VISIBILITY: children
+   :END:
+*** 勿 wù (OC:mɯd MC:mi̯ut )
+:PROPERTIES:
+:CUSTOM_ID: uuid-ea1c2919-6327-4c98-b72a-128b374cce4c
+:Char+: 勿(20,2/4) 
+:GY_IDS+: uuid-3da462e6-1e3a-4506-ae04-8a52e7d689a4
+:PY+: wù     
+:OC+: mɯd     
+:MC+: mi̯ut     
+:END: 
+****  [[tls:syn-func::#uuid-d8198eab-b339-4c9d-ac6b-efecb23e0f90][vt/0/{NEG}+.Vt/0/(+V)]] / don't Vt1 to Vt2 the determinate object
+:PROPERTIES:
+:CUSTOM_ID: uuid-e9c8b645-649e-48b5-8787-b48a8b3f35d9
+:END:
+****** DEFINITION
+
+don't Vt1 to Vt2 the determinate object
+
+****** NOTES
+
+****  [[tls:syn-func::#uuid-aa507e83-8c2c-4107-afa4-4e37309829f6][vt/0/{NEG}+Vt(oN)]] / don't (verb the object)
+:PROPERTIES:
+:CUSTOM_ID: uuid-2aaeba10-c8f5-4162-8889-ac557d10e0e8
+:WARRING-STATES-CURRENCY: 5
+:END:
+****** DEFINITION
+
+don't (verb the object)
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-7d732a54-12bb-4740-a8d9-ffe87d437805][vt{NEG}.+VtoN]] {[[tls:sem-feat::#uuid-5a020978-1847-439c-abe6-796130177bf1][object=action]]} / don't 勿易之 "do not take this lightly"
+:PROPERTIES:
+:CUSTOM_ID: uuid-ab64ac17-5e35-4ad2-baa5-797634946f26
+:END:
+****** DEFINITION
+
+don't 勿易之 "do not take this lightly"
+
+****** NOTES
+
+*** 毋 wú (OC:ma MC:mi̯o )
+:PROPERTIES:
+:CUSTOM_ID: uuid-e0be3c81-9d2d-493f-929a-ec8cbac3005a
+:Char+: 毋(80,0/4) 
+:GY_IDS+: uuid-56be8bf4-5f36-4e61-b33c-d6d9249ca440
+:PY+: wú     
+:OC+: ma     
+:MC+: mi̯o     
+:END: 
+**** V [[tls:syn-func::#uuid-2dfcc3e0-57a9-49eb-89a3-0107de1438d3][vt/0/{NEG}(+V/0/)]] / don't you> Don't!
+:PROPERTIES:
+:CUSTOM_ID: uuid-ca1f7237-ed95-4690-929e-7f8cab809a97
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+don't you> Don't!
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-7d732a54-12bb-4740-a8d9-ffe87d437805][vt{NEG}.+VtoN]] / don't
+:PROPERTIES:
+:CUSTOM_ID: uuid-424e2488-2314-49ba-bd18-6699aac9d59b
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+don't
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-3e06fcbc-af5e-4edc-b14c-417883c8f6c8][vt{NEG}+Vi]] / don't Vi
+:PROPERTIES:
+:CUSTOM_ID: uuid-347c721a-7a34-49f6-b93d-e08396786e3c
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+don't Vi
+
+****** NOTES
+
+*** 無 wú (OC:ma MC:mi̯o )
+:PROPERTIES:
+:CUSTOM_ID: uuid-f3487d9d-aee5-42e9-ba13-e4b2b2df294a
+:Char+: 無(86,8/12) 
+:GY_IDS+: uuid-5de002ac-c1a1-4519-a177-4a3afcc155bb
+:PY+: wú     
+:OC+: ma     
+:MC+: mi̯o     
+:END: 
+**** V [[tls:syn-func::#uuid-e0b13fa5-8fb2-4122-941b-ef6b1248061d][vt+Vt]] / don't verb any object 無言; don't Vt at any time "don't speak!"; so as not to
+:PROPERTIES:
+:CUSTOM_ID: uuid-574cb326-c847-409c-a1e2-6fc9d1061d6b
+:END:
+****** DEFINITION
+
+don't verb any object 無言; don't Vt at any time "don't speak!"; so as not to
+
+****** NOTES
+
+*** 莫 mò (OC:maaɡ MC:mɑk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-4e132cbe-aadd-4e0e-a3bd-a77e6af3a247
+:Char+: 莫(140,7/13) 
+:GY_IDS+: uuid-c274697f-12db-40b6-b2d5-11c779a53e87
+:PY+: mò     
+:OC+: maaɡ     
+:MC+: mɑk     
+:END: 
+**** V [[tls:syn-func::#uuid-65d93b56-a5a4-48f1-999e-bca54da80015][vt/0/+V/0/]] / (one) should not ??? (Is this a possible analysis???? I am just wondering...)
+:PROPERTIES:
+:CUSTOM_ID: uuid-a4a20fbb-003d-41cd-bf0a-58f4d43f0654
+:END:
+****** DEFINITION
+
+(one) should not ??? (Is this a possible analysis???? I am just wondering...)
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-65d93b56-a5a4-48f1-999e-bca54da80015][vt/0/+V/0/]] {[[tls:sem-feat::#uuid-5924d17a-9c39-4105-b350-8a2501eea07f][personal]]} / prohibitive negative: one should not; don't (usually marking a strong prohibition)
+:PROPERTIES:
+:CUSTOM_ID: uuid-ed6a422f-4eb0-40ba-adf0-ead51c137a3d
+:END:
+****** DEFINITION
+
+prohibitive negative: one should not; don't (usually marking a strong prohibition)
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V/0/]] / don't V(with explicit subject
+:PROPERTIES:
+:CUSTOM_ID: uuid-2dc1ff32-97b9-476f-8e26-08e03218be75
+:END:
+****** DEFINITION
+
+don't V(with explicit subject
+
+****** NOTES
+
+*** 慎勿 shènwù (OC:djins mɯd MC:dʑin mi̯ut )
+:PROPERTIES:
+:CUSTOM_ID: uuid-0fbbf012-c2c2-4b31-b4a0-2b9f772949d7
+:Char+: 慎(61,10/13) 勿(20,2/4) 
+:GY_IDS+: uuid-eaf40a23-c1b4-4cdb-8246-c1dc0b2adb48 uuid-3da462e6-1e3a-4506-ae04-8a52e7d689a4
+:PY+: shèn wù    
+:OC+: djins mɯd    
+:MC+: dʑin mi̯ut    
+:END: 
+**** V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V/0/]] / be careful not to, take care not to!
+:PROPERTIES:
+:CUSTOM_ID: uuid-720af874-7ea8-48a8-8587-6d93176269f0
+:END:
+****** DEFINITION
+
+be careful not to, take care not to!
+
+****** NOTES
+
+*** 無得 wúdé (OC:ma tɯɯɡ MC:mi̯o tək )
+:PROPERTIES:
+:CUSTOM_ID: uuid-b7836eeb-451f-4da3-a7b1-67b898354a19
+:Char+: 無(86,8/12) 得(60,8/11) 
+:GY_IDS+: uuid-5de002ac-c1a1-4519-a177-4a3afcc155bb uuid-2f255ab2-0652-443e-94c1-e442903989f8
+:PY+: wú dé    
+:OC+: ma tɯɯɡ    
+:MC+: mi̯o tək    
+:END: 
+**** V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V/0/]] / one should under no circumstances V
+:PROPERTIES:
+:CUSTOM_ID: uuid-64f8cf2a-d7ab-410f-bf01-f9687acf4a97
+:END:
+****** DEFINITION
+
+one should under no circumstances V
+
+****** NOTES
+
+*** 莫復 mòfù (OC:maaɡ buɡs MC:mɑk bɨu )
+:PROPERTIES:
+:CUSTOM_ID: uuid-8b1b9ddb-409e-4b77-89f7-097c519fa695
+:Char+: 莫(140,7/13) 復(60,9/12) 
+:GY_IDS+: uuid-c274697f-12db-40b6-b2d5-11c779a53e87 uuid-4f0e0f96-1b6f-4b65-852a-19359cf63d37
+:PY+: mò fù    
+:OC+: maaɡ buɡs    
+:MC+: mɑk bɨu    
+:END: 
+**** P [[tls:syn-func::#uuid-eb8abafd-05ff-4ae5-9f85-7417d096299a][PPadV]] / don't in the future
+:PROPERTIES:
+:CUSTOM_ID: uuid-14080d1c-3b5e-48ff-87e1-99255bcbf2c9
+:END:
+****** DEFINITION
+
+don't in the future
+
+****** NOTES
+
+*** 不 bù (OC:pɯʔ MC:pi̯ut )
+:PROPERTIES:
+:CUSTOM_ID: uuid-980abb08-d039-48e4-838a-48ac9d01efdc
+:Char+: 不(1,3/4) 
+:GY_IDS+: uuid-12896cda-5086-41f3-8aeb-21cd406eec3f
+:PY+: bù     
+:OC+: pɯʔ     
+:MC+: pi̯ut     
+:END: 
+**** P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / should not
+:PROPERTIES:
+:CUSTOM_ID: uuid-6eb1555e-1e24-4d70-bccc-69bb80da6d9b
+:END:
+****** DEFINITION
+
+should not
+
+****** NOTES
+
+** BIBLIOGRAPHY
+bibliography:../core/tlsbib.bib

@@ -1,0 +1,32 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_065
+#+DATE: 2017-02-08T16:43:47+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 民之難治也	When the people is difficult to govern,
+:PROPERTIES:
+:SRC: LAO 65.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_065:1a04:1::民之 / 老子
+:CHARPOS: 1
+:END:
+*** 治@chí
+:PROPERTIES:
+:CONCEPT: uuid-a29a401b-fa02-4b9a-a6fd-82bf62087162 / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 4
+:END:
+治@chí	[[tls:concept:GOVERN::#uuid-a29a401b-fa02-4b9a-a6fd-82bf62087162][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be governed; be reduced to proper order
+** 恒知此兩者	The one who (knows:) understands these two [principles]
+:PROPERTIES:
+:SRC: LAO 65.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_065:1a09:1::恒知 / 老子
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303 / THIS
+:SYN-FUNC: uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774
+:SEM-FEAT: uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432
+:CHARPOS: 3
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303][THIS]]	N [[tls:syn-func::#uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774][npro.adN{NUM}:adnpro]] {[[tls:sem-feat::#uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432][N=abstract]]} / 此三者

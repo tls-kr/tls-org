@@ -1,0 +1,59 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_044
+#+DATE: 2017-02-08T16:43:46+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 孰親	which is the most (beloved:) precious;
+:PROPERTIES:
+:SRC: LAO 44.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_044:1a01:50::孰親 / 老子
+:CHARPOS: 50
+:END:
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-aa20e96d-e57a-474b-9ac9-d2cc1804910f / INTIMATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 51
+:END:
+親@qīn	[[tls:concept:INTIMATE::#uuid-aa20e96d-e57a-474b-9ac9-d2cc1804910f][INTIMATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be dear to the heart, be emotionally close; be intimate 太親
+** 身與貨	body (life) and valuables,
+:PROPERTIES:
+:SRC: LAO 44.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_044:1a02:50::身與 / 老子
+:CHARPOS: 50
+:END:
+*** 貨@huò
+:PROPERTIES:
+:CONCEPT: uuid-e250b43f-1399-4a59-aaab-5386db8f941e / PROPERTY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 52
+:END:
+貨@huò	[[tls:concept:PROPERTY::#uuid-e250b43f-1399-4a59-aaab-5386db8f941e][PROPERTY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / goods, commodities; luxury goods, luxury items; especially: items made of metal or jade
+** 是故甚愛	Therefore he who loves greatly (is greedy)
+:PROPERTIES:
+:SRC: LAO 44.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_044:1a04:1::是故 / 老子
+:CHARPOS: 1
+:END:
+*** 是故@shìgù
+:PROPERTIES:
+:CONCEPT: uuid-ce6ec2ab-110e-4aac-b0bd-8044b100fa50 / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-2e959f8a-db74-4130-98f4-38026d957374
+:CHARPOS: 1
+:END:
+是故@shìgù	[[tls:concept:THEREFORE::#uuid-ce6ec2ab-110e-4aac-b0bd-8044b100fa50][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-2e959f8a-db74-4130-98f4-38026d957374][objective reason]]} / for this objective reason: therefore
+** 必大費	will certainly have great expenses,
+:PROPERTIES:
+:SRC: LAO 44.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_044:1a04:50::必大 / 老子
+:CHARPOS: 50
+:END:
+*** 費@fèi
+:PROPERTIES:
+:CONCEPT: uuid-ea7de181-3472-4978-ad7c-9af1725d21cd / EXPENSE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+費@fèi	[[tls:concept:EXPENSE::#uuid-ea7de181-3472-4978-ad7c-9af1725d21cd][EXPENSE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / expenditure; cost; expense; lavish use of resources

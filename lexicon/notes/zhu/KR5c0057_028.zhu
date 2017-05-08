@@ -1,0 +1,59 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_028
+#+DATE: 2017-02-08T16:43:43+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 知其雄	The one who (knows:) realises his manhood (strength)
+:PROPERTIES:
+:SRC: LAO 28.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_028:1a01:50::知其 / 老子
+:CHARPOS: 50
+:END:
+*** 雄@xióng
+:PROPERTIES:
+:CONCEPT: uuid-aeda2541-c421-4872-9383-91143257ca3d / MALE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 52
+:END:
+雄@xióng	[[tls:concept:MALE::#uuid-aeda2541-c421-4872-9383-91143257ca3d][MALE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / maleness
+** 守其雌	and yet retains his femininity (softness),
+:PROPERTIES:
+:SRC: LAO 28.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_028:1a02:50::守其 / 老子
+:CHARPOS: 50
+:END:
+*** 雌@cí
+:PROPERTIES:
+:CONCEPT: uuid-93555c9f-b6d6-45a3-ac71-249fee637344 / FEMALE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 52
+:END:
+雌@cí	[[tls:concept:FEMALE::#uuid-93555c9f-b6d6-45a3-ac71-249fee637344][FEMALE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / feminity; female role
+** 恒德乃足	his constant virtue will be sufficient,
+:PROPERTIES:
+:SRC: LAO 28.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_028:1a17:1::恒德 / 老子
+:CHARPOS: 1
+:END:
+*** 常@cháng
+:PROPERTIES:
+:CONCEPT: uuid-badd5275-a6ec-4a27-9156-0b8000909121 / ENDURING
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+常@cháng	[[tls:concept:ENDURING::#uuid-badd5275-a6ec-4a27-9156-0b8000909121][ENDURING]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / invariant; constant; permanent, enduring, ever-lasting
+** 則為官長	When the Sage uses it (sc. the unworked wood) he will be the leader of all officials.
+:PROPERTIES:
+:SRC: LAO 28.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_028:1a20:5::則為 / 老子
+:CHARPOS: 5
+:END:
+*** 官長@guānzhǎng
+:PROPERTIES:
+:CONCEPT: uuid-f46c7b81-b6ce-46ff-b6e2-ee1005fca550 / OFFICIAL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 7
+:END:
+官長@guānzhǎng	[[tls:concept:OFFICIAL::#uuid-f46c7b81-b6ce-46ff-b6e2-ee1005fca550][OFFICIAL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / head of an administrative office> senior official

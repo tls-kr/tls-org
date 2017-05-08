@@ -1,0 +1,612 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 論衡 KR3j0080_004
+#+DATE: 2017-02-08T16:43:25+0900
+#+PROPERTY: COMMIT 4527326cad354527d529ce18236a9771ae63de14
+** 謂兵燒壓溺也	means war, fire, crushing and drowing.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:28; Beida1979:53; Yang 1999:26; Guizhou 1993:; Hunan1997:27; tr. Forke 1:313
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:1a05:1::謂兵 / 論衡
+:CHARPOS: 1
+:END:
+*** 燒@shāo
+:PROPERTIES:
+:CONCEPT: uuid-caaae02b-293b-46f2-b0d7-45e6ada34329 / BURN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+燒@shāo	[[tls:concept:BURN::#uuid-caaae02b-293b-46f2-b0d7-45e6ada34329][BURN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / the act of setting fire to something
+** 謂稟氣渥薄也	refers to the copiousness and scarcity of the vital energy which one receives 4.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:28; Beida1979:53; Yang 1999:26; Guizhou 1993:; Hunan1997:27; tr. Forke 1:313
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:1a07:1::謂稟 / 論衡
+:CHARPOS: 1
+:END:
+*** 渥@wò
+:PROPERTIES:
+:CONCEPT: uuid-fb59769d-7ccd-43b5-a619-760678a4e29e / ABUNDANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+渥@wò	[[tls:concept:ABUNDANT::#uuid-fb59769d-7ccd-43b5-a619-760678a4e29e][ABUNDANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be abundant (of liquids and gaseous substances; often used figuratively)
+** 兵燒壓溺遭以所稟為命	War and fire, crushing and drowing fall in with the fate which one has received ,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:28; Beida1979:53; Yang 1999:26; Guizhou 1993:; Hunan1997:27; tr. Forke 1:313
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:1a08:50::兵燒 / 論衡
+:CHARPOS: 50
+:END:
+*** 遭@zāo
+:PROPERTIES:
+:CONCEPT: uuid-6f88ef14-f973-43be-aabe-b047dae1380b / ENCOUNTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-f405f949-f2ec-4ce5-9414-0d8801bf0ab0
+:CHARPOS: 54
+:END:
+遭@zāo	[[tls:concept:ENCOUNTER::#uuid-6f88ef14-f973-43be-aabe-b047dae1380b][ENCOUNTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-f405f949-f2ec-4ce5-9414-0d8801bf0ab0][object=negative]]} / run into (negative objects)
+*** 稟@bǐng
+:PROPERTIES:
+:CONCEPT: uuid-10dcde86-0914-4363-8809-7be8c74257b8 / RECEIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 57
+:END:
+稟@bǐng	[[tls:concept:RECEIVE::#uuid-10dcde86-0914-4363-8809-7be8c74257b8][RECEIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / receive; receive passively
+** 若夫彊弱夭壽以百為數	As for the fate of strength and long life, it takes a hundred years as the normal number,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:28; Beida1979:53; Yang 1999:26; Guizhou 1993:; Hunan1997:27; tr. Forke 1:313
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:1a10:1::若夫 / 論衡
+:CHARPOS: 1
+:END:
+*** 若夫@ruòfú
+:PROPERTIES:
+:CONCEPT: uuid-237b18fc-4919-4ab6-a832-ff63f02e97e2 / TOPIC MARKER
+:SYN-FUNC: uuid-1d5f8344-24c6-428f-9228-a1bf2fc1b764
+:SEM-FEAT: uuid-a05803f7-6a13-4922-9692-40d5c8e88f4c
+:CHARPOS: 1
+:END:
+若夫@ruòfú	[[tls:concept:TOPIC MARKER::#uuid-237b18fc-4919-4ab6-a832-ff63f02e97e2][TOPIC MARKER]]	V [[tls:syn-func::#uuid-1d5f8344-24c6-428f-9228-a1bf2fc1b764][VPt+N{TOP}.+S]] {[[tls:sem-feat::#uuid-a05803f7-6a13-4922-9692-40d5c8e88f4c][topic]]} / 若夫Ｘ: as far as X is concerned
+** 夫稟氣渥則其體彊	When one receives much vital energy, then his body becomes strong,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:28; Beida1979:53; Yang 1999:26; Guizhou 1993:; Hunan1997:27; tr. Forke 1:313
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:2a01:1::夫稟 / 論衡
+:CHARPOS: 1
+:END:
+*** 渥@wò
+:PROPERTIES:
+:CONCEPT: uuid-fb59769d-7ccd-43b5-a619-760678a4e29e / ABUNDANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+渥@wò	[[tls:concept:ABUNDANT::#uuid-fb59769d-7ccd-43b5-a619-760678a4e29e][ABUNDANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be abundant (of liquids and gaseous substances; often used figuratively)
+** 體弱則其命短	and the body being weak, life is short.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:28; Beida1979:53; Yang 1999:26; Guizhou 1993:; Hunan1997:27; tr. Forke 1:313
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:2a04:1::體弱 / 論衡
+:CHARPOS: 1
+:END:
+*** 體@tǐ
+:PROPERTIES:
+:CONCEPT: uuid-a900c589-f6b6-4e6c-8e1f-8c3f24e75f39 / BODY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+體@tǐ	[[tls:concept:BODY::#uuid-a900c589-f6b6-4e6c-8e1f-8c3f24e75f39][BODY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / limb, limbs; body as constituted by its parts
+** 壽短	and his life span will beshort.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:28; Beida1979:53; Yang 1999:26; Guizhou 1993:; Hunan1997:27; tr. Forke 1:313
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:2a05:50::壽短 / 論衡
+:CHARPOS: 50
+:END:
+*** 壽@shòu
+:PROPERTIES:
+:CONCEPT: uuid-2e75c5d4-a117-437d-a7a4-9bdbfccace9a / LIVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 50
+:END:
+壽@shòu	[[tls:concept:LIVE::#uuid-2e75c5d4-a117-437d-a7a4-9bdbfccace9a][LIVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / lifetime, span of life (long OR short)
+** 若夫無所遭遇	If people do not meet with any accidents,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:28; Beida1979:53; Yang 1999:27; Guizhou 1993:; Hunan1997:27; tr. Forke 1:313
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:2a10:1::若夫 / 論衡
+:CHARPOS: 1
+:END:
+*** 遭遇@zāoyù
+:PROPERTIES:
+:CONCEPT: uuid-3814a1b4-e672-41dd-99d8-995b511ff412 / ENCOUNTER
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 5
+:END:
+遭遇@zāoyù	[[tls:concept:ENCOUNTER::#uuid-3814a1b4-e672-41dd-99d8-995b511ff412][ENCOUNTER]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / encounter in any way
+** 枯死而墮	but the fruit withers, dies, and drops;
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:29; Beida1979:55; Yang 1999:27; Guizhou 1993:; Hunan1997:28; tr. Forke 1:314
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:3a06:1::枯死 / 論衡
+:CHARPOS: 1
+:END:
+*** 枯@kū
+:PROPERTIES:
+:CONCEPT: uuid-1b091ccc-1cef-4e16-911d-158a9a0430a6 / WITHER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 1
+:END:
+枯@kū	[[tls:concept:WITHER::#uuid-1b091ccc-1cef-4e16-911d-158a9a0430a6][WITHER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / of trees: wither and die
+*** 枯死@kūsǐ
+:PROPERTIES:
+:CONCEPT: uuid-05640fcc-881f-4508-9c21-c3a72794d9aa / WITHER
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CONCEPT: uuid-37e56b14-1ad8-4547-80a1-123a3d47810d / COLLAPSE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 1
+:END:
+枯死@kūsǐ	[[tls:concept:WITHER::#uuid-05640fcc-881f-4508-9c21-c3a72794d9aa][WITHER]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / wither so as to die
+隳@huī / 墮@huī	[[tls:concept:COLLAPSE::#uuid-37e56b14-1ad8-4547-80a1-123a3d47810d][COLLAPSE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / (of walls or buildings or trees:) collapse
+** 則雖形體完	although their forms are complete,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:29; Beida1979:55; Yang 1999:27; Guizhou 1993:; Hunan1997:28; tr. Forke 1:314
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:3a15:1::則雖 / 論衡
+:CHARPOS: 1
+:END:
+*** 形體@xíngtǐ
+:PROPERTIES:
+:CONCEPT: uuid-b4a45f9d-9eea-435f-8a41-cdd72cc248f1 / BODY
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:CHARPOS: 3
+:END:
+形體@xíngtǐ	[[tls:concept:BODY::#uuid-b4a45f9d-9eea-435f-8a41-cdd72cc248f1][BODY]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] / one's body (also: body of the deceased; even overall physical shape of Heaven and earth) 人形體 "human body"
+** 兒生	When a baby is born,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:29; Beida1979:55; Yang 1999:27; Guizhou 1993:; Hunan1997:28; tr. Forke 1:314; tr. Hu Chirui, rev. CH
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:3a18:1::兒生 / 論衡
+:CHARPOS: 1
+:END:
+*** 兒@ér
+:PROPERTIES:
+:CONCEPT: uuid-240fca38-ccb5-4427-9d8c-909eeed0339d / CHILD
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+兒@ér	[[tls:concept:CHILD::#uuid-240fca38-ccb5-4427-9d8c-909eeed0339d][CHILD]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / small child; sometimes: new baby; later also simply: son (of any age)
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-78d9e8d8-d708-4381-afa6-6423f844c3c7 / BIRTH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 2
+:END:
+生@shēng	[[tls:concept:BIRTH::#uuid-78d9e8d8-d708-4381-afa6-6423f844c3c7][BIRTH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / get born; be born
+** 號啼之聲鴻朗高暢者壽	those whose cries are shrill and piercing will live long,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:29; Beida1979:55; Yang 1999:27; Guizhou 1993:; Hunan1997:28; tr. Forke 1:314; tr. Hu Chirui, rev. CH
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:3a19:50::號啼 / 論衡
+:CHARPOS: 50
+:END:
+*** 號啼@háotí
+:PROPERTIES:
+:CONCEPT: uuid-b1ad2ec9-952c-4b99-8baf-1cf3b82630fa / WEEP
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+號啼@háotí	[[tls:concept:WEEP::#uuid-b1ad2ec9-952c-4b99-8baf-1cf3b82630fa][WEEP]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / the act of crying (e.g. of a new-born baby)
+*** 聲@shēng
+:PROPERTIES:
+:CONCEPT: uuid-b3326f77-ca84-4630-ab7f-4b888909a8e4 / SOUND
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:SEM-FEAT: uuid-04a9e8b5-0f83-4189-8c23-2542ebf14f0f
+:CHARPOS: 53
+:END:
+聲@shēng	[[tls:concept:SOUND::#uuid-b3326f77-ca84-4630-ab7f-4b888909a8e4][SOUND]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] {[[tls:sem-feat::#uuid-04a9e8b5-0f83-4189-8c23-2542ebf14f0f][N=creatures]]} / generally: sound made by any creature
+*** 壽@shòu
+:PROPERTIES:
+:CONCEPT: uuid-a2b93789-e159-44ea-b525-041064283287 / OLD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 59
+:END:
+壽@shòu	[[tls:concept:OLD::#uuid-a2b93789-e159-44ea-b525-041064283287][OLD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / enjoy a long life, live out one's span; be long-lived
+** 婦人䟽字者子活	When a woman bears her child at a longer intervals, the child will be fit for life;
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:29; Beida1979:55; Yang 1999:27; Guizhou 1993:; Hunan1997:28; tr. Forke 1:314; tr. Hu Chirui, rev. CH
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:3a24:1::婦人 / 論衡
+:CHARPOS: 1
+:END:
+*** 婦人@fùrén
+:PROPERTIES:
+:CONCEPT: uuid-3fc7ad78-be0b-48ea-9798-8622900250bd / WOMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CONCEPT: uuid-6cd221c0-6782-46e4-bc93-a5bbc7097fd6 / RARE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+婦人@fùrén	[[tls:concept:WOMAN::#uuid-3fc7ad78-be0b-48ea-9798-8622900250bd][WOMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a woman (married or definitely of marriagable age i.e. above 15)
+疏@shū	[[tls:concept:RARE::#uuid-6cd221c0-6782-46e4-bc93-a5bbc7097fd6][RARE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / at long intervals
+*** 活@huó
+:PROPERTIES:
+:CONCEPT: uuid-8d33ccf7-f34e-4902-996f-b1929a14c919 / LIVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 7
+:END:
+活@huó	[[tls:concept:LIVE::#uuid-8d33ccf7-f34e-4902-996f-b1929a14c919][LIVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / remain alive
+** 數乳者子死	when she nourishes a child at frequent intervals, the child will die.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:29; Beida1979:55; Yang 1999:27; Guizhou 1993:; Hunan1997:28; tr. Forke 1:314; tr. Hu Chirui, rev. CH
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:3a25:50::數乳 / 論衡
+:CHARPOS: 50
+:END:
+*** 數@shuò
+:PROPERTIES:
+:CONCEPT: uuid-dbd6bf81-b61d-4874-a764-9e8d82200ccf / OFTEN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+數@shuò	[[tls:concept:OFTEN::#uuid-dbd6bf81-b61d-4874-a764-9e8d82200ccf][OFTEN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / numerous times, frequently; on several occasions; at frequent intervals
+*** 乳@rǔ
+:PROPERTIES:
+:CONCEPT: uuid-14aa8656-5d50-4a2c-a07f-dffcecdcab10 / BIRTH
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 51
+:END:
+乳@rǔ	[[tls:concept:BIRTH::#uuid-14aa8656-5d50-4a2c-a07f-dffcecdcab10][BIRTH]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / give birth to (and foster up) the contextually determinate creature
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-2af39464-6cf4-4e6d-bc88-003c832f3566 / CHILD
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:SEM-FEAT: uuid-663f7a18-307a-4c5f-aadd-7455d054ced8
+:CHARPOS: 53
+:END:
+子@zǐ	[[tls:concept:CHILD::#uuid-2af39464-6cf4-4e6d-bc88-003c832f3566][CHILD]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] {[[tls:sem-feat::#uuid-663f7a18-307a-4c5f-aadd-7455d054ced8][male of female]]} / offspring; child; also: child (i.e. daughter)
+** 子堅彊	and the child will be strong;
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:29; Beida1979:55; Yang 1999:27; Guizhou 1993:; Hunan1997:28; tr. Forke 1:314; tr. Hu Chirui, rev. CH
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:3a29:1::子堅 / 論衡
+:CHARPOS: 1
+:END:
+*** 堅強@jiānqiáng
+:PROPERTIES:
+:CONCEPT: uuid-65762a44-f46e-4c93-9297-253a9842fc78 / STRONG
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 1
+:END:
+堅強@jiānqiáng	[[tls:concept:STRONG::#uuid-65762a44-f46e-4c93-9297-253a9842fc78][STRONG]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be very tough or strong
+** 子軟弱也	and the child will be wheakness.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:29; Beida1979:55; Yang 1999:27; Guizhou 1993:; Hunan1997:28; tr. Forke 1:314; tr. Hu Chirui, rev. CH
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:3a31:1::子軟 / 論衡
+:CHARPOS: 1
+:END:
+*** 軟弱@ruǎnruò
+:PROPERTIES:
+:CONCEPT: uuid-21c38062-c25f-460f-b0e6-87124f6082a8 / WEAK
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 2
+:END:
+軟弱@ruǎnruò	[[tls:concept:WEAK::#uuid-21c38062-c25f-460f-b0e6-87124f6082a8][WEAK]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be very weak (as a baby at birth)
+** 所產子死所懷子凶者	The child who have been born is died, and the fondling is doomed to be ominous,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:29; Beida1979:55; Yang 1999:27; Guizhou 1993:; Hunan1997:28; tr. Forke 1:314
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:3a37:1::所產 / 論衡
+:CHARPOS: 1
+:END:
+*** 產@chǎn
+:PROPERTIES:
+:CONCEPT: uuid-3959b4e8-c1f1-4a46-b132-78c130e24ec2 / BIRTH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+產@chǎn	[[tls:concept:BIRTH::#uuid-3959b4e8-c1f1-4a46-b132-78c130e24ec2][BIRTH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be delivered of, give birth to
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-f521f979-92eb-42b7-bc3e-c719d4d1aece / INAUSPICIOUS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-9dc3f28d-b073-4711-a1bb-bdb3615e6896
+:CHARPOS: 8
+:END:
+凶@xiōng	[[tls:concept:INAUSPICIOUS::#uuid-f521f979-92eb-42b7-bc3e-c719d4d1aece][INAUSPICIOUS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-9dc3f28d-b073-4711-a1bb-bdb3615e6896][non-graded]]} / be ominous, baleful, ill-omened, inauspicious
+** 字乳亟數	because her[a mother] bearing child is frequent,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:29; Beida1979:55; Yang 1999:27; Guizhou 1993:; Hunan1997:28; tr. Forke 1:314
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:3a38:50::字乳 / 論衡
+:CHARPOS: 50
+:END:
+*** 字@zì
+:PROPERTIES:
+:CONCEPT: uuid-87badb4d-7beb-47d6-a287-9850122b6f3d / BIRTH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+字@zì	[[tls:concept:BIRTH::#uuid-87badb4d-7beb-47d6-a287-9850122b6f3d][BIRTH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / have children
+*** 乳@rǔ
+:PROPERTIES:
+:CONCEPT: uuid-26ab8f9e-8908-4f82-a39e-f95a13517b01 / FEED
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 51
+:END:
+乳@rǔ	[[tls:concept:FEED::#uuid-26ab8f9e-8908-4f82-a39e-f95a13517b01][FEED]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / give milk, feed children
+*** 亟@qì
+:PROPERTIES:
+:CONCEPT: uuid-671926ce-d350-4315-810e-3f014278bd8e / OFTEN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+亟@qì	[[tls:concept:OFTEN::#uuid-671926ce-d350-4315-810e-3f014278bd8e][OFTEN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / often
+** 雖成人形體	Though a human body can be formed,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:29; Beida1979:55; Yang 1999:27; Guizhou 1993:; Hunan1997:28; tr. Forke 1:314
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:3a40:1::雖成 / 論衡
+:CHARPOS: 1
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-53ed3b94-79eb-4909-aec5-295be255d1b8 / HUMAN
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-53ed3b94-79eb-4909-aec5-295be255d1b8][HUMAN]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / human, designated for men, belonging to human beings; designed for human consumption
+*** 形體@xíngtǐ
+:PROPERTIES:
+:CONCEPT: uuid-b4a45f9d-9eea-435f-8a41-cdd72cc248f1 / BODY
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:CHARPOS: 4
+:END:
+形體@xíngtǐ	[[tls:concept:BODY::#uuid-b4a45f9d-9eea-435f-8a41-cdd72cc248f1][BODY]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] / one's body (also: body of the deceased; even overall physical shape of Heaven and earth) 人形體 "human body"
+** 名男子為丈夫	Therefore a man is called Zhàng Fū, (P.29)
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:29; Beida1979:56; Yang 1999:27; Guizhou 1993:; Hunan1997:29; tr. Forke 1:314
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:4a08:1::名男 / 論衡
+:CHARPOS: 1
+:END:
+*** 丈夫@zhàngfū
+:PROPERTIES:
+:CONCEPT: uuid-61c51f00-da4f-40c4-9922-9d344c6da2ea / MALE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f4e97457-afe2-413e-8537-d023e93d6605
+:CHARPOS: 5
+:END:
+丈夫@zhàngfū	[[tls:concept:MALE::#uuid-61c51f00-da4f-40c4-9922-9d344c6da2ea][MALE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f4e97457-afe2-413e-8537-d023e93d6605][adult]]} / adult male
+** 語曰	There is a saying that,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:30; Beida1979:57; Yang 1999:27; Guizhou 1993:; Hunan1997:29; tr. Forke 1:315
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:4a20:1::語曰 / 論衡
+:CHARPOS: 1
+:END:
+*** 語@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-d5a6d195-6fba-4829-8f2e-3f62837171da / PROVERB
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 1
+:END:
+語@yǔ	[[tls:concept:PROVERB::#uuid-d5a6d195-6fba-4829-8f2e-3f62837171da][PROVERB]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / proverb; sometimes also attributed to a place 宋人語曰
+** 圖王不成	if one aspires to a royalty and does not succeed,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:30; Beida1979:57; Yang 1999:27; Guizhou 1993:; Hunan1997:29; tr. Forke 1:315
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:4a21:50::「圖 / 論衡
+:CHARPOS: 50
+:END:
+*** 圖@tú
+:PROPERTIES:
+:CONCEPT: uuid-cb94e149-59d4-4ee5-b12b-945091f046b0 / INTEND
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 50
+:END:
+圖@tú	[[tls:concept:INTEND::#uuid-cb94e149-59d4-4ee5-b12b-945091f046b0][INTEND]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / plan to
+*** 王@wàng
+:PROPERTIES:
+:CONCEPT: uuid-41721804-8159-42b3-8af9-b5bc09ed6036 / GOVERN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 51
+:END:
+王@wàng	[[tls:concept:GOVERN::#uuid-41721804-8159-42b3-8af9-b5bc09ed6036][GOVERN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / gain royal supremacy, reign supreme; become a king, get to rule as king; become a proper king
+** 其弊可以霸	backing up a step he can be a leading prince.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:30; Beida1979:57; Yang 1999:27; Guizhou 1993:; Hunan1997:29; tr. Forke 1:315
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:4a22:50::其弊 / 論衡
+:CHARPOS: 50
+:END:
+*** 霸@bà / @
+:PROPERTIES:
+:CONCEPT: uuid-9a1c8965-c931-4837-9f42-c85186e58e58 / RULER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+霸@bà / @	[[tls:concept:RULER::#uuid-9a1c8965-c931-4837-9f42-c85186e58e58][RULER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / assert oneself as hegemon; become leader, preeminent ruler, or hegemon; come to act as leading person; become the leading state
+** 霸者王之弊也	Leading princes are the reduced state of royalty.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:30; Beida1979:57; Yang 1999:27; Guizhou 1993:; Hunan1997:29; tr. Forke 1:315
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:4a23:50::霸者 / 論衡
+:CHARPOS: 50
+:END:
+*** 霸@bà / @
+:PROPERTIES:
+:CONCEPT: uuid-907fb213-c087-49d8-abdd-e3bd51357b13 / RULER
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CONCEPT: uuid-f323656b-abb6-457e-afdf-27b5f9964efc / ACHIEVE
+:SYN-FUNC: uuid-e2cdf96d-d070-49f4-ba05-22709261fcfc
+:CHARPOS: 50
+:END:
+霸@bà / @	[[tls:concept:RULER::#uuid-907fb213-c087-49d8-abdd-e3bd51357b13][RULER]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / leader; paramount leader, hegemon 五霸
+〓:至@zhì	[[tls:concept:ACHIEVE::#uuid-f323656b-abb6-457e-afdf-27b5f9964efc][ACHIEVE]]	V [[tls:syn-func::#uuid-e2cdf96d-d070-49f4-ba05-22709261fcfc][vt+prep+Nab{ACT}]] / get to the point of V-ing
+** 退而為霸	one can retire to become a leading prince;
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:30; Beida1979:57; Yang 1999:27; Guizhou 1993:; Hunan1997:29; tr. Forke 1:315
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:4a26:1::退而 / 論衡
+:CHARPOS: 1
+:END:
+*** 霸@bà / @
+:PROPERTIES:
+:CONCEPT: uuid-907fb213-c087-49d8-abdd-e3bd51357b13 / RULER
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 4
+:END:
+霸@bà / @	[[tls:concept:RULER::#uuid-907fb213-c087-49d8-abdd-e3bd51357b13][RULER]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / leader; paramount leader, hegemon 五霸
+** 以其形體小大長短同一等也	and because their bodies are as big and as tall as that of others.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:30; Beida1979:57; Yang 1999:27; Guizhou 1993:; Hunan1997:29; tr. Forke 1:315
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:4a35:1::以其 / 論衡
+:CHARPOS: 1
+:END:
+*** 形體@xíngtǐ
+:PROPERTIES:
+:CONCEPT: uuid-b4a45f9d-9eea-435f-8a41-cdd72cc248f1 / BODY
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:CHARPOS: 3
+:END:
+形體@xíngtǐ	[[tls:concept:BODY::#uuid-b4a45f9d-9eea-435f-8a41-cdd72cc248f1][BODY]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] / one's body (also: body of the deceased; even overall physical shape of Heaven and earth) 人形體 "human body"
+** 鳥獸與人異形	The bodies of birds and animals are different from the bodies of men,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:30; Beida1979:57; Yang 1999:27; Guizhou 1993:; Hunan1997:29; tr. Forke 1:315
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:4a40:1::鳥獸 / 論衡
+:CHARPOS: 1
+:END:
+*** 鳥獸@niǎoshòu
+:PROPERTIES:
+:CONCEPT: uuid-4833751e-7680-42dd-a3bd-352e2faa2a4b / ANIMAL
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+鳥獸@niǎoshòu	[[tls:concept:ANIMAL::#uuid-4833751e-7680-42dd-a3bd-352e2faa2a4b][ANIMAL]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / birds and beasts
+** 儒者說曰	The Confucians say,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:30; Beida1979:58; Yang 1999:28; Guizhou 1993:; Hunan1997:30; tr. Forke 1:315
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:5a03:1::儒者 / 論衡
+:CHARPOS: 1
+:END:
+*** 儒者@rúzhě
+:PROPERTIES:
+:CONCEPT: uuid-80b5755b-67ee-4f9d-8e26-25395c21e35f / SCHOLAR
+:SYN-FUNC: uuid-e6a1583b-b641-4432-bdfa-875626f4526d
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+儒者@rúzhě	[[tls:concept:SCHOLAR::#uuid-80b5755b-67ee-4f9d-8e26-25395c21e35f][SCHOLAR]]	N [[tls:syn-func::#uuid-e6a1583b-b641-4432-bdfa-875626f4526d][NP{nadnpro}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / scholars; sometimes, especially when used in opposition to 墨者: Confucians
+** 太平之時	During the time of universal peace,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:30; Beida1979:58; Yang 1999:28; Guizhou 1993:; Hunan1997:30; tr. Forke 1:315
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:5a04:50::「太 / 論衡
+:CHARPOS: 50
+:END:
+*** 太平@tàipíng
+:PROPERTIES:
+:CONCEPT: uuid-ae3e69c5-0986-45b7-a60a-ae96564f980e / PEACE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 50
+:END:
+太平@tàipíng	[[tls:concept:PEACE::#uuid-ae3e69c5-0986-45b7-a60a-ae96564f980e][PEACE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / peace; times of universal peace; era of great peace
+** 求禪得舜	He wished to abdicate and found Shùn.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:30; Beida1979:58; Yang 1999:28; Guizhou 1993:; Hunan1997:30; tr. Forke 1:315
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:5a09:1::求禪 / 論衡
+:CHARPOS: 1
+:END:
+*** 禪@shàn
+:PROPERTIES:
+:CONCEPT: uuid-10f5a69e-7820-49a6-8c2d-460491fbce94 / ABDICATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+禪@shàn	[[tls:concept:ABDICATE::#uuid-10f5a69e-7820-49a6-8c2d-460491fbce94][ABDICATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / abdicate
+** 今計數百有餘矣	If counting all these numbers he must be over a hundred years.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:31; Beida1979:58; Yang 1999:28; Guizhou 1993:; Hunan1997:30; tr. Forke 1:316
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:5a16:1::今計 / 論衡
+:CHARPOS: 1
+:END:
+*** 計@jì
+:PROPERTIES:
+:CONCEPT: uuid-15498776-a9dc-46c4-904a-3ce3bb7bda63 / COUNT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+計@jì	[[tls:concept:COUNT::#uuid-15498776-a9dc-46c4-904a-3ce3bb7bda63][COUNT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / calculate; count, count in; count precisely
+*** 數@shù
+:PROPERTIES:
+:CONCEPT: uuid-96d9a499-b5fe-4995-ab4a-169c28c8d6fc / NUMBER
+:SYN-FUNC: uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693
+:CHARPOS: 3
+:END:
+數@shù	[[tls:concept:NUMBER::#uuid-96d9a499-b5fe-4995-ab4a-169c28c8d6fc][NUMBER]]	N [[tls:syn-func::#uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693][nab.post-N]] / quantity; Anzahl; (magical) number e.g. 用六數 "uses the number six; use sextuplets of things".
+** 文王九十七而薨	King Wén was ninety-seven years old when he died,
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:31; Beida1979:58; Yang 1999:28; Guizhou 1993:; Hunan1997:30; tr. Forke 1:316
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:5a27:1::文王 / 論衡
+:CHARPOS: 1
+:END:
+*** 薨@hōng
+:PROPERTIES:
+:CONCEPT: uuid-3491d41c-1515-4aa6-a15d-9f22f38a798f / DIE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 7
+:END:
+薨@hōng	[[tls:concept:DIE::#uuid-3491d41c-1515-4aa6-a15d-9f22f38a798f][DIE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / of senior officials: die [occasionally also used to refer to the death of an emperor]
+** 故太平之世多長壽人	therefore during the age of universal peace the number of long-lived persons was great.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:33; Beida1979:58; Yang 1999:28; Guizhou 1993:; Hunan1997:30; tr. Forke 1:316
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:5a44:1::故太 / 論衡
+:CHARPOS: 1
+:END:
+*** 太平@tàipíng
+:PROPERTIES:
+:CONCEPT: uuid-ae3e69c5-0986-45b7-a60a-ae96564f980e / PEACE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 2
+:END:
+太平@tàipíng	[[tls:concept:PEACE::#uuid-ae3e69c5-0986-45b7-a60a-ae96564f980e][PEACE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / peace; times of universal peace; era of great peace
+** 或增百歲或減百也	are similar to men whose life either exceeds or falls short of a hundred years.
+:PROPERTIES:
+:SRC: LH 4; Liu 1990:33; Beida1979:58; Yang 1999:28; Guizhou 1993:; Hunan1997:30; tr. Forke 1:316
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_004:5a50:1::或增 / 論衡
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-0a043aa6-01b0-4385-84d5-f6ee201d4c54 / SOMETIMES
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:SOMETIMES::#uuid-0a043aa6-01b0-4385-84d5-f6ee201d4c54][SOMETIMES]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / on some occasions... on other occasions; sometimes..., at other times

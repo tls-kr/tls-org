@@ -1,0 +1,271 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 孫子 KR3b0003_002
+#+DATE: 2017-02-08T16:41:51+0900
+#+PROPERTY: COMMIT f58b107877af9acbe27a2ae64200a849f16ab283
+** 孫子曰	
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_002:1a01:50::孫子 / 孫子
+:CHARPOS: 50
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-8fff2d95-8f01-41c6-9344-b798d74d2831 / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8
+:CHARPOS: 52
+:END:
+曰@yuē	[[tls:concept:SPEAK::#uuid-8fff2d95-8f01-41c6-9344-b798d74d2831][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8][direct-speech]]} / say: S
+** 凡用兵之法	
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_002:1a02:50::凡用 / 孫子
+:CHARPOS: 50
+:END:
+*** 凡@fán
+:PROPERTIES:
+:CONCEPT: uuid-83695ee9-30e3-43f7-b6b7-62dea98c9f15 / ALL
+:SYN-FUNC: uuid-50cd6a6c-4fc5-4a7b-ae99-ddea8e058be6
+:SEM-FEAT: uuid-e1ab4451-8fe1-4dd6-af69-3cddf5e39540
+:CHARPOS: 50
+:END:
+凡@fán	[[tls:concept:ALL::#uuid-83695ee9-30e3-43f7-b6b7-62dea98c9f15][ALL]]	V [[tls:syn-func::#uuid-50cd6a6c-4fc5-4a7b-ae99-ddea8e058be6][vadN{TOPIC}.+V{COMMENT}]] {[[tls:sem-feat::#uuid-e1ab4451-8fe1-4dd6-af69-3cddf5e39540][V=non-narrative]]} / as a matter of principle, speaking in general of (the topic);
+*** 用@yòng
+:PROPERTIES:
+:CONCEPT: uuid-dc6556a7-3f98-425e-b81d-cdedb8fa5b3b / EMPLOY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+用@yòng	[[tls:concept:EMPLOY::#uuid-dc6556a7-3f98-425e-b81d-cdedb8fa5b3b][EMPLOY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / make use of the services of (a horse etc), employ (armed force etc); employ (a person); make proper use of
+*** 兵@bīng
+:PROPERTIES:
+:CONCEPT: uuid-52412632-776f-43da-a2d7-596a55a8b1e8 / ARMY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 52
+:END:
+兵@bīng	[[tls:concept:ARMY::#uuid-52412632-776f-43da-a2d7-596a55a8b1e8][ARMY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / troops, armed forces; military support; military force
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-d3c399f1-6339-44ae-bfab-a3f781efdceb / GENITIVE PARTICLES
+:SYN-FUNC: uuid-db3e24ed-d18b-454f-9f8f-47822681721b
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:GENITIVE PARTICLES::#uuid-d3c399f1-6339-44ae-bfab-a3f781efdceb][GENITIVE PARTICLES]]	 [[tls:syn-func::#uuid-db3e24ed-d18b-454f-9f8f-47822681721b][npropostN1.adN2]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / NP2 is a feature or characteristic of NP1 父之道
+*** 法@fǎ
+:PROPERTIES:
+:CONCEPT: uuid-7b141934-447f-4522-ad9d-ae02cdbaf6ba / METHOD
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 54
+:END:
+法@fǎ	[[tls:concept:METHOD::#uuid-7b141934-447f-4522-ad9d-ae02cdbaf6ba][METHOD]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / method; model ( we can say cǐ fǎ 此法 "this method")
+** 馳車千駟	
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_002:1a03:50::馳車 / 孫子
+:CHARPOS: 50
+:END:
+*** 馳車@chíchē
+:PROPERTIES:
+:CONCEPT: uuid-cf4b1b35-692a-4b59-8484-a5bedf650a5b / VEHICLE
+:SYN-FUNC: uuid-974ae899-afc0-41a9-ab2e-e418a95d76c9
+:CHARPOS: 50
+:END:
+馳車@chíchē	[[tls:concept:VEHICLE::#uuid-cf4b1b35-692a-4b59-8484-a5bedf650a5b][VEHICLE]]	N [[tls:syn-func::#uuid-974ae899-afc0-41a9-ab2e-e418a95d76c9][NPc]] / military technical term: light battle chariot
+*** 千@qiān
+:PROPERTIES:
+:CONCEPT: uuid-f80228fd-9932-4a49-a7a6-e65b5363734f / THOUSAND
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-b9ab3d43-7185-4009-a096-329b5ccea73b
+:CHARPOS: 52
+:END:
+千@qiān	[[tls:concept:THOUSAND::#uuid-f80228fd-9932-4a49-a7a6-e65b5363734f][THOUSAND]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-b9ab3d43-7185-4009-a096-329b5ccea73b][number]]} / one thousand
+** 革車千乘	
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_002:1a04:50::革車 / 孫子
+:CHARPOS: 50
+:END:
+*** 革@gé
+:PROPERTIES:
+:CONCEPT: uuid-e8acbe3b-d434-4f72-9b23-46579fc518f2 / ARMOUR
+:SYN-FUNC: uuid-a51b30e7-dffc-4a3d-b4f7-2dccf9eee4a9
+:CHARPOS: 50
+:END:
+革@gé	[[tls:concept:ARMOUR::#uuid-e8acbe3b-d434-4f72-9b23-46579fc518f2][ARMOUR]]	N [[tls:syn-func::#uuid-a51b30e7-dffc-4a3d-b4f7-2dccf9eee4a9][nmadN]] / armoured with hardened leather
+*** 革車@géchē
+:PROPERTIES:
+:CONCEPT: uuid-b363edfd-4d02-4f99-859d-76160e5ba3aa / VEHICLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 50
+:END:
+革車@géchē	[[tls:concept:VEHICLE::#uuid-b363edfd-4d02-4f99-859d-76160e5ba3aa][VEHICLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / military technical term: heavy leather-covered battle wagon
+*** 千@qiān
+:PROPERTIES:
+:CONCEPT: uuid-f80228fd-9932-4a49-a7a6-e65b5363734f / THOUSAND
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-b9ab3d43-7185-4009-a096-329b5ccea73b
+:CHARPOS: 52
+:END:
+千@qiān	[[tls:concept:THOUSAND::#uuid-f80228fd-9932-4a49-a7a6-e65b5363734f][THOUSAND]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-b9ab3d43-7185-4009-a096-329b5ccea73b][number]]} / one thousand
+*** 乘@chéng
+:PROPERTIES:
+:CONCEPT: uuid-191ea8fc-33a5-415b-aa50-e3f3f060831d / VEHICLE
+:SYN-FUNC: uuid-1045a7a4-cbbc-445a-a976-14a787864971
+:SEM-FEAT: uuid-14056dfd-9bb3-49e4-93d1-93de5283e702
+:CHARPOS: 53
+:END:
+乘@chéng	[[tls:concept:VEHICLE::#uuid-191ea8fc-33a5-415b-aa50-e3f3f060831d][VEHICLE]]	N [[tls:syn-func::#uuid-1045a7a4-cbbc-445a-a976-14a787864971][ncpost-V{NUM}.post-N]] {[[tls:sem-feat::#uuid-14056dfd-9bb3-49e4-93d1-93de5283e702][classifier]]} / classifier for carts
+** 帶甲十萬	
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_002:1a05:50::帶甲 / 孫子
+:CHARPOS: 50
+:END:
+*** 帶甲@dàijiǎ
+:PROPERTIES:
+:CONCEPT: uuid-52e3caec-b556-44ca-8341-ccfa9f9e1ff8 / SOLDIER
+:SYN-FUNC: uuid-a3d8af0d-dd9b-4534-a5b3-501bedb6c821
+:CHARPOS: 50
+:END:
+帶甲@dàijiǎ	[[tls:concept:SOLDIER::#uuid-52e3caec-b556-44ca-8341-ccfa9f9e1ff8][SOLDIER]]	N [[tls:syn-func::#uuid-a3d8af0d-dd9b-4534-a5b3-501bedb6c821][NP{vtoN1(.adN2)}]] / armored soldier
+*** 十萬@shíwàn
+:PROPERTIES:
+:CONCEPT: uuid-a823a323-cde4-4763-b509-63d364f526c9 / NUMBER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-b9ab3d43-7185-4009-a096-329b5ccea73b
+:CHARPOS: 52
+:END:
+十萬@shíwàn	[[tls:concept:NUMBER::#uuid-a823a323-cde4-4763-b509-63d364f526c9][NUMBER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-b9ab3d43-7185-4009-a096-329b5ccea73b][number]]} / to be of amount of hundred thousand
+** 千里饋糧	
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_002:1a06:50::千里 / 孫子
+:CHARPOS: 50
+:END:
+*** 千里@qiānlǐ
+:PROPERTIES:
+:CONCEPT: uuid-d3c987fd-7a40-45b4-988d-b93853f3f6c6 / LENGTH MEASURES
+:SYN-FUNC: uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a
+:CHARPOS: 50
+:END:
+千里@qiānlǐ	[[tls:concept:LENGTH MEASURES::#uuid-d3c987fd-7a40-45b4-988d-b93853f3f6c6][LENGTH MEASURES]]	N [[tls:syn-func::#uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a][NPadV]] / at (over) a distance of one thousand Li
+*** 糧@liáng
+:PROPERTIES:
+:CONCEPT: uuid-b006f55f-3424-4c57-b505-1bdbc14e7db3 / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 53
+:END:
+糧@liáng	[[tls:concept:FOOD::#uuid-b006f55f-3424-4c57-b505-1bdbc14e7db3][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / grain, provisions; food rations for travel; provisions, rations
+** 則內外之費賓客之用	including the entertainment of guests,
+:PROPERTIES:
+:SRC: SUN 2.1.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_002:1a07:50::則內 / 孫子
+:CHARPOS: 50
+:END:
+*** 內@nèi
+:PROPERTIES:
+:CONCEPT: uuid-f5caa841-7dad-4415-b129-5d3afb4419bb / INSIDE
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 51
+:END:
+內@nèi	[[tls:concept:INSIDE::#uuid-f5caa841-7dad-4415-b129-5d3afb4419bb][INSIDE]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / SHI, the inside; the inner chambers; ZUO: those inside; Inside the State
+*** 外@wài
+:PROPERTIES:
+:CONCEPT: uuid-5af59f5a-6ae5-467e-af45-7c0f561a2817 / OUTSIDE
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 52
+:END:
+外@wài	[[tls:concept:OUTSIDE::#uuid-5af59f5a-6ae5-467e-af45-7c0f561a2817][OUTSIDE]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / Outside the country, outside the state
+*** 費@fèi
+:PROPERTIES:
+:CONCEPT: uuid-ea7de181-3472-4978-ad7c-9af1725d21cd / EXPENSE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+費@fèi	[[tls:concept:EXPENSE::#uuid-ea7de181-3472-4978-ad7c-9af1725d21cd][EXPENSE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / expenditure; cost; expense; lavish use of resources
+*** 用@yòng
+:PROPERTIES:
+:CONCEPT: uuid-98846167-7851-4a84-b4d9-b5266ad97d5e / FUNCTION
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 58
+:END:
+用@yòng	[[tls:concept:FUNCTION::#uuid-98846167-7851-4a84-b4d9-b5266ad97d5e][FUNCTION]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / function, effect; use in action (of words)in the BUDDH. context often contrasted to 體 'essence'
+*** 賓客@bīnkè
+:PROPERTIES:
+:CONCEPT: uuid-8a8d4e6f-fb49-438c-8811-2274b1658355 / GUEST
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 55
+:END:
+賓客@bīnkè	[[tls:concept:GUEST::#uuid-8a8d4e6f-fb49-438c-8811-2274b1658355][GUEST]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / (military) advisers, hired from outside the state
+** 膠漆之材	small items such as glue or paint,
+:PROPERTIES:
+:SRC: SUN 2.1.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_002:1a08:50::膠漆 / 孫子
+:CHARPOS: 50
+:END:
+*** 膠@jiāo
+:PROPERTIES:
+:CONCEPT: uuid-84022b9d-0666-4780-9d8b-3ed448425070 / GLUE
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 50
+:END:
+膠@jiāo	[[tls:concept:GLUE::#uuid-84022b9d-0666-4780-9d8b-3ed448425070][GLUE]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / glue
+*** 漆@qī
+:PROPERTIES:
+:CONCEPT: uuid-7cf58b78-b9fa-4083-9b0e-2a2aecdcf64b / LACQUER
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 51
+:END:
+漆@qī	[[tls:concept:LACQUER::#uuid-7cf58b78-b9fa-4083-9b0e-2a2aecdcf64b][LACQUER]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / lacquer
+*** 材@cái
+:PROPERTIES:
+:CONCEPT: uuid-c85b84f1-f304-4add-8783-d540486cdfe3 / SUBSTANCE
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 53
+:END:
+材@cái	[[tls:concept:SUBSTANCE::#uuid-c85b84f1-f304-4add-8783-d540486cdfe3][SUBSTANCE]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / material substance of any kind
+** 車甲之奉	and sums spent on chariots and armour,
+:PROPERTIES:
+:SRC: SUN 2.1.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_002:1a09:50::車甲 / 孫子
+:CHARPOS: 50
+:END:
+*** 車@chē / 車@jū
+:PROPERTIES:
+:CONCEPT: uuid-34fa18b8-abe2-4627-a909-5a04675e2940 / VEHICLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+車@chē / 車@jū	[[tls:concept:VEHICLE::#uuid-34fa18b8-abe2-4627-a909-5a04675e2940][VEHICLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / vehicles, chariots of any kind
+*** 甲@jiǎ
+:PROPERTIES:
+:CONCEPT: uuid-533875d4-7dbb-4f69-b3d2-fe2bf70a4235 / ARMOUR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+甲@jiǎ	[[tls:concept:ARMOUR::#uuid-533875d4-7dbb-4f69-b3d2-fe2bf70a4235][ARMOUR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / armour made of leather [often lacquered Jakob Marsalek]
+** 未之有也	having benefited from prolonged warfare.
+:PROPERTIES:
+:SRC: SUN 2.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_002:1a24:1::未之 / 孫子
+:CHARPOS: 1
+:END:
+*** 有@yǒu
+:PROPERTIES:
+:CONCEPT: uuid-cf2d7893-a0bc-469d-a887-03435f53909f / HAPPEN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+有@yǒu	[[tls:concept:HAPPEN::#uuid-cf2d7893-a0bc-469d-a887-03435f53909f][HAPPEN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / have happened 有諸 "has this happened"

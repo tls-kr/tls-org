@@ -1,0 +1,31 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_060
+#+DATE: 2017-02-08T16:43:47+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 治大國若烹小鮮	To govern a great state is like cooking small fishes.
+:PROPERTIES:
+:SRC: LAO 60.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_060:1a01:50::治大 / 老子
+:CHARPOS: 50
+:END:
+*** 鮮@xiān
+:PROPERTIES:
+:CONCEPT: uuid-d01d523f-a36c-45c7-9f79-1a1b6ee10921 / FISHES
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 56
+:END:
+鮮@xiān	[[tls:concept:FISHES::#uuid-d01d523f-a36c-45c7-9f79-1a1b6ee10921][FISHES]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / small fish
+** 夫兩不相傷	Since both parts [spirits and the Sage] do not together make any harm,
+:PROPERTIES:
+:SRC: LAO 60.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_060:1a08:1::夫兩 / 老子
+:CHARPOS: 1
+:END:
+*** 相@xiàng / 相@xiāng
+:PROPERTIES:
+:CONCEPT: uuid-8cb7c145-7fd2-4a82-b399-024db3211ddf / PRONOUN
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 4
+:END:
+相@xiàng / 相@xiāng	[[tls:concept:PRONOUN::#uuid-8cb7c145-7fd2-4a82-b399-024db3211ddf][PRONOUN]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the object(s), this, him; them; the other

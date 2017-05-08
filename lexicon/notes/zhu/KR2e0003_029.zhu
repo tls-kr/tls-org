@@ -1,0 +1,382 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_029
+#+DATE: 2017-02-08T16:41:10+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 而藉兵乞食於西周	They were expecting food and troops from West Chou.
+:PROPERTIES:
+:SRC: ZGC 2.1.1; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a03:1::而藉 / 戰國策
+:CHARPOS: 1
+:END:
+*** 乞@qǐ
+:PROPERTIES:
+:CONCEPT: uuid-868e3911-220b-47de-b519-624b2820918e / BEG
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 4
+:END:
+乞@qǐ	[[tls:concept:BEG::#uuid-868e3911-220b-47de-b519-624b2820918e][BEG]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / ask (something N1) (from someone N2)　乞諸其鄰
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-cd902983-7a39-4205-b48c-0394ac183b08 / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 5
+:END:
+食@shí	[[tls:concept:FOOD::#uuid-cd902983-7a39-4205-b48c-0394ac183b08][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / Note that Lù Démíng reads this meaning as sì in several places of 經典釋文: provisions; food supply; staple food; food for general sustenance while at home; (e.g. beg for) something to eat; food supplies; fodder (e.g. for horses)
+** 九年而取宛葉以北以強韓魏	and after nine years of fighting secured the area north of Yyan and She to add to the power of Han and Wei.
+:PROPERTIES:
+:SRC: ZGC 2.1.1; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a06:1::九年 / 戰國策
+:CHARPOS: 1
+:END:
+*** 取@qǔ
+:PROPERTIES:
+:CONCEPT: uuid-24ab0ec0-7ba6-4253-a2d2-dffa4a8dca39 / WIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+取@qǔ	[[tls:concept:WIN::#uuid-24ab0ec0-7ba6-4253-a2d2-dffa4a8dca39][WIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / attack successfully, take or conquer (a city or a city state) by military force; obtain (a desirable position); win the allegiance of (the people)
+*** 強@qiáng / 強@qiáng
+:PROPERTIES:
+:CONCEPT: uuid-66608c20-5a3e-4392-9ff5-a9f58ed785c4 / STRONG
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 10
+:END:
+強@qiáng / 強@qiáng	[[tls:concept:STRONG::#uuid-66608c20-5a3e-4392-9ff5-a9f58ed785c4][STRONG]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / strengthen, reinforce
+** 今又攻秦以益之	Today you attack Ch'in and will again benefit them.
+:PROPERTIES:
+:SRC: ZGC 2.1.2; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a06:50::今又 / 戰國策
+:CHARPOS: 50
+:END:
+*** 益@yì
+:PROPERTIES:
+:CONCEPT: uuid-eaad7d3d-6d6d-423c-a7a1-86da53b54a5d / PROFIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 55
+:END:
+益@yì	[[tls:concept:PROFIT::#uuid-eaad7d3d-6d6d-423c-a7a1-86da53b54a5d][PROFIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to benefit, increase the benefits of 何益? What is the benefit?" or "whom does this benefit?"
+** 韓魏南無楚憂	When Han and Wei no longer fear Ch'u to the south
+:PROPERTIES:
+:SRC: ZGC 2.1.2; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a07:50::韓、 / 戰國策
+:CHARPOS: 50
+:END:
+*** 憂@yōu
+:PROPERTIES:
+:CONCEPT: uuid-c89def27-eaa5-4ae1-a6fe-adc965e10b67 / WORRY
+:SYN-FUNC: uuid-3089d27c-a8a0-4ba1-a3ae-5cd513e4f523
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 55
+:END:
+憂@yōu	[[tls:concept:WORRY::#uuid-c89def27-eaa5-4ae1-a6fe-adc965e10b67][WORRY]]	N [[tls:syn-func::#uuid-3089d27c-a8a0-4ba1-a3ae-5cd513e4f523][nab.t:post-N]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / the trouble constituted by N
+** 西無秦患	and are not troubled by Ch'in in the west,
+:PROPERTIES:
+:SRC: ZGC 2.1.2; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a08:50::西無 / 戰國策
+:CHARPOS: 50
+:END:
+*** 患@huàn
+:PROPERTIES:
+:CONCEPT: uuid-67b42efe-6f46-4344-8b65-8e81f2d233de / WORRY
+:SYN-FUNC: uuid-3089d27c-a8a0-4ba1-a3ae-5cd513e4f523
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+患@huàn	[[tls:concept:WORRY::#uuid-67b42efe-6f46-4344-8b65-8e81f2d233de][WORRY]]	N [[tls:syn-func::#uuid-3089d27c-a8a0-4ba1-a3ae-5cd513e4f523][nab.t:post-N]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / the serious or upsetting concern constituted by N
+** 則地廣而益重	their lands will be broad and, being mightier,
+:PROPERTIES:
+:SRC: ZGC 2.1.2; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a09:50::則地 / 戰國策
+:CHARPOS: 50
+:END:
+*** 地@dì
+:PROPERTIES:
+:CONCEPT: uuid-efabb091-0d8f-47fc-bb6b-ef1e07f0c530 / TERRITORY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+地@dì	[[tls:concept:TERRITORY::#uuid-efabb091-0d8f-47fc-bb6b-ef1e07f0c530][TERRITORY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / land; piece of land; territory; area; (possibly small) open space
+*** 廣@guǎng
+:PROPERTIES:
+:CONCEPT: uuid-33b5a28c-7f22-48c6-9fb0-4c405c892c4c / BROAD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+廣@guǎng	[[tls:concept:BROAD::#uuid-33b5a28c-7f22-48c6-9fb0-4c405c892c4c][BROAD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become braoder> expand, be expanding
+** 齊必輕矣	they will make light of Ch'i.
+:PROPERTIES:
+:SRC: ZGC 2.1.2; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a10:50::齊必 / 戰國策
+:CHARPOS: 50
+:END:
+*** 輕@qìng / 輕@qīng
+:PROPERTIES:
+:CONCEPT: uuid-cb8872e3-f1e8-47db-b6e2-efddc9359035 / WEAK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+輕@qìng / 輕@qīng	[[tls:concept:WEAK::#uuid-cb8872e3-f1e8-47db-b6e2-efddc9359035][WEAK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become weaker, we weakened
+** 虛實有時	for the twigs flourish when the root retreats
+:PROPERTIES:
+:SRC: ZGC 2.1.2; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a12:1::虛實 / 戰國策
+:CHARPOS: 1
+:END:
+*** 時@shí
+:PROPERTIES:
+:CONCEPT: uuid-0bad8c98-9ad1-4bfb-9068-e7597965ded3 / TIMELY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 4
+:END:
+時@shí	[[tls:concept:TIMELY::#uuid-0bad8c98-9ad1-4bfb-9068-e7597965ded3][TIMELY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / timeliness; being in time; the right time; the appropriate season
+** 竊為君危之	and what is solid today will someday become hollow.
+:PROPERTIES:
+:SRC: ZGC 2.1.2; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a13:50::竊為 / 戰國策
+:CHARPOS: 50
+:END:
+*** 危@wēi
+:PROPERTIES:
+:CONCEPT: uuid-e6dba8bb-73ea-424e-8c4f-070aba02af3b / DANGER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21
+:CHARPOS: 53
+:END:
+危@wēi	[[tls:concept:DANGER::#uuid-e6dba8bb-73ea-424e-8c4f-070aba02af3b][DANGER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / consider as dangerous; consider to be in danger
+** 君不如令弊邑陰合於秦而君無攻	IT would be safer if You asked my humble ruler to secretly side with Ch'in. On your part you would neither attack,-45-
+:PROPERTIES:
+:SRC: ZGC 2.1.3; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a14:50::君不 / 戰國策
+:CHARPOS: 50
+:END:
+*** 陰@yīn
+:PROPERTIES:
+:CONCEPT: uuid-2c1c3866-fd7a-4211-8ca0-100d3b2d0917 / SECRET
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 56
+:END:
+陰@yīn	[[tls:concept:SECRET::#uuid-2c1c3866-fd7a-4211-8ca0-100d3b2d0917][SECRET]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / secretly; in an indirect way; in hidden ways
+*** 合@hé
+:PROPERTIES:
+:CONCEPT: uuid-b54749cb-c9c5-48c1-89b1-65f4de65b385 / COOPERATE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 57
+:END:
+合@hé	[[tls:concept:COOPERATE::#uuid-b54749cb-c9c5-48c1-89b1-65f4de65b385][COOPERATE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / cooperate with, ally oneself with
+*** 無@wú
+:PROPERTIES:
+:CONCEPT: uuid-7c0bdbf6-16d2-4e4b-9ee4-49735595bf26 / NEVER
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 62
+:END:
+無@wú	[[tls:concept:NEVER::#uuid-7c0bdbf6-16d2-4e4b-9ee4-49735595bf26][NEVER]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / will never (in generalisations); at no time (during a certain period), never (無有 there never are any)
+** 又無藉兵乞食	request troops, nor demand food from his state.
+:PROPERTIES:
+:SRC: ZGC 2.1.3; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a15:50::又無 / 戰國策
+:CHARPOS: 50
+:END:
+*** 無@wú
+:PROPERTIES:
+:CONCEPT: uuid-7c0bdbf6-16d2-4e4b-9ee4-49735595bf26 / NEVER
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+無@wú	[[tls:concept:NEVER::#uuid-7c0bdbf6-16d2-4e4b-9ee4-49735595bf26][NEVER]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / will never (in generalisations); at no time (during a certain period), never (無有 there never are any)
+*** 藉@jiè
+:PROPERTIES:
+:CONCEPT: uuid-cf0188d3-2a65-4b42-bda0-db272515757a / BORROW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+藉@jiè	[[tls:concept:BORROW::#uuid-cf0188d3-2a65-4b42-bda0-db272515757a][BORROW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / borrow (troops etc); ask to borrow (right of way etc)
+*** 乞@qǐ
+:PROPERTIES:
+:CONCEPT: uuid-37b11540-18cf-473d-a26c-161b6080004d / BEG
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-a4892578-3168-4995-922e-0997de288a22
+:CHARPOS: 54
+:END:
+乞@qǐ	[[tls:concept:BEG::#uuid-37b11540-18cf-473d-a26c-161b6080004d][BEG]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-a4892578-3168-4995-922e-0997de288a22][object=thing]]} / ask for (what the other party might refuse to give)
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-cd902983-7a39-4205-b48c-0394ac183b08 / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 55
+:END:
+食@shí	[[tls:concept:FOOD::#uuid-cd902983-7a39-4205-b48c-0394ac183b08][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / Note that Lù Démíng reads this meaning as sì in several places of 經典釋文: provisions; food supply; staple food; food for general sustenance while at home; (e.g. beg for) something to eat; food supplies; fodder (e.g. for horses)
+** 令弊邑以君之情謂秦王曰	get my ruler to speak of your intentions to the king of Ch'in. He will say:
+:PROPERTIES:
+:SRC: ZGC 2.1.3; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a17:1::令弊 / 戰國策
+:CHARPOS: 1
+:END:
+*** 情@qíng
+:PROPERTIES:
+:CONCEPT: uuid-bffda197-c6bb-4a87-80d9-6ce0b8512123 / FEELING
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 7
+:END:
+情@qíng	[[tls:concept:FEELING::#uuid-bffda197-c6bb-4a87-80d9-6ce0b8512123][FEELING]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / real inner state; innermost feelings; real inner feelings; basic feelings; basic loyalties; sentiment
+** 薛公必破秦以張韓魏	"The Duke of Hsyeh does not intend to harm Ch'in for the benefit of Han and Wei.
+:PROPERTIES:
+:SRC: ZGC 2.1.3; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a18:50::『薛 / 戰國策
+:CHARPOS: 50
+:END:
+*** 張@zhāng
+:PROPERTIES:
+:CONCEPT: uuid-e0dcc77d-3976-420a-98a6-38cdfceb22ff / PROFIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 56
+:END:
+張@zhāng	[[tls:concept:PROFIT::#uuid-e0dcc77d-3976-420a-98a6-38cdfceb22ff][PROFIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cause to expand> benefit, work for
+** 君令弊邑以此忠秦	If you should order my ruler to make such a proposal to Ch'in,
+:PROPERTIES:
+:SRC: ZGC 2.1.4; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a21:1::君令 / 戰國策
+:CHARPOS: 1
+:END:
+*** 忠@zhōng
+:PROPERTIES:
+:CONCEPT: uuid-4a2ffb16-0c07-4dd1-afbd-73ba6106f918 / FAITHFUL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+忠@zhōng	[[tls:concept:FAITHFUL::#uuid-4a2ffb16-0c07-4dd1-afbd-73ba6106f918][FAITHFUL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / do one's honest and loyal best for (a superior, or the law)
+** 必德齊	he will be obligated to Ch'i
+:PROPERTIES:
+:SRC: ZGC 2.1.4; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a26:1::必德 / 戰國策
+:CHARPOS: 1
+:END:
+*** 德@dé / 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-e9592f3d-7813-4778-a7b2-bdf4b1509d2b / GRATEFUL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 2
+:END:
+德@dé / 得@dé	[[tls:concept:GRATEFUL::#uuid-e9592f3d-7813-4778-a7b2-bdf4b1509d2b][GRATEFUL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / feel grateful towards
+** 齊得東國而益強	and Ch'i will get the eastern regions and become more powerful.
+:PROPERTIES:
+:SRC: ZGC 2.1.4; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a27:50::齊得 / 戰國策
+:CHARPOS: 50
+:END:
+*** 益@yì
+:PROPERTIES:
+:CONCEPT: uuid-ed3c5f1f-f3ac-4d4a-a3fa-cdd511a20743 / INCREASE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 55
+:END:
+益@yì	[[tls:concept:INCREASE::#uuid-ed3c5f1f-f3ac-4d4a-a3fa-cdd511a20743][INCREASE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / increasingly; the more... the more; more, ever more
+*** 強@qiáng / 強@qiáng
+:PROPERTIES:
+:CONCEPT: uuid-3f26a720-687f-4d85-ba9c-b47403d6907f / STRONG
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 56
+:END:
+強@qiáng / 強@qiáng	[[tls:concept:STRONG::#uuid-3f26a720-687f-4d85-ba9c-b47403d6907f][STRONG]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become strong; gain in strength; become a superpower
+** 而薛世世無患	Your fief of Hsyeh will be safe for generations,
+:PROPERTIES:
+:SRC: ZGC 2.1.4; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a28:50::而薛 / 戰國策
+:CHARPOS: 50
+:END:
+*** 世@shì
+:PROPERTIES:
+:CONCEPT: uuid-805e64b3-520d-47ab-b4d9-dd371e338a47 / GENERATION
+:SYN-FUNC: uuid-bb4ea5fd-6f2f-4356-ab1e-3cf8f7a7a031
+:CHARPOS: 52
+:END:
+世@shì	[[tls:concept:GENERATION::#uuid-805e64b3-520d-47ab-b4d9-dd371e338a47][GENERATION]]	N [[tls:syn-func::#uuid-bb4ea5fd-6f2f-4356-ab1e-3cf8f7a7a031][n.red:adV]] / for generations on end; for generations to come
+** 秦不大弱	Ch'in will not be greatly harmed
+:PROPERTIES:
+:SRC: ZGC 2.1.4; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a29:50::秦不 / 戰國策
+:CHARPOS: 50
+:END:
+*** 弱@ruò
+:PROPERTIES:
+:CONCEPT: uuid-16078a10-38cf-47d6-8a79-c3b117d66421 / WEAK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 53
+:END:
+弱@ruò	[[tls:concept:WEAK::#uuid-16078a10-38cf-47d6-8a79-c3b117d66421][WEAK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become weak> be weakened
+** 三晉必重齊	and as a result they will surely give great weight to good relations with Ch'i.'
+:PROPERTIES:
+:SRC: ZGC 2.1.4; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a31:1::三晉 / 戰國策
+:CHARPOS: 1
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-1cff7896-da7d-43e9-b8d4-ef2133e23740 / IMPORTANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 4
+:END:
+重@zhòng	[[tls:concept:IMPORTANT::#uuid-1cff7896-da7d-43e9-b8d4-ef2133e23740][IMPORTANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / consider as important; consider as a serious matter, take seriously, attach importance to; be chiefly concerned with; 最重
+** 因令韓慶入秦	He sent Han Ch'ing to Ch'in,
+:PROPERTIES:
+:SRC: ZGC 2.1.5; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a34:1::因令 / 戰國策
+:CHARPOS: 1
+:END:
+*** 因@yīn
+:PROPERTIES:
+:CONCEPT: uuid-5f72a3d4-d9c4-4552-9cfb-5226b796aa06 / THEREFORE
+:SYN-FUNC: uuid-24957678-0999-4596-8e51-3945e1a7a59a
+:CHARPOS: 1
+:END:
+因@yīn	[[tls:concept:THEREFORE::#uuid-5f72a3d4-d9c4-4552-9cfb-5226b796aa06][THEREFORE]]	V [[tls:syn-func::#uuid-24957678-0999-4596-8e51-3945e1a7a59a][vadS1.post-S2]] / and, accordingly,....; therefore
+** 而使不藉兵乞食於西周	and asked neither troops nor food from West Chou.-45--48-
+:PROPERTIES:
+:SRC: ZGC 2.1.5; tr. Crump 1979 no.7, p. 28
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_029:1a35:1::而使 / 戰國策
+:CHARPOS: 1
+:END:
+*** 藉@jiè
+:PROPERTIES:
+:CONCEPT: uuid-cf0188d3-2a65-4b42-bda0-db272515757a / BORROW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+藉@jiè	[[tls:concept:BORROW::#uuid-cf0188d3-2a65-4b42-bda0-db272515757a][BORROW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / borrow (troops etc); ask to borrow (right of way etc)
+*** 乞@qǐ
+:PROPERTIES:
+:CONCEPT: uuid-868e3911-220b-47de-b519-624b2820918e / BEG
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 6
+:END:
+乞@qǐ	[[tls:concept:BEG::#uuid-868e3911-220b-47de-b519-624b2820918e][BEG]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / ask (something N1) (from someone N2)　乞諸其鄰

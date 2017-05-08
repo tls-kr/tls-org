@@ -1,0 +1,624 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_003
+#+DATE: 2017-02-08T16:35:46+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 曰若稽古	Examining into antiquity,
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR1b0001_003:1a06:3::<p / 尚書
+:CHARPOS: 3
+:END:
+*** 曰若@yuēruò
+:PROPERTIES:
+:CONCEPT: uuid-1faba6b0-c437-443e-858f-64e2a48b721f / SPEAK
+:SYN-FUNC: uuid-e72f3fb7-d88d-49b6-8915-8a5e2256bad8
+:CHARPOS: 3
+:END:
+曰若@yuēruò	[[tls:concept:SPEAK::#uuid-1faba6b0-c437-443e-858f-64e2a48b721f][SPEAK]]	V [[tls:syn-func::#uuid-e72f3fb7-d88d-49b6-8915-8a5e2256bad8][VPt(0)oS]] / The text runs as follows: ??? [Meaning and syntax unclear and highly controversial!]
+*** 稽@jī
+:PROPERTIES:
+:CONCEPT: uuid-b3d20a23-5892-45e0-ab44-9fab0a619deb / INVESTIGATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+稽@jī	[[tls:concept:INVESTIGATE::#uuid-b3d20a23-5892-45e0-ab44-9fab0a619deb][INVESTIGATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / investigate (e.g. antiquity)
+*** 古@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-39667e5a-78f8-4dd2-81bf-eef90f2b23e7 / PAST
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 6
+:END:
+古@gǔ	[[tls:concept:PAST::#uuid-39667e5a-78f8-4dd2-81bf-eef90f2b23e7][PAST]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / antiquity, ancient times
+** 大禹曰文命	(we find that) the Great Yu was styled Wen-ming.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR1b0001_003:2a01:50::大禹 / 尚書
+:CHARPOS: 50
+:END:
+*** 禹@yǔ / 文命@wénmìng
+:PROPERTIES:
+:CONCEPT: uuid-3df24fe0-2418-46e8-bc94-a52b490dd0da / RULERS PREHISTORIC
+:SYN-FUNC: uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770
+:CHARPOS: 51
+:END:
+禹@yǔ / 文命@wénmìng	[[tls:concept:RULERS PREHISTORIC::#uuid-3df24fe0-2418-46e8-bc94-a52b490dd0da][RULERS PREHISTORIC]]	N [[tls:syn-func::#uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770][npr]] / Unger no. 961 Yǔ
+** 黎民敏德	and the black-haired people will sedulously seek to be virtuous.'
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR1b0001_003:2a06:1::黎民 / 尚書
+:CHARPOS: 1
+:END:
+*** 黎民@límín
+:PROPERTIES:
+:CONCEPT: uuid-8936866b-1fbe-4e2c-8886-792cdc17139c / PEOPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+黎民@límín	[[tls:concept:PEOPLE::#uuid-8936866b-1fbe-4e2c-8886-792cdc17139c][PEOPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / SHI: the sun-tanned (common) people
+** 不虐無告	to keep from oppressing the helpless,
+:PROPERTIES:
+:SRC: SHU (LATE) 3.2; tr. Legge p. 52ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a14:1::「不 / 尚書
+:CHARPOS: 1
+:END:
+*** 虐@nǜe
+:PROPERTIES:
+:CONCEPT: uuid-3794802c-488e-49d5-9577-f7b5740978cb / OPPRESS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+虐@nǜe	[[tls:concept:OPPRESS::#uuid-3794802c-488e-49d5-9577-f7b5740978cb][OPPRESS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be reckless against
+*** 無告@wúgào
+:PROPERTIES:
+:CONCEPT: uuid-4388b948-b454-4de9-b125-ad832421579f / WEAK
+:SYN-FUNC: uuid-080d3352-c9b3-40b5-8aed-7996007863d9
+:CHARPOS: 3
+:END:
+無告@wúgào	[[tls:concept:WEAK::#uuid-4388b948-b454-4de9-b125-ad832421579f][WEAK]]	N [[tls:syn-func::#uuid-080d3352-c9b3-40b5-8aed-7996007863d9][NP{adN}]] / those who have no one to appeal to; the helpless
+** 奄有四海為天下君	and bestowed on you its appointment. Suddenly you possessed all within the four seas, and became ruler of all under heaven.'
+:PROPERTIES:
+:SRC: SHU (LATE) 3.3; tr. Legge p. 52ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a23:1::奄有 / 尚書
+:CHARPOS: 1
+:END:
+*** 奄@yǎn
+:PROPERTIES:
+:CONCEPT: uuid-8f846a1b-b454-4561-a842-bab6275dbfab / SUDDENLY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+奄@yǎn	[[tls:concept:SUDDENLY::#uuid-8f846a1b-b454-4561-a842-bab6275dbfab][SUDDENLY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / archaic: all of a sudden
+** 罔失法度	Do not fail to observe the laws and ordinances.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.5; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a31:1::罔失 / 尚書
+:CHARPOS: 1
+:END:
+*** 法度@fǎdù
+:PROPERTIES:
+:CONCEPT: uuid-f9323ea9-daa0-4fa3-86b6-c65cf6a8e81a / LAW
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 3
+:END:
+法度@fǎdù	[[tls:concept:LAW::#uuid-f9323ea9-daa0-4fa3-86b6-c65cf6a8e81a][LAW]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / laws and regulations
+** 去邪勿疑	Put away evil without hesitation.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.5; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a35:1::去邪 / 尚書
+:CHARPOS: 1
+:END:
+*** 邪@xié
+:PROPERTIES:
+:CONCEPT: uuid-00844942-de00-4f2b-a63f-c4c987aa8c46 / WICKED
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+邪@xié	[[tls:concept:WICKED::#uuid-00844942-de00-4f2b-a63f-c4c987aa8c46][WICKED]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wicked activities; heterodox practices
+** 政在養民	and that government in the nourishing of the people.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.6; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a45:1::政在 / 尚書
+:CHARPOS: 1
+:END:
+*** 民@mín
+:PROPERTIES:
+:CONCEPT: uuid-93c15c55-36c2-4ea2-910e-9bad068705b0 / PEOPLE
+:SYN-FUNC: uuid-18d2bd58-819e-46f5-a38e-3314b5b94427
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 4
+:END:
+民@mín	[[tls:concept:PEOPLE::#uuid-93c15c55-36c2-4ea2-910e-9bad068705b0][PEOPLE]]	N [[tls:syn-func::#uuid-18d2bd58-819e-46f5-a38e-3314b5b94427][nm.postVt]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / the people
+** 朕宅帝位三十有三載	I have occupied my place for thirty and three years.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.8; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a63:1::朕宅 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-48669de2-dee4-4584-8de5-006ac80779a5 / EGO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-5f6ad398-2e81-4640-a7a4-260295f37c15
+:CHARPOS: 1
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-48669de2-dee4-4584-8de5-006ac80779a5][EGO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-5f6ad398-2e81-4640-a7a4-260295f37c15][1. person singular]]} / auto-honorific ceremonial (by the decision of Qín Shǐhúang, used by emperors only)
+** 揔朕師	Do you, eschewing all indolence, take the leading of my people.' [our army CH]
+:PROPERTIES:
+:SRC: SHU (LATE) 3.8; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a66:1::揔朕 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-a3f4abbb-5c88-4e3c-89b4-83b39d830425 / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 2
+:END:
+朕@zhèn	[[tls:concept:WE::#uuid-a3f4abbb-5c88-4e3c-89b4-83b39d830425][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / authoritative/solemn: my/our (朕考 "my ancestor" is PERHAPS best understood as "my(and thus more indirectly your) ancestor". It is as if this ancestry is not just a personal matter. The King respresents his community. His ancestors are "our ancestors" of the Zho1u people.)
+** 朕德罔克	'My virtue is not equal (to the position),
+:PROPERTIES:
+:SRC: SHU (LATE) 3.9; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a68:1::朕德 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 1
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my
+** 民不依	and the people will not repose in me.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.9; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a69:50::民不 / 尚書
+:CHARPOS: 50
+:END:
+*** 民@mín
+:PROPERTIES:
+:CONCEPT: uuid-a3d00843-68f3-4b3a-ba42-a00dd3a0d436 / PEOPLE
+:SYN-FUNC: uuid-e10deff9-deeb-45fc-a1a1-c35bf9779155
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 50
+:END:
+民@mín	[[tls:concept:PEOPLE::#uuid-a3d00843-68f3-4b3a-ba42-a00dd3a0d436][PEOPLE]]	N [[tls:syn-func::#uuid-e10deff9-deeb-45fc-a1a1-c35bf9779155][nm+V{PRED}]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / the people (as subjects of action)
+** 黎民懷之	till they cherish him in their hearts.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.9; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a72:1::「黎 / 尚書
+:CHARPOS: 1
+:END:
+*** 黎民@límín
+:PROPERTIES:
+:CONCEPT: uuid-8936866b-1fbe-4e2c-8886-792cdc17139c / PEOPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+黎民@límín	[[tls:concept:PEOPLE::#uuid-8936866b-1fbe-4e2c-8886-792cdc17139c][PEOPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / SHI: the sun-tanned (common) people
+** 罔或于予正	hardly one is found to offend against the regulations of the government
+:PROPERTIES:
+:SRC: SHU (LATE) 3.10; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a82:1::罔或 / 尚書
+:CHARPOS: 1
+:END:
+*** 罔或@wǎnghuò
+:PROPERTIES:
+:CONCEPT: uuid-48019e16-5b88-4ea7-ad79-48bad1ef00a7 / NONE
+:SYN-FUNC: uuid-a0b46569-e67d-460c-914c-dddd610aba58
+:CHARPOS: 1
+:END:
+罔或@wǎnghuò	[[tls:concept:NONE::#uuid-48019e16-5b88-4ea7-ad79-48bad1ef00a7][NONE]]	P [[tls:syn-func::#uuid-a0b46569-e67d-460c-914c-dddd610aba58][PP]] / no one
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-644aaf28-0023-4ce5-97b7-80e0903909d0 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 4
+:END:
+予@yú	[[tls:concept:EGO::#uuid-644aaf28-0023-4ce5-97b7-80e0903909d0][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / belonging to me (personally), my (often marked by the genitive particle 之)
+** 期于予治	with a view to the perfection of my government,
+:PROPERTIES:
+:SRC: SHU (LATE) 3.10; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a86:1::期于 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-644aaf28-0023-4ce5-97b7-80e0903909d0 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 3
+:END:
+予@yú	[[tls:concept:EGO::#uuid-644aaf28-0023-4ce5-97b7-80e0903909d0][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / belonging to me (personally), my (often marked by the genitive particle 之)
+** 時乃功懋哉	(Continue to) be strenuous.'
+:PROPERTIES:
+:SRC: SHU (LATE) 3.10; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a89:1::時乃 / 尚書
+:CHARPOS: 1
+:END:
+*** 懋@mào
+:PROPERTIES:
+:CONCEPT: uuid-e437f7eb-e1c1-4826-ab3a-2e65a438ae73 / DILIGENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-b8276c57-c108-44c8-8c01-ad92679a9163
+:CHARPOS: 4
+:END:
+懋@mào	[[tls:concept:DILIGENT::#uuid-e437f7eb-e1c1-4826-ab3a-2e65a438ae73][DILIGENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-b8276c57-c108-44c8-8c01-ad92679a9163][imperative]]} / be they diligent!
+** 帝德罔愆	'Your virtue, O Di, is faultless.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.11; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a91:1::帝德 / 尚書
+:CHARPOS: 1
+:END:
+*** 愆@qiān
+:PROPERTIES:
+:CONCEPT: uuid-f82d19e1-e736-4f55-838d-649a6f9a995e / CRIME
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+愆@qiān	[[tls:concept:CRIME::#uuid-f82d19e1-e736-4f55-838d-649a6f9a995e][CRIME]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / undue delay, (minor but culpable) mistake, fault, minor offence; mistaken procedure
+** 宥過無大	You pardon inadvertent faults, [however serious CH]
+:PROPERTIES:
+:SRC: SHU (LATE) 3.11; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a96:1::「宥 / 尚書
+:CHARPOS: 1
+:END:
+*** 宥@yòu / 侑@yòu
+:PROPERTIES:
+:CONCEPT: uuid-8838101b-98c3-4be4-b511-102f5a6aa18a / FORGIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 1
+:END:
+宥@yòu / 侑@yòu	[[tls:concept:FORGIVE::#uuid-8838101b-98c3-4be4-b511-102f5a6aa18a][FORGIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / deal leniently with (errors; crimes)
+** 與其殺不辜	Rather than put an innocent person to death,
+:PROPERTIES:
+:SRC: SHU (LATE) 3.11; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a100:1::「與 / 尚書
+:CHARPOS: 1
+:END:
+*** 不辜@bùgū
+:PROPERTIES:
+:CONCEPT: uuid-1e6c9ae0-1377-4437-b7e9-a979a89d73a5 / INNOCENT
+:SYN-FUNC: uuid-d79e637d-2954-4daa-91c6-3cf730571a43
+:CHARPOS: 4
+:END:
+不辜@bùgū	[[tls:concept:INNOCENT::#uuid-1e6c9ae0-1377-4437-b7e9-a979a89d73a5][INNOCENT]]	V [[tls:syn-func::#uuid-d79e637d-2954-4daa-91c6-3cf730571a43][VP{adN.}postVt]] / innocent person 殺三不辜, 一不辜
+** 俾予從欲以治	'That I am able to follow and obtain what I desire in my government,
+:PROPERTIES:
+:SRC: SHU (LATE) 3.12; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a106:1::「俾 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-805d014b-a8a8-4921-bd9e-26674a2c5b04 / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-805d014b-a8a8-4921-bd9e-26674a2c5b04][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / me (functioning as the subject of the verb that follows)
+** 禹	Yu.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.13.1; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a110:2::禹。 / 尚書
+:CHARPOS: 2
+:END:
+*** 禹@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-562737a4-c598-452a-9593-a930b417fa8b / RULERS PREHISTORIC
+:SYN-FUNC: uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770
+:SEM-FEAT: uuid-3903ed14-2d1f-4023-af77-5fb0374501a2
+:CHARPOS: 2
+:END:
+禹@yǔ	[[tls:concept:RULERS PREHISTORIC::#uuid-562737a4-c598-452a-9593-a930b417fa8b][RULERS PREHISTORIC]]	N [[tls:syn-func::#uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770][npr]] {[[tls:sem-feat::#uuid-3903ed14-2d1f-4023-af77-5fb0374501a2][vocative]]} / Yu! 文命@wénmìng
+** 降水儆予	The inundating waters filled me with dread,
+:PROPERTIES:
+:SRC: SHU (LATE) 3.13.1; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a111:50::「降 / 尚書
+:CHARPOS: 50
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-25dfed22-436c-4846-a2a5-27868a8ee8df / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 53
+:END:
+予@yú	[[tls:concept:EGO::#uuid-25dfed22-436c-4846-a2a5-27868a8ee8df][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / me (personally, as an experiencer?)
+** 予懋乃德	I see how great is your virtue,
+:PROPERTIES:
+:SRC: SHU (LATE) 3.13.2; tr. Legge p. 52ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a122:1::予懋 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (as a non-agential experiencer participant)
+** 欽哉	Be reverential!
+:PROPERTIES:
+:SRC: SHU (LATE) 3.13.3; tr. Legge p. 52ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a137:1::欽哉 / 尚書
+:CHARPOS: 1
+:END:
+*** 欽@qīn
+:PROPERTIES:
+:CONCEPT: uuid-2fb9d2c2-17cb-4523-8650-27dc3bb0bd10 / RESPECT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-b8276c57-c108-44c8-8c01-ad92679a9163
+:CHARPOS: 1
+:END:
+欽@qīn	[[tls:concept:RESPECT::#uuid-2fb9d2c2-17cb-4523-8650-27dc3bb0bd10][RESPECT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-b8276c57-c108-44c8-8c01-ad92679a9163][imperative]]} / be diligently respectful!
+** 朕言不再	I will not alter my words.'
+:PROPERTIES:
+:SRC: SHU (LATE) 3.13.3; tr. Legge p. 52ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a143:1::朕言 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 1
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my
+** 禹	Yu
+:PROPERTIES:
+:SRC: SHU (LATE) 3.15; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a148:1::禹！ / 尚書
+:CHARPOS: 1
+:END:
+*** 禹@yǔ / 文命@wénmìng
+:PROPERTIES:
+:CONCEPT: uuid-562737a4-c598-452a-9593-a930b417fa8b / RULERS PREHISTORIC
+:SYN-FUNC: uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770
+:SEM-FEAT: uuid-3903ed14-2d1f-4023-af77-5fb0374501a2
+:CHARPOS: 1
+:END:
+禹@yǔ / 文命@wénmìng	[[tls:concept:RULERS PREHISTORIC::#uuid-562737a4-c598-452a-9593-a930b417fa8b][RULERS PREHISTORIC]]	N [[tls:syn-func::#uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770][npr]] {[[tls:sem-feat::#uuid-3903ed14-2d1f-4023-af77-5fb0374501a2][vocative]]} / Yu!
+** 朕志先定	My mind (in this matter) was determined in the first place;
+:PROPERTIES:
+:SRC: SHU (LATE) 3.15; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a151:1::朕志 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 1
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my
+*** 志@zhì
+:PROPERTIES:
+:CONCEPT: uuid-8dfd8405-bf09-4926-aeb7-22fb6836b37a / INTEND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 2
+:END:
+志@zhì	[[tls:concept:INTEND::#uuid-8dfd8405-bf09-4926-aeb7-22fb6836b37a][INTEND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / intention; attention with respect to future action; wishes
+*** 定@dìng
+:PROPERTIES:
+:CONCEPT: uuid-d6dd81b7-9545-46ec-aa8a-c1eadb1504f0 / DECIDE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 4
+:END:
+定@dìng	[[tls:concept:DECIDE::#uuid-d6dd81b7-9545-46ec-aa8a-c1eadb1504f0][DECIDE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} /
+** 禹	O Yu,
+:PROPERTIES:
+:SRC: SHU (LATE) 3.18; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a163:2::禹！ / 尚書
+:CHARPOS: 2
+:END:
+*** 禹@yǔ / 文命@wénmìng
+:PROPERTIES:
+:CONCEPT: uuid-562737a4-c598-452a-9593-a930b417fa8b / RULERS PREHISTORIC
+:SYN-FUNC: uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770
+:SEM-FEAT: uuid-3903ed14-2d1f-4023-af77-5fb0374501a2
+:CHARPOS: 2
+:END:
+禹@yǔ / 文命@wénmìng	[[tls:concept:RULERS PREHISTORIC::#uuid-562737a4-c598-452a-9593-a930b417fa8b][RULERS PREHISTORIC]]	N [[tls:syn-func::#uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770][npr]] {[[tls:sem-feat::#uuid-3903ed14-2d1f-4023-af77-5fb0374501a2][vocative]]} / Yu!
+** 誓于師曰	and made a speech to the host, saying,
+:PROPERTIES:
+:SRC: SHU (LATE) 3.19.1; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a167:1::誓于 / 尚書
+:CHARPOS: 1
+:END:
+*** 誓@shì
+:PROPERTIES:
+:CONCEPT: uuid-a7a65cf5-8117-46d0-b508-df62bcec97fc / PUBLICISE
+:SYN-FUNC: uuid-55ce0fe4-5e95-4ef5-a3cd-b38f181b35b7
+:CHARPOS: 1
+:END:
+誓@shì	[[tls:concept:PUBLICISE::#uuid-a7a65cf5-8117-46d0-b508-df62bcec97fc][PUBLICISE]]	 [[tls:syn-func::#uuid-55ce0fe4-5e95-4ef5-a3cd-b38f181b35b7][vt+prep+N.+V]] / regale N
+** 咸聽朕命	listen all of you to my orders.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.19.1; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a169:1::咸聽 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 3
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my
+** 君子在野	Superior men are kept by him in obscurity,
+:PROPERTIES:
+:SRC: SHU (LATE) 3.19.2; tr. Legge p. 52ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a174:1::「君 / 尚書
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-4015f79c-b370-43e2-a6b7-1d9b4c31263c / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-4015f79c-b370-43e2-a6b7-1d9b4c31263c][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the men of noble character (of a certain time or place) [predicate tensed] 古之君子
+** 小人在位	and mean men fill (all) the offices.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.19.2; tr. Legge p. 52ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a175:50::小人 / 尚書
+:CHARPOS: 50
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-e623bb5f-84fe-4c07-9b6b-36372c30bc37 / BAD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 50
+:END:
+小人@xiǎorén	[[tls:concept:BAD::#uuid-e623bb5f-84fe-4c07-9b6b-36372c30bc37][BAD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the petty people (often quantified: all)
+** 肆予以爾眾士	I therefore, along with you, my multitude of gallant men,
+:PROPERTIES:
+:SRC: SHU (LATE) 3.19.2; tr. Legge p. 52ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a178:1::肆予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-e01096db-36f9-4548-8a67-85f0a8529d01 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-e01096db-36f9-4548-8a67-85f0a8529d01][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / I (as a responsible agent)
+** 無遠弗屆	there is no distance to which it does not reach.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.20.1; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a186:1::無遠 / 尚書
+:CHARPOS: 1
+:END:
+*** 遠@yuǎn
+:PROPERTIES:
+:CONCEPT: uuid-1690f180-1a92-4f88-b6e2-9edacc93a0fd / DISTANT
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 2
+:END:
+遠@yuǎn	[[tls:concept:DISTANT::#uuid-1690f180-1a92-4f88-b6e2-9edacc93a0fd][DISTANT]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / what is distant, a distant place
+** 滿招損	Pride brings loss,
+:PROPERTIES:
+:SRC: SHU (LATE) 3.20.1; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a187:50::滿招 / 尚書
+:CHARPOS: 50
+:END:
+*** 滿@mǎn
+:PROPERTIES:
+:CONCEPT: uuid-9122358b-ce3c-44a4-8c54-02de86398440 / PROUD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 50
+:END:
+滿@mǎn	[[tls:concept:PROUD::#uuid-9122358b-ce3c-44a4-8c54-02de86398440][PROUD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / pride
+** 時乃天道	this is the way of Heaven.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.20.1; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a189:1::時乃 / 尚書
+:CHARPOS: 1
+:END:
+*** 天道@tiāndào
+:PROPERTIES:
+:CONCEPT: uuid-39894d34-660f-4c7f-aa51-29badadccabb / LAW OF NATURE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 3
+:END:
+天道@tiāndào	[[tls:concept:LAW OF NATURE::#uuid-39894d34-660f-4c7f-aa51-29badadccabb][LAW OF NATURE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / law-of-Heaven-determined course of events in this world
+** 日號泣于旻天	and daily cried with tears to compassionate Heaven,
+:PROPERTIES:
+:SRC: SHU (LATE) 3.20.2; tr. Legge p. 52ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a192:1::日號 / 尚書
+:CHARPOS: 1
+:END:
+*** 旻@mín
+:PROPERTIES:
+:CONCEPT: uuid-fdc8e2b3-e9c0-435b-a778-721e7c5e21fa / BENEVOLENCE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 5
+:END:
+旻@mín	[[tls:concept:BENEVOLENCE::#uuid-fdc8e2b3-e9c0-435b-a778-721e7c5e21fa][BENEVOLENCE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / kindly 旻天 "compassionate Heaven"
+** 班師振旅	(Thereupon) he led back his army, having drawn off the troops.
+:PROPERTIES:
+:SRC: SHU (LATE) 3.21; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a201:1::班師 / 尚書
+:CHARPOS: 1
+:END:
+*** 班師@bānshī
+:PROPERTIES:
+:CONCEPT: uuid-35971c24-f883-433b-a97f-a03815177c37 / WITHDRAW
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+班師@bānshī	[[tls:concept:WITHDRAW::#uuid-35971c24-f883-433b-a97f-a03815177c37][WITHDRAW]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / withdraw the army
+** 舞干羽于兩階	with shields and feathers they danced between the two staircases (in his courtyard).
+:PROPERTIES:
+:SRC: SHU (LATE) 3.21; tr. Legge p. 52ff 大禹謨:
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_003:2a203:1::舞干 / 尚書
+:CHARPOS: 1
+:END:
+*** 舞@wǔ
+:PROPERTIES:
+:CONCEPT: uuid-3cda0ba2-2221-4ed3-8da2-50696b0f0d9a / DANCE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-edcc0b87-b69f-46c1-95a4-e5e5bf0ab812
+:CHARPOS: 1
+:END:
+舞@wǔ	[[tls:concept:DANCE::#uuid-3cda0ba2-2221-4ed3-8da2-50696b0f0d9a][DANCE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-edcc0b87-b69f-46c1-95a4-e5e5bf0ab812][object=ornaments]]} / dance with N as ornaments
+*** 階@jiē
+:PROPERTIES:
+:CONCEPT: uuid-7bb7dcc0-e628-4476-98b6-8b1b80959e3c / STAIRS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+階@jiē	[[tls:concept:STAIRS::#uuid-7bb7dcc0-e628-4476-98b6-8b1b80959e3c][STAIRS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / stairs

@@ -1,0 +1,151 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_004
+#+DATE: 2017-02-08T16:41:07+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 東周與西周爭	When East Chou and West Chou were at war,
+:PROPERTIES:
+:SRC: ZGC 1.4.1; tr. Crump 1979 no. 23, p. 40 East Chou supplied with an argument to dissuade others from aiding West Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_004:1a01:50::東周 / 戰國策
+:CHARPOS: 50
+:END:
+*** 爭@zhēng
+:PROPERTIES:
+:CONCEPT: uuid-b44905a7-b69a-41c4-9c10-d8eea7f0d105 / FIGHT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+爭@zhēng	[[tls:concept:FIGHT::#uuid-b44905a7-b69a-41c4-9c10-d8eea7f0d105][FIGHT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in competition; engage in struggle; engage in a fight
+** 臣恐西周之與楚韓寶	'I am afraid that West Chou will use her wealth to bribe Ch'u and Han
+:PROPERTIES:
+:SRC: ZGC 1.4.1; tr. Crump 1979 no. 23, p. 40 East Chou supplied with an argument to dissuade others from aiding West Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_004:1a03:1::「臣 / 戰國策
+:CHARPOS: 1
+:END:
+*** 恐@kǒng
+:PROPERTIES:
+:CONCEPT: uuid-90a58ff1-8b39-4bc5-b835-d7de1d5bd26a / FEAR
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 2
+:END:
+恐@kǒng	[[tls:concept:FEAR::#uuid-90a58ff1-8b39-4bc5-b835-d7de1d5bd26a][FEAR]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / be afraid that S
+** 令之為己求地於東周也	to help her get land from East Chou.
+:PROPERTIES:
+:SRC: ZGC 1.4.1; tr. Crump 1979 no. 23, p. 40 East Chou supplied with an argument to dissuade others from aiding West Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_004:1a04:50::令之 / 戰國策
+:CHARPOS: 50
+:END:
+*** 令@lìng
+:PROPERTIES:
+:CONCEPT: uuid-105b8aa0-53d3-4266-a541-a78900b2ca6a / CAUSE TO
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 50
+:END:
+令@lìng	[[tls:concept:CAUSE TO::#uuid-105b8aa0-53d3-4266-a541-a78900b2ca6a][CAUSE TO]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / cause to, get (someone) to (do something); send (someone to do somthing)
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1 / SELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 53
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1][SELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / object pronoun, resumptive, non-contrastive: oneself, himself, herself, themselves
+*** 求@qiú
+:PROPERTIES:
+:CONCEPT: uuid-8f3c45a1-ef8c-4e2e-9d53-adec5249a89f / DEMAND
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 54
+:END:
+求@qiú	[[tls:concept:DEMAND::#uuid-8f3c45a1-ef8c-4e2e-9d53-adec5249a89f][DEMAND]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / make demands (for something N1) from (someone N2)
+** 西周之欲入寶	"There are two conditions
+:PROPERTIES:
+:SRC: ZGC 1.4.1; tr. Crump 1979 no. 23, p. 40 East Chou supplied with an argument to dissuade others from aiding West Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_004:1a06:1::西周 / 戰國策
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024 / PRECIOUS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 6
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024][PRECIOUS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / precious possession; precious things; treasure of high personal, monetary, social or moral value 三寶
+** 持二端	governing West Chou's desire to give you treasure.3
+:PROPERTIES:
+:SRC: ZGC 1.4.1; tr. Crump 1979 no. 23, p. 40 East Chou supplied with an argument to dissuade others from aiding West Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_004:1a07:50::持二 / 戰國策
+:CHARPOS: 50
+:END:
+*** 端@duān
+:PROPERTIES:
+:CONCEPT: uuid-f0cddcbd-05ef-462c-96b6-5b3cdda49896 / BASIS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 52
+:END:
+端@duān	[[tls:concept:BASIS::#uuid-f0cddcbd-05ef-462c-96b6-5b3cdda49896][BASIS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / psychological basis (see also FEELING); basic elements; basic point made; basic orientation; point of view, approach; basic motives
+** 楚韓欲得寶	If you wish to get your treasure
+:PROPERTIES:
+:SRC: ZGC 1.4.2; tr. Crump 1979 no. 23, p. 40
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_004:1a09:9::楚、 / 戰國策
+:CHARPOS: 9
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024 / PRECIOUS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 13
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024][PRECIOUS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / precious possession; precious things; treasure of high personal, monetary, social or moral value 三寶
+** 是我為楚韓取寶	we shall have got it for them.
+:PROPERTIES:
+:SRC: ZGC 1.4.2; tr. Crump 1979 no. 23, p. 40
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_004:1a13:1::是我 / 戰國策
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-62ed03a6-d8d4-4954-bc44-a40dbe72740e / THEN
+:SYN-FUNC: uuid-be65b5bf-77c6-4abc-9b0b-03d67cf89975
+:SEM-FEAT: uuid-33206044-2b20-49c4-87c9-4d29c0e3df04
+:CHARPOS: 1
+:END:
+是@shì	[[tls:concept:THEN::#uuid-62ed03a6-d8d4-4954-bc44-a40dbe72740e][THEN]]	N [[tls:syn-func::#uuid-be65b5bf-77c6-4abc-9b0b-03d67cf89975][npro.adS1:postS2]] {[[tls:sem-feat::#uuid-33206044-2b20-49c4-87c9-4d29c0e3df04][conditional]]} / thus under such circumstances, then under such circumstances
+** 以德之也	They will feel obliged to us
+:PROPERTIES:
+:SRC: ZGC 1.4.2; tr. Crump 1979 no. 23, p. 40
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_004:1a13:50::以德 / 戰國策
+:CHARPOS: 50
+:END:
+*** 德@dé
+:PROPERTIES:
+:CONCEPT: uuid-8970d227-d4b8-4814-bfd0-36401f81b752 / WIN TRUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 51
+:END:
+德@dé	[[tls:concept:WIN TRUST::#uuid-8970d227-d4b8-4814-bfd0-36401f81b752][WIN TRUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / (cause to feel well-disposed towards>) win favour with, put someone in one's debt
+** 西周弱矣	and West Chou will be weakened in the process.'4
+:PROPERTIES:
+:SRC: ZGC 1.4.2; tr. Crump 1979 no. 23, p. 40
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_004:1a13:50::西周 / 戰國策
+:CHARPOS: 50
+:END:
+*** 弱@ruò
+:PROPERTIES:
+:CONCEPT: uuid-16078a10-38cf-47d6-8a79-c3b117d66421 / WEAK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+弱@ruò	[[tls:concept:WEAK::#uuid-16078a10-38cf-47d6-8a79-c3b117d66421][WEAK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become weak> be weakened

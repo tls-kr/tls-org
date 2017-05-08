@@ -1,0 +1,170 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_054
+#+DATE: 2017-02-08T16:41:13+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 張儀欲以漢中與楚	Chang Yi wished to give Han--chung to Ch'u
+:PROPERTIES:
+:SRC: ZGC 3.9.1; tr. Crump 1979 no. 63, p.73, ed. Shanghaiguji p. 121 The Han-chung blight
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_054:1a01:50::張儀 / 戰國策
+:CHARPOS: 50
+:END:
+*** 與@yǔ / 予@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-fdb5df1b-e8d8-485d-ad23-e84e36d82a0f / GIVE
+:SYN-FUNC: uuid-b1da1095-72d1-4dc8-bd0c-f66788b53021
+:CHARPOS: 56
+:END:
+與@yǔ / 予@yǔ	[[tls:concept:GIVE::#uuid-fdb5df1b-e8d8-485d-ad23-e84e36d82a0f][GIVE]]	V [[tls:syn-func::#uuid-b1da1095-72d1-4dc8-bd0c-f66788b53021][vttoN1:postvtoN2]] / give (something) to (a beneficiary)
+** 蠹種樹不處者	no man will know where he may plant his tree. [but it is infested with vermin.]
+:PROPERTIES:
+:SRC: ZGC 3.9.1; tr. Crump 1979 no. 63, p.73, ed. Shanghaiguji p. 121 The Han-chung blight
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_054:1a04:1::蠹。 / 戰國策
+:CHARPOS: 1
+:END:
+*** 蠹@dù
+:PROPERTIES:
+:CONCEPT: uuid-d67462c3-57c4-4508-8273-d8bd75f8234c / INSECTS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+蠹@dù	[[tls:concept:INSECTS::#uuid-d67462c3-57c4-4508-8273-d8bd75f8234c][INSECTS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / vermin, woodworm
+** 則傷本	they are harmed by it.
+:PROPERTIES:
+:SRC: ZGC 3.9.1; tr. Crump 1979 no. 63, p.73, ed. Shanghaiguji p. 121 The Han-chung blight
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_054:1a07:1::則傷 / 戰國策
+:CHARPOS: 1
+:END:
+*** 傷@shāng
+:PROPERTIES:
+:CONCEPT: uuid-a1cbd943-25a0-4d87-987a-b64bd7f125f9 / DAMAGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+傷@shāng	[[tls:concept:DAMAGE::#uuid-a1cbd943-25a0-4d87-987a-b64bd7f125f9][DAMAGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / inflict harm on (physical objects)
+*** 本@běn
+:PROPERTIES:
+:CONCEPT: uuid-67d87a0c-5896-4edc-94ee-c4a890f5db09 / MONEY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+本@běn	[[tls:concept:MONEY::#uuid-67d87a0c-5896-4edc-94ee-c4a890f5db09][MONEY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / basic capital; capital input
+** 漢中南邊為楚利	At present the southern part of Han-chung is beneficial to Ch'u
+:PROPERTIES:
+:SRC: ZGC 3.9.1; tr. Crump 1979 no. 63, p.73, ed. Shanghaiguji p. 121 The Han-chung blight
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_054:1a08:50::漢中 / 戰國策
+:CHARPOS: 50
+:END:
+*** 邊@biān
+:PROPERTIES:
+:CONCEPT: uuid-36ce7760-3972-41f2-b21a-07a0d85f68ae / BORDER AREA
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+邊@biān	[[tls:concept:BORDER AREA::#uuid-36ce7760-3972-41f2-b21a-07a0d85f68ae][BORDER AREA]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / border area of a state or of the empire
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-45938622-43ac-4941-9f2c-4db723dee475 / PROFIT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 56
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-45938622-43ac-4941-9f2c-4db723dee475][PROFIT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / turn out advantageous, provide profit
+** 地大者	'Is it true that large nations
+:PROPERTIES:
+:SRC: ZGC 3.9.2; tr. Crump 1979 no. 63, p.73, ed. Shanghaiguji p. 121
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_054:1a11:1::「地 / 戰國策
+:CHARPOS: 1
+:END:
+*** 大@dà
+:PROPERTIES:
+:CONCEPT: uuid-633614aa-2185-480f-ac53-445eb5ff5a67 / BROAD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 2
+:END:
+大@dà	[[tls:concept:BROAD::#uuid-633614aa-2185-480f-ac53-445eb5ff5a67][BROAD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be large in extent
+** 固多憂乎	gain only trouble from their territory?
+:PROPERTIES:
+:SRC: ZGC 3.9.2; tr. Crump 1979 no. 63, p.73, ed. Shanghaiguji p. 121
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_054:1a12:50::固多 / 戰國策
+:CHARPOS: 50
+:END:
+*** 多@duō
+:PROPERTIES:
+:CONCEPT: uuid-3a82ee48-07a8-433c-9bb8-ada3df7b7b28 / HAVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 51
+:END:
+多@duō	[[tls:concept:HAVE::#uuid-3a82ee48-07a8-433c-9bb8-ada3df7b7b28][HAVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / have much; have many; contain many 多金
+** 天下有變	If the empire should revolt against you
+:PROPERTIES:
+:SRC: ZGC 3.9.2; tr. Crump 1979 no. 63, p.73, ed. Shanghaiguji p. 121
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_054:1a13:50::天下 / 戰國策
+:CHARPOS: 50
+:END:
+*** 變@biàn
+:PROPERTIES:
+:CONCEPT: uuid-034d16e8-9afb-40a6-b669-11acc08cb99e / REVOLT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+變@biàn	[[tls:concept:REVOLT::#uuid-034d16e8-9afb-40a6-b669-11acc08cb99e][REVOLT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / change from the norm> revolt
+** 楚必畔天下而與王	Ch'u would certainly desert the other states and be your ally.
+:PROPERTIES:
+:SRC: ZGC 3.9.2; tr. Crump 1979 no. 63, p.73, ed. Shanghaiguji p. 121
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_054:1a15:1::楚必 / 戰國策
+:CHARPOS: 1
+:END:
+*** 畔@pàn / 叛@pàn
+:PROPERTIES:
+:CONCEPT: uuid-20c08846-f247-4b82-8bd9-b9e0ac6d8cb6 / REVOLT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+畔@pàn / 叛@pàn	[[tls:concept:REVOLT::#uuid-20c08846-f247-4b82-8bd9-b9e0ac6d8cb6][REVOLT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / revolt (against somebody); turn (against somebody)
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-7cdd7cc6-ffec-41fc-879b-a32ffc94e4fd / COOPERATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+與@yǔ	[[tls:concept:COOPERATE::#uuid-7cdd7cc6-ffec-41fc-879b-a32ffc94e4fd][COOPERATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be on theside of; associate with, cooperate with, have dealings with; join in with
+** 即天下有變	and the empire turned against you tomorrow,
+:PROPERTIES:
+:SRC: ZGC 3.9.2; tr. Crump 1979 no. 63, p.73, ed. Shanghaiguji p. 121
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_054:1a17:1::即天 / 戰國策
+:CHARPOS: 1
+:END:
+*** 變@biàn
+:PROPERTIES:
+:CONCEPT: uuid-034d16e8-9afb-40a6-b669-11acc08cb99e / REVOLT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+變@biàn	[[tls:concept:REVOLT::#uuid-034d16e8-9afb-40a6-b669-11acc08cb99e][REVOLT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / change from the norm> revolt
+** 王何以市楚也	what should you use to buy Ch'u's allegiance with?'
+:PROPERTIES:
+:SRC: ZGC 3.9.2; tr. Crump 1979 no. 63, p.73, ed. Shanghaiguji p. 121
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_054:1a17:50::王何 / 戰國策
+:CHARPOS: 50
+:END:
+*** 市@shì
+:PROPERTIES:
+:CONCEPT: uuid-a2cf280d-e253-47c0-9a5f-87be2eb99714 / BUY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 53
+:END:
+市@shì	[[tls:concept:BUY::#uuid-a2cf280d-e253-47c0-9a5f-87be2eb99714][BUY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / buy the allegiance of (a possible partner)

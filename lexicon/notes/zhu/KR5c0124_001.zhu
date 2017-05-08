@@ -1,0 +1,529 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 列子 KR5c0124_001
+#+DATE: 2017-02-08T16:43:49+0900
+#+PROPERTY: COMMIT 9f3f03222df511d9f17d3810ddc93f1d5ef581f9
+** 子列子居鄭圃	Liezi was living in Butian, the game preserve of the state of Zheng.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR5c0124_001:1a01:50::子列 / 列子
+:CHARPOS: 50
+:END:
+*** 居@jū
+:PROPERTIES:
+:CONCEPT: uuid-12d4ed18-9005-49c6-a5de-71bed89b0c95 / DWELL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+居@jū	[[tls:concept:DWELL::#uuid-12d4ed18-9005-49c6-a5de-71bed89b0c95][DWELL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / dwell in for longish time LY 15 居是邦 "when living in such-and-such a state"
+** 四十年人无識者	For forty years no one noticed him,
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR5c0124_001:1a02:50::四十 / 列子
+:CHARPOS: 50
+:END:
+*** 識@shí
+:PROPERTIES:
+:CONCEPT: uuid-11502e28-5e5b-4df3-8e36-627fbc066fd0 / AWARE
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 55
+:END:
+識@shí	[[tls:concept:AWARE::#uuid-11502e28-5e5b-4df3-8e36-627fbc066fd0][AWARE]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / recognise the identity of the contextually determinate person N
+** 國君卿大夫眎之	and the prince, the nobles and the high officials of the state
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR5c0124_001:1a03:50::國君 / 列子
+:CHARPOS: 50
+:END:
+*** 國君@guójūn
+:PROPERTIES:
+:CONCEPT: uuid-b363b1e3-156a-45b4-b61f-576cb9491e2f / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CONCEPT: uuid-fc12ad11-dc6e-489d-b00f-1db64dc815d6 / BELIEVE
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 50
+:END:
+國君@guójūn	[[tls:concept:RULER::#uuid-b363b1e3-156a-45b4-b61f-576cb9491e2f][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the ruler of the state
+〓#視@shì / 視@shì	[[tls:concept:BELIEVE::#uuid-fc12ad11-dc6e-489d-b00f-1db64dc815d6][BELIEVE]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / take the view that S obtains, take the view that S is true 　
+** 猶眾庶也	regarded him as one of the common people.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR5c0124_001:1a04:50::猶眾 / 列子
+:CHARPOS: 50
+:END:
+*** 庶@shù
+:PROPERTIES:
+:CONCEPT: uuid-e65307c5-40a3-49d6-9dd9-028a10c94263 / PEOPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 52
+:END:
+庶@shù	[[tls:concept:PEOPLE::#uuid-e65307c5-40a3-49d6-9dd9-028a10c94263][PEOPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / commoner;
+** 國不足	There was famine in Zheng,
+:PROPERTIES:
+:SRC: Liezi 1.1.2
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:1a05:50::國不 / 列子
+:CHARPOS: 50
+:END:
+*** 不足@bùzú
+:PROPERTIES:
+:CONCEPT: uuid-94fca65f-3e2d-4b1a-9ab8-3c203c4efcf9 / HUNGRY
+:SYN-FUNC: uuid-3362361a-7a61-4172-a122-8b87e3963d2c
+:CHARPOS: 51
+:END:
+不足@bùzú	[[tls:concept:HUNGRY::#uuid-94fca65f-3e2d-4b1a-9ab8-3c203c4efcf9][HUNGRY]]	V [[tls:syn-func::#uuid-3362361a-7a61-4172-a122-8b87e3963d2c][VPi0]] / there was famine
+*** 不足@bùzú
+:PROPERTIES:
+:CONCEPT: uuid-079c83b2-a04d-4353-9d6e-3c69dac4bc80 / INSUFFICIENT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 51
+:END:
+不足@bùzú	[[tls:concept:INSUFFICIENT::#uuid-079c83b2-a04d-4353-9d6e-3c69dac4bc80][INSUFFICIENT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be insufficient; suffer insufficiency of resources; suffer famine
+** 自生自化	Birth and change, [It gives birth to itself, it transforms itself;
+:PROPERTIES:
+:SRC: Liezi 1.1.6
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:1a46:1::自生 / 列子
+:CHARPOS: 1
+:END:
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-8ed1d423-1cfc-46e8-927d-185e5b143996 / BIRTH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 2
+:END:
+生@shēng	[[tls:concept:BIRTH::#uuid-8ed1d423-1cfc-46e8-927d-185e5b143996][BIRTH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / give birth to (oneself)
+*** 化@huà
+:PROPERTIES:
+:CONCEPT: uuid-db5cc09f-8c26-4950-b8ca-eee79a5d3794 / CHANGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 4
+:END:
+化@huà	[[tls:concept:CHANGE::#uuid-db5cc09f-8c26-4950-b8ca-eee79a5d3794][CHANGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / change (one's own) essence, change (oneself) essentially
+** 自形自色	shape and coulour, [it gives shape to itself, and it gives colour to itself;
+:PROPERTIES:
+:SRC: Liezi 1.1.6
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:1a47:50::自形 / 列子
+:CHARPOS: 50
+:END:
+*** 形@xíng
+:PROPERTIES:
+:CONCEPT: uuid-393c0338-16a0-42d1-9e16-de61386a77a8 / SHAPE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 51
+:END:
+形@xíng	[[tls:concept:SHAPE::#uuid-393c0338-16a0-42d1-9e16-de61386a77a8][SHAPE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to have shape
+*** 色@sè
+:PROPERTIES:
+:CONCEPT: uuid-c1bcc93d-3b37-4c4f-b828-ac55554c0367 / COLOUR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 53
+:END:
+色@sè	[[tls:concept:COLOUR::#uuid-c1bcc93d-3b37-4c4f-b828-ac55554c0367][COLOUR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause (oneself) to have colour
+** 自智自力	wisdom and strength, [it gives wisdom to itself, and it gives strength to itself,
+:PROPERTIES:
+:SRC: Liezi 1.1.6
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:1a48:50::自智 / 列子
+:CHARPOS: 50
+:END:
+*** 智@zhì / 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-3a1b1b24-57df-46b8-8287-370f0626c2fa / INTELLIGENT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 51
+:END:
+智@zhì / 知@zhī	[[tls:concept:INTELLIGENT::#uuid-3a1b1b24-57df-46b8-8287-370f0626c2fa][INTELLIGENT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause (oneself) to be intelligent
+*** 力@lì
+:PROPERTIES:
+:CONCEPT: uuid-851e504f-2247-4d94-915c-cbc865ed15a2 / STRONG
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 53
+:END:
+力@lì	[[tls:concept:STRONG::#uuid-851e504f-2247-4d94-915c-cbc865ed15a2][STRONG]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause (oneself) to be constitutionally (not just temporarily) strong
+** 自消自息	decrease and growth. [it causes itself to decrease and it causes itself to flourish.
+:PROPERTIES:
+:SRC: Liezi 1.1.6
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:1a49:50::自消 / 列子
+:CHARPOS: 50
+:END:
+*** 消@xiāo
+:PROPERTIES:
+:CONCEPT: uuid-e0781e57-89d0-4440-a66f-c9f502adf088 / WITHER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 51
+:END:
+消@xiāo	[[tls:concept:WITHER::#uuid-e0781e57-89d0-4440-a66f-c9f502adf088][WITHER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause (oneself) to wither>decline
+** 形載者不能教化	earth which shapes and supports cannot teach and reform,
+:PROPERTIES:
+:SRC: Liezi 1.2.6
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:3a15:1::形載 / 列子
+:CHARPOS: 1
+:END:
+*** 教化@jiàohuà
+:PROPERTIES:
+:CONCEPT: uuid-2f836fa4-e1dd-480e-83b2-22bafd431f1b / TEACH
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+教化@jiàohuà	[[tls:concept:TEACH::#uuid-2f836fa4-e1dd-480e-83b2-22bafd431f1b][TEACH]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / conduct education; engage in the teaching of Buddhism
+** 教化者不能違所宜	the sage who teaches and reforms cannot make things act counter to their functions,
+:PROPERTIES:
+:SRC: Liezi 1.2.6
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:3a16:50::教化 / 列子
+:CHARPOS: 50
+:END:
+*** 教化@jiàohuà
+:PROPERTIES:
+:CONCEPT: uuid-2f836fa4-e1dd-480e-83b2-22bafd431f1b / TEACH
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+教化@jiàohuà	[[tls:concept:TEACH::#uuid-2f836fa4-e1dd-480e-83b2-22bafd431f1b][TEACH]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / conduct education; engage in the teaching of Buddhism
+** 此過歡乎	is it we who are truly happy?
+:PROPERTIES:
+:SRC: Liezi 1.3.1
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:4a08:1::此過 / 列子
+:CHARPOS: 1
+:END:
+*** 歡@huān / 歡@huān / 驩@huān
+:PROPERTIES:
+:CONCEPT: uuid-34fe5cba-e355-4bfe-b0bd-8e42e59a4d12 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+歡@huān / 歡@huān / 驩@huān	[[tls:concept:HAPPY::#uuid-34fe5cba-e355-4bfe-b0bd-8e42e59a4d12][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / rejoice; be happy in the company of others; be on cheerfully friendly terms with each other, be delighted; enjoy oneself, be in high spirits
+** 老耄也	old age,
+:PROPERTIES:
+:SRC: Liezi 1.4.5
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:6a05:1::老耄 / 列子
+:CHARPOS: 1
+:END:
+*** 老耄@lǎomào
+:PROPERTIES:
+:CONCEPT: uuid-2b87ecf2-3b5d-4e32-9516-fc3d7e4af224 / OLD
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 1
+:END:
+老耄@lǎomào	[[tls:concept:OLD::#uuid-2b87ecf2-3b5d-4e32-9516-fc3d7e4af224][OLD]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / decrepitude of old age
+** 其在老耄	When he is old,
+:PROPERTIES:
+:SRC: liezi 1.4.6
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:6a17:1::其在 / 列子
+:CHARPOS: 1
+:END:
+*** 老耄@lǎomào
+:PROPERTIES:
+:CONCEPT: uuid-2b87ecf2-3b5d-4e32-9516-fc3d7e4af224 / OLD
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 3
+:END:
+老耄@lǎomào	[[tls:concept:OLD::#uuid-2b87ecf2-3b5d-4e32-9516-fc3d7e4af224][OLD]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / decrepitude of old age
+** 鼓琴而歌	singing as he strummed a lute.
+:PROPERTIES:
+:SRC: Liezi 1.4.7
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:7a04:1::鼓琴 / 列子
+:CHARPOS: 1
+:END:
+*** 歌@gē
+:PROPERTIES:
+:CONCEPT: uuid-7dbe148e-0247-4d2c-8ea3-6769d3aea774 / SING
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 4
+:END:
+歌@gē	[[tls:concept:SING::#uuid-7dbe148e-0247-4d2c-8ea3-6769d3aea774][SING]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / sing a melody, sing a song, sing along (should this be vt[oN]???) often to accompaniment on the lute
+** 亦有何樂而拾穗行歌乎	'The reasons for my happiness,
+:PROPERTIES:
+:SRC: Liezi 1.5.3
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:8a25:1::亦有 / 列子
+:CHARPOS: 1
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-d5d5549b-d891-487a-9e10-ae007c269209 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-d5d5549b-d891-487a-9e10-ae007c269209][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / deep communicative happiness 熱鬧的快樂
+** 故能壽若此	that I have been able to live so long.
+:PROPERTIES:
+:SRC: Liezi 1.5.4
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:8a32:1::故能 / 列子
+:CHARPOS: 1
+:END:
+*** 若@ruò
+:PROPERTIES:
+:CONCEPT: uuid-39e4ece2-fc9b-4bea-9274-ad5e527ab1d5 / RESEMBLE
+:SYN-FUNC: uuid-97424691-5023-4a2e-b90f-d60a1e3b5673
+:CHARPOS: 4
+:END:
+若@ruò	[[tls:concept:RESEMBLE::#uuid-39e4ece2-fc9b-4bea-9274-ad5e527ab1d5][RESEMBLE]]	V [[tls:syn-func::#uuid-97424691-5023-4a2e-b90f-d60a1e3b5673][vt{0}oN.postadV]] / like N
+** 故能樂若此	that I can be so happy.'
+:PROPERTIES:
+:SRC: Liezi 1.5.4
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:8a35:1::故能 / 列子
+:CHARPOS: 1
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / find communicative happiness; be communicatively happy (the optative cases have to be moved!)
+*** 若@ruò
+:PROPERTIES:
+:CONCEPT: uuid-39e4ece2-fc9b-4bea-9274-ad5e527ab1d5 / RESEMBLE
+:SYN-FUNC: uuid-97424691-5023-4a2e-b90f-d60a1e3b5673
+:CHARPOS: 4
+:END:
+若@ruò	[[tls:concept:RESEMBLE::#uuid-39e4ece2-fc9b-4bea-9274-ad5e527ab1d5][RESEMBLE]]	V [[tls:syn-func::#uuid-97424691-5023-4a2e-b90f-d60a1e3b5673][vt{0}oN.postadV]] / like N
+** 君子息焉	The gentleman finds rest in it,
+:PROPERTIES:
+:SRC: Liezi 1.5.9
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:9a17:1::君子 / 列子
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+** 小人伏焉	the mean man submits to it!'
+:PROPERTIES:
+:SRC: Liezi 1.5.9
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:9a18:50::小人 / 列子
+:CHARPOS: 50
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-86710c17-18a5-4621-866f-eac5b8c9422e / BAD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+小人@xiǎorén	[[tls:concept:BAD::#uuid-86710c17-18a5-4621-866f-eac5b8c9422e][BAD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / petty person
+** 仁者息焉	The good find rest in it,
+:PROPERTIES:
+:SRC: Liezi 1.6.1
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:9a31:1::仁者 / 列子
+:CHARPOS: 1
+:END:
+*** 仁者@rénzhě
+:PROPERTIES:
+:CONCEPT: uuid-8cefb61d-78bf-4d33-b0f1-5e3414fa4f06 / BENEVOLENCE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+仁者@rénzhě	[[tls:concept:BENEVOLENCE::#uuid-8cefb61d-78bf-4d33-b0f1-5e3414fa4f06][BENEVOLENCE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: "the benevolent person; the human-hearted person" at any time and in any place
+** 不仁者伏焉	the wicked submit to it.'
+:PROPERTIES:
+:SRC: Liezi 1.6.1
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:9a32:50::不仁 / 列子
+:CHARPOS: 50
+:END:
+*** 不仁者@bùrénzhě
+:PROPERTIES:
+:CONCEPT: uuid-2d963d6c-acaf-4605-bc8a-f2dad1062695 / CRUEL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+不仁者@bùrénzhě	[[tls:concept:CRUEL::#uuid-2d963d6c-acaf-4605-bc8a-f2dad1062695][CRUEL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: "the cruel people" (in any place and at any time)
+** 何人哉	what sort of a man is he?
+:PROPERTIES:
+:SRC: Liezi 1.6.3
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:9a48:1::何人 / 列子
+:CHARPOS: 1
+:END:
+*** 何人@hérén
+:PROPERTIES:
+:CONCEPT: uuid-895c6751-e9d9-490e-8243-c334db5a5c5c / WHO
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 1
+:END:
+何人@hérén	[[tls:concept:WHO::#uuid-895c6751-e9d9-490e-8243-c334db5a5c5c][WHO]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / be what kind of person? be who?
+** 此二者	Both of these
+:PROPERTIES:
+:SRC: Liezi 1. 6.4
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:9a56:1::此二 / 列子
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303 / THIS
+:SYN-FUNC: uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774
+:SEM-FEAT: uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303][THIS]]	N [[tls:syn-func::#uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774][npro.adN{NUM}:adnpro]] {[[tls:sem-feat::#uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432][N=abstract]]} / 此三者
+** 廢寢食者	that he forgot to eat and sleep.
+:PROPERTIES:
+:SRC: Liezi 1.7.1
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:12a03:1::廢寢 / 列子
+:CHARPOS: 1
+:END:
+*** 寢@qǐn
+:PROPERTIES:
+:CONCEPT: uuid-ea9a73ff-d511-42f4-bee7-d273586027f2 / REST
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+寢@qǐn	[[tls:concept:REST::#uuid-ea9a73ff-d511-42f4-bee7-d273586027f2][REST]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / resting; going to rest
+** 天果積氣	'If heaven really is accumulated air,
+:PROPERTIES:
+:SRC: Liezi 1.7.2
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:12a14:1::「天 / 列子
+:CHARPOS: 1
+:END:
+*** 氣@qì
+:PROPERTIES:
+:CONCEPT: uuid-e5077965-dff4-4678-8d76-f5ebdf73b5d2 / COSMIC FORCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 4
+:END:
+氣@qì	[[tls:concept:COSMIC FORCE::#uuid-e5077965-dff4-4678-8d76-f5ebdf73b5d2][COSMIC FORCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / dynamic substrate of the universe
+** 亦積氣中之有光耀者	are air which shines inside the accumulated air.
+:PROPERTIES:
+:SRC: Liezi 1.7.2
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:12a18:1::亦積 / 列子
+:CHARPOS: 1
+:END:
+*** 氣@qì
+:PROPERTIES:
+:CONCEPT: uuid-e5077965-dff4-4678-8d76-f5ebdf73b5d2 / COSMIC FORCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 3
+:END:
+氣@qì	[[tls:concept:COSMIC FORCE::#uuid-e5077965-dff4-4678-8d76-f5ebdf73b5d2][COSMIC FORCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / dynamic substrate of the universe
+** 其人舍然大喜	The man was satisfied and greatly cheered;
+:PROPERTIES:
+:SRC: Liezi 1.7.3
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:12a30:1::其人 / 列子
+:CHARPOS: 1
+:END:
+*** 大喜@dàxǐ
+:PROPERTIES:
+:CONCEPT: uuid-26164bf4-c272-4af4-8899-59387f2c6a66 / DELIGHT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 5
+:END:
+大喜@dàxǐ	[[tls:concept:DELIGHT::#uuid-26164bf4-c272-4af4-8899-59387f2c6a66][DELIGHT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be overjoyed; be absolutely delighted
+** 曉之者亦舍然大喜	and so was the man who enlightened him.
+:PROPERTIES:
+:SRC: Liezi 1.7.3
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:12a31:50::曉之 / 列子
+:CHARPOS: 50
+:END:
+*** 大喜@dàxǐ
+:PROPERTIES:
+:CONCEPT: uuid-26164bf4-c272-4af4-8899-59387f2c6a66 / DELIGHT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 56
+:END:
+大喜@dàxǐ	[[tls:concept:DELIGHT::#uuid-26164bf4-c272-4af4-8899-59387f2c6a66][DELIGHT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be overjoyed; be absolutely delighted
+** 是天地之委蛻也	heaven and earth lend them to you to cast off from your body as an insect sheds its skin.
+:PROPERTIES:
+:SRC: Liezi 1.8.2
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:13a16:1::是天 / 列子
+:CHARPOS: 1
+:END:
+*** 蛻@tuì
+:PROPERTIES:
+:CONCEPT: uuid-50314834-4ab0-4891-8921-bc5e5d5006e0 / CHANGE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 6
+:END:
+蛻@tuì	[[tls:concept:CHANGE::#uuid-50314834-4ab0-4891-8921-bc5e5d5006e0][CHANGE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / metamorphosis, complete transformation
+** 向氏大喜	Xiang was delighted;
+:PROPERTIES:
+:SRC: Liezi 1.9.2
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:14a13:1::向氏 / 列子
+:CHARPOS: 1
+:END:
+*** 大喜@dàxǐ
+:PROPERTIES:
+:CONCEPT: uuid-26164bf4-c272-4af4-8899-59387f2c6a66 / DELIGHT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 3
+:END:
+大喜@dàxǐ	[[tls:concept:DELIGHT::#uuid-26164bf4-c272-4af4-8899-59387f2c6a66][DELIGHT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be overjoyed; be absolutely delighted
+** 嘻	Guo said.
+:PROPERTIES:
+:SRC: Liezi 1.9.3
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:14a28:1::「嘻 / 列子
+:CHARPOS: 1
+:END:
+*** 嘻@xī / 譆@xī
+:PROPERTIES:
+:CONCEPT: uuid-869aa087-8fcb-42a4-aeb3-2291f9060164 / EXCLAMATORY PARTICLE
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:CHARPOS: 1
+:END:
+嘻@xī / 譆@xī	[[tls:concept:EXCLAMATORY PARTICLE::#uuid-869aa087-8fcb-42a4-aeb3-2291f9060164][EXCLAMATORY PARTICLE]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] / ah! exclamatory particle expressing surprise, sometimes mixed with delight
+** 夫禾稼土木禽獸魚鱉	for crops and seed, clay and wood, birds and animals, fish and turtles,
+:PROPERTIES:
+:SRC: Liezi 1.9.5
+:DATE: 4100	Middle Chinese
+:LOCATION: KR5c0124_001:14a43:1::夫禾 / 列子
+:CHARPOS: 1
+:END:
+*** 禾稼@héjià
+:PROPERTIES:
+:CONCEPT: uuid-6760e16a-8d6d-43fb-957d-6b28eb07cdfd / GRAIN
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:CHARPOS: 2
+:END:
+禾稼@héjià	[[tls:concept:GRAIN::#uuid-6760e16a-8d6d-43fb-957d-6b28eb07cdfd][GRAIN]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / grain

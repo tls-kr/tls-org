@@ -1,0 +1,33 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_080
+#+DATE: 2017-02-08T16:41:17+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 齊秦交爭	Yet if Ch'i and Ch'in wrangle over treatises with Han and Wei
+:PROPERTIES:
+:SRC: ZGC 5.6.1; tr. Crump 1979 no. i3, p 88, ed. Shanghaiguji p. 172 The balance of power
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_080:1a05:1::齊、 / 戰國策
+:CHARPOS: 1
+:END:
+*** 交@jiāo
+:PROPERTIES:
+:CONCEPT: uuid-1f8b8074-a1a5-4df8-a4ff-723a661bbf74 / INTERACT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 3
+:END:
+交@jiāo	[[tls:concept:INTERACT::#uuid-1f8b8074-a1a5-4df8-a4ff-723a661bbf74][INTERACT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in competition with one-another, together
+** 則秦伐矣	Ch'in will be attacked.
+:PROPERTIES:
+:SRC: ZGC 5.6.1; tr. Crump 1979 no. i3, p 88, ed. Shanghaiguji p. 172 The balance of power
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_080:1a07:1::則秦 / 戰國策
+:CHARPOS: 1
+:END:
+*** 伐@fá
+:PROPERTIES:
+:CONCEPT: uuid-821806af-955c-436d-bbef-40da79a386c4 / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 3
+:END:
+伐@fá	[[tls:concept:ATTACK::#uuid-821806af-955c-436d-bbef-40da79a386c4][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / 可伐　be attacked

@@ -1,0 +1,76 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_003
+#+DATE: 2017-02-08T16:41:07+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 故天子之國也	is the country of the Son of Heaven
+:PROPERTIES:
+:SRC: ZGC 1.3.1; tr. Crump 1979 no. 22, p. 39 Han dissuaded from intervening in the quarrel of East and West Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_003:1a05:1::故天 / 戰國策
+:CHARPOS: 1
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-e9d7ecdf-283d-4ee4-9dfa-27501092b82e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-e9d7ecdf-283d-4ee4-9dfa-27501092b82e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / an emperor; the emperor generally (with untensed predicate)
+** 多名器重寶	and it is rich in famous treasures.
+:PROPERTIES:
+:SRC: ZGC 1.3.1; tr. Crump 1979 no. 22, p. 39 Han dissuaded from intervening in the quarrel of East and West Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_003:1a06:50::多名 / 戰國策
+:CHARPOS: 50
+:END:
+*** 多@duō
+:PROPERTIES:
+:CONCEPT: uuid-93599e87-6c88-4ce0-9741-cd85f59d8b6e / ABUNDANT
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:CHARPOS: 50
+:END:
+多@duō	[[tls:concept:ABUNDANT::#uuid-93599e87-6c88-4ce0-9741-cd85f59d8b6e][ABUNDANT]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] / have a great deal of, abound in
+*** 名@míng
+:PROPERTIES:
+:CONCEPT: uuid-bb999101-835c-4082-af3b-7a195217ec90 / WELL-KNOWN
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 51
+:END:
+名@míng	[[tls:concept:WELL-KNOWN::#uuid-bb999101-835c-4082-af3b-7a195217ec90][WELL-KNOWN]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / famous, renouned名師　"famous army"
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024 / PRECIOUS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 54
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024][PRECIOUS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / precious possession; precious things; treasure of high personal, monetary, social or moral value 三寶
+** 案兵而勿出	Hold back your troops and do not send them forth -
+:PROPERTIES:
+:SRC: ZGC 1.3.1; tr. Crump 1979 no. 22, p. 39 Han dissuaded from intervening in the quarrel of East and West Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_003:1a07:50::案兵 / 戰國策
+:CHARPOS: 50
+:END:
+*** 案@àn
+:PROPERTIES:
+:CONCEPT: uuid-1a6b280e-e282-4c4c-b518-43ba23bb3405 / SAFEGUARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+案@àn	[[tls:concept:SAFEGUARD::#uuid-1a6b280e-e282-4c4c-b518-43ba23bb3405][SAFEGUARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / hold down, keep with one
+** 可以德東周	you will put East Chou in your debt
+:PROPERTIES:
+:SRC: ZGC 1.3.1; tr. Crump 1979 no. 22, p. 39 Han dissuaded from intervening in the quarrel of East and West Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_003:1a08:50::可以 / 戰國策
+:CHARPOS: 50
+:END:
+*** 德@dé
+:PROPERTIES:
+:CONCEPT: uuid-8970d227-d4b8-4814-bfd0-36401f81b752 / WIN TRUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 52
+:END:
+德@dé	[[tls:concept:WIN TRUST::#uuid-8970d227-d4b8-4814-bfd0-36401f81b752][WIN TRUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / (cause to feel well-disposed towards>) win favour with, put someone in one's debt

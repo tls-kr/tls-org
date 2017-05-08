@@ -1,0 +1,148 @@
+# -*- mode: mandoku-tls-view -*-
+#+TITLE: AMBUSH
+#+DATE: 2017-03-18T10:35:30.668+09:00        
+#+STARTUP: content
+* =CONCEPT= AMBUSH
+:PROPERTIES:
+:CUSTOM_ID: uuid-99d0b32d-3285-4114-90ca-dee9e12975b8
+:SYNONYM+:  SURPRISE ATTACK
+:SYNONYM+:  TRAP
+:SYNONYM+:  ARCHAIC AMBUSCADE
+:TR_ZH: 埋伏
+:END:
+** DEFINITION
+
+ATTACK AND HIDE WHILE PREPARING to do so.
+
+** NOTES
+
+*** Old Chinese Criteria
+[[COMMON/RARE]]
+
+[GENERAL/SPECIFIC]
+
+1. The current word for lying in ambush as part of attacking someone furtively in any context, formaly military or otherwise, is fú 伏.
+
+[GENERAL]; [[COMMON]]
+
+2. Fù 覆 is used as a military technical term limited to the use of ambushes in formal military campaigns.
+
+[SPECIFIC]; [[RARE]]
+
+*** Modern Chinese Criteria
+埋伏
+
+打埋
+
+設伏
+
+伏擊
+
+rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／
+
+** POINTERS
+*** WORDNET synsets
+ - 01249473
+ - 01140630
+
+*** KIND OF
+ - [[tls:concept:ATTACK][ATTACK]]
+
+** SOURCE REFERENCES
+*** BUCK 1988
+ - [[cite:BUCK-1988][BUCK(1988), A Dictionary of Selected Synonyms in the Principal Indo-European Languages]], p.20.49
+
+*** LANGIUS 1631
+ - [[cite:LANGIUS-1631][Langius(1631), Anthologia sive Florilegium rerum et materiarum selectarum]] (INSIDIAE)
+** WORDS
+   :PROPERTIES:
+   :VISIBILITY: children
+   :END:
+*** 伏 fú (OC:bɯɡ MC:buk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-38993e6c-7eb7-46e8-a757-eb0a6c34da92
+:Char+: 伏(9,4/6) 
+:GY_IDS+: uuid-0b8dea74-8a9e-4899-b1a2-38988a4d58dc
+:PY+: fú     
+:OC+: bɯɡ     
+:MC+: buk     
+:END: 
+**** V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / lying in ambush
+:PROPERTIES:
+:CUSTOM_ID: uuid-3fdd54d0-92f9-430e-8625-4ec29bc0d07d
+:WARRING-STATES-CURRENCY: 4
+:END:
+****** DEFINITION
+
+lying in ambush
+
+****** NOTES
+
+******* Examples
+CURRENT: 伏兵 "soldiers lying in ambush"
+
+**** V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / lie in ambush; hide and lie in ambush
+:PROPERTIES:
+:CUSTOM_ID: uuid-6d0a4e4e-6f87-4101-a4d6-e6b999eb051d
+:WARRING-STATES-CURRENCY: 4
+:END:
+****** DEFINITION
+
+lie in ambush; hide and lie in ambush
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to lie in ambush
+:PROPERTIES:
+:CUSTOM_ID: uuid-223d6968-f068-4849-ba01-95af000a6291
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+cause to lie in ambush
+
+****** NOTES
+
+*** 覆 fù (OC:phuɡ MC:phuk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-e713b09d-0238-42ed-bc4f-125d546750ea
+:Char+: 覆(146,12/18) 
+:GY_IDS+: uuid-3e1a9814-01ba-48a1-8cc3-87741ce32d04
+:PY+: fù     
+:OC+: phuɡ     
+:MC+: phuk     
+:END: 
+**** N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / ambush team, ambush batallion
+:PROPERTIES:
+:CUSTOM_ID: uuid-a0fd223d-5fe5-4941-a380-724c8daa136c
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+ambush team, ambush batallion
+
+****** NOTES
+
+**** N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / ambush
+:PROPERTIES:
+:CUSTOM_ID: uuid-4354b586-e72d-45f2-9f71-7aeeaef888bb
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+ambush
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / ambush
+:PROPERTIES:
+:CUSTOM_ID: uuid-b2fa4497-2c80-4d93-bba5-8462910aef6c
+:END:
+****** DEFINITION
+
+ambush
+
+****** NOTES
+
+** BIBLIOGRAPHY
+bibliography:../core/tlsbib.bib

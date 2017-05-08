@@ -1,0 +1,119 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_019
+#+DATE: 2017-02-08T16:41:09+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 仇赫之相宋	'As minister of Sung, Ch'ou Ho
+:PROPERTIES:
+:SRC: ZGC 1.19.1; tr. Crump 1979 no.29, p. 43 Chou Tsui is given a plan which will make him joint minister in Han and Wei
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_019:1a02:1::「仇 / 戰國策
+:CHARPOS: 1
+:END:
+*** 相@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-2f1c211e-24bf-4671-971b-55f8b9ec8369 / MINISTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-30d59aba-58eb-4679-b8e1-d48c62d29bb5
+:CHARPOS: 4
+:END:
+相@xiàng	[[tls:concept:MINISTER::#uuid-2f1c211e-24bf-4671-971b-55f8b9ec8369][MINISTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-30d59aba-58eb-4679-b8e1-d48c62d29bb5][N=state]]} / act as prime minister for (a state); become prime minister of
+** 將以觀秦之應趙宋	wants to see to it that Ch'in joins Chao and Sung
+:PROPERTIES:
+:SRC: ZGC 1.19.1; tr. Crump 1979 no.29, p. 43 Chou Tsui is given a plan which will make him joint minister in Han and Wei
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_019:1a03:50::將以 / 戰國策
+:CHARPOS: 50
+:END:
+*** 應@yìng
+:PROPERTIES:
+:CONCEPT: uuid-ce5cad33-c5a9-4bf5-87fd-d76fc7c2fb35 / COOPERATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+應@yìng	[[tls:concept:COOPERATE::#uuid-ce5cad33-c5a9-4bf5-87fd-d76fc7c2fb35][COOPERATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / respond positively so as to cooperate with
+** 敗三國	to defeat the Three States.30
+:PROPERTIES:
+:SRC: ZGC 1.19.1; tr. Crump 1979 no.29, p. 43 Chou Tsui is given a plan which will make him joint minister in Han and Wei
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_019:1a03:50::敗三 / 戰國策
+:CHARPOS: 50
+:END:
+*** 敗@bài
+:PROPERTIES:
+:CONCEPT: uuid-cd4209dd-e516-4273-b1cf-b56cec8150fc / DEFEAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+敗@bài	[[tls:concept:DEFEAT::#uuid-cd4209dd-e516-4273-b1cf-b56cec8150fc][DEFEAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / read praads: inflict defeat on
+** 將興趙宋合於東方以孤秦	he is just as willing to join Chao and Sung and isolate Ch'in.
+:PROPERTIES:
+:SRC: ZGC 1.19.1; tr. Crump 1979 no.29, p. 43 Chou Tsui is given a plan which will make him joint minister in Han and Wei
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_019:1a05:1::將興 / 戰國策
+:CHARPOS: 1
+:END:
+*** 合@hé
+:PROPERTIES:
+:CONCEPT: uuid-b54749cb-c9c5-48c1-89b1-65f4de65b385 / COOPERATE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 5
+:END:
+合@hé	[[tls:concept:COOPERATE::#uuid-b54749cb-c9c5-48c1-89b1-65f4de65b385][COOPERATE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / cooperate with, ally oneself with
+*** 孤@gū
+:PROPERTIES:
+:CONCEPT: uuid-74e3b754-59c5-4654-85ed-1e0d0090c095 / LONELY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 10
+:END:
+孤@gū	[[tls:concept:LONELY::#uuid-74e3b754-59c5-4654-85ed-1e0d0090c095][LONELY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / isolate
+** 欲秦趙之相賣乎	"Would your majesties enjoy seeing Chao and Ch'in sell each other out?
+:PROPERTIES:
+:SRC: ZGC 1.19.2; tr. Crump 1979 no.29, p. 43
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_019:1a11:1::『欲 / 戰國策
+:CHARPOS: 1
+:END:
+*** 相@xiàng / 相@xiāng
+:PROPERTIES:
+:CONCEPT: uuid-c753b3c7-655a-4844-a49a-7bd7196ab162 / MUTUAL
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 5
+:END:
+相@xiàng / 相@xiāng	[[tls:concept:MUTUAL::#uuid-c753b3c7-655a-4844-a49a-7bd7196ab162][MUTUAL]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / one another
+*** 賣@mài
+:PROPERTIES:
+:CONCEPT: uuid-a630fc63-f91a-4e75-be21-32533c202943 / CHEAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+賣@mài	[[tls:concept:CHEAT::#uuid-a630fc63-f91a-4e75-be21-32533c202943][CHEAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / betray
+** 則秦趙必相賣	Ch'in and Chao will certainly sell each other out
+:PROPERTIES:
+:SRC: ZGC 1.19.2; tr. Crump 1979 no.29, p. 43
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_019:1a13:1::則秦 / 戰國策
+:CHARPOS: 1
+:END:
+*** 賣@mài
+:PROPERTIES:
+:CONCEPT: uuid-a630fc63-f91a-4e75-be21-32533c202943 / CHEAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+賣@mài	[[tls:concept:CHEAT::#uuid-a630fc63-f91a-4e75-be21-32533c202943][CHEAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / betray
+** 以合於王也	in an effort to make alliance with both of you."'
+:PROPERTIES:
+:SRC: ZGC 1.19.2; tr. Crump 1979 no.29, p. 43
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_019:1a13:50::以合 / 戰國策
+:CHARPOS: 50
+:END:
+*** 合@hé
+:PROPERTIES:
+:CONCEPT: uuid-b54749cb-c9c5-48c1-89b1-65f4de65b385 / COOPERATE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 51
+:END:
+合@hé	[[tls:concept:COOPERATE::#uuid-b54749cb-c9c5-48c1-89b1-65f4de65b385][COOPERATE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / cooperate with, ally oneself with

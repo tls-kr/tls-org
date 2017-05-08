@@ -1,0 +1,172 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_072
+#+DATE: 2017-02-08T16:41:16+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 甘茂約秦魏而攻楚	Kan Mao made a pact between Ch'in and Wei to attack Ch'u.
+:PROPERTIES:
+:SRC: ZGC 4.14.1; tr. Crump 1979 no. 74, p 80 Kan Mao wants Wei to supervise a truce
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_072:1a01:50::甘茂 / 戰國策
+:CHARPOS: 50
+:END:
+*** 約@yuē
+:PROPERTIES:
+:CONCEPT: uuid-fb816423-9876-4926-81e6-5a2ab757d431 / AGREE TO
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:CHARPOS: 52
+:END:
+約@yuē	[[tls:concept:AGREE TO::#uuid-fb816423-9876-4926-81e6-5a2ab757d431][AGREE TO]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] / agree with N to V
+** 楚之相秦者屈蓋	Ch'y Kai, whom Ch'u had succeeded in making Ch'in's minister,
+:PROPERTIES:
+:SRC: ZGC 4.14.1; tr. Crump 1979 no. 74, p 80 Kan Mao wants Wei to supervise a truce
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_072:1a02:50::楚之 / 戰國策
+:CHARPOS: 50
+:END:
+*** 相@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-ae6585d1-a4a8-49eb-be77-c2236886b4db / MINISTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 52
+:END:
+相@xiàng	[[tls:concept:MINISTER::#uuid-ae6585d1-a4a8-49eb-be77-c2236886b4db][MINISTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / make into a prime minister, install as prime minister
+** 為楚和於秦	arranged a truce between Ch'u and Ch'in
+:PROPERTIES:
+:SRC: ZGC 4.14.1; tr. Crump 1979 no. 74, p 80 Kan Mao wants Wei to supervise a truce
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_072:1a03:50::為楚 / 戰國策
+:CHARPOS: 50
+:END:
+*** 和@hé
+:PROPERTIES:
+:CONCEPT: uuid-a770380b-4d8d-4c13-a9c6-438539d65162 / PEACE
+:SYN-FUNC: uuid-83cd4c17-4bbd-4297-b755-f73ad927670d
+:CHARPOS: 52
+:END:
+和@hé	[[tls:concept:PEACE::#uuid-a770380b-4d8d-4c13-a9c6-438539d65162][PEACE]]	V [[tls:syn-func::#uuid-83cd4c17-4bbd-4297-b755-f73ad927670d][vt1.postvt2+N]] / sue for peace with N
+** 秦啟關而聽楚使	during which Ch'in reopened her borders to admit emissaries from Ch'u.
+:PROPERTIES:
+:SRC: ZGC 4.14.1; tr. Crump 1979 no. 74, p 80 Kan Mao wants Wei to supervise a truce
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_072:1a04:50::秦啟 / 戰國策
+:CHARPOS: 50
+:END:
+*** 啟@qǐ
+:PROPERTIES:
+:CONCEPT: uuid-a38452f7-3a99-43c1-a4e5-ba62b7fa2129 / OPEN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+啟@qǐ	[[tls:concept:OPEN::#uuid-a38452f7-3a99-43c1-a4e5-ba62b7fa2129][OPEN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / open (so that it will be permanently unlocked or visible) YILI: 啟會"open the lid"
+*** 關@guān
+:PROPERTIES:
+:CONCEPT: uuid-f504dc8d-3b1d-4d77-93ed-3090f17049bc / BOUNDARY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+關@guān	[[tls:concept:BOUNDARY::#uuid-f504dc8d-3b1d-4d77-93ed-3090f17049bc][BOUNDARY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / border point, border check-point; mountain pass
+** 怵於楚	'If we are beguiled by Ch'u
+:PROPERTIES:
+:SRC: ZGC 4.14.1; tr. Crump 1979 no. 74, p 80 Kan Mao wants Wei to supervise a truce
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_072:1a06:1::「怵 / 戰國策
+:CHARPOS: 1
+:END:
+*** 怵@chù
+:PROPERTIES:
+:CONCEPT: uuid-9acba7fd-1225-4214-b84c-8f5ec65e3c54 / SEDUCE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 1
+:END:
+怵@chù	[[tls:concept:SEDUCE::#uuid-9acba7fd-1225-4214-b84c-8f5ec65e3c54][SEDUCE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be seduced by
+** 而不使魏制和	into keeping Wei from supervising this peace,
+:PROPERTIES:
+:SRC: ZGC 4.14.1; tr. Crump 1979 no. 74, p 80 Kan Mao wants Wei to supervise a truce
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_072:1a06:50::而不 / 戰國策
+:CHARPOS: 50
+:END:
+*** 和@hé
+:PROPERTIES:
+:CONCEPT: uuid-7bd7d266-bd17-46ac-acaf-60739bd85899 / PEACE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+和@hé	[[tls:concept:PEACE::#uuid-7bd7d266-bd17-46ac-acaf-60739bd85899][PEACE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / peaceful agreement; the peace process (!)
+** 楚必曰	Ch'ū16 will say to herself,
+:PROPERTIES:
+:SRC: ZGC 4.14.1; tr. Crump 1979 no. 74, p 80 Kan Mao wants Wei to supervise a truce
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_072:1a07:50::楚必 / 戰國策
+:CHARPOS: 50
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-fdfcecd9-a9b7-483f-a2eb-01fd56ab4563 / THINK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:CHARPOS: 52
+:END:
+曰@yuē	[[tls:concept:THINK::#uuid-fdfcecd9-a9b7-483f-a2eb-01fd56ab4563][THINK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] / (inner monologue:) say to oneself that S; think that S 謀曰
+** 秦鬻魏	"Ch'in is selling Wei out,
+:PROPERTIES:
+:SRC: ZGC 4.14.1; tr. Crump 1979 no. 74, p 80 Kan Mao wants Wei to supervise a truce
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_072:1a08:50::『『 / 戰國策
+:CHARPOS: 50
+:END:
+*** 鬻@yù / 粥@yù
+:PROPERTIES:
+:CONCEPT: uuid-8f974965-80d2-4dc2-b46c-ab6166739271 / SELL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 51
+:END:
+鬻@yù / 粥@yù	[[tls:concept:SELL::#uuid-8f974965-80d2-4dc2-b46c-ab6166739271][SELL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / capitalise on, make profit by; make profit at the cost of
+** 王不如使魏制和	Your majesty could not do better than ask Wei to oversee the truce.117
+:PROPERTIES:
+:SRC: ZGC 4.14.2; tr. Crump 1979 no. 74, p 80
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_072:1a12:1::王不 / 戰國策
+:CHARPOS: 1
+:END:
+*** 不如@bùrú
+:PROPERTIES:
+:CONCEPT: uuid-ed405fc1-db4d-40a2-a803-fc30e4f70633 / SHOULD
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 2
+:END:
+不如@bùrú	[[tls:concept:SHOULD::#uuid-ed405fc1-db4d-40a2-a803-fc30e4f70633][SHOULD]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / had better, should ideally, should under the circumstances, should given the alternatives that the situation presents
+*** 和@hé
+:PROPERTIES:
+:CONCEPT: uuid-7bd7d266-bd17-46ac-acaf-60739bd85899 / PEACE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 7
+:END:
+和@hé	[[tls:concept:PEACE::#uuid-7bd7d266-bd17-46ac-acaf-60739bd85899][PEACE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / peaceful agreement; the peace process (!)
+** 魏制和必悅	This would make Wei happy.
+:PROPERTIES:
+:SRC: ZGC 4.14.2; tr. Crump 1979 no. 74, p 80
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_072:1a13:50::魏制 / 戰國策
+:CHARPOS: 50
+:END:
+*** 和@hé
+:PROPERTIES:
+:CONCEPT: uuid-7bd7d266-bd17-46ac-acaf-60739bd85899 / PEACE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+和@hé	[[tls:concept:PEACE::#uuid-7bd7d266-bd17-46ac-acaf-60739bd85899][PEACE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / peaceful agreement; the peace process (!)
+*** 悅@yuè / 說@yuè
+:PROPERTIES:
+:CONCEPT: uuid-0e54c3a2-c1d6-4cc3-ab7b-5d0403a91dcc / DELIGHT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 54
+:END:
+悅@yuè / 說@yuè	[[tls:concept:DELIGHT::#uuid-0e54c3a2-c1d6-4cc3-ab7b-5d0403a91dcc][DELIGHT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / get delighted; become glad

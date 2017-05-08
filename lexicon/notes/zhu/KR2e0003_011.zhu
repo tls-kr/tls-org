@@ -1,0 +1,345 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_011
+#+DATE: 2017-02-08T16:41:09+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 相呂倉	and made Ly Ts'ang his minister,
+:PROPERTIES:
+:SRC: ZGC 1.11.1; tr. Crump 1979 no. 41, p. 50 A good minister bears the blame for his master's faults
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:1a02:1::相呂 / 戰國策
+:CHARPOS: 1
+:END:
+*** 相@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-ac311821-4880-4b6f-85bc-64411189fbac / APPOINT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+相@xiàng	[[tls:concept:APPOINT::#uuid-ac311821-4880-4b6f-85bc-64411189fbac][APPOINT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / appoint as prime minister
+** 國人不說也	the citizens were not pleased
+:PROPERTIES:
+:SRC: ZGC 1.11.1; tr. Crump 1979 no. 41, p. 50 A good minister bears the blame for his master's faults
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:1a03:50::國人 / 戰國策
+:CHARPOS: 50
+:END:
+*** 國人@guórén
+:PROPERTIES:
+:CONCEPT: uuid-84a71455-01f6-47e2-8a86-c292437d645a / CITIZEN
+:SYN-FUNC: uuid-0c513944-f90e-42df-a8ad-65300f05c945
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 50
+:END:
+國人@guórén	[[tls:concept:CITIZEN::#uuid-84a71455-01f6-47e2-8a86-c292437d645a][CITIZEN]]	N [[tls:syn-func::#uuid-0c513944-f90e-42df-a8ad-65300f05c945][NP{post-N}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / a person entitled to ride in a wheeled vehicle, in particular a war chariot, as a citizen of senior status
+*** 不說@bùyuè
+:PROPERTIES:
+:CONCEPT: uuid-af2a299b-c4b0-4365-a7c2-1192135ba7eb / DISSATISFIED
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 52
+:END:
+不說@bùyuè	[[tls:concept:DISSATISFIED::#uuid-af2a299b-c4b0-4365-a7c2-1192135ba7eb][DISSATISFIED]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be displeased
+** 君有閔閔之心	and the ruler was disturbed by this.
+:PROPERTIES:
+:SRC: ZGC 1.11.1; tr. Crump 1979 no. 41, p. 50 A good minister bears the blame for his master's faults
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:1a04:50::君有 / 戰國策
+:CHARPOS: 50
+:END:
+*** 閔@mǐn
+:PROPERTIES:
+:CONCEPT: uuid-35752fa2-f280-46ec-a403-77ed3d230577 / SAD
+:SYN-FUNC: uuid-5b697d6a-4877-4f81-9195-3ac4bb6f5947
+:CHARPOS: 52
+:END:
+閔@mǐn	[[tls:concept:SAD::#uuid-35752fa2-f280-46ec-a403-77ed3d230577][SAD]]	 [[tls:syn-func::#uuid-5b697d6a-4877-4f81-9195-3ac4bb6f5947][vi.red:adN]] / very sad, disconcerted
+** 國必有誹譽	said someone to Wen of Chou;
+:PROPERTIES:
+:SRC: ZGC 1.11.2; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a01:1::「國 / 戰國策
+:CHARPOS: 1
+:END:
+*** 譽@yù
+:PROPERTIES:
+:CONCEPT: uuid-b55ab199-c631-4e0d-8114-b765165a4585 / PRAISE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+譽@yù	[[tls:concept:PRAISE::#uuid-b55ab199-c631-4e0d-8114-b765165a4585][PRAISE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / public praise; high praise (CHECK PRONUNCIATION FOR THIS READING)
+** 忠臣令誹在己	'the faithful ministers causes the blame to fall on himself
+:PROPERTIES:
+:SRC: ZGC 1.11.2; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a02:50::忠臣 / 戰國策
+:CHARPOS: 50
+:END:
+*** 誹@fěi
+:PROPERTIES:
+:CONCEPT: uuid-f4ca153f-36dc-4cbd-a9b6-41d61f395c9a / CRITICISE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+誹@fěi	[[tls:concept:CRITICISE::#uuid-f4ca153f-36dc-4cbd-a9b6-41d61f395c9a][CRITICISE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / censure, public criticism; defamation
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1 / SELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 55
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1][SELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / object pronoun, resumptive, non-contrastive: oneself, himself, herself, themselves
+** 宋君奪民時以為臺	When the ruler of Sung stole his people's time to construct a pavilion
+:PROPERTIES:
+:SRC: ZGC 1.11.2; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a04:1::宋君 / 戰國策
+:CHARPOS: 1
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-8064ffe3-2f68-4863-b061-b5a636129897 / BUILD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+為@wéi	[[tls:concept:BUILD::#uuid-8064ffe3-2f68-4863-b061-b5a636129897][BUILD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / build
+** 而民非之	and the citizens thought ill of it9
+:PROPERTIES:
+:SRC: ZGC 1.11.2; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a05:50::而民 / 戰國策
+:CHARPOS: 50
+:END:
+*** 非@fēi
+:PROPERTIES:
+:CONCEPT: uuid-e9cc7d3d-ce64-4930-988c-b04c5788b9b6 / CRITICISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-8b13ea65-8d3c-4d62-b4bf-caf8506c9f68
+:CHARPOS: 52
+:END:
+非@fēi	[[tls:concept:CRITICISE::#uuid-e9cc7d3d-ce64-4930-988c-b04c5788b9b6][CRITICISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-8b13ea65-8d3c-4d62-b4bf-caf8506c9f68][declarative]]} / declare wrong> criticise; disagree with, deny; disapprove, be opposed to; oppose
+** 無忠臣以掩蓋之也	he had no faithful minister to shield him
+:PROPERTIES:
+:SRC: ZGC 1.11.2; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a06:50::無忠 / 戰國策
+:CHARPOS: 50
+:END:
+*** 掩蓋@yǎngài
+:PROPERTIES:
+:CONCEPT: uuid-73d3742c-19b5-4d33-9af0-c5a6cf472ddb / COVER
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 54
+:END:
+掩蓋@yǎngài	[[tls:concept:COVER::#uuid-73d3742c-19b5-4d33-9af0-c5a6cf472ddb][COVER]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / cover and protect
+** 子罕釋相為司空	Tzu Han quit his post as chief minister and became Master of Public Works.
+:PROPERTIES:
+:SRC: ZGC 1.11.2; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a07:50::子罕 / 戰國策
+:CHARPOS: 50
+:END:
+*** 釋@shì
+:PROPERTIES:
+:CONCEPT: uuid-67b93a36-85c4-496b-9cb5-42b18adcab51 / DISCARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+釋@shì	[[tls:concept:DISCARD::#uuid-67b93a36-85c4-496b-9cb5-42b18adcab51][DISCARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / discard, abandon; put down, put aside, put away; reject and rid oneself of; dismiss and reject; give up (on a task)
+*** 相@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-01d51acc-46af-4597-8ba7-516c74ad8292 / MINISTER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 53
+:END:
+相@xiàng	[[tls:concept:MINISTER::#uuid-01d51acc-46af-4597-8ba7-516c74ad8292][MINISTER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / position of a prime minister 受相 "accept the position of primeminister"
+*** 司空@sīkōng
+:PROPERTIES:
+:CONCEPT: uuid-358b1686-604e-4072-8ff1-30e8e5d2d8b9 / MINISTER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 55
+:END:
+司空@sīkōng	[[tls:concept:MINISTER::#uuid-358b1686-604e-4072-8ff1-30e8e5d2d8b9][MINISTER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / minister of works (see also 大司空 "grand minister of works")
+** 齊桓公宮中七市	Duke Huan of Ch'i had seven market places within his palace
+:PROPERTIES:
+:SRC: ZGC 1.11.3; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a09:1::齊桓 / 戰國策
+:CHARPOS: 1
+:END:
+*** 宮@gōng
+:PROPERTIES:
+:CONCEPT: uuid-d6ed4c2b-1814-42f2-a756-4d2bda7e9f17 / PALACE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+宮@gōng	[[tls:concept:PALACE::#uuid-d6ed4c2b-1814-42f2-a756-4d2bda7e9f17][PALACE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / palace 宮婦　宮中七市"three markets in the palace compound"
+** 女閭七百	and seven hundred compounds for his women.
+:PROPERTIES:
+:SRC: ZGC 1.11.3; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a10:50::女閭 / 戰國策
+:CHARPOS: 50
+:END:
+*** 閭@lǘ
+:PROPERTIES:
+:CONCEPT: uuid-0186897c-97bd-42c9-9531-51f7dc68a25a / VILLAGE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+閭@lǘ	[[tls:concept:VILLAGE::#uuid-0186897c-97bd-42c9-9531-51f7dc68a25a][VILLAGE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / UNGER SACH ly gives details. ZZ 1268: immediate neighbourhood, village; area (in conurbation)
+** 國人非之	The people grumbled
+:PROPERTIES:
+:SRC: ZGC 1.11.3; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a11:50::國人 / 戰國策
+:CHARPOS: 50
+:END:
+*** 非@fēi
+:PROPERTIES:
+:CONCEPT: uuid-f31f6be7-f63d-4912-9588-2610fcbe7a63 / CRITICISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21
+:CHARPOS: 52
+:END:
+非@fēi	[[tls:concept:CRITICISE::#uuid-f31f6be7-f63d-4912-9588-2610fcbe7a63][CRITICISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / consider wrong
+** 管仲故為三歸之家	and Kuan Chung10 built the San-kuei Mansion for himself
+:PROPERTIES:
+:SRC: ZGC 1.11.3; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a12:50::管仲 / 戰國策
+:CHARPOS: 50
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-8064ffe3-2f68-4863-b061-b5a636129897 / BUILD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+為@wéi	[[tls:concept:BUILD::#uuid-8064ffe3-2f68-4863-b061-b5a636129897][BUILD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / build
+** 以掩桓公	to conceal the excesses of Duke Huan
+:PROPERTIES:
+:SRC: ZGC 1.11.3; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a13:50::以掩 / 戰國策
+:CHARPOS: 50
+:END:
+*** 掩@yǎn
+:PROPERTIES:
+:CONCEPT: uuid-6651b30a-f38c-4071-b0f7-2d87876e8581 / CONCEAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+掩@yǎn	[[tls:concept:CONCEAL::#uuid-6651b30a-f38c-4071-b0f7-2d87876e8581][CONCEAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cover up for see 掩蓋
+** 春秋記臣弒君者以百數	Recorded in the histories are hundreds of cases of ministers who murdered their rulers
+:PROPERTIES:
+:SRC: ZGC 1.11.3; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a15:1::《春 / 戰國策
+:CHARPOS: 1
+:END:
+*** 記@jì
+:PROPERTIES:
+:CONCEPT: uuid-4a60cfc2-cd20-4349-aca9-7e66c7775d84 / RECORD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+記@jì	[[tls:concept:RECORD::#uuid-4a60cfc2-cd20-4349-aca9-7e66c7775d84][RECORD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to record; to make a record of
+** 皆大臣見譽者也	and every one of these was a great officer who has been much praised.
+:PROPERTIES:
+:SRC: ZGC 1.11.3; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a16:50::皆大 / 戰國策
+:CHARPOS: 50
+:END:
+*** 見@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-cced399b-a0f8-466b-a2ba-e181178e0bf5 / PASSIVE MARKER
+:SYN-FUNC: uuid-52110676-c76e-45d3-858e-d11b23d8f7b4
+:SEM-FEAT: uuid-99ef2933-a158-4247-b598-40acd2e411fa
+:CHARPOS: 53
+:END:
+見@jiàn	[[tls:concept:PASSIVE MARKER::#uuid-cced399b-a0f8-466b-a2ba-e181178e0bf5][PASSIVE MARKER]]	V [[tls:syn-func::#uuid-52110676-c76e-45d3-858e-d11b23d8f7b4][vt+V{0}{PASS}]] {[[tls:sem-feat::#uuid-99ef2933-a158-4247-b598-40acd2e411fa][V=undesirable]]} / passivising grammaticalised particle derived from a transitive verb
+*** 見@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-895e9271-3257-4cb2-959e-c7eb7cf9e284 / PASSIVE MARKER
+:SYN-FUNC: uuid-52110676-c76e-45d3-858e-d11b23d8f7b4
+:SEM-FEAT: uuid-5c50ef28-3443-4ea9-9108-f310d47095b3
+:CHARPOS: 53
+:END:
+見@jiàn	[[tls:concept:PASSIVE MARKER::#uuid-895e9271-3257-4cb2-959e-c7eb7cf9e284][PASSIVE MARKER]]	V [[tls:syn-func::#uuid-52110676-c76e-45d3-858e-d11b23d8f7b4][vt+V{0}{PASS}]] {[[tls:sem-feat::#uuid-5c50ef28-3443-4ea9-9108-f310d47095b3][V=desirable]]} / be exposed to V-ing
+*** 譽@yù
+:PROPERTIES:
+:CONCEPT: uuid-ef653cdf-2a1b-4eba-b243-fc720f23f3b1 / PRAISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 54
+:END:
+譽@yù	[[tls:concept:PRAISE::#uuid-ef653cdf-2a1b-4eba-b243-fc720f23f3b1][PRAISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be praised
+** 故大臣得譽	It is not certain, therefore, that one whom the people praise
+:PROPERTIES:
+:SRC: ZGC 1.11.4; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a17:50::故大 / 戰國策
+:CHARPOS: 50
+:END:
+*** 譽@yù
+:PROPERTIES:
+:CONCEPT: uuid-ef653cdf-2a1b-4eba-b243-fc720f23f3b1 / PRAISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 54
+:END:
+譽@yù	[[tls:concept:PRAISE::#uuid-ef653cdf-2a1b-4eba-b243-fc720f23f3b1][PRAISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be praised
+** 非國家之美也	is a blessing to the state.
+:PROPERTIES:
+:SRC: ZGC 1.11.4; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a18:50::非國 / 戰國策
+:CHARPOS: 50
+:END:
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 51
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation
+*** 美@měi
+:PROPERTIES:
+:CONCEPT: uuid-fd67b34d-6c5d-4d2e-b04a-7817e02fa04d / GOOD
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 54
+:END:
+美@měi	[[tls:concept:GOOD::#uuid-fd67b34d-6c5d-4d2e-b04a-7817e02fa04d][GOOD]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / those who are honourable and admirable
+** 故眾庶成彊	The influence of many little people when accumulated in one place
+:PROPERTIES:
+:SRC: ZGC 1.11.4; tr. Crump 1979 no. 41, p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_011:2a19:50::故眾 / 戰國策
+:CHARPOS: 50
+:END:
+*** 眾@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-d7cc08a1-65d2-4d54-82a8-2942b0e7f883 / MANY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 51
+:END:
+眾@zhòng	[[tls:concept:MANY::#uuid-d7cc08a1-65d2-4d54-82a8-2942b0e7f883][MANY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / many
+*** 庶@shù
+:PROPERTIES:
+:CONCEPT: uuid-1bd86dbe-6cd0-4a2c-9090-fd32388037f0 / ORDINARY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-b0e62f33-9e4d-43f2-b15a-6e960f15eacf
+:CONCEPT: uuid-d4ee694d-e571-4f1d-aacd-4e192be7c253 / STRONG
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 52
+:END:
+庶@shù	[[tls:concept:ORDINARY::#uuid-1bd86dbe-6cd0-4a2c-9090-fd32388037f0][ORDINARY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-b0e62f33-9e4d-43f2-b15a-6e960f15eacf][subject=plural]]} / ordinary people
+強@qiáng / 強@qiáng	[[tls:concept:STRONG::#uuid-d4ee694d-e571-4f1d-aacd-4e192be7c253][STRONG]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / political clout; superior strength. supremacy, preponderance of strength; power-play

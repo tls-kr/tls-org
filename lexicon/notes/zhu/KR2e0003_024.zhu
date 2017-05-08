@@ -1,0 +1,126 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_024
+#+DATE: 2017-02-08T16:41:10+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 周共太子死	Kung, the heir apparent of Chou, had died
+:PROPERTIES:
+:SRC: ZGC 1.24.1; tr. Crump 1979 no.2, p. 23 The Heir Apparent
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_024:1a01:50::周共 / 戰國策
+:CHARPOS: 50
+:END:
+*** 太子@tàizǐ
+:PROPERTIES:
+:CONCEPT: uuid-100e2e54-f364-4358-a178-8d5fcf875d5e / HEIR
+:SYN-FUNC: uuid-51252bbe-3f6a-49cb-9a66-6037c29fab59
+:SEM-FEAT: uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86
+:CHARPOS: 52
+:END:
+太子@tàizǐ	[[tls:concept:HEIR::#uuid-100e2e54-f364-4358-a178-8d5fcf875d5e][HEIR]]	N [[tls:syn-func::#uuid-51252bbe-3f6a-49cb-9a66-6037c29fab59][NPpost=Npr]] {[[tls:sem-feat::#uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86][title]]} / heir apparent
+** 有五庶子	leaving five pretenders,
+:PROPERTIES:
+:SRC: ZGC 1.24.1; tr. Crump 1979 no.2, p. 23 The Heir Apparent
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_024:1a02:50::有五 / 戰國策
+:CHARPOS: 50
+:END:
+*** 庶子@shùzǐ
+:PROPERTIES:
+:CONCEPT: uuid-5219a1fa-c175-4602-a741-b74e52fddefc / CHILD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 52
+:END:
+庶子@shùzǐ	[[tls:concept:CHILD::#uuid-5219a1fa-c175-4602-a741-b74e52fddefc][CHILD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / child by a mother other than one's main wife
+** 皆愛之	all of whom were loved by the ruler
+:PROPERTIES:
+:SRC: ZGC 1.24.1; tr. Crump 1979 no.2, p. 23 The Heir Apparent
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_024:1a03:50::皆愛 / 戰國策
+:CHARPOS: 50
+:END:
+*** 皆@jiē
+:PROPERTIES:
+:CONCEPT: uuid-61503cf6-06b6-4622-ae9c-a0b734ddfef0 / ALL
+:SYN-FUNC: uuid-6c799c2c-5270-4aab-abd9-8b5253865818
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 50
+:END:
+皆@jiē	[[tls:concept:ALL::#uuid-61503cf6-06b6-4622-ae9c-a0b734ddfef0][ALL]]	V [[tls:syn-func::#uuid-6c799c2c-5270-4aab-abd9-8b5253865818][vad.VtoN]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / all the relevant objects
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-73223eca-19f7-46f4-ae9e-d8584eae314b / LOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+愛@ài	[[tls:concept:LOVE::#uuid-73223eca-19f7-46f4-ae9e-d8584eae314b][LOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / love and care for, take loving care of; generally: take proper care of (one's person/life)
+** 周君不聽	said Tso Ch'eng to Ssu-ma Chien,
+:PROPERTIES:
+:SRC: ZGC 1.24.1; tr. Crump 1979 no.2, p. 23 The Heir Apparent
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_024:1a09:1::「周 / 戰國策
+:CHARPOS: 1
+:END:
+*** 聽@tīng
+:PROPERTIES:
+:CONCEPT: uuid-25aaca38-1541-4516-a098-40d40949f6d6 / CONFORM
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+聽@tīng	[[tls:concept:CONFORM::#uuid-25aaca38-1541-4516-a098-40d40949f6d6][CONFORM]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / concur with; be agreeable to; heed, follow the advice of; Danish: ta til efterretning; lend an ear to
+** 孰欲立也	"Will your excellency tell me, Chien,
+:PROPERTIES:
+:SRC: ZGC 1.24.2; tr. Crump 1979 no.2, p. 23
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_024:1a12:1::『孰 / 戰國策
+:CHARPOS: 1
+:END:
+*** 孰@shú
+:PROPERTIES:
+:CONCEPT: uuid-650a8332-9701-4160-b663-db1929fe3849 / WHOM
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:CHARPOS: 1
+:END:
+孰@shú	[[tls:concept:WHOM::#uuid-650a8332-9701-4160-b663-db1929fe3849][WHOM]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] / which one?, whom?
+** 微告翦	in confidence which one he favors
+:PROPERTIES:
+:SRC: ZGC 1.24.2; tr. Crump 1979 no.2, p. 23
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_024:1a13:50::微告 / 戰國策
+:CHARPOS: 50
+:END:
+*** 微@wēi
+:PROPERTIES:
+:CONCEPT: uuid-648e0780-a9ca-45a7-a550-eb29a06133dd / TENUOUS
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+微@wēi	[[tls:concept:TENUOUS::#uuid-648e0780-a9ca-45a7-a550-eb29a06133dd][TENUOUS]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / subtly, without drawing attention to what one is doing
+** 翦今楚王資之以地	so that I may instruct the king of Ch'u to settle land on him."'
+:PROPERTIES:
+:SRC: ZGC 1.24.2; tr. Crump 1979 no.2, p. 23
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_024:1a14:50::翦今 / 戰國策
+:CHARPOS: 50
+:END:
+*** 資@zī
+:PROPERTIES:
+:CONCEPT: uuid-b1d23e01-9d2f-4358-8eba-a2377692ab92 / HELP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+資@zī	[[tls:concept:HELP::#uuid-b1d23e01-9d2f-4358-8eba-a2377692ab92][HELP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / provide support for, lend substantial support; help; supply the necessities for, give sustenance to, support
+** 居中不便於相國	who would hamper the minister.
+:PROPERTIES:
+:SRC: ZGC 1.24.2; tr. Crump 1979 no.2, p. 23
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_024:1a19:1::居中 / 戰國策
+:CHARPOS: 1
+:END:
+*** 相國@xiàngguó
+:PROPERTIES:
+:CONCEPT: uuid-4d9f4374-0432-45a8-b895-7b3ccca131f7 / MINISTER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86
+:CHARPOS: 6
+:END:
+相國@xiàngguó	[[tls:concept:MINISTER::#uuid-4d9f4374-0432-45a8-b895-7b3ccca131f7][MINISTER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86][title]]} / prime minister

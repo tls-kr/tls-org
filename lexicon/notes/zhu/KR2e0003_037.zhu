@@ -1,0 +1,192 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_037
+#+DATE: 2017-02-08T16:41:11+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 君使人告齊王以周最不肯為太子也	'To send a man to Ch'i telling the king that Chou Tsui is unwilling to be made the heir
+:PROPERTIES:
+:SRC: ZGC 2.9.1; tr. Crump 1979 no.4, p. 25, ed. Shanghaiguji p. 60 Chou Tsui's value
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_037:1a02:1::「君 / 戰國策
+:CHARPOS: 1
+:END:
+*** 告@gào
+:PROPERTIES:
+:CONCEPT: uuid-9c643827-6039-4d5f-8951-35da1bcaccaf / REPORT
+:SYN-FUNC: uuid-24d808d0-b208-4e51-a61d-cfeb1149d5a8
+:SEM-FEAT: uuid-5608160c-56f1-4b6c-ac09-7fe2f8553162
+:CHARPOS: 4
+:END:
+告@gào	[[tls:concept:REPORT::#uuid-9c643827-6039-4d5f-8951-35da1bcaccaf][REPORT]]	V [[tls:syn-func::#uuid-24d808d0-b208-4e51-a61d-cfeb1149d5a8][vttoN:+.vt+Nab{S}]] {[[tls:sem-feat::#uuid-5608160c-56f1-4b6c-ac09-7fe2f8553162][indirect-speech]]} / report to N that S
+** 函冶氏為齊太公買良劍	'Once Han the smith bought a fine sword for T'ai-kung of Ch'i
+:PROPERTIES:
+:SRC: ZGC 2.9.1; tr. Crump 1979 no.4, p. 25, ed. Shanghaiguji p. 60 Chou Tsui's value
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_037:1a04:1::函冶 / 戰國策
+:CHARPOS: 1
+:END:
+*** 買@mǎi
+:PROPERTIES:
+:CONCEPT: uuid-24afd96e-e3a9-4de8-bf49-9aa713ac2d8f / BUY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 8
+:END:
+買@mǎi	[[tls:concept:BUY::#uuid-24afd96e-e3a9-4de8-bf49-9aa713ac2d8f][BUY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / buy, acquire (official positions) for money; go out to buy; try to buy; buy (a person from his employer)
+*** 良@liáng
+:PROPERTIES:
+:CONCEPT: uuid-891597e9-a1bb-41e7-bbb4-1813e0a335bb / EXCELLENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 9
+:END:
+良@liáng	[[tls:concept:EXCELLENT::#uuid-891597e9-a1bb-41e7-bbb4-1813e0a335bb][EXCELLENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / fine; competent; efficient; excellent; preferred
+** 歸其劍而責之金	he returned it to the smith and fined him as well.
+:PROPERTIES:
+:SRC: ZGC 2.9.1; tr. Crump 1979 no.4, p. 25, ed. Shanghaiguji p. 60 Chou Tsui's value
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_037:1a06:1::歸其 / 戰國策
+:CHARPOS: 1
+:END:
+*** 歸@guī
+:PROPERTIES:
+:CONCEPT: uuid-45dbc172-0bcb-4089-bf7b-ca9107469acf / GIVE
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:SEM-FEAT: uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd
+:CHARPOS: 1
+:END:
+歸@guī	[[tls:concept:GIVE::#uuid-45dbc172-0bcb-4089-bf7b-ca9107469acf][GIVE]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] {[[tls:sem-feat::#uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd][om]]} / give a present of (something N2) to a contextually determinate person N1
+** 折而不賣	but the smith refused to sell it because such a price would be too great a loss. [???]
+:PROPERTIES:
+:SRC: ZGC 2.9.1; tr. Crump 1979 no.4, p. 25, ed. Shanghaiguji p. 60 Chou Tsui's value
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_037:1a08:1::折而 / 戰國策
+:CHARPOS: 1
+:END:
+*** 賣@mài
+:PROPERTIES:
+:CONCEPT: uuid-a04d91ef-7068-4312-bcac-d3298a31d5f0 / SELL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+賣@mài	[[tls:concept:SELL::#uuid-a04d91ef-7068-4312-bcac-d3298a31d5f0][SELL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / offer for sale, be prepared to sell
+** 而屬其子曰	he left his son this injunction:
+:PROPERTIES:
+:SRC: ZGC 2.9.2; tr. Crump 1979 no.4, p. 25, ed. Shanghaiguji p. 60
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_037:1a10:1::而屬 / 戰國策
+:CHARPOS: 1
+:END:
+*** 屬@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-e6a3f299-b168-4ddb-b3d0-14e2c4fc4da9 / SPEAK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+屬@zhǔ	[[tls:concept:SPEAK::#uuid-e6a3f299-b168-4ddb-b3d0-14e2c4fc4da9][SPEAK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / speak to (someone)
+** 必無獨知	"Always make certain you are not the only one to know the worth of a thing."
+:PROPERTIES:
+:SRC: ZGC 2.9.2; tr. Crump 1979 no.4, p. 25, ed. Shanghaiguji p. 60
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_037:1a11:50::『必 / 戰國策
+:CHARPOS: 50
+:END:
+*** 無@wú
+:PROPERTIES:
+:CONCEPT: uuid-7c0bdbf6-16d2-4e4b-9ee4-49735595bf26 / NEVER
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+無@wú	[[tls:concept:NEVER::#uuid-7c0bdbf6-16d2-4e4b-9ee4-49735595bf26][NEVER]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / will never (in generalisations); at no time (during a certain period), never (無有 there never are any)
+*** 獨@dú
+:PROPERTIES:
+:CONCEPT: uuid-097218da-1450-4291-8e44-382623085fbd / ALONE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 52
+:END:
+獨@dú	[[tls:concept:ALONE::#uuid-097218da-1450-4291-8e44-382623085fbd][ALONE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / (negatively:) alone, isolated; unaided by others
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-ca39ce4f-440f-40e1-b983-1e11aab18df6 / UNDERSTAND
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+知@zhī	[[tls:concept:UNDERSTAND::#uuid-ca39ce4f-440f-40e1-b983-1e11aab18df6][UNDERSTAND]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / display knowledge; have the proper understanding of things
+** 天下未有信之者也	No one else believes it is worth a thing.
+:PROPERTIES:
+:SRC: ZGC 2.9.2; tr. Crump 1979 no.4, p. 25, ed. Shanghaiguji p. 60
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_037:1a14:1::天下 / 戰國策
+:CHARPOS: 1
+:END:
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-e89baa0f-c427-4262-99c2-3188de68197a / BELIEVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+信@xìn	[[tls:concept:BELIEVE::#uuid-e89baa0f-c427-4262-99c2-3188de68197a][BELIEVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / trust to be true, believe; have faith inalso religiously BUDDH: believe in 信佛語
+** 而讓之於最	and are forcing Chou Tsui to decline
+:PROPERTIES:
+:SRC: ZGC 2.9.2; tr. Crump 1979 no.4, p. 25, ed. Shanghaiguji p. 60
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_037:1a15:50::而讓 / 戰國策
+:CHARPOS: 50
+:END:
+*** 讓@ràng
+:PROPERTIES:
+:CONCEPT: uuid-852a1c9f-8684-4f03-825f-ae7f194b79da / YIELD
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 51
+:END:
+讓@ràng	[[tls:concept:YIELD::#uuid-852a1c9f-8684-4f03-825f-ae7f194b79da][YIELD]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / 讓天下於許由yield (something N1) to (someone else N2), pass on rulership over (something N1 e.g. a state) to (a person N2), abdicate (something N1) in favour of (someone N2)　故讓天下於子
+** 君何不買信貨哉	Why don't you "buy" an article which all can believe is valuable?
+:PROPERTIES:
+:SRC: ZGC 2.9.2; tr. Crump 1979 no.4, p. 25, ed. Shanghaiguji p. 60
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_037:1a19:1::君何 / 戰國策
+:CHARPOS: 1
+:END:
+*** 買@mǎi
+:PROPERTIES:
+:CONCEPT: uuid-24afd96e-e3a9-4de8-bf49-9aa713ac2d8f / BUY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+買@mǎi	[[tls:concept:BUY::#uuid-24afd96e-e3a9-4de8-bf49-9aa713ac2d8f][BUY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / buy, acquire (official positions) for money; go out to buy; try to buy; buy (a person from his employer)
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-66e0ffb2-d3f2-4ca7-96ba-8ce123af6b47 / TRUST
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 5
+:END:
+信@xìn	[[tls:concept:TRUST::#uuid-66e0ffb2-d3f2-4ca7-96ba-8ce123af6b47][TRUST]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / trusted, recognised by others
+*** 貨@huò
+:PROPERTIES:
+:CONCEPT: uuid-e250b43f-1399-4a59-aaab-5386db8f941e / PROPERTY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 6
+:END:
+貨@huò	[[tls:concept:PROPERTY::#uuid-e250b43f-1399-4a59-aaab-5386db8f941e][PROPERTY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / goods, commodities; luxury goods, luxury items; especially: items made of metal or jade
+** 奉養無有愛於最也	Simply do not stint your favour or the gifts you make to Tsui henceforth.
+:PROPERTIES:
+:SRC: ZGC 2.9.2; tr. Crump 1979 no.4, p. 25, ed. Shanghaiguji p. 60
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_037:1a20:50::奉養 / 戰國策
+:CHARPOS: 50
+:END:
+*** 奉養@fèngyàng
+:PROPERTIES:
+:CONCEPT: uuid-a6e28071-ab57-4db0-b9a1-15f1fe8bf77e / REAR
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+奉養@fèngyàng	[[tls:concept:REAR::#uuid-a6e28071-ab57-4db0-b9a1-15f1fe8bf77e][REAR]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / the looking well after a person important to one
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-e8ca13af-2abe-4b67-b396-b54bd063e639 / STINGY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 54
+:END:
+愛@ài	[[tls:concept:STINGY::#uuid-e8ca13af-2abe-4b67-b396-b54bd063e639][STINGY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / stinginess

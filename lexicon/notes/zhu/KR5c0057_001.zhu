@@ -1,0 +1,114 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_001
+#+DATE: 2017-02-08T16:43:41+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 非恒道	is not the constant Way,
+:PROPERTIES:
+:SRC: LAO 1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_001:1a02:1::非恒 / 老子
+:CHARPOS: 1
+:END:
+*** 常@cháng
+:PROPERTIES:
+:CONCEPT: uuid-e6d6f8eb-8d31-4e7d-b1b0-68440bab4478 / CERTAIN
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+常@cháng	[[tls:concept:CERTAIN::#uuid-e6d6f8eb-8d31-4e7d-b1b0-68440bab4478][CERTAIN]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / invariant>determinate, well-defined; true
+** 無名天地之始	Having no name, it (Tao) is the beginning (origin) of Heaven and Earth,
+:PROPERTIES:
+:SRC: LAO 1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_001:1a05:1::無名 / 老子
+:CHARPOS: 1
+:END:
+*** 始@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-0bbd0bfa-0082-4c14-96e2-86c6437036f5 / BEGIN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 6
+:END:
+始@shǐ	[[tls:concept:BEGIN::#uuid-0bbd0bfa-0082-4c14-96e2-86c6437036f5][BEGIN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / beginning, the initial state as a dynamic state motivating what happens after that beginning; proper beginning; original cause, Greek: archē;
+** 有名萬物之母	having a name it is the mother of the myriad things.
+:PROPERTIES:
+:SRC: LAO 1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_001:1a06:50::有名 / 老子
+:CHARPOS: 50
+:END:
+*** 母@mǔ
+:PROPERTIES:
+:CONCEPT: uuid-e23a5301-ee04-40f6-b693-8d6ebbc34a7e / MOTHER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 55
+:END:
+母@mǔ	[[tls:concept:MOTHER::#uuid-e23a5301-ee04-40f6-b693-8d6ebbc34a7e][MOTHER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / that from which something originates
+** 恒有欲以觀其徼	if you constantly have desires, you can only see its (limit:) outer fringes.
+:PROPERTIES:
+:SRC: LAO 1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_001:1a08:1::恒有 / 老子
+:CHARPOS: 1
+:END:
+*** 欲@yù / 慾@yù
+:PROPERTIES:
+:CONCEPT: uuid-ee9e27dd-c8d1-48b5-86d4-a3802a6f3f13 / DESIRE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 3
+:END:
+欲@yù / 慾@yù	[[tls:concept:DESIRE::#uuid-ee9e27dd-c8d1-48b5-86d4-a3802a6f3f13][DESIRE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / desires; preferences; impulse
+** 此兩者同出而異名	These two (sc. origin and mother) come from the same [source] but they are called by different names (terms).
+:PROPERTIES:
+:SRC: LAO 1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_001:1a09:50::此兩 / 老子
+:CHARPOS: 50
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303 / THIS
+:SYN-FUNC: uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774
+:SEM-FEAT: uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432
+:CHARPOS: 50
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303][THIS]]	N [[tls:syn-func::#uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774][npro.adN{NUM}:adnpro]] {[[tls:sem-feat::#uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432][N=abstract]]} / 此三者
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3
+:CHARPOS: 52
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3][npro:post.Npost-V{NUM}]] / after number phrase　三家者， 之數物者
+** 玄之又玄	the most sombre of all mysteries,
+:PROPERTIES:
+:SRC: LAO 1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_001:1a11:1::玄之 / 老子
+:CHARPOS: 1
+:END:
+*** 又@yòu
+:PROPERTIES:
+:CONCEPT: uuid-60264292-3510-4ba7-a50a-e11438e8fa9f / MORE
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 3
+:END:
+又@yòu	[[tls:concept:MORE::#uuid-60264292-3510-4ba7-a50a-e11438e8fa9f][MORE]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / even more
+** 眾妙之門	the (gate:) source of all mysteries.
+:PROPERTIES:
+:SRC: LAO 1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_001:1a11:50::眾妙 / 老子
+:CHARPOS: 50
+:END:
+*** 妙@miào
+:PROPERTIES:
+:CONCEPT: uuid-4b1cb886-7cee-4b09-8a07-15dda75bbb8a / OBSCURE
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:CHARPOS: 51
+:END:
+妙@miào	[[tls:concept:OBSCURE::#uuid-4b1cb886-7cee-4b09-8a07-15dda75bbb8a][OBSCURE]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] / mystery; secret; secrt crucial point
+*** 門@mén
+:PROPERTIES:
+:CONCEPT: uuid-9ba6a3e1-07d1-48c3-8a42-a534f40b7240 / GATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 53
+:END:
+門@mén	[[tls:concept:GATE::#uuid-9ba6a3e1-07d1-48c3-8a42-a534f40b7240][GATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / "gate"

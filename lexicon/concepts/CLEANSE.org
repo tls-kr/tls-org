@@ -1,0 +1,126 @@
+# -*- mode: mandoku-tls-view -*-
+#+TITLE: CLEANSE
+#+DATE: 2017-03-18T10:35:30.668+09:00        
+#+STARTUP: content
+* =CONCEPT= CLEANSE
+:PROPERTIES:
+:CUSTOM_ID: uuid-5f498860-5aee-4af9-9545-85a48a76ec1f
+:SYNONYM+:  CLEAN
+:SYNONYM+:  WIPE
+:SYNONYM+:  SPONGE
+:SYNONYM+:  SCRUB
+:SYNONYM+:  MOP
+:SYNONYM+:  SCOUR
+:SYNONYM+:  SWAB
+:END:
+** DEFINITION
+
+CAUSE TO BECOME CLEAN.
+
+** NOTES
+
+** POINTERS
+*** TAXONOMY
+ - [[tls:concept:WASH][WASH]]
+
+*** KIND OF
+ - [[tls:concept:CLEAN][CLEAN]]
+
+** SOURCE REFERENCES
+*** PILLON 1850
+ - [[cite:PILLON-1850][Pillon(1850), Handbook of Greek Synonymes, from the French of M. Alex. Pillon, Librarian of the Bibliothèque Royale , at Paris, and one of the editors of the new edition of Plaché's Dictionnaire Grec-Français, edited, with notes, by the Rev. Thomas Kerchever Arnold, M.A. Rector of Lyndon, and late fellow of Trinity College, Cambridge]], p.no. 16
+
+** WORDS
+   :PROPERTIES:
+   :VISIBILITY: children
+   :END:
+*** 除 chú (OC:rla MC:ɖi̯ɤ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-c636f8e3-62fa-4e15-b4ce-c2cbc5e00aad
+:Char+: 除(170,7/10) 
+:GY_IDS+: uuid-52df172c-649e-4477-a5eb-446bb91c5a5a
+:PY+: chú     
+:OC+: rla     
+:MC+: ɖi̯ɤ     
+:END: 
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / remove dirt> keep clean; clear away obstacles from
+:PROPERTIES:
+:CUSTOM_ID: uuid-b57df451-bb18-46e6-a694-92a965100041
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+remove dirt> keep clean; clear away obstacles from
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be cleaned properly
+:PROPERTIES:
+:CUSTOM_ID: uuid-3d3182be-b74a-4cd4-9c2c-739a23815746
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+be cleaned properly
+
+****** NOTES
+
+*** 雪 xuě (OC:sqled MC:siɛt )
+:PROPERTIES:
+:CUSTOM_ID: uuid-693e0096-5fd6-4a8f-8dd0-bc433d87e917
+:Char+: 雪(173,3/11) 
+:GY_IDS+: uuid-cba57e37-98d8-4ec7-bf5f-6a177ddd0abb
+:PY+: xuě     
+:OC+: sqled     
+:MC+: siɛt     
+:END: 
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / clean
+:PROPERTIES:
+:CUSTOM_ID: uuid-d8f41d19-9e67-491d-b7fe-a53395a1082d
+:WARRING-STATES-CURRENCY: 2
+:END:
+****** DEFINITION
+
+clean
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / derived sense: wash away (guilt)
+:PROPERTIES:
+:CUSTOM_ID: uuid-b7556ebd-cc9a-4149-9952-788637df9406
+:WARRING-STATES-CURRENCY: 4
+:END:
+****** DEFINITION
+
+derived sense: wash away (guilt)
+
+****** NOTES
+
+******* Nuance
+This is typically without the use of water.
+
+******* Examples
+HF 33.18.10: clean (a peach with millet)
+
+*** 糞除 fènchú (OC:puns rla MC:pi̯un ɖi̯ɤ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-ca3de01b-6fe4-4342-ae98-0a23250c72c8
+:Char+: 糞(119,11/17) 除(170,7/10) 
+:GY_IDS+: uuid-57764adc-ff2b-4e98-a348-7b33272e139b uuid-52df172c-649e-4477-a5eb-446bb91c5a5a
+:PY+: fèn chú    
+:OC+: puns rla    
+:MC+: pi̯un ɖi̯ɤ    
+:END: 
+**** V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / clean completely???
+:PROPERTIES:
+:CUSTOM_ID: uuid-ad58fddb-547b-46b9-ba8f-edc84b421a06
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+clean completely???
+
+****** NOTES
+
+** BIBLIOGRAPHY
+bibliography:../core/tlsbib.bib

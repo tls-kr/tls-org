@@ -1,0 +1,2323 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 春秋穀梁傳 KR1e0008_003
+#+DATE: 2017-02-08T16:40:07+0900
+#+PROPERTY: COMMIT b100194fc5197cc79411d9b329a0918f345716e1
+** 先君不以其道終	if the late ruler did not die a natural death,
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:2a05:2::先君 / 春秋穀梁傳
+:CHARPOS: 2
+:END:
+*** 先君@xiānjūn
+:PROPERTIES:
+:CONCEPT: uuid-af93802d-8e95-4045-b17f-a48dd5d1d783 / RULER
+:SYN-FUNC: uuid-0c513944-f90e-42df-a8ad-65300f05c945
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 2
+:END:
+先君@xiānjūn	[[tls:concept:RULER::#uuid-af93802d-8e95-4045-b17f-a48dd5d1d783][RULER]]	N [[tls:syn-func::#uuid-0c513944-f90e-42df-a8ad-65300f05c945][NP{post-N}]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / the former ruler; the deceased ruler (can occasionally be used in the plural in ZUO)
+** 則子不忍即位也	then the son did not bear (to perform the ceremony of) succession.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:2a06:50::則子 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 忍@rěn
+:PROPERTIES:
+:CONCEPT: uuid-e723429f-5cb6-4b13-aa02-00e48d1819c0 / ENDURE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 53
+:END:
+忍@rěn	[[tls:concept:ENDURE::#uuid-e723429f-5cb6-4b13-aa02-00e48d1819c0][ENDURE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / bear to V, endure V-ing
+** 孫之為言猶孫也	The term suen ("grandson") is here used for suenn ("to withdraw") (or perhaps: 遜 "obey CH??)
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:3a03:1::孫之 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 為言@wéiyán
+:PROPERTIES:
+:CONCEPT: uuid-b8fc862b-77f5-4ca1-9488-90582be7dae2 / MEAN
+:SYN-FUNC: uuid-f74acc63-f01d-46a4-8899-5aa19d83a756
+:CHARPOS: 3
+:END:
+為言@wéiyán	[[tls:concept:MEAN::#uuid-b8fc862b-77f5-4ca1-9488-90582be7dae2][MEAN]]	N [[tls:syn-func::#uuid-f74acc63-f01d-46a4-8899-5aa19d83a756][NPab.post-N]] / etymological meaning x 之為言y
+** 諱奔也	in order to conceal (that the mother of duke Juang) fled.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:3a04:50::諱奔 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 奔@bēn / 奔@bèn
+:PROPERTIES:
+:CONCEPT: uuid-c8712079-b901-45a6-a760-376af3d4b1f1 / HURRY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+奔@bēn / 奔@bèn	[[tls:concept:HURRY::#uuid-c8712079-b901-45a6-a760-376af3d4b1f1][HURRY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / flight
+** 人之於天也	Men's relation to Heaven is as follows:
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:3a10:1::人之 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-176890be-d5d2-4d30-96a4-a15c6ca10dcc / RELATION
+:SYN-FUNC: uuid-c534056f-a8f6-4f47-8f1a-898404e40db1
+:CHARPOS: 3
+:END:
+於@yú	[[tls:concept:RELATION::#uuid-176890be-d5d2-4d30-96a4-a15c6ca10dcc][RELATION]]	V [[tls:syn-func::#uuid-c534056f-a8f6-4f47-8f1a-898404e40db1][vtoN1.post:N2{SUBJ}+ZHI:.adV]] / x之於y(也) "As for X's relation to Y,...
+** 君躬弒於齊	the prince himself (i.e. duke Hwan) (a) had been assassinated in Chyi.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:4a10:2::君躬 / 春秋穀梁傳
+:CHARPOS: 2
+:END:
+*** 躬@gōng
+:PROPERTIES:
+:CONCEPT: uuid-7597f204-e504-473f-adf2-9cf7d328ea45 / SELF
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 3
+:END:
+躬@gōng	[[tls:concept:SELF::#uuid-7597f204-e504-473f-adf2-9cf7d328ea45][SELF]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / the N him/herself??? 躬君 "the ruler himself" [extraordinary!???]
+** 使之主婚姻	(The Son of Heaven had) ordered him (i.e. the son and successor of the assassinated ruler) to act as host (at the marriage ceremony)
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:4a11:50::使之 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 婚姻@hūnyīn / 昏姻@hūnyīn
+:PROPERTIES:
+:CONCEPT: uuid-c1cf7e4f-fd14-4cf5-a9be-8d80e6c247dc / MARRY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+婚姻@hūnyīn / 昏姻@hūnyīn	[[tls:concept:MARRY::#uuid-c1cf7e4f-fd14-4cf5-a9be-8d80e6c247dc][MARRY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / marriage SHI; relationships by marriage
+** 必自公門出	must appear from the southern gate of the palace.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.10; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:5a08:1::必自 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-c30c565b-fa66-4868-b92d-e74cab24465d / FROM
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 2
+:END:
+自@zì	[[tls:concept:FROM::#uuid-c30c565b-fa66-4868-b92d-e74cab24465d][FROM]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / OBI 5: from; starting out from a place; 自楚之滕 "went from Chu3 to Te2ng" also a time: 所自生 "that wherefrom something is born"
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-207670e8-db49-4c7b-865f-1f7ddd989cda / PUBLIC
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+公@gōng	[[tls:concept:PUBLIC::#uuid-207670e8-db49-4c7b-865f-1f7ddd989cda][PUBLIC]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / public (benefit, road, law etc), belonging to the public rather than to any private individual
+** 仇讎之人非所以接婚姻也	(b) Men involved in a feud (with the bridegroom) do not participate in his marriage ceremony.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.11; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:5a18:1::仇讎 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 仇讎@qiúchóu
+:PROPERTIES:
+:CONCEPT: uuid-23d2b752-4828-434d-aed8-712f415f0d4f / ENEMY
+:SYN-FUNC: uuid-14b56546-32fd-4321-8d73-3e4b18316c15
+:CHARPOS: 1
+:END:
+仇讎@qiúchóu	[[tls:concept:ENEMY::#uuid-23d2b752-4828-434d-aed8-712f415f0d4f][ENEMY]]	N [[tls:syn-func::#uuid-14b56546-32fd-4321-8d73-3e4b18316c15][NPadN]] / who are mortal enemies
+** 死追錫之	who has not received (these) distinctions in his life-time
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.16; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:7a09:1::死追 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 追@zhuī
+:PROPERTIES:
+:CONCEPT: uuid-9c4dbcfb-a84e-423f-aed1-7ddaf03e892f / PURSUE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 2
+:END:
+追@zhuī	[[tls:concept:PURSUE::#uuid-9c4dbcfb-a84e-423f-aed1-7ddaf03e892f][PURSUE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / going after the dead> posthumously; retrospectively 追錫之
+** 不正甚矣	is extremely incorrect.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.16; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:7a10:50::不正 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 正@zhèng
+:PROPERTIES:
+:CONCEPT: uuid-436e682c-187f-4b0b-9c69-dd9a31b6c2c2 / CORRECT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+正@zhèng	[[tls:concept:CORRECT::#uuid-436e682c-187f-4b0b-9c69-dd9a31b6c2c2][CORRECT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / be straight and not warped, behave correctly; be objectively 不正甚
+** 3.1.8齊師遷紀郱鄑郚	An army of Chyi shifted (the population of the cities) Pyng, Tzy, and Wu of (the state of) Jih (a).
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.19; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:9a01:1::3. / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 遷@qiān
+:PROPERTIES:
+:CONCEPT: uuid-df5f31a9-1cc2-4fb3-b097-6e9cd457a3b3 / DISPLACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-5100e402-4cb5-4b99-929f-be674b3757d4
+:CHARPOS: 8
+:END:
+遷@qiān	[[tls:concept:DISPLACE::#uuid-df5f31a9-1cc2-4fb3-b097-6e9cd457a3b3][DISPLACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-5100e402-4cb5-4b99-929f-be674b3757d4][N=human]]} / transfer, move about to new duties
+** 或曰遷紀于郱鄑郚	Some say that (the army of Chyi) shifted (the population of) Jih to Pyng-tzy-wu.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.01.20; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:9a05:1::或曰 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 遷@qiān
+:PROPERTIES:
+:CONCEPT: uuid-05251878-92d3-4b45-a47a-5e3d4e99f385 / DISPLACE
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 3
+:END:
+遷@qiān	[[tls:concept:DISPLACE::#uuid-05251878-92d3-4b45-a47a-5e3d4e99f385][DISPLACE]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / move (something or somebody N1) to ( a place N2); relocate N1 to the place N2　遷紀于郱、鄑、郚
+** 惡其會仇讎而伐同姓	(The Chuenchiou) condemns him for having a meeting with the enemy and for having attacked (a state whose ruler had) the same clan name (as Luu).
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.03.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:17a06:1::惡其 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 仇讎@qiúchóu
+:PROPERTIES:
+:CONCEPT: uuid-75902dcc-a570-474f-93c4-d790bc8bf6f7 / ENEMY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 4
+:END:
+仇讎@qiúchóu	[[tls:concept:ENEMY::#uuid-75902dcc-a570-474f-93c4-d790bc8bf6f7][ENEMY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / mortal enemy; mortal enemies
+** 改葬也	"it was a second burial.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.03.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:19a04:1::改葬 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 改@gǎi
+:PROPERTIES:
+:CONCEPT: uuid-fd100d99-7cc1-4829-87ca-3b6c79d2cb03 / CHANGE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+改@gǎi	[[tls:concept:CHANGE::#uuid-fd100d99-7cc1-4829-87ca-3b6c79d2cb03][CHANGE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / by way of making a change
+** 改葬之禮緦	According to the ritual of the second burial (the mourners wear) the sy dress of coarse cloth (which is the lowest of the give grades of mourning clothes).
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.03.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:19a05:50::改葬 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 改@gǎi
+:PROPERTIES:
+:CONCEPT: uuid-fd100d99-7cc1-4829-87ca-3b6c79d2cb03 / CHANGE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+改@gǎi	[[tls:concept:CHANGE::#uuid-fd100d99-7cc1-4829-87ca-3b6c79d2cb03][CHANGE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / by way of making a change
+** 天子志崩不志葬	That the Text records the death but not the burial (of the Son of Heaven)
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.03.07; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:19a08:1::天子 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-9b309289-51ab-4c77-8a80-67dff3a9da01 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-9b309289-51ab-4c77-8a80-67dff3a9da01][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the (contextually determinate) Son of Heaven (of the time)
+** 尊者取尊稱焉	Those in superior postition choose an appellation proper to their status.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.03.10; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:19a24:1::尊者 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 尊稱@zūnchēng
+:PROPERTIES:
+:CONCEPT: uuid-a9930fe1-d6a7-41ce-9159-7897bf729b91 / NAME
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 4
+:END:
+尊稱@zūnchēng	[[tls:concept:NAME::#uuid-a9930fe1-d6a7-41ce-9159-7897bf729b91][NAME]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / name
+** 民之所歸往也	signifies that it is towards him that the people (wanq=) come forward.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.03.10; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:19a27:1::民之 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 歸往@guīwǎng
+:PROPERTIES:
+:CONCEPT: uuid-0247a57a-d25f-4b04-875e-94d3ed0ec8af / RALLY
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 4
+:END:
+歸往@guīwǎng	[[tls:concept:RALLY::#uuid-0247a57a-d25f-4b04-875e-94d3ed0ec8af][RALLY]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / (DCD is inconsistent and readss ub verbo 往2: guīwàng). rally to
+*** 往@wǎng / @
+:PROPERTIES:
+:CONCEPT: uuid-f37dbc83-e496-4aba-a925-1f616eddceb3 / GO TO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+往@wǎng / @	[[tls:concept:GO TO::#uuid-f37dbc83-e496-4aba-a925-1f616eddceb3][GO TO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / OBI: set out for; be on one's way; go along to; go to GUAN: 往之, 所往
+** 所以病齊侯也	whereby (the Chuenchiou) criticizes the marquis of Chyi.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.04.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:23a04:1::所以 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 病@bìng
+:PROPERTIES:
+:CONCEPT: uuid-23235b96-2d82-4f6b-97d5-4695910b7fec / CRITICISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+病@bìng	[[tls:concept:CRITICISE::#uuid-23235b96-2d82-4f6b-97d5-4695910b7fec][CRITICISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / find fault with
+** 齊侯陳侯鄭伯遇于垂	the marquis of Chyi, the marquis of Chern and the earl of Jenq met at Chwei.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.04.05; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:25a02:1::齊侯 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 遇@yù
+:PROPERTIES:
+:CONCEPT: uuid-60c61e60-35ac-411b-b0ad-484b11a7787e / MEET
+:SYN-FUNC: uuid-a4ac7ae5-ac55-45d6-b390-3c41242eb09e
+:CHARPOS: 7
+:END:
+遇@yù	[[tls:concept:MEET::#uuid-60c61e60-35ac-411b-b0ad-484b11a7787e][MEET]]	V [[tls:syn-func::#uuid-a4ac7ae5-ac55-45d6-b390-3c41242eb09e][vi2]] / (of several subejcts) get together informally as if by chance and hold a meeting, hold an informal meeting
+** 言民之從者四年而後畢也	It is said that the exodus of the people was completed after four years.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.04.07; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:26a04:1::言民 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 畢@bì
+:PROPERTIES:
+:CONCEPT: uuid-80429bdd-baed-4d2f-83eb-2270b1c926b7 / COMPLETE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 10
+:END:
+畢@bì	[[tls:concept:COMPLETE::#uuid-80429bdd-baed-4d2f-83eb-2270b1c926b7][COMPLETE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be completed, be completely achieved; be completely understood; reach perfection
+** 公及齊人狩于郜	the duke and a man from Chyi hunted in Haw.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.04.11; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:29a02:1::公及 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-c2d841a7-3c45-4cb1-be2b-ec44f60b471f / WITH
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-80d9b919-ce61-439a-905f-c49fa05ec625
+:CHARPOS: 2
+:END:
+及@jí	[[tls:concept:WITH::#uuid-c2d841a7-3c45-4cb1-be2b-ec44f60b471f][WITH]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-80d9b919-ce61-439a-905f-c49fa05ec625][jointly]]} / together with
+*** 狩@shòu
+:PROPERTIES:
+:CONCEPT: uuid-4e64e504-30c6-4654-b75b-abf03e45c82c / HUNT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+狩@shòu	[[tls:concept:HUNT::#uuid-4e64e504-30c6-4654-b75b-abf03e45c82c][HUNT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / conduct a hunt, sometimes specifically winter hunt; occasionally in ZUO spring time hunt
+** 其曰人何也	Why is he referred to as "a man"?
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.04.12; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:29a05:1::其曰 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-b5dbfdc1-c7eb-498e-80ad-09472609da55 / NAME
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:CHARPOS: 2
+:END:
+曰@yuē	[[tls:concept:NAME::#uuid-b5dbfdc1-c7eb-498e-80ad-09472609da55][NAME]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] / call the contextually determinate omitted N1 an N2
+** 不復讎	One's resentment is not released
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.04.12; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:29a09:1::不復 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 讎@chóu
+:PROPERTIES:
+:CONCEPT: uuid-592f5dde-6646-4263-9859-74146bef2804 / ENEMY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+讎@chóu	[[tls:concept:ENEMY::#uuid-592f5dde-6646-4263-9859-74146bef2804][ENEMY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / unfriendly act
+** 公會齊人宋人陳人蔡人伐衛	the duke joinded men from Chyi, men from Sonq, men form Chern and men from Tsay and attacked Wei.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.05.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:34a02:1::公會 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-948ae3a7-103c-4742-8b81-7ae261bdd783 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5
+:CHARPOS: 4
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-948ae3a7-103c-4742-8b81-7ae261bdd783][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5][cancellary style]]} / in Annals cancellary style: (unidentified) patricians of Npl; the leadership of Npl; often: an (unidentified) representative of Npl; representatives of Npl, sometimes military: the (military) men from Npl, the forces of Npl
+** 是齊侯宋公也	These (men were) the marquis of Chyi and the duke of Sonq.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.05.07; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:34a05:50::是齊 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-bc4a424d-14a6-4306-9260-7d46ea1202fc / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-40885358-4ad0-489c-b609-df23830eca19
+:CHARPOS: 50
+:END:
+是@shì	[[tls:concept:THIS::#uuid-bc4a424d-14a6-4306-9260-7d46ea1202fc][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-40885358-4ad0-489c-b609-df23830eca19][N=concrete]]} / this (particular concrete thing)
+** 其曰人何也	Why does the Text refer to them as "men"?
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.05.07; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:34a06:50::其曰 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-b5dbfdc1-c7eb-498e-80ad-09472609da55 / NAME
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:CHARPOS: 51
+:END:
+曰@yuē	[[tls:concept:NAME::#uuid-b5dbfdc1-c7eb-498e-80ad-09472609da55][NAME]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] / call the contextually determinate omitted N1 an N2
+** 不逆天王之命也	(The feudal lords must) not act contrary to the command of the King by Heaven's Grace.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.06.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:37a04:1::不逆 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 逆@nì
+:PROPERTIES:
+:CONCEPT: uuid-f90c0f4d-10c1-43dd-960b-bc2b70fbc3f3 / OFFEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+逆@nì	[[tls:concept:OFFEND::#uuid-f90c0f4d-10c1-43dd-960b-bc2b70fbc3f3][OFFEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / oppose, go against; disobey (orders)
+*** 天王@tiānwáng
+:PROPERTIES:
+:CONCEPT: uuid-177c2ab4-b960-4487-bc36-40aa61695fa7 / KING
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:CHARPOS: 3
+:END:
+天王@tiānwáng	[[tls:concept:KING::#uuid-177c2ab4-b960-4487-bc36-40aa61695fa7][KING]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] / the king by the grace of Heaven, His Heaven-ordained Majesty
+** 公至自伐衛	the duke arrived from his attack on Wei.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.06.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:38a02:1::公至 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-7db33eb0-4499-441f-a69b-78b3ee76baa4 / FROM
+:SYN-FUNC: uuid-c3908909-fa0c-41eb-8617-3404d62459ad
+:CHARPOS: 3
+:END:
+自@zì	[[tls:concept:FROM::#uuid-7db33eb0-4499-441f-a69b-78b3ee76baa4][FROM]]	V [[tls:syn-func::#uuid-c3908909-fa0c-41eb-8617-3404d62459ad][vt+V1.postV2]] / from 至自伐鄭
+** 3.6.4螟	There were ming insects.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.06.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:39a01:1::3. / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 螟@míng
+:PROPERTIES:
+:CONCEPT: uuid-5f5df65c-0c6d-4231-a324-bd1b22fe2347 / INSECTS
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:CHARPOS: 6
+:END:
+螟@míng	[[tls:concept:INSECTS::#uuid-5f5df65c-0c6d-4231-a324-bd1b22fe2347][INSECTS]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] / there was a catapillar pest [Some might prefer to read this as a telegraphically used noun, as when someone writes on a shopping list "milk" and means to suggest "I should remember to buy mild."]
+** 齊人來歸衛寶	a man from Chyi came to present precious objects from Wei.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.06.09; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:40a02:1::齊人 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024 / PRECIOUS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 6
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024][PRECIOUS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / precious possession; precious things; treasure of high personal, monetary, social or moral value 三寶
+** 是夜中與	take place at midnight?
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.07.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:43a10:1::是夜 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-e55b85d5-9849-4c59-9db5-b58df380c087 / COPULA
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:CHARPOS: 1
+:END:
+是@shì	[[tls:concept:COPULA::#uuid-e55b85d5-9849-4c59-9db5-b58df380c087][COPULA]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] / be
+** 我見其隕而接於地者	When we see something that falls and hits the ground,
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.07.07; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:43a23:1::我見 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4faa14de-daaa-43a4-870d-92945f70d9f1 / ONESELF
+:SYN-FUNC: uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b
+:SEM-FEAT: uuid-26d3ec76-dd89-4fd2-b554-92258536af7f
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4faa14de-daaa-43a4-870d-92945f70d9f1][ONESELF]]	N [[tls:syn-func::#uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b][npro0]] {[[tls:sem-feat::#uuid-26d3ec76-dd89-4fd2-b554-92258536af7f][impersonal]]} / impersonal pronoun: one, oneself (as opposed to other things) 自我 (cf. 自我加冕 "be self-congratulatory)
+** 則是雨說也	then we may use the expression yeo ("it rains").
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.07.07; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:43a24:50::則是 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 則是@zéshì
+:PROPERTIES:
+:CONCEPT: uuid-2d9c80de-f4d3-4c84-97c1-e2707ebbb9b6 / THEN
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:CHARPOS: 50
+:END:
+則是@zéshì	[[tls:concept:THEN::#uuid-2d9c80de-f4d3-4c84-97c1-e2707ebbb9b6][THEN]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] / THEN + SUCH> then in such a case; then such a person; then; then as for such behaviour; then this is; then this means that; then this leads to [Note that this is not claimed to be a word, just a collocation which it is useful to study.]
+** 出曰治兵	(The ceremony when the army) leaves is called chyr bing.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.08.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:48a08:1::出曰 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 兵@bīng
+:PROPERTIES:
+:CONCEPT: uuid-52412632-776f-43da-a2d7-596a55a8b1e8 / ARMY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+兵@bīng	[[tls:concept:ARMY::#uuid-52412632-776f-43da-a2d7-596a55a8b1e8][ARMY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / troops, armed forces; military support; military force
+** 習戰也	It is an exercise in warfare.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.08.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:48a09:50::習戰 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 習@xí
+:PROPERTIES:
+:CONCEPT: uuid-63d586f4-b4bc-4483-a980-37475af49b56 / REPEAT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 50
+:END:
+習@xí	[[tls:concept:REPEAT::#uuid-63d586f4-b4bc-4483-a980-37475af49b56][REPEAT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / practise or exercise Ving; rehearse, in order to become good at (an art), practise
+*** 戰@zhàn
+:PROPERTIES:
+:CONCEPT: uuid-3b496056-a509-4683-9f9e-c6232d9873e1 / BATTLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+戰@zhàn	[[tls:concept:BATTLE::#uuid-3b496056-a509-4683-9f9e-c6232d9873e1][BATTLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in battle, give battle; be professionally engaged in an act of warfare [NB: giving battle is not a vi2. The use of 戰 with two subjects is actually not very common.]
+** 入曰振旅	(The ceremony when the army) returns is called jenn leu.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.08.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:48a10:50::入曰 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 旅@lǚ
+:PROPERTIES:
+:CONCEPT: uuid-68d49fac-c01f-4222-a436-38d3b53259ef / ARMY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+旅@lǚ	[[tls:concept:ARMY::#uuid-68d49fac-c01f-4222-a436-38d3b53259ef][ARMY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / armed forces; army (of 500 soldiers?)
+** 師及齊師圍郕	(our) army and the army of Chyi besieged (the city of) Cherng.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.08.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:49a02:1::師及 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-c2d841a7-3c45-4cb1-be2b-ec44f60b471f / WITH
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-80d9b919-ce61-439a-905f-c49fa05ec625
+:CHARPOS: 2
+:END:
+及@jí	[[tls:concept:WITH::#uuid-c2d841a7-3c45-4cb1-be2b-ec44f60b471f][WITH]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-80d9b919-ce61-439a-905f-c49fa05ec625][jointly]]} / together with
+** 師還	the army returned.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.08.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:50a02:1::師還 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 還@huán
+:PROPERTIES:
+:CONCEPT: uuid-8d1e4235-b566-482c-b74b-e4f2d7f49764 / RETURN
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 2
+:END:
+還@huán	[[tls:concept:RETURN::#uuid-8d1e4235-b566-482c-b74b-e4f2d7f49764][RETURN]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / get back, return home
+** 還者	The term hwan ("to return") indicates
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.08.09; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:50a03:50::還者 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 還@huán
+:PROPERTIES:
+:CONCEPT: uuid-8da5856b-8adf-4cd3-8f41-301e5de0453a / TURN BACK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+還@huán	[[tls:concept:TURN BACK::#uuid-8da5856b-8adf-4cd3-8f41-301e5de0453a][TURN BACK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / make an about turn and withdraw, turn back, head back; turn round in order to withdraw or return to where one comes from, or retrace one's steps
+** 事未畢也	that the matter had not been concluded.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.08.09; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:50a04:50::事未 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 畢@bì
+:PROPERTIES:
+:CONCEPT: uuid-80429bdd-baed-4d2f-83eb-2270b1c926b7 / COMPLETE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 52
+:END:
+畢@bì	[[tls:concept:COMPLETE::#uuid-80429bdd-baed-4d2f-83eb-2270b1c926b7][COMPLETE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be completed, be completely achieved; be completely understood; reach perfection
+** 遯也	(Our army) withdrew.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.08.09; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:50a05:50::遯也 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 遯@dùn
+:PROPERTIES:
+:CONCEPT: uuid-096f3568-67c9-42c2-8407-77d70ff678b2 / WITHDRAW
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+遯@dùn	[[tls:concept:WITHDRAW::#uuid-096f3568-67c9-42c2-8407-77d70ff678b2][WITHDRAW]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / withdraw; go into hiding; live in hiding
+** 弒而代之也	(He) assassinated (his ruler) in order to succeed him.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.08.11; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:51a06:1::弒而 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 代@dài
+:PROPERTIES:
+:CONCEPT: uuid-915e352d-a008-4720-83a9-9685efaf256b / REPLACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-959786c7-22da-4fa0-8b6b-edb219aab94b
+:CHARPOS: 3
+:END:
+代@dài	[[tls:concept:REPLACE::#uuid-915e352d-a008-4720-83a9-9685efaf256b][REPLACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-959786c7-22da-4fa0-8b6b-edb219aab94b][oneself]]} / take someone else's place 四時相代
+** 3.9.2公及齊大夫盟于暨	The duke and a great officer of Chyi made a covenant in Jih.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.09.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:54a01:1::3. / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-a2d92cd7-b925-46fd-afc9-3ec0554aea4c / WITH
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-65e08e4c-6f19-43b7-875b-def687fa4be1
+:CHARPOS: 7
+:END:
+及@jí	[[tls:concept:WITH::#uuid-a2d92cd7-b925-46fd-afc9-3ec0554aea4c][WITH]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-65e08e4c-6f19-43b7-875b-def687fa4be1][interact]]} / 衛人及狄盟 N2 V-s, in conjunction/cooperation/interaction with N1 (In the following the first designates joint action, the second interaction: 叔孫豹及諸侯之大夫及陳袁僑盟。 公及楚公子嬰齊、蔡侯、許男、秦右大夫說、宋華元、陳公孫寧、衛孫良夫、鄭公子去疾及齊國之大夫盟于蜀。)
+** 大夫出奔反	The term guei ("to return") is used of a great officer
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.09.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:56a02:1::大夫 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 出奔@chūbēn
+:PROPERTIES:
+:CONCEPT: uuid-3b43596a-9df0-4240-8333-8ab390720b2a / FLEE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CONCEPT: uuid-d464ed05-b5f8-424e-ab6f-97309b7c2ee1 / RETURN
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+出奔@chūbēn	[[tls:concept:FLEE::#uuid-3b43596a-9df0-4240-8333-8ab390720b2a][FLEE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / flee
+返@fǎn / 反@fǎn	[[tls:concept:RETURN::#uuid-d464ed05-b5f8-424e-ab6f-97309b7c2ee1][RETURN]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / return, get back to where one came from; make one's return; flee back
+** 及齊師戰于乾時	(the duke) and the army of Chyi fought at Ganshyr.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.09.11; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:58a02:1::及齊 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-b3368883-f3db-4003-864f-3d45d856ee53 / WITH
+:SYN-FUNC: uuid-dac3dd61-2c71-4147-a558-1c54a334c52b
+:SEM-FEAT: uuid-65e08e4c-6f19-43b7-875b-def687fa4be1
+:CHARPOS: 1
+:END:
+及@jí	[[tls:concept:WITH::#uuid-b3368883-f3db-4003-864f-3d45d856ee53][WITH]]	V [[tls:syn-func::#uuid-dac3dd61-2c71-4147-a558-1c54a334c52b][vtoN1(.postN2):adV]] {[[tls:sem-feat::#uuid-65e08e4c-6f19-43b7-875b-def687fa4be1][interact]]} / the contextually determinate N2 V-s (together) with N1; the contextually determinate N2 V-s against N1
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-1ac9bcd4-737c-450e-8a77-46574b762269 / WITH
+:SYN-FUNC: uuid-dac3dd61-2c71-4147-a558-1c54a334c52b
+:SEM-FEAT: uuid-679ff478-b721-42eb-aca2-f0e2c2c402c3
+:CHARPOS: 1
+:END:
+及@jí	[[tls:concept:WITH::#uuid-1ac9bcd4-737c-450e-8a77-46574b762269][WITH]]	V [[tls:syn-func::#uuid-dac3dd61-2c71-4147-a558-1c54a334c52b][vtoN1(.postN2):adV]] {[[tls:sem-feat::#uuid-679ff478-b721-42eb-aca2-f0e2c2c402c3][hostile]]} / (fight a battle etc) with
+** 易辭也	is an expression denoting ease.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.09.13; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:59a06:2::易辭 / 春秋穀梁傳
+:CHARPOS: 2
+:END:
+*** 辭@cí
+:PROPERTIES:
+:CONCEPT: uuid-6b75462e-eaf5-4685-9590-a57a3d256f90 / WORD
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 3
+:END:
+辭@cí	[[tls:concept:WORD::#uuid-6b75462e-eaf5-4685-9590-a57a3d256f90][WORD]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / word; particle
+** 可以逃難	may give protection to refugees;
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.09.13; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:59a09:1::可以 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 逃@táo
+:PROPERTIES:
+:CONCEPT: uuid-7a15003e-765b-4e51-ac87-0411cd6d17cb / AVOID
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9c871057-121e-4959-8d0e-d3b4e64924ce
+:CHARPOS: 3
+:END:
+逃@táo	[[tls:concept:AVOID::#uuid-7a15003e-765b-4e51-ac87-0411cd6d17cb][AVOID]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9c871057-121e-4959-8d0e-d3b4e64924ce][from]]} / escape from; avoid by running away from; run away from, abscond from (difficulties, contracts etc)
+** 故謹而月之	and therefore exercizes care and gives the month.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.10.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:63a07:1::故謹 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 謹@jǐn
+:PROPERTIES:
+:CONCEPT: uuid-48c65f7a-1baa-4796-bdd0-84d83d540068 / DILIGENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 2
+:END:
+謹@jǐn	[[tls:concept:DILIGENT::#uuid-48c65f7a-1baa-4796-bdd0-84d83d540068][DILIGENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / painstakingly, diligently, carefully; meticulously; unfailingly 謹而
+** 宋人遷宿	the people of Sonq removed (the state of) Suh.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.10.05; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:64a02:1::宋人 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-948ae3a7-103c-4742-8b81-7ae261bdd783 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5
+:CHARPOS: 2
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-948ae3a7-103c-4742-8b81-7ae261bdd783][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5][cancellary style]]} / in Annals cancellary style: (unidentified) patricians of Npl; the leadership of Npl; often: an (unidentified) representative of Npl; representatives of Npl, sometimes military: the (military) men from Npl, the forces of Npl
+*** 遷@qiān
+:PROPERTIES:
+:CONCEPT: uuid-85c85e25-06cc-4cbd-a9d0-0c0c425addc6 / REMOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+遷@qiān	[[tls:concept:REMOVE::#uuid-85c85e25-06cc-4cbd-a9d0-0c0c425addc6][REMOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / move (an oject) to another place
+** 其不地	That the Text does not indicate the place
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.10.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:64a04:1::其不 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 地@dì
+:PROPERTIES:
+:CONCEPT: uuid-ce233a27-78f2-42a2-b47d-bf3105c63d2c / PLACE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+地@dì	[[tls:concept:PLACE::#uuid-ce233a27-78f2-42a2-b47d-bf3105c63d2c][PLACE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / mention the place; record the location of an event
+** 猶未失其國家以往者也	the removal (of the capital), while the state has as yet not been lost.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.10.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:64a07:1::猶未 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-9f730315-c913-491b-9386-b0759637c8d4 / NATION
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 5
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-9f730315-c913-491b-9386-b0759637c8d4][NATION]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / nation
+** 畏我也	(They) feared us.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.10.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:65a04:1::畏我 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c1f7813d-6a25-4746-9e7e-b3562667dc25 / WE
+:SYN-FUNC: uuid-dcde337f-dbf8-4ce2-b262-60b74f99a17b
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-c1f7813d-6a25-4746-9e7e-b3562667dc25][WE]]	 [[tls:syn-func::#uuid-dcde337f-dbf8-4ce2-b262-60b74f99a17b][npro+Vt]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / us (including the audience)
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c876e617-0a4d-403b-9df2-466624ed7b1e / WE
+:SYN-FUNC: uuid-3f834eda-ce59-4254-a002-582400765af9
+:SEM-FEAT: uuid-11911d98-4a4e-408c-aaec-653a49253193
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-c876e617-0a4d-403b-9df2-466624ed7b1e][WE]]	 [[tls:syn-func::#uuid-3f834eda-ce59-4254-a002-582400765af9][npro{adN}]] {[[tls:sem-feat::#uuid-11911d98-4a4e-408c-aaec-653a49253193][territory]]} / our territory (inclusive)
+** 聖人立	When a sage (eventually) is established (as King),
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.10.12; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:67a09:1::聖人 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 聖人@shèngrén
+:PROPERTIES:
+:CONCEPT: uuid-5824c27a-874b-41da-bb65-f83306aff7b7 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 1
+:END:
+聖人@shèngrén	[[tls:concept:HERO::#uuid-5824c27a-874b-41da-bb65-f83306aff7b7][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a sage; any sage (with tensed predicate)
+** 天子弱	Under a weak Son of Heaven,
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.10.12; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:67a11:1::天子 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-8f19a45f-c010-4dfc-b438-3d6c9c4a5e03 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 1
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-8f19a45f-c010-4dfc-b438-3d6c9c4a5e03][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a Son of Heaven, a certain Son of Heaven
+** 釋蔡侯之獲也	In order to explain the capture of the marquis of Tsay.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.10.14; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:67a24:1::釋蔡 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 獲@huò
+:PROPERTIES:
+:CONCEPT: uuid-2a8374c6-0769-4084-b99a-04b17a842db0 / ARREST
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+獲@huò	[[tls:concept:ARREST::#uuid-2a8374c6-0769-4084-b99a-04b17a842db0][ARREST]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / the capturing (and possibly killing, of someone)
+** 譚子奔莒	The viscount of Tarn fled to Jeu.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.10.15; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:68a03:1::譚子 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 奔@bēn / 奔@bèn
+:PROPERTIES:
+:CONCEPT: uuid-1e8c218e-b75d-4f21-85ca-df58944511a0 / FLEE
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:CHARPOS: 3
+:END:
+奔@bēn / 奔@bèn	[[tls:concept:FLEE::#uuid-1e8c218e-b75d-4f21-85ca-df58944511a0][FLEE]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] / flee to (a place, typically another state)
+** 宋萬之獲也	and to the fact Wann of Sonq was captured.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.11.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:71a07:1::宋萬 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 獲@huò
+:PROPERTIES:
+:CONCEPT: uuid-2a8374c6-0769-4084-b99a-04b17a842db0 / ARREST
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+獲@huò	[[tls:concept:ARREST::#uuid-2a8374c6-0769-4084-b99a-04b17a842db0][ARREST]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / the capturing (and possibly killing, of someone)
+** 王者之後也	(The ruler of Sonq) was the descendant of a royal house.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.11.05; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:72a05:1::王者 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 王者@wàngzhě
+:PROPERTIES:
+:CONCEPT: uuid-538148de-2924-4c89-8401-e2e834b1ac66 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+王者@wàngzhě	[[tls:concept:RULER::#uuid-538148de-2924-4c89-8401-e2e834b1ac66][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a king, kings, the hypothetical king in question 王者之後也 "was a descendent of a king"
+** 其志過我也	That the Text records this event is due to the fact that she passed through our state.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.11.07; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:73a03:1::其志 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-d708815f-77dd-4089-9d38-3bc6923d2f84 / EGO
+:SYN-FUNC: uuid-3f834eda-ce59-4254-a002-582400765af9
+:SEM-FEAT: uuid-d48bcf89-5a5c-4b49-a024-cb05c5ff328c
+:CHARPOS: 4
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-d708815f-77dd-4089-9d38-3bc6923d2f84][EGO]]	 [[tls:syn-func::#uuid-3f834eda-ce59-4254-a002-582400765af9][npro{adN}]] {[[tls:sem-feat::#uuid-d48bcf89-5a5c-4b49-a024-cb05c5ff328c][singular/plural]]} / my/our [territory]
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-298f244e-add2-4e8b-923e-38b65b0df713 / TERRITORY
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 4
+:END:
+我@wǒ	[[tls:concept:TERRITORY::#uuid-298f244e-add2-4e8b-923e-38b65b0df713][TERRITORY]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / our territory; our state; my state
+** 宋萬出奔陳	Wann of Sonq left (his state) and fled to Chern.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.12.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:78a02:1::宋萬 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 出奔@chūbēn
+:PROPERTIES:
+:CONCEPT: uuid-752c9972-44ce-498a-801b-2be0a73f178f / FLEE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+出奔@chūbēn	[[tls:concept:FLEE::#uuid-752c9972-44ce-498a-801b-2be0a73f178f][FLEE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / leave so as to flee to
+** 是齊侯宋公也	These were the marquis of Chyi and the duke of Sonq.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.13.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:80a05:1::是齊 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-bc4a424d-14a6-4306-9260-7d46ea1202fc / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-40885358-4ad0-489c-b609-df23830eca19
+:CHARPOS: 1
+:END:
+是@shì	[[tls:concept:THIS::#uuid-bc4a424d-14a6-4306-9260-7d46ea1202fc][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-40885358-4ad0-489c-b609-df23830eca19][N=concrete]]} / this (particular concrete thing)
+** 其曰人何也	Why does the Text refer to them as "men"?
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.13.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:80a06:50::其曰 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-b5dbfdc1-c7eb-498e-80ad-09472609da55 / NAME
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:CHARPOS: 51
+:END:
+曰@yuē	[[tls:concept:NAME::#uuid-b5dbfdc1-c7eb-498e-80ad-09472609da55][NAME]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] / call the contextually determinate omitted N1 an N2
+** 宋人邾齊人人伐郳	men of Sonq, men of Chyi and men of Juliuh attacked Yi.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.15.05; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:92a02:1::宋人 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-948ae3a7-103c-4742-8b81-7ae261bdd783 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5
+:CHARPOS: 2
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-948ae3a7-103c-4742-8b81-7ae261bdd783][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5][cancellary style]]} / in Annals cancellary style: (unidentified) patricians of Npl; the leadership of Npl; often: an (unidentified) representative of Npl; representatives of Npl, sometimes military: the (military) men from Npl, the forces of Npl
+** 宋人齊人衛人伐鄭	men form Sonq, men form Chyi and men form Wei atttacked Jenq.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.16.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:97a02:1::宋人 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-948ae3a7-103c-4742-8b81-7ae261bdd783 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5
+:CHARPOS: 2
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-948ae3a7-103c-4742-8b81-7ae261bdd783][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5][cancellary style]]} / in Annals cancellary style: (unidentified) patricians of Npl; the leadership of Npl; often: an (unidentified) representative of Npl; representatives of Npl, sometimes military: the (military) men from Npl, the forces of Npl
+** 會齊侯宋公陳侯衛侯鄭伯許男曹伯滑伯滕子同盟于幽	the duke had a meeting with the marquis of Chyi, the duke of Sonq, the marquis of Chern, the marquis of Wei, the earl of (p.134) Jenq, the baron of Sheu, the earl of Tsaur, the earl of Hwa and the viscount of Terng. They made a covenant in Iou.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.16.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:99a02:1::會齊 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 男@nán
+:PROPERTIES:
+:CONCEPT: uuid-e9bd34ed-f81a-4ba9-afa6-57642405027d / RANK
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:CHARPOS: 13
+:END:
+男@nán	[[tls:concept:RANK::#uuid-e9bd34ed-f81a-4ba9-afa6-57642405027d][RANK]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] / baron of 許男
+** 以其逃來志之也	On account of the fact that he (later) fled to Luu.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.17.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:102a10:1::以其 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 逃來@táolái
+:PROPERTIES:
+:CONCEPT: uuid-4568af92-c6a0-4558-a84c-b3d5d55be065 / COME
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+逃來@táolái	[[tls:concept:COME::#uuid-4568af92-c6a0-4558-a84c-b3d5d55be065][COME]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / come in flight, fleeing from somewhere come
+** 不得不錄其本也	it was necessary also to record the cause.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.17.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:102a13:1::不得 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 不得不@bùdébù
+:PROPERTIES:
+:CONCEPT: uuid-b588a6b1-2b10-4833-9f94-0ab8f429f7cd / SHOULD
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 1
+:END:
+不得不@bùdébù	[[tls:concept:SHOULD::#uuid-b588a6b1-2b10-4833-9f94-0ab8f429f7cd][SHOULD]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / should on all occasions, must absolutely, strictly have to
+** 鄭之佞人也	was an artful man of the state of Jenq.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.17.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:102a15:1::鄭之 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 佞@nìng
+:PROPERTIES:
+:CONCEPT: uuid-e830992f-8610-4277-b9c8-daef1396a505 / ELOQUENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+佞@nìng	[[tls:concept:ELOQUENT::#uuid-e830992f-8610-4277-b9c8-daef1396a505][ELOQUENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / eloquent, rhetorically smooth 佞人
+** 然則何為不言遂人	If so, why does the Text not state that the men of Suey
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.17.05; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:103a05:1::然則 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 然則@ránzé
+:PROPERTIES:
+:CONCEPT: uuid-1bee7a08-4d64-40c4-a624-8f42f3ab0b21 / BUT
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:CHARPOS: 1
+:END:
+然則@ránzé	[[tls:concept:BUT::#uuid-1bee7a08-4d64-40c4-a624-8f42f3ab0b21][BUT]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] / this being so, on the other hand...; if that is how things stand, then...; in that case, then...
+** 此謂狎敵也	This was to treat the enemy with contempt (c).
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.17.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:103a14:1::此謂 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-20e72b12-d3da-4d93-82a7-4d85d052a415
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-20e72b12-d3da-4d93-82a7-4d85d052a415][abstract]]} / this (particular aforementioned abstract but definite) item
+*** 狎@xiá
+:PROPERTIES:
+:CONCEPT: uuid-68ced2ba-d1bf-47fe-ade6-514252240cac / DESPISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 3
+:END:
+狎@xiá	[[tls:concept:DESPISE::#uuid-68ced2ba-d1bf-47fe-ade6-514252240cac][DESPISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / treat with contempt; treat without special respect
+** 鄭詹自齊逃來	Jan of Jenq came as a refugee from Chyi.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.17.07; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:104a01:50::鄭詹 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-c30c565b-fa66-4868-b92d-e74cab24465d / FROM
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 52
+:END:
+自@zì	[[tls:concept:FROM::#uuid-c30c565b-fa66-4868-b92d-e74cab24465d][FROM]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / OBI 5: from; starting out from a place; 自楚之滕 "went from Chu3 to Te2ng" also a time: 所自生 "that wherefrom something is born"
+*** 逃來@táolái
+:PROPERTIES:
+:CONCEPT: uuid-4568af92-c6a0-4558-a84c-b3d5d55be065 / COME
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 54
+:END:
+逃來@táolái	[[tls:concept:COME::#uuid-4568af92-c6a0-4558-a84c-b3d5d55be065][COME]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / come in flight, fleeing from somewhere come
+** 逃義曰逃	The term taur ("to escape") denotes an escape from a justified arrest.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.17.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:104a02:50::逃義 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 逃@táo
+:PROPERTIES:
+:CONCEPT: uuid-7a15003e-765b-4e51-ac87-0411cd6d17cb / AVOID
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9c871057-121e-4959-8d0e-d3b4e64924ce
+:CHARPOS: 50
+:END:
+逃@táo	[[tls:concept:AVOID::#uuid-7a15003e-765b-4e51-ac87-0411cd6d17cb][AVOID]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9c871057-121e-4959-8d0e-d3b4e64924ce][from]]} / escape from; avoid by running away from; run away from, abscond from (difficulties, contracts etc)
+** 王者朝日	(p.135) the Kings pays homage to the sun.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.18.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:107a06:2::王者 / 春秋穀梁傳
+:CHARPOS: 2
+:END:
+*** 王者@wàngzhě
+:PROPERTIES:
+:CONCEPT: uuid-538148de-2924-4c89-8401-e2e834b1ac66 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+王者@wàngzhě	[[tls:concept:RULER::#uuid-538148de-2924-4c89-8401-e2e834b1ac66][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a king, kings, the hypothetical king in question 王者之後也 "was a descendent of a king"
+** 故雖為天子	Therefore, even though he be the Son of Heaven
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.18.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:107a07:50::故雖 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-50e1746a-8d0a-4c0f-9665-e3b6cbfd4e26 / KING
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 53
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-50e1746a-8d0a-4c0f-9665-e3b6cbfd4e26][KING]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be the Son of Heaven
+** 貴為諸侯	There is necessarily one who is superior even to those
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.18.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:107a09:1::貴為 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 諸侯@zhūhóu
+:PROPERTIES:
+:CONCEPT: uuid-ef7c49d5-e2ee-458b-8054-e32c5d62884e / RULER
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 3
+:END:
+諸侯@zhūhóu	[[tls:concept:RULER::#uuid-ef7c49d5-e2ee-458b-8054-e32c5d62884e][RULER]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / be a feudal lord
+** 故天子朝日	Therefore the Son of Heaven pays homage to the sun
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.18.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:107a11:1::故天 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-e9d7ecdf-283d-4ee4-9dfa-27501092b82e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-e9d7ecdf-283d-4ee4-9dfa-27501092b82e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / an emperor; the emperor generally (with untensed predicate)
+** 公追戎于濟西	the duke persued the Rong to the west of the river Jih.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.18.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:108a02:1::公追 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 追@zhuī
+:PROPERTIES:
+:CONCEPT: uuid-5d262ab4-caba-4552-a933-523f8264ea52 / PURSUE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-679ff478-b721-42eb-aca2-f0e2c2c402c3
+:CHARPOS: 2
+:END:
+追@zhuī	[[tls:concept:PURSUE::#uuid-5d262ab4-caba-4552-a933-523f8264ea52][PURSUE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-679ff478-b721-42eb-aca2-f0e2c2c402c3][hostile]]} / go after, pursue, try to catch up with (and perhaps catch)
+** 以公之追之	Having represented the duke as having personally led the persuit,
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.18.05; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:108a05:1::以公 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 追@zhuī
+:PROPERTIES:
+:CONCEPT: uuid-5d262ab4-caba-4552-a933-523f8264ea52 / PURSUE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-679ff478-b721-42eb-aca2-f0e2c2c402c3
+:CHARPOS: 4
+:END:
+追@zhuī	[[tls:concept:PURSUE::#uuid-5d262ab4-caba-4552-a933-523f8264ea52][PURSUE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-679ff478-b721-42eb-aca2-f0e2c2c402c3][hostile]]} / go after, pursue, try to catch up with (and perhaps catch)
+** 不使戎邇於我也	the Text does not grant the Rong to come too close to our state.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.18.05; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:108a06:50::不使 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c876e617-0a4d-403b-9df2-466624ed7b1e / WE
+:SYN-FUNC: uuid-3f834eda-ce59-4254-a002-582400765af9
+:SEM-FEAT: uuid-11911d98-4a4e-408c-aaec-653a49253193
+:CHARPOS: 55
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-c876e617-0a4d-403b-9df2-466624ed7b1e][WE]]	 [[tls:syn-func::#uuid-3f834eda-ce59-4254-a002-582400765af9][npro{adN}]] {[[tls:sem-feat::#uuid-11911d98-4a4e-408c-aaec-653a49253193][territory]]} / our territory (inclusive)
+** 遂及齊侯宋公盟	Thereupon he made a covenant with the marquis of Chyi and the duke of Sonq.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.19.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:114a03:1::遂及 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-61293e54-9583-4736-8eb2-95c9c9f16d99 / WITH
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-f4519d65-f771-4b87-948b-d33fff649e22
+:CHARPOS: 2
+:END:
+及@jí	[[tls:concept:WITH::#uuid-61293e54-9583-4736-8eb2-95c9c9f16d99][WITH]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-f4519d65-f771-4b87-948b-d33fff649e22][N=multiple]]} / engage in V together with, or in alliance with all the persons in N1
+** 辟要盟也	In order to conceal the fact that (the state of Luu) requested a convenant.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.19.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:114a07:1::辟要 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 要@yāo
+:PROPERTIES:
+:CONCEPT: uuid-fd5ad38d-2407-4cb0-9c57-2d7127564fbe / SEEK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+要@yāo	[[tls:concept:SEEK::#uuid-fd5ad38d-2407-4cb0-9c57-2d7127564fbe][SEEK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / work towards, as one's main aim
+** 何以見其辟要盟也	How do we know that this was so?
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.19.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:114a08:50::何以 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 要@yāo
+:PROPERTIES:
+:CONCEPT: uuid-fd5ad38d-2407-4cb0-9c57-2d7127564fbe / SEEK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+要@yāo	[[tls:concept:SEEK::#uuid-fd5ad38d-2407-4cb0-9c57-2d7127564fbe][SEEK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / work towards, as one's main aim
+** 齊人宋人陳人伐我西鄙	men from Chyi, men from Sonq and men from Chern attacked our western border.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.19.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:116a02:1::齊人 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-948ae3a7-103c-4742-8b81-7ae261bdd783 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5
+:CHARPOS: 2
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-948ae3a7-103c-4742-8b81-7ae261bdd783][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5][cancellary style]]} / in Annals cancellary style: (unidentified) patricians of Npl; the leadership of Npl; often: an (unidentified) representative of Npl; representatives of Npl, sometimes military: the (military) men from Npl, the forces of Npl
+** 鄭伯突卒	Tuh, earl of Jenq, died.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.21.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:124a02:1::鄭伯 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 伯@bó
+:PROPERTIES:
+:CONCEPT: uuid-67f74564-55e0-4d62-a3cb-2cabe829e691 / RANK
+:SYN-FUNC: uuid-8445daa3-3202-41da-baec-14bed2d21328
+:CHARPOS: 2
+:END:
+伯@bó	[[tls:concept:RANK::#uuid-67f74564-55e0-4d62-a3cb-2cabe829e691][RANK]]	N [[tls:syn-func::#uuid-8445daa3-3202-41da-baec-14bed2d21328][npost-N{PLACE}.+Npr]] / 秦伯罃
+** 肆大眚	there was a pardon of great offences (a).
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.22.01; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:128a01:1::肆大 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 肆@sì
+:PROPERTIES:
+:CONCEPT: uuid-b72bce55-9970-4b06-b420-ec6107a21b3b / PARDON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+肆@sì	[[tls:concept:PARDON::#uuid-b72bce55-9970-4b06-b420-ec6107a21b3b][PARDON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / forgive; declare an amnesty for
+** 肆	Syh
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.22.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:128a01:50::肆、 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 肆@sì
+:PROPERTIES:
+:CONCEPT: uuid-b72bce55-9970-4b06-b420-ec6107a21b3b / PARDON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+肆@sì	[[tls:concept:PARDON::#uuid-b72bce55-9970-4b06-b420-ec6107a21b3b][PARDON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / forgive; declare an amnesty for
+** 及齊高傒盟于防	(the duke) made a covenant with Gau-shi of Chyi in Farng.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.22.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:132a02:1::及齊 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-b3368883-f3db-4003-864f-3d45d856ee53 / WITH
+:SYN-FUNC: uuid-dac3dd61-2c71-4147-a558-1c54a334c52b
+:SEM-FEAT: uuid-65e08e4c-6f19-43b7-875b-def687fa4be1
+:CHARPOS: 1
+:END:
+及@jí	[[tls:concept:WITH::#uuid-b3368883-f3db-4003-864f-3d45d856ee53][WITH]]	V [[tls:syn-func::#uuid-dac3dd61-2c71-4147-a558-1c54a334c52b][vtoN1(.postN2):adV]] {[[tls:sem-feat::#uuid-65e08e4c-6f19-43b7-875b-def687fa4be1][interact]]} / the contextually determinate N2 V-s (together) with N1; the contextually determinate N2 V-s against N1
+** 有問名	enquiries about the name (of the bride-to-be),
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.22.11; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:133a06:1::有問 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 問@wèn
+:PROPERTIES:
+:CONCEPT: uuid-5be5624c-6552-4934-a64b-68be94ed0941 / ASK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-1c26d211-f666-4bf5-ba4f-904728cffabf
+:CHARPOS: 2
+:END:
+問@wèn	[[tls:concept:ASK::#uuid-5be5624c-6552-4934-a64b-68be94ed0941][ASK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-1c26d211-f666-4bf5-ba4f-904728cffabf][N=information]]} / to ask for relevant information about 問其故, 問他
+** 天子之內臣也	He was an interior minister of the Son of Heaven.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.23.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:136a03:1::天子 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-9b309289-51ab-4c77-8a80-67dff3a9da01 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-9b309289-51ab-4c77-8a80-67dff3a9da01][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the (contextually determinate) Son of Heaven (of the time)
+** 公如齊觀社	the duke went to Chyi to see (the service at) the altar of the spirit of the land.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.23.04; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:137a02:1::公如 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 如@rú
+:PROPERTIES:
+:CONCEPT: uuid-a90334a3-cf80-4f32-afe1-e9420129e3e9 / GO TO
+:SYN-FUNC: uuid-81831269-7016-4091-8209-5abad1ff4453
+:CHARPOS: 2
+:END:
+如@rú	[[tls:concept:GO TO::#uuid-a90334a3-cf80-4f32-afe1-e9420129e3e9][GO TO]]	V [[tls:syn-func::#uuid-81831269-7016-4091-8209-5abad1ff4453][vtoN.-V{0}]] / go to N in order to V
+*** 社@shè
+:PROPERTIES:
+:CONCEPT: uuid-f4db759b-1fe3-42d6-a94e-1efcfe6b649b / ALTAR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+社@shè	[[tls:concept:ALTAR::#uuid-f4db759b-1fe3-42d6-a94e-1efcfe6b649b][ALTAR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / sacrificial mound and pole used for sacrifices to the spirits of the land
+** 常事曰視	Shyh ("to regard") is used of ordinary events;
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.23.05; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:137a03:50::常事 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 常@cháng
+:PROPERTIES:
+:CONCEPT: uuid-2fd4345e-fc35-4711-b826-9c85be8af994 / COMMON
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+常@cháng	[[tls:concept:COMMON::#uuid-2fd4345e-fc35-4711-b826-9c85be8af994][COMMON]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / ordinary, not beyond the expected, commonplace, normal
+** 非常曰觀	guan ("to look at") is used of extraordinary events.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.23.05; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:137a04:50::非常 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 常@cháng
+:PROPERTIES:
+:CONCEPT: uuid-2fd4345e-fc35-4711-b826-9c85be8af994 / COMMON
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 51
+:END:
+常@cháng	[[tls:concept:COMMON::#uuid-2fd4345e-fc35-4711-b826-9c85be8af994][COMMON]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / ordinary, not beyond the expected, commonplace, normal
+** 無事之辭也	is an expression used of unofficial matters.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.23.05; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:137a05:50::無事 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 辭@cí
+:PROPERTIES:
+:CONCEPT: uuid-6b75462e-eaf5-4685-9590-a57a3d256f90 / WORD
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 53
+:END:
+辭@cí	[[tls:concept:WORD::#uuid-6b75462e-eaf5-4685-9590-a57a3d256f90][WORD]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / word; particle
+** 其曰人何也	/C/ Why is the term ren ("man") used here?
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.23.09; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:138a03:1::其曰 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-b5dbfdc1-c7eb-498e-80ad-09472609da55 / NAME
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:CHARPOS: 2
+:END:
+曰@yuē	[[tls:concept:NAME::#uuid-b5dbfdc1-c7eb-498e-80ad-09472609da55][NAME]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] / call the contextually determinate omitted N1 an N2
+** 舉道不待再	When promoting the correct principles (among the barbarians) (the Chuenchiou) does not wait for a second criterion (b).
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.23.09; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:138a04:50::舉道 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 再@zài
+:PROPERTIES:
+:CONCEPT: uuid-3a9ef008-39dd-475c-b7cc-a18ec60472b6 / AGAIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 54
+:END:
+再@zài	[[tls:concept:AGAIN::#uuid-3a9ef008-39dd-475c-b7cc-a18ec60472b6][AGAIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / a second case, a second instance
+** 3.23.5公及齊侯遇于穀	The duke and the marquis of Chyi had a meeting in Guu.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.23.10; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:139a01:1::3. / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-a2d92cd7-b925-46fd-afc9-3ec0554aea4c / WITH
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-65e08e4c-6f19-43b7-875b-def687fa4be1
+:CHARPOS: 8
+:END:
+及@jí	[[tls:concept:WITH::#uuid-a2d92cd7-b925-46fd-afc9-3ec0554aea4c][WITH]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-65e08e4c-6f19-43b7-875b-def687fa4be1][interact]]} / 衛人及狄盟 N2 V-s, in conjunction/cooperation/interaction with N1 (In the following the first designates joint action, the second interaction: 叔孫豹及諸侯之大夫及陳袁僑盟。 公及楚公子嬰齊、蔡侯、許男、秦右大夫說、宋華元、陳公孫寧、衛孫良夫、鄭公子去疾及齊國之大夫盟于蜀。)
+** 丹桓宮楹	(the duke) painted red the pillars of (duke) Hwan's temple.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.23.14; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:141a02:1::丹桓 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 丹@dān
+:PROPERTIES:
+:CONCEPT: uuid-893bb84d-8fff-44b6-a274-748fcacec208 / RED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+丹@dān	[[tls:concept:RED::#uuid-893bb84d-8fff-44b6-a274-748fcacec208][RED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / paint cinnabar red
+** 天子諸侯黝堊	the Son of Heaven and the feudal lords had black (pillars) and white plaster (between the pillars) (a).
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.23.15; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:141a03:50::天子 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 黝@yǒu
+:PROPERTIES:
+:CONCEPT: uuid-3b8ceae2-80ab-4c6b-8b2b-cfe09585b624 / BLACK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 54
+:END:
+黝@yǒu	[[tls:concept:BLACK::#uuid-3b8ceae2-80ab-4c6b-8b2b-cfe09585b624][BLACK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / LUNHENG: greenish black
+** 丹楹	To paint the pillars red
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.23.15; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:141a06:1::丹楹 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 丹@dān
+:PROPERTIES:
+:CONCEPT: uuid-893bb84d-8fff-44b6-a274-748fcacec208 / RED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+丹@dān	[[tls:concept:RED::#uuid-893bb84d-8fff-44b6-a274-748fcacec208][RED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / paint cinnabar red
+*** 楹@yíng
+:PROPERTIES:
+:CONCEPT: uuid-73a741c4-a094-49e3-9053-f3fd6084219e / PILLAR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+楹@yíng	[[tls:concept:PILLAR::#uuid-73a741c4-a094-49e3-9053-f3fd6084219e][PILLAR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / pillar in front of the main hall, on the main platform in front of the main hall; but the term can also be used to refer quite generally to a pillar of any kind, including the structurally crucial zhù 柱.
+** 天子之桷	in the case of the rafters (of the temple) of the Son of Heaven,
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.24.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:145a02:2::天子 / 春秋穀梁傳
+:CHARPOS: 2
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-e9d7ecdf-283d-4ee4-9dfa-27501092b82e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-e9d7ecdf-283d-4ee4-9dfa-27501092b82e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / an emperor; the emperor generally (with untensed predicate)
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-8f19a45f-c010-4dfc-b438-3d6c9c4a5e03 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 2
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-8f19a45f-c010-4dfc-b438-3d6c9c4a5e03][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a Son of Heaven, a certain Son of Heaven
+** 而加之於宗廟	and apply it to the ancestral temple
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.24.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:145a12:7::而加 / 春秋穀梁傳
+:CHARPOS: 7
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-aa54aaed-3552-42b7-b86e-e8af5feec1c3 / RELATION
+:SYN-FUNC: uuid-bf432bc9-2beb-4f57-9e63-4f35fb57efdf
+:CHARPOS: 10
+:END:
+於@yú	[[tls:concept:RELATION::#uuid-aa54aaed-3552-42b7-b86e-e8af5feec1c3][RELATION]]	V [[tls:syn-func::#uuid-bf432bc9-2beb-4f57-9e63-4f35fb57efdf][vt0oN.postVtt+npro]] / 白之於君 prepositition after a ditransitive verb with an object
+** 丹桓宮楹	and painted red the pillars of Hwan's temple.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.24.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:145a15:1::丹桓 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 丹@dān
+:PROPERTIES:
+:CONCEPT: uuid-893bb84d-8fff-44b6-a274-748fcacec208 / RED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+丹@dān	[[tls:concept:RED::#uuid-893bb84d-8fff-44b6-a274-748fcacec208][RED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / paint cinnabar red
+** 娶仇人子弟	To marry the daughter and the younger sister of a feud enemy
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.24.11; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:149a10:1::娶仇 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 仇@qiú / 讎@chóu
+:PROPERTIES:
+:CONCEPT: uuid-8a9d9b03-035b-4cda-876d-ed556c2edb43 / ENEMY
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 2
+:END:
+仇@qiú / 讎@chóu	[[tls:concept:ENEMY::#uuid-8a9d9b03-035b-4cda-876d-ed556c2edb43][ENEMY]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / with whom one has a feud
+** 大夫宗婦覿用幣	the wives of the great officers of the same surname as the duke (a) were received (by duke Juang's wife), when they presented offerings of silk.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.24.12; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:149a13:1::大夫 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 宗@zōng
+:PROPERTIES:
+:CONCEPT: uuid-5f037644-4616-48a8-8909-6d2814d6bc40 / FAMILY
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 3
+:END:
+宗@zōng	[[tls:concept:FAMILY::#uuid-5f037644-4616-48a8-8909-6d2814d6bc40][FAMILY]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / clan, the overall clan; the leading clan; clan as united by ancestral worship and respect for the living representative of the ancestors
+** 大夫不見夫人	great officers did not visit the wife (of the duke).
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.24.13; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:149a15:2::大夫 / 春秋穀梁傳
+:CHARPOS: 2
+:END:
+*** 見@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-77a0ba78-8667-4b93-87a7-32c8714b9cbc / VISIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+見@jiàn	[[tls:concept:VISIT::#uuid-77a0ba78-8667-4b93-87a7-32c8714b9cbc][VISIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / pay a visit to (often to a superior), have an audience with; gain an audience with;
+** 男子之贄	The ceremonial gifts of a man
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.24.14; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:149a18:1::男子 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 男子@nánzǐ
+:PROPERTIES:
+:CONCEPT: uuid-b68b6b9d-e125-434b-a857-c65cb21cd01d / MALE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+男子@nánzǐ	[[tls:concept:MALE::#uuid-b68b6b9d-e125-434b-a857-c65cb21cd01d][MALE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / person of male sex; often: adult male (suitable for military or civil service)
+** 故謹而日之也	and therefore carefully records the day.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.24.15; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:149a30:1::故謹 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 謹@jǐn
+:PROPERTIES:
+:CONCEPT: uuid-48c65f7a-1baa-4796-bdd0-84d83d540068 / DILIGENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 2
+:END:
+謹@jǐn	[[tls:concept:DILIGENT::#uuid-48c65f7a-1baa-4796-bdd0-84d83d540068][DILIGENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / painstakingly, diligently, carefully; meticulously; unfailingly 謹而
+** 曹羈出奔陳	Ji of Tsaur left (his state) and fled to Chern.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.24.17; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:151a03:1::曹羈 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 出奔@chūbēn
+:PROPERTIES:
+:CONCEPT: uuid-752c9972-44ce-498a-801b-2be0a73f178f / FLEE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+出奔@chūbēn	[[tls:concept:FLEE::#uuid-752c9972-44ce-498a-801b-2be0a73f178f][FLEE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / leave so as to flee to
+** 天子之命大夫也	He was a great officer invested by the Son of Heaven.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.25.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:153a03:1::天子 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-9b309289-51ab-4c77-8a80-67dff3a9da01 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-9b309289-51ab-4c77-8a80-67dff3a9da01][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the (contextually determinate) Son of Heaven (of the time)
+** 置五麾	he plants the five flags
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.25.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:155a09:1::置五 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 麾@huī
+:PROPERTIES:
+:CONCEPT: uuid-3dbe0c06-3546-4392-beef-6a572d07839b / BANNER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+麾@huī	[[tls:concept:BANNER::#uuid-3dbe0c06-3546-4392-beef-6a572d07839b][BANNER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / signal flag used by senior generals in military campaigns [similar to the previous, but smaller: SUN 1991: 152; ill.: SUN 1991: 38-7, 8] [JM]
+** 三鼓大夫擊門	A great officer beats at the gate
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.25.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:155a12:4::三鼓 / 春秋穀梁傳
+:CHARPOS: 4
+:END:
+*** 擊@jī
+:PROPERTIES:
+:CONCEPT: uuid-f6815b81-20d5-4192-9212-6b2bc8e62b0c / KNOCK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 8
+:END:
+擊@jī	[[tls:concept:KNOCK::#uuid-f6815b81-20d5-4192-9212-6b2bc8e62b0c][KNOCK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / knock against (mostly drums but also bells) so as to produce a sound; knock (at a gate)
+** 士擊柝	and an officer beats the rattle.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.25.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:155a13:50::士擊 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 擊@jī
+:PROPERTIES:
+:CONCEPT: uuid-f6815b81-20d5-4192-9212-6b2bc8e62b0c / KNOCK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+擊@jī	[[tls:concept:KNOCK::#uuid-f6815b81-20d5-4192-9212-6b2bc8e62b0c][KNOCK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / knock against (mostly drums but also bells) so as to produce a sound; knock (at a gate)
+*** 柝@tuò
+:PROPERTIES:
+:CONCEPT: uuid-be774eb5-1e33-48b1-80d7-8432715e74bb / MUSICAL INSTRUMENT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+柝@tuò	[[tls:concept:MUSICAL INSTRUMENT::#uuid-be774eb5-1e33-48b1-80d7-8432715e74bb][MUSICAL INSTRUMENT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (night-)watchman's rattle
+** 言充其陽也	They are thus said to replenish the Yang force.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.25.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:155a14:50::言充 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 充@chōng
+:PROPERTIES:
+:CONCEPT: uuid-fd7bb345-8042-488f-b6ba-f5687000c35c / FILL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 51
+:END:
+充@chōng	[[tls:concept:FILL::#uuid-fd7bb345-8042-488f-b6ba-f5687000c35c][FILL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / to give content (to something); to accomplish; to make abundant; make one's presence felt throughout
+** 大水	there were great floods.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.25.09; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:157a02:1::大水 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 大水@dàshuǐ
+:PROPERTIES:
+:CONCEPT: uuid-639a9bb4-610b-43b0-9aa5-ddb766ee9cef / FLOOD
+:SYN-FUNC: uuid-3362361a-7a61-4172-a122-8b87e3963d2c
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 1
+:END:
+大水@dàshuǐ	[[tls:concept:FLOOD::#uuid-639a9bb4-610b-43b0-9aa5-ddb766ee9cef][FLOOD]]	V [[tls:syn-func::#uuid-3362361a-7a61-4172-a122-8b87e3963d2c][VPi0]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / there was a big flood
+** 鼓用牲于社于門	Drums were beaten and victims offered at the altar of the spirit of the land and at the (city) gates.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.25.09; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:157a03:50::鼓、 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 于@yú
+:PROPERTIES:
+:CONCEPT: uuid-a87cc479-fde2-4447-8f4a-2c64c1418e80 / BE IN
+:SYN-FUNC: uuid-05168a1c-1d09-4906-be11-9758c2a8d95b
+:SEM-FEAT: uuid-7b5618fc-e183-4b6c-bc21-ed991a4b54cc
+:CHARPOS: 53
+:END:
+于@yú	[[tls:concept:BE IN::#uuid-a87cc479-fde2-4447-8f4a-2c64c1418e80][BE IN]]	V [[tls:syn-func::#uuid-05168a1c-1d09-4906-be11-9758c2a8d95b][vt+N.postvt'+N:postV]] {[[tls:sem-feat::#uuid-7b5618fc-e183-4b6c-bc21-ed991a4b54cc][two prepositional phrases]]} / at (a place)
+** 公至自伐戎	the duke arrived from the attack on the Rong.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.26.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:161a02:1::公至 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-a8adabb7-e181-4aa3-af21-821f5a88f48b / FROM
+:SYN-FUNC: uuid-97424691-5023-4a2e-b90f-d60a1e3b5673
+:CHARPOS: 3
+:END:
+自@zì	[[tls:concept:FROM::#uuid-a8adabb7-e181-4aa3-af21-821f5a88f48b][FROM]]	V [[tls:syn-func::#uuid-97424691-5023-4a2e-b90f-d60a1e3b5673][vt{0}oN.postadV]] / OBI 4: from 出自湯谷
+** 公會宋人齊人伐徐	the duke joined men from Sonq and men from Chyi and attacked Shyu.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.26.05; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:163a02:1::公會 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-948ae3a7-103c-4742-8b81-7ae261bdd783 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5
+:CHARPOS: 4
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-948ae3a7-103c-4742-8b81-7ae261bdd783][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5][cancellary style]]} / in Annals cancellary style: (unidentified) patricians of Npl; the leadership of Npl; often: an (unidentified) representative of Npl; representatives of Npl, sometimes military: the (military) men from Npl, the forces of Npl
+** 於是而後授之諸侯也	From this (meeting) onwards they commended him (i.e. the marquis of Chyi) to the feudal lords.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.27.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:167a09:1::於是 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 於是@yúshì
+:PROPERTIES:
+:CONCEPT: uuid-96fbba51-df63-4a9a-838d-7fb452849056 / THEREUPON
+:SYN-FUNC: uuid-fc393db1-993e-431d-9540-bc9fde4945d4
+:SEM-FEAT: uuid-fbf6e187-2f80-4c0b-88ba-be82d31b7599
+:CHARPOS: 1
+:END:
+於是@yúshì	[[tls:concept:THEREUPON::#uuid-96fbba51-df63-4a9a-838d-7fb452849056][THEREUPON]]	V [[tls:syn-func::#uuid-fc393db1-993e-431d-9540-bc9fde4945d4][VPadS1.postS2]] {[[tls:sem-feat::#uuid-fbf6e187-2f80-4c0b-88ba-be82d31b7599][from then on]]} / thereafter, from then on, from that point onwards
+** 諱出奔也	In order to conceal the fact that (Yeou) left (his state) and fled.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.27.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:168a07:1::諱出 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 出奔@chūbēn
+:PROPERTIES:
+:CONCEPT: uuid-e1877dc1-9277-45d6-b613-4f34e03229ad / FLEE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+出奔@chūbēn	[[tls:concept:FLEE::#uuid-e1877dc1-9277-45d6-b613-4f34e03229ad][FLEE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / flight
+** 諸侯之嫁子於大夫	When a feudal lord marries a daughter to a great officer,
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.27.09; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:170a02:1::諸侯 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 諸侯@zhūhóu
+:PROPERTIES:
+:CONCEPT: uuid-7ce6c238-63b1-499c-910e-596855ad814c / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 1
+:END:
+諸侯@zhūhóu	[[tls:concept:RULER::#uuid-7ce6c238-63b1-499c-910e-596855ad814c][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / a feudal lord; occasionally also count noun: feudal lord, as in SHIJI: 漢王部五諸侯兵 "the king of Han lead the armed forces of five feudal lords"
+** 衛人及齊人戰	Men form Wei and men from Chyi fought.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.01; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:174a02:1::衛人 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-d69ae259-ca8f-44a7-8b90-4a0f3f7546f8 / WITH
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-679ff478-b721-42eb-aca2-f0e2c2c402c3
+:CHARPOS: 3
+:END:
+及@jí	[[tls:concept:WITH::#uuid-d69ae259-ca8f-44a7-8b90-4a0f3f7546f8][WITH]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-679ff478-b721-42eb-aca2-f0e2c2c402c3][hostile]]} / with
+** 戰則是師也	In battles (the opposing parties) are armies.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:174a07:1::戰則 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 則是@zéshì
+:PROPERTIES:
+:CONCEPT: uuid-2d9c80de-f4d3-4c84-97c1-e2707ebbb9b6 / THEN
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:CHARPOS: 2
+:END:
+則是@zéshì	[[tls:concept:THEN::#uuid-2d9c80de-f4d3-4c84-97c1-e2707ebbb9b6][THEN]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] / THEN + SUCH> then in such a case; then such a person; then; then as for such behaviour; then this is; then this means that; then this leads to [Note that this is not claimed to be a word, just a collocation which it is useful to study.]
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-e55b85d5-9849-4c59-9db5-b58df380c087 / COPULA
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:CHARPOS: 3
+:END:
+是@shì	[[tls:concept:COPULA::#uuid-e55b85d5-9849-4c59-9db5-b58df380c087][COPULA]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] / be
+** 其曰人何也	Why does the Text here refer to "men"?
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:174a08:50::其曰 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-b5dbfdc1-c7eb-498e-80ad-09472609da55 / NAME
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:CHARPOS: 51
+:END:
+曰@yuē	[[tls:concept:NAME::#uuid-b5dbfdc1-c7eb-498e-80ad-09472609da55][NAME]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] / call the contextually determinate omitted N1 an N2
+*** :end:
+:PROPERTIES:
+
+:CHARPOS: 50
+:END:
+:end:	
+微之也。¶	In order to (p.144) belittle him (i.e. the marquis of Chyi).
+*** :zhu:
+微@wēi
+:PROPERTIES:
+:CONCEPT: uuid-486797f6-c6a8-4ace-baf8-ee7e77e6c41b / UNIMPORTANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 50
+:END:
+:zhu:
+微@wēi	[[tls:concept:UNIMPORTANT::#uuid-486797f6-c6a8-4ace-baf8-ee7e77e6c41b][UNIMPORTANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / treat as unimportant, deemphasise
+** 何為微之也	Why so?
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:174a10:50::何為 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 微@wēi
+:PROPERTIES:
+:CONCEPT: uuid-486797f6-c6a8-4ace-baf8-ee7e77e6c41b / UNIMPORTANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 52
+:END:
+微@wēi	[[tls:concept:UNIMPORTANT::#uuid-486797f6-c6a8-4ace-baf8-ee7e77e6c41b][UNIMPORTANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / treat as unimportant, deemphasise
+** 故微之也	Therefore (the Chuenchiou) belittles him.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:174a13:1::故微 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 微@wēi
+:PROPERTIES:
+:CONCEPT: uuid-486797f6-c6a8-4ace-baf8-ee7e77e6c41b / UNIMPORTANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 2
+:END:
+微@wēi	[[tls:concept:UNIMPORTANT::#uuid-486797f6-c6a8-4ace-baf8-ee7e77e6c41b][UNIMPORTANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / treat as unimportant, deemphasise
+** 3.28.4公會齊人宋人救鄭	The duke had a meeting with men from Chyi, men from Sonq and men from Juliuh and went to the rescue of Jenq.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:177a01:1::3. / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-948ae3a7-103c-4742-8b81-7ae261bdd783 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5
+:CHARPOS: 10
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-948ae3a7-103c-4742-8b81-7ae261bdd783][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-3aca55d0-1b32-4006-b7d9-cb0a8ae6eef5][cancellary style]]} / in Annals cancellary style: (unidentified) patricians of Npl; the leadership of Npl; often: an (unidentified) representative of Npl; representatives of Npl, sometimes military: the (military) men from Npl, the forces of Npl
+** 山林藪澤之利	The profits of the mountains, the forests, the swamps and the marshes
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.11; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:178a03:1::山林 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-e0f5e18d-794c-494c-8a34-50a5955b9532 / RICH
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 6
+:END:
+利@lì	[[tls:concept:RICH::#uuid-e0f5e18d-794c-494c-8a34-50a5955b9532][RICH]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / wealth, riches, resources
+** 告糴諸侯	(Luu) requested leave to buy grain from (another) feudal lord.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.15; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:180a04:1::告糴 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 諸侯@zhūhóu
+:PROPERTIES:
+:CONCEPT: uuid-7ce6c238-63b1-499c-910e-596855ad814c / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 3
+:END:
+諸侯@zhūhóu	[[tls:concept:RULER::#uuid-7ce6c238-63b1-499c-910e-596855ad814c][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / a feudal lord; occasionally also count noun: feudal lord, as in SHIJI: 漢王部五諸侯兵 "the king of Han lead the armed forces of five feudal lords"
+** 故舉臧孫辰以為私行也	Therefore (the Chuenchiou) refers to Tarrng-suen Chern and considers (this mission) as his private journey.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.16; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:180a08:1::故舉 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 私@sī
+:PROPERTIES:
+:CONCEPT: uuid-67e4b41c-1131-4354-a3a1-25c8a54e2584 / PRIVATE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-5924d17a-9c39-4105-b350-8a2501eea07f
+:CHARPOS: 8
+:END:
+私@sī	[[tls:concept:PRIVATE::#uuid-67e4b41c-1131-4354-a3a1-25c8a54e2584][PRIVATE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-5924d17a-9c39-4105-b350-8a2501eea07f][personal]]} / personal (preference, room), private, non-official
+** 曰急	it is referred to as "extreme deficiency".
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.16; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:180a10:6::曰急 / 春秋穀梁傳
+:CHARPOS: 6
+:END:
+*** 急@jí
+:PROPERTIES:
+:CONCEPT: uuid-edd3d66d-1a07-45d8-bd3a-fbe29197a6ef / NEED
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 7
+:END:
+急@jí	[[tls:concept:NEED::#uuid-edd3d66d-1a07-45d8-bd3a-fbe29197a6ef][NEED]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / exigencies, urgent needs; urgent concerns
+** 古者稅什一	In times of old, taxes amounted to one tenth (of the agricultural production).
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.19; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:180a18:1::古者 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 什@shí
+:PROPERTIES:
+:CONCEPT: uuid-3bd8c840-ded7-4c6e-8d1e-f3c6eea13718 / TEN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+什@shí	[[tls:concept:TEN::#uuid-3bd8c840-ded7-4c6e-8d1e-f3c6eea13718][TEN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (amout of) ten; unit of ten
+** 雖累凶年民弗病也	Although there might be a succession of bad harvests, the people was not in destress.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.19; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:180a21:1::雖累 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-cd8a6ecd-1d96-4dfa-a59d-babfcf108ed4 / DISASTER
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+凶@xiōng	[[tls:concept:DISASTER::#uuid-cd8a6ecd-1d96-4dfa-a59d-babfcf108ed4][DISASTER]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / calamitious (of years) 凶年，凶器
+** 一年不艾而百姓饑	(Now) after only one year of bad harvests the people suffered from famine.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.19; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:180a22:50::一年 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-3cd96c28-c477-4520-ae63-9ff7632ca79c / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-b6dffda3-770c-4e82-8329-6903528b1ab9
+:CHARPOS: 55
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-3cd96c28-c477-4520-ae63-9ff7632ca79c][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-b6dffda3-770c-4e82-8329-6903528b1ab9][common]]} / the (taxpaying) people (i.e. the entire population, particularly the common people like the peasants)
+** 君子非之	The Superior man considered this wrong.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.28.19; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:180a23:50::君子 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-b4d15b8b-04f0-4ca3-bbbc-4a68a7ddc677 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 50
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-b4d15b8b-04f0-4ca3-bbbc-4a68a7ddc677][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / gentleman 吾先君子
+** 新延廄	(the duke) renovated and extended the stables.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.29.01; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:182a01:1::新延 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 新@xīn
+:PROPERTIES:
+:CONCEPT: uuid-74958da6-b919-45c4-9980-be829a944ca5 / REPAIR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+新@xīn	[[tls:concept:REPAIR::#uuid-74958da6-b919-45c4-9980-be829a944ca5][REPAIR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / build anew: renovate; refurbish
+*** 延@yán
+:PROPERTIES:
+:CONCEPT: uuid-6dd7e12a-b1ff-46b7-8c35-67202091d7ea / BIG
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 2
+:END:
+延@yán	[[tls:concept:BIG::#uuid-6dd7e12a-b1ff-46b7-8c35-67202091d7ea][BIG]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / build so as to enlarge what exists> extend, enlarge
+*** 廄@jiù
+:PROPERTIES:
+:CONCEPT: uuid-8b650e67-0b1a-45be-b43c-f5ce96493914 / STABLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+廄@jiù	[[tls:concept:STABLE::#uuid-8b650e67-0b1a-45be-b43c-f5ce96493914][STABLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / horse stable; occasionally: fodder house (for horse fodder)
+** 法廄也	refers to stables (built according to) stipulated rules (a).
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.29.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:182a03:1::法廄 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 法@fǎ
+:PROPERTIES:
+:CONCEPT: uuid-7f304c9a-293a-442d-b998-cb334e2424bb / MODEL
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 1
+:END:
+法@fǎ	[[tls:concept:MODEL::#uuid-7f304c9a-293a-442d-b998-cb334e2424bb][MODEL]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / exemplary; made according to the prescribed pattern
+** 則貢賦少	the taxes were reduced.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.29.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:182a11:1::則貢 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 貢@gòng
+:PROPERTIES:
+:CONCEPT: uuid-f11a00c7-860b-49fd-86bd-f8d73a2857ed / TRIBUTE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+貢@gòng	[[tls:concept:TRIBUTE::#uuid-f11a00c7-860b-49fd-86bd-f8d73a2857ed][TRIBUTE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / tribute, offering
+*** 賦@fù
+:PROPERTIES:
+:CONCEPT: uuid-fbe286bf-51af-458f-8dcf-fa0179a65d67 / TAX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+賦@fù	[[tls:concept:TAX::#uuid-fbe286bf-51af-458f-8dcf-fa0179a65d67][TAX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / tax claims; tax in the form of war vehicles, arms and armour, and/or an obligation to to render military service
+** 春新延廄	and in (the following) Spring he repairs his stables.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.29.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:182a15:1::春新 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 新@xīn
+:PROPERTIES:
+:CONCEPT: uuid-74958da6-b919-45c4-9980-be829a944ca5 / REPAIR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+新@xīn	[[tls:concept:REPAIR::#uuid-74958da6-b919-45c4-9980-be829a944ca5][REPAIR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / build anew: renovate; refurbish
+*** 延@yán
+:PROPERTIES:
+:CONCEPT: uuid-6dd7e12a-b1ff-46b7-8c35-67202091d7ea / BIG
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 3
+:END:
+延@yán	[[tls:concept:BIG::#uuid-6dd7e12a-b1ff-46b7-8c35-67202091d7ea][BIG]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / build so as to enlarge what exists> extend, enlarge
+** 3.29.5城諸及防	(We) walled Ju and Farng.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.29.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:186a01:1::3. / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-344f84b4-a778-4527-8cd1-2b0ab8573d94 / AND
+:SYN-FUNC: uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 9
+:END:
+及@jí	[[tls:concept:AND::#uuid-344f84b4-a778-4527-8cd1-2b0ab8573d94][AND]]	V [[tls:syn-func::#uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e][vtoN1.postN2:postVt]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / and [no examples in LY]
+** 恥不能救鄣也	since the fact that he was unable to rescue Jang was considered a disgrace.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.30.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:189a07:1::恥不 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 恥@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-c64f6c7d-235d-4233-aa4c-41b75b091f60 / DISGRACE
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:CHARPOS: 1
+:END:
+恥@chǐ	[[tls:concept:DISGRACE::#uuid-c64f6c7d-235d-4233-aa4c-41b75b091f60][DISGRACE]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] / consider it disgraceful that S
+** 閔紀之亡也	in order to express grief over the destruction of Jih.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.30.07; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:191a04:1::閔紀 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 閔@mǐn / 憫@mǐn / 愍@mǐn / 湣@mǐn
+:PROPERTIES:
+:CONCEPT: uuid-8e062b73-52e1-4e84-871b-3859dcad1bb8 / SYMPATHY
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 1
+:END:
+閔@mǐn / 憫@mǐn / 愍@mǐn / 湣@mǐn	[[tls:concept:SYMPATHY::#uuid-8e062b73-52e1-4e84-871b-3859dcad1bb8][SYMPATHY]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / feel pity about the fact that S
+** 用牲于社	and victims were offered at the altar of the spirit of the land.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.30.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:192a03:2::用牲 / 春秋穀梁傳
+:CHARPOS: 2
+:END:
+*** 牲@shēng
+:PROPERTIES:
+:CONCEPT: uuid-aca915e9-8a8b-4b39-88e2-9a290feb0450 / SACRIFICIAL ANIMAL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+牲@shēng	[[tls:concept:SACRIFICIAL ANIMAL::#uuid-aca915e9-8a8b-4b39-88e2-9a290feb0450][SACRIFICIAL ANIMAL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / whole buffalo used in sacrifices
+*** 社@shè
+:PROPERTIES:
+:CONCEPT: uuid-f4db759b-1fe3-42d6-a94e-1efcfe6b649b / ALTAR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+社@shè	[[tls:concept:ALTAR::#uuid-f4db759b-1fe3-42d6-a94e-1efcfe6b649b][ALTAR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / sacrificial mound and pole used for sacrifices to the spirits of the land
+** 公及齊侯遇于魯濟	the duke and the marquis of Chyi met on the Luu side of the river Jih.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.30.09; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:193a02:1::公及 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-a2d92cd7-b925-46fd-afc9-3ec0554aea4c / WITH
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-65e08e4c-6f19-43b7-875b-def687fa4be1
+:CHARPOS: 2
+:END:
+及@jí	[[tls:concept:WITH::#uuid-a2d92cd7-b925-46fd-afc9-3ec0554aea4c][WITH]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-65e08e4c-6f19-43b7-875b-def687fa4be1][interact]]} / 衛人及狄盟 N2 V-s, in conjunction/cooperation/interaction with N1 (In the following the first designates joint action, the second interaction: 叔孫豹及諸侯之大夫及陳袁僑盟。 公及楚公子嬰齊、蔡侯、許男、秦右大夫說、宋華元、陳公孫寧、衛孫良夫、鄭公子去疾及齊國之大夫盟于蜀。)
+*** 遇@yù
+:PROPERTIES:
+:CONCEPT: uuid-60c61e60-35ac-411b-b0ad-484b11a7787e / MEET
+:SYN-FUNC: uuid-a4ac7ae5-ac55-45d6-b390-3c41242eb09e
+:CHARPOS: 5
+:END:
+遇@yù	[[tls:concept:MEET::#uuid-60c61e60-35ac-411b-b0ad-484b11a7787e][MEET]]	V [[tls:syn-func::#uuid-a4ac7ae5-ac55-45d6-b390-3c41242eb09e][vi2]] / (of several subejcts) get together informally as if by chance and hold a meeting, hold an informal meeting
+** 其曰人何也	Why is he referred to as "men"?
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.30.12; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:194a04:1::其曰 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-b5dbfdc1-c7eb-498e-80ad-09472609da55 / NAME
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:CHARPOS: 2
+:END:
+曰@yuē	[[tls:concept:NAME::#uuid-b5dbfdc1-c7eb-498e-80ad-09472609da55][NAME]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] / call the contextually determinate omitted N1 an N2
+** 愛齊侯乎	(The Chuenchiou) has a greater affection for the marquis of Chyi
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.30.12; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:194a05:50::愛齊 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-51641f98-1d8f-451b-9e22-5d9cd05ca727 / LIKE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 50
+:END:
+愛@ài	[[tls:concept:LIKE::#uuid-51641f98-1d8f-451b-9e22-5d9cd05ca727][LIKE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / be especially fond of; appreciate more; like, show an emotional preference for; be psychologically more attached to (something, compared to others); sometimes specifically: have as a protegé
+** 其愛之何也	Why so?
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.30.12; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:194a06:1::其愛 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-51641f98-1d8f-451b-9e22-5d9cd05ca727 / LIKE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 2
+:END:
+愛@ài	[[tls:concept:LIKE::#uuid-51641f98-1d8f-451b-9e22-5d9cd05ca727][LIKE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / be especially fond of; appreciate more; like, show an emotional preference for; be psychologically more attached to (something, compared to others); sometimes specifically: have as a protegé
+** 桓內無因國	In the Interior Hwan had no states on whom he could rely.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.30.13; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:194a07:50::桓內 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 因@yīn
+:PROPERTIES:
+:CONCEPT: uuid-add2c2dd-2977-49b9-a054-0384f2c46ca5 / RELY ON
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 53
+:END:
+因@yīn	[[tls:concept:RELY ON::#uuid-add2c2dd-2977-49b9-a054-0384f2c46ca5][RELY ON]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / reliable, that can be relied on; 因國 a state to rely on
+** 貢職不至	The contribution (from Ian to Jou) did not arrive.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.30.14; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:194a16:1::貢職 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 職@zhí
+:PROPERTIES:
+:CONCEPT: uuid-718bcfea-90f6-4a43-b8b2-39f75851eed8 / TRIBUTE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+職@zhí	[[tls:concept:TRIBUTE::#uuid-718bcfea-90f6-4a43-b8b2-39f75851eed8][TRIBUTE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / tribute; offerings required by ritual
+** 君子危之	The superior man (wanted to) expess the danger (in which this involved him)
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.31.07; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:200a07:1::君子 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-b4d15b8b-04f0-4ca3-bbbc-4a68a7ddc677 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-b4d15b8b-04f0-4ca3-bbbc-4a68a7ddc677][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / gentleman 吾先君子
+** 故謹而志之也	and therefore carefully recorded this.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.31.07; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:200a08:50::故謹 / 春秋穀梁傳
+:CHARPOS: 50
+:END:
+*** 謹@jǐn
+:PROPERTIES:
+:CONCEPT: uuid-48c65f7a-1baa-4796-bdd0-84d83d540068 / DILIGENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+謹@jǐn	[[tls:concept:DILIGENT::#uuid-48c65f7a-1baa-4796-bdd0-84d83d540068][DILIGENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / painstakingly, diligently, carefully; meticulously; unfailingly 謹而
+** 宋公齊侯遇于梁丘	the duke of Sonq and the marquis of Chyi had a meeting in Liangchiou.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.32.02; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:204a02:1::宋公 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 遇@yù
+:PROPERTIES:
+:CONCEPT: uuid-60c61e60-35ac-411b-b0ad-484b11a7787e / MEET
+:SYN-FUNC: uuid-a4ac7ae5-ac55-45d6-b390-3c41242eb09e
+:CHARPOS: 5
+:END:
+遇@yù	[[tls:concept:MEET::#uuid-60c61e60-35ac-411b-b0ad-484b11a7787e][MEET]]	V [[tls:syn-func::#uuid-a4ac7ae5-ac55-45d6-b390-3c41242eb09e][vi2]] / (of several subejcts) get together informally as if by chance and hold a meeting, hold an informal meeting
+** 非不能從諸侯而往也	It was not that (the marquis of Chyi) was unable to make the feudal lords follow him and that he under these circumstances went there.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.32.03; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:204a07:1::非不 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 往@wǎng / @
+:PROPERTIES:
+:CONCEPT: uuid-5917cf6a-6b5d-4be3-a77c-892dfffba2b5 / GO TO
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 8
+:END:
+往@wǎng / @	[[tls:concept:GO TO::#uuid-5917cf6a-6b5d-4be3-a77c-892dfffba2b5][GO TO]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / go to the contextually determinate place (often answering a summoning by a superior)
+** 公薨于路寢	the duke died in the luhchiin.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.32.05; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:206a02:1::公薨 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 寢@qǐn
+:PROPERTIES:
+:CONCEPT: uuid-0fa54560-e990-46c3-a980-8f9fa6ca5259 / ROOM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+寢@qǐn	[[tls:concept:ROOM::#uuid-0fa54560-e990-46c3-a980-8f9fa6ca5259][ROOM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / living quarters; building with bedrooms; private chambers; imposing building with inner chambers
+** 寢疾居正寢	It was correct (for the duke)
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.32.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:206a05:1::寢疾 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 寢@qǐn
+:PROPERTIES:
+:CONCEPT: uuid-0fa54560-e990-46c3-a980-8f9fa6ca5259 / ROOM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+寢@qǐn	[[tls:concept:ROOM::#uuid-0fa54560-e990-46c3-a980-8f9fa6ca5259][ROOM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / living quarters; building with bedrooms; private chambers; imposing building with inner chambers
+** 男子不絕于婦人之手	A man should die in purity
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.32.06; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:206a07:1::男子 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 男子@nánzǐ
+:PROPERTIES:
+:CONCEPT: uuid-b68b6b9d-e125-434b-a857-c65cb21cd01d / MALE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+男子@nánzǐ	[[tls:concept:MALE::#uuid-b68b6b9d-e125-434b-a857-c65cb21cd01d][MALE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / person of male sex; often: adult male (suitable for military or civil service)
+** 此奔也	This was flight.
+:PROPERTIES:
+:SRC: CQ GULIANG Zhuang 03.32.10; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_003:208a02:1::此奔 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 奔@bēn / 奔@bèn
+:PROPERTIES:
+:CONCEPT: uuid-c8712079-b901-45a6-a760-376af3d4b1f1 / HURRY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+奔@bēn / 奔@bèn	[[tls:concept:HURRY::#uuid-c8712079-b901-45a6-a760-376af3d4b1f1][HURRY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / flight

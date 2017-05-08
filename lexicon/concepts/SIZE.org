@@ -1,0 +1,140 @@
+# -*- mode: mandoku-tls-view -*-
+#+TITLE: SIZE
+#+DATE: 2017-03-18T10:35:30.668+09:00        
+#+STARTUP: content
+* =CONCEPT= SIZE
+:PROPERTIES:
+:CUSTOM_ID: uuid-beb5de81-af3e-4a12-a638-76b1b41ea24c
+:SYNONYM+:  DIMENSIONS
+:SYNONYM+:  MEASUREMENTS
+:SYNONYM+:  PROPORTIONS
+:SYNONYM+:  MAGNITUDE
+:SYNONYM+:  LARGENESS
+:SYNONYM+:  BIGNESS
+:SYNONYM+:  AREA
+:SYNONYM+:  EXPANSE
+:SYNONYM+:  BREADTH
+:SYNONYM+:  WIDTH
+:SYNONYM+:  LENGTH
+:SYNONYM+:  HEIGHT
+:SYNONYM+:  DEPTH
+:SYNONYM+:  IMMENSITY
+:SYNONYM+:  HUGENESS
+:SYNONYM+:  VASTNESS
+:TR_ZH: 大小
+:END:
+** DEFINITION
+
+QUANTITY of a DIMENSION.
+
+** NOTES
+
+*** Old Chinese Criteria
+1. The abstract notion of size is standardly expressed by dà xiǎo 大小.
+
+2. Cháng duǎn 長短 refers to relative length.
+
+*** Modern Chinese Criteria
+大小
+
+rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／
+
+** POINTERS
+*** TAXONOMY
+ - [[tls:concept:BIG][BIG]]
+ - [[tls:concept:DEEP][DEEP]]
+
+*** KIND OF
+ - [[tls:concept:QUANTITY][QUANTITY]]
+
+** SOURCE REFERENCES
+*** BUCK 1988
+ - [[cite:BUCK-1988][BUCK(1988), A Dictionary of Selected Synonyms in the Principal Indo-European Languages]], p.12.52
+
+** WORDS
+   :PROPERTIES:
+   :VISIBILITY: children
+   :END:
+*** 大 dà (OC:daads MC:dɑi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-9872b1a1-78c6-44dc-9c6f-7131d299ed2a
+:Char+: 大(37,0/3) 
+:GY_IDS+: uuid-ae3f9bb5-89cd-46d2-bc7a-cb2ef0e9d8d8
+:PY+: dà     
+:OC+: daads     
+:MC+: dɑi     
+:END: 
+**** V [[tls:syn-func::#uuid-637d1252-21b6-4664-9001-46c5ffd85ed2][vi-V]] / big (i.e. small) (like X)大如毛髮
+:PROPERTIES:
+:CUSTOM_ID: uuid-865cbba9-4827-4931-ad19-439835e4a983
+:END:
+****** DEFINITION
+
+big (i.e. small) (like X)大如毛髮
+
+****** NOTES
+
+*** 大小 dàxiǎo (OC:daads smewʔ MC:dɑi siɛu )
+:PROPERTIES:
+:CUSTOM_ID: uuid-84f3adb5-742f-4044-9d96-d2d56b07cefd
+:Char+: 大(37,0/3) 小(42,0/3) 
+:GY_IDS+: uuid-ae3f9bb5-89cd-46d2-bc7a-cb2ef0e9d8d8 uuid-83c7a7f5-03b1-4bfd-b668-386b60478132
+:PY+: dà xiǎo    
+:OC+: daads smewʔ    
+:MC+: dɑi siɛu    
+:END: 
+**** N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-736fb326-137c-451b-b1b8-faf4e0c9c909][quantity]]} / relative size
+:PROPERTIES:
+:CUSTOM_ID: uuid-02f6abc6-7814-4ac2-a90c-a2119e38d43e
+:WARRING-STATES-CURRENCY: 4
+:END:
+****** DEFINITION
+
+relative size
+
+****** NOTES
+
+**** N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / relative extent
+:PROPERTIES:
+:CUSTOM_ID: uuid-2dc0f7b2-52a6-4d6b-9ab0-6ade79982acc
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+relative extent
+
+****** NOTES
+
+**** N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / size
+:PROPERTIES:
+:CUSTOM_ID: uuid-c97bcee7-8d4f-403a-ab26-0822d07b5a08
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+size
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-cf24c1ad-02df-42cc-a985-73780ba97a3f][VPpostadN]] / of various sizes
+:PROPERTIES:
+:CUSTOM_ID: uuid-989763d1-f549-41fb-a74b-7dd44d4ecc28
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+of various sizes
+
+****** NOTES
+
+*** 長短 chángduǎn (OC:ɡrlaŋ toonʔ MC:ɖi̯ɐŋ tʷɑn )
+:PROPERTIES:
+:CUSTOM_ID: uuid-b817b637-6865-459c-85be-9637568cbf80
+:Char+: 長(168,0/8) 短(111,7/12) 
+:GY_IDS+: uuid-a3a65359-a600-4d8e-bb88-c8b79c558eec uuid-a864b05f-aad3-4683-acd2-402a2550a8a5
+:PY+: cháng duǎn    
+:OC+: ɡrlaŋ toonʔ    
+:MC+: ɖi̯ɐŋ tʷɑn    
+:END: 
+** BIBLIOGRAPHY
+bibliography:../core/tlsbib.bib

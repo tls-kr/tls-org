@@ -1,0 +1,74 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_020
+#+DATE: 2017-02-08T16:41:09+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 秦知趙之難與齊戰也	'Ch'in knows that Chao is troubled by the possibility of was with Ch'i
+:PROPERTIES:
+:SRC: ZGC 1.20.1; tr. Crump 1979 no.30, p. 44 The king of Wei is advised to patronize Chou Tsui
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_020:1a02:1::「秦 / 戰國策
+:CHARPOS: 1
+:END:
+*** 難@nàn
+:PROPERTIES:
+:CONCEPT: uuid-230a65b6-c6b7-40ac-8fea-a9b7b57522ae / WORRY
+:SYN-FUNC: uuid-0dd4edc0-7e8b-4e1b-b3e9-677c0faa3790
+:CHARPOS: 5
+:END:
+難@nàn	[[tls:concept:WORRY::#uuid-230a65b6-c6b7-40ac-8fea-a9b7b57522ae][WORRY]]	V [[tls:syn-func::#uuid-0dd4edc0-7e8b-4e1b-b3e9-677c0faa3790][vtoNab{S}]] / be troubled by the prospect of S; be opposed to Nab-ing
+** 必陰勁之	she is doubtless reinforcing Chao.34
+:PROPERTIES:
+:SRC: ZGC 1.20.1; tr. Crump 1979 no.30, p. 44 The king of Wei is advised to patronize Chou Tsui
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_020:1a04:1::必陰 / 戰國策
+:CHARPOS: 1
+:END:
+*** 陰@yīn
+:PROPERTIES:
+:CONCEPT: uuid-2c1c3866-fd7a-4211-8ca0-100d3b2d0917 / SECRET
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 2
+:END:
+陰@yīn	[[tls:concept:SECRET::#uuid-2c1c3866-fd7a-4211-8ca0-100d3b2d0917][SECRET]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / secretly; in an indirect way; in hidden ways
+** 恐秦不己收也	for fear Ch'in will not join her
+:PROPERTIES:
+:SRC: ZGC 1.20.1; tr. Crump 1979 no.30, p. 44 The king of Wei is advised to patronize Chou Tsui
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_020:1a06:1::恐秦 / 戰國策
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-3523e379-7dd0-4cc2-85d8-ee972d1f1e69 / SELF
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:CHARPOS: 4
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-3523e379-7dd0-4cc2-85d8-ee972d1f1e69][SELF]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] / (preposed object:) himself, herself, themselves
+** 先合於齊	but will, instead, form an alliance with Ch'i before Chao can.
+:PROPERTIES:
+:SRC: ZGC 1.20.1; tr. Crump 1979 no.30, p. 44 The king of Wei is advised to patronize Chou Tsui
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_020:1a07:50::先合 / 戰國策
+:CHARPOS: 50
+:END:
+*** 合@hé
+:PROPERTIES:
+:CONCEPT: uuid-b54749cb-c9c5-48c1-89b1-65f4de65b385 / COOPERATE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 51
+:END:
+合@hé	[[tls:concept:COOPERATE::#uuid-b54749cb-c9c5-48c1-89b1-65f4de65b385][COOPERATE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / cooperate with, ally oneself with
+** 秦趙爭齊	It is unthinkable
+:PROPERTIES:
+:SRC: ZGC 1.20.2; tr. Crump 1979 no.30, p. 44
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_020:1a08:50::秦、 / 戰國策
+:CHARPOS: 50
+:END:
+*** 爭@zhēng
+:PROPERTIES:
+:CONCEPT: uuid-2ecebc38-1388-4c19-84db-68916f8ecb11 / COMPETE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+爭@zhēng	[[tls:concept:COMPETE::#uuid-2ecebc38-1388-4c19-84db-68916f8ecb11][COMPETE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / fight for; compete for; sometimes specifically: compete for the allegiance of (the people or a country)

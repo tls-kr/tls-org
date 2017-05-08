@@ -1,0 +1,192 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_089
+#+DATE: 2017-02-08T16:41:19+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 君禽馬服乎	'Did Lord [Wu-an165] capture Ma Fu?'
+:PROPERTIES:
+:SRC: ZGC 5.15.2; tr. Crump 1979 no. 102, p 114, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_089:1a02:1::「君 / 戰國策
+:CHARPOS: 1
+:END:
+*** 擒@qín / 禽@qín
+:PROPERTIES:
+:CONCEPT: uuid-d8e288ab-fc4e-4d4e-a5dd-85de4655514e / ARREST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+擒@qín / 禽@qín	[[tls:concept:ARREST::#uuid-d8e288ab-fc4e-4d4e-a5dd-85de4655514e][ARREST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / capture (an animal in chase); take prisoner (a person in war)
+** 然	'He did.'
+:PROPERTIES:
+:SRC: ZGC 5.15.2; tr. Crump 1979 no. 102, p 114, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_089:1a04:1::「然 / 戰國策
+:CHARPOS: 1
+:END:
+*** 然@rán
+:PROPERTIES:
+:CONCEPT: uuid-22c7f8ee-d2d2-4b60-8df4-f271db709a88 / TRUE
+:SYN-FUNC: uuid-484b3e3c-93cc-4f9f-ba51-a1f4c2e04e41
+:SEM-FEAT: uuid-19235a96-7318-40ac-9dcd-8777d40db132
+:CHARPOS: 1
+:END:
+然@rán	[[tls:concept:TRUE::#uuid-22c7f8ee-d2d2-4b60-8df4-f271db709a88][TRUE]]	V [[tls:syn-func::#uuid-484b3e3c-93cc-4f9f-ba51-a1f4c2e04e41][vi(0)]] {[[tls:sem-feat::#uuid-19235a96-7318-40ac-9dcd-8777d40db132][sentence pro-form]]} / the contextually determinate S is true; it is so (mostly, the word in this meaning is used pro-sententially, as a pro-sentence)
+** 然	'He did.'
+:PROPERTIES:
+:SRC: ZGC 5.15.2; tr. Crump 1979 no. 102, p 114, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_089:1a07:1::「然 / 戰國策
+:CHARPOS: 1
+:END:
+*** 然@rán
+:PROPERTIES:
+:CONCEPT: uuid-22c7f8ee-d2d2-4b60-8df4-f271db709a88 / TRUE
+:SYN-FUNC: uuid-484b3e3c-93cc-4f9f-ba51-a1f4c2e04e41
+:SEM-FEAT: uuid-19235a96-7318-40ac-9dcd-8777d40db132
+:CHARPOS: 1
+:END:
+然@rán	[[tls:concept:TRUE::#uuid-22c7f8ee-d2d2-4b60-8df4-f271db709a88][TRUE]]	V [[tls:syn-func::#uuid-484b3e3c-93cc-4f9f-ba51-a1f4c2e04e41][vi(0)]] {[[tls:sem-feat::#uuid-19235a96-7318-40ac-9dcd-8777d40db132][sentence pro-form]]} / the contextually determinate S is true; it is so (mostly, the word in this meaning is used pro-sententially, as a pro-sentence)
+** 秦王王矣	the king of Ch'in will be king of us all166
+:PROPERTIES:
+:SRC: ZGC 5.15.2; tr. Crump 1979 no. 102, p 114, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_089:1a09:1::秦王 / 戰國策
+:CHARPOS: 1
+:END:
+*** 王@wàng
+:PROPERTIES:
+:CONCEPT: uuid-41721804-8159-42b3-8af9-b5bc09ed6036 / GOVERN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 2
+:END:
+王@wàng	[[tls:concept:GOVERN::#uuid-41721804-8159-42b3-8af9-b5bc09ed6036][GOVERN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / gain royal supremacy, reign supreme; become a king, get to rule as king; become a proper king
+** 不亡一甲	without the loss of a single armoured soldier.
+:PROPERTIES:
+:SRC: ZGC 5.15.3; tr. Crump 1979 no. 102, p 114, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_089:1a14:1::不亡 / 戰國策
+:CHARPOS: 1
+:END:
+*** 亡@wáng
+:PROPERTIES:
+:CONCEPT: uuid-ada4f0c1-a447-456f-a756-0090427daa7e / LOSE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+亡@wáng	[[tls:concept:LOSE::#uuid-ada4f0c1-a447-456f-a756-0090427daa7e][LOSE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lose (e.g. a fingernail); ZGC: have run away from one, lose from one's herd (a goat)
+*** 甲@jiǎ
+:PROPERTIES:
+:CONCEPT: uuid-cda9069b-68dc-4090-95aa-ada52351c804 / SOLDIER
+:SYN-FUNC: uuid-20a87134-926d-4be7-8815-246c1f7a9ca7
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 4
+:END:
+甲@jiǎ	[[tls:concept:SOLDIER::#uuid-cda9069b-68dc-4090-95aa-ada52351c804][SOLDIER]]	 [[tls:syn-func::#uuid-20a87134-926d-4be7-8815-246c1f7a9ca7][n{adN}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / ZUO Xuan 2: armoured soldier; heavily armed soldier
+** 亦不過此矣	did not better this record.
+:PROPERTIES:
+:SRC: ZGC 5.15.3; tr. Crump 1979 no. 102, p 114, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_089:1a16:1::亦不 / 戰國策
+:CHARPOS: 1
+:END:
+*** 過@guò
+:PROPERTIES:
+:CONCEPT: uuid-9f145b07-127f-4643-89e0-703a1b390c8a / SURPASS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+過@guò	[[tls:concept:SURPASS::#uuid-9f145b07-127f-4643-89e0-703a1b390c8a][SURPASS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / exceed, surpass; be better than; go beyond (a limit, a number)
+** 秦王王	the king of Ch'in is king of us all,
+:PROPERTIES:
+:SRC: ZGC 5.15.3; tr. Crump 1979 no. 102, p 114, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_089:1a18:1::秦王 / 戰國策
+:CHARPOS: 1
+:END:
+*** 王@wàng
+:PROPERTIES:
+:CONCEPT: uuid-41721804-8159-42b3-8af9-b5bc09ed6036 / GOVERN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 2
+:END:
+王@wàng	[[tls:concept:GOVERN::#uuid-41721804-8159-42b3-8af9-b5bc09ed6036][GOVERN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / gain royal supremacy, reign supreme; become a king, get to rule as king; become a proper king
+** 武安君為三公	and Lord Wu-an is one of the Three Nobles,
+:PROPERTIES:
+:SRC: ZGC 5.15.3; tr. Crump 1979 no. 102, p 114, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_089:1a19:50::武安 / 戰國策
+:CHARPOS: 50
+:END:
+*** 三公@sāngōng
+:PROPERTIES:
+:CONCEPT: uuid-c1e60555-5234-42d4-8eb1-7cda106abaae / MINISTER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 54
+:END:
+三公@sāngōng	[[tls:concept:MINISTER::#uuid-c1e60555-5234-42d4-8eb1-7cda106abaae][MINISTER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / a senior minister
+** 雖欲無為之下	Whether or not you wish to serve under him
+:PROPERTIES:
+:SRC: ZGC 5.15.4; tr. Crump 1979 no. 102, p 114, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_089:1a21:1::雖欲 / 戰國策
+:CHARPOS: 1
+:END:
+*** 下@xià
+:PROPERTIES:
+:CONCEPT: uuid-650f027a-e704-4efe-95a7-8703771c354f / SUBJECT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+下@xià	[[tls:concept:SUBJECT::#uuid-650f027a-e704-4efe-95a7-8703771c354f][SUBJECT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / subject
+** 不樂為秦民之日固久矣	have disliked the thought of being Ch'in subjects for a long time!
+:PROPERTIES:
+:SRC: ZGC 5.15.5; tr. Crump 1979 no. 102, p 115, ed. Shanghaiguji p. 205
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_089:1a27:1::不樂 / 戰國策
+:CHARPOS: 1
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-2be2a100-36fb-43b8-a303-b482cf3b28bc / DELIGHT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 2
+:END:
+樂@lè	[[tls:concept:DELIGHT::#uuid-2be2a100-36fb-43b8-a303-b482cf3b28bc][DELIGHT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / be delighted when V-ing; de delighted to V; take delight in V-ing
+*** 民@mín
+:PROPERTIES:
+:CONCEPT: uuid-7e507250-9c28-45ac-9349-6179f1146dc7 / PEOPLE
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-4a664f44-976b-4454-bd5d-8db23c156096
+:CHARPOS: 5
+:END:
+民@mín	[[tls:concept:PEOPLE::#uuid-7e507250-9c28-45ac-9349-6179f1146dc7][PEOPLE]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-4a664f44-976b-4454-bd5d-8db23c156096][predicate]]} / be the people from N
+*** 日@rì
+:PROPERTIES:
+:CONCEPT: uuid-84e41c05-c5ec-4af1-99b4-2f2b71e86218 / TIME
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 7
+:END:
+日@rì	[[tls:concept:TIME::#uuid-84e41c05-c5ec-4af1-99b4-2f2b71e86218][TIME]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / amount of time; a space of time; the time
+*** 固@gù
+:PROPERTIES:
+:CONCEPT: uuid-44f4e898-1322-4caf-9161-2751841f2e0b / CERTAIN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 8
+:END:
+固@gù	[[tls:concept:CERTAIN::#uuid-44f4e898-1322-4caf-9161-2751841f2e0b][CERTAIN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / surely, doubtlessly; certainly; inherently
+** 故不如因而割之	For this reason it is better to [? arrange for Chao tō67 cede lands]
+:PROPERTIES:
+:SRC: ZGC 5.15.5; tr. Crump 1979 no. 102, p 115, ed. Shanghaiguji p. 205
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_089:1a32:1::故不 / 戰國策
+:CHARPOS: 1
+:END:
+*** 不如@bùrú
+:PROPERTIES:
+:CONCEPT: uuid-f9b4e623-8351-4098-b9a4-66968b7a689a / SHOULD
+:SYN-FUNC: uuid-29b53c62-c07b-4ca5-a33f-539ea6586b8f
+:CHARPOS: 2
+:END:
+不如@bùrú	[[tls:concept:SHOULD::#uuid-f9b4e623-8351-4098-b9a4-66968b7a689a][SHOULD]]	V [[tls:syn-func::#uuid-29b53c62-c07b-4ca5-a33f-539ea6586b8f][VPt{0}+V{0}]] / It is best to V!

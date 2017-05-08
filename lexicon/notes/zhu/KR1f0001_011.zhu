@@ -1,0 +1,238 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 孝經 KR1f0001_011
+#+DATE: 2017-02-08T16:40:10+0900
+#+PROPERTY: COMMIT f2d155e179399ea4b6de200698895be0743588f4
+** 子曰	The Master said:
+:PROPERTIES:
+:SRC: XIAOJING 11, ed. SSJZS p. 0111
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_011:1a01:50::子曰 / 孝經
+:CHARPOS: 50
+:END:
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-85f74e57-c4d7-4d7f-a330-ae20510026b1 / TEACHER
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 50
+:END:
+子@zǐ	[[tls:concept:TEACHER::#uuid-85f74e57-c4d7-4d7f-a330-ae20510026b1][TEACHER]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / our master; person in authority [Note that the [post-N] can never in fact be made explicit without breaking the rules of the grammar! CH]
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-8fff2d95-8f01-41c6-9344-b798d74d2831 / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8
+:CHARPOS: 51
+:END:
+曰@yuē	[[tls:concept:SPEAK::#uuid-8fff2d95-8f01-41c6-9344-b798d74d2831][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8][direct-speech]]} / say: S
+** 五刑之屬三千	There are three thousand of the categories belonging to five punishments,
+:PROPERTIES:
+:SRC: XIAOJING 11, ed. SSJZS p. 0111
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_011:1a02:50::「五 / 孝經
+:CHARPOS: 50
+:END:
+*** 屬@shǔ
+:PROPERTIES:
+:CONCEPT: uuid-7b8bdeee-62c2-412a-9277-02a684d2b21d / CATEGORY
+:SYN-FUNC: uuid-217ce3cc-f0c8-4180-afaa-125da9931035
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 53
+:END:
+屬@shǔ	[[tls:concept:CATEGORY::#uuid-7b8bdeee-62c2-412a-9277-02a684d2b21d][CATEGORY]]	N [[tls:syn-func::#uuid-217ce3cc-f0c8-4180-afaa-125da9931035][ntpost-N]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / what belongs to a certain category; the likes of 有血氣之屬
+** 而罪莫大於不孝	but there is no greater crime then unfiliality,
+:PROPERTIES:
+:SRC: XIAOJING 11, ed. SSJZS p. 0111
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_011:1a03:50::而罪 / 孝經
+:CHARPOS: 50
+:END:
+*** 罪@zuì
+:PROPERTIES:
+:CONCEPT: uuid-3e19d0a6-d822-439c-b004-4bf349492ff5 / GUILT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-62a630be-58ae-44f4-b858-a7540b2de8d3
+:CHARPOS: 51
+:END:
+罪@zuì	[[tls:concept:GUILT::#uuid-3e19d0a6-d822-439c-b004-4bf349492ff5][GUILT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-62a630be-58ae-44f4-b858-a7540b2de8d3][moral]]} / criminal guilt; criminal responsibility; 獄決罪定
+*** 莫@mò
+:PROPERTIES:
+:CONCEPT: uuid-6f813ab2-89a1-4637-99a7-03a7b1416d51 / NONE
+:SYN-FUNC: uuid-970d99db-7968-486c-af64-54e70f75c7f0
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 52
+:END:
+莫@mò	[[tls:concept:NONE::#uuid-6f813ab2-89a1-4637-99a7-03a7b1416d51][NONE]]	N [[tls:syn-func::#uuid-970d99db-7968-486c-af64-54e70f75c7f0][npro+V{PRED}.postN{SUBJ}]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / none of
+*** 大@dà
+:PROPERTIES:
+:CONCEPT: uuid-6fdb95ee-6ccc-4e18-ad54-4951b4e252fe / BIG
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 53
+:END:
+大@dà	[[tls:concept:BIG::#uuid-6fdb95ee-6ccc-4e18-ad54-4951b4e252fe][BIG]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be greater than 大於
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-1b9e645c-acac-4da2-a625-0faa32895679 / THAN
+:SYN-FUNC: uuid-97424691-5023-4a2e-b90f-d60a1e3b5673
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 54
+:END:
+於@yú	[[tls:concept:THAN::#uuid-1b9e645c-acac-4da2-a625-0faa32895679][THAN]]	V [[tls:syn-func::#uuid-97424691-5023-4a2e-b90f-d60a1e3b5673][vt{0}oN.postadV]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / than (introduces the object of comparison after a stative verb in comparative)
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a / NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 55
+:END:
+不@bù	[[tls:concept:NOT::#uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a][NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / not
+*** 孝@xiào
+:PROPERTIES:
+:CONCEPT: uuid-c4bb8925-991c-46ce-92fe-c89c5d7cf9dc / VIRTUE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 56
+:END:
+孝@xiào	[[tls:concept:VIRTUE::#uuid-c4bb8925-991c-46ce-92fe-c89c5d7cf9dc][VIRTUE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / be filial; show filial piety
+** 要君者無上	the one who makes demands on a ruler has no superiors,
+:PROPERTIES:
+:SRC: XIAOJING 11, ed. SSJZS p. 0111
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_011:1a04:50::要君 / 孝經
+:CHARPOS: 50
+:END:
+*** 要@yāo
+:PROPERTIES:
+:CONCEPT: uuid-249adca0-370c-4951-8e31-77a015d153bf / DEMAND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-5100e402-4cb5-4b99-929f-be674b3757d4
+:CHARPOS: 50
+:END:
+要@yāo	[[tls:concept:DEMAND::#uuid-249adca0-370c-4951-8e31-77a015d153bf][DEMAND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-5100e402-4cb5-4b99-929f-be674b3757d4][N=human]]} / make demands on
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-1b54f746-6c7b-4aef-9ed2-d15ef42bcf04 / RULER
+:SYN-FUNC: uuid-3473071e-1407-4804-a185-2db288ee8726
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 51
+:END:
+君@jūn	[[tls:concept:RULER::#uuid-1b54f746-6c7b-4aef-9ed2-d15ef42bcf04][RULER]]	N [[tls:syn-func::#uuid-3473071e-1407-4804-a185-2db288ee8726][nt]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / 人君　a ruler
+*** 無@wú / 毋@wú / 亡@wáng / 无@wú
+:PROPERTIES:
+:CONCEPT: uuid-8cba9fb3-fdc8-401c-b682-924407fc640f / LACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+無@wú / 毋@wú / 亡@wáng / 无@wú	[[tls:concept:LACK::#uuid-8cba9fb3-fdc8-401c-b682-924407fc640f][LACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lack, be without; make do without; imply no (harm or loss); lack the support of (subordinates)
+*** 上@shàng
+:PROPERTIES:
+:CONCEPT: uuid-6d6565b2-ce28-4510-8856-df27fb770153 / SUPERIOR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 54
+:END:
+上@shàng	[[tls:concept:SUPERIOR::#uuid-6d6565b2-ce28-4510-8856-df27fb770153][SUPERIOR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the leadership; those who are of superior rank, those in high social or political positions;
+** 非聖人者無法	the one who disapproves the sages has no model (to follow),
+:PROPERTIES:
+:SRC: XIAOJING 11, ed. SSJZS p. 0111
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_011:1a05:50::非聖 / 孝經
+:CHARPOS: 50
+:END:
+*** 非@fēi
+:PROPERTIES:
+:CONCEPT: uuid-e9cc7d3d-ce64-4930-988c-b04c5788b9b6 / CRITICISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-8b13ea65-8d3c-4d62-b4bf-caf8506c9f68
+:CHARPOS: 50
+:END:
+非@fēi	[[tls:concept:CRITICISE::#uuid-e9cc7d3d-ce64-4930-988c-b04c5788b9b6][CRITICISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-8b13ea65-8d3c-4d62-b4bf-caf8506c9f68][declarative]]} / declare wrong> criticise; disagree with, deny; disapprove, be opposed to; oppose
+*** 聖人@shèngrén
+:PROPERTIES:
+:CONCEPT: uuid-b1469cd1-5934-4f4e-b0af-4527c104e901 / HERO
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 51
+:END:
+聖人@shèngrén	[[tls:concept:HERO::#uuid-b1469cd1-5934-4f4e-b0af-4527c104e901][HERO]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be a sage (not: be THE sage) (tensed)
+*** 無@wú / 毋@wú / 亡@wáng / 无@wú
+:PROPERTIES:
+:CONCEPT: uuid-8cba9fb3-fdc8-401c-b682-924407fc640f / LACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+無@wú / 毋@wú / 亡@wáng / 无@wú	[[tls:concept:LACK::#uuid-8cba9fb3-fdc8-401c-b682-924407fc640f][LACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lack, be without; make do without; imply no (harm or loss); lack the support of (subordinates)
+*** 法@fǎ
+:PROPERTIES:
+:CONCEPT: uuid-0452f378-e888-4f54-ad13-53004f9eb97f / MODEL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 55
+:END:
+法@fǎ	[[tls:concept:MODEL::#uuid-0452f378-e888-4f54-ad13-53004f9eb97f][MODEL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / model
+** 非孝者無親	the one who opposes filial piety shows no loving care to parents,
+:PROPERTIES:
+:SRC: XIAOJING 11, ed. SSJZS p. 0111
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_011:1a06:50::非孝 / 孝經
+:CHARPOS: 50
+:END:
+*** 非@fēi
+:PROPERTIES:
+:CONCEPT: uuid-e9cc7d3d-ce64-4930-988c-b04c5788b9b6 / CRITICISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-8b13ea65-8d3c-4d62-b4bf-caf8506c9f68
+:CHARPOS: 50
+:END:
+非@fēi	[[tls:concept:CRITICISE::#uuid-e9cc7d3d-ce64-4930-988c-b04c5788b9b6][CRITICISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-8b13ea65-8d3c-4d62-b4bf-caf8506c9f68][declarative]]} / declare wrong> criticise; disagree with, deny; disapprove, be opposed to; oppose
+*** 孝@xiào
+:PROPERTIES:
+:CONCEPT: uuid-40fa35ca-d157-4d1f-bae8-47abdd68a636 / VIRTUE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+孝@xiào	[[tls:concept:VIRTUE::#uuid-40fa35ca-d157-4d1f-bae8-47abdd68a636][VIRTUE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / filial piety, devotion to one's living and dead forbears
+*** 無@wú / 毋@wú / 亡@wáng / 无@wú
+:PROPERTIES:
+:CONCEPT: uuid-8cba9fb3-fdc8-401c-b682-924407fc640f / LACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+無@wú / 毋@wú / 亡@wáng / 无@wú	[[tls:concept:LACK::#uuid-8cba9fb3-fdc8-401c-b682-924407fc640f][LACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lack, be without; make do without; imply no (harm or loss); lack the support of (subordinates)
+** 此大亂之道也	this is the way of great chaos.
+:PROPERTIES:
+:SRC: XIAOJING 11, ed. SSJZS p. 0111
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_011:1a06:50::此大 / 孝經
+:CHARPOS: 50
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-20e72b12-d3da-4d93-82a7-4d85d052a415
+:CHARPOS: 50
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-20e72b12-d3da-4d93-82a7-4d85d052a415][abstract]]} / this (particular aforementioned abstract but definite) item
+*** 大@dà
+:PROPERTIES:
+:CONCEPT: uuid-9e9e76cd-5c23-4be2-9cb8-4df692edb674 / GREAT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 51
+:END:
+大@dà	[[tls:concept:GREAT::#uuid-9e9e76cd-5c23-4be2-9cb8-4df692edb674][GREAT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / large-scale, great; overall (not partial or small-minded); fundamental; of a higher order
+*** 亂@luàn
+:PROPERTIES:
+:CONCEPT: uuid-67483346-0ec2-4adb-a4c1-e27cf550fed4 / REVOLT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+亂@luàn	[[tls:concept:REVOLT::#uuid-67483346-0ec2-4adb-a4c1-e27cf550fed4][REVOLT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / political chaos; political disarray, political disorder
+*** 道@dào
+:PROPERTIES:
+:CONCEPT: uuid-30e0eb52-6b96-4bb5-b04f-14e7f9455495 / METHOD
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 54
+:END:
+道@dào	[[tls:concept:METHOD::#uuid-30e0eb52-6b96-4bb5-b04f-14e7f9455495][METHOD]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / way of doing things

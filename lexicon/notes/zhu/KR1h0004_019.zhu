@@ -1,0 +1,3503 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 論語 KR1h0004_019
+#+DATE: 2017-02-08T16:40:41+0900
+#+PROPERTY: COMMIT 3589fb3cb19180a8b7bdd0901b8e944ce4d46794
+** 士見危致命	"When the gentleman sees a dangerous situation he risks his life,
+:PROPERTIES:
+:SRC: LY 19.01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:1a02:1::「士 / 論語
+:CHARPOS: 1
+:END:
+*** 士@shì
+:PROPERTIES:
+:CONCEPT: uuid-5cabf7d8-b884-4386-8136-3e7cd6dd972a / GENTLEMAN
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:SEM-FEAT: uuid-dbf270c9-0ec8-4757-8bd3-e79cd2fbc0e8
+:CHARPOS: 1
+:END:
+士@shì	[[tls:concept:GENTLEMAN::#uuid-5cabf7d8-b884-4386-8136-3e7cd6dd972a][GENTLEMAN]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] {[[tls:sem-feat::#uuid-dbf270c9-0ec8-4757-8bd3-e79cd2fbc0e8][ideal]]} / true gentleman
+*** 危@wēi
+:PROPERTIES:
+:CONCEPT: uuid-161f9976-2b86-462b-852d-c243b88fd68f / DANGER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 3
+:END:
+危@wēi	[[tls:concept:DANGER::#uuid-161f9976-2b86-462b-852d-c243b88fd68f][DANGER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / imminent peril, danger; state of danger; precariousness
+*** 致命@zhìmìng
+:PROPERTIES:
+:CONCEPT: uuid-b69e1b85-37c3-42c6-8db1-67c99a482987 / DIE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+致命@zhìmìng	[[tls:concept:DIE::#uuid-b69e1b85-37c3-42c6-8db1-67c99a482987][DIE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / risk death
+*** 致@zhì
+:PROPERTIES:
+:CONCEPT: uuid-0517025a-d21f-42a4-b289-478dbc0046b3 / HAND UP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+致@zhì	[[tls:concept:HAND UP::#uuid-0517025a-d21f-42a4-b289-478dbc0046b3][HAND UP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / sacrifice on behalf of superiors
+*** 命@mìng
+:PROPERTIES:
+:CONCEPT: uuid-c3d066dd-dfed-4fce-9d86-c493b0f254bd / LIVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 5
+:END:
+命@mìng	[[tls:concept:LIVE::#uuid-c3d066dd-dfed-4fce-9d86-c493b0f254bd][LIVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / state of being alive, one's aliveness
+** 見得思義	when he sees possible profit he thinks of moral principles,
+:PROPERTIES:
+:SRC: LY 19.01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:1a03:50::見得 / 論語
+:CHARPOS: 50
+:END:
+*** 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-de5abffb-053c-41a5-bd34-253ba6a8d520 / PROFIT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 51
+:END:
+得@dé	[[tls:concept:PROFIT::#uuid-de5abffb-053c-41a5-bd34-253ba6a8d520][PROFIT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / gain; possible profit
+*** 思@sī
+:PROPERTIES:
+:CONCEPT: uuid-57a2f716-ea89-4b2f-83b3-59770d9a9aca / THINK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+思@sī	[[tls:concept:THINK::#uuid-57a2f716-ea89-4b2f-83b3-59770d9a9aca][THINK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be preoccupied by; linger in thought on; reflect on, be mindful of, think about
+** 祭思敬	when he sacrifices he thinks of proper devotion,
+:PROPERTIES:
+:SRC: LY 19.01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:1a04:50::祭思 / 論語
+:CHARPOS: 50
+:END:
+*** 祭@jì
+:PROPERTIES:
+:CONCEPT: uuid-f4ea7153-b99a-47a4-b1be-9cce135e843d / SACRIFICE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 50
+:END:
+祭@jì	[[tls:concept:SACRIFICE::#uuid-f4ea7153-b99a-47a4-b1be-9cce135e843d][SACRIFICE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / engage in sacrificing to the ancestors
+*** 思@sī
+:PROPERTIES:
+:CONCEPT: uuid-57a2f716-ea89-4b2f-83b3-59770d9a9aca / THINK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+思@sī	[[tls:concept:THINK::#uuid-57a2f716-ea89-4b2f-83b3-59770d9a9aca][THINK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be preoccupied by; linger in thought on; reflect on, be mindful of, think about
+*** 敬@jìng
+:PROPERTIES:
+:CONCEPT: uuid-47b029a8-65ad-4039-aee7-86bb528bc6b3 / RESPECT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+敬@jìng	[[tls:concept:RESPECT::#uuid-47b029a8-65ad-4039-aee7-86bb528bc6b3][RESPECT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / earnest and respectful diligence; respectful devotion
+** 喪思哀	when he conducts funerals he thinks of grief.
+:PROPERTIES:
+:SRC: LY 19.01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:1a05:50::喪思 / 論語
+:CHARPOS: 50
+:END:
+*** 喪@sāng
+:PROPERTIES:
+:CONCEPT: uuid-4c36fca6-8a3e-4594-aade-7f43b682664b / MOURNING
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+喪@sāng	[[tls:concept:MOURNING::#uuid-4c36fca6-8a3e-4594-aade-7f43b682664b][MOURNING]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / conduct mourning rites for someone
+*** 思@sī
+:PROPERTIES:
+:CONCEPT: uuid-57a2f716-ea89-4b2f-83b3-59770d9a9aca / THINK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+思@sī	[[tls:concept:THINK::#uuid-57a2f716-ea89-4b2f-83b3-59770d9a9aca][THINK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be preoccupied by; linger in thought on; reflect on, be mindful of, think about
+*** 哀@āi
+:PROPERTIES:
+:CONCEPT: uuid-2e383a56-6155-4497-9883-b9aad4713814 / GRIEF
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+哀@āi	[[tls:concept:GRIEF::#uuid-2e383a56-6155-4497-9883-b9aad4713814][GRIEF]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / deeply felt comendable grief; proper grief
+** 其可已矣	I suppose that is definitely acceptable."
+:PROPERTIES:
+:SRC: LY 19.01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:1a06:50::其可 / 論語
+:CHARPOS: 50
+:END:
+*** 其@qí
+:PROPERTIES:
+:CONCEPT: uuid-c5f8e9e5-9a4e-41e2-8f62-0f008c52b1ec / PROBABLE
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 50
+:END:
+其@qí	[[tls:concept:PROBABLE::#uuid-c5f8e9e5-9a4e-41e2-8f62-0f008c52b1ec][PROBABLE]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / presumably, - I suppose -, perhaps; apparently???
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-ab442359-6071-46de-9e8c-93e9595958e3 / APPROPRIATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e1f5c806-95f2-48a8-ac47-1016f7ee5801
+:CHARPOS: 51
+:END:
+可@kě	[[tls:concept:APPROPRIATE::#uuid-ab442359-6071-46de-9e8c-93e9595958e3][APPROPRIATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e1f5c806-95f2-48a8-ac47-1016f7ee5801][subject=action]]} / be advisable; be acceptable; be agreeable (to do something); be commendable; be right; appropriate
+** 執德不弘	"If in holding onto virtue one is not magnanimous,
+:PROPERTIES:
+:SRC: LY 19.02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:2a02:1::「執 / 論語
+:CHARPOS: 1
+:END:
+*** 執@zhí
+:PROPERTIES:
+:CONCEPT: uuid-3403afac-eaee-4d9b-acb0-6fe816182f1d / ACT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+執@zhí	[[tls:concept:ACT::#uuid-3403afac-eaee-4d9b-acb0-6fe816182f1d][ACT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / conduct, carry out consistently; practise and advocate the use of
+*** 德@dé
+:PROPERTIES:
+:CONCEPT: uuid-1cdab186-9017-4847-a833-2ab92f47da4a / VIRTUE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 2
+:END:
+德@dé	[[tls:concept:VIRTUE::#uuid-1cdab186-9017-4847-a833-2ab92f47da4a][VIRTUE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / the highest form of virtue, true virtue, true inner power
+*** 弘@hóng
+:PROPERTIES:
+:CONCEPT: uuid-17d367fc-4785-4b8c-90f8-baf101290453 / GREAT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+弘@hóng	[[tls:concept:GREAT::#uuid-17d367fc-4785-4b8c-90f8-baf101290453][GREAT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be magnanimous; have moral weight; German: Format haben
+** 信道不篤	if in keeping faithfully to the Way one is not dependable,
+:PROPERTIES:
+:SRC: LY 19.02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:2a03:50::信道 / 論語
+:CHARPOS: 50
+:END:
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-058c30ac-111f-40f8-8758-bf2eaef9694e / FAITHFUL
+:SYN-FUNC: uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5
+:CHARPOS: 50
+:END:
+信@xìn	[[tls:concept:FAITHFUL::#uuid-058c30ac-111f-40f8-8758-bf2eaef9694e][FAITHFUL]]	V [[tls:syn-func::#uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5][vtoNab]] / be faithful to
+*** 篤@dǔ
+:PROPERTIES:
+:CONCEPT: uuid-c9e7eaad-ce6a-4e4e-82e4-daff5b7aaeb0 / EARNEST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+篤@dǔ	[[tls:concept:EARNEST::#uuid-c9e7eaad-ce6a-4e4e-82e4-daff5b7aaeb0][EARNEST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / sincere and dependable, trusty, honest, sturdy
+** 焉能為有	how can one be taken to exist (morally),
+:PROPERTIES:
+:SRC: LY 19.02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:2a04:50::焉能 / 論語
+:CHARPOS: 50
+:END:
+*** 焉@yān
+:PROPERTIES:
+:CONCEPT: uuid-5f5ed32a-4730-4785-b657-ed54cf450671 / HOW
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 50
+:END:
+焉@yān	[[tls:concept:HOW::#uuid-5f5ed32a-4730-4785-b657-ed54cf450671][HOW]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / how? 焉得儉"How could he get to count as stingy?"　焉辟"how can one avoid?"
+** 焉能為亡	or how can one be taken not to exist (morally)? [One is morally neither here nor there. ??????]
+:PROPERTIES:
+:SRC: LY 19.02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:2a05:50::焉能 / 論語
+:CHARPOS: 50
+:END:
+*** 焉@yān
+:PROPERTIES:
+:CONCEPT: uuid-5f5ed32a-4730-4785-b657-ed54cf450671 / HOW
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 50
+:END:
+焉@yān	[[tls:concept:HOW::#uuid-5f5ed32a-4730-4785-b657-ed54cf450671][HOW]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / how? 焉得儉"How could he get to count as stingy?"　焉辟"how can one avoid?"
+** 19.3子夏之門人問交於子張	Zǐxià's follower asked Zǐzhāng about human relations
+:PROPERTIES:
+:SRC: LY 19.03:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:3a01:50::19 / 論語
+:CHARPOS: 50
+:END:
+*** 門人@ménrén
+:PROPERTIES:
+:CONCEPT: uuid-ea8e3193-948f-4475-8ac4-a077335d6103 / STUDENT
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 57
+:END:
+門人@ménrén	[[tls:concept:STUDENT::#uuid-ea8e3193-948f-4475-8ac4-a077335d6103][STUDENT]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / disciples, adherents
+*** 問@wèn
+:PROPERTIES:
+:CONCEPT: uuid-dbbbea59-9bb4-41ba-a2cf-dec1f8326b63 / ASK
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 59
+:END:
+問@wèn	[[tls:concept:ASK::#uuid-dbbbea59-9bb4-41ba-a2cf-dec1f8326b63][ASK]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / ask (someone N2) about (something N1)　問孝於我
+*** 交@jiāo
+:PROPERTIES:
+:CONCEPT: uuid-fa94d1db-0174-475c-b352-7f8d92c4ef72 / INTERACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 60
+:END:
+交@jiāo	[[tls:concept:INTERACT::#uuid-fa94d1db-0174-475c-b352-7f8d92c4ef72][INTERACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / relations, connections; human relations; diplomatic relations
+** 子張曰	Zǐzhāng asked:
+:PROPERTIES:
+:SRC: LY 19.03:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:3a02:50::子張 / 論語
+:CHARPOS: 50
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-7cbf117c-7550-45d0-85e3-4dc08ff81d87 / ASK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:CHARPOS: 52
+:END:
+曰@yuē	[[tls:concept:ASK::#uuid-7cbf117c-7550-45d0-85e3-4dc08ff81d87][ASK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] / go on to say (i.e. ask); say (in the form of a question) in the process of a conversation
+** 子夏云何	"What does Zǐxià maintain concerning this subject?"
+:PROPERTIES:
+:SRC: LY 19.03:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:3a03:50::「子 / 論語
+:CHARPOS: 50
+:END:
+*** 云@yún
+:PROPERTIES:
+:CONCEPT: uuid-58ef5d30-d149-4a5a-b42e-ccd9f6035f0f / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-9d6c54c1-760c-4bdc-9f1d-7c15193a50c8
+:CHARPOS: 52
+:END:
+云@yún	[[tls:concept:SPEAK::#uuid-58ef5d30-d149-4a5a-b42e-ccd9f6035f0f][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-9d6c54c1-760c-4bdc-9f1d-7c15193a50c8][subject=human]]} / (often used within the scope of other verbs of speaking like yuē 曰) untensed, of persons, vt: (generally tend to) say, (generally tend to) claim:; (untensed) say:
+*** 何@hé
+:PROPERTIES:
+:CONCEPT: uuid-ebc30385-3b2c-4b30-9618-c718d696123b / WHAT
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-c65b2c3d-9d08-4c44-b958-ba9cd849f304
+:CHARPOS: 53
+:END:
+何@hé	[[tls:concept:WHAT::#uuid-ebc30385-3b2c-4b30-9618-c718d696123b][WHAT]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-c65b2c3d-9d08-4c44-b958-ba9cd849f304][reference=object]]} / what?
+** 可者與之	'Those who are acceptable, associate with them,
+:PROPERTIES:
+:SRC: LY 19.03:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:4a03:1::『可 / 論語
+:CHARPOS: 1
+:END:
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-ab442359-6071-46de-9e8c-93e9595958e3 / APPROPRIATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e1f5c806-95f2-48a8-ac47-1016f7ee5801
+:CHARPOS: 1
+:END:
+可@kě	[[tls:concept:APPROPRIATE::#uuid-ab442359-6071-46de-9e8c-93e9595958e3][APPROPRIATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e1f5c806-95f2-48a8-ac47-1016f7ee5801][subject=action]]} / be advisable; be acceptable; be agreeable (to do something); be commendable; be right; appropriate
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-612b6390-9daf-475d-9638-9c109cfa6396 / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-853ef17d-4259-4efd-ad28-171239b0182b
+:CHARPOS: 2
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-612b6390-9daf-475d-9638-9c109cfa6396][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-853ef17d-4259-4efd-ad28-171239b0182b][no definite referent]]} / subject(s) of V generally (often generic, the verb typically untensed) sometimes with large scope: 有國有家者
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-7cdd7cc6-ffec-41fc-879b-a32ffc94e4fd / COOPERATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+與@yǔ	[[tls:concept:COOPERATE::#uuid-7cdd7cc6-ffec-41fc-879b-a32ffc94e4fd][COOPERATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be on theside of; associate with, cooperate with, have dealings with; join in with
+** 其不可者拒之	and as for those who are not acceptable, keep them abay."
+:PROPERTIES:
+:SRC: LY 19.03:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:4a04:50::其不 / 論語
+:CHARPOS: 50
+:END:
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-ab442359-6071-46de-9e8c-93e9595958e3 / APPROPRIATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e1f5c806-95f2-48a8-ac47-1016f7ee5801
+:CHARPOS: 52
+:END:
+可@kě	[[tls:concept:APPROPRIATE::#uuid-ab442359-6071-46de-9e8c-93e9595958e3][APPROPRIATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e1f5c806-95f2-48a8-ac47-1016f7ee5801][subject=action]]} / be advisable; be acceptable; be agreeable (to do something); be commendable; be right; appropriate
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-612b6390-9daf-475d-9638-9c109cfa6396 / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-853ef17d-4259-4efd-ad28-171239b0182b
+:CHARPOS: 53
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-612b6390-9daf-475d-9638-9c109cfa6396][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-853ef17d-4259-4efd-ad28-171239b0182b][no definite referent]]} / subject(s) of V generally (often generic, the verb typically untensed) sometimes with large scope: 有國有家者
+*** 拒@jù
+:PROPERTIES:
+:CONCEPT: uuid-d30cfed3-728c-4973-bf6c-e54f6b18b854 / FEND OFF
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+拒@jù	[[tls:concept:FEND OFF::#uuid-d30cfed3-728c-4973-bf6c-e54f6b18b854][FEND OFF]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / hold at bay, fend off; keep at a distance
+** 異乎吾所聞	"Very strange, this thing I heard:
+:PROPERTIES:
+:SRC: LY 19.03:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:5a02:1::「異 / 論語
+:CHARPOS: 1
+:END:
+*** 異@yì
+:PROPERTIES:
+:CONCEPT: uuid-4d58d084-f329-4746-822c-79acca883770 / STRANGE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 1
+:END:
+異@yì	[[tls:concept:STRANGE::#uuid-4d58d084-f329-4746-822c-79acca883770][STRANGE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / to be strange; to be surprising
+** 君子尊賢而容眾	'The superior man honours the talented and is tolerant with the masses;
+:PROPERTIES:
+:SRC: LY 19.03:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:5a03:50::『君 / 論語
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+*** 尊@zūn
+:PROPERTIES:
+:CONCEPT: uuid-4f105be4-9a96-4f57-9965-d3d793c9a49c / RESPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 52
+:END:
+尊@zūn	[[tls:concept:RESPECT::#uuid-4f105be4-9a96-4f57-9965-d3d793c9a49c][RESPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / venerate, revere, show respect for; treat with demonstrative respect
+*** 賢@xián
+:PROPERTIES:
+:CONCEPT: uuid-c7d57f7d-89b0-4e64-8614-95c0a31c4ded / GOOD
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 53
+:END:
+賢@xián	[[tls:concept:GOOD::#uuid-c7d57f7d-89b0-4e64-8614-95c0a31c4ded][GOOD]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / person of talent; person of moral worth, a worthy
+*** 容@róng
+:PROPERTIES:
+:CONCEPT: uuid-493e37e0-10b8-459e-afd3-730c078992e9 / FORGIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+容@róng	[[tls:concept:FORGIVE::#uuid-493e37e0-10b8-459e-afd3-730c078992e9][FORGIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / put up with, tolerate; forgive the crimes of, disregard the crimes of
+*** 眾@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-cd750cad-35d4-4990-9ae6-2e5a7e175e8e / CROWD
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 56
+:END:
+眾@zhòng	[[tls:concept:CROWD::#uuid-cd750cad-35d4-4990-9ae6-2e5a7e175e8e][CROWD]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / the subject of being many> the crowd, the many people; the mulitudes of the people; the hoi polloi
+** 嘉善而矜不能	He commends those who are excellent and sympathise with the incompetent.
+:PROPERTIES:
+:SRC: LY 19.03:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:5a04:50::嘉善 / 論語
+:CHARPOS: 50
+:END:
+*** 嘉@jiā
+:PROPERTIES:
+:CONCEPT: uuid-4e1d65e8-7a45-4a98-9f98-f5b30c155a6c / PRAISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+嘉@jiā	[[tls:concept:PRAISE::#uuid-4e1d65e8-7a45-4a98-9f98-f5b30c155a6c][PRAISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / declare to be excellent; commend
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-e5ce725f-eb50-4b4f-b40f-8f3b576965b8 / EXCELLENT
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-5100e402-4cb5-4b99-929f-be674b3757d4
+:CHARPOS: 51
+:END:
+善@shàn	[[tls:concept:EXCELLENT::#uuid-e5ce725f-eb50-4b4f-b40f-8f3b576965b8][EXCELLENT]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-5100e402-4cb5-4b99-929f-be674b3757d4][N=human]]} / those who are capable and competent; those who are excellent; those who are more distinguished/of greater excellence
+*** 矜@jīn
+:PROPERTIES:
+:CONCEPT: uuid-e907805b-357d-49b8-81d3-b7373332f83b / SYMPATHY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+矜@jīn	[[tls:concept:SYMPATHY::#uuid-e907805b-357d-49b8-81d3-b7373332f83b][SYMPATHY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / feel empathy for, sympathise with; feel pity for
+*** 不能@bùnéng
+:PROPERTIES:
+:CONCEPT: uuid-2198d9f6-4e7c-474f-99ef-2669d44c3133 / INCOMPETENT
+:SYN-FUNC: uuid-67f0a2ac-a678-4098-9c5a-84937065f58c
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 54
+:END:
+不能@bùnéng	[[tls:concept:INCOMPETENT::#uuid-2198d9f6-4e7c-474f-99ef-2669d44c3133][INCOMPETENT]]	N [[tls:syn-func::#uuid-67f0a2ac-a678-4098-9c5a-84937065f58c][NP{vt{NEG}+V(.adN)}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / those who are incompetent
+** 我之大賢與	Suppose one is superbly talented,
+:PROPERTIES:
+:SRC: LY 19.03:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:5a05:50::我之 / 論語
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4faa14de-daaa-43a4-870d-92945f70d9f1 / ONESELF
+:SYN-FUNC: uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b
+:SEM-FEAT: uuid-26d3ec76-dd89-4fd2-b554-92258536af7f
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4faa14de-daaa-43a4-870d-92945f70d9f1][ONESELF]]	N [[tls:syn-func::#uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b][npro0]] {[[tls:sem-feat::#uuid-26d3ec76-dd89-4fd2-b554-92258536af7f][impersonal]]} / impersonal pronoun: one, oneself (as opposed to other things) 自我 (cf. 自我加冕 "be self-congratulatory)
+*** 大@dà
+:PROPERTIES:
+:CONCEPT: uuid-a1d643fb-f949-4d4d-a425-0a3f21277189 / INTENSELY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+大@dà	[[tls:concept:INTENSELY::#uuid-a1d643fb-f949-4d4d-a425-0a3f21277189][INTENSELY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in a big way; very much, mightily, highly, greatly; on a large scale
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-a2512531-8b90-4222-bec2-f47016a2482b / IF
+:SYN-FUNC: uuid-acfafcb7-9609-4e1a-8afb-f4be1c254f0a
+:CHARPOS: 54
+:END:
+與@yǔ	[[tls:concept:IF::#uuid-a2512531-8b90-4222-bec2-f47016a2482b][IF]]	P [[tls:syn-func::#uuid-acfafcb7-9609-4e1a-8afb-f4be1c254f0a][ppostadS1.adS2]] / question particle functioning as a marker of what is in effect a subordinate sentence
+** 於人何所不容	then in one's relation to others, whom will one fail to be tolerant towards?
+:PROPERTIES:
+:SRC: LY 19.03:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:5a06:50::於人 / 論語
+:CHARPOS: 50
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-a12a0ded-8fc6-4e5a-aa0f-7b65a2ff57d2 / RELATION
+:SYN-FUNC: uuid-eff96969-dfb1-4cc3-9784-3851c19c3f27
+:CHARPOS: 50
+:END:
+於@yú	[[tls:concept:RELATION::#uuid-a12a0ded-8fc6-4e5a-aa0f-7b65a2ff57d2][RELATION]]	V [[tls:syn-func::#uuid-eff96969-dfb1-4cc3-9784-3851c19c3f27][vt0oN.adS]] / relating to, concerning
+*** 容@róng
+:PROPERTIES:
+:CONCEPT: uuid-493e37e0-10b8-459e-afd3-730c078992e9 / FORGIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+容@róng	[[tls:concept:FORGIVE::#uuid-493e37e0-10b8-459e-afd3-730c078992e9][FORGIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / put up with, tolerate; forgive the crimes of, disregard the crimes of
+** 我之不賢與	Suppose one is without talent,
+:PROPERTIES:
+:SRC: LY 19.03:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:5a07:50::我之 / 論語
+:CHARPOS: 50
+:END:
+*** 不賢@bùxián
+:PROPERTIES:
+:CONCEPT: uuid-2abf458a-f50b-421b-8e59-e020c39bc151 / STUPID
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 52
+:END:
+不賢@bùxián	[[tls:concept:STUPID::#uuid-2abf458a-f50b-421b-8e59-e020c39bc151][STUPID]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be devoid of the relevant talent
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-a2512531-8b90-4222-bec2-f47016a2482b / IF
+:SYN-FUNC: uuid-acfafcb7-9609-4e1a-8afb-f4be1c254f0a
+:CHARPOS: 54
+:END:
+與@yǔ	[[tls:concept:IF::#uuid-a2512531-8b90-4222-bec2-f47016a2482b][IF]]	P [[tls:syn-func::#uuid-acfafcb7-9609-4e1a-8afb-f4be1c254f0a][ppostadS1.adS2]] / question particle functioning as a marker of what is in effect a subordinate sentence
+** 人將拒我	then others will reject one.
+:PROPERTIES:
+:SRC: LY 19.03:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:5a08:50::人將 / 論語
+:CHARPOS: 50
+:END:
+*** 將@jiāng
+:PROPERTIES:
+:CONCEPT: uuid-d8479501-9af9-42ca-a25b-71db9bf423e5 / PROBABLE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+將@jiāng	[[tls:concept:PROBABLE::#uuid-d8479501-9af9-42ca-a25b-71db9bf423e5][PROBABLE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / will naturally, will presumably; will probably; often with questions: possibly?
+** 如之何其拒人也	But why should one reject others?"
+:PROPERTIES:
+:SRC: LY 19.03:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:5a09:50::如之 / 論語
+:CHARPOS: 50
+:END:
+*** 如之何@rúzhīhé
+:PROPERTIES:
+:CONCEPT: uuid-00708f0c-1603-4cea-8b24-4d698c327394 / WHY
+:SYN-FUNC: uuid-293663a2-b459-4ea9-a147-fe1a5feb8a6b
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 50
+:END:
+如之何@rúzhīhé	[[tls:concept:WHY::#uuid-00708f0c-1603-4cea-8b24-4d698c327394][WHY]]	V [[tls:syn-func::#uuid-293663a2-b459-4ea9-a147-fe1a5feb8a6b][VPi(0)]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / why on earth?
+*** 何@hé
+:PROPERTIES:
+:CONCEPT: uuid-e3f108c9-a4c8-4cee-b92c-229a4256e2be / HOW
+:SYN-FUNC: uuid-35d0a7de-250e-4966-802b-f9b6605aa8bd
+:CHARPOS: 52
+:END:
+何@hé	[[tls:concept:HOW::#uuid-e3f108c9-a4c8-4cee-b92c-229a4256e2be][HOW]]	N [[tls:syn-func::#uuid-35d0a7de-250e-4966-802b-f9b6605aa8bd][npro.postV]] / how? 如之何
+*** 拒@jù
+:PROPERTIES:
+:CONCEPT: uuid-d30cfed3-728c-4973-bf6c-e54f6b18b854 / FEND OFF
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+拒@jù	[[tls:concept:FEND OFF::#uuid-d30cfed3-728c-4973-bf6c-e54f6b18b854][FEND OFF]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / hold at bay, fend off; keep at a distance
+** 雖小道	"Even in matters of small moral significance
+:PROPERTIES:
+:SRC: LY 19.04; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:6a02:1::「雖 / 論語
+:CHARPOS: 1
+:END:
+*** 雖@suī
+:PROPERTIES:
+:CONCEPT: uuid-86d1b083-2dc4-4a71-af7b-c75586ef5522 / EVEN
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 1
+:END:
+雖@suī	[[tls:concept:EVEN::#uuid-86d1b083-2dc4-4a71-af7b-c75586ef5522][EVEN]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / even Mo: 雖我亦將非之。
+*** 小@xiǎo
+:PROPERTIES:
+:CONCEPT: uuid-0fdd5376-b573-4e8a-9db5-b638fe4116ba / SMALL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 2
+:END:
+小@xiǎo	[[tls:concept:SMALL::#uuid-0fdd5376-b573-4e8a-9db5-b638fe4116ba][SMALL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / abstractly: slight, insignificant (mistakes etc); minor
+*** 道@dào
+:PROPERTIES:
+:CONCEPT: uuid-30e0eb52-6b96-4bb5-b04f-14e7f9455495 / METHOD
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 3
+:END:
+道@dào	[[tls:concept:METHOD::#uuid-30e0eb52-6b96-4bb5-b04f-14e7f9455495][METHOD]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / way of doing things
+** 必有可觀者焉	there are invariably things that should be carefully observed;
+:PROPERTIES:
+:SRC: LY 19.04; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:6a03:50::必有 / 論語
+:CHARPOS: 50
+:END:
+*** 必@bì
+:PROPERTIES:
+:CONCEPT: uuid-abbb8c63-9a45-4021-ac37-ba6e93935406 / ENDURING
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+必@bì	[[tls:concept:ENDURING::#uuid-abbb8c63-9a45-4021-ac37-ba6e93935406][ENDURING]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / always; invariably
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-4cf109ea-e1ef-489a-b1ae-0c62067b1184 / SHOULD
+:SYN-FUNC: uuid-52110676-c76e-45d3-858e-d11b23d8f7b4
+:CHARPOS: 52
+:END:
+可@kě	[[tls:concept:SHOULD::#uuid-4cf109ea-e1ef-489a-b1ae-0c62067b1184][SHOULD]]	V [[tls:syn-func::#uuid-52110676-c76e-45d3-858e-d11b23d8f7b4][vt+V{0}{PASS}]] / may properly be VERBED, should in effect be VERBED
+*** 觀@guān
+:PROPERTIES:
+:CONCEPT: uuid-33412240-0008-4e7c-a25f-e44a6754b5e1 / INVESTIGATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+觀@guān	[[tls:concept:INVESTIGATE::#uuid-33412240-0008-4e7c-a25f-e44a6754b5e1][INVESTIGATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be looked into carefully, be investigated properly
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 54
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / someone who V-s (typically tensed); anyone who V-s
+** 致遠恐泥	In aiming for distant things he (identified only in the next line!) is afraid to get bogged down,
+:PROPERTIES:
+:SRC: LY 19.04; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:6a04:50::致遠 / 論語
+:CHARPOS: 50
+:END:
+*** 致@zhì
+:PROPERTIES:
+:CONCEPT: uuid-23ff7b62-d0a7-4a84-b164-f7955a6cc515 / WALK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332
+:CHARPOS: 50
+:END:
+致@zhì	[[tls:concept:WALK::#uuid-23ff7b62-d0a7-4a84-b164-f7955a6cc515][WALK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332][inchoative]]} / set out to reach
+*** 遠@yuǎn
+:PROPERTIES:
+:CONCEPT: uuid-1690f180-1a92-4f88-b6e2-9edacc93a0fd / DISTANT
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 51
+:END:
+遠@yuǎn	[[tls:concept:DISTANT::#uuid-1690f180-1a92-4f88-b6e2-9edacc93a0fd][DISTANT]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / what is distant, a distant place
+*** 恐@kǒng
+:PROPERTIES:
+:CONCEPT: uuid-b0dcca61-113c-48e9-a6dc-16d27dd8d9cb / FEAR
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 52
+:END:
+恐@kǒng	[[tls:concept:FEAR::#uuid-b0dcca61-113c-48e9-a6dc-16d27dd8d9cb][FEAR]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / be afraid that V; be afraid to V
+*** 泥@ní
+:PROPERTIES:
+:CONCEPT: uuid-0ea92488-faf1-4fe6-a1c6-3d46a7c4a7cd / MUD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 53
+:END:
+泥@ní	[[tls:concept:MUD::#uuid-0ea92488-faf1-4fe6-a1c6-3d46a7c4a7cd][MUD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / get bogged down
+** 是以君子不為也	that is why the superior man will not engage in such projects.
+:PROPERTIES:
+:SRC: LY 19.04; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:6a05:50::是以 / 論語
+:CHARPOS: 50
+:END:
+*** 是以@shìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-72ee70b6-a77d-4b41-8a70-5ac5ddb8935b / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 50
+:END:
+是以@shìyǐ	[[tls:concept:THEREFORE::#uuid-72ee70b6-a77d-4b41-8a70-5ac5ddb8935b][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / subjective motivation: for that subjective reason; that is why, thus
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+** 日知其所亡	"To be aware every day of what one does not have,
+:PROPERTIES:
+:SRC: LY 19.05; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:7a02:1::「日 / 論語
+:CHARPOS: 1
+:END:
+*** 日@rì
+:PROPERTIES:
+:CONCEPT: uuid-72133a88-d7e8-4a51-9e1e-17c0c1ba62b4 / ENDURING
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 1
+:END:
+日@rì	[[tls:concept:ENDURING::#uuid-72133a88-d7e8-4a51-9e1e-17c0c1ba62b4][ENDURING]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / daily, every day; day in and day out; progressively generally: all the time
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-fa39bc31-96a7-4552-be2f-f1dcde503b56 / KNOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2aeb643e-02cb-47f5-b717-13ebab171e91
+:CHARPOS: 2
+:END:
+知@zhī	[[tls:concept:KNOW::#uuid-fa39bc31-96a7-4552-be2f-f1dcde503b56][KNOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2aeb643e-02cb-47f5-b717-13ebab171e91][awareness]]} / be aware of (and know the importance of) MOVE TO AWARE???
+*** 所@suǒ
+:PROPERTIES:
+:CONCEPT: uuid-0c429576-75fc-4cca-a3f5-8ef5728b65cd / PRONOUN
+:SYN-FUNC: uuid-3cfe24d8-ab50-4f17-8b4a-0e6d3faaf89b
+:CONCEPT: uuid-7a2cfc04-d62c-495f-9d81-02ca879870e3 / FORGET
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CONCEPT: uuid-8cba9fb3-fdc8-401c-b682-924407fc640f / LACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+所@suǒ	[[tls:concept:PRONOUN::#uuid-0c429576-75fc-4cca-a3f5-8ef5728b65cd][PRONOUN]]	N [[tls:syn-func::#uuid-3cfe24d8-ab50-4f17-8b4a-0e6d3faaf89b][npro1+Vt.postnpro2]] / 其所安
+忘@wàng / 亡@wáng	[[tls:concept:FORGET::#uuid-7a2cfc04-d62c-495f-9d81-02ca879870e3][FORGET]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / come to forget (some thing); overlook, be oblivious of, forget about, cease to think about; come to fail to pay proper attention to what one is surely aware of
+無@wú / 毋@wú / 亡@wáng / 无@wú	[[tls:concept:LACK::#uuid-8cba9fb3-fdc8-401c-b682-924407fc640f][LACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lack, be without; make do without; imply no (harm or loss); lack the support of (subordinates)
+** 月無忘其所能	and every month not to forget what one has learnt to do
+:PROPERTIES:
+:SRC: LY 19.05; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:7a03:50::月無 / 論語
+:CHARPOS: 50
+:END:
+*** 月@yuè
+:PROPERTIES:
+:CONCEPT: uuid-28afea80-c43d-43f2-bfc5-5ead883047d2 / MONTH
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 50
+:END:
+月@yuè	[[tls:concept:MONTH::#uuid-28afea80-c43d-43f2-bfc5-5ead883047d2][MONTH]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / every month, month by month; once a month
+*** 無@wú
+:PROPERTIES:
+:CONCEPT: uuid-7c0bdbf6-16d2-4e4b-9ee4-49735595bf26 / NEVER
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+無@wú	[[tls:concept:NEVER::#uuid-7c0bdbf6-16d2-4e4b-9ee4-49735595bf26][NEVER]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / will never (in generalisations); at no time (during a certain period), never (無有 there never are any)
+*** 所@suǒ
+:PROPERTIES:
+:CONCEPT: uuid-0c429576-75fc-4cca-a3f5-8ef5728b65cd / PRONOUN
+:SYN-FUNC: uuid-3cfe24d8-ab50-4f17-8b4a-0e6d3faaf89b
+:CHARPOS: 54
+:END:
+所@suǒ	[[tls:concept:PRONOUN::#uuid-0c429576-75fc-4cca-a3f5-8ef5728b65cd][PRONOUN]]	N [[tls:syn-func::#uuid-3cfe24d8-ab50-4f17-8b4a-0e6d3faaf89b][npro1+Vt.postnpro2]] / 其所安
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-9b94b935-e39a-412c-be8b-c6177933825e / ABLE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 55
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-9b94b935-e39a-412c-be8b-c6177933825e][ABLE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / have the capacity to VERB properly, be constitutionally able to VERB; be physically capable of, be actually able to
+** 可謂好學也已矣	that can definitely be called being fond of study!"
+:PROPERTIES:
+:SRC: LY 19.05; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:7a04:50::可謂 / 論語
+:CHARPOS: 50
+:END:
+*** 謂@wèi
+:PROPERTIES:
+:CONCEPT: uuid-22b57b64-177f-43a5-b5da-1c42b5900127 / NAME
+:SYN-FUNC: uuid-b74a3873-defc-4afc-8167-9e08a4c8bb76
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 51
+:END:
+謂@wèi	[[tls:concept:NAME::#uuid-22b57b64-177f-43a5-b5da-1c42b5900127][NAME]]	V [[tls:syn-func::#uuid-b74a3873-defc-4afc-8167-9e08a4c8bb76][vt{0}.+V{0}]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be properly called V; be said to V 可謂
+*** 好@hào
+:PROPERTIES:
+:CONCEPT: uuid-aebe37dd-29de-4d4a-a065-46656466a7b3 / DESIRE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+好@hào	[[tls:concept:DESIRE::#uuid-aebe37dd-29de-4d4a-a065-46656466a7b3][DESIRE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / find attractive, be deeply fond of (persons, things, or courses of action); be disposed to love; be preoccupied by; like; sometimes specifically: LY 4.3 be truly fond of
+*** 好學@hàoxué
+:PROPERTIES:
+:CONCEPT: uuid-2a721dbc-840f-4f0e-af2d-246644f82ed6 / STUDY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+好學@hàoxué	[[tls:concept:STUDY::#uuid-2a721dbc-840f-4f0e-af2d-246644f82ed6][STUDY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / eager to study 孰為好學
+** 博學而篤志	"To study broadly and to be sturdy in one's aspirations
+:PROPERTIES:
+:SRC: LY 19.06; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:8a02:1::「博 / 論語
+:CHARPOS: 1
+:END:
+*** 博@bó
+:PROPERTIES:
+:CONCEPT: uuid-87c159c7-df24-4cf9-a7c3-c275a8e28e2a / BROAD
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+博@bó	[[tls:concept:BROAD::#uuid-87c159c7-df24-4cf9-a7c3-c275a8e28e2a][BROAD]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / on a large scale, broadly; from a wide variety of sources; in a wide variety of ways
+*** 學@xué
+:PROPERTIES:
+:CONCEPT: uuid-af79bba7-a472-4847-8296-d7dc24ddf609 / STUDY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+學@xué	[[tls:concept:STUDY::#uuid-af79bba7-a472-4847-8296-d7dc24ddf609][STUDY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / devote oneself to study; be devoted to study; engage in intellectual work; work to improve oneself morally/intellectually
+*** 篤@dǔ
+:PROPERTIES:
+:CONCEPT: uuid-5b5be896-0d63-486e-a87f-79a6235a60bb / EARNEST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+篤@dǔ	[[tls:concept:EARNEST::#uuid-5b5be896-0d63-486e-a87f-79a6235a60bb][EARNEST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / be earnest in (the pursuit of one's aspirations etc)
+*** 志@zhì
+:PROPERTIES:
+:CONCEPT: uuid-c46e9e03-a167-4885-b776-2ce77561ba1b / ASPIRATION
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 5
+:END:
+志@zhì	[[tls:concept:ASPIRATION::#uuid-c46e9e03-a167-4885-b776-2ce77561ba1b][ASPIRATION]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / one's high intent; one's aspirations; one's moral aspiration, one's highest ambition; one's main tendencyBUDDH: religious aspirations
+** 切問而近思	to consult others incisively and to think concretely:
+:PROPERTIES:
+:SRC: LY 19.06; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:8a03:50::切問 / 論語
+:CHARPOS: 50
+:END:
+*** 切@qiè
+:PROPERTIES:
+:CONCEPT: uuid-2642b19e-a456-491f-83b4-8dae814eb753 / INTENSELY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+切@qiè	[[tls:concept:INTENSELY::#uuid-2642b19e-a456-491f-83b4-8dae814eb753][INTENSELY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / intensely, incisively, really, very
+*** 問@wèn
+:PROPERTIES:
+:CONCEPT: uuid-226f6218-0a86-4f33-9ff1-2cd33b6bfcc2 / ASK
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 51
+:END:
+問@wèn	[[tls:concept:ASK::#uuid-226f6218-0a86-4f33-9ff1-2cd33b6bfcc2][ASK]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / 切問而近思conduct consultations of one who are supposed to know
+*** 近@jìn
+:PROPERTIES:
+:CONCEPT: uuid-4f750bc0-98da-40bc-bc99-968fe7b2da4c / NEAR
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 53
+:END:
+近@jìn	[[tls:concept:NEAR::#uuid-4f750bc0-98da-40bc-bc99-968fe7b2da4c][NEAR]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / close at hand; concretely
+*** 思@sī
+:PROPERTIES:
+:CONCEPT: uuid-f22f9365-a4f4-4f62-8f79-6e9c14d8f310 / THINK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+思@sī	[[tls:concept:THINK::#uuid-f22f9365-a4f4-4f62-8f79-6e9c14d8f310][THINK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in reflection
+** 仁在其中矣	there is Goodness in this."
+:PROPERTIES:
+:SRC: LY 19.06; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:8a04:50::仁在 / 論語
+:CHARPOS: 50
+:END:
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-db0c36c1-1c31-46d5-a1ce-63dc2b95270b / BENEVOLENCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+仁@rén	[[tls:concept:BENEVOLENCE::#uuid-db0c36c1-1c31-46d5-a1ce-63dc2b95270b][BENEVOLENCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / humaneness, kindliness, kind-heartedness; benevolence, Goodness as a moral value
+*** 在@zài / 才@cái
+:PROPERTIES:
+:CONCEPT: uuid-14dc5892-009d-47f0-82d0-cec56fe52fc5 / BE IN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-20e72b12-d3da-4d93-82a7-4d85d052a415
+:CHARPOS: 51
+:END:
+在@zài / 才@cái	[[tls:concept:BE IN::#uuid-14dc5892-009d-47f0-82d0-cec56fe52fc5][BE IN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-20e72b12-d3da-4d93-82a7-4d85d052a415][abstract]]} / (abstractly:) be present in (a person); consist in; belong to; reside in
+*** 中@zhōng
+:PROPERTIES:
+:CONCEPT: uuid-9e50d535-11a3-4299-8e5e-7d735836b5a8 / INSIDE
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:CHARPOS: 53
+:END:
+中@zhōng	[[tls:concept:INSIDE::#uuid-9e50d535-11a3-4299-8e5e-7d735836b5a8][INSIDE]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] / the inside of, in
+** 百工居肆以成其事	"All craftsmen stay in their shops to achieve their tasks.
+:PROPERTIES:
+:SRC: LY 19.07; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:9a02:1::「百 / 論語
+:CHARPOS: 1
+:END:
+*** 百@bǎi
+:PROPERTIES:
+:CONCEPT: uuid-3863e208-3298-4615-b55d-7f47b9e6365b / ALL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+百@bǎi	[[tls:concept:ALL::#uuid-3863e208-3298-4615-b55d-7f47b9e6365b][ALL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / all the; the various
+*** 工@gōng
+:PROPERTIES:
+:CONCEPT: uuid-6f77b952-17c7-4ad8-8f44-bcc8024f44c5 / ARTISAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 2
+:END:
+工@gōng	[[tls:concept:ARTISAN::#uuid-6f77b952-17c7-4ad8-8f44-bcc8024f44c5][ARTISAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / specialised worker; craftsman, artisan; sometimes specifically: musician
+*** 居@jū
+:PROPERTIES:
+:CONCEPT: uuid-12d4ed18-9005-49c6-a5de-71bed89b0c95 / DWELL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+居@jū	[[tls:concept:DWELL::#uuid-12d4ed18-9005-49c6-a5de-71bed89b0c95][DWELL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / dwell in for longish time LY 15 居是邦 "when living in such-and-such a state"
+*** 肆@sì
+:PROPERTIES:
+:CONCEPT: uuid-23d3baae-f6a1-40c4-8ba7-60e657d9a6be / WORKSHOP
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+肆@sì	[[tls:concept:WORKSHOP::#uuid-23d3baae-f6a1-40c4-8ba7-60e657d9a6be][WORKSHOP]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / workshop
+*** 成@chéng
+:PROPERTIES:
+:CONCEPT: uuid-b13d33cb-c987-42ac-bb9f-6a4e081dac80 / COMPLETE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+成@chéng	[[tls:concept:COMPLETE::#uuid-b13d33cb-c987-42ac-bb9f-6a4e081dac80][COMPLETE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / practise successfully; to bring to completion; to bring to a successful conclusion; to accomplish; give its full form to; to make complete and perfect
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-2b5855c6-f1c8-470c-af26-6bfb17b16836 / WORK
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 8
+:END:
+事@shì	[[tls:concept:WORK::#uuid-2b5855c6-f1c8-470c-af26-6bfb17b16836][WORK]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (especially official) matter, especially: public task, official business; public event; public project, (military) undertaking, task; one's professional concern 五事
+** 君子學以致其道	The superior man engages in study in order to reach the right Way."
+:PROPERTIES:
+:SRC: LY 19.07; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:9a03:50::君子 / 論語
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+*** 學@xué
+:PROPERTIES:
+:CONCEPT: uuid-af79bba7-a472-4847-8296-d7dc24ddf609 / STUDY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+學@xué	[[tls:concept:STUDY::#uuid-af79bba7-a472-4847-8296-d7dc24ddf609][STUDY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / devote oneself to study; be devoted to study; engage in intellectual work; work to improve oneself morally/intellectually
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-5fab57ea-9f23-4e94-b2c6-e8b4651d11b2 / INTEND
+:SYN-FUNC: uuid-697f41bc-30fe-498c-a714-7cdbcd06d898
+:CHARPOS: 53
+:END:
+以@yǐ	[[tls:concept:INTEND::#uuid-5fab57ea-9f23-4e94-b2c6-e8b4651d11b2][INTEND]]	V [[tls:syn-func::#uuid-697f41bc-30fe-498c-a714-7cdbcd06d898][vt+V1.postadV2]] / intending thereby to, in order to; in order to; so that one can
+*** 致@zhì
+:PROPERTIES:
+:CONCEPT: uuid-d4c555d7-a4b5-4d9b-9bae-8ce5fd4c369e / ACHIEVE
+:SYN-FUNC: uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5
+:CHARPOS: 54
+:END:
+致@zhì	[[tls:concept:ACHIEVE::#uuid-d4c555d7-a4b5-4d9b-9bae-8ce5fd4c369e][ACHIEVE]]	V [[tls:syn-func::#uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5][vtoNab]] / achieve, manage to bring into existence, lead to; insist on bring to completion, bring to fruition; make the utmost use of
+*** 道@dào
+:PROPERTIES:
+:CONCEPT: uuid-4962e5de-1d55-461d-bade-2a850587a059 / METHOD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 56
+:END:
+道@dào	[[tls:concept:METHOD::#uuid-4962e5de-1d55-461d-bade-2a850587a059][METHOD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / the (morally correct) Way; the proper non-substance-like abstract metaphysical principle ensuring that all is well in the world
+** 小人之過也必文	"When the petty man makes a mistake he will invariably try to make it look good."
+:PROPERTIES:
+:SRC: LY 19.08; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:10a02:1::「小 / 論語
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-86710c17-18a5-4621-866f-eac5b8c9422e / BAD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+小人@xiǎorén	[[tls:concept:BAD::#uuid-86710c17-18a5-4621-866f-eac5b8c9422e][BAD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / petty person
+*** 過@guò
+:PROPERTIES:
+:CONCEPT: uuid-26b7b4b6-737f-49f7-a575-088f4b3926fb / MISTAKE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+過@guò	[[tls:concept:MISTAKE::#uuid-26b7b4b6-737f-49f7-a575-088f4b3926fb][MISTAKE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / miss the mark; go too far; get it wrong, be wrong, be mistaken; make an inadvertent minor mistake
+*** 也@yě
+:PROPERTIES:
+:CONCEPT: uuid-1a74b49c-357f-434b-9c96-577744cfe533 / WHEN
+:SYN-FUNC: uuid-e8ec37b7-edd6-4914-a08f-c9386b23e788
+:SEM-FEAT: uuid-e06b8e14-5d20-4e61-9ac4-cc3e7536076b
+:CHARPOS: 5
+:END:
+也@yě	[[tls:concept:WHEN::#uuid-1a74b49c-357f-434b-9c96-577744cfe533][WHEN]]	P [[tls:syn-func::#uuid-e8ec37b7-edd6-4914-a08f-c9386b23e788][ppostadNPab{S1}.adS2]] {[[tls:sem-feat::#uuid-e06b8e14-5d20-4e61-9ac4-cc3e7536076b][subject=time]]} / when
+*** 必@bì
+:PROPERTIES:
+:CONCEPT: uuid-abbb8c63-9a45-4021-ac37-ba6e93935406 / ENDURING
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 6
+:END:
+必@bì	[[tls:concept:ENDURING::#uuid-abbb8c63-9a45-4021-ac37-ba6e93935406][ENDURING]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / always; invariably
+*** 文@wén
+:PROPERTIES:
+:CONCEPT: uuid-e7481e2b-5334-4c6e-9f95-98975ed48070 / EMBELLISH
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 7
+:END:
+文@wén	[[tls:concept:EMBELLISH::#uuid-e7481e2b-5334-4c6e-9f95-98975ed48070][EMBELLISH]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / give something an artificially beautiful appearance
+** 君子有三變	"In the superior man there are three variations:
+:PROPERTIES:
+:SRC: LY 19.09; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:11a02:1::「君 / 論語
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+*** 變@biàn
+:PROPERTIES:
+:CONCEPT: uuid-8829ca87-7762-4123-9da4-a926aa87ee1d / CHANGE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 5
+:END:
+變@biàn	[[tls:concept:CHANGE::#uuid-8829ca87-7762-4123-9da4-a926aa87ee1d][CHANGE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / variations in appearance (deviations from a norm)
+** 望之儼然	when one looks at him from a distance he appears all formidable;
+:PROPERTIES:
+:SRC: LY 19.09; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:11a03:50::望之 / 論語
+:CHARPOS: 50
+:END:
+*** 望@wàng / 望@(wáng)
+:PROPERTIES:
+:CONCEPT: uuid-612ed63a-379c-4a30-b545-5148d00bcdf1 / LOOK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CONCEPT: uuid-500d0b3a-eac7-4fb5-9d40-7030c36eac69 / SEVERE
+:SYN-FUNC: uuid-d6b2a20f-79ca-49b4-8fce-2184bef2e5a4
+:CHARPOS: 50
+:END:
+望@wàng / 望@(wáng)	[[tls:concept:LOOK::#uuid-612ed63a-379c-4a30-b545-5148d00bcdf1][LOOK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / look out for; look at (admiringly) from afar; look to (for guidance); look into the distance (as from a tower etc); see from a distance; look around; look into distance in expectation of somebody's arrival
+〓#嚴@yán / @	[[tls:concept:SEVERE::#uuid-500d0b3a-eac7-4fb5-9d40-7030c36eac69][SEVERE]]	V [[tls:syn-func::#uuid-d6b2a20f-79ca-49b4-8fce-2184bef2e5a4][vi-V{SUFF}]] / look very severe
+** 即之也溫	when one gets close to him he appears warm-hearted;
+:PROPERTIES:
+:SRC: LY 19.09; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:11a04:50::即之 / 論語
+:CHARPOS: 50
+:END:
+*** 即@jí
+:PROPERTIES:
+:CONCEPT: uuid-843ce02b-710b-4a07-9ddb-2905e3ef0d88 / APPROACH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+即@jí	[[tls:concept:APPROACH::#uuid-843ce02b-710b-4a07-9ddb-2905e3ef0d88][APPROACH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / move close to; join (the military forces) of
+*** 溫@wēn
+:PROPERTIES:
+:CONCEPT: uuid-9b7fd90d-21eb-496a-8d6d-a9fe18797e4c / GOOD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+溫@wēn	[[tls:concept:GOOD::#uuid-9b7fd90d-21eb-496a-8d6d-a9fe18797e4c][GOOD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / be mild and gentle
+** 聽其言也厲	when one listens to his pronouncements he appears fierce."
+:PROPERTIES:
+:SRC: LY 19.09; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:11a05:50::聽其 / 論語
+:CHARPOS: 50
+:END:
+*** 聽@tīng
+:PROPERTIES:
+:CONCEPT: uuid-d15eefa9-3fd0-472b-9e79-ccd1abe48089 / LISTEN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+聽@tīng	[[tls:concept:LISTEN::#uuid-d15eefa9-3fd0-472b-9e79-ccd1abe48089][LISTEN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / listen to; pay attention to (without necessarily approving of)
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-58248328-733b-4587-bbd8-7c8aa830eebf / SPEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 52
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-58248328-733b-4587-bbd8-7c8aa830eebf][SPEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / statements of opinion, proposal; public or formal utterance which commits the speaker; pronouncement; public or formal pronouncement, public or formal suggestion; Sometimes less specifically: proposal; what one says, speech; language; public proposal, public speech, words
+*** 厲@lì
+:PROPERTIES:
+:CONCEPT: uuid-3af0f79a-0a0d-4737-8a3a-411d33690b42 / SEVERE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 54
+:END:
+厲@lì	[[tls:concept:SEVERE::#uuid-3af0f79a-0a0d-4737-8a3a-411d33690b42][SEVERE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be ferocious, vicious
+** 君子信而後勞其民	"The superior man will only work the people hard after he has achieved trusty good faith,
+:PROPERTIES:
+:SRC: LY 19.10; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:12a02:1::「君 / 論語
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-1a9ecfde-1e9f-40e8-9d0b-929a3e0ffe4e / FAITHFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-9d6c54c1-760c-4bdc-9f1d-7c15193a50c8
+:CHARPOS: 3
+:END:
+信@xìn	[[tls:concept:FAITHFUL::#uuid-1a9ecfde-1e9f-40e8-9d0b-929a3e0ffe4e][FAITHFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-9d6c54c1-760c-4bdc-9f1d-7c15193a50c8][subject=human]]} / be trustworthy, be reliable, show good faith; be dependable
+*** 而後@érhòu
+:PROPERTIES:
+:CONCEPT: uuid-ec9a4de5-e124-47f1-a2ec-a391a9c6e33f / ONLY THEN
+:SYN-FUNC: uuid-a9e51915-33f6-4995-9e68-d369df016b99
+:CHARPOS: 4
+:END:
+而後@érhòu	[[tls:concept:ONLY THEN::#uuid-ec9a4de5-e124-47f1-a2ec-a391a9c6e33f][ONLY THEN]]	P [[tls:syn-func::#uuid-a9e51915-33f6-4995-9e68-d369df016b99][PPadV.postS]] / only then; after
+*** 勞@láo
+:PROPERTIES:
+:CONCEPT: uuid-d136bff9-9e6a-4a80-a7a9-ab5a0027713b / LABOUR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 6
+:END:
+勞@láo	[[tls:concept:LABOUR::#uuid-d136bff9-9e6a-4a80-a7a9-ab5a0027713b][LABOUR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to work hard; bother, inconvenience
+** 則以為厲己也	then people will consider that he is bullying them.
+:PROPERTIES:
+:SRC: LY 19.10; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:12a04:1::則以 / 論語
+:CHARPOS: 1
+:END:
+*** 厲@lì
+:PROPERTIES:
+:CONCEPT: uuid-966cd3eb-855f-4af3-b0bb-95007c08fa11 / SEVERE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+厲@lì	[[tls:concept:SEVERE::#uuid-966cd3eb-855f-4af3-b0bb-95007c08fa11][SEVERE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be severe with, treat severely
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1 / SELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 5
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1][SELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / object pronoun, resumptive, non-contrastive: oneself, himself, herself, themselves
+** 信而後諫	only when he has achieved trusty good faith will he remonstrate,
+:PROPERTIES:
+:SRC: LY 19.10; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:12a05:50::信而 / 論語
+:CHARPOS: 50
+:END:
+*** 諫@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-3d0d8674-3181-45a6-9a25-587e453123e8 / REMONSTRATE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 53
+:END:
+諫@jiàn	[[tls:concept:REMONSTRATE::#uuid-3d0d8674-3181-45a6-9a25-587e453123e8][REMONSTRATE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / make a formal submission; raise formal objections, attempt to remonstrate directly
+** 則以為謗己也	then people will consider that he is slandering them.
+:PROPERTIES:
+:SRC: LY 19.10; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:12a07:1::則以 / 論語
+:CHARPOS: 1
+:END:
+*** 謗@bàng
+:PROPERTIES:
+:CONCEPT: uuid-5ddb3800-1aef-4077-9e69-5de2ff9865b7 / SLANDER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+謗@bàng	[[tls:concept:SLANDER::#uuid-5ddb3800-1aef-4077-9e69-5de2ff9865b7][SLANDER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / slander someone behind his back, criticize someone behind his back; complain about somebehind people's back
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1 / SELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 5
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1][SELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / object pronoun, resumptive, non-contrastive: oneself, himself, herself, themselves
+** 大德不踰閑	"If in matters of all-important virtue one does not overstep one's bounds,
+:PROPERTIES:
+:SRC: LY 19.11; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:13a02:1::「大 / 論語
+:CHARPOS: 1
+:END:
+*** 大@dà
+:PROPERTIES:
+:CONCEPT: uuid-9e9e76cd-5c23-4be2-9cb8-4df692edb674 / GREAT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CONCEPT: uuid-8479b74f-7c42-452e-9594-8973bfedfdd8 / CRIME
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 1
+:END:
+大@dà	[[tls:concept:GREAT::#uuid-9e9e76cd-5c23-4be2-9cb8-4df692edb674][GREAT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / large-scale, great; overall (not partial or small-minded); fundamental; of a higher order
+〓#逾閑@yúxián	[[tls:concept:CRIME::#uuid-8479b74f-7c42-452e-9594-8973bfedfdd8][CRIME]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / transgress the norms
+** 小德出入可也	then if in minor virtues there are minor deviations that is acceptable."
+:PROPERTIES:
+:SRC: LY 19.11; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:13a03:50::小德 / 論語
+:CHARPOS: 50
+:END:
+*** 小@xiǎo
+:PROPERTIES:
+:CONCEPT: uuid-0fdd5376-b573-4e8a-9db5-b638fe4116ba / SMALL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 50
+:END:
+小@xiǎo	[[tls:concept:SMALL::#uuid-0fdd5376-b573-4e8a-9db5-b638fe4116ba][SMALL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / abstractly: slight, insignificant (mistakes etc); minor
+*** 出入@chūrù
+:PROPERTIES:
+:CONCEPT: uuid-a7ee19bb-35eb-4b13-bb51-be8f57cef02c / DIFFERENT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+出入@chūrù	[[tls:concept:DIFFERENT::#uuid-a7ee19bb-35eb-4b13-bb51-be8f57cef02c][DIFFERENT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / deviate
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-ab442359-6071-46de-9e8c-93e9595958e3 / APPROPRIATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e1f5c806-95f2-48a8-ac47-1016f7ee5801
+:CHARPOS: 54
+:END:
+可@kě	[[tls:concept:APPROPRIATE::#uuid-ab442359-6071-46de-9e8c-93e9595958e3][APPROPRIATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e1f5c806-95f2-48a8-ac47-1016f7ee5801][subject=action]]} / be advisable; be acceptable; be agreeable (to do something); be commendable; be right; appropriate
+** 子夏之門人小子	"As for Zǐxià's little disciples
+:PROPERTIES:
+:SRC: LY 19.12:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:14a02:1::「子 / 論語
+:CHARPOS: 1
+:END:
+*** 門人@ménrén
+:PROPERTIES:
+:CONCEPT: uuid-ea8e3193-948f-4475-8ac4-a077335d6103 / STUDENT
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 4
+:END:
+門人@ménrén	[[tls:concept:STUDENT::#uuid-ea8e3193-948f-4475-8ac4-a077335d6103][STUDENT]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / disciples, adherents
+*** 小子@xiǎozǐ
+:PROPERTIES:
+:CONCEPT: uuid-ba2344f3-7613-4fd7-83e9-be5e4fd76156 / STUDENT
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-3903ed14-2d1f-4023-af77-5fb0374501a2
+:CHARPOS: 6
+:END:
+小子@xiǎozǐ	[[tls:concept:STUDENT::#uuid-ba2344f3-7613-4fd7-83e9-be5e4fd76156][STUDENT]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-3903ed14-2d1f-4023-af77-5fb0374501a2][vocative]]} / little ones, disciples
+** 當洒埽應對	when it comes to washing and sweeping, and the making of spontaneous answers
+:PROPERTIES:
+:SRC: LY 19.12:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:14a03:50::當洒 / 論語
+:CHARPOS: 50
+:END:
+*** 當@dāng
+:PROPERTIES:
+:CONCEPT: uuid-d0e13d49-43d9-40cd-9a3d-473977dea38d / WHEN
+:SYN-FUNC: uuid-eff96969-dfb1-4cc3-9784-3851c19c3f27
+:CONCEPT: uuid-fc1431c7-3231-434b-985f-35d04de111ef / SWEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+當@dāng	[[tls:concept:WHEN::#uuid-d0e13d49-43d9-40cd-9a3d-473977dea38d][WHEN]]	V [[tls:syn-func::#uuid-eff96969-dfb1-4cc3-9784-3851c19c3f27][vt0oN.adS]] / when it came to, at (such-and-such a time); during
+掃@sǎo	[[tls:concept:SWEEP::#uuid-fc1431c7-3231-434b-985f-35d04de111ef][SWEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / do the sweeping with a broom
+*** 應對@yìngduì
+:PROPERTIES:
+:CONCEPT: uuid-80bab247-e6f7-41ea-95fa-67b71cc5668d / ANSWER
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CONCEPT: uuid-8a118745-6c8f-4171-bb1e-f0d99e66272e / WASH
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 53
+:END:
+應對@yìngduì	[[tls:concept:ANSWER::#uuid-80bab247-e6f7-41ea-95fa-67b71cc5668d][ANSWER]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / make an immediate answer, answer quickly
+〓#洗@xǐ / 灑@xǐ	[[tls:concept:WASH::#uuid-8a118745-6c8f-4171-bb1e-f0d99e66272e][WASH]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / wash things
+** 進退則可矣	and when it comes to moving forward and withdrawing, they are acceptable.
+:PROPERTIES:
+:SRC: LY 19.12:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:14a04:50::進退 / 論語
+:CHARPOS: 50
+:END:
+*** 進@jìn
+:PROPERTIES:
+:CONCEPT: uuid-8993edff-729a-41a2-b060-62778fdacfd8 / ADVANCE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+進@jìn	[[tls:concept:ADVANCE::#uuid-8993edff-729a-41a2-b060-62778fdacfd8][ADVANCE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / move forward, step forward, come forward
+*** 退@tuì
+:PROPERTIES:
+:CONCEPT: uuid-0347d22a-1665-4b77-a718-a127c0b08044 / WITHDRAW
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 51
+:END:
+退@tuì	[[tls:concept:WITHDRAW::#uuid-0347d22a-1665-4b77-a718-a127c0b08044][WITHDRAW]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / move backward, (typically decide to) withdraw (usually to the point where one came from); leave, leave the room; withdraw from court; imp: out of my sight!
+** 抑末也	However, these are marginal details.
+:PROPERTIES:
+:SRC: LY 19.12:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:14a05:50::抑末 / 論語
+:CHARPOS: 50
+:END:
+*** 抑@yì
+:PROPERTIES:
+:CONCEPT: uuid-d8fb0feb-9dc4-484e-af43-9bcd93cf83c4 / BUT
+:SYN-FUNC: uuid-d4e1570d-69fc-493c-b2ec-d1f0f5b56e05
+:SEM-FEAT: uuid-58692f8a-1953-4f21-85a1-bba63f0cc785
+:CHARPOS: 50
+:END:
+抑@yì	[[tls:concept:BUT::#uuid-d8fb0feb-9dc4-484e-af43-9bcd93cf83c4][BUT]]	P [[tls:syn-func::#uuid-d4e1570d-69fc-493c-b2ec-d1f0f5b56e05][padS1.post-S2]] {[[tls:sem-feat::#uuid-58692f8a-1953-4f21-85a1-bba63f0cc785][adversative]]} / however,...
+*** 末@mò
+:PROPERTIES:
+:CONCEPT: uuid-7a1c39e0-bf42-4970-93a1-53be6afd52b8 / UNIMPORTANT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 51
+:END:
+末@mò	[[tls:concept:UNIMPORTANT::#uuid-7a1c39e0-bf42-4970-93a1-53be6afd52b8][UNIMPORTANT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / what is not basic; what is marginal; what comes at the end (and not at the beginning); mere marginal symptoms (as opposed to real basic causes); non-basic professions other than military and agricultural
+** 本之則無	When it comes to what is fundamental then that they are lacking.
+:PROPERTIES:
+:SRC: LY 19.12:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:14a06:50::本之 / 論語
+:CHARPOS: 50
+:END:
+*** 無@wú / 毋@wú / 亡@wáng / 无@wú
+:PROPERTIES:
+:CONCEPT: uuid-8cba9fb3-fdc8-401c-b682-924407fc640f / LACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+無@wú / 毋@wú / 亡@wáng / 无@wú	[[tls:concept:LACK::#uuid-8cba9fb3-fdc8-401c-b682-924407fc640f][LACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lack, be without; make do without; imply no (harm or loss); lack the support of (subordinates)
+** 如之何	How can that be?"
+:PROPERTIES:
+:SRC: LY 19.12:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:14a07:50::如之 / 論語
+:CHARPOS: 50
+:END:
+*** 何@hé
+:PROPERTIES:
+:CONCEPT: uuid-e3f108c9-a4c8-4cee-b92c-229a4256e2be / HOW
+:SYN-FUNC: uuid-35d0a7de-250e-4966-802b-f9b6605aa8bd
+:CHARPOS: 52
+:END:
+何@hé	[[tls:concept:HOW::#uuid-e3f108c9-a4c8-4cee-b92c-229a4256e2be][HOW]]	N [[tls:syn-func::#uuid-35d0a7de-250e-4966-802b-f9b6605aa8bd][npro.postV]] / how? 如之何
+** 噫	"Ah!
+:PROPERTIES:
+:SRC: LY 19.12:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:15a02:1::「噫 / 論語
+:CHARPOS: 1
+:END:
+*** 噫@yī / @
+:PROPERTIES:
+:CONCEPT: uuid-4baff4ba-0b7f-4ea6-b971-1109ea3e651b / SIGH
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:SEM-FEAT: uuid-80c100cf-281f-43b5-bea3-891d842fd098
+:CHARPOS: 1
+:END:
+噫@yī / @	[[tls:concept:SIGH::#uuid-4baff4ba-0b7f-4ea6-b971-1109ea3e651b][SIGH]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] {[[tls:sem-feat::#uuid-80c100cf-281f-43b5-bea3-891d842fd098][exclamatory]]} / negative: oh!
+** 言游過矣	Yányóu is wrong.
+:PROPERTIES:
+:SRC: LY 19.12:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:15a03:50::言游 / 論語
+:CHARPOS: 50
+:END:
+*** 過@guò
+:PROPERTIES:
+:CONCEPT: uuid-26b7b4b6-737f-49f7-a575-088f4b3926fb / MISTAKE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+過@guò	[[tls:concept:MISTAKE::#uuid-26b7b4b6-737f-49f7-a575-088f4b3926fb][MISTAKE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / miss the mark; go too far; get it wrong, be wrong, be mistaken; make an inadvertent minor mistake
+** 君子之道	As for the Way of the superior man
+:PROPERTIES:
+:SRC: LY 19.12:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:15a04:50::君子 / 論語
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-6ea78f1e-ce69-4ef6-9ed4-5c5b06101d30 / GOOD
+:SYN-FUNC: uuid-14b56546-32fd-4321-8d73-3e4b18316c15
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-6ea78f1e-ce69-4ef6-9ed4-5c5b06101d30][GOOD]]	N [[tls:syn-func::#uuid-14b56546-32fd-4321-8d73-3e4b18316c15][NPadN]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / in modifying position 君子之道 [NOT: the Way of gentleman X]
+** 孰先傳焉	To whom it is transmitted first
+:PROPERTIES:
+:SRC: LY 19.12:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:15a05:50::孰先 / 論語
+:CHARPOS: 50
+:END:
+*** 孰@shú
+:PROPERTIES:
+:CONCEPT: uuid-bc1a36f9-f737-44b0-bae2-d0b42333ec7e / ANY
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 50
+:END:
+孰@shú	[[tls:concept:ANY::#uuid-bc1a36f9-f737-44b0-bae2-d0b42333ec7e][ANY]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / whoever... he 孰先傳焉，孰後倦焉！
+*** 先@xiān / 先@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-8733a80d-b172-4953-a88e-009d23be5fbe / PRECEDE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-0b8a684c-8893-4f48-8bf5-95250a8cbdc1
+:CHARPOS: 51
+:END:
+先@xiān / 先@xiàn	[[tls:concept:PRECEDE::#uuid-8733a80d-b172-4953-a88e-009d23be5fbe][PRECEDE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-0b8a684c-8893-4f48-8bf5-95250a8cbdc1][superlative]]} / as the first, first
+*** 傳@chuán
+:PROPERTIES:
+:CONCEPT: uuid-c8fa6237-6bc0-4521-be19-823b63a6cbdb / TRANSMIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+傳@chuán	[[tls:concept:TRANSMIT::#uuid-c8fa6237-6bc0-4521-be19-823b63a6cbdb][TRANSMIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / have handed down to one
+** 孰後倦焉	he will tire of it last.
+:PROPERTIES:
+:SRC: LY 19.12:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:15a06:50::孰後 / 論語
+:CHARPOS: 50
+:END:
+*** 後@hòu
+:PROPERTIES:
+:CONCEPT: uuid-1f0218a0-8fb1-40a4-9d8b-aa15a64df44c / LAST
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-0b8a684c-8893-4f48-8bf5-95250a8cbdc1
+:CHARPOS: 51
+:END:
+後@hòu	[[tls:concept:LAST::#uuid-1f0218a0-8fb1-40a4-9d8b-aa15a64df44c][LAST]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-0b8a684c-8893-4f48-8bf5-95250a8cbdc1][superlative]]} / last
+*** 倦@juàn
+:PROPERTIES:
+:CONCEPT: uuid-5d05bc78-d35c-4c88-8ba9-4712e85ce3c3 / TIRED
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+倦@juàn	[[tls:concept:TIRED::#uuid-5d05bc78-d35c-4c88-8ba9-4712e85ce3c3][TIRED]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / mostly negated: get tired; be exasperated by; get weary (through excessive effort)
+** 譬諸草木	It can be compared to shrubs and trees,
+:PROPERTIES:
+:SRC: LY 19.12:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:15a07:50::譬諸 / 論語
+:CHARPOS: 50
+:END:
+*** 譬諸@pìzhū
+:PROPERTIES:
+:CONCEPT: uuid-beab9f57-99d7-4082-beea-016ca4f8e186 / RESEMBLE
+:SYN-FUNC: uuid-6c70a0a6-3c36-43e6-98b8-884e110ac8d4
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 50
+:END:
+譬諸@pìzhū	[[tls:concept:RESEMBLE::#uuid-beab9f57-99d7-4082-beea-016ca4f8e186][RESEMBLE]]	V [[tls:syn-func::#uuid-6c70a0a6-3c36-43e6-98b8-884e110ac8d4][VPt{0}+N]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / One may compare the thing to N. It is like (often preceded by what we take to be a topic rather than a subject, which is picked up referentially by the 之 hidden in 諸)
+*** 譬@pì
+:PROPERTIES:
+:CONCEPT: uuid-8c986787-251e-4860-ace6-1bd3083b44fa / COMPARE
+:SYN-FUNC: uuid-9b1f4363-4dee-42d9-9b0a-93ade04ef070
+:CHARPOS: 50
+:END:
+譬@pì	[[tls:concept:COMPARE::#uuid-8c986787-251e-4860-ace6-1bd3083b44fa][COMPARE]]	V [[tls:syn-func::#uuid-9b1f4363-4dee-42d9-9b0a-93ade04ef070][vtt{0}oNpro.+prep+N]] / compare (something) to (something)
+*** 草木@cǎomù
+:PROPERTIES:
+:CONCEPT: uuid-86fe3591-ace4-4020-b6f9-ad15753775e3 / PLANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+草木@cǎomù	[[tls:concept:PLANT::#uuid-86fe3591-ace4-4020-b6f9-ad15753775e3][PLANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / vegetation; plants and trees; plants (including, for example, flowers which are neither trees, shrubs or grasses)
+** 區以別矣	one holds them apart so that they are distinguished.
+:PROPERTIES:
+:SRC: LY 19.12:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:15a08:50::區以 / 論語
+:CHARPOS: 50
+:END:
+*** 區@qū
+:PROPERTIES:
+:CONCEPT: uuid-471fb19a-3a98-4838-8233-797942639364 / DISTINGUISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 50
+:END:
+區@qū	[[tls:concept:DISTINGUISH::#uuid-471fb19a-3a98-4838-8233-797942639364][DISTINGUISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be separated out; be demarkated
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-5fab57ea-9f23-4e94-b2c6-e8b4651d11b2 / INTEND
+:SYN-FUNC: uuid-697f41bc-30fe-498c-a714-7cdbcd06d898
+:CHARPOS: 51
+:END:
+以@yǐ	[[tls:concept:INTEND::#uuid-5fab57ea-9f23-4e94-b2c6-e8b4651d11b2][INTEND]]	V [[tls:syn-func::#uuid-697f41bc-30fe-498c-a714-7cdbcd06d898][vt+V1.postadV2]] / intending thereby to, in order to; in order to; so that one can
+*** 別@bié
+:PROPERTIES:
+:CONCEPT: uuid-8e030e1f-f781-4399-8c24-f25c8f11edaf / DISTINGUISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+別@bié	[[tls:concept:DISTINGUISH::#uuid-8e030e1f-f781-4399-8c24-f25c8f11edaf][DISTINGUISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / to be distinguished; be held apart intellectually
+** 有始有卒者	As for a person who has both beginning and end, [i.e. who "hangs together in this way"]
+:PROPERTIES:
+:SRC: LY 19.12:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:15a11:1::有始 / 論語
+:CHARPOS: 1
+:END:
+*** 始@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-0bbd0bfa-0082-4c14-96e2-86c6437036f5 / BEGIN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 2
+:END:
+始@shǐ	[[tls:concept:BEGIN::#uuid-0bbd0bfa-0082-4c14-96e2-86c6437036f5][BEGIN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / beginning, the initial state as a dynamic state motivating what happens after that beginning; proper beginning; original cause, Greek: archē;
+*** 卒@zú
+:PROPERTIES:
+:CONCEPT: uuid-2b59af84-d630-4a8c-96f4-1ed2137b538a / END
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+卒@zú	[[tls:concept:END::#uuid-2b59af84-d630-4a8c-96f4-1ed2137b538a][END]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / end
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-612b6390-9daf-475d-9638-9c109cfa6396 / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-853ef17d-4259-4efd-ad28-171239b0182b
+:CHARPOS: 5
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-612b6390-9daf-475d-9638-9c109cfa6396][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-853ef17d-4259-4efd-ad28-171239b0182b][no definite referent]]} / subject(s) of V generally (often generic, the verb typically untensed) sometimes with large scope: 有國有家者
+** 其唯聖人乎	I suppose, is only the sage."
+:PROPERTIES:
+:SRC: LY 19.12:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:15a12:50::其唯 / 論語
+:CHARPOS: 50
+:END:
+*** 其@qí
+:PROPERTIES:
+:CONCEPT: uuid-c5f8e9e5-9a4e-41e2-8f62-0f008c52b1ec / PROBABLE
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 50
+:END:
+其@qí	[[tls:concept:PROBABLE::#uuid-c5f8e9e5-9a4e-41e2-8f62-0f008c52b1ec][PROBABLE]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / presumably, - I suppose -, perhaps; apparently???
+** 仕而優則學	"If one excels in public employment then one engages in study;
+:PROPERTIES:
+:SRC: LY 19.13; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:16a02:1::「仕 / 論語
+:CHARPOS: 1
+:END:
+*** 仕@shì
+:PROPERTIES:
+:CONCEPT: uuid-c4026c99-786d-4e5e-be7d-997865ca0a86 / OFFICIAL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 1
+:END:
+仕@shì	[[tls:concept:OFFICIAL::#uuid-c4026c99-786d-4e5e-be7d-997865ca0a86][OFFICIAL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / serve as an official; hold a public appointment
+*** 優@yōu
+:PROPERTIES:
+:CONCEPT: uuid-b6ebe3cb-524d-416d-a474-b4e1eca4e465 / EXCELLENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+優@yōu	[[tls:concept:EXCELLENT::#uuid-b6ebe3cb-524d-416d-a474-b4e1eca4e465][EXCELLENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be excellent, be outstanding; be more than qualified (to perform a function); excel
+*** 學@xué
+:PROPERTIES:
+:CONCEPT: uuid-af79bba7-a472-4847-8296-d7dc24ddf609 / STUDY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+學@xué	[[tls:concept:STUDY::#uuid-af79bba7-a472-4847-8296-d7dc24ddf609][STUDY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / devote oneself to study; be devoted to study; engage in intellectual work; work to improve oneself morally/intellectually
+** 學而優則仕	if one excels in study then one gets public employment."
+:PROPERTIES:
+:SRC: LY 19.13; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:16a03:50::學而 / 論語
+:CHARPOS: 50
+:END:
+*** 優@yōu
+:PROPERTIES:
+:CONCEPT: uuid-b6ebe3cb-524d-416d-a474-b4e1eca4e465 / EXCELLENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 52
+:END:
+優@yōu	[[tls:concept:EXCELLENT::#uuid-b6ebe3cb-524d-416d-a474-b4e1eca4e465][EXCELLENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be excellent, be outstanding; be more than qualified (to perform a function); excel
+*** 仕@shì
+:PROPERTIES:
+:CONCEPT: uuid-c4026c99-786d-4e5e-be7d-997865ca0a86 / OFFICIAL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 54
+:END:
+仕@shì	[[tls:concept:OFFICIAL::#uuid-c4026c99-786d-4e5e-be7d-997865ca0a86][OFFICIAL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / serve as an official; hold a public appointment
+** 喪致乎哀而止	"When mourning gets to the stage of real grief then it stops."
+:PROPERTIES:
+:SRC: LY 19.14; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:17a02:1::「喪 / 論語
+:CHARPOS: 1
+:END:
+*** 喪@sāng
+:PROPERTIES:
+:CONCEPT: uuid-ed234a59-2adb-4bec-b5da-49067a053b58 / MOURNING
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+喪@sāng	[[tls:concept:MOURNING::#uuid-ed234a59-2adb-4bec-b5da-49067a053b58][MOURNING]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / mourning; burial; funeral arrangements
+*** 致@zhì
+:PROPERTIES:
+:CONCEPT: uuid-e9c5e84d-98d1-4330-aeda-d101bf4a0da0 / REACH
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 2
+:END:
+致@zhì	[[tls:concept:REACH::#uuid-e9c5e84d-98d1-4330-aeda-d101bf4a0da0][REACH]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / reach the point of (N) 致乎哀
+*** 哀@āi
+:PROPERTIES:
+:CONCEPT: uuid-2e383a56-6155-4497-9883-b9aad4713814 / GRIEF
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+哀@āi	[[tls:concept:GRIEF::#uuid-2e383a56-6155-4497-9883-b9aad4713814][GRIEF]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / deeply felt comendable grief; proper grief
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-29bf42ba-c2f9-4410-bea3-0b2e0ec0aebf / THEN
+:SYN-FUNC: uuid-925d397f-870d-467f-a70b-09317a5160ae
+:SEM-FEAT: uuid-f7823965-d29e-4ca7-ab59-52cfeb09515c
+:CHARPOS: 5
+:END:
+而@ér	[[tls:concept:THEN::#uuid-29bf42ba-c2f9-4410-bea3-0b2e0ec0aebf][THEN]]	P [[tls:syn-func::#uuid-925d397f-870d-467f-a70b-09317a5160ae][padV.post-S]] {[[tls:sem-feat::#uuid-f7823965-d29e-4ca7-ab59-52cfeb09515c][temporal]]} / then
+** 吾友張也	"As for my friend Zhāng,
+:PROPERTIES:
+:SRC: LY 19.15; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:18a02:1::「吾 / 論語
+:CHARPOS: 1
+:END:
+*** 友@yǒu
+:PROPERTIES:
+:CONCEPT: uuid-7fb2d0a6-c0eb-401c-b81b-389241293159 / FRIEND
+:SYN-FUNC: uuid-3473071e-1407-4804-a185-2db288ee8726
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 2
+:END:
+友@yǒu	[[tls:concept:FRIEND::#uuid-7fb2d0a6-c0eb-401c-b81b-389241293159][FRIEND]]	N [[tls:syn-func::#uuid-3473071e-1407-4804-a185-2db288ee8726][nt]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / friend
+*** 也@yě
+:PROPERTIES:
+:CONCEPT: uuid-42493b46-fa43-4801-ae54-49533518d815 / TOPIC MARKER
+:SYN-FUNC: uuid-12763e64-b2f2-4d72-85a6-2f6157b3f7d5
+:CHARPOS: 4
+:END:
+也@yě	[[tls:concept:TOPIC MARKER::#uuid-42493b46-fa43-4801-ae54-49533518d815][TOPIC MARKER]]	P [[tls:syn-func::#uuid-12763e64-b2f2-4d72-85a6-2f6157b3f7d5][ppostNpr{SUBJ}.+V{PRED}]] / after personal names: that fellow NN; our friend NN; our friends NN and NN
+** 為難能也	does things that are hard to do (i.e. is someone whose level is hard to achieve).
+:PROPERTIES:
+:SRC: LY 19.15; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:18a02:50::為難 / 論語
+:CHARPOS: 50
+:END:
+*** 難@nán
+:PROPERTIES:
+:CONCEPT: uuid-d9306c03-95bf-4163-a513-fa5d980f853c / DIFFICULT
+:SYN-FUNC: uuid-52110676-c76e-45d3-858e-d11b23d8f7b4
+:CHARPOS: 51
+:END:
+難@nán	[[tls:concept:DIFFICULT::#uuid-d9306c03-95bf-4163-a513-fa5d980f853c][DIFFICULT]]	V [[tls:syn-func::#uuid-52110676-c76e-45d3-858e-d11b23d8f7b4][vt+V{0}{PASS}]] / be hard to V
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-061cd196-c179-451e-8056-7f488ca580bf / ABLE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-061cd196-c179-451e-8056-7f488ca580bf][ABLE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be competently mastered
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-246eaafe-3f5e-47bd-88ab-aebd6ef3c103 / ACHIEVE
+:SYN-FUNC: uuid-0b09b6e0-ddea-45f8-8b4a-5d427d67044b
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+能@néng	[[tls:concept:ACHIEVE::#uuid-246eaafe-3f5e-47bd-88ab-aebd6ef3c103][ACHIEVE]]	 [[tls:syn-func::#uuid-0b09b6e0-ddea-45f8-8b4a-5d427d67044b][vt+V(0)]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be achieved LY
+** 然而未仁	And yet he is not quite Good."
+:PROPERTIES:
+:SRC: LY 19.15; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:18a03:50::然而 / 論語
+:CHARPOS: 50
+:END:
+*** 然而@ránér
+:PROPERTIES:
+:CONCEPT: uuid-38122fd6-3ed2-47f5-b484-dab032a8c81b / NONETHELESS
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:CHARPOS: 50
+:END:
+然而@ránér	[[tls:concept:NONETHELESS::#uuid-38122fd6-3ed2-47f5-b484-dab032a8c81b][NONETHELESS]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] / however
+*** 未@wèi
+:PROPERTIES:
+:CONCEPT: uuid-a0ead14d-3ae6-48e4-8e6b-79f70a455d21 / NOT
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-6527909e-edf7-4b9a-8065-58f5fd5c45c6
+:CHARPOS: 52
+:END:
+未@wèi	[[tls:concept:NOT::#uuid-a0ead14d-3ae6-48e4-8e6b-79f70a455d21][NOT]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-6527909e-edf7-4b9a-8065-58f5fd5c45c6][logical]]} / not quite; not really
+** 堂堂乎張也	"How elevated and dignified Zhāng is.
+:PROPERTIES:
+:SRC: LY 19.16; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:19a02:1::「堂 / 論語
+:CHARPOS: 1
+:END:
+*** 堂堂@tángtáng
+:PROPERTIES:
+:CONCEPT: uuid-3586b6b2-0597-46e2-b2ba-7598a9d5c628 / HIGH
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+堂堂@tángtáng	[[tls:concept:HIGH::#uuid-3586b6b2-0597-46e2-b2ba-7598a9d5c628][HIGH]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be elevated and dignified
+** 難與並為仁矣	It is hard to count as Good side by side with him."
+:PROPERTIES:
+:SRC: LY 19.16; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:19a03:50::難與 / 論語
+:CHARPOS: 50
+:END:
+*** 難@nán
+:PROPERTIES:
+:CONCEPT: uuid-d9306c03-95bf-4163-a513-fa5d980f853c / DIFFICULT
+:SYN-FUNC: uuid-52110676-c76e-45d3-858e-d11b23d8f7b4
+:CHARPOS: 50
+:END:
+難@nán	[[tls:concept:DIFFICULT::#uuid-d9306c03-95bf-4163-a513-fa5d980f853c][DIFFICULT]]	V [[tls:syn-func::#uuid-52110676-c76e-45d3-858e-d11b23d8f7b4][vt+V{0}{PASS}]] / be hard to V
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-1aed5b80-71a8-4094-ada7-8bc457901b17 / WITH
+:SYN-FUNC: uuid-13b2796a-1d8c-4ee2-88a1-0aaca4254b56
+:SEM-FEAT: uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd
+:CHARPOS: 51
+:END:
+與@yǔ	[[tls:concept:WITH::#uuid-1aed5b80-71a8-4094-ada7-8bc457901b17][WITH]]	V [[tls:syn-func::#uuid-13b2796a-1d8c-4ee2-88a1-0aaca4254b56][vt(oN.)adV]] {[[tls:sem-feat::#uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd][om]]} / with him, with them, etc. 與戰fought a battle with him, 與知: Greek suneidein "be co-aware of"
+*** 並@bìng
+:PROPERTIES:
+:CONCEPT: uuid-19581dc6-8143-452f-9232-abee629a6a05 / TOGETHER
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+並@bìng	[[tls:concept:TOGETHER::#uuid-19581dc6-8143-452f-9232-abee629a6a05][TOGETHER]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / shoulder to shoulder, together, side by side; momentaneously; at the same time; 十日並出
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-0105a3da-6294-4e25-a790-6b1e42cae371 / COPULA
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:CHARPOS: 53
+:END:
+為@wéi	[[tls:concept:COPULA::#uuid-0105a3da-6294-4e25-a790-6b1e42cae371][COPULA]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] / count as N, be Npr, be an N
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-bd3fae79-8610-4236-a1db-d1b0941a2a75 / BENEVOLENCE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 54
+:END:
+仁@rén	[[tls:concept:BENEVOLENCE::#uuid-bd3fae79-8610-4236-a1db-d1b0941a2a75][BENEVOLENCE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be good in disposition, be humane in disposition, be of kindly disposition
+** 吾聞諸夫子	"I have heard it from our Master:
+:PROPERTIES:
+:SRC: LY 19.17; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:20a02:1::「吾 / 論語
+:CHARPOS: 1
+:END:
+*** 夫子@fūzǐ
+:PROPERTIES:
+:CONCEPT: uuid-dba8c93d-5639-4363-b8f8-3676d967af16 / TEACHER
+:SYN-FUNC: uuid-0c513944-f90e-42df-a8ad-65300f05c945
+:CHARPOS: 4
+:END:
+夫子@fūzǐ	[[tls:concept:TEACHER::#uuid-dba8c93d-5639-4363-b8f8-3676d967af16][TEACHER]]	N [[tls:syn-func::#uuid-0c513944-f90e-42df-a8ad-65300f05c945][NP{post-N}]] / our Master; the master
+** 人未有自致者也必也	'By necessity man never succeeds all by himself, -
+:PROPERTIES:
+:SRC: LY 19.17; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:20a03:50::『人 / 論語
+:CHARPOS: 50
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-5bd9d782-4f36-4d08-86b1-e28d2acf39e5 / HUMAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-5bd9d782-4f36-4d08-86b1-e28d2acf39e5][HUMAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / man in general; man in the true sense of that word, man who deserves the name of man
+*** 未@wèi
+:PROPERTIES:
+:CONCEPT: uuid-9f7b4151-996b-4c05-8cda-b3e8bae8592d / NEVER
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 51
+:END:
+未@wèi	[[tls:concept:NEVER::#uuid-9f7b4151-996b-4c05-8cda-b3e8bae8592d][NEVER]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / never 未之V也 as a pattern tends to mean "have never Ved it"
+*** 致@zhì
+:PROPERTIES:
+:CONCEPT: uuid-61dca38e-997e-4846-b492-d9fc72397d68 / SUCCEED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 54
+:END:
+致@zhì	[[tls:concept:SUCCEED::#uuid-61dca38e-997e-4846-b492-d9fc72397d68][SUCCEED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause (oneself) to succeed
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 55
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / someone who V-s (typically tensed); anyone who V-s
+*** 也@yě
+:PROPERTIES:
+:CONCEPT: uuid-23432bd0-365d-4be8-9e6a-1223684752a6 / TOPIC MARKER
+:SYN-FUNC: uuid-c086c9bd-8ec5-463f-9803-c938c8b0d4d9
+:SEM-FEAT: uuid-d135528d-b81d-4728-bf6a-cb27c7ab7e94
+:CHARPOS: 56
+:END:
+也@yě	[[tls:concept:TOPIC MARKER::#uuid-23432bd0-365d-4be8-9e6a-1223684752a6][TOPIC MARKER]]	P [[tls:syn-func::#uuid-c086c9bd-8ec5-463f-9803-c938c8b0d4d9][ppostadS]] {[[tls:sem-feat::#uuid-d135528d-b81d-4728-bf6a-cb27c7ab7e94][nominaliser]]} / post-sentential topic marker, marker of sentence topics
+*** 必@bì
+:PROPERTIES:
+:CONCEPT: uuid-10fe9f90-c2d7-4c0b-af8a-1d568def11a7 / CERTAIN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 57
+:END:
+必@bì	[[tls:concept:CERTAIN::#uuid-10fe9f90-c2d7-4c0b-af8a-1d568def11a7][CERTAIN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be inevitable, be absolutely predictable, be unavoidable be ineluctable
+** 親喪乎	or if at all on the occasion of funeral arrangements for his parents (when he is bereaved of his natural support)."
+:PROPERTIES:
+:SRC: LY 19.17; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:20a03:50::親喪 / 論語
+:CHARPOS: 50
+:END:
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-1cfb1034-c8e6-4e0f-9412-30268bc6c3e9 / PARENT
+:SYN-FUNC: uuid-f688791d-a18c-4bab-854f-b17a9f193cc5
+:CHARPOS: 50
+:END:
+親@qīn	[[tls:concept:PARENT::#uuid-1cfb1034-c8e6-4e0f-9412-30268bc6c3e9][PARENT]]	N [[tls:syn-func::#uuid-f688791d-a18c-4bab-854f-b17a9f193cc5][nt(post-N)]] / parents, one's parents
+*** 喪@sāng
+:PROPERTIES:
+:CONCEPT: uuid-ed234a59-2adb-4bec-b5da-49067a053b58 / MOURNING
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+喪@sāng	[[tls:concept:MOURNING::#uuid-ed234a59-2adb-4bec-b5da-49067a053b58][MOURNING]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / mourning; burial; funeral arrangements
+** 吾聞諸夫子	"I have heard it from our Master:
+:PROPERTIES:
+:SRC: LY 19.18; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:21a02:1::「吾 / 論語
+:CHARPOS: 1
+:END:
+*** 夫子@fūzǐ
+:PROPERTIES:
+:CONCEPT: uuid-dba8c93d-5639-4363-b8f8-3676d967af16 / TEACHER
+:SYN-FUNC: uuid-0c513944-f90e-42df-a8ad-65300f05c945
+:CHARPOS: 4
+:END:
+夫子@fūzǐ	[[tls:concept:TEACHER::#uuid-dba8c93d-5639-4363-b8f8-3676d967af16][TEACHER]]	N [[tls:syn-func::#uuid-0c513944-f90e-42df-a8ad-65300f05c945][NP{post-N}]] / our Master; the master
+** 孟莊子之孝也	'As for the filial piety of Mèng Zhuāngzǐ
+:PROPERTIES:
+:SRC: LY 19.18; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:21a03:50::『孟 / 論語
+:CHARPOS: 50
+:END:
+*** 孝@xiào
+:PROPERTIES:
+:CONCEPT: uuid-8ac21d7b-a007-4784-9337-70ec009ff267 / LOVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 54
+:END:
+孝@xiào	[[tls:concept:LOVE::#uuid-8ac21d7b-a007-4784-9337-70ec009ff267][LOVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / loving respect for one's parents and ancestors (see also VIRTUE)
+** 其他可能也	the other parts are possibly things that can be competently mastered
+:PROPERTIES:
+:SRC: LY 19.18; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:21a04:50::其他 / 論語
+:CHARPOS: 50
+:END:
+*** 其他@qítā
+:PROPERTIES:
+:CONCEPT: uuid-6b3778d8-6880-4c25-9af9-1ddfe47378ff / OTHER
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:CHARPOS: 50
+:END:
+其他@qítā	[[tls:concept:OTHER::#uuid-6b3778d8-6880-4c25-9af9-1ddfe47378ff][OTHER]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / the rest, everything else
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-96e50595-869b-4ae2-8657-6dafb8cfe759 / ABLE
+:SYN-FUNC: uuid-52110676-c76e-45d3-858e-d11b23d8f7b4
+:CHARPOS: 52
+:END:
+可@kě	[[tls:concept:ABLE::#uuid-96e50595-869b-4ae2-8657-6dafb8cfe759][ABLE]]	V [[tls:syn-func::#uuid-52110676-c76e-45d3-858e-d11b23d8f7b4][vt+V{0}{PASS}]] / transitive verb which takes passive objects as verb: be VERBable
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-061cd196-c179-451e-8056-7f488ca580bf / ABLE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-061cd196-c179-451e-8056-7f488ca580bf][ABLE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be competently mastered
+** 其不改父之臣與父之政	but his not changing his father's ministers or his administration,
+:PROPERTIES:
+:SRC: LY 19.18; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:21a05:50::其不 / 論語
+:CHARPOS: 50
+:END:
+*** 改@gǎi
+:PROPERTIES:
+:CONCEPT: uuid-71330bae-1ffb-4554-b4fc-b9f7e425c04a / IMPROVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-96334729-a7bf-4d6b-8324-149056b8196c
+:CHARPOS: 52
+:END:
+改@gǎi	[[tls:concept:IMPROVE::#uuid-71330bae-1ffb-4554-b4fc-b9f7e425c04a][IMPROVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-96334729-a7bf-4d6b-8324-149056b8196c][conative]]} / try to make better
+*** 父@fù
+:PROPERTIES:
+:CONCEPT: uuid-fea8db3b-876f-46cd-98eb-b236e8462431 / FATHER
+:SYN-FUNC: uuid-f688791d-a18c-4bab-854f-b17a9f193cc5
+:CHARPOS: 53
+:END:
+父@fù	[[tls:concept:FATHER::#uuid-fea8db3b-876f-46cd-98eb-b236e8462431][FATHER]]	N [[tls:syn-func::#uuid-f688791d-a18c-4bab-854f-b17a9f193cc5][nt(post-N)]] / the contextually definite father (of someone) as a referential term
+** 是難能也	such behaviour is indeed difficult to master competently.'"
+:PROPERTIES:
+:SRC: LY 19.18; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:21a06:50::是難 / 論語
+:CHARPOS: 50
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-31b6cad8-33aa-4e7a-95f3-26c210a27b7d / SUCH
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+是@shì	[[tls:concept:SUCH::#uuid-31b6cad8-33aa-4e7a-95f3-26c210a27b7d][SUCH]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / such an (as aforementioned) action, such behaviour
+*** 難@nán
+:PROPERTIES:
+:CONCEPT: uuid-d9306c03-95bf-4163-a513-fa5d980f853c / DIFFICULT
+:SYN-FUNC: uuid-52110676-c76e-45d3-858e-d11b23d8f7b4
+:CHARPOS: 51
+:END:
+難@nán	[[tls:concept:DIFFICULT::#uuid-d9306c03-95bf-4163-a513-fa5d980f853c][DIFFICULT]]	V [[tls:syn-func::#uuid-52110676-c76e-45d3-858e-d11b23d8f7b4][vt+V{0}{PASS}]] / be hard to V
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-061cd196-c179-451e-8056-7f488ca580bf / ABLE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-061cd196-c179-451e-8056-7f488ca580bf][ABLE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be competently mastered
+** 19.19孟氏使陽膚為士師	The Mèng clan sent Yángfú to act as Master of the Gentlemen
+:PROPERTIES:
+:SRC: LY 19.19; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:22a01:50::19 / 論語
+:CHARPOS: 50
+:END:
+*** 使@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-16ff4b06-d3bc-4584-9d99-2ba66bddf2f8 / COMMAND
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 57
+:END:
+使@shǐ	[[tls:concept:COMMAND::#uuid-16ff4b06-d3bc-4584-9d99-2ba66bddf2f8][COMMAND]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / ensure that someone does something> order someone to do something; dispatch someone to do something
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-c102cc2b-db8d-49de-8c1b-efa5af18412d / BECOME
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:CHARPOS: 60
+:END:
+為@wéi	[[tls:concept:BECOME::#uuid-c102cc2b-db8d-49de-8c1b-efa5af18412d][BECOME]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] / become (ruler etc)
+*** 士師@shìshī
+:PROPERTIES:
+:CONCEPT: uuid-4a08e5d4-fcbb-4c69-b1cf-e9026b5225a6 / JUDGE-OFFICIAL
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:CHARPOS: 61
+:END:
+士師@shìshī	[[tls:concept:JUDGE-OFFICIAL::#uuid-4a08e5d4-fcbb-4c69-b1cf-e9026b5225a6][JUDGE-OFFICIAL]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] / military officer responsible for discipline among the freemen or gentlemen; judge
+** 問於曾子	and they consulted Zēngzǐ on this.
+:PROPERTIES:
+:SRC: LY 19.19; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:22a02:50::問於 / 論語
+:CHARPOS: 50
+:END:
+*** 問@wèn
+:PROPERTIES:
+:CONCEPT: uuid-00533784-f629-4a12-95e4-6e8e389d0f32 / ASK
+:SYN-FUNC: uuid-9ec744e5-884d-4269-a320-91bc520c69a6
+:CHARPOS: 50
+:END:
+問@wèn	[[tls:concept:ASK::#uuid-00533784-f629-4a12-95e4-6e8e389d0f32][ASK]]	V [[tls:syn-func::#uuid-9ec744e5-884d-4269-a320-91bc520c69a6][vtt(oN1.)+prep+N2]] / ask (a person) about something contextually determinate 問於曾子
+*** 問@wèn
+:PROPERTIES:
+:CONCEPT: uuid-21a30eb4-7c05-4097-8cb8-47634b624906 / ASK
+:SYN-FUNC: uuid-9ec744e5-884d-4269-a320-91bc520c69a6
+:SEM-FEAT: uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd
+:CHARPOS: 50
+:END:
+問@wèn	[[tls:concept:ASK::#uuid-21a30eb4-7c05-4097-8cb8-47634b624906][ASK]]	V [[tls:syn-func::#uuid-9ec744e5-884d-4269-a320-91bc520c69a6][vtt(oN1.)+prep+N2]] {[[tls:sem-feat::#uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd][om]]} / to ask (somebody N2) about something contextually determinate N1　問於孔子
+** 上失其道	"The leadership has lost the right Way
+:PROPERTIES:
+:SRC: LY 19.19; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:22a04:1::「上 / 論語
+:CHARPOS: 1
+:END:
+*** 上@shàng
+:PROPERTIES:
+:CONCEPT: uuid-48a935cc-1ae8-41b6-abc6-106fc57900c9 / RULER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+上@shàng	[[tls:concept:RULER::#uuid-48a935cc-1ae8-41b6-abc6-106fc57900c9][RULER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the leadership, the authorities; one's ruler, the ruler; superiors; persons in high position
+*** 其@qí
+:PROPERTIES:
+:CONCEPT: uuid-2d20637a-a14e-4308-a35b-5f70e7994a97 / APPROPRIATE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 3
+:END:
+其@qí	[[tls:concept:APPROPRIATE::#uuid-2d20637a-a14e-4308-a35b-5f70e7994a97][APPROPRIATE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / the right kind of, the appropriate, the relevant, the suitable 其人
+** 民散久矣	and the people have been disunited for a long time.
+:PROPERTIES:
+:SRC: LY 19.19; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:22a05:50::民散 / 論語
+:CHARPOS: 50
+:END:
+*** 散@sàn
+:PROPERTIES:
+:CONCEPT: uuid-e95b14bb-5c44-40cd-bba1-9d8c933efdaa / SCATTER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 51
+:END:
+散@sàn	[[tls:concept:SCATTER::#uuid-e95b14bb-5c44-40cd-bba1-9d8c933efdaa][SCATTER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / scatter in all directions; be disunited
+** 如得其情	But when gets the facts straight
+:PROPERTIES:
+:SRC: LY 19.19; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:22a06:50::如得 / 論語
+:CHARPOS: 50
+:END:
+*** 如@rú
+:PROPERTIES:
+:CONCEPT: uuid-7a02979c-24df-41b1-b0d3-2e48fdfc4349 / IF
+:SYN-FUNC: uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37
+:SEM-FEAT: uuid-76a3454c-a084-47af-b1b2-9839a8900995
+:CHARPOS: 50
+:END:
+如@rú	[[tls:concept:IF::#uuid-7a02979c-24df-41b1-b0d3-2e48fdfc4349][IF]]	P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] {[[tls:sem-feat::#uuid-76a3454c-a084-47af-b1b2-9839a8900995][general]]} / if in general
+*** 情@qíng
+:PROPERTIES:
+:CONCEPT: uuid-4f2112cc-582f-4746-9ba4-8b75dda8e78e / REALITY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 53
+:END:
+情@qíng	[[tls:concept:REALITY::#uuid-4f2112cc-582f-4746-9ba4-8b75dda8e78e][REALITY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / real facts of a matter, real state of affairs; real facts of a case
+** 則哀矜而勿喜	then one should feel sympathy (with these people) and not be pleased with oneself (i.e. with this)."
+:PROPERTIES:
+:SRC: LY 19.19; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:22a07:50::則哀 / 論語
+:CHARPOS: 50
+:END:
+*** 哀矜@āijīn
+:PROPERTIES:
+:CONCEPT: uuid-05a4ed7a-5bb8-4e9d-8b91-7433aa154f75 / SYMPATHY
+:SYN-FUNC: uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d
+:CHARPOS: 51
+:END:
+哀矜@āijīn	[[tls:concept:SYMPATHY::#uuid-05a4ed7a-5bb8-4e9d-8b91-7433aa154f75][SYMPATHY]]	V [[tls:syn-func::#uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d][VPt(oN)]] / sympathise intensely with a contextually determinate object
+*** 勿@wù
+:PROPERTIES:
+:CONCEPT: uuid-2aaeba10-c8f5-4162-8889-ac557d10e0e8 / DON'T
+:SYN-FUNC: uuid-aa507e83-8c2c-4107-afa4-4e37309829f6
+:CHARPOS: 54
+:END:
+勿@wù	[[tls:concept:DON'T::#uuid-2aaeba10-c8f5-4162-8889-ac557d10e0e8][DON'T]]	 [[tls:syn-func::#uuid-aa507e83-8c2c-4107-afa4-4e37309829f6][vt{0}{NEG}+Vt(oN)]] / don't (verb the object)
+*** 喜@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-6ba1aa80-d525-4ce5-8d44-efb98f1881c9 / DELIGHT
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 55
+:END:
+喜@xǐ	[[tls:concept:DELIGHT::#uuid-6ba1aa80-d525-4ce5-8d44-efb98f1881c9][DELIGHT]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / be delighted that, be delighted about
+** 紂之不善	"The wickedness in Zhòu
+:PROPERTIES:
+:SRC: LY 19.20; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:23a02:1::「紂 / 論語
+:CHARPOS: 1
+:END:
+*** 不善@bùshàn
+:PROPERTIES:
+:CONCEPT: uuid-8ce8131f-48f5-42ff-935e-ab10a139a7cd / WICKED
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-9530ae9f-75b5-410f-9376-4472f38c74c0
+:CHARPOS: 3
+:END:
+不善@bùshàn	[[tls:concept:WICKED::#uuid-8ce8131f-48f5-42ff-935e-ab10a139a7cd][WICKED]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-9530ae9f-75b5-410f-9376-4472f38c74c0][litotes]]} / wickedness, bad actions; an action that is not good
+** 不如是之甚也	was not as bad as all that.
+:PROPERTIES:
+:SRC: LY 19.20; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:23a03:50::不如 / 論語
+:CHARPOS: 50
+:END:
+*** 如是@rúshì
+:PROPERTIES:
+:CONCEPT: uuid-50811868-0d2d-4c2f-ba92-9592180b1137 / RESEMBLE
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:CHARPOS: 51
+:END:
+如是@rúshì	[[tls:concept:RESEMBLE::#uuid-50811868-0d2d-4c2f-ba92-9592180b1137][RESEMBLE]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] / to this extent, in this way
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-0d20af46-b4ca-427e-b79f-74c7a110191b / GENITIVE PARTICLES
+:SYN-FUNC: uuid-d29eb70f-3afd-4216-9117-27d8a4a55a0b
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:GENITIVE PARTICLES::#uuid-0d20af46-b4ca-427e-b79f-74c7a110191b][GENITIVE PARTICLES]]	N [[tls:syn-func::#uuid-d29eb70f-3afd-4216-9117-27d8a4a55a0b][npro.postadV1:adV2]] / "to VP-Y to the extent of VP-Xing" 如是之甚
+*** 甚@shèn
+:PROPERTIES:
+:CONCEPT: uuid-f8ccb285-cb23-4205-aee8-f696825e0767 / INTENSELY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 54
+:END:
+甚@shèn	[[tls:concept:INTENSELY::#uuid-f8ccb285-cb23-4205-aee8-f696825e0767][INTENSELY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be intense; be excessive, be too much; often comparative: be more intense (than), more than 太甚
+** 是以君子惡居下流	That is why the superior man hates to live among the vulgar people,
+:PROPERTIES:
+:SRC: LY 19.20; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:23a04:50::是以 / 論語
+:CHARPOS: 50
+:END:
+*** 是以@shìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-72ee70b6-a77d-4b41-8a70-5ac5ddb8935b / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 50
+:END:
+是以@shìyǐ	[[tls:concept:THEREFORE::#uuid-72ee70b6-a77d-4b41-8a70-5ac5ddb8935b][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / subjective motivation: for that subjective reason; that is why, thus
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+*** 惡@wù
+:PROPERTIES:
+:CONCEPT: uuid-e4efc20f-980f-4d5b-a65f-632dc01eedbd / HATE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 54
+:END:
+惡@wù	[[tls:concept:HATE::#uuid-e4efc20f-980f-4d5b-a65f-632dc01eedbd][HATE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / hate to
+*** 居@jū
+:PROPERTIES:
+:CONCEPT: uuid-cf5174b9-2400-449e-a0f4-66d5326aa1a2 / DWELL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 55
+:END:
+居@jū	[[tls:concept:DWELL::#uuid-cf5174b9-2400-449e-a0f4-66d5326aa1a2][DWELL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / be situated in; have one's (permanent, or at least lasting) abode in; spend one's time (with someone); transferred: be in (such-and-such a condition)
+*** 下流@xiàliú
+:PROPERTIES:
+:CONCEPT: uuid-9b4d8567-612d-4625-a623-dac9735786a9 / HUMBLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 56
+:END:
+下流@xiàliú	[[tls:concept:HUMBLE::#uuid-9b4d8567-612d-4625-a623-dac9735786a9][HUMBLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / humble social position; morally lower reaches of society
+** 天下之惡皆歸焉	since all the wicked people of the world converge there.
+:PROPERTIES:
+:SRC: LY 19.20; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:23a05:50::天下 / 論語
+:CHARPOS: 50
+:END:
+*** 惡@è
+:PROPERTIES:
+:CONCEPT: uuid-5cfe877c-f68a-4eeb-a327-d92b82d0c66b / WICKED
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 53
+:END:
+惡@è	[[tls:concept:WICKED::#uuid-5cfe877c-f68a-4eeb-a327-d92b82d0c66b][WICKED]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the wicked
+*** 歸@guī
+:PROPERTIES:
+:CONCEPT: uuid-764cd5ec-a664-42de-9567-091a36437cb3 / RALLY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+歸@guī	[[tls:concept:RALLY::#uuid-764cd5ec-a664-42de-9567-091a36437cb3][RALLY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / rally to (a king or leader), converge on; rally to (a place); turn to, orientate oneself towards (an aim)
+** 君子之過也	"When a superior man makes a mistake
+:PROPERTIES:
+:SRC: LY 19.21; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:24a02:1::「君 / 論語
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+*** 過@guò
+:PROPERTIES:
+:CONCEPT: uuid-4a919c4e-cdb4-4009-bb3d-44fcc319b039 / CRIME
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+過@guò	[[tls:concept:CRIME::#uuid-4a919c4e-cdb4-4009-bb3d-44fcc319b039][CRIME]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / commit an offense, make a mistake
+** 如日月之食焉	that is like the sun or the moon eclipsing.
+:PROPERTIES:
+:SRC: LY 19.21; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:24a03:50::如日 / 論語
+:CHARPOS: 50
+:END:
+*** 如@rú
+:PROPERTIES:
+:CONCEPT: uuid-2fbc5046-af97-4c82-b1c6-4674f2d51312 / RESEMBLE
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 50
+:END:
+如@rú	[[tls:concept:RESEMBLE::#uuid-2fbc5046-af97-4c82-b1c6-4674f2d51312][RESEMBLE]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / 如日月之食焉 resemble a fact, situation or action expressed by a nominalised sentence
+** 過也	When he makes a mistake
+:PROPERTIES:
+:SRC: LY 19.21; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:24a04:50::過也 / 論語
+:CHARPOS: 50
+:END:
+*** 過@guò
+:PROPERTIES:
+:CONCEPT: uuid-4a919c4e-cdb4-4009-bb3d-44fcc319b039 / CRIME
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+過@guò	[[tls:concept:CRIME::#uuid-4a919c4e-cdb4-4009-bb3d-44fcc319b039][CRIME]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / commit an offense, make a mistake
+*** 也@yě
+:PROPERTIES:
+:CONCEPT: uuid-79ed5752-7e1d-46ca-9a51-e9fa9f36fdd8 / IF
+:SYN-FUNC: uuid-acfafcb7-9609-4e1a-8afb-f4be1c254f0a
+:CHARPOS: 51
+:END:
+也@yě	[[tls:concept:IF::#uuid-79ed5752-7e1d-46ca-9a51-e9fa9f36fdd8][IF]]	P [[tls:syn-func::#uuid-acfafcb7-9609-4e1a-8afb-f4be1c254f0a][ppostadS1.adS2]] / if ever S; even if ever
+** 人皆見之	everybody sees it;
+:PROPERTIES:
+:SRC: LY 19.21; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:24a05:50::人皆 / 論語
+:CHARPOS: 50
+:END:
+*** 見@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-3172ce4a-e0ea-45ce-9f2b-97a459425c85 / SEE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 52
+:END:
+見@jiàn	[[tls:concept:SEE::#uuid-3172ce4a-e0ea-45ce-9f2b-97a459425c85][SEE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / witness, be aware of, gain knowledge of, notice
+** 更也	when he makes up for it
+:PROPERTIES:
+:SRC: LY 19.21; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:24a06:50::更也 / 論語
+:CHARPOS: 50
+:END:
+*** 更@gēng
+:PROPERTIES:
+:CONCEPT: uuid-579ff930-2e3d-4919-93fd-49ef9c6a9e70 / CHANGE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+更@gēng	[[tls:concept:CHANGE::#uuid-579ff930-2e3d-4919-93fd-49ef9c6a9e70][CHANGE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / get to change, change one's orientation
+*** 也@yě
+:PROPERTIES:
+:CONCEPT: uuid-79ed5752-7e1d-46ca-9a51-e9fa9f36fdd8 / IF
+:SYN-FUNC: uuid-acfafcb7-9609-4e1a-8afb-f4be1c254f0a
+:CHARPOS: 51
+:END:
+也@yě	[[tls:concept:IF::#uuid-79ed5752-7e1d-46ca-9a51-e9fa9f36fdd8][IF]]	P [[tls:syn-func::#uuid-acfafcb7-9609-4e1a-8afb-f4be1c254f0a][ppostadS1.adS2]] / if ever S; even if ever
+** 人皆仰之	everybody is full of admiration for that."
+:PROPERTIES:
+:SRC: LY 19.21; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:24a07:50::人皆 / 論語
+:CHARPOS: 50
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-a1974a8d-dddd-4e24-a056-67271974ac70 / OTHER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 50
+:END:
+人@rén	[[tls:concept:OTHER::#uuid-a1974a8d-dddd-4e24-a056-67271974ac70][OTHER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / other persons; other people; all the other people
+*** 仰@yǎng
+:PROPERTIES:
+:CONCEPT: uuid-a6a499cb-6269-49dd-9609-4362902c48e5 / ADMIRE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+仰@yǎng	[[tls:concept:ADMIRE::#uuid-a6a499cb-6269-49dd-9609-4362902c48e5][ADMIRE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / look up towards and admire
+** 19.22衛公孫朝問於子貢曰	Gōngsūn Cháo of Wèy consulted Zǐgòng saying:
+:PROPERTIES:
+:SRC: LY 19.22; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:25a01:50::19 / 論語
+:CHARPOS: 50
+:END:
+*** 問@wèn
+:PROPERTIES:
+:CONCEPT: uuid-f5fcf899-ed80-4c8c-987e-27850a9724ee / ASK
+:SYN-FUNC: uuid-366376c2-3074-4851-9eca-afee54eb69e2
+:CHARPOS: 59
+:END:
+問@wèn	[[tls:concept:ASK::#uuid-f5fcf899-ed80-4c8c-987e-27850a9724ee][ASK]]	V [[tls:syn-func::#uuid-366376c2-3074-4851-9eca-afee54eb69e2][vt+prep+N.adV]] / 問於N曰 ZHUANG 問乎N曰
+** 仲尼焉學	"How could Confucius have studied with anyone (since he was such a unique sage)?"
+:PROPERTIES:
+:SRC: LY 19.22; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:25a02:50::「仲 / 論語
+:CHARPOS: 50
+:END:
+*** 焉@yān
+:PROPERTIES:
+:CONCEPT: uuid-5f5ed32a-4730-4785-b657-ed54cf450671 / HOW
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 52
+:END:
+焉@yān	[[tls:concept:HOW::#uuid-5f5ed32a-4730-4785-b657-ed54cf450671][HOW]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / how? 焉得儉"How could he get to count as stingy?"　焉辟"how can one avoid?"
+** 未墜於地	have not yet fallen to the ground.
+:PROPERTIES:
+:SRC: LY 19.22; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:25a05:1::未墜 / 論語
+:CHARPOS: 1
+:END:
+*** 墜@zhuì / 隊@duì
+:PROPERTIES:
+:CONCEPT: uuid-07ec9ae4-9e9f-4902-b088-3af404d18aaf / FALL
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 2
+:END:
+墜@zhuì / 隊@duì	[[tls:concept:FALL::#uuid-07ec9ae4-9e9f-4902-b088-3af404d18aaf][FALL]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / fall and decline to the level of
+** 賢者識其大者	Men of talent keep in mind important parts,
+:PROPERTIES:
+:SRC: LY 19.22; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:25a07:1::賢者 / 論語
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1 / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: the man of talent and moral worth (at any time and in any place)
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 2
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / someone who V-s (typically tensed); anyone who V-s
+*** 識@zhì
+:PROPERTIES:
+:CONCEPT: uuid-102f9a4e-f6f8-4ade-9710-8e481fcd3356 / REMEMBER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+識@zhì	[[tls:concept:REMEMBER::#uuid-102f9a4e-f6f8-4ade-9710-8e481fcd3356][REMEMBER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be still aware of, remember; make sure one remembers; keep in mind; take note of; be mindful of
+*** 大@dà
+:PROPERTIES:
+:CONCEPT: uuid-9e9e76cd-5c23-4be2-9cb8-4df692edb674 / GREAT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 5
+:END:
+大@dà	[[tls:concept:GREAT::#uuid-9e9e76cd-5c23-4be2-9cb8-4df692edb674][GREAT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / large-scale, great; overall (not partial or small-minded); fundamental; of a higher order
+** 不賢者識其小者	men without talent keep in mind the unimportant parts.
+:PROPERTIES:
+:SRC: LY 19.22; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:25a08:50::不賢 / 論語
+:CHARPOS: 50
+:END:
+*** 不賢者@bùxiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-9ae4b079-299f-4512-bcc4-678dac5235e2 / INCOMPETENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+不賢者@bùxiánzhě	[[tls:concept:INCOMPETENT::#uuid-9ae4b079-299f-4512-bcc4-678dac5235e2][INCOMPETENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the unworthy
+*** 不賢@bùxián
+:PROPERTIES:
+:CONCEPT: uuid-2abf458a-f50b-421b-8e59-e020c39bc151 / STUPID
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 50
+:END:
+不賢@bùxián	[[tls:concept:STUPID::#uuid-2abf458a-f50b-421b-8e59-e020c39bc151][STUPID]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be devoid of the relevant talent
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 52
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / someone who V-s (typically tensed); anyone who V-s
+*** 識@zhì
+:PROPERTIES:
+:CONCEPT: uuid-102f9a4e-f6f8-4ade-9710-8e481fcd3356 / REMEMBER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+識@zhì	[[tls:concept:REMEMBER::#uuid-102f9a4e-f6f8-4ade-9710-8e481fcd3356][REMEMBER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be still aware of, remember; make sure one remembers; keep in mind; take note of; be mindful of
+*** 小@xiǎo
+:PROPERTIES:
+:CONCEPT: uuid-0ef50144-1b58-41f7-b4c9-26819de117b0 / UNIMPORTANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 55
+:END:
+小@xiǎo	[[tls:concept:UNIMPORTANT::#uuid-0ef50144-1b58-41f7-b4c9-26819de117b0][UNIMPORTANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be insignificant, be trifling
+** 莫不有文武之道焉	But all of them have the Way of Wén and Wǔ.
+:PROPERTIES:
+:SRC: LY 19.22; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:25a09:50::莫不 / 論語
+:CHARPOS: 50
+:END:
+*** 莫不@mòbù
+:PROPERTIES:
+:CONCEPT: uuid-4f1b527a-6e67-492f-b8cf-8ef4c8833802 / ALL
+:SYN-FUNC: uuid-eb8abafd-05ff-4ae5-9f85-7417d096299a
+:SEM-FEAT: uuid-d1cf7a99-5f60-4ba5-ac4d-ce56db9366bd
+:CHARPOS: 50
+:END:
+莫不@mòbù	[[tls:concept:ALL::#uuid-4f1b527a-6e67-492f-b8cf-8ef4c8833802][ALL]]	P [[tls:syn-func::#uuid-eb8abafd-05ff-4ae5-9f85-7417d096299a][PPadV]] {[[tls:sem-feat::#uuid-d1cf7a99-5f60-4ba5-ac4d-ce56db9366bd][quantifier]]} / all of the subjects
+** 而亦何常師之有	And yet, surely: what permanent teacher should he have had?"
+:PROPERTIES:
+:SRC: LY 19.22; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:25a11:1::而亦 / 論語
+:CHARPOS: 1
+:END:
+*** 何@hé
+:PROPERTIES:
+:CONCEPT: uuid-ff10c4cf-5d56-4adb-acc6-16b69fd20aed / WHAT
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 3
+:END:
+何@hé	[[tls:concept:WHAT::#uuid-ff10c4cf-5d56-4adb-acc6-16b69fd20aed][WHAT]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / what N on earth? i.e. none of the N kind
+*** 常@cháng
+:PROPERTIES:
+:CONCEPT: uuid-badd5275-a6ec-4a27-9156-0b8000909121 / ENDURING
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 4
+:END:
+常@cháng	[[tls:concept:ENDURING::#uuid-badd5275-a6ec-4a27-9156-0b8000909121][ENDURING]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / invariant; constant; permanent, enduring, ever-lasting
+*** 師@shī
+:PROPERTIES:
+:CONCEPT: uuid-d671dd43-fd07-49e1-868e-413efd219474 / TEACHER
+:SYN-FUNC: uuid-3473071e-1407-4804-a185-2db288ee8726
+:CHARPOS: 5
+:END:
+師@shī	[[tls:concept:TEACHER::#uuid-d671dd43-fd07-49e1-868e-413efd219474][TEACHER]]	N [[tls:syn-func::#uuid-3473071e-1407-4804-a185-2db288ee8726][nt]] / 人師,民師　teacher, guiding authority; sometimes specifically: music master
+** 19.23叔孫武叔語大夫於朝曰	Shūsūn Wǔshū told a dignitary at court:
+:PROPERTIES:
+:SRC: LY 19.23:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:26a01:50::19 / 論語
+:CHARPOS: 50
+:END:
+*** 語@yù
+:PROPERTIES:
+:CONCEPT: uuid-9eb4554b-18f3-494a-923d-efaa29e10820 / ADDRESS
+:SYN-FUNC: uuid-2a72f3d0-64e5-442d-920f-0a8c1f69f2fb
+:CHARPOS: 59
+:END:
+語@yù	[[tls:concept:ADDRESS::#uuid-9eb4554b-18f3-494a-923d-efaa29e10820][ADDRESS]]	V [[tls:syn-func::#uuid-2a72f3d0-64e5-442d-920f-0a8c1f69f2fb][vttoN.+VtoS]] / report to; let somebody know; post-Han sometimes: tell someone to carry out the instruction in the speech 語人曰
+** 子貢賢於仲尼	"Zǐgòng is more talented than Confucius."
+:PROPERTIES:
+:SRC: LY 19.23:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:26a02:50::「子 / 論語
+:CHARPOS: 50
+:END:
+*** 賢@xián
+:PROPERTIES:
+:CONCEPT: uuid-23a8ba66-7ed5-4619-9ea3-ed809854c3be / TALENT
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+賢@xián	[[tls:concept:TALENT::#uuid-23a8ba66-7ed5-4619-9ea3-ed809854c3be][TALENT]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be more worthy than; be more distinguished than
+** 子服景伯以告子貢	Zǐfú Jǐnggó reported this to Zǐgòng.
+:PROPERTIES:
+:SRC: LY 19.23:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:27a01:50::子服 / 論語
+:CHARPOS: 50
+:END:
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-304103d0-7d78-4f72-91f0-aa09ef6eb6b3 / OBJECT MARKER
+:SYN-FUNC: uuid-73761cec-9c0f-41e0-83fe-b7e107452f86
+:CHARPOS: 54
+:END:
+以@yǐ	[[tls:concept:OBJECT MARKER::#uuid-304103d0-7d78-4f72-91f0-aa09ef6eb6b3][OBJECT MARKER]]	V [[tls:syn-func::#uuid-73761cec-9c0f-41e0-83fe-b7e107452f86][vt(oN.)adVt]] / object marker: 把它
+*** 告@gào
+:PROPERTIES:
+:CONCEPT: uuid-35948638-421b-4c71-a216-78d4220e7cc3 / REPORT
+:SYN-FUNC: uuid-f61ce0f3-6443-41fd-b221-244fb9b98322
+:CHARPOS: 55
+:END:
+告@gào	[[tls:concept:REPORT::#uuid-35948638-421b-4c71-a216-78d4220e7cc3][REPORT]]	V [[tls:syn-func::#uuid-f61ce0f3-6443-41fd-b221-244fb9b98322][vttoN1.post-vt(oN2)]] / inform (somebody N1) about a contextually determinate matter N2 以告x
+** 譬之宮牆	"Let us compare this to the surrounding walls of a house.
+:PROPERTIES:
+:SRC: LY 19.23:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:28a02:1::「譬 / 論語
+:CHARPOS: 1
+:END:
+*** 譬@pì
+:PROPERTIES:
+:CONCEPT: uuid-7c772c14-3942-41af-af2c-76a65f406d55 / COMPARE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 1
+:END:
+譬@pì	[[tls:concept:COMPARE::#uuid-7c772c14-3942-41af-af2c-76a65f406d55][COMPARE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / compare N1 to N2
+*** 宮@gōng
+:PROPERTIES:
+:CONCEPT: uuid-962ab3cf-7feb-4ec4-918e-a9fb8abee9f3 / DWELLING
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+宮@gōng	[[tls:concept:DWELLING::#uuid-962ab3cf-7feb-4ec4-918e-a9fb8abee9f3][DWELLING]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / house; generally: dwelling, often involving several buildings
+*** 牆@qiáng / 牆@qiáng
+:PROPERTIES:
+:CONCEPT: uuid-fceb6473-85f6-497b-9ef3-28fc81df6448 / WALL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-d3edfbf7-de16-4bdb-9afb-5bdb1515ff80
+:CHARPOS: 4
+:END:
+牆@qiáng / 牆@qiáng	[[tls:concept:WALL::#uuid-fceb6473-85f6-497b-9ef3-28fc81df6448][WALL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-d3edfbf7-de16-4bdb-9afb-5bdb1515ff80][specific]]} / high wall round a house or in a house; wall between the buildings belonging to one single compound cf. 宮牆,宮墻
+** 賜之牆也及肩	My walls reach up to the shoulders
+:PROPERTIES:
+:SRC: LY 19.23:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:28a03:50::賜之 / 論語
+:CHARPOS: 50
+:END:
+*** 也@yě
+:PROPERTIES:
+:CONCEPT: uuid-c46d7bc7-d9d6-4584-b181-0fbf8d31e5d4 / TOPIC MARKER
+:SYN-FUNC: uuid-40cbedf8-23be-405f-8185-859c3196e742
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 53
+:END:
+也@yě	[[tls:concept:TOPIC MARKER::#uuid-c46d7bc7-d9d6-4584-b181-0fbf8d31e5d4][TOPIC MARKER]]	P [[tls:syn-func::#uuid-40cbedf8-23be-405f-8185-859c3196e742][ppostN.+V]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / after topics other than personal names
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-25057136-373e-4b38-99bc-b5725d01e8c3 / ARRIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d13e8769-f18f-465b-baaf-8ad603570460
+:CHARPOS: 54
+:END:
+及@jí	[[tls:concept:ARRIVE::#uuid-25057136-373e-4b38-99bc-b5725d01e8c3][ARRIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d13e8769-f18f-465b-baaf-8ad603570460][N=physical]]} / reach physically, get in touch with; get as far as (of physical objects rather than persons)
+*** 肩@jiān
+:PROPERTIES:
+:CONCEPT: uuid-282810ba-b059-4ab1-aa2a-3fcdeac26c95 / SHOULDER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 55
+:END:
+肩@jiān	[[tls:concept:SHOULDER::#uuid-282810ba-b059-4ab1-aa2a-3fcdeac26c95][SHOULDER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / shoulder
+** 闚見室家之好	and one can glimpse the beautiful things inside the home.
+:PROPERTIES:
+:SRC: LY 19.23:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:28a04:50::闚見 / 論語
+:CHARPOS: 50
+:END:
+*** 窺見@kuījiàn
+:PROPERTIES:
+:CONCEPT: uuid-b7e1c477-e3eb-477e-95d4-a91ba851cb5f / SEE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-229a701e-1341-4719-9af8-a0b4e69c6c71
+:CONCEPT: uuid-d4648455-d040-4678-906d-b3b84faee12a / HOME
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:CHARPOS: 50
+:END:
+窺見@kuījiàn	[[tls:concept:SEE::#uuid-b7e1c477-e3eb-477e-95d4-a91ba851cb5f][SEE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-229a701e-1341-4719-9af8-a0b4e69c6c71][perfective]]} / get to see
+屋家@wūjiā	[[tls:concept:HOME::#uuid-d4648455-d040-4678-906d-b3b84faee12a][HOME]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] / home, buildings one lives in
+*** 好@hǎo
+:PROPERTIES:
+:CONCEPT: uuid-da2c8707-c113-4443-aac0-3cde860bb9f8 / BEAUTIFUL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-b0e62f33-9e4d-43f2-b15a-6e960f15eacf
+:CHARPOS: 55
+:END:
+好@hǎo	[[tls:concept:BEAUTIFUL::#uuid-da2c8707-c113-4443-aac0-3cde860bb9f8][BEAUTIFUL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-b0e62f33-9e4d-43f2-b15a-6e960f15eacf][subject=plural]]} / splendid things, beautiful things
+** 夫子之牆數仞	Our Master's walls are several rèn high,
+:PROPERTIES:
+:SRC: LY 19.23:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:28a05:50::夫子 / 論語
+:CHARPOS: 50
+:END:
+*** 夫子@fūzǐ
+:PROPERTIES:
+:CONCEPT: uuid-dba8c93d-5639-4363-b8f8-3676d967af16 / TEACHER
+:SYN-FUNC: uuid-0c513944-f90e-42df-a8ad-65300f05c945
+:CHARPOS: 50
+:END:
+夫子@fūzǐ	[[tls:concept:TEACHER::#uuid-dba8c93d-5639-4363-b8f8-3676d967af16][TEACHER]]	N [[tls:syn-func::#uuid-0c513944-f90e-42df-a8ad-65300f05c945][NP{post-N}]] / our Master; the master
+*** 數@shù
+:PROPERTIES:
+:CONCEPT: uuid-b8e0357b-be16-461e-ac12-28cbeee86e20 / SEVERAL
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 54
+:END:
+數@shù	[[tls:concept:SEVERAL::#uuid-b8e0357b-be16-461e-ac12-28cbeee86e20][SEVERAL]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / several
+*** 仞@rèn
+:PROPERTIES:
+:CONCEPT: uuid-1355abbe-95c3-4584-af75-f8f16954d022 / LENGTH MEASURES
+:SYN-FUNC: uuid-1045a7a4-cbbc-445a-a976-14a787864971
+:SEM-FEAT: uuid-14056dfd-9bb3-49e4-93d1-93de5283e702
+:CHARPOS: 55
+:END:
+仞@rèn	[[tls:concept:LENGTH MEASURES::#uuid-1355abbe-95c3-4584-af75-f8f16954d022][LENGTH MEASURES]]	N [[tls:syn-func::#uuid-1045a7a4-cbbc-445a-a976-14a787864971][ncpost-V{NUM}.post-N]] {[[tls:sem-feat::#uuid-14056dfd-9bb3-49e4-93d1-93de5283e702][classifier]]} / eight feet, 1.848 m
+** 不得其門而入	and if one does not get to enter the place through the right gate
+:PROPERTIES:
+:SRC: LY 19.23:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:28a06:50::不得 / 論語
+:CHARPOS: 50
+:END:
+*** 其@qí
+:PROPERTIES:
+:CONCEPT: uuid-2d20637a-a14e-4308-a35b-5f70e7994a97 / APPROPRIATE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 52
+:END:
+其@qí	[[tls:concept:APPROPRIATE::#uuid-2d20637a-a14e-4308-a35b-5f70e7994a97][APPROPRIATE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / the right kind of, the appropriate, the relevant, the suitable 其人
+*** 入@rù / 內@nèi
+:PROPERTIES:
+:CONCEPT: uuid-2cd07c0c-33eb-436c-84c1-ede134afb033 / ENTER
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 55
+:END:
+入@rù / 內@nèi	[[tls:concept:ENTER::#uuid-2cd07c0c-33eb-436c-84c1-ede134afb033][ENTER]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / enter the contextually determinate place (typically the capital) [Note that it seems the omission of the resumptive pronominal object is idiomatic. But it is not obligatory as the fair number of 入之 shows.]
+** 不見宗廟之美	one is unable to see the beautiful things in the ancestral tempels
+:PROPERTIES:
+:SRC: LY 19.23:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:28a07:50::不見 / 論語
+:CHARPOS: 50
+:END:
+*** 宗廟@zōngmiào
+:PROPERTIES:
+:CONCEPT: uuid-3200ea64-3004-42e4-b6da-c620f5b69ce0 / TEMPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 52
+:END:
+宗廟@zōngmiào	[[tls:concept:TEMPLE::#uuid-3200ea64-3004-42e4-b6da-c620f5b69ce0][TEMPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / ancestral temples, temples for the ancestors (symbols of the nation, see this word under NATION)
+*** 美@měi / 媄@měi / 媺@měi
+:PROPERTIES:
+:CONCEPT: uuid-0a1c5b6a-3e0d-408b-ad4e-745bdabf9e6a / BEAUTIFUL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-1a4f1186-6570-4817-b8ef-916aa6f20363
+:CHARPOS: 55
+:END:
+美@měi / 媄@měi / 媺@měi	[[tls:concept:BEAUTIFUL::#uuid-0a1c5b6a-3e0d-408b-ad4e-745bdabf9e6a][BEAUTIFUL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-1a4f1186-6570-4817-b8ef-916aa6f20363][subject=nonref]]} / what is beautiful> wonderful things, beautiful creatures 兩美
+** 百官之富	or the wealth of all the offices.
+:PROPERTIES:
+:SRC: LY 19.23:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:28a08:50::百官 / 論語
+:CHARPOS: 50
+:END:
+*** 官@guān
+:PROPERTIES:
+:CONCEPT: uuid-529f151e-e161-4eab-854c-6598e37cf42c / PUBLIC BUILDING
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+官@guān	[[tls:concept:PUBLIC BUILDING::#uuid-529f151e-e161-4eab-854c-6598e37cf42c][PUBLIC BUILDING]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / office
+*** 富@fù
+:PROPERTIES:
+:CONCEPT: uuid-4ab4ad76-1239-4b85-875e-e6f09c1f1f47 / RICH
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 53
+:END:
+富@fù	[[tls:concept:RICH::#uuid-4ab4ad76-1239-4b85-875e-e6f09c1f1f47][RICH]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / great wealth; sometimes more generally: abundant supply of things, signs of wealth
+** 得其門者或寡矣	Probably those who find the right gate are few.
+:PROPERTIES:
+:SRC: LY 19.23:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:28a09:50::得其 / 論語
+:CHARPOS: 50
+:END:
+*** 其@qí
+:PROPERTIES:
+:CONCEPT: uuid-2d20637a-a14e-4308-a35b-5f70e7994a97 / APPROPRIATE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 51
+:END:
+其@qí	[[tls:concept:APPROPRIATE::#uuid-2d20637a-a14e-4308-a35b-5f70e7994a97][APPROPRIATE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / the right kind of, the appropriate, the relevant, the suitable 其人
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-612b6390-9daf-475d-9638-9c109cfa6396 / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-853ef17d-4259-4efd-ad28-171239b0182b
+:CHARPOS: 53
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-612b6390-9daf-475d-9638-9c109cfa6396][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-853ef17d-4259-4efd-ad28-171239b0182b][no definite referent]]} / subject(s) of V generally (often generic, the verb typically untensed) sometimes with large scope: 有國有家者
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-78768844-2056-4e7c-97a9-067f70ffeb94 / PROBABLE
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 54
+:END:
+或@huò	[[tls:concept:PROBABLE::#uuid-78768844-2056-4e7c-97a9-067f70ffeb94][PROBABLE]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / conceivably; probably, quite possibly, in all likelihood; "before you know it"; by any chance
+*** 寡@guǎ
+:PROPERTIES:
+:CONCEPT: uuid-6736fcfc-eee8-4c30-8f38-2351023a175d / FEW
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 55
+:END:
+寡@guǎ	[[tls:concept:FEW::#uuid-6736fcfc-eee8-4c30-8f38-2351023a175d][FEW]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be few; be scarce; be in a minority
+** 不亦宜乎	is that not fair enough?"
+:PROPERTIES:
+:SRC: LY 19.23:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:28a11:1::不亦 / 論語
+:CHARPOS: 1
+:END:
+*** 宜@yí
+:PROPERTIES:
+:CONCEPT: uuid-d4a12061-4914-4574-8eec-e1e6af306572 / APPROPRIATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+宜@yí	[[tls:concept:APPROPRIATE::#uuid-d4a12061-4914-4574-8eec-e1e6af306572][APPROPRIATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be appropriate, be fitting, be suitable
+** 19.24叔孫武叔毀仲尼	Shūsūn Wǔshū maligned Confucius.
+:PROPERTIES:
+:SRC: LY 19.24:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:29a01:50::19 / 論語
+:CHARPOS: 50
+:END:
+*** 毀@huǐ / 譭@huǐ
+:PROPERTIES:
+:CONCEPT: uuid-92d59d2d-fdd0-4f00-a075-d85c34cab166 / SLANDER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 59
+:END:
+毀@huǐ / 譭@huǐ	[[tls:concept:SLANDER::#uuid-92d59d2d-fdd0-4f00-a075-d85c34cab166][SLANDER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / vilify, speak ill of without good reason; also privately: vilify, calumniate
+** 仲尼不可毀也	Confucius cannot be maligned.
+:PROPERTIES:
+:SRC: LY 19.24:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:29a04:1::仲尼 / 論語
+:CHARPOS: 1
+:END:
+*** 毀@huǐ / 譭@huǐ
+:PROPERTIES:
+:CONCEPT: uuid-09826a30-fa7e-48f6-b011-dad61183d987 / SLANDER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 5
+:END:
+毀@huǐ / 譭@huǐ	[[tls:concept:SLANDER::#uuid-09826a30-fa7e-48f6-b011-dad61183d987][SLANDER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be criticised and slandered
+** 他人之賢者	The most talented among other people
+:PROPERTIES:
+:SRC: LY 19.24:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:29a05:50::他人 / 論語
+:CHARPOS: 50
+:END:
+*** 他人@tārén
+:PROPERTIES:
+:CONCEPT: uuid-fcd93979-7bc5-45a8-bc8d-7a6154e0d949 / OTHER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 50
+:END:
+他人@tārén	[[tls:concept:OTHER::#uuid-fcd93979-7bc5-45a8-bc8d-7a6154e0d949][OTHER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / others
+*** 他@tā / 它@tā / 他@tā
+:PROPERTIES:
+:CONCEPT: uuid-89df4ef1-2749-43f4-b632-edaaf0affabb / OTHER
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 50
+:END:
+他@tā / 它@tā / 他@tā	[[tls:concept:OTHER::#uuid-89df4ef1-2749-43f4-b632-edaaf0affabb][OTHER]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / other; others'; someone else's
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-86b6d76d-5d20-4668-90b1-b6509f2d874b / TALENT
+:SYN-FUNC: uuid-7ff85022-daa6-4ec8-892f-23641dce0f0f
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 53
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-86b6d76d-5d20-4668-90b1-b6509f2d874b][TALENT]]	N [[tls:syn-func::#uuid-7ff85022-daa6-4ec8-892f-23641dce0f0f][NPpost-N]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / be the worthiest in N; be a worthy on the scale of N, be a worthy of N-class (but contrast 古之賢者)
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-c3b3d0f1-4f74-4165-be15-0ae0c050ba2e / IF
+:SYN-FUNC: uuid-5161a11c-d83d-4816-9bb8-b19820a40b27
+:CHARPOS: 54
+:END:
+者@zhě	[[tls:concept:IF::#uuid-c3b3d0f1-4f74-4165-be15-0ae0c050ba2e][IF]]	N [[tls:syn-func::#uuid-5161a11c-d83d-4816-9bb8-b19820a40b27][npro.post-S1:adS2]] / in case of>if; in all cases when
+** 丘陵也	are little mounds
+:PROPERTIES:
+:SRC: LY 19.24:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:29a06:50::丘陵 / 論語
+:CHARPOS: 50
+:END:
+*** 丘陵@qiūlíng
+:PROPERTIES:
+:CONCEPT: uuid-98f90387-ebcf-4917-a671-1b8eacd12e7c / MOUND
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+丘陵@qiūlíng	[[tls:concept:MOUND::#uuid-98f90387-ebcf-4917-a671-1b8eacd12e7c][MOUND]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / mounds, small hills; artificial mountains
+** 猶可踰也	and one can still leap across.
+:PROPERTIES:
+:SRC: LY 19.24:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:29a07:50::猶可 / 論語
+:CHARPOS: 50
+:END:
+*** 猶@yóu
+:PROPERTIES:
+:CONCEPT: uuid-cfbab717-c769-40d0-b738-cb142dd78983 / ALSO
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-dcdf1d0d-3149-4d15-9abe-7cfe96419413
+:CHARPOS: 50
+:END:
+猶@yóu	[[tls:concept:ALSO::#uuid-cfbab717-c769-40d0-b738-cb142dd78983][ALSO]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-dcdf1d0d-3149-4d15-9abe-7cfe96419413][logic]]} / still, along the same lines
+** 仲尼日月也	Confucius is like the sun or moon
+:PROPERTIES:
+:SRC: LY 19.24:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:29a08:50::仲尼 / 論語
+:CHARPOS: 50
+:END:
+*** 日月@rìyuè
+:PROPERTIES:
+:CONCEPT: uuid-335fb56a-cf03-4032-91ea-538b317fcd71 / STAR
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 52
+:END:
+日月@rìyuè	[[tls:concept:STAR::#uuid-335fb56a-cf03-4032-91ea-538b317fcd71][STAR]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / sun or moon
+** 無得而踰焉	and one can in no way leap across.
+:PROPERTIES:
+:SRC: LY 19.24:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:29a09:50::無得 / 論語
+:CHARPOS: 50
+:END:
+*** 無@wú
+:PROPERTIES:
+:CONCEPT: uuid-fe1952c9-b297-4ca3-bd4d-f0f9c2d9ab6c / NOT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CONCEPT: uuid-f66bd4c3-7f64-457c-9511-747bed90401a / LEAP OVER
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CONCEPT: uuid-c904e43d-3fa6-4e81-9f5d-28097ed9491c / LEAP OVER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+無@wú	[[tls:concept:NOT::#uuid-fe1952c9-b297-4ca3-bd4d-f0f9c2d9ab6c][NOT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / in no case; in no way; at no point, in no respect; not at all
+〓#逾@yú / 逾@yú	[[tls:concept:LEAP OVER::#uuid-f66bd4c3-7f64-457c-9511-747bed90401a][LEAP OVER]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / "leap across" without taking proper notice of
+〓#逾@yú / 逾@yú	[[tls:concept:LEAP OVER::#uuid-c904e43d-3fa6-4e81-9f5d-28097ed9491c][LEAP OVER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / leap across (a wall etc), get across
+** 人雖欲自絕	Even if someone were wanting to cut himself off from these,
+:PROPERTIES:
+:SRC: LY 19.24:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:29a10:50::人雖 / 論語
+:CHARPOS: 50
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-a558d781-66f0-4399-9fe7-58da6d73d48a / HUMAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 50
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-a558d781-66f0-4399-9fe7-58da6d73d48a][HUMAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a person, someone
+*** 雖@suī
+:PROPERTIES:
+:CONCEPT: uuid-9c11ef51-0da1-4d32-a97a-bd1c844c280e / EVEN IF
+:SYN-FUNC: uuid-c00a4db3-7d89-4b82-80ab-d16a177e3421
+:CHARPOS: 51
+:END:
+雖@suī	[[tls:concept:EVEN IF::#uuid-9c11ef51-0da1-4d32-a97a-bd1c844c280e][EVEN IF]]	V [[tls:syn-func::#uuid-c00a4db3-7d89-4b82-80ab-d16a177e3421][vadV.postN{SUBJ}:adS]] / even if
+*** 絕@jué
+:PROPERTIES:
+:CONCEPT: uuid-ece9cd75-adad-4592-87ba-a3aac90d7e3f / BREAK OFF
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 54
+:END:
+絕@jué	[[tls:concept:BREAK OFF::#uuid-ece9cd75-adad-4592-87ba-a3aac90d7e3f][BREAK OFF]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / break onself off from> cut oneself off from
+** 其何傷於日月乎	what damage can they do to the sun or the moon?"
+:PROPERTIES:
+:SRC: LY 19.24:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:29a11:50::其何 / 論語
+:CHARPOS: 50
+:END:
+*** 其何@qíhé
+:PROPERTIES:
+:CONCEPT: uuid-91043afb-4de0-4dd4-8b76-3404206be14d / HOW
+:SYN-FUNC: uuid-a0b46569-e67d-460c-914c-dddd610aba58
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 50
+:END:
+其何@qíhé	[[tls:concept:HOW::#uuid-91043afb-4de0-4dd4-8b76-3404206be14d][HOW]]	P [[tls:syn-func::#uuid-a0b46569-e67d-460c-914c-dddd610aba58][PP]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how on earth?
+*** 何@hé
+:PROPERTIES:
+:CONCEPT: uuid-9139b363-7697-4f77-8e18-98f50f3c48e9 / HOW
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 51
+:END:
+何@hé	[[tls:concept:HOW::#uuid-9139b363-7697-4f77-8e18-98f50f3c48e9][HOW]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / how on earth? How on earth could you/he/I? 回何敢死？ 丘何敢乎？何足憂？
+*** 傷@shāng
+:PROPERTIES:
+:CONCEPT: uuid-4d8c68e8-e7ca-49b5-a9a8-e42fe5dd9f4b / INJURE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 52
+:END:
+傷@shāng	[[tls:concept:INJURE::#uuid-4d8c68e8-e7ca-49b5-a9a8-e42fe5dd9f4b][INJURE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / be of harm to
+*** 傷@shāng
+:PROPERTIES:
+:CONCEPT: uuid-117c42ec-4462-4181-a617-9bd2c19c6e1c / DAMAGE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 52
+:END:
+傷@shāng	[[tls:concept:DAMAGE::#uuid-117c42ec-4462-4181-a617-9bd2c19c6e1c][DAMAGE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / do damage to
+*** 日月@rìyuè
+:PROPERTIES:
+:CONCEPT: uuid-335fb56a-cf03-4032-91ea-538b317fcd71 / STAR
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 54
+:END:
+日月@rìyuè	[[tls:concept:STAR::#uuid-335fb56a-cf03-4032-91ea-538b317fcd71][STAR]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / sun or moon
+** 多見其不知量也	More and more one sees that this man does not know how to gage his own limitations.
+:PROPERTIES:
+:SRC: LY 19.24:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:29a12:50::多見 / 論語
+:CHARPOS: 50
+:END:
+*** 多@duō
+:PROPERTIES:
+:CONCEPT: uuid-bf8e38cb-f15b-469f-8bc8-8c1749afab25 / INCREASE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+多@duō	[[tls:concept:INCREASE::#uuid-bf8e38cb-f15b-469f-8bc8-8c1749afab25][INCREASE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / all the more, more and more
+*** 見@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-62172868-7058-4528-9c9b-47aae779c8c8 / UNDERSTAND
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 51
+:END:
+見@jiàn	[[tls:concept:UNDERSTAND::#uuid-62172868-7058-4528-9c9b-47aae779c8c8][UNDERSTAND]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / understand that S
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-bf6a1211-f6b1-4433-80fc-539643fa7103 / UNDERSTAND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+知@zhī	[[tls:concept:UNDERSTAND::#uuid-bf6a1211-f6b1-4433-80fc-539643fa7103][UNDERSTAND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / understand properly; understand and respect properly; be sure of the workings (of something);
+*** 量@liàng
+:PROPERTIES:
+:CONCEPT: uuid-b6443b7b-92f9-4cb9-99ef-29831ca656f4 / LIMIT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+量@liàng	[[tls:concept:LIMIT::#uuid-b6443b7b-92f9-4cb9-99ef-29831ca656f4][LIMIT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / gage one's limitations
+** 子為恭也	"You are being polite!
+:PROPERTIES:
+:SRC: LY 19.25:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:30a02:1::「子 / 論語
+:CHARPOS: 1
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-5c2dabb2-f1f1-43bd-9dc5-782a5df3ec2b / ACT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:SEM-FEAT: uuid-4bd177c0-399d-40f9-b3f0-be5a59b8994e
+:CHARPOS: 2
+:END:
+為@wéi	[[tls:concept:ACT::#uuid-5c2dabb2-f1f1-43bd-9dc5-782a5df3ec2b][ACT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] {[[tls:sem-feat::#uuid-4bd177c0-399d-40f9-b3f0-be5a59b8994e]["be being"]]} / be being (為恭 "you are being polite")
+*** 恭@gōng / 共@gōng
+:PROPERTIES:
+:CONCEPT: uuid-3576e324-8d57-4e3d-a0d0-994201d87bd6 / RESPECT
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 3
+:END:
+恭@gōng / 共@gōng	[[tls:concept:RESPECT::#uuid-3576e324-8d57-4e3d-a0d0-994201d87bd6][RESPECT]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / show one's humble respect as required by etiquette; be respectful and polite
+** 仲尼豈賢於子乎	How should Confucius be a better man than you?"
+:PROPERTIES:
+:SRC: LY 19.25:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:30a03:50::仲尼 / 論語
+:CHARPOS: 50
+:END:
+*** 豈@qǐ
+:PROPERTIES:
+:CONCEPT: uuid-b8a02409-6654-4fa7-bf2f-7559adeb64b7 / HOW
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 52
+:END:
+豈@qǐ	[[tls:concept:HOW::#uuid-b8a02409-6654-4fa7-bf2f-7559adeb64b7][HOW]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / introducing rhetorical questions
+*** 賢@xián
+:PROPERTIES:
+:CONCEPT: uuid-23a8ba66-7ed5-4619-9ea3-ed809854c3be / TALENT
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 53
+:END:
+賢@xián	[[tls:concept:TALENT::#uuid-23a8ba66-7ed5-4619-9ea3-ed809854c3be][TALENT]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be more worthy than; be more distinguished than
+** 君子一言以為知	"The superior man will, on account of one public pronouncement, be taken to be wise,
+:PROPERTIES:
+:SRC: LY 19.25:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a02:1::「君 / 論語
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+*** 以為@yǐwéi
+:PROPERTIES:
+:CONCEPT: uuid-a06c80e3-21ee-4b8e-84b9-8115ecd2d6ab / BELIEVE
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 5
+:END:
+以為@yǐwéi	[[tls:concept:BELIEVE::#uuid-a06c80e3-21ee-4b8e-84b9-8115ecd2d6ab][BELIEVE]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be taken to V; be considered (subjectively and often unjustifiably) as V
+** 一言以為不知	and on account of one public pronouncement he will taken to be unwise.
+:PROPERTIES:
+:SRC: LY 19.25:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a03:50::一言 / 論語
+:CHARPOS: 50
+:END:
+*** 以為@yǐwéi
+:PROPERTIES:
+:CONCEPT: uuid-a06c80e3-21ee-4b8e-84b9-8115ecd2d6ab / BELIEVE
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+以為@yǐwéi	[[tls:concept:BELIEVE::#uuid-a06c80e3-21ee-4b8e-84b9-8115ecd2d6ab][BELIEVE]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be taken to V; be considered (subjectively and often unjustifiably) as V
+*** 不知@bùzhī
+:PROPERTIES:
+:CONCEPT: uuid-e46092eb-0925-464b-9eda-883ca07d3e20 / STUPID
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 54
+:END:
+不知@bùzhī	[[tls:concept:STUPID::#uuid-e46092eb-0925-464b-9eda-883ca07d3e20][STUPID]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be stupid
+** 言不可不慎也	One's public pronouncements one must be very careful about.
+:PROPERTIES:
+:SRC: LY 19.25:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a04:50::言不 / 論語
+:CHARPOS: 50
+:END:
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-58248328-733b-4587-bbd8-7c8aa830eebf / SPEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 50
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-58248328-733b-4587-bbd8-7c8aa830eebf][SPEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / statements of opinion, proposal; public or formal utterance which commits the speaker; pronouncement; public or formal pronouncement, public or formal suggestion; Sometimes less specifically: proposal; what one says, speech; language; public proposal, public speech, words
+*** 慎@shèn
+:PROPERTIES:
+:CONCEPT: uuid-9ea6f2ff-2511-4af1-a98e-c9f7eff1357f / CAUTIOUS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 54
+:END:
+慎@shèn	[[tls:concept:CAUTIOUS::#uuid-9ea6f2ff-2511-4af1-a98e-c9f7eff1357f][CAUTIOUS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be carefully thought about
+** 夫子之不可及也	Our Master's being beyond our reach
+:PROPERTIES:
+:SRC: LY 19.25:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a05:50::夫子 / 論語
+:CHARPOS: 50
+:END:
+*** 夫子@fūzǐ
+:PROPERTIES:
+:CONCEPT: uuid-dba8c93d-5639-4363-b8f8-3676d967af16 / TEACHER
+:SYN-FUNC: uuid-0c513944-f90e-42df-a8ad-65300f05c945
+:CHARPOS: 50
+:END:
+夫子@fūzǐ	[[tls:concept:TEACHER::#uuid-dba8c93d-5639-4363-b8f8-3676d967af16][TEACHER]]	N [[tls:syn-func::#uuid-0c513944-f90e-42df-a8ad-65300f05c945][NP{post-N}]] / our Master; the master
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-3b5a1f2a-1b53-4801-a088-8c529aa2117b / REACH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 55
+:END:
+及@jí	[[tls:concept:REACH::#uuid-3b5a1f2a-1b53-4801-a088-8c529aa2117b][REACH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be equalled, be caught up with
+** 猶天之不可階而升也	is like Heaven being impossible to climb up to on stairs.
+:PROPERTIES:
+:SRC: LY 19.25:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a06:50::猶天 / 論語
+:CHARPOS: 50
+:END:
+*** 猶@yóu / 由@yóu
+:PROPERTIES:
+:CONCEPT: uuid-c58637bb-abd2-4f57-829b-29abd57c622e / RESEMBLE
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:SEM-FEAT: uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9
+:CHARPOS: 50
+:END:
+猶@yóu / 由@yóu	[[tls:concept:RESEMBLE::#uuid-c58637bb-abd2-4f57-829b-29abd57c622e][RESEMBLE]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] {[[tls:sem-feat::#uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9][copula]]} / be just like S (comparing of two facts)
+*** 階@jiē
+:PROPERTIES:
+:CONCEPT: uuid-df927d35-7231-480a-8db3-624408b2a5f2 / STAIRS
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2
+:CHARPOS: 55
+:END:
+階@jiē	[[tls:concept:STAIRS::#uuid-df927d35-7231-480a-8db3-624408b2a5f2][STAIRS]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2][place]]} / on stairs
+*** 升@shēng
+:PROPERTIES:
+:CONCEPT: uuid-b159c877-f849-4223-8fa2-b7734849aa6d / ASCEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 57
+:END:
+升@shēng	[[tls:concept:ASCEND::#uuid-b159c877-f849-4223-8fa2-b7734849aa6d][ASCEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be scaled, be ascended
+** 夫子之得邦家者	If our Master were to gain control of a land or of a clan
+:PROPERTIES:
+:SRC: LY 19.25:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a07:50::夫子 / 論語
+:CHARPOS: 50
+:END:
+*** 邦家@bāngjiā
+:PROPERTIES:
+:CONCEPT: uuid-c505ec23-8f91-4cca-8101-62504d2ff09f / NATION
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 54
+:END:
+邦家@bāngjiā	[[tls:concept:NATION::#uuid-c505ec23-8f91-4cca-8101-62504d2ff09f][NATION]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a country
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-c3b3d0f1-4f74-4165-be15-0ae0c050ba2e / IF
+:SYN-FUNC: uuid-5161a11c-d83d-4816-9bb8-b19820a40b27
+:CHARPOS: 56
+:END:
+者@zhě	[[tls:concept:IF::#uuid-c3b3d0f1-4f74-4165-be15-0ae0c050ba2e][IF]]	N [[tls:syn-func::#uuid-5161a11c-d83d-4816-9bb8-b19820a40b27][npro.post-S1:adS2]] / in case of>if; in all cases when
+** 立之斯立	'When he establishes something it stands,
+:PROPERTIES:
+:SRC: LY 19.25:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a08:50::『立 / 論語
+:CHARPOS: 50
+:END:
+*** 立@lì
+:PROPERTIES:
+:CONCEPT: uuid-ac7096f9-5b39-4705-8c00-7dc232ad14db / ESTABLISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+立@lì	[[tls:concept:ESTABLISH::#uuid-ac7096f9-5b39-4705-8c00-7dc232ad14db][ESTABLISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to exist, establish, bring into existence (e.g. laws etc); promote and establish; cause to be established as ruler
+*** 立@lì
+:PROPERTIES:
+:CONCEPT: uuid-88b59ebb-eaa5-47d8-a829-1c7bff799d56 / ESTABLISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 50
+:END:
+立@lì	[[tls:concept:ESTABLISH::#uuid-88b59ebb-eaa5-47d8-a829-1c7bff799d56][ESTABLISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be solidly established
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-620fab5a-64e8-44e6-8dd5-e37dbc111d8e / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-620fab5a-64e8-44e6-8dd5-e37dbc111d8e][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / cognate object; indefinite dummy object pronouns without reference: things, people; someone 以約失之者"Those who, through keeping to the main thing, get things wrong"
+*** 斯@sī
+:PROPERTIES:
+:CONCEPT: uuid-9224a4f3-4860-4eed-858f-a2a6ca28c553 / THEN
+:SYN-FUNC: uuid-be65b5bf-77c6-4abc-9b0b-03d67cf89975
+:CHARPOS: 52
+:END:
+斯@sī	[[tls:concept:THEN::#uuid-9224a4f3-4860-4eed-858f-a2a6ca28c553][THEN]]	N [[tls:syn-func::#uuid-be65b5bf-77c6-4abc-9b0b-03d67cf89975][npro.adS1:postS2]] / then under such circumstances; then indeed, then in point of fact; then as an important (often final) result; sometimes hybrid: then this
+** 道之斯行	when he guides something along it works,
+:PROPERTIES:
+:SRC: LY 19.25:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a09:50::道之 / 論語
+:CHARPOS: 50
+:END:
+*** 〓#導@dǎo / @
+:PROPERTIES:
+:CONCEPT: uuid-a6ee2ee5-97a9-492c-b280-d347aac01945 / LEAD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+〓#導@dǎo / @	[[tls:concept:LEAD::#uuid-a6ee2ee5-97a9-492c-b280-d347aac01945][LEAD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / guide and lead the way; lead; guide with respect to
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-620fab5a-64e8-44e6-8dd5-e37dbc111d8e / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-620fab5a-64e8-44e6-8dd5-e37dbc111d8e][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / cognate object; indefinite dummy object pronouns without reference: things, people; someone 以約失之者"Those who, through keeping to the main thing, get things wrong"
+*** 斯@sī
+:PROPERTIES:
+:CONCEPT: uuid-9224a4f3-4860-4eed-858f-a2a6ca28c553 / THEN
+:SYN-FUNC: uuid-be65b5bf-77c6-4abc-9b0b-03d67cf89975
+:CHARPOS: 52
+:END:
+斯@sī	[[tls:concept:THEN::#uuid-9224a4f3-4860-4eed-858f-a2a6ca28c553][THEN]]	N [[tls:syn-func::#uuid-be65b5bf-77c6-4abc-9b0b-03d67cf89975][npro.adS1:postS2]] / then under such circumstances; then indeed, then in point of fact; then as an important (often final) result; sometimes hybrid: then this
+** 綏之斯來	when he comforts people they flock to him,
+:PROPERTIES:
+:SRC: LY 19.25:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a10:50::綏之 / 論語
+:CHARPOS: 50
+:END:
+*** 綏@suí
+:PROPERTIES:
+:CONCEPT: uuid-a6b8a887-f99a-4c20-999a-9669adc7bc31 / CONSOLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+綏@suí	[[tls:concept:CONSOLE::#uuid-a6b8a887-f99a-4c20-999a-9669adc7bc31][CONSOLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to comfort; calm down
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-620fab5a-64e8-44e6-8dd5-e37dbc111d8e / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-620fab5a-64e8-44e6-8dd5-e37dbc111d8e][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / cognate object; indefinite dummy object pronouns without reference: things, people; someone 以約失之者"Those who, through keeping to the main thing, get things wrong"
+*** 斯@sī
+:PROPERTIES:
+:CONCEPT: uuid-9224a4f3-4860-4eed-858f-a2a6ca28c553 / THEN
+:SYN-FUNC: uuid-be65b5bf-77c6-4abc-9b0b-03d67cf89975
+:CHARPOS: 52
+:END:
+斯@sī	[[tls:concept:THEN::#uuid-9224a4f3-4860-4eed-858f-a2a6ca28c553][THEN]]	N [[tls:syn-func::#uuid-be65b5bf-77c6-4abc-9b0b-03d67cf89975][npro.adS1:postS2]] / then under such circumstances; then indeed, then in point of fact; then as an important (often final) result; sometimes hybrid: then this
+*** 來@lái
+:PROPERTIES:
+:CONCEPT: uuid-6a1113dc-5b48-4873-b579-7c99c210d916 / RALLY
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 53
+:END:
+來@lái	[[tls:concept:RALLY::#uuid-6a1113dc-5b48-4873-b579-7c99c210d916][RALLY]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / rally to the contextually determinate person
+** 動之斯和	when he activates them they act in harmony.
+:PROPERTIES:
+:SRC: LY 19.25:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a11:50::動之 / 論語
+:CHARPOS: 50
+:END:
+*** 動@dòng
+:PROPERTIES:
+:CONCEPT: uuid-6c9296d2-0585-4943-af12-826e9806cbba / DISPLACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+動@dòng	[[tls:concept:DISPLACE::#uuid-6c9296d2-0585-4943-af12-826e9806cbba][DISPLACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to move, move; activate, mobilise
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-620fab5a-64e8-44e6-8dd5-e37dbc111d8e / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-620fab5a-64e8-44e6-8dd5-e37dbc111d8e][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / cognate object; indefinite dummy object pronouns without reference: things, people; someone 以約失之者"Those who, through keeping to the main thing, get things wrong"
+*** 和@hé
+:PROPERTIES:
+:CONCEPT: uuid-0957cb0c-abba-40cc-afeb-3471ee035085 / HARMONY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+和@hé	[[tls:concept:HARMONY::#uuid-0957cb0c-abba-40cc-afeb-3471ee035085][HARMONY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be harmonious, be in harmonious good order; be concordant; be well balanced
+** 其生也榮	While alive he shines with glory,
+:PROPERTIES:
+:SRC: LY 19.25:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a12:50::其生 / 論語
+:CHARPOS: 50
+:END:
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-fcd2f973-9801-4918-8d17-919d16ff5829 / LIVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-1e331347-13e3-42a1-a1a8-8e4404f03509
+:CHARPOS: 51
+:END:
+生@shēng	[[tls:concept:LIVE::#uuid-fcd2f973-9801-4918-8d17-919d16ff5829][LIVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-1e331347-13e3-42a1-a1a8-8e4404f03509][continuous]]} / be alive; remain alive; cf. also shēng qín 生擒 "catch while he is still alive"
+*** 也@yě
+:PROPERTIES:
+:CONCEPT: uuid-1a74b49c-357f-434b-9c96-577744cfe533 / WHEN
+:SYN-FUNC: uuid-e8ec37b7-edd6-4914-a08f-c9386b23e788
+:SEM-FEAT: uuid-e06b8e14-5d20-4e61-9ac4-cc3e7536076b
+:CHARPOS: 52
+:END:
+也@yě	[[tls:concept:WHEN::#uuid-1a74b49c-357f-434b-9c96-577744cfe533][WHEN]]	P [[tls:syn-func::#uuid-e8ec37b7-edd6-4914-a08f-c9386b23e788][ppostadNPab{S1}.adS2]] {[[tls:sem-feat::#uuid-e06b8e14-5d20-4e61-9ac4-cc3e7536076b][subject=time]]} / when
+*** 榮@róng
+:PROPERTIES:
+:CONCEPT: uuid-10972058-c0c8-4aa4-ba26-1477c2b6380e / FAMOUS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 53
+:END:
+榮@róng	[[tls:concept:FAMOUS::#uuid-10972058-c0c8-4aa4-ba26-1477c2b6380e][FAMOUS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / enjoy a high reputation; enjoy glory and honour 莫榮於孝
+** 其死也哀	when dead he is mourned with real grief.
+:PROPERTIES:
+:SRC: LY 19.25:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a13:50::其死 / 論語
+:CHARPOS: 50
+:END:
+*** 也@yě
+:PROPERTIES:
+:CONCEPT: uuid-1a74b49c-357f-434b-9c96-577744cfe533 / WHEN
+:SYN-FUNC: uuid-e8ec37b7-edd6-4914-a08f-c9386b23e788
+:SEM-FEAT: uuid-e06b8e14-5d20-4e61-9ac4-cc3e7536076b
+:CHARPOS: 52
+:END:
+也@yě	[[tls:concept:WHEN::#uuid-1a74b49c-357f-434b-9c96-577744cfe533][WHEN]]	P [[tls:syn-func::#uuid-e8ec37b7-edd6-4914-a08f-c9386b23e788][ppostadNPab{S1}.adS2]] {[[tls:sem-feat::#uuid-e06b8e14-5d20-4e61-9ac4-cc3e7536076b][subject=time]]} / when
+*** 哀@āi
+:PROPERTIES:
+:CONCEPT: uuid-94888e9d-4405-45a7-8430-36f119fa5c2b / MOURNING
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+哀@āi	[[tls:concept:MOURNING::#uuid-94888e9d-4405-45a7-8430-36f119fa5c2b][MOURNING]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be mourned for with genuine grief
+** 如之何其可及也	How could he be reached?"
+:PROPERTIES:
+:SRC: LY 19.25:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_019:31a13:50::如之 / 論語
+:CHARPOS: 50
+:END:
+*** 如之何@rúzhīhé
+:PROPERTIES:
+:CONCEPT: uuid-b685e82b-3f66-48fc-b505-046256aec7d5 / HOW
+:SYN-FUNC: uuid-bef979d3-1a03-49e1-9e4b-ac6c4664318e
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 50
+:END:
+如之何@rúzhīhé	[[tls:concept:HOW::#uuid-b685e82b-3f66-48fc-b505-046256aec7d5][HOW]]	V [[tls:syn-func::#uuid-bef979d3-1a03-49e1-9e4b-ac6c4664318e][VP+NPab{S}]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / Can you even think about NPab{S}?
+*** 何@hé
+:PROPERTIES:
+:CONCEPT: uuid-e3f108c9-a4c8-4cee-b92c-229a4256e2be / HOW
+:SYN-FUNC: uuid-35d0a7de-250e-4966-802b-f9b6605aa8bd
+:CHARPOS: 52
+:END:
+何@hé	[[tls:concept:HOW::#uuid-e3f108c9-a4c8-4cee-b92c-229a4256e2be][HOW]]	N [[tls:syn-func::#uuid-35d0a7de-250e-4966-802b-f9b6605aa8bd][npro.postV]] / how? 如之何
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-3b5a1f2a-1b53-4801-a088-8c529aa2117b / REACH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 55
+:END:
+及@jí	[[tls:concept:REACH::#uuid-3b5a1f2a-1b53-4801-a088-8c529aa2117b][REACH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be equalled, be caught up with

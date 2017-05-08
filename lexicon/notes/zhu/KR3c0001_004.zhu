@@ -1,0 +1,2457 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 管子 KR3c0001_004
+#+DATE: 2017-02-08T16:41:55+0900
+#+PROPERTY: COMMIT a5d9cf04cb0f985da1a8aef340344e2f1390dc43
+** 懷繩與准鉤	Treasuring the marking line and complying with the level and bevelcompass,
+:PROPERTIES:
+:SRC: GUAN 11.02.01; WYWK 1.46; tr. Rickett 1985, p. 202; [Statement II]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::懷繩 / 管子
+:CHARPOS: 0
+:END:
+*** 繩@shéng
+:PROPERTIES:
+:CONCEPT: uuid-2c094b34-5272-42fe-9c0e-3d53198a3b80 / LINE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+繩@shéng	[[tls:concept:LINE::#uuid-2c094b34-5272-42fe-9c0e-3d53198a3b80][LINE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / abstract line; the abstract line demarkating what is legal and what is illegal
+** 若覺臥	it is as if he were in repose while awake
+:PROPERTIES:
+:SRC: GUAN 11.06.01; WYWK 1.46; tr. Rickett 1985, p. 202f; [Statement VI]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::若覺 / 管子
+:CHARPOS: 0
+:END:
+*** 覺@jué
+:PROPERTIES:
+:CONCEPT: uuid-d23de211-bb71-4eea-a0ef-da17531aae3e / WAKE UP
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+覺@jué	[[tls:concept:WAKE UP::#uuid-d23de211-bb71-4eea-a0ef-da17531aae3e][WAKE UP]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / while awake
+*** 臥@wò / @
+:PROPERTIES:
+:CONCEPT: uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1 / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-516a7b20-3abd-49d2-a05c-65dace0c5337
+:CHARPOS: 2
+:END:
+臥@wò / @	[[tls:concept:SLEEP::#uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-516a7b20-3abd-49d2-a05c-65dace0c5337][continuative]]} / sleep; find rest; be in bed; also of dogs: lie down to sleep
+** 毋訪于佞	Do not seek advice from sycophants.
+:PROPERTIES:
+:SRC: GUAN 11.07.01; WYWK 1.46; tr. Rickett 1985, p. 203; [Statement VII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::毋訪 / 管子
+:CHARPOS: 0
+:END:
+*** 訪@fǎng
+:PROPERTIES:
+:CONCEPT: uuid-1b07d3c0-b249-4994-9d04-9c5a430732db / ASK
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 1
+:END:
+訪@fǎng	[[tls:concept:ASK::#uuid-1b07d3c0-b249-4994-9d04-9c5a430732db][ASK]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / solicit information from
+*** 佞@nìng
+:PROPERTIES:
+:CONCEPT: uuid-6b050372-c51c-420a-b7df-eac4ac3fbbf8 / FLATTER
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 3
+:END:
+佞@nìng	[[tls:concept:FLATTER::#uuid-6b050372-c51c-420a-b7df-eac4ac3fbbf8][FLATTER]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / flatterer; the psychophantic 四佞
+** 毋育于凶	Do not nurture those prone to violence.
+:PROPERTIES:
+:SRC: GUAN 11.07.01; WYWK 1.46; tr. Rickett 1985, p. 203; [Statement VII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::毋育 / 管子
+:CHARPOS: 0
+:END:
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-4d122a32-0ddc-4ed4-b7e5-346ff3770eb1 / VILLAIN
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:CHARPOS: 3
+:END:
+凶@xiōng	[[tls:concept:VILLAIN::#uuid-4d122a32-0ddc-4ed4-b7e5-346ff3770eb1][VILLAIN]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] / those who are violent
+** 鳥飛准繩	but the flight of birds is like the level and marking line.
+:PROPERTIES:
+:SRC: GUAN 11.08.01; WYWK 1.46; tr. Rickett 1985, p. 203; [Statement VIII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::鳥飛 / 管子
+:CHARPOS: 0
+:END:
+*** 繩@shéng
+:PROPERTIES:
+:CONCEPT: uuid-2c094b34-5272-42fe-9c0e-3d53198a3b80 / LINE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 3
+:END:
+繩@shéng	[[tls:concept:LINE::#uuid-2c094b34-5272-42fe-9c0e-3d53198a3b80][LINE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / abstract line; the abstract line demarkating what is legal and what is illegal
+** 毋犯其凶	Do not arouse the violent anger [of the prince who causes resentments].
+:PROPERTIES:
+:SRC: GUAN 11.10.01; WYWK 1.46; tr. Rickett 1985, p. 203; [Statement X]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::毋犯 / 管子
+:CHARPOS: 0
+:END:
+*** 凶@xiōng / 兇@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-a4da749f-06e3-4ba0-9fc6-a97b95d5b8b9 / VIOLENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+凶@xiōng / 兇@xiōng	[[tls:concept:VIOLENT::#uuid-a4da749f-06e3-4ba0-9fc6-a97b95d5b8b9][VIOLENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / violence; violent reactions
+** 天地萬物之橐	Heaven and Earth are the receptables for all things.
+:PROPERTIES:
+:SRC: GUAN 11.13.01; WYWK 1.47; tr. Rickett 1985, p. 204; [Statement XIII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::天地 / 管子
+:CHARPOS: 0
+:END:
+*** 橐@tuó
+:PROPERTIES:
+:CONCEPT: uuid-ede40647-af91-4a2b-a450-08f4c6795d6f / BAG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 5
+:END:
+橐@tuó	[[tls:concept:BAG::#uuid-ede40647-af91-4a2b-a450-08f4c6795d6f][BAG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / container, receptacle
+** 宙合有橐天地	The All-Embracing Unity serves as a receptable for Heaven and Earth.
+:PROPERTIES:
+:SRC: GUAN 11.13.01; WYWK 1.47; tr. Rickett 1985, p. 204; [Statement XIII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::宙合 / 管子
+:CHARPOS: 0
+:END:
+*** 有橐@yǒutuó
+:PROPERTIES:
+:CONCEPT: uuid-ac817a33-26bd-43dc-8525-da3363726ede / CONTAIN
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 2
+:END:
+有橐@yǒutuó	[[tls:concept:CONTAIN::#uuid-ac817a33-26bd-43dc-8525-da3363726ede][CONTAIN]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / contain abstractly as in a bag
+** 此言臣之所任力無妄也	This means that the ministers in exerting themselves never lack discipline,
+:PROPERTIES:
+:SRC: GUAN 11.14.02; WYWK 1.47; tr. Rickett 1985, p. 204;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::此言 / 管子
+:CHARPOS: 0
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-19a38464-f28d-4fe4-9054-51113a807df9 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675
+:CHARPOS: 0
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-19a38464-f28d-4fe4-9054-51113a807df9][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675][reference=text]]} / this (aforementioned utterance, or quotation)
+** 君失音則風律必流	If the prince neglects the [five] tones, custom and law will certainly diverge.
+:PROPERTIES:
+:SRC: GUAN 11.14.04; WYWK 1.47; tr. Rickett 1985, p. 205;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::君失 / 管子
+:CHARPOS: 0
+:END:
+*** 風@fēng
+:PROPERTIES:
+:CONCEPT: uuid-f71fa6c9-9156-4ab9-9ed9-973e62312b3b / CUSTOM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+風@fēng	[[tls:concept:CUSTOM::#uuid-f71fa6c9-9156-4ab9-9ed9-973e62312b3b][CUSTOM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / local ways; current habit
+** 臣離味則百姓不養	If the ministers part from the [five] tastes, the common people will not be nourished.
+:PROPERTIES:
+:SRC: GUAN 11.14.04; WYWK 1.47; tr. Rickett 1985, p. 205;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::臣離 / 管子
+:CHARPOS: 0
+:END:
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-a444f885-b28f-4c6f-94a1-7d921359df54 / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-5205b4f8-c695-4e93-bfea-45fbf937843a
+:CHARPOS: 4
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-a444f885-b28f-4c6f-94a1-7d921359df54][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-5205b4f8-c695-4e93-bfea-45fbf937843a][unspecified]]} / the people
+** 則眾散亡	they will scatter and flee en masse.
+:PROPERTIES:
+:SRC: GUAN 11.14.04; WYWK 1.47; tr. Rickett 1985, p. 205;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::則眾 / 管子
+:CHARPOS: 0
+:END:
+*** 眾@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-9cb2e2bd-64f1-4441-a684-c63073df94c0 / ALL
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:SEM-FEAT: uuid-d1cf7a99-5f60-4ba5-ac4d-ce56db9366bd
+:CHARPOS: 1
+:END:
+眾@zhòng	[[tls:concept:ALL::#uuid-9cb2e2bd-64f1-4441-a684-c63073df94c0][ALL]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] {[[tls:sem-feat::#uuid-d1cf7a99-5f60-4ba5-ac4d-ce56db9366bd][quantifier]]} / the large number of, all the many, all the various, all sorts of
+** 懷繩與准鉤	'Treasuring the marking line and complying with the level and bevel-compass,
+:PROPERTIES:
+:SRC: GUAN 11.15.01; WYWK 1.47; tr. Rickett 1985, p. 205; [Explanation II]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::「懷 / 管子
+:CHARPOS: 0
+:END:
+*** 繩@shéng
+:PROPERTIES:
+:CONCEPT: uuid-2c094b34-5272-42fe-9c0e-3d53198a3b80 / LINE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+繩@shéng	[[tls:concept:LINE::#uuid-2c094b34-5272-42fe-9c0e-3d53198a3b80][LINE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / abstract line; the abstract line demarkating what is legal and what is illegal
+** 此言聖君賢佐之制舉也	This refers to the sagely prince's selecting worthy assistants through [appropriate] institutions.
+:PROPERTIES:
+:SRC: GUAN 11.15.01; WYWK 1.47; tr. Rickett 1985, p. 205; [Explanation II]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::此言 / 管子
+:CHARPOS: 0
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-19a38464-f28d-4fe4-9054-51113a807df9 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675
+:CHARPOS: 0
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-19a38464-f28d-4fe4-9054-51113a807df9][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675][reference=text]]} / this (aforementioned utterance, or quotation)
+** 國猶是國也	The state was the same state
+:PROPERTIES:
+:SRC: GUAN 11.15.02; WYWK 1.47; tr. Rickett 1985, p. 205;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::國猶 / 管子
+:CHARPOS: 0
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-b2d5cf4b-a40b-415a-b19e-0aac1fe24e34 / SAME
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 2
+:END:
+是@shì	[[tls:concept:SAME::#uuid-b2d5cf4b-a40b-415a-b19e-0aac1fe24e34][SAME]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a certain (same), the same (whatever it is)
+** 民猶是民也	and the people were the same people,
+:PROPERTIES:
+:SRC: GUAN 11.15.02; WYWK 1.47; tr. Rickett 1985, p. 205;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::民猶 / 管子
+:CHARPOS: 0
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-b2d5cf4b-a40b-415a-b19e-0aac1fe24e34 / SAME
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 2
+:END:
+是@shì	[[tls:concept:SAME::#uuid-b2d5cf4b-a40b-415a-b19e-0aac1fe24e34][SAME]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a certain (same), the same (whatever it is)
+** 無計量	is without measure.
+:PROPERTIES:
+:SRC: GUAN 11.15.04; WYWK 1.48; tr. Rickett 1985, p. 206;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::無計 / 管子
+:CHARPOS: 0
+:END:
+*** 計@jì
+:PROPERTIES:
+:CONCEPT: uuid-707706ea-665b-4cbe-8530-1125b21044b1 / CALCULATE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+計@jì	[[tls:concept:CALCULATE::#uuid-707706ea-665b-4cbe-8530-1125b21044b1][CALCULATE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / calculating; calculated, precisely numerically determined
+*** 量@liàng
+:PROPERTIES:
+:CONCEPT: uuid-4470b3a8-1be4-4b7e-886d-1d074a7f4f38 / LIMIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 2
+:END:
+量@liàng	[[tls:concept:LIMIT::#uuid-4470b3a8-1be4-4b7e-886d-1d074a7f4f38][LIMIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / definite limitations; fixed proper limits and standards
+** 是非有	since they both exist,
+:PROPERTIES:
+:SRC: GUAN 11.15.04; WYWK 1.48; tr. Rickett 1985, p. 206;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::是非 / 管子
+:CHARPOS: 0
+:END:
+*** 是非@shìfēi
+:PROPERTIES:
+:CONCEPT: uuid-55d8603c-5b24-455c-83a6-6bc92c4a4c13 / APPROPRIATE
+:SYN-FUNC: uuid-d8b82bef-a9c6-4a1f-a0d0-fd7df09cc689
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 0
+:END:
+是非@shìfēi	[[tls:concept:APPROPRIATE::#uuid-55d8603c-5b24-455c-83a6-6bc92c4a4c13][APPROPRIATE]]	N [[tls:syn-func::#uuid-d8b82bef-a9c6-4a1f-a0d0-fd7df09cc689][NPab{Nab1&Nab2}]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / rightness or otherwise, appropriateness or otherwise; right and wrong
+** 言偏環畢	[The sentence] means that when the dissemination [of axles] everywhere has been completed,
+:PROPERTIES:
+:SRC: GUAN 11.15.06; WYWK 1.48; tr. Rickett 1985, p. 206;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::言偏 / 管子
+:CHARPOS: 0
+:END:
+*** 畢@bì
+:PROPERTIES:
+:CONCEPT: uuid-175db878-fcaf-4fc7-ab1f-71b3a302caaf / ALL
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-d579c8ae-df31-4e0c-941f-27b2e0b784f9
+:CHARPOS: 3
+:END:
+畢@bì	[[tls:concept:ALL::#uuid-175db878-fcaf-4fc7-ab1f-71b3a302caaf][ALL]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-d579c8ae-df31-4e0c-941f-27b2e0b784f9][reference=subject]]} / all; completely; exhaustively; all one after the other
+** 此言聖人之動靜開闔	This refers to the fact that the sage must be timely in being active or quiescent, outgoing or secluded,
+:PROPERTIES:
+:SRC: GUAN 11.16.01; WYWK 1.48; tr. Rickett 1985, p. 206; [Explanation III]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::此言 / 管子
+:CHARPOS: 0
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-19a38464-f28d-4fe4-9054-51113a807df9 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675
+:CHARPOS: 0
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-19a38464-f28d-4fe4-9054-51113a807df9][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675][reference=text]]} / this (aforementioned utterance, or quotation)
+** 賢人之處亂世也	Since worthy men living in an age of disorder
+:PROPERTIES:
+:SRC: GUAN 11.16.02; WYWK 1.48; tr. Rickett 1985, p. 206f;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::賢人 / 管子
+:CHARPOS: 0
+:END:
+*** 賢人@xiánrén
+:PROPERTIES:
+:CONCEPT: uuid-e6f345d9-f349-4625-8919-2d964131d066 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 0
+:END:
+賢人@xiánrén	[[tls:concept:HERO::#uuid-e6f345d9-f349-4625-8919-2d964131d066][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the worthy person
+*** 賢人@xiánrén
+:PROPERTIES:
+:CONCEPT: uuid-8920cf8b-c2cc-4e2c-a5ca-11795f926e25 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 0
+:END:
+賢人@xiánrén	[[tls:concept:HERO::#uuid-8920cf8b-c2cc-4e2c-a5ca-11795f926e25][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the worthies (of a given time and/or place)
+** 其為不利彌甚	The disadvantages would be great indeed.
+:PROPERTIES:
+:SRC: GUAN 11.16.03; WYWK 1.48; tr. Rickett 1985, p. 207;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::其為 / 管子
+:CHARPOS: 0
+:END:
+*** 不利@bùlì
+:PROPERTIES:
+:CONCEPT: uuid-a2f93ddb-cd03-4cce-a7f0-a834492d4791 / DAMAGE
+:SYN-FUNC: uuid-e7780c5b-9f32-443c-be48-55f7e98fa072
+:SEM-FEAT: uuid-9530ae9f-75b5-410f-9376-4472f38c74c0
+:CHARPOS: 2
+:END:
+不利@bùlì	[[tls:concept:DAMAGE::#uuid-a2f93ddb-cd03-4cce-a7f0-a834492d4791][DAMAGE]]	 [[tls:syn-func::#uuid-e7780c5b-9f32-443c-be48-55f7e98fa072][VP{adNab}]] {[[tls:sem-feat::#uuid-9530ae9f-75b5-410f-9376-4472f38c74c0][litotes]]} / disadvantage, harm done to one 子亦有不利焉
+** 而封於宋	but was enfeoffed in Song
+:PROPERTIES:
+:SRC: GUAN 11.16.04; WYWK 1.49; tr. Rickett 1985, p. 207;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::而封 / 管子
+:CHARPOS: 0
+:END:
+*** 封@fēng
+:PROPERTIES:
+:CONCEPT: uuid-23a07a1c-49a2-411e-b1c3-92bbf888310b / INSTALL
+:SYN-FUNC: uuid-86cb5931-2cf0-45b6-8637-72d9ad9e19bf
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 1
+:END:
+封@fēng	[[tls:concept:INSTALL::#uuid-23a07a1c-49a2-411e-b1c3-92bbf888310b][INSTALL]]	V [[tls:syn-func::#uuid-86cb5931-2cf0-45b6-8637-72d9ad9e19bf][vt+prep+N{PLACE}]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be enfeoffed at
+** 此言擅美主盛自奮也	This means that if [the prince] monopolizes fame, is too possessive of his wealth, and is overly aggressive in his own interests,
+:PROPERTIES:
+:SRC: GUAN 11.17.01; WYWK 1.49; tr. Rickett 1985, p. 207; [Explanation IV]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::此言 / 管子
+:CHARPOS: 0
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-19a38464-f28d-4fe4-9054-51113a807df9 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675
+:CHARPOS: 0
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-19a38464-f28d-4fe4-9054-51113a807df9][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675][reference=text]]} / this (aforementioned utterance, or quotation)
+** 人之敗也常自此	Men are constantly being ruined by this.
+:PROPERTIES:
+:SRC: GUAN 11.17.01; WYWK 1.49; tr. Rickett 1985, p. 207; [Explanation IV]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::人之 / 管子
+:CHARPOS: 0
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-e0b7a381-c69b-4985-a86e-0e4f11da508b / CAUSE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 5
+:END:
+自@zì	[[tls:concept:CAUSE::#uuid-e0b7a381-c69b-4985-a86e-0e4f11da508b][CAUSE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / be because of (this)
+** 未之有也	a person too concerned with wealth who did not fall.'
+:PROPERTIES:
+:SRC: GUAN 11.17.02; WYWK 1.49; tr. Rickett 1985, p. 207f;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::未之 / 管子
+:CHARPOS: 0
+:END:
+*** 未之有@wèizhīyǒu
+:PROPERTIES:
+:CONCEPT: uuid-69a5cd2e-a7f9-4e55-a818-431017a69827 / NEVER
+:SYN-FUNC: uuid-0b1a7818-a052-45c1-9893-63c68107168e
+:CHARPOS: 0
+:END:
+未之有@wèizhīyǒu	[[tls:concept:NEVER::#uuid-69a5cd2e-a7f9-4e55-a818-431017a69827][NEVER]]	V [[tls:syn-func::#uuid-0b1a7818-a052-45c1-9893-63c68107168e][VP.postNPab{S}]] / there has never been such a person/course of events S者未之有也
+** 此言止忿速	This means he suppresses any trace505 of his anger
+:PROPERTIES:
+:SRC: GUAN 11.18.01; WYWK 1.49; tr. Rickett 1985, p. 208; [Explanation V]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::此言 / 管子
+:CHARPOS: 0
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-19a38464-f28d-4fe4-9054-51113a807df9 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675
+:CHARPOS: 0
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-19a38464-f28d-4fe4-9054-51113a807df9][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675][reference=text]]} / this (aforementioned utterance, or quotation)
+** 言不可不慎也	When he does speak, he must be very cautious.
+:PROPERTIES:
+:SRC: GUAN 11.18.01; WYWK 1.49; tr. Rickett 1985, p. 208; [Explanation V]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::言不 / 管子
+:CHARPOS: 0
+:END:
+*** 不可不@bùkěbù
+:PROPERTIES:
+:CONCEPT: uuid-9575001b-a426-4b2d-944c-7f20c581d833 / SHOULD
+:SYN-FUNC: uuid-574cb956-877c-4eaa-9a24-c8641607f917
+:CHARPOS: 1
+:END:
+不可不@bùkěbù	[[tls:concept:SHOULD::#uuid-9575001b-a426-4b2d-944c-7f20c581d833][SHOULD]]	V [[tls:syn-func::#uuid-574cb956-877c-4eaa-9a24-c8641607f917][VPt+V{0}{PASS}]] / should by all means be V-ed
+** 若覺臥	it is as if he were in repose while awake
+:PROPERTIES:
+:SRC: GUAN 11.19.01; WYWK 1.49; tr. Rickett 1985, p. 208f; [Explanation VI]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::若覺 / 管子
+:CHARPOS: 0
+:END:
+*** 覺@jué
+:PROPERTIES:
+:CONCEPT: uuid-d23de211-bb71-4eea-a0ef-da17531aae3e / WAKE UP
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+覺@jué	[[tls:concept:WAKE UP::#uuid-d23de211-bb71-4eea-a0ef-da17531aae3e][WAKE UP]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / while awake
+*** 臥@wò / @
+:PROPERTIES:
+:CONCEPT: uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1 / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-516a7b20-3abd-49d2-a05c-65dace0c5337
+:CHARPOS: 2
+:END:
+臥@wò / @	[[tls:concept:SLEEP::#uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-516a7b20-3abd-49d2-a05c-65dace0c5337][continuative]]} / sleep; find rest; be in bed; also of dogs: lie down to sleep
+** 依賢才	He relies on the worthy and talented
+:PROPERTIES:
+:SRC: GUAN 11.19.01; WYWK 1.49; tr. Rickett 1985, p. 208f; [Explanation VI]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::依賢 / 管子
+:CHARPOS: 0
+:END:
+*** 依@yī
+:PROPERTIES:
+:CONCEPT: uuid-52c3cf1a-b8c5-4ad7-aaa8-d4383d0c03de / RELY ON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 0
+:END:
+依@yī	[[tls:concept:RELY ON::#uuid-52c3cf1a-b8c5-4ad7-aaa8-d4383d0c03de][RELY ON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / depend on; rely on; rely on for sustenance or supportBUDDH: take refuge in (Buddha, dharma, sangha, etc.)
+** 若覺臥	'It is as if he were in repose while awake
+:PROPERTIES:
+:SRC: GUAN 11.19.02; WYWK 1.50; tr. Rickett 1985, p. 209;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::若覺 / 管子
+:CHARPOS: 0
+:END:
+*** 覺@jué
+:PROPERTIES:
+:CONCEPT: uuid-d23de211-bb71-4eea-a0ef-da17531aae3e / WAKE UP
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+覺@jué	[[tls:concept:WAKE UP::#uuid-d23de211-bb71-4eea-a0ef-da17531aae3e][WAKE UP]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / while awake
+*** 臥@wò / @
+:PROPERTIES:
+:CONCEPT: uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1 / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-516a7b20-3abd-49d2-a05c-65dace0c5337
+:CHARPOS: 2
+:END:
+臥@wò / @	[[tls:concept:SLEEP::#uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-516a7b20-3abd-49d2-a05c-65dace0c5337][continuative]]} / sleep; find rest; be in bed; also of dogs: lie down to sleep
+** 毋訪于佞	'Do not seek advice from sycophants.'
+:PROPERTIES:
+:SRC: GUAN 11.20.01; WYWK 1.50; tr. Rickett 1985, p. 209;[Explanation VII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::「毋 / 管子
+:CHARPOS: 0
+:END:
+*** 訪@fǎng
+:PROPERTIES:
+:CONCEPT: uuid-1b07d3c0-b249-4994-9d04-9c5a430732db / ASK
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 1
+:END:
+訪@fǎng	[[tls:concept:ASK::#uuid-1b07d3c0-b249-4994-9d04-9c5a430732db][ASK]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / solicit information from
+*** 佞@nìng
+:PROPERTIES:
+:CONCEPT: uuid-1602b078-e4c0-4a69-b6dc-84e2dda1369c / ELOQUENT
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 3
+:END:
+佞@nìng	[[tls:concept:ELOQUENT::#uuid-1602b078-e4c0-4a69-b6dc-84e2dda1369c][ELOQUENT]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / people who are skilful talkers, glib talker, rhetorical sham
+** 言毋用佞人也	This means that one should not employ them,
+:PROPERTIES:
+:SRC: GUAN 11.20.01; WYWK 1.50; tr. Rickett 1985, p. 209;[Explanation VII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::言毋 / 管子
+:CHARPOS: 0
+:END:
+*** 佞@nìng
+:PROPERTIES:
+:CONCEPT: uuid-e830992f-8610-4277-b9c8-daef1396a505 / ELOQUENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+佞@nìng	[[tls:concept:ELOQUENT::#uuid-e830992f-8610-4277-b9c8-daef1396a505][ELOQUENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / eloquent, rhetorically smooth 佞人
+** 毋育于凶	'Do not nurture those prone to violence.'
+:PROPERTIES:
+:SRC: GUAN 11.20.01; WYWK 1.50; tr. Rickett 1985, p. 209;[Explanation VII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::「毋 / 管子
+:CHARPOS: 0
+:END:
+*** 凶@xiōng / 兇@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-a4da749f-06e3-4ba0-9fc6-a97b95d5b8b9 / VIOLENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+凶@xiōng / 兇@xiōng	[[tls:concept:VIOLENT::#uuid-a4da749f-06e3-4ba0-9fc6-a97b95d5b8b9][VIOLENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / violence; violent reactions
+** 夫行私欺上傷民失士	Now, the employment of these four those who promote their private interests, decieve their superiors, harm the people,
+:PROPERTIES:
+:SRC: GUAN 11.20.02; WYWK 1.50; tr. Rickett 1985, p. 209;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::夫行 / 管子
+:CHARPOS: 0
+:END:
+*** 私@sī
+:PROPERTIES:
+:CONCEPT: uuid-9b86191d-dc42-4a65-aaba-fe3aba0b43ef / SELFISH
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+私@sī	[[tls:concept:SELFISH::#uuid-9b86191d-dc42-4a65-aaba-fe3aba0b43ef][SELFISH]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / pursuit of private interests, private aims; selfish purposes; private selfishness; egotism
+** 而倚以為名譽	
+:PROPERTIES:
+:SRC: GUAN 11.20.02; WYWK 1.50; tr. Rickett 1985, p. 209;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::而倚 / 管子
+:CHARPOS: 0
+:END:
+*** 譽@yù
+:PROPERTIES:
+:CONCEPT: uuid-8544b113-9121-4134-960e-5d0230080178 / WELL-KNOWN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 5
+:END:
+譽@yù	[[tls:concept:WELL-KNOWN::#uuid-8544b113-9121-4134-960e-5d0230080178][WELL-KNOWN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / great fame, renown; reputation
+** 以偷安懷樂	in the process of stealing leisure and embracing pleasure.
+:PROPERTIES:
+:SRC: GUAN 11.20.03; WYWK 1.50; tr. Rickett 1985, p. 209;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::以偷 / 管子
+:CHARPOS: 0
+:END:
+*** 偷@tōu
+:PROPERTIES:
+:CONCEPT: uuid-157c2ec6-cc45-4237-b6b3-2836396d69a4 / SECRET
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+偷@tōu	[[tls:concept:SECRET::#uuid-157c2ec6-cc45-4237-b6b3-2836396d69a4][SECRET]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / furtively, in an unreglemented and irresponsible secretive way, secretly, unofficially；using underhand methods; in ways that do not tolerate the light of day
+** 阻其路	blocked their roads
+:PROPERTIES:
+:SRC: GUAN 11.21.01; WYWK 1.50; tr. Rickett 1985, p. 209f; [Explanation VIII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::阻其 / 管子
+:CHARPOS: 0
+:END:
+*** 阻@zǔ
+:PROPERTIES:
+:CONCEPT: uuid-2e7dee9a-2f5e-45a2-bbc8-4c93d6c6241c / HINDER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 0
+:END:
+阻@zǔ	[[tls:concept:HINDER::#uuid-2e7dee9a-2f5e-45a2-bbc8-4c93d6c6241c][HINDER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to impede, to hinder; block
+** 是以威盡焉	Thus his majestic power was exhausted
+:PROPERTIES:
+:SRC: GUAN 11.21.01; WYWK 1.50; tr. Rickett 1985, p. 209f; [Explanation VIII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::是以 / 管子
+:CHARPOS: 0
+:END:
+*** 是以@shìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-3a92c172-e577-45a8-a29a-c252711b03d5 / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f
+:CHARPOS: 0
+:END:
+是以@shìyǐ	[[tls:concept:THEREFORE::#uuid-3a92c172-e577-45a8-a29a-c252711b03d5][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f][objective]]} / for this objective reason
+** 其於時必失	He inevitably missed opportunities,
+:PROPERTIES:
+:SRC: GUAN 11.21.02; WYWK 1.50; tr. Rickett 1985, p. 210;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::其於 / 管子
+:CHARPOS: 0
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-2841e988-6490-4b7e-bd90-a91b762b8a6e / RELATION
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 1
+:END:
+於@yú	[[tls:concept:RELATION::#uuid-2841e988-6490-4b7e-bd90-a91b762b8a6e][RELATION]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / in relation to, within the field of, etc
+** 天植之正而不謬	If [the prince] lacks concern for correctness of purpose, even though he makes no mistakes,
+:PROPERTIES:
+:SRC: GUAN 11.21.02; WYWK 1.50; tr. Rickett 1985, p. 210;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::天植 / 管子
+:CHARPOS: 0
+:END:
+*** 謬@miù / 繆@miù
+:PROPERTIES:
+:CONCEPT: uuid-65d5155a-b91c-4542-b9e5-e8ab9a0738ac / MISTAKE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 6
+:END:
+謬@miù / 繆@miù	[[tls:concept:MISTAKE::#uuid-65d5155a-b91c-4542-b9e5-e8ab9a0738ac][MISTAKE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be utterly mistaken, be completely mislead; be mistaken; go wrong
+** 是以德之流潤澤均	For this reason the outward flow of his virtue brings enrichment
+:PROPERTIES:
+:SRC: GUAN 11.21.03; WYWK 1.50; tr. Rickett 1985, p. 210;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::是以 / 管子
+:CHARPOS: 0
+:END:
+*** 是以@shìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-3a92c172-e577-45a8-a29a-c252711b03d5 / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f
+:CHARPOS: 0
+:END:
+是以@shìyǐ	[[tls:concept:THEREFORE::#uuid-3a92c172-e577-45a8-a29a-c252711b03d5][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f][objective]]} / for this objective reason
+** 鳥飛准繩	'The flight of birds is like the level and marking line.'
+:PROPERTIES:
+:SRC: GUAN 11.21.04; WYWK 1.50; tr. Rickett 1985, p. 210;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::「鳥 / 管子
+:CHARPOS: 0
+:END:
+*** 繩@shéng
+:PROPERTIES:
+:CONCEPT: uuid-2c094b34-5272-42fe-9c0e-3d53198a3b80 / LINE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 3
+:END:
+繩@shéng	[[tls:concept:LINE::#uuid-2c094b34-5272-42fe-9c0e-3d53198a3b80][LINE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / abstract line; the abstract line demarkating what is legal and what is illegal
+** 此言大人之義也	This refers to the righteousness of the great man.
+:PROPERTIES:
+:SRC: GUAN 11.21.04; WYWK 1.50; tr. Rickett 1985, p. 210;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::此言 / 管子
+:CHARPOS: 0
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-19a38464-f28d-4fe4-9054-51113a807df9 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675
+:CHARPOS: 0
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-19a38464-f28d-4fe4-9054-51113a807df9][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675][reference=text]]} / this (aforementioned utterance, or quotation)
+*** 大人@dàrén
+:PROPERTIES:
+:CONCEPT: uuid-18acbac2-efe6-479a-8ad0-f99b3c777b7a / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+大人@dàrén	[[tls:concept:HERO::#uuid-18acbac2-efe6-479a-8ad0-f99b3c777b7a][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / great man
+** 不還山則困	If they do not fly around mountains, they will encounter difficulty.
+:PROPERTIES:
+:SRC: GUAN 11.21.04; WYWK 1.50; tr. Rickett 1985, p. 210;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::不還 / 管子
+:CHARPOS: 0
+:END:
+*** 困@kùn
+:PROPERTIES:
+:CONCEPT: uuid-c92595ab-1afa-4630-af2e-cf70975e9520 / DISTRESS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+困@kùn	[[tls:concept:DISTRESS::#uuid-c92595ab-1afa-4630-af2e-cf70975e9520][DISTRESS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be in desperate state; be in straights;
+** 不集谷則死	If they do not settle in valleys they will die.513
+:PROPERTIES:
+:SRC: GUAN 11.21.04; WYWK 1.50; tr. Rickett 1985, p. 210;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::不集 / 管子
+:CHARPOS: 0
+:END:
+*** 集@jí
+:PROPERTIES:
+:CONCEPT: uuid-e2bc994f-4cfd-4fe7-9686-f3bc6a7f19bf / GATHER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+集@jí	[[tls:concept:GATHER::#uuid-e2bc994f-4cfd-4fe7-9686-f3bc6a7f19bf][GATHER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (both of humans and of things) assemble SHIJI 百鬼集矣"all the ghosts and spirits had already assembled"
+** 以為鳥起於北	This is because a bird rising in the north,
+:PROPERTIES:
+:SRC: GUAN 11.21.05; WYWK 1.50; tr. Rickett 1985, p. 210;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::以為 / 管子
+:CHARPOS: 0
+:END:
+*** 起@qǐ
+:PROPERTIES:
+:CONCEPT: uuid-0070714e-a9af-49c5-8283-01fdf48bcdb9 / FLY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332
+:CHARPOS: 3
+:END:
+起@qǐ	[[tls:concept:FLY::#uuid-0070714e-a9af-49c5-8283-01fdf48bcdb9][FLY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332][inchoative]]} / fly up
+** 不以小缺為傷	it should not be considered ruined because of a minor defect.
+:PROPERTIES:
+:SRC: GUAN 11.21.06; WYWK 1.50; tr. Rickett 1985, p. 210;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::不以 / 管子
+:CHARPOS: 0
+:END:
+*** 缺@quē
+:PROPERTIES:
+:CONCEPT: uuid-72f0469c-ff68-4a25-9ac0-91bf9d4bcd14 / DEFECT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+缺@quē	[[tls:concept:DEFECT::#uuid-72f0469c-ff68-4a25-9ac0-91bf9d4bcd14][DEFECT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / defect, shortcoming
+** 萬家之都	An administrative region [i.e. administrative centre for CH] (dū) of 10,000 households
+:PROPERTIES:
+:SRC: GUAN 11.21.07; WYWK 1.50; tr. Rickett 1985, p. 210;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::萬家 / 管子
+:CHARPOS: 0
+:END:
+*** 都@dū
+:PROPERTIES:
+:CONCEPT: uuid-17529748-7750-4e52-bbee-780d7f0d85f2 / CITY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+都@dū	[[tls:concept:CITY::#uuid-17529748-7750-4e52-bbee-780d7f0d85f2][CITY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / major administrative and ritual centre, local centre at the lower administrative level immediately below the state capital
+** 言大人之行	This means that the actions of a great man
+:PROPERTIES:
+:SRC: GUAN 11.21.07; WYWK 1.50; tr. Rickett 1985, p. 210;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::言大 / 管子
+:CHARPOS: 0
+:END:
+*** 大人@dàrén
+:PROPERTIES:
+:CONCEPT: uuid-18acbac2-efe6-479a-8ad0-f99b3c777b7a / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+大人@dàrén	[[tls:concept:HERO::#uuid-18acbac2-efe6-479a-8ad0-f99b3c777b7a][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / great man
+** 不得不知則昏	If it neither grasps the point nor is wise, [the prince] will be confused.
+:PROPERTIES:
+:SRC: GUAN 11.22.04; WYWK 1.51; tr. Rickett 1985, p. 211;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::不得 / 管子
+:CHARPOS: 0
+:END:
+*** 昏@hūn
+:PROPERTIES:
+:CONCEPT: uuid-a1afc033-a745-4d5f-9546-8b1a75ee92ea / DARK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 5
+:END:
+昏@hūn	[[tls:concept:DARK::#uuid-a1afc033-a745-4d5f-9546-8b1a75ee92ea][DARK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be murky, be dim; be dusky by extension: be confused, benighted
+** 怨則凶	Being resentful, they will become violent.
+:PROPERTIES:
+:SRC: GUAN 11.22.05; WYWK 1.51; tr. Rickett 1985, p. 211;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::怨則 / 管子
+:CHARPOS: 0
+:END:
+*** 凶@xiōng / 兇@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-6c4fcdfa-cff8-4ed3-9402-0c7132cf1f44 / VIOLENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 2
+:END:
+凶@xiōng / 兇@xiōng	[[tls:concept:VIOLENT::#uuid-6c4fcdfa-cff8-4ed3-9402-0c7132cf1f44][VIOLENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / turn violent
+** 而外淫于馳騁田獵	so that outside [the court] he may indulge in fast horses and hunting
+:PROPERTIES:
+:SRC: GUAN 11.23.02; WYWK 1.51; tr. Rickett 1985, p. 211f;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::而外 / 管子
+:CHARPOS: 0
+:END:
+*** 馳騁@chíchěng
+:PROPERTIES:
+:CONCEPT: uuid-79c7afd4-410e-40f9-8f2e-6c9d485a7b9a / GALLOP
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+馳騁@chíchěng	[[tls:concept:GALLOP::#uuid-79c7afd4-410e-40f9-8f2e-6c9d485a7b9a][GALLOP]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / galloping; riding
+*** 田獵@tiánliè
+:PROPERTIES:
+:CONCEPT: uuid-914341cf-798e-4680-b27a-b0ff161fc9c2 / HUNT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+田獵@tiánliè	[[tls:concept:HUNT::#uuid-914341cf-798e-4680-b27a-b0ff161fc9c2][HUNT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / hunting expedition of any kind
+** 內縱于美色淫聲	while inside he lets himself go with beautiful women and licentious music,
+:PROPERTIES:
+:SRC: GUAN 11.23.02; WYWK 1.51; tr. Rickett 1985, p. 211f;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::內縱 / 管子
+:CHARPOS: 0
+:END:
+*** 縱@zòng / 從@zòng
+:PROPERTIES:
+:CONCEPT: uuid-c327d73f-9311-4c98-bfcf-4316cea67494 / UNRESTRAINED
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 1
+:END:
+縱@zòng / 從@zòng	[[tls:concept:UNRESTRAINED::#uuid-c327d73f-9311-4c98-bfcf-4316cea67494][UNRESTRAINED]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / give free rein to; let oneself go with; indulge in
+*** 淫@yín
+:PROPERTIES:
+:CONCEPT: uuid-9a8247e1-32a1-451d-a3b4-ccb95be925f4 / UNRESTRAINED
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 5
+:END:
+淫@yín	[[tls:concept:UNRESTRAINED::#uuid-9a8247e1-32a1-451d-a3b4-ccb95be925f4][UNRESTRAINED]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / extravagant, inappropriately informal; frivolous; sentimental
+** 下乃解怠惰失	those below will become lazy and careless.
+:PROPERTIES:
+:SRC: GUAN 11.23.02; WYWK 1.51; tr. Rickett 1985, p. 211f;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::下乃 / 管子
+:CHARPOS: 0
+:END:
+*** 懈怠@xièdài / 解怠@xièdài
+:PROPERTIES:
+:CONCEPT: uuid-dcfb6af7-9696-4ffd-a268-553d54e74b32 / LAZY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CONCEPT: uuid-36150d12-c785-4bd5-9c5c-ce9de6bccf8b / LAZY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 0
+:END:
+懈怠@xièdài / 解怠@xièdài	[[tls:concept:LAZY::#uuid-dcfb6af7-9696-4ffd-a268-553d54e74b32][LAZY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / be remiss in the fulfilment of one's duties
+懈@xiè / 解@xiè	[[tls:concept:LAZY::#uuid-36150d12-c785-4bd5-9c5c-ce9de6bccf8b][LAZY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / slacken; refuse to make an effort, be remiss in; become lazy
+*** 怠@dài
+:PROPERTIES:
+:CONCEPT: uuid-615795d6-f46d-436e-a539-e556ddb56cfe / TIRED
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+怠@dài	[[tls:concept:TIRED::#uuid-615795d6-f46d-436e-a539-e556ddb56cfe][TIRED]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / feel weary and uncapable of work
+** 則煩亂以亡其國家矣	trouble and disorder will result in his losing his country.
+:PROPERTIES:
+:SRC: GUAN 11.23.02; WYWK 1.51; tr. Rickett 1985, p. 211f;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::則煩 / 管子
+:CHARPOS: 0
+:END:
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-9f730315-c913-491b-9386-b0759637c8d4 / NATION
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 6
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-9f730315-c913-491b-9386-b0759637c8d4][NATION]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / nation
+** 此言尊高滿大	This refers to his self-esteem being high and his self-satisfaction great
+:PROPERTIES:
+:SRC: GUAN 11.23.03; WYWK 1.51; tr. Rickett 1985, p. 212;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::此言 / 管子
+:CHARPOS: 0
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-19a38464-f28d-4fe4-9054-51113a807df9 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675
+:CHARPOS: 0
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-19a38464-f28d-4fe4-9054-51113a807df9][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675][reference=text]]} / this (aforementioned utterance, or quotation)
+** 而好矜人以麗	so that he likes to boast to others of his beauty.
+:PROPERTIES:
+:SRC: GUAN 11.23.03; WYWK 1.51; tr. Rickett 1985, p. 212;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::而好 / 管子
+:CHARPOS: 0
+:END:
+*** 麗@lì
+:PROPERTIES:
+:CONCEPT: uuid-9e3452d1-1544-44ea-a4f0-fd34e8fb2515 / BEAUTIFUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 5
+:END:
+麗@lì	[[tls:concept:BEAUTIFUL::#uuid-9e3452d1-1544-44ea-a4f0-fd34e8fb2515][BEAUTIFUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / beauty; symmetric balance
+** 國家煩亂	but when the state is beset by trouble and disorder,
+:PROPERTIES:
+:SRC: GUAN 11.23.04; WYWK 1.51; tr. Rickett 1985, p. 212;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::國家 / 管子
+:CHARPOS: 0
+:END:
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 0
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation
+*** 煩亂@fánluàn
+:PROPERTIES:
+:CONCEPT: uuid-7a0f7e62-8e83-4673-b28c-1214a029a389 / CHAOS
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 2
+:END:
+煩亂@fánluàn	[[tls:concept:CHAOS::#uuid-7a0f7e62-8e83-4673-b28c-1214a029a389][CHAOS]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be in turmoil
+** 此言指意要功之謂也	This refers to [the manner in which] he expresses his meaning and demands for achievement.
+:PROPERTIES:
+:SRC: GUAN 11.24.01; WYWK 1.51; tr. Rickett 1985, p. 212; [Explanation XI]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::此言 / 管子
+:CHARPOS: 0
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-19a38464-f28d-4fe4-9054-51113a807df9 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675
+:CHARPOS: 0
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-19a38464-f28d-4fe4-9054-51113a807df9][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675][reference=text]]} / this (aforementioned utterance, or quotation)
+*** 謂@wèi
+:PROPERTIES:
+:CONCEPT: uuid-65d533c2-5955-456e-9028-2fbc56256af1 / MEAN
+:SYN-FUNC: uuid-5f774a3e-3ae5-4379-943f-5a999ede9e72
+:SEM-FEAT: uuid-09f2c806-49d1-4982-b725-2939739796ab
+:CHARPOS: 7
+:END:
+謂@wèi	[[tls:concept:MEAN::#uuid-65d533c2-5955-456e-9028-2fbc56256af1][MEAN]]	V [[tls:syn-func::#uuid-5f774a3e-3ae5-4379-943f-5a999ede9e72][vtpostN1pro.postN1]] {[[tls:sem-feat::#uuid-09f2c806-49d1-4982-b725-2939739796ab][N1=object]]} / 此之謂也　[note that the 也 is very rarely omitted]
+** 是以著業不得不多分	For this reason there are bound to be many [aspects to the prince's] endeavor,
+:PROPERTIES:
+:SRC: GUAN 11.24.02; WYWK 1.51; tr. Rickett 1985, p. 212;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::是以 / 管子
+:CHARPOS: 0
+:END:
+*** 是以@shìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-3a92c172-e577-45a8-a29a-c252711b03d5 / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f
+:CHARPOS: 0
+:END:
+是以@shìyǐ	[[tls:concept:THEREFORE::#uuid-3a92c172-e577-45a8-a29a-c252711b03d5][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f][objective]]} / for this objective reason
+*** 不得不@bùdébù
+:PROPERTIES:
+:CONCEPT: uuid-569b9476-f1e3-4530-bddc-9c68c56a347f / CERTAIN
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 4
+:END:
+不得不@bùdébù	[[tls:concept:CERTAIN::#uuid-569b9476-f1e3-4530-bddc-9c68c56a347f][CERTAIN]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / will certainly; willy nilly have to; inevitably will; certainly would have
+** 名位不得不殊方	and the men [who serve him] must have a variety of titles and positions.521
+:PROPERTIES:
+:SRC: GUAN 11.24.02; WYWK 1.51; tr. Rickett 1985, p. 212;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::名位 / 管子
+:CHARPOS: 0
+:END:
+*** 不得不@bùdébù
+:PROPERTIES:
+:CONCEPT: uuid-569b9476-f1e3-4530-bddc-9c68c56a347f / CERTAIN
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 2
+:END:
+不得不@bùdébù	[[tls:concept:CERTAIN::#uuid-569b9476-f1e3-4530-bddc-9c68c56a347f][CERTAIN]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / will certainly; willy nilly have to; inevitably will; certainly would have
+** 道也者	Those [who comprehend] the Way[As for the Way...CH]
+:PROPERTIES:
+:SRC: GUAN 11.24.03; WYWK 1.52; tr. Rickett 1985, p. 213;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::道也 / 管子
+:CHARPOS: 0
+:END:
+*** 也者@yězhě
+:PROPERTIES:
+:CONCEPT: uuid-67c3ee1e-0493-4f8b-9846-af68c0c53ae9 / TOPIC MARKER
+:SYN-FUNC: uuid-1d598036-8f98-4c26-a4ca-49dd7d0e2e04
+:CHARPOS: 1
+:END:
+也者@yězhě	[[tls:concept:TOPIC MARKER::#uuid-67c3ee1e-0493-4f8b-9846-af68c0c53ae9][TOPIC MARKER]]	P [[tls:syn-func::#uuid-1d598036-8f98-4c26-a4ca-49dd7d0e2e04][PPpost-N]] / marker of topics to be discussed in general abstract terms: as for N as such (Note that the comment is never narrative: one might say that this topic marker, like 夫 has a modal function.)
+** 運乎諸生	and share the life cycle of all creatures.
+:PROPERTIES:
+:SRC: GUAN 11.24.03; WYWK 1.52; tr. Rickett 1985, p. 213;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::運乎 / 管子
+:CHARPOS: 0
+:END:
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-2bec4663-0634-4730-8cc0-2adbe1724b01 / CREATURE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 3
+:END:
+生@shēng	[[tls:concept:CREATURE::#uuid-2bec4663-0634-4730-8cc0-2adbe1724b01][CREATURE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / living being (often clearly including humans, but frequently indistinguishable from the examples collected under ANIMAL)
+** 是故辯于一言	Consequently, those who are capable of only one argument,
+:PROPERTIES:
+:SRC: GUAN 11.24.03; WYWK 1.52; tr. Rickett 1985, p. 213;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::是故 / 管子
+:CHARPOS: 0
+:END:
+*** 辯@biàn
+:PROPERTIES:
+:CONCEPT: uuid-3aefc558-52c0-490a-b479-342ffec621aa / UNDERSTAND
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 2
+:END:
+辯@biàn	[[tls:concept:UNDERSTAND::#uuid-3aefc558-52c0-490a-b479-342ffec621aa][UNDERSTAND]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / understand properly; develop a proper understanding of
+** 察于一治	who are familiar with only one jurisdiction,
+:PROPERTIES:
+:SRC: GUAN 11.24.03; WYWK 1.52; tr. Rickett 1985, p. 213;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::察于 / 管子
+:CHARPOS: 0
+:END:
+*** 察@chá
+:PROPERTIES:
+:CONCEPT: uuid-b5f8d9ef-a75e-48f8-8bb3-a8d33d5d91cc / UNDERSTAND
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 0
+:END:
+察@chá	[[tls:concept:UNDERSTAND::#uuid-b5f8d9ef-a75e-48f8-8bb3-a8d33d5d91cc][UNDERSTAND]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / have a reasoned understanding of
+** 攻于一事者	and who master only one activity
+:PROPERTIES:
+:SRC: GUAN 11.24.03; WYWK 1.52; tr. Rickett 1985, p. 213;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::攻于 / 管子
+:CHARPOS: 0
+:END:
+*** 攻@gōng
+:PROPERTIES:
+:CONCEPT: uuid-03c36652-e5f9-496e-8aad-b4b38e7c16fd / WORK
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 0
+:END:
+攻@gōng	[[tls:concept:WORK::#uuid-03c36652-e5f9-496e-8aad-b4b38e7c16fd][WORK]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / work hard at, direct one's attention at
+** 而計其意	and carefully considers his meaning.
+:PROPERTIES:
+:SRC: GUAN 11.24.04; WYWK 1.52; tr. Rickett 1985, p. 213;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::而計 / 管子
+:CHARPOS: 0
+:END:
+*** 計@jì
+:PROPERTIES:
+:CONCEPT: uuid-6f083bf8-9a0e-4a5b-bcd4-f6ff5c321b3e / ASSESS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+計@jì	[[tls:concept:ASSESS::#uuid-6f083bf8-9a0e-4a5b-bcd4-f6ff5c321b3e][ASSESS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / assess precisely by calculation; assess precisely as if by calculation
+** 而況其功	and compares their merits.
+:PROPERTIES:
+:SRC: GUAN 11.24.04; WYWK 1.52; tr. Rickett 1985, p. 213;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::而況 / 管子
+:CHARPOS: 0
+:END:
+*** 而況@érkuàng
+:PROPERTIES:
+:CONCEPT: uuid-54873b36-3d36-4127-a215-536931c6bc09 / HOW
+:SYN-FUNC: uuid-8864c819-1f34-460b-92d1-0c85be0f247c
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 0
+:END:
+而況@érkuàng	[[tls:concept:HOW::#uuid-54873b36-3d36-4127-a215-536931c6bc09][HOW]]	P [[tls:syn-func::#uuid-8864c819-1f34-460b-92d1-0c85be0f247c][PP+N.postS]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how much more
+** 日有朝暮	The day has its morning and evening,
+:PROPERTIES:
+:SRC: GUAN 11.24.04; WYWK 1.52; tr. Rickett 1985, p. 213;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::日有 / 管子
+:CHARPOS: 0
+:END:
+*** 朝@zhāo
+:PROPERTIES:
+:CONCEPT: uuid-9e3cada3-e4fe-4b2a-aefe-ebbac34e7b43 / MORNING
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 2
+:END:
+朝@zhāo	[[tls:concept:MORNING::#uuid-9e3cada3-e4fe-4b2a-aefe-ebbac34e7b43][MORNING]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / the time when the sun is up and the moon has not yet gone down, very early morning
+*** 暮@mù / 莫@mò
+:PROPERTIES:
+:CONCEPT: uuid-7a7195c4-8c35-4e45-9630-cd2447367553 / EVENING
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 3
+:END:
+暮@mù / 莫@mò	[[tls:concept:EVENING::#uuid-7a7195c4-8c35-4e45-9630-cd2447367553][EVENING]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / dusk, nightfall
+** 山陵岑巖	Mountain peaks and precipies,
+:PROPERTIES:
+:SRC: GUAN 11.24.05; WYWK 1.52; tr. Rickett 1985, p. 213;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::山陵 / 管子
+:CHARPOS: 0
+:END:
+*** 山@shān
+:PROPERTIES:
+:CONCEPT: uuid-4349ccda-a6ae-458f-8c56-e7e0c80c7302 / MOUNTAIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 0
+:END:
+山@shān	[[tls:concept:MOUNTAIN::#uuid-4349ccda-a6ae-458f-8c56-e7e0c80c7302][MOUNTAIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / mountain of rock; mountain (occasionally not of rock, and even man-made)
+*** 陵@líng
+:PROPERTIES:
+:CONCEPT: uuid-c1b35737-44f4-4a8c-a18a-5967c8630fb4 / MOUNTAIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+陵@líng	[[tls:concept:MOUNTAIN::#uuid-c1b35737-44f4-4a8c-a18a-5967c8630fb4][MOUNTAIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / large mountain
+*** 岑@cén
+:PROPERTIES:
+:CONCEPT: uuid-af01467d-3e9a-485f-a6f6-1807f0e2721d / MOUNTAIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+岑@cén	[[tls:concept:MOUNTAIN::#uuid-af01467d-3e9a-485f-a6f6-1807f0e2721d][MOUNTAIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / substantial mountain, but not one of the five big ones
+*** 巖@yán / @ / @
+:PROPERTIES:
+:CONCEPT: uuid-b1c996b7-4f69-4ef6-832a-505f2d9a729e / MOUNTAIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+巖@yán / @ / @	[[tls:concept:MOUNTAIN::#uuid-b1c996b7-4f69-4ef6-832a-505f2d9a729e][MOUNTAIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / craggy high mountain
+** 淵泉閎流	deep springs and wide rivers,
+:PROPERTIES:
+:SRC: GUAN 11.24.05; WYWK 1.52; tr. Rickett 1985, p. 213;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::淵泉 / 管子
+:CHARPOS: 0
+:END:
+*** 淵@yuān
+:PROPERTIES:
+:CONCEPT: uuid-715c14aa-dedd-4ffb-9eb0-c01340e8757d / DEEP
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 0
+:END:
+淵@yuān	[[tls:concept:DEEP::#uuid-715c14aa-dedd-4ffb-9eb0-c01340e8757d][DEEP]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / deep
+** 規矩繩准	the compass and square, marking line and level,
+:PROPERTIES:
+:SRC: GUAN 11.24.06; WYWK 1.52; tr. Rickett 1985, p. 213;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::規矩 / 管子
+:CHARPOS: 0
+:END:
+*** 繩@shéng
+:PROPERTIES:
+:CONCEPT: uuid-2bb66786-8cc9-46f9-97d2-61aa6bedaf5b / LINE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-644cf692-c668-427a-9d1b-84570afa92b0
+:CHARPOS: 2
+:END:
+繩@shéng	[[tls:concept:LINE::#uuid-2bb66786-8cc9-46f9-97d2-61aa6bedaf5b][LINE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-644cf692-c668-427a-9d1b-84570afa92b0][concrete]]} / ink-line; [MOVE THE EXAMPLES FOR THIS: sometimes intransferred sense: the legal ink-line, the line where the permissible ends and the unpermissible begins]
+** 別良苦	and distinguishes between526 the good and the harmful,
+:PROPERTIES:
+:SRC: GUAN 11.25.01; WYWK 1.52; tr. Rickett 1985, p. 213; [Explanation XII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::別良 / 管子
+:CHARPOS: 0
+:END:
+*** 審別@shěnbié
+:PROPERTIES:
+:CONCEPT: uuid-b38bcc33-73fc-46d9-9718-b14730cb9589 / DISTINGUISH
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 0
+:END:
+審別@shěnbié	[[tls:concept:DISTINGUISH::#uuid-b38bcc33-73fc-46d9-9718-b14730cb9589][DISTINGUISH]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / distinguish carefully after critical examination
+*** 別@bié
+:PROPERTIES:
+:CONCEPT: uuid-43f557c2-122c-4ef3-827e-fee530827efc / DISTINGUISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 0
+:END:
+別@bié	[[tls:concept:DISTINGUISH::#uuid-43f557c2-122c-4ef3-827e-fee530827efc][DISTINGUISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / discern; differentiate between; to treat as separate, to hold apart, make the distinction between
+*** 良@liáng
+:PROPERTIES:
+:CONCEPT: uuid-404ba784-87dd-44b9-b2f4-0266a6c9569e / EXCELLENT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd
+:CHARPOS: 1
+:END:
+良@liáng	[[tls:concept:EXCELLENT::#uuid-404ba784-87dd-44b9-b2f4-0266a6c9569e][EXCELLENT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd][subj=nonhuman]]} / what is excellent and conducive to one's purposes
+*** 苦@kǔ
+:PROPERTIES:
+:CONCEPT: uuid-5c52cab0-71de-4fc9-8d38-0cbae387aabc / HATE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd
+:CHARPOS: 2
+:END:
+苦@kǔ	[[tls:concept:HATE::#uuid-5c52cab0-71de-4fc9-8d38-0cbae387aabc][HATE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd][subj=nonhuman]]} / what is hateful or irritating and not conducive to one's purposes
+** 故政治不悔	Then in his exercise of government there are no regrets.
+:PROPERTIES:
+:SRC: GUAN 11.25.01; WYWK 1.52; tr. Rickett 1985, p. 213; [Explanation XII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::故政 / 管子
+:CHARPOS: 0
+:END:
+*** 政治@zhèngzhì
+:PROPERTIES:
+:CONCEPT: uuid-f53dc36d-cbf8-45ce-9a76-5b530f978250 / GOVERN
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+政治@zhèngzhì	[[tls:concept:GOVERN::#uuid-f53dc36d-cbf8-45ce-9a76-5b530f978250][GOVERN]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / government
+** 響不為惡聲美	nor will the echo of a discordant sound be sweet.530
+:PROPERTIES:
+:SRC: GUAN 11.26.01; WYWK 1.52; tr. Rickett 1985, p. 214; [Explanation XIII]
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::響不 / 管子
+:CHARPOS: 0
+:END:
+*** 美@měi / 媄@měi / 媺@měi
+:PROPERTIES:
+:CONCEPT: uuid-48d134a6-816c-49b0-b550-da49885b6189 / BEAUTIFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2cb677b4-13d8-48a2-b1dc-dc0cf4177e65
+:CHARPOS: 5
+:END:
+美@měi / 媄@měi / 媺@měi	[[tls:concept:BEAUTIFUL::#uuid-48d134a6-816c-49b0-b550-da49885b6189][BEAUTIFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2cb677b4-13d8-48a2-b1dc-dc0cf4177e65][acoustic]]} / acoustically: pleasant to hear
+** 是以聖人明乎物之性者	For this reason the sage who wishes to see clearly the nature of things
+:PROPERTIES:
+:SRC: GUAN 11.26.02; WYWK 1.52; tr. Rickett 1985, p. 214;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::是以 / 管子
+:CHARPOS: 0
+:END:
+*** 是以@shìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-3a92c172-e577-45a8-a29a-c252711b03d5 / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f
+:CHARPOS: 0
+:END:
+是以@shìyǐ	[[tls:concept:THEREFORE::#uuid-3a92c172-e577-45a8-a29a-c252711b03d5][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f][objective]]} / for this objective reason
+*** 聖人@shèngrén
+:PROPERTIES:
+:CONCEPT: uuid-39d30f94-36a5-4b5f-8792-a6601a7a9178 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+聖人@shèngrén	[[tls:concept:HERO::#uuid-39d30f94-36a5-4b5f-8792-a6601a7a9178][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the person of extraordinary and creative talent (with untensed predicate)
+** 故君子繩繩乎慎其所先	Therefore the virtuous prince is careful to heed what he puts first.
+:PROPERTIES:
+:SRC: GUAN 11.26.02; WYWK 1.52; tr. Rickett 1985, p. 214;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::故君 / 管子
+:CHARPOS: 0
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+** 天地萬物之橐也	'Heaven and Earth are the receptables for all things.
+:PROPERTIES:
+:SRC: GUAN 11.26.02; WYWK 1.52; tr. Rickett 1985, p. 214;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::「天 / 管子
+:CHARPOS: 0
+:END:
+*** 橐@tuó
+:PROPERTIES:
+:CONCEPT: uuid-10c1b920-ca5d-4071-bfb7-e51b3037beaa / BAG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+橐@tuó	[[tls:concept:BAG::#uuid-10c1b920-ca5d-4071-bfb7-e51b3037beaa][BAG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / SHI: bag, often made of leather, but sometimes also made of cloth; One type of tuó 橐 is constructed as a combination of two sacks with their openings close together, worn over one's shoulder. See illustration.
+** 宙合有橐天地	The All-Embracing Unity serves as the receptable for Heavena nd Earth.'
+:PROPERTIES:
+:SRC: GUAN 11.26.02; WYWK 1.52; tr. Rickett 1985, p. 214;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::宙合 / 管子
+:CHARPOS: 0
+:END:
+*** 有橐@yǒutuó
+:PROPERTIES:
+:CONCEPT: uuid-ac817a33-26bd-43dc-8525-da3363726ede / CONTAIN
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 2
+:END:
+有橐@yǒutuó	[[tls:concept:CONTAIN::#uuid-ac817a33-26bd-43dc-8525-da3363726ede][CONTAIN]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / contain abstractly as in a bag
+** 上通於天之上	penetrates above the heights of Heaven
+:PROPERTIES:
+:SRC: GUAN 11.26.03; WYWK 1.53; tr. Rickett 1985, p. 214;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::上通 / 管子
+:CHARPOS: 0
+:END:
+*** 上@shàng
+:PROPERTIES:
+:CONCEPT: uuid-e8234167-f348-4360-83af-b4c46aae5928 / ABOVE
+:SYN-FUNC: uuid-de2471bd-7e6e-476a-a967-c8e9706d2a65
+:SEM-FEAT: uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2
+:CHARPOS: 0
+:END:
+上@shàng	[[tls:concept:ABOVE::#uuid-e8234167-f348-4360-83af-b4c46aae5928][ABOVE]]	N [[tls:syn-func::#uuid-de2471bd-7e6e-476a-a967-c8e9706d2a65][npost-.N+ZHI]] {[[tls:sem-feat::#uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2][place]]} / on top
+** 下泉於地之下	and reaches531 below the depths of the Earth.
+:PROPERTIES:
+:SRC: GUAN 11.26.03; WYWK 1.53; tr. Rickett 1985, p. 214;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::下泉 / 管子
+:CHARPOS: 0
+:END:
+*** 下@xià
+:PROPERTIES:
+:CONCEPT: uuid-1d7f20a8-383f-4e52-90f4-2f86f70d3a07 / BELOW
+:SYN-FUNC: uuid-de2471bd-7e6e-476a-a967-c8e9706d2a65
+:CHARPOS: 0
+:END:
+下@xià	[[tls:concept:BELOW::#uuid-1d7f20a8-383f-4e52-90f4-2f86f70d3a07][BELOW]]	N [[tls:syn-func::#uuid-de2471bd-7e6e-476a-a967-c8e9706d2a65][npost-.N+ZHI]] / below
+** 有橐天地	'[The All-Embracing Unity] serves as the receptable for Heaven and Earth.'
+:PROPERTIES:
+:SRC: GUAN 11.26.04; WYWK 1.53; tr. Rickett 1985, p. 214f;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::有橐 / 管子
+:CHARPOS: 0
+:END:
+*** 有橐@yǒutuó
+:PROPERTIES:
+:CONCEPT: uuid-ac817a33-26bd-43dc-8525-da3363726ede / CONTAIN
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 0
+:END:
+有橐@yǒutuó	[[tls:concept:CONTAIN::#uuid-ac817a33-26bd-43dc-8525-da3363726ede][CONTAIN]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / contain abstractly as in a bag
+** 愛之利之	'Love them, benefit them,
+:PROPERTIES:
+:SRC: GUAN 12.01.02; WYWK 1.53; tr. Rickett 1985, p. 217;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::「愛 / 管子
+:CHARPOS: 0
+:END:
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-73223eca-19f7-46f4-ae9e-d8584eae314b / LOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 0
+:END:
+愛@ài	[[tls:concept:LOVE::#uuid-73223eca-19f7-46f4-ae9e-d8584eae314b][LOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / love and care for, take loving care of; generally: take proper care of (one's person/life)
+** 而天下治矣	and so the realm became well governed.'
+:PROPERTIES:
+:SRC: GUAN 12.01.02; WYWK 1.53; tr. Rickett 1985, p. 217;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::而天 / 管子
+:CHARPOS: 0
+:END:
+*** 治@zhì
+:PROPERTIES:
+:CONCEPT: uuid-03223f28-3852-4c2a-b5e8-436c015d7c77 / ORDERLY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 3
+:END:
+治@zhì	[[tls:concept:ORDERLY::#uuid-03223f28-3852-4c2a-b5e8-436c015d7c77][ORDERLY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be in good order; be well-governed, be well-ordered; of persons: be in good shape
+** 在此三者	depends on these three,
+:PROPERTIES:
+:SRC: GUAN 12.01.04; WYWK 1.54; tr. Rickett 1985, p. 217;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::在此 / 管子
+:CHARPOS: 0
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303 / THIS
+:SYN-FUNC: uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774
+:SEM-FEAT: uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303][THIS]]	N [[tls:syn-func::#uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774][npro.adN{NUM}:adnpro]] {[[tls:sem-feat::#uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432][N=abstract]]} / 此三者
+** 不可不慎	they must be given careful consideration.'
+:PROPERTIES:
+:SRC: GUAN 12.01.04; WYWK 1.54; tr. Rickett 1985, p. 217;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::不可 / 管子
+:CHARPOS: 0
+:END:
+*** 不可不@bùkěbù
+:PROPERTIES:
+:CONCEPT: uuid-9575001b-a426-4b2d-944c-7f20c581d833 / SHOULD
+:SYN-FUNC: uuid-574cb956-877c-4eaa-9a24-c8641607f917
+:CHARPOS: 0
+:END:
+不可不@bùkěbù	[[tls:concept:SHOULD::#uuid-9575001b-a426-4b2d-944c-7f20c581d833][SHOULD]]	V [[tls:syn-func::#uuid-574cb956-877c-4eaa-9a24-c8641607f917][VPt+V{0}{PASS}]] / should by all means be V-ed
+** 寶也	are its precious assets.
+:PROPERTIES:
+:SRC: GUAN 12.01.05; WYWK 1.54; tr. Rickett 1985, p. 217;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::寶也 / 管子
+:CHARPOS: 0
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-0ed89176-fabe-44a0-b5b0-4bc53f21c46c / PRECIOUS
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 0
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-0ed89176-fabe-44a0-b5b0-4bc53f21c46c][PRECIOUS]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / most important thing, objectively most valuable thing 諸侯之寶三
+** 聖智	The wisdom of the sages
+:PROPERTIES:
+:SRC: GUAN 12.01.06; WYWK 1.54; tr. Rickett 1985, p. 217;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::聖智 / 管子
+:CHARPOS: 0
+:END:
+*** 智@zhì / 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-fd931d75-8f5a-4d1e-b665-c7e227fdb738 / WISE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 1
+:END:
+智@zhì / 知@zhī	[[tls:concept:WISE::#uuid-fd931d75-8f5a-4d1e-b665-c7e227fdb738][WISE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / wisdom; BUDDH: perfect insight, wisdom skr. prajñā
+** 器也	is its guiding instrument.
+:PROPERTIES:
+:SRC: GUAN 12.01.06; WYWK 1.54; tr. Rickett 1985, p. 217;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::器也 / 管子
+:CHARPOS: 0
+:END:
+*** 器@qì
+:PROPERTIES:
+:CONCEPT: uuid-aaed3d0d-f318-4a89-8cd9-5d93b91918ce / TOOL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 0
+:END:
+器@qì	[[tls:concept:TOOL::#uuid-aaed3d0d-f318-4a89-8cd9-5d93b91918ce][TOOL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / (mere) tool; (abstract) instrument>method
+** 末用也	are its media of exchange.4
+:PROPERTIES:
+:SRC: GUAN 12.01.06; WYWK 1.54; tr. Rickett 1985, p. 217;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::末， / 管子
+:CHARPOS: 0
+:END:
+*** 末@mò
+:PROPERTIES:
+:CONCEPT: uuid-f77e89c1-4748-4a0e-a172-fb94bc6492b9 / UNIMPORTANT
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 0
+:END:
+末@mò	[[tls:concept:UNIMPORTANT::#uuid-f77e89c1-4748-4a0e-a172-fb94bc6492b9][UNIMPORTANT]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / marginal
+*** 用@yòng
+:PROPERTIES:
+:CONCEPT: uuid-85dd311b-66ee-44ee-a867-b32391d19b68 / TOOL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+用@yòng	[[tls:concept:TOOL::#uuid-85dd311b-66ee-44ee-a867-b32391d19b68][TOOL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / utensils, useful tools
+** 先王重其寶器	The former kings valued the precious assets and guiding instrument,
+:PROPERTIES:
+:SRC: GUAN 12.01.06; WYWK 1.54; tr. Rickett 1985, p. 217;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::先王 / 管子
+:CHARPOS: 0
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-4b81a6f2-2b6b-4ef4-969b-db19221e980f / PRECIOUS
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 4
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-4b81a6f2-2b6b-4ef4-969b-db19221e980f][PRECIOUS]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / precious; sometimes: containing treasure
+** 而賢者寡之	and so worthy men keep [these feelings] to a minimum.'7
+:PROPERTIES:
+:SRC: GUAN 12.01.08; WYWK 1.54; tr. Rickett 1985, p. 217f;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::而賢 / 管子
+:CHARPOS: 0
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1 / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: the man of talent and moral worth (at any time and in any place)
+** 王主積于民	'The treasure of the kingly ruler is spent on his people,
+:PROPERTIES:
+:SRC: GUAN 12.01.08; WYWK 1.54; tr. Rickett 1985, p. 217f;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::王主 / 管子
+:CHARPOS: 0
+:END:
+*** 王@wáng
+:PROPERTIES:
+:CONCEPT: uuid-ab9c1323-30a2-4f28-934d-3942dd9fc099 / KING
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 0
+:END:
+王@wáng	[[tls:concept:KING::#uuid-ab9c1323-30a2-4f28-934d-3942dd9fc099][KING]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / characteristic of a true king, truly royal, royal
+*** 王主@wángzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-ed6f087d-a351-48f6-8103-d225f8ce5a93 / RULER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 0
+:END:
+王主@wángzhǔ	[[tls:concept:RULER::#uuid-ed6f087d-a351-48f6-8103-d225f8ce5a93][RULER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / royal ruler
+** 霸主積于將戰士	while that of the lord protector is spent on his generals and troops.
+:PROPERTIES:
+:SRC: GUAN 12.01.08; WYWK 1.54; tr. Rickett 1985, p. 217f;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::霸主 / 管子
+:CHARPOS: 0
+:END:
+*** 霸@bà / @
+:PROPERTIES:
+:CONCEPT: uuid-1f354252-c1a8-48c2-9446-7cd53794721b / RULER
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 0
+:END:
+霸@bà / @	[[tls:concept:RULER::#uuid-1f354252-c1a8-48c2-9446-7cd53794721b][RULER]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / leading, paramount 霸王
+*** 霸主@bàzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-f4aa1857-25c1-4d94-a471-0c5aba376ae9 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 0
+:END:
+霸主@bàzhǔ	[[tls:concept:RULER::#uuid-f4aa1857-25c1-4d94-a471-0c5aba376ae9][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / preeminent ruler, ruler of the hegemon type
+** 而好以其國造難生患	yet willing to use his state to stir up trouble and create suffering;
+:PROPERTIES:
+:SRC: GUAN 12.01.12; WYWK 1.54; tr. Rickett 1985, p. 218;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::而好 / 管子
+:CHARPOS: 0
+:END:
+*** 造@zào
+:PROPERTIES:
+:CONCEPT: uuid-2a790670-0b48-4461-9b2c-4bb6a892815d / PRODUCE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 5
+:END:
+造@zào	[[tls:concept:PRODUCE::#uuid-2a790670-0b48-4461-9b2c-4bb6a892815d][PRODUCE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / produce, create (resentment)
+** 愛人甚而不能利也	'One may love other deeply, yet be unable to benefit them,
+:PROPERTIES:
+:SRC: GUAN 12.01.14; WYWK 1.54; tr. Rickett 1985, p. 218;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::愛人 / 管子
+:CHARPOS: 0
+:END:
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-52dc3854-2599-4a9d-b3da-acf3672be90c / LOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-30e2dd81-205b-4529-a30b-12619ec18909
+:CHARPOS: 0
+:END:
+愛@ài	[[tls:concept:LOVE::#uuid-52dc3854-2599-4a9d-b3da-acf3672be90c][LOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-30e2dd81-205b-4529-a30b-12619ec18909][non-erotic]]} / have fond feelings for (the people) etc
+** 先王不約束	'The former kings did not restrain [people by treaties]
+:PROPERTIES:
+:SRC: GUAN 12.01.16; WYWK 1.55; tr. Rickett 1985, p. 219;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::先王 / 管子
+:CHARPOS: 0
+:END:
+*** 束@shù
+:PROPERTIES:
+:CONCEPT: uuid-5d9ff6d6-5348-4a2d-884c-38db9f3b179f / RESTRAIN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+束@shù	[[tls:concept:RESTRAIN::#uuid-5d9ff6d6-5348-4a2d-884c-38db9f3b179f][RESTRAIN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / constrict others
+** 約束則解	They released those restrained [by treaties]
+:PROPERTIES:
+:SRC: GUAN 12.01.16; WYWK 1.55; tr. Rickett 1985, p. 219;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::約束 / 管子
+:CHARPOS: 0
+:END:
+*** 約@yuē
+:PROPERTIES:
+:CONCEPT: uuid-b47c97bd-54d2-4d22-9738-b46377ae1e95 / RESTRAIN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 0
+:END:
+約@yuē	[[tls:concept:RESTRAIN::#uuid-b47c97bd-54d2-4d22-9738-b46377ae1e95][RESTRAIN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / restrain others
+** 是以	Thus [the former kings]
+:PROPERTIES:
+:SRC: GUAN 12.01.17; WYWK 1.55; tr. Rickett 1985, p. 219;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::是以 / 管子
+:CHARPOS: 0
+:END:
+*** 是以@shìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-3a92c172-e577-45a8-a29a-c252711b03d5 / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f
+:CHARPOS: 0
+:END:
+是以@shìyǐ	[[tls:concept:THEREFORE::#uuid-3a92c172-e577-45a8-a29a-c252711b03d5][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f][objective]]} / for this objective reason
+** 能繼天子之容	were able to sustain the majestic bearing of the son of Heaven.
+:PROPERTIES:
+:SRC: GUAN 12.01.17; WYWK 1.55; tr. Rickett 1985, p. 219;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::能繼 / 管子
+:CHARPOS: 0
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-e9d7ecdf-283d-4ee4-9dfa-27501092b82e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-e9d7ecdf-283d-4ee4-9dfa-27501092b82e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / an emperor; the emperor generally (with untensed predicate)
+** 則邊竟安	their frontiers were peaceful.
+:PROPERTIES:
+:SRC: GUAN 12.01.18; WYWK 1.55; tr. Rickett 1985, p. 219;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::則邊 / 管子
+:CHARPOS: 0
+:END:
+*** 邊竟@biānjìng
+:PROPERTIES:
+:CONCEPT: uuid-6cf28098-859e-4ac9-b3bf-f0d9431369f0 / BORDER AREA
+:SYN-FUNC: uuid-37c81914-a5f2-4c6c-a69c-d61831609e97
+:CHARPOS: 1
+:END:
+邊竟@biānjìng	[[tls:concept:BORDER AREA::#uuid-6cf28098-859e-4ac9-b3bf-f0d9431369f0][BORDER AREA]]	N [[tls:syn-func::#uuid-37c81914-a5f2-4c6c-a69c-d61831609e97][NP{PL}]] / border area, borderland
+** 人之心悍	and their hearts were cruel.
+:PROPERTIES:
+:SRC: GUAN 12.01.19; WYWK 1.55; tr. Rickett 1985, p. 219;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::人之 / 管子
+:CHARPOS: 0
+:END:
+*** 悍@hàn
+:PROPERTIES:
+:CONCEPT: uuid-01bf34bc-654c-48d5-88ac-138b90c7b721 / COURAGE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+悍@hàn	[[tls:concept:COURAGE::#uuid-01bf34bc-654c-48d5-88ac-138b90c7b721][COURAGE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / ferocious, fiercely courageous, habitually violent; obstreporous
+** 桀舜是也	Jie and Shun12 were examples of this.
+:PROPERTIES:
+:SRC: GUAN 12.01.20; WYWK 1.55; tr. Rickett 1985, p. 219;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::桀、 / 管子
+:CHARPOS: 0
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-360710ac-befe-4876-9049-5978a7651960 / SUCH
+:SYN-FUNC: uuid-57ce2afe-2539-46f3-abe4-7f85130914ca
+:CHARPOS: 2
+:END:
+是@shì	[[tls:concept:SUCH::#uuid-360710ac-befe-4876-9049-5978a7651960][SUCH]]	N [[tls:syn-func::#uuid-57ce2afe-2539-46f3-abe4-7f85130914ca][npro{PRED}]] / be such; be a paradigmatic example; be a typical case in point; be a relevant example; be a paradigm case
+** 先王之所以最重也	That is why the former kings attached extreme importance to it.'
+:PROPERTIES:
+:SRC: GUAN 12.01.20; WYWK 1.55; tr. Rickett 1985, p. 219;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::先王 / 管子
+:CHARPOS: 0
+:END:
+*** 最@zuì
+:PROPERTIES:
+:CONCEPT: uuid-fcfff24f-f6d4-4f0c-aa75-eaf3dddc238c / EXTREME
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 5
+:END:
+最@zuì	[[tls:concept:EXTREME::#uuid-fcfff24f-f6d4-4f0c-aa75-eaf3dddc238c][EXTREME]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / to the highest degree of all cases, most 自以為最賢
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-1cff7896-da7d-43e9-b8d4-ef2133e23740 / IMPORTANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 6
+:END:
+重@zhòng	[[tls:concept:IMPORTANT::#uuid-1cff7896-da7d-43e9-b8d4-ef2133e23740][IMPORTANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / consider as important; consider as a serious matter, take seriously, attach importance to; be chiefly concerned with; 最重
+** 斯待以成	depended on [understanding] this for their success.
+:PROPERTIES:
+:SRC: GUAN 12.01.21; WYWK 1.55; tr. Rickett 1985, p. 220;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::斯待 / 管子
+:CHARPOS: 0
+:END:
+*** 斯@sī
+:PROPERTIES:
+:CONCEPT: uuid-3af05030-2388-4b40-8c9b-af4da49f73f5 / THIS
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:CHARPOS: 0
+:END:
+斯@sī	[[tls:concept:THIS::#uuid-3af05030-2388-4b40-8c9b-af4da49f73f5][THIS]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] / 斯食之 pronoun preceding a transitive verb of which it is the object [There are more examples of this that need to reclassified.]
+** 故先王重之	Therefore the former kings [also] attached importance to this.'
+:PROPERTIES:
+:SRC: GUAN 12.01.21; WYWK 1.55; tr. Rickett 1985, p. 220;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::故先 / 管子
+:CHARPOS: 0
+:END:
+*** 先王@xiānwáng
+:PROPERTIES:
+:CONCEPT: uuid-c82dacc9-55fe-4ade-a237-2f153de2aa61 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+先王@xiānwáng	[[tls:concept:RULER::#uuid-c82dacc9-55fe-4ade-a237-2f153de2aa61][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the former kings; one series: 堯舜禹湯文武孝己
+** 故存國家	Therefore preserving the state
+:PROPERTIES:
+:SRC: GUAN 12.01.23; WYWK 1.55; tr. Rickett 1985, p. 220;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::故存 / 管子
+:CHARPOS: 0
+:END:
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 2
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation
+** 定社稷	and securing the altars of Land and Grain
+:PROPERTIES:
+:SRC: GUAN 12.01.23; WYWK 1.55; tr. Rickett 1985, p. 220;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::定社 / 管子
+:CHARPOS: 0
+:END:
+*** 社稷@shèjì
+:PROPERTIES:
+:CONCEPT: uuid-310a51e8-6b60-4f00-bd69-7eca47322c67 / NATION
+:SYN-FUNC: uuid-0c513944-f90e-42df-a8ad-65300f05c945
+:CHARPOS: 1
+:END:
+社稷@shèjì	[[tls:concept:NATION::#uuid-310a51e8-6b60-4f00-bd69-7eca47322c67][NATION]]	N [[tls:syn-func::#uuid-0c513944-f90e-42df-a8ad-65300f05c945][NP{post-N}]] / our (one's) nation, national ancestral and moral heritage
+** 動作必思之	Consider your actions,
+:PROPERTIES:
+:SRC: GUAN 12.01.27; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::動作 / 管子
+:CHARPOS: 0
+:END:
+*** 動@dòng
+:PROPERTIES:
+:CONCEPT: uuid-71b17c54-6686-4591-aa4b-435678a442f4 / ACT
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 0
+:END:
+動@dòng	[[tls:concept:ACT::#uuid-71b17c54-6686-4591-aa4b-435678a442f4][ACT]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / action; initiative;
+*** 作@zuò / 作@zuò / 作@zuò
+:PROPERTIES:
+:CONCEPT: uuid-a2e2f8ff-0f8b-4b96-806e-ba5c2f4efed9 / ACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+作@zuò / 作@zuò / 作@zuò	[[tls:concept:ACT::#uuid-a2e2f8ff-0f8b-4b96-806e-ba5c2f4efed9][ACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / the taking of initiatives
+** 無令人識之	but let no man know your mind.
+:PROPERTIES:
+:SRC: GUAN 12.01.27; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::無令 / 管子
+:CHARPOS: 0
+:END:
+*** 識@shí
+:PROPERTIES:
+:CONCEPT: uuid-08a00bd8-71c1-4c22-88a1-13dc00316859 / KNOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332
+:CHARPOS: 3
+:END:
+識@shí	[[tls:concept:KNOW::#uuid-08a00bd8-71c1-4c22-88a1-13dc00316859][KNOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332][inchoative]]} / get an idea of, get any idea of; get wind of, notice
+** 不可欺者智也	Whoever cannot be deceived is wise.
+:PROPERTIES:
+:SRC: GUAN 12.01.27; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::不可 / 管子
+:CHARPOS: 0
+:END:
+*** 智@zhì / 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-686603ee-d48c-4837-bda3-0f572ba0574e / INTELLIGENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+智@zhì / 知@zhī	[[tls:concept:INTELLIGENT::#uuid-686603ee-d48c-4837-bda3-0f572ba0574e][INTELLIGENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be intellectually competent; intellectually excellent
+** 既智且仁	To be both wise and good -
+:PROPERTIES:
+:SRC: GUAN 12.01.27; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::既智 / 管子
+:CHARPOS: 0
+:END:
+*** 且@qiě
+:PROPERTIES:
+:CONCEPT: uuid-26d44b32-c4de-4c37-b497-051c06d80f66 / AND
+:SYN-FUNC: uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442
+:CHARPOS: 2
+:END:
+且@qiě	[[tls:concept:AND::#uuid-26d44b32-c4de-4c37-b497-051c06d80f66][AND]]	P [[tls:syn-func::#uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442][padV1.postV2]] / and moreover V1且V2 富且貴 "get rich and even noble"
+** 是謂成人	such is called being a complete man.'
+:PROPERTIES:
+:SRC: GUAN 12.01.27; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::是謂 / 管子
+:CHARPOS: 0
+:END:
+*** 成人@chéngrén
+:PROPERTIES:
+:CONCEPT: uuid-1ca8b0f4-c644-404d-9921-cc31f02a8475 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 2
+:END:
+成人@chéngrén	[[tls:concept:HERO::#uuid-1ca8b0f4-c644-404d-9921-cc31f02a8475][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / accomplished person; successful people
+** 賤固事貴	'The lowly indeed serve the honored.
+:PROPERTIES:
+:SRC: GUAN 12.01.28; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::賤固 / 管子
+:CHARPOS: 0
+:END:
+*** 賤@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-0c7e64dc-9995-4a61-bef3-2fec568c5287 / HUMBLE
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 0
+:END:
+賤@jiàn	[[tls:concept:HUMBLE::#uuid-0c7e64dc-9995-4a61-bef3-2fec568c5287][HUMBLE]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / person of low status
+*** 貴@guì
+:PROPERTIES:
+:CONCEPT: uuid-ae6232af-5b1d-44d2-97ee-857d92e9bab7 / NOBLE
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+貴@guì	[[tls:concept:NOBLE::#uuid-ae6232af-5b1d-44d2-97ee-857d92e9bab7][NOBLE]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / person of noble status; nobleman; the noble
+** 惡者美之充也	'Ugliness is the basis 21 for [appreciating] beauty.
+:PROPERTIES:
+:SRC: GUAN 12.01.28; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::惡者 / 管子
+:CHARPOS: 0
+:END:
+*** 惡者@èzhě
+:PROPERTIES:
+:CONCEPT: uuid-e5acc119-84a8-4657-ade0-326557232281 / UGLY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 0
+:END:
+惡者@èzhě	[[tls:concept:UGLY::#uuid-e5acc119-84a8-4657-ade0-326557232281][UGLY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / ugliness; (or in the spirit of Plato: the ugly)
+*** 美@měi / 媄@měi / 媺@měi
+:PROPERTIES:
+:CONCEPT: uuid-c1985871-3644-47ef-a536-1f4ab9b00549 / BEAUTIFUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 2
+:END:
+美@měi / 媄@měi / 媺@měi	[[tls:concept:BEAUTIFUL::#uuid-c1985871-3644-47ef-a536-1f4ab9b00549][BEAUTIFUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / physical beauty; handsomeness; splendour; good looks
+*** 充@chōng
+:PROPERTIES:
+:CONCEPT: uuid-e6803949-7dbd-4472-b06f-d2bd416caaf0 / FILL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+充@chōng	[[tls:concept:FILL::#uuid-e6803949-7dbd-4472-b06f-d2bd416caaf0][FILL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / what "fills" and forms the real basis of something ???
+** 卑者尊之充也	Humility is the basis for [measuring] high status.
+:PROPERTIES:
+:SRC: GUAN 12.01.28; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::卑者 / 管子
+:CHARPOS: 0
+:END:
+*** 卑者@bēizhě
+:PROPERTIES:
+:CONCEPT: uuid-528223a8-e8fe-4676-b1db-983d19f6eb1c / HUMBLE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 0
+:END:
+卑者@bēizhě	[[tls:concept:HUMBLE::#uuid-528223a8-e8fe-4676-b1db-983d19f6eb1c][HUMBLE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / humbleness (or: the humble!)
+*** 尊@zūn
+:PROPERTIES:
+:CONCEPT: uuid-c5e493b3-344c-4e9e-ae75-d1631810c9c2 / NOBLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 2
+:END:
+尊@zūn	[[tls:concept:NOBLE::#uuid-c5e493b3-344c-4e9e-ae75-d1631810c9c2][NOBLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / nobility, high status
+*** 充@chōng
+:PROPERTIES:
+:CONCEPT: uuid-e6803949-7dbd-4472-b06f-d2bd416caaf0 / FILL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+充@chōng	[[tls:concept:FILL::#uuid-e6803949-7dbd-4472-b06f-d2bd416caaf0][FILL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / what "fills" and forms the real basis of something ???
+** 賤者貴之充也	Lowliness is the basis for [gauging] honor.
+:PROPERTIES:
+:SRC: GUAN 12.01.28; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::賤者 / 管子
+:CHARPOS: 0
+:END:
+*** 賤者@jiànzhě
+:PROPERTIES:
+:CONCEPT: uuid-f4bc1ddb-59f0-4df4-a4cd-267d30ce63a7 / VULGAR
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 0
+:END:
+賤者@jiànzhě	[[tls:concept:VULGAR::#uuid-f4bc1ddb-59f0-4df4-a4cd-267d30ce63a7][VULGAR]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / vulgarity (or: the vulgar!!)
+*** 貴@guì
+:PROPERTIES:
+:CONCEPT: uuid-33e8df38-2326-4d9e-b801-6874bbd0f9af / NOBLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 2
+:END:
+貴@guì	[[tls:concept:NOBLE::#uuid-33e8df38-2326-4d9e-b801-6874bbd0f9af][NOBLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / nobility
+*** 充@chōng
+:PROPERTIES:
+:CONCEPT: uuid-e6803949-7dbd-4472-b06f-d2bd416caaf0 / FILL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+充@chōng	[[tls:concept:FILL::#uuid-e6803949-7dbd-4472-b06f-d2bd416caaf0][FILL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / what "fills" and forms the real basis of something ???
+** 鬼神以祥使	the spririts with their omens,
+:PROPERTIES:
+:SRC: GUAN 12.01.29; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::鬼神 / 管子
+:CHARPOS: 0
+:END:
+*** 祥@xiáng
+:PROPERTIES:
+:CONCEPT: uuid-70c8b1b6-5348-4481-a214-8d4f567be56a / AUSPICIOUS
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+祥@xiáng	[[tls:concept:AUSPICIOUS::#uuid-70c8b1b6-5348-4481-a214-8d4f567be56a][AUSPICIOUS]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / SHI 236: lucky (day); auspicious (hearth, carriage for a deceased person)
+** 禽獸以力使	and animals with their strength.'
+:PROPERTIES:
+:SRC: GUAN 12.01.29; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::禽獸 / 管子
+:CHARPOS: 0
+:END:
+*** 禽獸@qínshòu
+:PROPERTIES:
+:CONCEPT: uuid-cca5903f-e6f8-40d4-afdf-71730544ce8a / BEAST
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 0
+:END:
+禽獸@qínshòu	[[tls:concept:BEAST::#uuid-cca5903f-e6f8-40d4-afdf-71730544ce8a][BEAST]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / wild animals generally (not necessarily including both birds and beasts) 禽獸之皮
+** 所謂德者	'What is called virtue
+:PROPERTIES:
+:SRC: GUAN 12.01.29; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::所謂 / 管子
+:CHARPOS: 0
+:END:
+*** 所謂@suǒwèi
+:PROPERTIES:
+:CONCEPT: uuid-7c7b625e-178e-4546-9acc-6444a55cd269 / SO-CALLED
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:SEM-FEAT: uuid-c040866d-4e57-44c2-9a76-e6c539b1a340
+:CHARPOS: 0
+:END:
+所謂@suǒwèi	[[tls:concept:SO-CALLED::#uuid-7c7b625e-178e-4546-9acc-6444a55cd269][SO-CALLED]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] {[[tls:sem-feat::#uuid-c040866d-4e57-44c2-9a76-e6c539b1a340][unmarked]]} / what is properly called, what goes by the name; what is here called
+** 先王用一陰二陽者霸	'Of the former kings, those who used one Yin and two Yang became Lord protectors.
+:PROPERTIES:
+:SRC: GUAN 12.01.30; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::先王 / 管子
+:CHARPOS: 0
+:END:
+*** 霸@bà / @
+:PROPERTIES:
+:CONCEPT: uuid-9a1c8965-c931-4837-9f42-c85186e58e58 / RULER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 8
+:END:
+霸@bà / @	[[tls:concept:RULER::#uuid-9a1c8965-c931-4837-9f42-c85186e58e58][RULER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / assert oneself as hegemon; become leader, preeminent ruler, or hegemon; come to act as leading person; become the leading state
+** 不審此三者	If you do not seriously consider these three,
+:PROPERTIES:
+:SRC: GUAN 12.01.30; WYWK 1.56; tr. Rickett 1985, p. 221;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::不審 / 管子
+:CHARPOS: 0
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303 / THIS
+:SYN-FUNC: uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774
+:SEM-FEAT: uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432
+:CHARPOS: 2
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303][THIS]]	N [[tls:syn-func::#uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774][npro.adN{NUM}:adnpro]] {[[tls:sem-feat::#uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432][N=abstract]]} / 此三者
+** 二者不合	If in these two respects there is no harmony,
+:PROPERTIES:
+:SRC: GUAN 12.01.32; WYWK 1.56; tr. Rickett 1985, p. 222;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::二者 / 管子
+:CHARPOS: 0
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-b928f487-e573-422d-bb0c-0a5d651a2070 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-b94db793-02ce-4893-89a0-d595bc919083
+:CHARPOS: 1
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-b928f487-e573-422d-bb0c-0a5d651a2070][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-b94db793-02ce-4893-89a0-d595bc919083][npro.post-V{NUM}]] / 二者 "the two"
+** 人之自失也	of individuals
+:PROPERTIES:
+:SRC: GUAN 12.01.33; WYWK 1.56; tr. Rickett 1985, p. 222;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::人之 / 管子
+:CHARPOS: 0
+:END:
+*** 失@shī
+:PROPERTIES:
+:CONCEPT: uuid-0d6017e2-fd6f-4342-9625-9c2a96d228c5 / LOSE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 3
+:END:
+失@shī	[[tls:concept:LOSE::#uuid-0d6017e2-fd6f-4342-9625-9c2a96d228c5][LOSE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / lose control of (oneself); be at a (complete) loss
+** 故善游者死于梁池	Therefore, those who are skilled in swimming die in dammed up ponds.28
+:PROPERTIES:
+:SRC: GUAN 12.01.33; WYWK 1.56; tr. Rickett 1985, p. 222;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::故善 / 管子
+:CHARPOS: 0
+:END:
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-853f63b7-05ed-4c54-ab7a-85148f197416 / EXCELLENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 1
+:END:
+善@shàn	[[tls:concept:EXCELLENT::#uuid-853f63b7-05ed-4c54-ab7a-85148f197416][EXCELLENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be impressive, be excellent; be the best; be good 甚善
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-ef2009c7-53eb-431f-8176-9c67049fc61f / EXCELLENT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 1
+:END:
+善@shàn	[[tls:concept:EXCELLENT::#uuid-ef2009c7-53eb-431f-8176-9c67049fc61f][EXCELLENT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / excel at, be good at
+*** 游@yóu
+:PROPERTIES:
+:CONCEPT: uuid-e6b708a9-5d87-4758-9872-8b09f817cc6a / SWIM
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+游@yóu	[[tls:concept:SWIM::#uuid-e6b708a9-5d87-4758-9872-8b09f817cc6a][SWIM]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / swim
+** 自古及今	there has never been
+:PROPERTIES:
+:SRC: GUAN 12.01.34; WYWK 1.56; tr. Rickett 1985, p. 222;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::自古 / 管子
+:CHARPOS: 0
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-8985d2c7-37bc-436c-a662-2cad84574011 / UNTIL
+:SYN-FUNC: uuid-c4fba5c5-012f-4cb2-abc3-925a09a93060
+:CHARPOS: 2
+:END:
+及@jí	[[tls:concept:UNTIL::#uuid-8985d2c7-37bc-436c-a662-2cad84574011][UNTIL]]	V [[tls:syn-func::#uuid-c4fba5c5-012f-4cb2-abc3-925a09a93060][vt0oN1:post-.Vt'0oN2:.adS]] / until (place or time); by the time of CHECK EXAMPLES ETC
+** 眾勝寡	'The many will be victorious over the few,
+:PROPERTIES:
+:SRC: GUAN 12.01.35; WYWK 1.56; tr. Rickett 1985, p. 222;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::眾勝 / 管子
+:CHARPOS: 0
+:END:
+*** 眾@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-cd750cad-35d4-4990-9ae6-2e5a7e175e8e / CROWD
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 0
+:END:
+眾@zhòng	[[tls:concept:CROWD::#uuid-cd750cad-35d4-4990-9ae6-2e5a7e175e8e][CROWD]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / the subject of being many> the crowd, the many people; the mulitudes of the people; the hoi polloi
+*** 寡@guǎ
+:PROPERTIES:
+:CONCEPT: uuid-58440d92-b4f5-4cc8-b4fa-1da41b1fdf0d / FEW
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 2
+:END:
+寡@guǎ	[[tls:concept:FEW::#uuid-58440d92-b4f5-4cc8-b4fa-1da41b1fdf0d][FEW]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / the current minority
+** 疾勝徐	the speedy over the slow,
+:PROPERTIES:
+:SRC: GUAN 12.01.35; WYWK 1.56; tr. Rickett 1985, p. 222;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::疾勝 / 管子
+:CHARPOS: 0
+:END:
+*** 疾@jí
+:PROPERTIES:
+:CONCEPT: uuid-191d0782-6cd7-4bc5-b679-0af5fff9992a / QUICK
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 0
+:END:
+疾@jí	[[tls:concept:QUICK::#uuid-191d0782-6cd7-4bc5-b679-0af5fff9992a][QUICK]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / those who are quick; the speedy
+*** 徐@xú
+:PROPERTIES:
+:CONCEPT: uuid-d0a185cd-c6d7-4511-89ff-62d55a78ed75 / SLOW
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+徐@xú	[[tls:concept:SLOW::#uuid-d0a185cd-c6d7-4511-89ff-62d55a78ed75][SLOW]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the slow
+** 勇勝怯	the brave over the cowardly,
+:PROPERTIES:
+:SRC: GUAN 12.01.35; WYWK 1.56; tr. Rickett 1985, p. 222;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::勇勝 / 管子
+:CHARPOS: 0
+:END:
+*** 勇@yǒng
+:PROPERTIES:
+:CONCEPT: uuid-c8a48b6b-146d-43af-93df-4a0594a3ad49 / COURAGE
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 0
+:END:
+勇@yǒng	[[tls:concept:COURAGE::#uuid-c8a48b6b-146d-43af-93df-4a0594a3ad49][COURAGE]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / paragon of courage; the brave
+*** 怯@qiè
+:PROPERTIES:
+:CONCEPT: uuid-df0d0f5b-da76-4e01-9dfc-a38c0138b5e2 / COWARDLY
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+怯@qiè	[[tls:concept:COWARDLY::#uuid-df0d0f5b-da76-4e01-9dfc-a38c0138b5e2][COWARDLY]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the cowardly
+** 智勝愚	the wise over the stupid,
+:PROPERTIES:
+:SRC: GUAN 12.01.35; WYWK 1.56; tr. Rickett 1985, p. 222;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::智勝 / 管子
+:CHARPOS: 0
+:END:
+*** 智@zhì / 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-de3922b7-1920-476c-b567-6b3cafb9f9f2 / WISE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 0
+:END:
+智@zhì / 知@zhī	[[tls:concept:WISE::#uuid-de3922b7-1920-476c-b567-6b3cafb9f9f2][WISE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the wise, the competent; those who know
+*** 愚@yú
+:PROPERTIES:
+:CONCEPT: uuid-a013a679-5b25-408c-9664-ea45994bed61 / STUPID
+:SYN-FUNC: uuid-20a87134-926d-4be7-8815-246c1f7a9ca7
+:SEM-FEAT: uuid-5100e402-4cb5-4b99-929f-be674b3757d4
+:CHARPOS: 2
+:END:
+愚@yú	[[tls:concept:STUPID::#uuid-a013a679-5b25-408c-9664-ea45994bed61][STUPID]]	 [[tls:syn-func::#uuid-20a87134-926d-4be7-8815-246c1f7a9ca7][n{adN}]] {[[tls:sem-feat::#uuid-5100e402-4cb5-4b99-929f-be674b3757d4][N=human]]} / a stupid person; simpleton, dullard
+** 善勝惡	the good over the bad,
+:PROPERTIES:
+:SRC: GUAN 12.01.35; WYWK 1.56; tr. Rickett 1985, p. 222;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::善勝 / 管子
+:CHARPOS: 0
+:END:
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-e5ce725f-eb50-4b4f-b40f-8f3b576965b8 / EXCELLENT
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-5100e402-4cb5-4b99-929f-be674b3757d4
+:CHARPOS: 0
+:END:
+善@shàn	[[tls:concept:EXCELLENT::#uuid-e5ce725f-eb50-4b4f-b40f-8f3b576965b8][EXCELLENT]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-5100e402-4cb5-4b99-929f-be674b3757d4][N=human]]} / those who are capable and competent; those who are excellent; those who are more distinguished/of greater excellence
+*** 惡@è
+:PROPERTIES:
+:CONCEPT: uuid-5cfe877c-f68a-4eeb-a327-d92b82d0c66b / WICKED
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+惡@è	[[tls:concept:WICKED::#uuid-5cfe877c-f68a-4eeb-a327-d92b82d0c66b][WICKED]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the wicked
+** 殆諸侯假之威久而不知極己者	and even after a long time fail to recognize the crisis facing them are in danger.
+:PROPERTIES:
+:SRC: GUAN 12.01.36; WYWK 1.56; tr. Rickett 1985, p. 222;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::殆； / 管子
+:CHARPOS: 0
+:END:
+*** 假@jiǎ
+:PROPERTIES:
+:CONCEPT: uuid-bc0c9301-c4d7-46f7-abe1-240486dbb3f6 / LEND OUT
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 3
+:END:
+假@jiǎ	[[tls:concept:LEND OUT::#uuid-bc0c9301-c4d7-46f7-abe1-240486dbb3f6][LEND OUT]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / lend out (something N2) (to someone N1) 假我道
+** 有恥也者	a sense of [honor and] shame,
+:PROPERTIES:
+:SRC: GUAN 12.01.37; WYWK 1.56; tr. Rickett 1985, p. 222f;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::有恥 / 管子
+:CHARPOS: 0
+:END:
+*** 恥@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-8dc38649-9103-4b5b-8dfc-1e4a928500bd / SHAME
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 1
+:END:
+恥@chǐ	[[tls:concept:SHAME::#uuid-8dc38649-9103-4b5b-8dfc-1e4a928500bd][SHAME]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / the (proper) sense of what is publicly disgraceful, moral integrity
+** 五者而天下治矣	With these five, one can31 insitute good order throughout the realm.
+:PROPERTIES:
+:SRC: GUAN 12.01.37; WYWK 1.56; tr. Rickett 1985, p. 222f;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::五者 / 管子
+:CHARPOS: 0
+:END:
+*** 治@zhì
+:PROPERTIES:
+:CONCEPT: uuid-03223f28-3852-4c2a-b5e8-436c015d7c77 / ORDERLY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 5
+:END:
+治@zhì	[[tls:concept:ORDERLY::#uuid-03223f28-3852-4c2a-b5e8-436c015d7c77][ORDERLY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be in good order; be well-governed, be well-ordered; of persons: be in good shape
+** 所以殊天下之際	were the means by which they differentiated [the forms of] intercourse.'
+:PROPERTIES:
+:SRC: GUAN 12.01.39; WYWK 1.57; tr. Rickett 1985, p. 223;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::所以 / 管子
+:CHARPOS: 0
+:END:
+*** 際@jì
+:PROPERTIES:
+:CONCEPT: uuid-dfdbed49-2713-4e7b-86ef-c7d2a9dac0cc / INTERACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+際@jì	[[tls:concept:INTERACT::#uuid-dfdbed49-2713-4e7b-86ef-c7d2a9dac0cc][INTERACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / interaction, relation; social intercourse; "interface!!"
+** 日益之而患少者	'Those who daily bring benefits and cause few problems
+:PROPERTIES:
+:SRC: GUAN 12.01.40; WYWK 1.57; tr. Rickett 1985, p. 223;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::日益 / 管子
+:CHARPOS: 0
+:END:
+*** 〓#難@nàn
+:PROPERTIES:
+:CONCEPT: uuid-b7d41c41-4cb1-4662-b29e-72951b9f8ef2 / DISASTER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 0
+:END:
+〓#難@nàn	[[tls:concept:DISASTER::#uuid-b7d41c41-4cb1-4662-b29e-72951b9f8ef2][DISASTER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / trouble, problem, difficulties (from the part of the other feudal lords); the difficult point; disastrous consequences [often difficult to distinguish from DIFFICULT]
+** 智也	is wisdom.
+:PROPERTIES:
+:SRC: GUAN 12.01.40; WYWK 1.57; tr. Rickett 1985, p. 223;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::智也 / 管子
+:CHARPOS: 0
+:END:
+*** 智@zhì / 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-fd931d75-8f5a-4d1e-b665-c7e227fdb738 / WISE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 0
+:END:
+智@zhì / 知@zhī	[[tls:concept:WISE::#uuid-fd931d75-8f5a-4d1e-b665-c7e227fdb738][WISE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / wisdom; BUDDH: perfect insight, wisdom skr. prajñā
+** 眾人之用其心也	'For the mass mind,
+:PROPERTIES:
+:SRC: GUAN 12.01.42; WYWK 1.57; tr. Rickett 1985, p. 223;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::眾人 / 管子
+:CHARPOS: 0
+:END:
+*** 眾人@zhòngrén / 衆人@zhōngrén
+:PROPERTIES:
+:CONCEPT: uuid-2a54f14e-7b1f-4731-aef0-82a13074e766 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 0
+:END:
+眾人@zhòngrén / 衆人@zhōngrén	[[tls:concept:ORDINARY::#uuid-2a54f14e-7b1f-4731-aef0-82a13074e766][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / intellectually ordinary people (who may be of considerable social status); the hoi polloi; a vulgar uneducated person (not necessarily plural!)
+** 愛者憎之始也	love is the beginning of hatred,
+:PROPERTIES:
+:SRC: GUAN 12.01.42; WYWK 1.57; tr. Rickett 1985, p. 223;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::愛者 / 管子
+:CHARPOS: 0
+:END:
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-f8f790a1-3282-4abe-bf1d-af9a7ea793f8 / LOVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 0
+:END:
+愛@ài	[[tls:concept:LOVE::#uuid-f8f790a1-3282-4abe-bf1d-af9a7ea793f8][LOVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / loving care; love; feelings of love; sollicitousness; active affection
+*** 愛者@àizhě
+:PROPERTIES:
+:CONCEPT: uuid-78f0da56-aa31-4002-947e-ee844ec20299 / LOVE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 0
+:END:
+愛者@àizhě	[[tls:concept:LOVE::#uuid-78f0da56-aa31-4002-947e-ee844ec20299][LOVE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / love
+*** 憎@zēng
+:PROPERTIES:
+:CONCEPT: uuid-c1d8f527-f70d-44cf-af40-120d0992d82f / HATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 2
+:END:
+憎@zēng	[[tls:concept:HATE::#uuid-c1d8f527-f70d-44cf-af40-120d0992d82f][HATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / hatred, hate, rejection
+** 德者怨之本也	and virtue is a cause for resentment.
+:PROPERTIES:
+:SRC: GUAN 12.01.42; WYWK 1.57; tr. Rickett 1985, p. 223;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::德者 / 管子
+:CHARPOS: 0
+:END:
+*** 德者@dézhě
+:PROPERTIES:
+:CONCEPT: uuid-9ae2a5b5-21ee-4234-bd59-e69f9bbba9ef / GENEROUS
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 0
+:END:
+德者@dézhě	[[tls:concept:GENEROUS::#uuid-9ae2a5b5-21ee-4234-bd59-e69f9bbba9ef][GENEROUS]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / charismatic generosity; charisma
+** 唯賢者不然	Only [the mind of] of the worthy is different.'27
+:PROPERTIES:
+:SRC: GUAN 12.01.43; WYWK 1.57; tr. Rickett 1985, p. 223;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::唯賢 / 管子
+:CHARPOS: 0
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1 / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: the man of talent and moral worth (at any time and in any place)
+** 天下無私愛也	The realm has no room for partisan love
+:PROPERTIES:
+:SRC: GUAN 12.01.44; WYWK 1.57; tr. Rickett 1985, p. 223;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::天下 / 管子
+:CHARPOS: 0
+:END:
+*** 私@sī
+:PROPERTIES:
+:CONCEPT: uuid-67e4b41c-1131-4354-a3a1-25c8a54e2584 / PRIVATE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-5924d17a-9c39-4105-b350-8a2501eea07f
+:CHARPOS: 3
+:END:
+私@sī	[[tls:concept:PRIVATE::#uuid-67e4b41c-1131-4354-a3a1-25c8a54e2584][PRIVATE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-5924d17a-9c39-4105-b350-8a2501eea07f][personal]]} / personal (preference, room), private, non-official
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-6eb5522e-fb0f-4533-a1de-d38e80441d35 / LIKE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 4
+:END:
+愛@ài	[[tls:concept:LIKE::#uuid-6eb5522e-fb0f-4533-a1de-d38e80441d35][LIKE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / likes, loves, preferences; favouritism
+** 無私憎也	or partisan hate.
+:PROPERTIES:
+:SRC: GUAN 12.01.44; WYWK 1.57; tr. Rickett 1985, p. 223;
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0001_004:00:0::無私 / 管子
+:CHARPOS: 0
+:END:
+*** 憎@zēng
+:PROPERTIES:
+:CONCEPT: uuid-c1d8f527-f70d-44cf-af40-120d0992d82f / HATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 2
+:END:
+憎@zēng	[[tls:concept:HATE::#uuid-c1d8f527-f70d-44cf-af40-120d0992d82f][HATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / hatred, hate, rejection

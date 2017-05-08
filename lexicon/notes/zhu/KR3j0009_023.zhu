@@ -1,0 +1,940 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 呂氏春秋 KR3j0009_023
+#+DATE: 2017-02-08T16:43:17+0900
+#+PROPERTY: COMMIT d53a31ed9b02bfcaddd3ed539bd7faa4887ccd8f
+** 王乃舍之	The king then pardoned him.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:3a21:1::王乃 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 舍@shě / 捨@shě
+:PROPERTIES:
+:CONCEPT: uuid-8784abc9-0bcf-4b54-bfc6-66774b56de38 / PARDON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+舍@shě / 捨@shě	[[tls:concept:PARDON::#uuid-8784abc9-0bcf-4b54-bfc6-66774b56de38][PARDON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / let off and forgive; forgive (a crime); spare
+** 其干戚之音	their 'Shield-and Axe Music'
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:4a04:1::其干 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 干戚@gānqī
+:PROPERTIES:
+:CONCEPT: uuid-3514a756-91b0-4847-829d-8586a1f946a0 / WEAPON
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:CHARPOS: 2
+:END:
+干戚@gānqī	[[tls:concept:WEAPON::#uuid-3514a756-91b0-4847-829d-8586a1f946a0][WEAPON]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / ceremonial weapons
+** 於是乃言曰	Then he offered this statement.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:4a39:1::於是 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 於是@yúshì
+:PROPERTIES:
+:CONCEPT: uuid-957c4a37-e494-4472-9cab-b507153e4237 / THEREUPON
+:SYN-FUNC: uuid-fc393db1-993e-431d-9540-bc9fde4945d4
+:SEM-FEAT: uuid-8f9d13b7-f4fb-4c03-b0ef-1a79f87060f6
+:CHARPOS: 1
+:END:
+於是@yúshì	[[tls:concept:THEREUPON::#uuid-957c4a37-e494-4472-9cab-b507153e4237][THEREUPON]]	V [[tls:syn-func::#uuid-fc393db1-993e-431d-9540-bc9fde4945d4][VPadS1.postS2]] {[[tls:sem-feat::#uuid-8f9d13b7-f4fb-4c03-b0ef-1a79f87060f6][after speech]]} / Having said that... [a large number of items from TEMP must be moved here]
+** 自將兵	He personally led the soldiers;
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:5a02:1::自將 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-f6841059-ed39-40d9-a595-5df634040bd3 / PERSONALLY
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:CHARPOS: 1
+:END:
+自@zì	[[tls:concept:PERSONALLY::#uuid-f6841059-ed39-40d9-a595-5df634040bd3][PERSONALLY]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] / oneself, in person; by oneself (Perhaps this should be npro+V[PRED]. I do not know how one would argue one way or the other.)
+** 汝而身自將是眾也	but led the troops himself.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:5a16:1::汝而 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 身自@shēnzì
+:PROPERTIES:
+:CONCEPT: uuid-a94aad85-06c7-4709-af4b-27884043f360 / PERSONALLY
+:SYN-FUNC: uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a
+:CHARPOS: 3
+:END:
+身自@shēnzì	[[tls:concept:PERSONALLY::#uuid-a94aad85-06c7-4709-af4b-27884043f360][PERSONALLY]]	N [[tls:syn-func::#uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a][NPadV]] / in person, personally and not as represented by anyone else
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-f6841059-ed39-40d9-a595-5df634040bd3 / PERSONALLY
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:CHARPOS: 4
+:END:
+自@zì	[[tls:concept:PERSONALLY::#uuid-f6841059-ed39-40d9-a595-5df634040bd3][PERSONALLY]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] / oneself, in person; by oneself (Perhaps this should be npro+V[PRED]. I do not know how one would argue one way or the other.]
+*** 將@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-f62a8ab1-5a7f-45df-ac0a-34aa1899ba2e / LEAD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+將@jiàng	[[tls:concept:LEAD::#uuid-f62a8ab1-5a7f-45df-ac0a-34aa1899ba2e][LEAD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / act as a general for (an army on a campaign), be in command of as general; lead (a large number of people on a mission); lead along (one's wife etc)
+** 兼國十九	united [brought under his unified control nineteen states] the nineteen states,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:5a22:1::兼國 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 兼@jiān
+:PROPERTIES:
+:CONCEPT: uuid-fd0d0d99-75e1-42d3-b38a-39de4795f67f / ANNEX
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+兼@jiān	[[tls:concept:ANNEX::#uuid-fd0d0d99-75e1-42d3-b38a-39de4795f67f][ANNEX]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / unite under one's unified control; annex;
+** 身好玉女	and personally overly fond of young ladies of jadelike beauty.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:5a26:1::身好 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 玉@yù
+:PROPERTIES:
+:CONCEPT: uuid-895d5135-d7d4-42e3-a0de-9c10c959a4f7 / JADE
+:SYN-FUNC: uuid-a51b30e7-dffc-4a3d-b4f7-2dccf9eee4a9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 3
+:END:
+玉@yù	[[tls:concept:JADE::#uuid-895d5135-d7d4-42e3-a0de-9c10c959a4f7][JADE]]	N [[tls:syn-func::#uuid-a51b30e7-dffc-4a3d-b4f7-2dccf9eee4a9][nmadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / jade-like; beautiful like jade 玉英
+** 一鼓而士畢乘之	With a single beat on the drum, all the soldiers scaled the wall and won a great victory.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:5a42:1::一鼓 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 鼓@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-0a168bdc-c068-4586-bf38-48a5f3cbbd7c / DRUM
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 2
+:END:
+鼓@gǔ	[[tls:concept:DRUM::#uuid-0a168bdc-c068-4586-bf38-48a5f3cbbd7c][DRUM]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / beat the drum for an attack
+** 與吾得革車千乘也	"If I win a thousand armored chariots,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:5a44:1::「與 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 革@gé
+:PROPERTIES:
+:CONCEPT: uuid-e8acbe3b-d434-4f72-9b23-46579fc518f2 / ARMOUR
+:SYN-FUNC: uuid-a51b30e7-dffc-4a3d-b4f7-2dccf9eee4a9
+:CHARPOS: 4
+:END:
+革@gé	[[tls:concept:ARMOUR::#uuid-e8acbe3b-d434-4f72-9b23-46579fc518f2][ARMOUR]]	N [[tls:syn-func::#uuid-a51b30e7-dffc-4a3d-b4f7-2dccf9eee4a9][nmadN]] / armoured with hardened leather
+** 戰鬭之上	for at the start of the battle,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:5a47:1::戰鬭 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 戰鬥@zhàndòu
+:PROPERTIES:
+:CONCEPT: uuid-6aedd626-6c04-4a72-a8a4-39cefa5ee9be / FIGHT
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+戰鬥@zhàndòu	[[tls:concept:FIGHT::#uuid-6aedd626-6c04-4a72-a8a4-39cefa5ee9be][FIGHT]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / the fighting of wars
+** 枹鼓方用	when the drumstick and drum were about to be used
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:5a48:50::枹鼓 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 桴@fú / 枹@fú
+:PROPERTIES:
+:CONCEPT: uuid-3bb8d324-4300-4773-a6f3-677467ffe612 / STICK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+桴@fú / 枹@fú	[[tls:concept:STICK::#uuid-3bb8d324-4300-4773-a6f3-677467ffe612][STICK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / drumstick, baton (contrast chuí 棰 "bell-stick")
+*** 鼓@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-b95cff77-9f21-44b7-9600-93fd2d7bd4d2 / DRUM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+鼓@gǔ	[[tls:concept:DRUM::#uuid-b95cff77-9f21-44b7-9600-93fd2d7bd4d2][DRUM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / drum used to order troops to attackBUDDH: drum used in monasteries to accompany the recitation of scriptures or to signal activities
+** 非賢者孰肯犯危	If not the worthy, who would be willing to face threat?
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a03:1::非賢 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-d23ebf73-2dba-4408-be20-fde242ed8e2c / TALENT
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 2
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-d23ebf73-2dba-4408-be20-fde242ed8e2c][TALENT]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be a worthy, be a person of moral talent; also plural: be persons of moral worth, be worthies
+** 而非賢者也	And if it is not the worthy,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a04:50::而非 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-d23ebf73-2dba-4408-be20-fde242ed8e2c / TALENT
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 52
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-d23ebf73-2dba-4408-be20-fde242ed8e2c][TALENT]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be a worthy, be a person of moral talent; also plural: be persons of moral worth, be worthies
+** 故不肖主無賢者	Therefore, incompetent leaders lack worthies.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a08:1::故不 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-ade64b9b-f16b-4b7f-851f-d2b6eb60d48d / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 6
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-ade64b9b-f16b-4b7f-851f-d2b6eb60d48d][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a worthy; any worthy; any worthies; worthies of any kind
+** 必有以也	there is certain to be reason.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a14:1::必有 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-a02bb923-5720-483e-a4a0-7c10bce49ce7 / CAUSE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 3
+:END:
+以@yǐ	[[tls:concept:CAUSE::#uuid-a02bb923-5720-483e-a4a0-7c10bce49ce7][CAUSE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / reason, grounds
+** 則齊國之社稷幸於不殆矣	And with luck, the altars of soil and grain of Qi will not be imperiled."
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a31:1::則齊 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 幸@xìng
+:PROPERTIES:
+:CONCEPT: uuid-cf63666b-7e9a-4154-b270-786ccc372094 / LUCK
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 7
+:END:
+幸@xìng	[[tls:concept:LUCK::#uuid-cf63666b-7e9a-4154-b270-786ccc372094][LUCK]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / be so lucky as to V
+** 當此時也	At that time it was still
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a32:50::當此 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-a4c0b409-1f19-4ef2-86e9-93f27ca08d3c / THIS
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 51
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-a4c0b409-1f19-4ef2-86e9-93f27ca08d3c][THIS]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / this, these 此人
+** 願請變更而無笞	I am ranked with the feudal lords. I entreat you to alter the punishment and not use the whip."
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a51:1::願請 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 笞@chī
+:PROPERTIES:
+:CONCEPT: uuid-826bb835-cd23-495b-9dad-2b800b61a9d2 / STRIKE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 7
+:END:
+笞@chī	[[tls:concept:STRIKE::#uuid-826bb835-cd23-495b-9dad-2b800b61a9d2][STRIKE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / mete out the punishment of flogging
+** 王不受笞	Not using the whip on your majesty
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a55:1::王不 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 王@wáng
+:PROPERTIES:
+:CONCEPT: uuid-1f624662-acac-490e-8400-4fddb2cb4bc8 / YOU
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 1
+:END:
+王@wáng	[[tls:concept:YOU::#uuid-1f624662-acac-490e-8400-4fddb2cb4bc8][YOU]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / your majesty
+*** 笞@chī
+:PROPERTIES:
+:CONCEPT: uuid-e0ae07f7-b57d-4c4e-8b6d-0ee9b3daca12 / STRIKE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+笞@chī	[[tls:concept:STRIKE::#uuid-e0ae07f7-b57d-4c4e-8b6d-0ee9b3daca12][STRIKE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / a flogging or whipping
+** 敬諾	said the king.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a60:1::「敬 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 敬諾@jìngnuò
+:PROPERTIES:
+:CONCEPT: uuid-3ee5c218-510b-4809-8587-7ebace2e05f2 / AGREE TO
+:SYN-FUNC: uuid-3e3fb402-e561-4370-a019-2074f478ed8c
+:CHARPOS: 1
+:END:
+敬諾@jìngnuò	[[tls:concept:AGREE TO::#uuid-3ee5c218-510b-4809-8587-7ebace2e05f2][AGREE TO]]	 [[tls:syn-func::#uuid-3e3fb402-e561-4370-a019-2074f478ed8c][VPt{0}(oV)]] / [I] agree respectfully to what has just been said
+*** 諾@nuò
+:PROPERTIES:
+:CONCEPT: uuid-4167d212-8dea-470b-b24c-5c923ae94254 / AGREE TO
+:SYN-FUNC: uuid-04dc4978-046d-4430-a08b-6198445e9667
+:CHARPOS: 2
+:END:
+諾@nuò	[[tls:concept:AGREE TO::#uuid-4167d212-8dea-470b-b24c-5c923ae94254][AGREE TO]]	V [[tls:syn-func::#uuid-04dc4978-046d-4430-a08b-6198445e9667][vt{0}(oN)]] / (Said by superior) [I hereby] approve [this]. All right! (Said by inferior) Yes!
+** 臣聞之君子恥之	"Your servant was taught that as for a gentleman one meakes him feel shame (for misdeeds)
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a71:1::「臣 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cb72cdad-533a-4eb8-b6df-66aa777608f5 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 4
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-cb72cdad-533a-4eb8-b6df-66aa777608f5][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the person of elevated social status　與野人相對
+*** 恥@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-303360f4-087c-475b-a05c-6ab73f7be4d0 / DISGRACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21
+:CHARPOS: 6
+:END:
+恥@chǐ	[[tls:concept:DISGRACE::#uuid-303360f4-087c-475b-a05c-6ab73f7be4d0][DISGRACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / consider a disgrace, regard as shameful
+** 小人痛之	and as for a petty man one makes him feel pain. [Corr. CH.]
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a72:50::小人 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-845af94d-8150-4b0c-a0eb-f87c9b9d1ab4 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-845af94d-8150-4b0c-a0eb-f87c9b9d1ab4][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / person of inferior social status or merely ordinary quality
+** 恥之不變	If you shame someone and he does not change,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a73:50::恥之 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 恥@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-303360f4-087c-475b-a05c-6ab73f7be4d0 / DISGRACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21
+:CHARPOS: 50
+:END:
+恥@chǐ	[[tls:concept:DISGRACE::#uuid-303360f4-087c-475b-a05c-6ab73f7be4d0][DISGRACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / consider a disgrace, regard as shameful
+** 國惡得不危	how can a state remain free of danger
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a105:1::國惡 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 惡@wū
+:PROPERTIES:
+:CONCEPT: uuid-ebaa3613-d5d7-41d6-aace-198d332aed68 / HOW
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 2
+:END:
+惡@wū	[[tls:concept:HOW::#uuid-ebaa3613-d5d7-41d6-aace-198d332aed68][HOW]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / how? i.e. in no way!
+** 身惡得不困	and the individual free of distress?
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a106:50::身惡 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 惡@wū
+:PROPERTIES:
+:CONCEPT: uuid-ebaa3613-d5d7-41d6-aace-198d332aed68 / HOW
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 51
+:END:
+惡@wū	[[tls:concept:HOW::#uuid-ebaa3613-d5d7-41d6-aace-198d332aed68][HOW]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / how? i.e. in no way!
+** 吳王夫差是也	King Fuchai of Wu is a case in point.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a110:1::吳王 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-360710ac-befe-4876-9049-5978a7651960 / SUCH
+:SYN-FUNC: uuid-57ce2afe-2539-46f3-abe4-7f85130914ca
+:CHARPOS: 5
+:END:
+是@shì	[[tls:concept:SUCH::#uuid-360710ac-befe-4876-9049-5978a7651960][SUCH]]	N [[tls:syn-func::#uuid-57ce2afe-2539-46f3-abe4-7f85130914ca][npro{PRED}]] / be such; be a paradigmatic example; be a typical case in point; be a relevant example; be a paradigm case
+** 言語不通	and the languages we speak are not mutually intelligible.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a120:1::言語 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 言語@yányǔ
+:PROPERTIES:
+:CONCEPT: uuid-ee5d62ad-a8b5-47d3-8028-f717edd29e0c / LANGUAGE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 1
+:END:
+言語@yányǔ	[[tls:concept:LANGUAGE::#uuid-ee5d62ad-a8b5-47d3-8028-f717edd29e0c][LANGUAGE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / language
+*** 言語@yányǔ
+:PROPERTIES:
+:CONCEPT: uuid-3f9bdba8-93cd-40ac-911c-1b0ac4c27c65 / SPEAK
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+言語@yányǔ	[[tls:concept:SPEAK::#uuid-3f9bdba8-93cd-40ac-911c-1b0ac4c27c65][SPEAK]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / speech; way of talking
+** 言語通	and our languages are mutually intelligible.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a127:1::言語 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 言語@yányǔ
+:PROPERTIES:
+:CONCEPT: uuid-ee5d62ad-a8b5-47d3-8028-f717edd29e0c / LANGUAGE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 1
+:END:
+言語@yányǔ	[[tls:concept:LANGUAGE::#uuid-ee5d62ad-a8b5-47d3-8028-f717edd29e0c][LANGUAGE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / language
+** 夫吳越之勢不兩立	We cannot both exest.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a131:1::夫吳 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 立@lì
+:PROPERTIES:
+:CONCEPT: uuid-cd6b4f24-863e-4fe6-b73f-652e88e3e517 / EXIST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 8
+:END:
+立@lì	[[tls:concept:EXIST::#uuid-cd6b4f24-863e-4fe6-b73f-652e88e3e517][EXIST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / medicine: be diagnosed to exist> exist
+** 吾安得一目以視越人之入吳也	let me keep one eye with which to see the men of Yue entering Wu."?????????
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a172:1::吾安 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 安@ān
+:PROPERTIES:
+:CONCEPT: uuid-841bbdb1-94ee-4e18-88c9-44957768f931 / HOW
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 2
+:END:
+安@ān	[[tls:concept:HOW::#uuid-841bbdb1-94ee-4e18-88c9-44957768f931][HOW]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how? (idiomatic in 安得 "how can one get to?", 安敢"how would I dare to?")
+** 乃自殺	He then killed himself.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a173:50::乃自 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 殺@shā / 煞@shā
+:PROPERTIES:
+:CONCEPT: uuid-a52e8521-7aff-454c-9ef1-b0c7db1c239b / KILL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 52
+:END:
+殺@shā / 煞@shā	[[tls:concept:KILL::#uuid-a52e8521-7aff-454c-9ef1-b0c7db1c239b][KILL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / kill (oneself)
+** 夫差乃取其身而流之江	Fuchai subsequently seized his corpse and had it thrown in the Yangzi River.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a174:50::夫差 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-de25ca3f-d9e1-4e3e-9174-bd3884771a09 / CORPSE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 55
+:END:
+身@shēn	[[tls:concept:CORPSE::#uuid-de25ca3f-d9e1-4e3e-9174-bd3884771a09][CORPSE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the (dead) body; my (dead) body
+** 抉其目	He tore out his eyes
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a175:50::抉其 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 抉@jué
+:PROPERTIES:
+:CONCEPT: uuid-b4c1206d-38c4-4711-8a29-8438797a756c / REMOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+抉@jué	[[tls:concept:REMOVE::#uuid-b4c1206d-38c4-4711-8a29-8438797a756c][REMOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / pick out, tear out
+** 夫差身為擒	and capturing Fuchai.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a185:1::夫差 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-dbf27e25-044b-4288-ae44-c2280c322ac1 / SELF
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:CHARPOS: 3
+:END:
+身@shēn	[[tls:concept:SELF::#uuid-dbf27e25-044b-4288-ae44-c2280c322ac1][SELF]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] / contrastive: himself; oneself; the person him/herself (also: 身雖無能)
+** 死者如有知也	"If the dead have awareness,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a187:1::「死 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-63c50ca4-a680-474a-871a-4bfc75f121ab / AWARE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 5
+:END:
+知@zhī	[[tls:concept:AWARE::#uuid-63c50ca4-a680-474a-871a-4bfc75f121ab][AWARE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / awareness
+** 故夫差之知慚於子胥也	Thus, although Fuchai felt embarrassed at having to face Zixu,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a194:1::故夫 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 〓#@ / @
+:PROPERTIES:
+:CONCEPT: uuid-4387db52-7c91-4a92-b6ee-096df2feb3d8 / SHAME
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 1
+:END:
+〓#@ / @	[[tls:concept:SHAME::#uuid-4387db52-7c91-4a92-b6ee-096df2feb3d8][SHAME]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / feel ashamed vis-a-vis 甚慚於
+** 剖孕婦而觀其化	when he cut open the womb of a pregnant woman to look at the fetus,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a213:1::剖孕 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 剖@pōu
+:PROPERTIES:
+:CONCEPT: uuid-23788bd2-5047-4aa8-bc1e-95a98211ad24 / SPLIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+剖@pōu	[[tls:concept:SPLIT::#uuid-23788bd2-5047-4aa8-bc1e-95a98211ad24][SPLIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / split; cut open (a heart etc); have cut open (one's back)
+** 不忍賊	he could not bear to kill him,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a229:1::不忍 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 忍@rěn
+:PROPERTIES:
+:CONCEPT: uuid-e723429f-5cb6-4b13-aa02-00e48d1819c0 / ENDURE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 2
+:END:
+忍@rěn	[[tls:concept:ENDURE::#uuid-e723429f-5cb6-4b13-aa02-00e48d1819c0][ENDURE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / bear to V, endure V-ing
+** 不忘恭敬	"Not forgetful of proper respect and taking strict, reverent care,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a231:1::「不 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 恭敬@gōngjìng
+:PROPERTIES:
+:CONCEPT: uuid-c5bef7a3-980f-403b-b073-bf3ab1d3f51b / RESPECT
+:SYN-FUNC: uuid-9629f093-fa64-4769-9b05-9f49f12c7790
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+恭敬@gōngjìng	[[tls:concept:RESPECT::#uuid-c5bef7a3-980f-403b-b073-bf3ab1d3f51b][RESPECT]]	N [[tls:syn-func::#uuid-9629f093-fa64-4769-9b05-9f49f12c7790][NPab{N1=N2}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / proper respectful reverence and diligence in the performance of one's duties
+** 賊民之主不忠	To murder the real ruler of the people is an act of disloyalty.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a233:1::賊民 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 賊@zéi
+:PROPERTIES:
+:CONCEPT: uuid-7ffed1b4-f1d3-4688-a857-9691a92d3d54 / DAMAGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CONCEPT: uuid-8c75668b-2253-4f53-ad47-edd942db6ef3 / GOOD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 1
+:END:
+賊@zéi	[[tls:concept:DAMAGE::#uuid-7ffed1b4-f1d3-4688-a857-9691a92d3d54][DAMAGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / damage and ruin, harm; try to harm viciously; do villainous harm to
+中@zhōng / 忠@zhōng	[[tls:concept:GOOD::#uuid-8c75668b-2253-4f53-ad47-edd942db6ef3][GOOD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be trusty and even-handed (towads the people)
+** 棄君之命不信	But to cast aside my lord's command is to be unfaithful.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a234:50::棄君 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-41d1921a-50bb-4e88-a429-ea9bde996790 / OBEY
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 55
+:END:
+信@xìn	[[tls:concept:OBEY::#uuid-41d1921a-50bb-4e88-a429-ea9bde996790][OBEY]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / be obedient to one's superior or to spirits to whom one owes obedience
+** 一於此不若死	I would be better to die than to be either of these."
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a235:50::一於 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-363f31c4-deb5-49b9-877c-46e95175a01a / AMONG
+:SYN-FUNC: uuid-a3c2468d-0681-45da-bbe5-f9ee8b9ee2b9
+:CHARPOS: 51
+:END:
+於@yú	[[tls:concept:AMONG::#uuid-363f31c4-deb5-49b9-877c-46e95175a01a][AMONG]]	V [[tls:syn-func::#uuid-a3c2468d-0681-45da-bbe5-f9ee8b9ee2b9][vt{0}postadN{NU}]] / from among
+** 戎王大喜	The Rong king was overjoyed with the gift
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a285:1::戎王 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 大喜@dàxǐ
+:PROPERTIES:
+:CONCEPT: uuid-26164bf4-c272-4af4-8899-59387f2c6a66 / DELIGHT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 3
+:END:
+大喜@dàxǐ	[[tls:concept:DELIGHT::#uuid-26164bf4-c272-4af4-8899-59387f2c6a66][DELIGHT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be overjoyed; be absolutely delighted
+** 雖善說者猶若此	However skilled the persuader,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a296:1::雖善 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 猶@yóu
+:PROPERTIES:
+:CONCEPT: uuid-609ffff4-a7c6-43cd-89f4-3ab5f801b3a3 / NONETHELESS
+:SYN-FUNC: uuid-925d397f-870d-467f-a70b-09317a5160ae
+:CHARPOS: 5
+:END:
+猶@yóu	[[tls:concept:NONETHELESS::#uuid-609ffff4-a7c6-43cd-89f4-3ab5f801b3a3][NONETHELESS]]	P [[tls:syn-func::#uuid-925d397f-870d-467f-a70b-09317a5160ae][padV.post-S]] / still; nonetheless; in spite of everything (said in S and not said in S)
+** 於是報於王曰	Thereupon, the messenger reported back to the king,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a335:1::於是 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 於是@yúshì
+:PROPERTIES:
+:CONCEPT: uuid-957c4a37-e494-4472-9cab-b507153e4237 / THEREUPON
+:SYN-FUNC: uuid-fc393db1-993e-431d-9540-bc9fde4945d4
+:SEM-FEAT: uuid-8f9d13b7-f4fb-4c03-b0ef-1a79f87060f6
+:CHARPOS: 1
+:END:
+於是@yúshì	[[tls:concept:THEREUPON::#uuid-957c4a37-e494-4472-9cab-b507153e4237][THEREUPON]]	V [[tls:syn-func::#uuid-fc393db1-993e-431d-9540-bc9fde4945d4][VPadS1.postS2]] {[[tls:sem-feat::#uuid-8f9d13b7-f4fb-4c03-b0ef-1a79f87060f6][after speech]]} / Having said that... [a large number of items from TEMP must be moved here]
+** 王自投車上馳而走	the king threw himself into his carriage and sped away,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a343:1::王自 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 投@tóu
+:PROPERTIES:
+:CONCEPT: uuid-61916188-c805-4080-8e8c-927432e4ff4f / THROW
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 3
+:END:
+投@tóu	[[tls:concept:THROW::#uuid-61916188-c805-4080-8e8c-927432e4ff4f][THROW]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / throw (oneself) into N2
+** 此人得以富於他國	while the messenger was able to use his new wealth in another country.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a344:50::此人 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 此人@cǐrén
+:PROPERTIES:
+:CONCEPT: uuid-a67749a5-ce04-4fef-9a9a-a8c52f07a580 / HUMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5b74642c-41bc-4eb2-ac7e-5ce239b5a658
+:CHARPOS: 50
+:END:
+此人@cǐrén	[[tls:concept:HUMAN::#uuid-a67749a5-ce04-4fef-9a9a-a8c52f07a580][HUMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5b74642c-41bc-4eb2-ac7e-5ce239b5a658][positive]]} / this (remarkable) person
+** 其如舜也	or perhaps of Shun."
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a364:1::其如 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 其@qí
+:PROPERTIES:
+:CONCEPT: uuid-f5cc53b1-ecb5-4b11-bb06-62b8c1375cd2 / OR
+:SYN-FUNC: uuid-d4e1570d-69fc-493c-b2ec-d1f0f5b56e05
+:CHARPOS: 1
+:END:
+其@qí	[[tls:concept:OR::#uuid-f5cc53b1-ecb5-4b11-bb06-62b8c1375cd2][OR]]	P [[tls:syn-func::#uuid-d4e1570d-69fc-493c-b2ec-d1f0f5b56e05][padS1.post-S2]] / or shall we, or should we?; or perhaps; either... or;Note OBI: 其 V 其弗 V: whether we V or not　ZGC: 其不乎？ "or not?"
+** 凡說之行也	As a general rule, whenever a persuasion is put into effect,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a365:50::凡說 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 凡@fán
+:PROPERTIES:
+:CONCEPT: uuid-a026fd53-718a-45e7-96e3-dd54890c62d7 / WHEN
+:SYN-FUNC: uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37
+:CHARPOS: 50
+:END:
+凡@fán	[[tls:concept:WHEN::#uuid-a026fd53-718a-45e7-96e3-dd54890c62d7][WHEN]]	P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / whenever
+** 從自非受是也	or because a ruler who considers himself wrong is willing to accept what is right.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a367:1::從自 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 非@fēi
+:PROPERTIES:
+:CONCEPT: uuid-19511cde-7f2e-4e2f-80b0-8833829b0805 / CRITICISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 3
+:END:
+非@fēi	[[tls:concept:CRITICISE::#uuid-19511cde-7f2e-4e2f-80b0-8833829b0805][CRITICISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / criticise (oneself)　LH
+** 今自以賢過於堯舜	Now, how can one introduce persuasions to a ruler
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a368:50::今自 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-f7d39415-b789-425e-81d7-51bea65bcae9 / BELIEVE
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+以@yǐ	[[tls:concept:BELIEVE::#uuid-f7d39415-b789-425e-81d7-51bea65bcae9][BELIEVE]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / consdider (oneself) to V [=MSC]
+** 彼且胡可以聞說哉	who thinks his worthiness surpasses that of Yao or Shun?
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a368:50::彼且 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 胡@hú
+:PROPERTIES:
+:CONCEPT: uuid-7efede7c-8191-4fd9-922c-257616f00b5c / HOW
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 52
+:END:
+胡@hú	[[tls:concept:HOW::#uuid-7efede7c-8191-4fd9-922c-257616f00b5c][HOW]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / How can one V?
+** 說人之謂己能則用彊弓也	and enjoyed having others tell him how well he handled a taut bow.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a372:1::說人 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1 / SELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 5
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1][SELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / object pronoun, resumptive, non-contrastive: oneself, himself, herself, themselves
+** 非王其孰能用是	who besides your majesty would be capable of using this bow?"
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a379:1::非王 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 其孰@qíshú
+:PROPERTIES:
+:CONCEPT: uuid-a053236b-8067-49db-bbf4-8d6bb77e0683 / WHO
+:SYN-FUNC: uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 3
+:END:
+其孰@qíshú	[[tls:concept:WHO::#uuid-a053236b-8067-49db-bbf4-8d6bb77e0683][WHO]]	N [[tls:syn-func::#uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd][NPpro]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / who of the relevant people> who? i.e. no one!　非x其孰， 天下其孰
+** 而終身自以為用九石	but to the end of his life he thought he could use a nine-stone one.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a382:1::而終 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 以為@yǐwéi
+:PROPERTIES:
+:CONCEPT: uuid-b8fdd1b7-5549-4190-b98f-1c9331112195 / BELIEVE
+:SYN-FUNC: uuid-4bda1e0e-70f2-4527-8eaa-9f739d428a17
+:CHARPOS: 5
+:END:
+以為@yǐwéi	[[tls:concept:BELIEVE::#uuid-b8fdd1b7-5549-4190-b98f-1c9331112195][BELIEVE]]	 [[tls:syn-func::#uuid-4bda1e0e-70f2-4527-8eaa-9f739d428a17][VPttoN.+V{0}]] / take oneself to be V-ing; consider oneself to be V-ing
+** 豈不悲哉	How sad!
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a383:50::豈不 / 呂氏春秋
+:CHARPOS: 50
+:END:
+*** 悲@bēi
+:PROPERTIES:
+:CONCEPT: uuid-966e1c11-7cb7-41c2-9003-16bed7937497 / SAD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd
+:CHARPOS: 52
+:END:
+悲@bēi	[[tls:concept:SAD::#uuid-966e1c11-7cb7-41c2-9003-16bed7937497][SAD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd][subj=nonhuman]]} / be sad in quality; be sad to look at/think about; be pathetic
+** 於是晉無君	With that, Jin had no lord.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a411:1::於是 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 於是@yúshì
+:PROPERTIES:
+:CONCEPT: uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28 / THEREUPON
+:SYN-FUNC: uuid-fc393db1-993e-431d-9540-bc9fde4945d4
+:CHARPOS: 1
+:END:
+於是@yúshì	[[tls:concept:THEREUPON::#uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28][THEREUPON]]	V [[tls:syn-func::#uuid-fc393db1-993e-431d-9540-bc9fde4945d4][VPadS1.postS2]] / At that point, Whereupon; at that time; at this time (remarkably often after direct speeech: having said this,...; then; at that point, at this juncture; at this stage (in a text); and then; subsequently)
+** 圉立為君	he was established as ruler.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a429:1::圉立 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 立為@lìwéi
+:PROPERTIES:
+:CONCEPT: uuid-496e4436-b028-4d1b-99de-d8f2abe26cbd / INSTALL
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 2
+:END:
+立為@lìwéi	[[tls:concept:INSTALL::#uuid-496e4436-b028-4d1b-99de-d8f2abe26cbd][INSTALL]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be installed so as to become: be installed as; get oneself established as
+** 宥罪戾	pardoned criminals,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a442:1::宥罪 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 宥@yòu / 侑@yòu
+:PROPERTIES:
+:CONCEPT: uuid-a489d24b-a6dc-4e0e-a896-8d6098f42b79 / FORGIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-5100e402-4cb5-4b99-929f-be674b3757d4
+:CHARPOS: 1
+:END:
+宥@yòu / 侑@yòu	[[tls:concept:FORGIVE::#uuid-a489d24b-a6dc-4e0e-a896-8d6098f42b79][FORGIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-5100e402-4cb5-4b99-929f-be674b3757d4][N=human]]} / be lax in punishment towards; deal gently with; deal leniently with; pardon easily
+*** 罪戾@zuìlì
+:PROPERTIES:
+:CONCEPT: uuid-7b11bb2a-58b0-4e7f-9e05-99e6fd5d008f / GUILTY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 2
+:END:
+罪戾@zuìlì	[[tls:concept:GUILTY::#uuid-7b11bb2a-58b0-4e7f-9e05-99e6fd5d008f][GUILTY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / those guilty of violent offences
+** 禍希不及身	are seldom affected by the disasters that ensue.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3j0009_023:6a465:1::禍希 / 呂氏春秋
+:CHARPOS: 1
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-1e1e962a-e970-41ef-9eb5-657ebc66b251 / SELF
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+身@shēn	[[tls:concept:SELF::#uuid-1e1e962a-e970-41ef-9eb5-657ebc66b251][SELF]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / contrastive: one's own person; oneself; himself

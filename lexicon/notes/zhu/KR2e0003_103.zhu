@@ -1,0 +1,33 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_103
+#+DATE: 2017-02-08T16:41:19+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 驅十二諸侯以朝天子於孟津	and drove the twelve Feudal Lords to the Son of Heaven's court at Meng-chin.
+:PROPERTIES:
+:SRC: ZGC 7.1.4; tr. Crump 1979 no.75, p. i1, ed. Shanghaiguji p. 265
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_103:2a18:1::驅十 / 戰國策
+:CHARPOS: 1
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-9b309289-51ab-4c77-8a80-67dff3a9da01 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 8
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-9b309289-51ab-4c77-8a80-67dff3a9da01][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the (contextually determinate) Son of Heaven (of the time)
+** 則臣恐諸侯之君	I fear that all the rulers of the feudal states
+:PROPERTIES:
+:SRC: ZGC 7.1.6; tr. Crump 1979 no.75, p. i1f, ed. Shanghaiguji p. 265
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_103:3a14:1::則臣 / 戰國策
+:CHARPOS: 1
+:END:
+*** 諸侯@zhūhóu
+:PROPERTIES:
+:CONCEPT: uuid-34caedfa-0ba6-4f2f-8312-afedecbe807f / RULER
+:SYN-FUNC: uuid-14b56546-32fd-4321-8d73-3e4b18316c15
+:CHARPOS: 4
+:END:
+諸侯@zhūhóu	[[tls:concept:RULER::#uuid-34caedfa-0ba6-4f2f-8312-afedecbe807f][RULER]]	N [[tls:syn-func::#uuid-14b56546-32fd-4321-8d73-3e4b18316c15][NPadN]] / of the feudal lord type

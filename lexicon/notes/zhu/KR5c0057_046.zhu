@@ -1,0 +1,59 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_046
+#+DATE: 2017-02-08T16:43:46+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 卻走馬以糞	they relegate the fleet-footed horses with a view to the dung (sc. to be transported to the fields).
+:PROPERTIES:
+:SRC: LAO 46.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_046:1a02:1::卻走 / 老子
+:CHARPOS: 1
+:END:
+*** 走@zǒu
+:PROPERTIES:
+:CONCEPT: uuid-5d7110a2-7b35-4e3d-8d35-8ccc6ac2a289 / QUICK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 2
+:END:
+走@zǒu	[[tls:concept:QUICK::#uuid-5d7110a2-7b35-4e3d-8d35-8ccc6ac2a289][QUICK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / fleet-footed (horses), racing (horses)
+*** 糞@fèn
+:PROPERTIES:
+:CONCEPT: uuid-b8196277-5542-4c67-9419-b9f4de51d419 / FERTILISE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 5
+:END:
+糞@fèn	[[tls:concept:FERTILISE::#uuid-b8196277-5542-4c67-9419-b9f4de51d419][FERTILISE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / fertilise the fields
+** 戎馬生於郊	the horses for war chariots live and breed in the suburbs [of the cities].
+:PROPERTIES:
+:SRC: LAO 46.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_046:1a04:1::戎馬 / 老子
+:CHARPOS: 1
+:END:
+*** 戎@róng
+:PROPERTIES:
+:CONCEPT: uuid-b8df1e53-8c84-455a-9054-f848997c022a / WARFARE
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 1
+:END:
+戎@róng	[[tls:concept:WARFARE::#uuid-b8df1e53-8c84-455a-9054-f848997c022a][WARFARE]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / military, belonging to the armed forces
+** 咎莫大於欲得	no sin is greater than to (sanction:) give free reins to one's desires (LC 755).
+:PROPERTIES:
+:SRC: LAO 46.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_046:1a07:1::咎莫 / 老子
+:CHARPOS: 1
+:END:
+*** 咎@jiù
+:PROPERTIES:
+:CONCEPT: uuid-9081ba23-1360-4776-aa30-20ec69a0f32f / CRIME
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+咎@jiù	[[tls:concept:CRIME::#uuid-9081ba23-1360-4776-aa30-20ec69a0f32f][CRIME]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / fault, moral responsibility for an unfortunate state of affairs
+*** 咎@jiù
+:PROPERTIES:
+:CONCEPT: uuid-7dab8bbe-f850-4f98-b952-3cfff6bee02f / DISASTER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 1
+:END:
+咎@jiù	[[tls:concept:DISASTER::#uuid-7dab8bbe-f850-4f98-b952-3cfff6bee02f][DISASTER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / (deserved) bad fortune; (deserved) disaster; (deserved) calamity

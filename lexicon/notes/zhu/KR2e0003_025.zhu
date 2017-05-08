@@ -1,0 +1,196 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_025
+#+DATE: 2017-02-08T16:41:10+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 以秦之輕也	but the minister, because of the weak position Ch'in was in,47
+:PROPERTIES:
+:SRC: ZGC 1.25.1; tr. Crump 1979 no.34, p. 47 Chou told how a small state may be influental
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_025:1a03:1::以秦 / 戰國策
+:CHARPOS: 1
+:END:
+*** 輕@qìng / 輕@qīng
+:PROPERTIES:
+:CONCEPT: uuid-36afabe8-11ff-40ff-a627-ec92915e3d28 / WEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 4
+:END:
+輕@qìng / 輕@qīng	[[tls:concept:WEAK::#uuid-36afabe8-11ff-40ff-a627-ec92915e3d28][WEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / current state of weakness
+** 留其行	delayed his journey.
+:PROPERTIES:
+:SRC: ZGC 1.25.1; tr. Crump 1979 no.34, p. 47 Chou told how a small state may be influental
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_025:1a04:50::留其 / 戰國策
+:CHARPOS: 50
+:END:
+*** 留@liú
+:PROPERTIES:
+:CONCEPT: uuid-bc210cd9-dbfd-4ff7-ab1f-0937cb1144db / DELAY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+留@liú	[[tls:concept:DELAY::#uuid-bc210cd9-dbfd-4ff7-ab1f-0937cb1144db][DELAY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / delay
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-9bf30ff9-4759-43ff-9d42-1ada1466d8f9 / TRAVEL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+行@xíng	[[tls:concept:TRAVEL::#uuid-9bf30ff9-4759-43ff-9d42-1ada1466d8f9][TRAVEL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / journey, a trip, an expedition
+** 有人謂相國曰	Someone said to him:
+:PROPERTIES:
+:SRC: ZGC 1.25.1; tr. Crump 1979 no.34, p. 47 Chou told how a small state may be influental
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_025:1a05:50::有人 / 戰國策
+:CHARPOS: 50
+:END:
+*** 有人@yǒurén
+:PROPERTIES:
+:CONCEPT: uuid-ecf6b405-7bc1-400b-b429-0ef7608d006e / SOME
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 50
+:END:
+有人@yǒurén	[[tls:concept:SOME::#uuid-ecf6b405-7bc1-400b-b429-0ef7608d006e][SOME]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / someone (!) [When does this phrase come to have this nominal function? Interesting syntictic issue, semantically empty. CH]
+*** 相國@xiàngguó
+:PROPERTIES:
+:CONCEPT: uuid-4d9f4374-0432-45a8-b895-7b3ccca131f7 / MINISTER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86
+:CHARPOS: 53
+:END:
+相國@xiàngguó	[[tls:concept:MINISTER::#uuid-4d9f4374-0432-45a8-b895-7b3ccca131f7][MINISTER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86][title]]} / prime minister
+** 秦之輕重	'It is as yet impossible to know
+:PROPERTIES:
+:SRC: ZGC 1.25.1; tr. Crump 1979 no.34, p. 47 Chou told how a small state may be influental
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_025:1a06:50::「秦 / 戰國策
+:CHARPOS: 50
+:END:
+*** 輕重@qīngzhòng
+:PROPERTIES:
+:CONCEPT: uuid-860b73e3-1b7c-4d90-b2c6-058e8f56f455 / IMPORTANT
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:SEM-FEAT: uuid-17852714-0baf-4ffe-a62d-121e2270ff01
+:CHARPOS: 52
+:END:
+輕重@qīngzhòng	[[tls:concept:IMPORTANT::#uuid-860b73e3-1b7c-4d90-b2c6-058e8f56f455][IMPORTANT]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-17852714-0baf-4ffe-a62d-121e2270ff01][relative]]} / the relative importance of things
+** 秦欲知三國之情	but she wants to know how things are going in the Three States
+:PROPERTIES:
+:SRC: ZGC 1.25.2; tr. Crump 1979 no.34, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_025:1a08:1::秦欲 / 戰國策
+:CHARPOS: 1
+:END:
+*** 情@qíng
+:PROPERTIES:
+:CONCEPT: uuid-4f2112cc-582f-4746-9ba4-8b75dda8e78e / REALITY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 7
+:END:
+情@qíng	[[tls:concept:REALITY::#uuid-4f2112cc-582f-4746-9ba4-8b75dda8e78e][REALITY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / real facts of a matter, real state of affairs; real facts of a case
+** 公不如遂見秦王曰	so you ought to have audience with the king of Ch'in and then say,
+:PROPERTIES:
+:SRC: ZGC 1.25.2; tr. Crump 1979 no.34, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_025:1a09:50::公不 / 戰國策
+:CHARPOS: 50
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 50
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / honorific in informal conversation: you; also n - pro: "you my Duke"; used both as subject and as object
+** 請謂王聽東方之處	"Let me go on your behalf and listen to what they are doing in the east."
+:PROPERTIES:
+:SRC: ZGC 1.25.2; tr. Crump 1979 no.34, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_025:1a10:50::『請 / 戰國策
+:CHARPOS: 50
+:END:
+*** 聽@tīng
+:PROPERTIES:
+:CONCEPT: uuid-18396c32-445e-4589-9d16-6283dfacfa79 / INVESTIGATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+聽@tīng	[[tls:concept:INVESTIGATE::#uuid-18396c32-445e-4589-9d16-6283dfacfa79][INVESTIGATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / try to get all the news about, investigate secretly cf. 打聽
+** 秦必重公	Ch'in will certainly hold you in great respect.
+:PROPERTIES:
+:SRC: ZGC 1.25.2; tr. Crump 1979 no.34, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_025:1a11:50::秦必 / 戰國策
+:CHARPOS: 50
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-0074d730-81dd-4014-9c3e-08aaaf9b4b67 / RESPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 52
+:END:
+重@zhòng	[[tls:concept:RESPECT::#uuid-0074d730-81dd-4014-9c3e-08aaaf9b4b67][RESPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / regard as being of great importance and as deserving great respect (a person or a thing); treat as important
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-fb0f5f81-b4e4-4a5d-9545-1a23d00f0e64 / YOU
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:CHARPOS: 53
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-fb0f5f81-b4e4-4a5d-9545-1a23d00f0e64][YOU]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] / you, sir
+** 是公重周	Being so honoured you will bring importance to Chou
+:PROPERTIES:
+:SRC: ZGC 1.25.2; tr. Crump 1979 no.34, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_025:1a12:50::是公 / 戰國策
+:CHARPOS: 50
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-0074d730-81dd-4014-9c3e-08aaaf9b4b67 / RESPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 52
+:END:
+重@zhòng	[[tls:concept:RESPECT::#uuid-0074d730-81dd-4014-9c3e-08aaaf9b4b67][RESPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / regard as being of great importance and as deserving great respect (a person or a thing); treat as important
+** 齊重故有周	Ch'i is an important state and already has good relations with Chou;
+:PROPERTIES:
+:SRC: ZGC 1.25.2; tr. Crump 1979 no.34, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_025:1a14:1::齊重 / 戰國策
+:CHARPOS: 1
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-c7c71757-df9d-4f99-b107-c6beee1fe597 / IMPORTANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 2
+:END:
+重@zhòng	[[tls:concept:IMPORTANT::#uuid-c7c71757-df9d-4f99-b107-c6beee1fe597][IMPORTANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be powerful, significant, striking; be in a strong position: be of great (political) weight 最重
+** 是周常不失重國之交也	Chou will never lack for alliances with powerful states.'49
+:PROPERTIES:
+:SRC: ZGC 1.25.2; tr. Crump 1979 no.34, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_025:1a15:1::是周 / 戰國策
+:CHARPOS: 1
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-25ad455c-b5a9-4099-b93a-d2f3f496b50e / IMPORTANT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 6
+:END:
+重@zhòng	[[tls:concept:IMPORTANT::#uuid-25ad455c-b5a9-4099-b93a-d2f3f496b50e][IMPORTANT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / important; serious (crimes etc)
+*** 交@jiāo
+:PROPERTIES:
+:CONCEPT: uuid-fa94d1db-0174-475c-b352-7f8d92c4ef72 / INTERACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 9
+:END:
+交@jiāo	[[tls:concept:INTERACT::#uuid-fa94d1db-0174-475c-b352-7f8d92c4ef72][INTERACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / relations, connections; human relations; diplomatic relations

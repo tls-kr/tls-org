@@ -1,0 +1,172 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_045
+#+DATE: 2017-02-08T16:41:12+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 何不謂周君曰	'Why do you not say to the ruler of Chou,
+:PROPERTIES:
+:SRC: ZGC 2.17.1; tr. Crump 1979 no.12, p. 32, ed. Shanghaiguji p. 73 Chou's minister in Ch'in is insured against blame
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_045:1a04:1::「何 / 戰國策
+:CHARPOS: 1
+:END:
+*** 何不@hébù
+:PROPERTIES:
+:CONCEPT: uuid-e33e135d-dce1-40b9-85cf-98e256161a33 / SHOULD
+:SYN-FUNC: uuid-9f1cae57-3d6f-41bd-8773-b08b64713094
+:CHARPOS: 1
+:END:
+何不@hébù	[[tls:concept:SHOULD::#uuid-e33e135d-dce1-40b9-85cf-98e256161a33][SHOULD]]	P [[tls:syn-func::#uuid-9f1cae57-3d6f-41bd-8773-b08b64713094][PP+V{PRED}(.postN{SUBJ})]] / you surely should, why don't you
+** 秦周之交必惡	the relations between Chou and Ch'in will be worsened.
+:PROPERTIES:
+:SRC: ZGC 2.17.1; tr. Crump 1979 no.12, p. 32, ed. Shanghaiguji p. 73 Chou's minister in Ch'in is insured against blame
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_045:1a06:1::秦、 / 戰國策
+:CHARPOS: 1
+:END:
+*** 交@jiāo
+:PROPERTIES:
+:CONCEPT: uuid-fa94d1db-0174-475c-b352-7f8d92c4ef72 / INTERACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 4
+:END:
+交@jiāo	[[tls:concept:INTERACT::#uuid-fa94d1db-0174-475c-b352-7f8d92c4ef72][INTERACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / relations, connections; human relations; diplomatic relations
+** 主君之臣	Your highness' ministers77
+:PROPERTIES:
+:SRC: ZGC 2.17.1; tr. Crump 1979 no.12, p. 32, ed. Shanghaiguji p. 73 Chou's minister in Ch'in is insured against blame
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_045:1a07:50::主君 / 戰國策
+:CHARPOS: 50
+:END:
+*** 主君@zhǔjūn
+:PROPERTIES:
+:CONCEPT: uuid-d6a81f75-b4b6-43cf-a6f3-87db5eba8b54 / YOU
+:SYN-FUNC: uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4
+:CHARPOS: 50
+:END:
+主君@zhǔjūn	[[tls:concept:YOU::#uuid-d6a81f75-b4b6-43cf-a6f3-87db5eba8b54][YOU]]	N [[tls:syn-func::#uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4][NP{post-npro_1.}{post=npro_2}]] / you mylord
+** 且惡臣於秦	Whoever it is will then slander me to Ch'in
+:PROPERTIES:
+:SRC: ZGC 2.17.1; tr. Crump 1979 no.12, p. 32, ed. Shanghaiguji p. 73 Chou's minister in Ch'in is insured against blame
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_045:1a09:1::且惡 / 戰國策
+:CHARPOS: 1
+:END:
+*** 惡@wù
+:PROPERTIES:
+:CONCEPT: uuid-d5070adf-fa0b-4010-b5a3-32e0b8768249 / SLANDER
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 2
+:END:
+惡@wù	[[tls:concept:SLANDER::#uuid-d5070adf-fa0b-4010-b5a3-32e0b8768249][SLANDER]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / malign N1 to N2, slander N1 in front of N2
+** 臣願免而行	I would prefer to quit my post as chief minister before I go.
+:PROPERTIES:
+:SRC: ZGC 2.17.1; tr. Crump 1979 no.12, p. 32, ed. Shanghaiguji p. 73 Chou's minister in Ch'in is insured against blame
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_045:1a11:1::臣願 / 戰國策
+:CHARPOS: 1
+:END:
+*** 免@miǎn
+:PROPERTIES:
+:CONCEPT: uuid-9bf93051-5040-4667-854b-57cf4b9f14af / DISMISS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 3
+:END:
+免@miǎn	[[tls:concept:DISMISS::#uuid-9bf93051-5040-4667-854b-57cf4b9f14af][DISMISS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be dismissed
+** 不惡周於秦矣	he will not slander Chou to the king of Ch'in."
+:PROPERTIES:
+:SRC: ZGC 2.17.1; tr. Crump 1979 no.12, p. 32, ed. Shanghaiguji p. 73 Chou's minister in Ch'in is insured against blame
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_045:1a14:1::不惡 / 戰國策
+:CHARPOS: 1
+:END:
+*** 惡@wù
+:PROPERTIES:
+:CONCEPT: uuid-d5070adf-fa0b-4010-b5a3-32e0b8768249 / SLANDER
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 2
+:END:
+惡@wù	[[tls:concept:SLANDER::#uuid-d5070adf-fa0b-4010-b5a3-32e0b8768249][SLANDER]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / malign N1 to N2, slander N1 in front of N2
+** 君重秦	However, your ruler intends to honour Ch'in
+:PROPERTIES:
+:SRC: ZGC 2.17.2; tr. Crump 1979 no.12, p. 32, ed. Shanghaiguji p. 73
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_045:1a15:50::君重 / 戰國策
+:CHARPOS: 50
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-1cff7896-da7d-43e9-b8d4-ef2133e23740 / IMPORTANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 51
+:END:
+重@zhòng	[[tls:concept:IMPORTANT::#uuid-1cff7896-da7d-43e9-b8d4-ef2133e23740][IMPORTANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / consider as important; consider as a serious matter, take seriously, attach importance to; be chiefly concerned with; 最重
+** 且輕秦也	it would be a slight to Ch'in
+:PROPERTIES:
+:SRC: ZGC 2.17.2; tr. Crump 1979 no.12, p. 32, ed. Shanghaiguji p. 73
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_045:1a18:1::且輕 / 戰國策
+:CHARPOS: 1
+:END:
+*** 輕@qìng / 輕@qīng
+:PROPERTIES:
+:CONCEPT: uuid-948c2a6f-cfe8-44bc-9cc0-f78a5247a9ae / UNIMPORTANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 2
+:END:
+輕@qìng / 輕@qīng	[[tls:concept:UNIMPORTANT::#uuid-948c2a6f-cfe8-44bc-9cc0-f78a5247a9ae][UNIMPORTANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / treat as unimportant
+** 公必不免	so you will not be allowed to resign.
+:PROPERTIES:
+:SRC: ZGC 2.17.2; tr. Crump 1979 no.12, p. 32, ed. Shanghaiguji p. 73
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_045:1a19:50::公必 / 戰國策
+:CHARPOS: 50
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 50
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / honorific in informal conversation: you; also n - pro: "you my Duke"; used both as subject and as object
+*** 免@miǎn
+:PROPERTIES:
+:CONCEPT: uuid-9bf93051-5040-4667-854b-57cf4b9f14af / DISMISS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+免@miǎn	[[tls:concept:DISMISS::#uuid-9bf93051-5040-4667-854b-57cf4b9f14af][DISMISS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be dismissed
+** 公言是而行	But if you say what I told you to before you leave,
+:PROPERTIES:
+:SRC: ZGC 2.17.2; tr. Crump 1979 no.12, p. 32, ed. Shanghaiguji p. 73
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_045:1a20:50::公言 / 戰國策
+:CHARPOS: 50
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 50
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / honorific in informal conversation: you; also n - pro: "you my Duke"; used both as subject and as object
+** 且公之成事也	will be credited to you
+:PROPERTIES:
+:SRC: ZGC 2.17.2; tr. Crump 1979 no.12, p. 32, ed. Shanghaiguji p. 73
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_045:1a22:1::且公 / 戰國策
+:CHARPOS: 1
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-eb78bfcd-b301-4d71-b5c3-a8ec46580220 / YOU
+:SYN-FUNC: uuid-10f701c4-6176-43d7-b24a-c3bac8e75365
+:CHARPOS: 2
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-eb78bfcd-b301-4d71-b5c3-a8ec46580220][YOU]]	 [[tls:syn-func::#uuid-10f701c4-6176-43d7-b24a-c3bac8e75365][n{post-npro2.}{post=npro1:}adN]] / your

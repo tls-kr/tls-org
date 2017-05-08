@@ -1,0 +1,258 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_030
+#+DATE: 2017-02-08T16:41:10+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 秦攻魏將𡱝武軍於伊闕	Ch'in attacked the army of Wei's general Hsi Wu at Yi-ch'yeh
+:PROPERTIES:
+:SRC: ZGC 2.2.1; tr. Crump 1979 no.10, p. 30 Chou Tsui seeks to avert a Ch'in attack
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a01:50::秦攻 / 戰國策
+:CHARPOS: 50
+:END:
+*** 將@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-9042d3ef-58db-4cdd-97b2-4562cf07c277 / GENERAL
+:SYN-FUNC: uuid-bf2d7afd-54b1-43ac-86fd-400b6341fd42
+:CHARPOS: 53
+:END:
+將@jiàng	[[tls:concept:GENERAL::#uuid-9042d3ef-58db-4cdd-97b2-4562cf07c277][GENERAL]]	N [[tls:syn-func::#uuid-bf2d7afd-54b1-43ac-86fd-400b6341fd42][npost=Npr]] / general of N
+** 君不如禁秦之攻周	'Your excellency had best prevent Ch'in's attack on Chou.
+:PROPERTIES:
+:SRC: ZGC 2.2.1; tr. Crump 1979 no.10, p. 30 Chou Tsui seeks to avert a Ch'in attack
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a04:1::「君 / 戰國策
+:CHARPOS: 1
+:END:
+*** 禁@jìn
+:PROPERTIES:
+:CONCEPT: uuid-8972ab07-b979-44ab-9170-c623255f15b6 / STOP
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 4
+:END:
+禁@jìn	[[tls:concept:STOP::#uuid-8972ab07-b979-44ab-9170-c623255f15b6][STOP]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / prevent NP-ing
+** 趙之上計	The finest plan for Chao
+:PROPERTIES:
+:SRC: ZGC 2.2.1; tr. Crump 1979 no.10, p. 30 Chou Tsui seeks to avert a Ch'in attack
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a05:50::趙之 / 戰國策
+:CHARPOS: 50
+:END:
+*** 上@shàng
+:PROPERTIES:
+:CONCEPT: uuid-5d74d930-ac34-43b4-995f-d26ae4f74080 / EXCELLENT
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 52
+:END:
+上@shàng	[[tls:concept:EXCELLENT::#uuid-5d74d930-ac34-43b4-995f-d26ae4f74080][EXCELLENT]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / of higher quality, of superior quality; best
+** 則眾必多傷矣	she must at least suffer heavy casualties.
+:PROPERTIES:
+:SRC: ZGC 2.2.1; tr. Crump 1979 no.10, p. 30 Chou Tsui seeks to avert a Ch'in attack
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a08:1::則眾 / 戰國策
+:CHARPOS: 1
+:END:
+*** 眾@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-defc8cb9-8135-4e60-a7ce-0ec9c4d4b733 / ARMY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 2
+:END:
+眾@zhòng	[[tls:concept:ARMY::#uuid-defc8cb9-8135-4e60-a7ce-0ec9c4d4b733][ARMY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / OBI: hosts; numerous armed forces; the numerous armes forces; also: armed forces of an individual household
+*** 傷@shāng
+:PROPERTIES:
+:CONCEPT: uuid-aa850c73-1d9b-43bc-8e5e-963f39db7568 / INJURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 5
+:END:
+傷@shāng	[[tls:concept:INJURE::#uuid-aa850c73-1d9b-43bc-8e5e-963f39db7568][INJURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be wounded; get injured; be afflicted by; be made ill by
+** 秦欲待周之得	Ch'in anticipated having only to take Chou
+:PROPERTIES:
+:SRC: ZGC 2.2.2; tr. Crump 1979 no.10, p. 30
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a09:50::秦欲 / 戰國策
+:CHARPOS: 50
+:END:
+*** 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-dc84e5b5-b63c-4276-a437-529f7e236942 / OBTAIN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+得@dé	[[tls:concept:OBTAIN::#uuid-dc84e5b5-b63c-4276-a437-529f7e236942][OBTAIN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / conquest of
+** 後有攻周之敗	and her defeat at the hands of Chou -
+:PROPERTIES:
+:SRC: ZGC 2.2.2; tr. Crump 1979 no.10, p. 30
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a13:1::後有 / 戰國策
+:CHARPOS: 1
+:END:
+*** 敗@bài
+:PROPERTIES:
+:CONCEPT: uuid-3d53e384-5734-4587-bc63-a99c748d2f79 / DEFEAT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+敗@bài	[[tls:concept:DEFEAT::#uuid-3d53e384-5734-4587-bc63-a99c748d2f79][DEFEAT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / read braads: defeat, failure
+** 而秦未與魏講也	before she can make peace with Wei,
+:PROPERTIES:
+:SRC: ZGC 2.2.2; tr. Crump 1979 no.10, p. 30
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a16:1::而秦 / 戰國策
+:CHARPOS: 1
+:END:
+*** 講@jiǎng
+:PROPERTIES:
+:CONCEPT: uuid-938ea6ff-ea06-47c7-8459-190eebd3abff / COOPERATE
+:SYN-FUNC: uuid-a78375c7-535a-4ee7-b31e-71c06e28ce76
+:CHARPOS: 6
+:END:
+講@jiǎng	[[tls:concept:COOPERATE::#uuid-938ea6ff-ea06-47c7-8459-190eebd3abff][COOPERATE]]	V [[tls:syn-func::#uuid-a78375c7-535a-4ee7-b31e-71c06e28ce76][vtpost-.VtoN]] / make peace with, negotiate on cooperation withy
+** 而全趙令其止	then she will be faced with the whole country of Chao intact
+:PROPERTIES:
+:SRC: ZGC 2.2.2; tr. Crump 1979 no.10, p. 30
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a17:50::而全 / 戰國策
+:CHARPOS: 50
+:END:
+*** 其@qí
+:PROPERTIES:
+:CONCEPT: uuid-47657c20-7e9c-4453-aed0-7da864a5388c / THIS
+:SYN-FUNC: uuid-e8b41705-45b6-484a-81e9-ff87a32a8253
+:CHARPOS: 54
+:END:
+其@qí	[[tls:concept:THIS::#uuid-47657c20-7e9c-4453-aed0-7da864a5388c][THIS]]	N [[tls:syn-func::#uuid-e8b41705-45b6-484a-81e9-ff87a32a8253][npro.postVt:+V{0}]] / him/her/it/them
+** 是君卻秦而定周也	Your excellency will then have both turned back Ch'in and stabilized Chou.
+:PROPERTIES:
+:SRC: ZGC 2.2.2; tr. Crump 1979 no.10, p. 30
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a19:1::是君 / 戰國策
+:CHARPOS: 1
+:END:
+*** 卻@què
+:PROPERTIES:
+:CONCEPT: uuid-c1f03abf-543e-4a62-bb79-a3790bf49355 / WITHDRAW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 3
+:END:
+卻@què	[[tls:concept:WITHDRAW::#uuid-c1f03abf-543e-4a62-bb79-a3790bf49355][WITHDRAW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to withdraw
+** 魏不能支	Wei cannot cope with her
+:PROPERTIES:
+:SRC: ZGC 2.2.3; tr. Crump 1979 no.10, p. 30
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a22:1::魏不 / 戰國策
+:CHARPOS: 1
+:END:
+*** 支@zhī
+:PROPERTIES:
+:CONCEPT: uuid-e2dc0595-0dd9-40c1-af85-7e2018e6c687 / ENDURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+支@zhī	[[tls:concept:ENDURE::#uuid-e2dc0595-0dd9-40c1-af85-7e2018e6c687][ENDURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be able to bear with, be able to stand; be able to put up effective resistence
+** 必因君而講	and must settle with her through your excellency -
+:PROPERTIES:
+:SRC: ZGC 2.2.3; tr. Crump 1979 no.10, p. 30
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a23:50::必因 / 戰國策
+:CHARPOS: 50
+:END:
+*** 講@jiǎng
+:PROPERTIES:
+:CONCEPT: uuid-7e676c82-2c9a-401e-944a-576b49147cce / COOPERATE
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 54
+:END:
+講@jiǎng	[[tls:concept:COOPERATE::#uuid-7e676c82-2c9a-401e-944a-576b49147cce][COOPERATE]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / make peace with a contextually determiante person/object
+** 則君重矣	then again you will be in a strong position.
+:PROPERTIES:
+:SRC: ZGC 2.2.3; tr. Crump 1979 no.10, p. 30
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a24:50::則君 / 戰國策
+:CHARPOS: 50
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-c7c71757-df9d-4f99-b107-c6beee1fe597 / IMPORTANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+重@zhòng	[[tls:concept:IMPORTANT::#uuid-c7c71757-df9d-4f99-b107-c6beee1fe597][IMPORTANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be powerful, significant, striking; be in a strong position: be of great (political) weight 最重
+** 若魏不講	If, in desperation,
+:PROPERTIES:
+:SRC: ZGC 2.2.3; tr. Crump 1979 no.10, p. 30
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a25:50::若魏 / 戰國策
+:CHARPOS: 50
+:END:
+*** 講@jiǎng
+:PROPERTIES:
+:CONCEPT: uuid-7e676c82-2c9a-401e-944a-576b49147cce / COOPERATE
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 53
+:END:
+講@jiǎng	[[tls:concept:COOPERATE::#uuid-7e676c82-2c9a-401e-944a-576b49147cce][COOPERATE]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / make peace with a contextually determiante person/object
+** 而疾支之	Wei should cope with Ch'in,
+:PROPERTIES:
+:SRC: ZGC 2.2.3; tr. Crump 1979 no.10, p. 30
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a26:50::而疾 / 戰國策
+:CHARPOS: 50
+:END:
+*** 支@zhī
+:PROPERTIES:
+:CONCEPT: uuid-e2dc0595-0dd9-40c1-af85-7e2018e6c687 / ENDURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+支@zhī	[[tls:concept:ENDURE::#uuid-e2dc0595-0dd9-40c1-af85-7e2018e6c687][ENDURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be able to bear with, be able to stand; be able to put up effective resistence
+** 是君存周而戰秦魏也	then your excellency will have preserved Chou, caused Wei and Ch'in to have engaged one another
+:PROPERTIES:
+:SRC: ZGC 2.2.3; tr. Crump 1979 no.10, p. 30
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a27:50::是君 / 戰國策
+:CHARPOS: 50
+:END:
+*** 存@cún
+:PROPERTIES:
+:CONCEPT: uuid-03039052-69d7-43a0-9039-0d56b09ea653 / SAFEGUARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+存@cún	[[tls:concept:SAFEGUARD::#uuid-03039052-69d7-43a0-9039-0d56b09ea653][SAFEGUARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cause to persist> cause to survive, preserve, safeguard
+*** 戰@zhàn
+:PROPERTIES:
+:CONCEPT: uuid-46f6bb86-081a-48e5-90d8-581d235a2191 / FIGHT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 55
+:END:
+戰@zhàn	[[tls:concept:FIGHT::#uuid-46f6bb86-081a-48e5-90d8-581d235a2191][FIGHT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to fight each other
+** 重亦盡在趙	and Chao will be in an overwhelmingly important position.'
+:PROPERTIES:
+:SRC: ZGC 2.2.3; tr. Crump 1979 no.10, p. 30
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_030:1a27:50::重亦 / 戰國策
+:CHARPOS: 50
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-5f94295a-6fa5-4333-bd19-72186b94643a / POWER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 50
+:END:
+重@zhòng	[[tls:concept:POWER::#uuid-5f94295a-6fa5-4333-bd19-72186b94643a][POWER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / political influence, political weight; political power
+*** 盡@jìn
+:PROPERTIES:
+:CONCEPT: uuid-0babe578-e18b-4fb1-8439-da70674b3efe / ALL
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-d1cf7a99-5f60-4ba5-ac4d-ce56db9366bd
+:CHARPOS: 52
+:END:
+盡@jìn	[[tls:concept:ALL::#uuid-0babe578-e18b-4fb1-8439-da70674b3efe][ALL]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-d1cf7a99-5f60-4ba5-ac4d-ce56db9366bd][quantifier]]} / all subjects indiscriminately, all subjects without exceptions; without exception

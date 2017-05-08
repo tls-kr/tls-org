@@ -1,0 +1,134 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_008
+#+DATE: 2017-02-08T16:43:42+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 上善若水	The greatest goodness is that of water.
+:PROPERTIES:
+:SRC: LAO 8.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_008:1a01:50::上善 / 老子
+:CHARPOS: 50
+:END:
+*** 上@shàng
+:PROPERTIES:
+:CONCEPT: uuid-5d74d930-ac34-43b4-995f-d26ae4f74080 / EXCELLENT
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 50
+:END:
+上@shàng	[[tls:concept:EXCELLENT::#uuid-5d74d930-ac34-43b4-995f-d26ae4f74080][EXCELLENT]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / of higher quality, of superior quality; best
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-eb17de05-373a-4541-8809-1010c1888673 / GOOD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+善@shàn	[[tls:concept:GOOD::#uuid-eb17de05-373a-4541-8809-1010c1888673][GOOD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / moral excellence in action; acts of goodness
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-3a069b68-3628-4071-93e9-09145417e469 / EXCELLENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 51
+:END:
+善@shàn	[[tls:concept:EXCELLENT::#uuid-3a069b68-3628-4071-93e9-09145417e469][EXCELLENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / excellence, special strong features (always stable or permanent features)
+** 水善利萬物	The goodness of water is that it benefits the myriad things
+:PROPERTIES:
+:SRC: LAO 8.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_008:1a02:50::水善 / 老子
+:CHARPOS: 50
+:END:
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-3a069b68-3628-4071-93e9-09145417e469 / EXCELLENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 51
+:END:
+善@shàn	[[tls:concept:EXCELLENT::#uuid-3a069b68-3628-4071-93e9-09145417e469][EXCELLENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / excellence, special strong features (always stable or permanent features)
+** 處眾人之所惡	it dwells in the place which all people detest (sc. the lowest).
+:PROPERTIES:
+:SRC: LAO 8.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_008:1a03:1::處眾 / 老子
+:CHARPOS: 1
+:END:
+*** 處@chǔ
+:PROPERTIES:
+:CONCEPT: uuid-68717770-f25d-486d-a118-a3bc088b6c7f / DWELL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+處@chǔ	[[tls:concept:DWELL::#uuid-68717770-f25d-486d-a118-a3bc088b6c7f][DWELL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be in (a place), stay in (a place); stay among (the barbarians etc); choose to dwell in, choose as one's abode; take up private residence in
+*** 眾人@zhòngrén / 衆人@zhōngrén
+:PROPERTIES:
+:CONCEPT: uuid-2a54f14e-7b1f-4731-aef0-82a13074e766 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 2
+:END:
+眾人@zhòngrén / 衆人@zhōngrén	[[tls:concept:ORDINARY::#uuid-2a54f14e-7b1f-4731-aef0-82a13074e766][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / intellectually ordinary people (who may be of considerable social status); the hoi polloi; a vulgar uneducated person (not necessarily plural!)
+** 故幾於道	Therefore it stands near to Tao (the Way).
+:PROPERTIES:
+:SRC: LAO 8.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_008:1a04:50::故幾 / 老子
+:CHARPOS: 50
+:END:
+*** 幾@jī
+:PROPERTIES:
+:CONCEPT: uuid-67b2a5ae-88b0-4a4a-897e-6954bf3cfccc / NEAR
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 51
+:END:
+幾@jī	[[tls:concept:NEAR::#uuid-67b2a5ae-88b0-4a4a-897e-6954bf3cfccc][NEAR]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / come close to (e.g. the truth, a virtue, one's aim), approximate 幾於死亡 We are close to death.
+** 事善能	for action prefer ability,
+:PROPERTIES:
+:SRC: LAO 8.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_008:1a10:1::事善 / 老子
+:CHARPOS: 1
+:END:
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-0f07b68a-afdf-4066-9e56-a8b75d20825e / SERVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+事@shì	[[tls:concept:SERVE::#uuid-0f07b68a-afdf-4066-9e56-a8b75d20825e][SERVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / public service; public tasks
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-2b5855c6-f1c8-470c-af26-6bfb17b16836 / WORK
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+事@shì	[[tls:concept:WORK::#uuid-2b5855c6-f1c8-470c-af26-6bfb17b16836][WORK]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (especially official) matter, especially: public task, official business; public event; public project, (military) undertaking, task; one's professional concern 五事
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-49c40490-ca65-4711-8a0d-5fdb21b9123a / ABLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 3
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-49c40490-ca65-4711-8a0d-5fdb21b9123a][ABLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / capability; physical capability, concrete technical capability; potential, capacity 人各有能
+** 動善時	for starting some work one should prefer seasonableness (the right time);
+:PROPERTIES:
+:SRC: LAO 8.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_008:1a11:50::動善 / 老子
+:CHARPOS: 50
+:END:
+*** 動@dòng
+:PROPERTIES:
+:CONCEPT: uuid-a7886791-73ea-4cab-a4cc-a757df193493 / ACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+動@dòng	[[tls:concept:ACT::#uuid-a7886791-73ea-4cab-a4cc-a757df193493][ACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / the taking of intiatives; activation; the initiating of an action
+*** 時@shí
+:PROPERTIES:
+:CONCEPT: uuid-0bad8c98-9ad1-4bfb-9068-e7597965ded3 / TIMELY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+時@shí	[[tls:concept:TIMELY::#uuid-0bad8c98-9ad1-4bfb-9068-e7597965ded3][TIMELY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / timeliness; being in time; the right time; the appropriate season

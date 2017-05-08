@@ -1,0 +1,76 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_027
+#+DATE: 2017-02-08T16:43:43+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 善言者無瑕讁	The skilful speaker has no flaws that are impeached,
+:PROPERTIES:
+:SRC: LAO 27.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_027:1a02:1::善言 / 老子
+:CHARPOS: 1
+:END:
+*** 瑕@xiá
+:PROPERTIES:
+:CONCEPT: uuid-3477a364-5c47-41b6-9851-d3bb4e3aaa05 / DEFECT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CONCEPT: uuid-f52ca705-76a9-494a-ad9f-19be223406f4 / MISTAKE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 5
+:END:
+瑕@xiá	[[tls:concept:DEFECT::#uuid-3477a364-5c47-41b6-9851-d3bb4e3aaa05][DEFECT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / flaw (in a person); blemish (in a person or action)
+謫@zhé	[[tls:concept:MISTAKE::#uuid-f52ca705-76a9-494a-ad9f-19be223406f4][MISTAKE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / defect, mistake
+** 善閉者無關楗而不可啟	the skilful closer uses no bars or locks,yet [the door] cannot be opened,
+:PROPERTIES:
+:SRC: LAO 27.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_027:1a04:1::善閉 / 老子
+:CHARPOS: 1
+:END:
+*** 楗@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-a2e4bc51-2f3a-44c7-b627-37874f59d4f1 / GATE PART
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+楗@jiàn	[[tls:concept:GATE PART::#uuid-a2e4bc51-2f3a-44c7-b627-37874f59d4f1][GATE PART]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / LAO: bolt, made of wood
+** 故善人者不善人之師	Therefore the skilful man is the (master:) teacher of the unskilful man,
+:PROPERTIES:
+:SRC: LAO 27.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_027:1a11:1::故善 / 老子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 4
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+*** 不善@bùshàn
+:PROPERTIES:
+:CONCEPT: uuid-58a89270-d6db-4547-aab8-c896e41f91ef / WICKED
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:SEM-FEAT: uuid-9530ae9f-75b5-410f-9376-4472f38c74c0
+:CHARPOS: 5
+:END:
+不善@bùshàn	[[tls:concept:WICKED::#uuid-58a89270-d6db-4547-aab8-c896e41f91ef][WICKED]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] {[[tls:sem-feat::#uuid-9530ae9f-75b5-410f-9376-4472f38c74c0][litotes]]} / inferior, bad 不善人，不善之性
+** 不善人者善人之資	the unskilful man is the (material on which to work:) helper of the skilful man.
+:PROPERTIES:
+:SRC: LAO 27.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_027:1a12:50::不善 / 老子
+:CHARPOS: 50
+:END:
+*** 不善@bùshàn
+:PROPERTIES:
+:CONCEPT: uuid-58a89270-d6db-4547-aab8-c896e41f91ef / WICKED
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:SEM-FEAT: uuid-9530ae9f-75b5-410f-9376-4472f38c74c0
+:CHARPOS: 50
+:END:
+不善@bùshàn	[[tls:concept:WICKED::#uuid-58a89270-d6db-4547-aab8-c896e41f91ef][WICKED]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] {[[tls:sem-feat::#uuid-9530ae9f-75b5-410f-9376-4472f38c74c0][litotes]]} / inferior, bad 不善人，不善之性
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 53
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)

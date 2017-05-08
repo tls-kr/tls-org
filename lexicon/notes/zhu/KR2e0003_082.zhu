@@ -1,0 +1,728 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_082
+#+DATE: 2017-02-08T16:41:17+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 獻書昭王曰	Fan-tzu wrote to King Chao as follows:
+:PROPERTIES:
+:SRC: ZGC 5.8.1; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182 Fan-tzu's letter
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a02:1::獻書 / 戰國策
+:CHARPOS: 1
+:END:
+*** 獻@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-7768654c-ccfb-4d46-8388-5cb50f8dbd44 / HAND UP
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 1
+:END:
+獻@xiàn	[[tls:concept:HAND UP::#uuid-7768654c-ccfb-4d46-8388-5cb50f8dbd44][HAND UP]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / hand (something N1) up to (someone N2 of higher status)
+** 臣聞明主蒞正	I have heard that when an enlightened ruler establishes his government
+:PROPERTIES:
+:SRC: ZGC 5.8.1; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182 Fan-tzu's letter
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a03:50::「臣 / 戰國策
+:CHARPOS: 50
+:END:
+*** 蒞@lì
+:PROPERTIES:
+:CONCEPT: uuid-b9fbe8c9-14c6-4f12-b8cc-d331448a7b16 / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CONCEPT: uuid-37eb6fea-b6bf-4b98-8e23-914d330dbb07 / GOVERN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+蒞@lì	[[tls:concept:GOVERN::#uuid-b9fbe8c9-14c6-4f12-b8cc-d331448a7b16][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be formally in charge of, deal with (administrative matters); sometimes used as a success verb: deal effectively with, govern properly, lead with natural authority
+政@zhèng	[[tls:concept:GOVERN::#uuid-37eb6fea-b6bf-4b98-8e23-914d330dbb07][GOVERN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / administration of a state, public administration; administrative measure; administrative method; administrative tasks and problems; administrative practice
+** 有能者不得不官	and employ men of ability.
+:PROPERTIES:
+:SRC: ZGC 5.8.1; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182 Fan-tzu's letter
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a05:1::有能 / 戰國策
+:CHARPOS: 1
+:END:
+*** 官@guān
+:PROPERTIES:
+:CONCEPT: uuid-66460e9e-8dbd-48ed-a291-d5b25425f926 / EMPLOY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+官@guān	[[tls:concept:EMPLOY::#uuid-66460e9e-8dbd-48ed-a291-d5b25425f926][EMPLOY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / employ as a formal official
+** 勞大者其祿厚	Those whose labours are great he pays well.
+:PROPERTIES:
+:SRC: ZGC 5.8.1; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182 Fan-tzu's letter
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a06:50::勞大 / 戰國策
+:CHARPOS: 50
+:END:
+*** 勞@láo
+:PROPERTIES:
+:CONCEPT: uuid-f7c331cb-8093-4672-b2b5-e3eddf036809 / MERIT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+勞@láo	[[tls:concept:MERIT::#uuid-f7c331cb-8093-4672-b2b5-e3eddf036809][MERIT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / distinguished service; honest effort, meritorious toils, hard work; laborious achievement
+*** 祿@lù
+:PROPERTIES:
+:CONCEPT: uuid-8721695b-c7ba-4ec2-980c-b9594fe0251e / SALARY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 54
+:END:
+祿@lù	[[tls:concept:SALARY::#uuid-8721695b-c7ba-4ec2-980c-b9594fe0251e][SALARY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / salary, official stipend, public emoluments, public remuneration; salary levels
+*** 厚@hòu
+:PROPERTIES:
+:CONCEPT: uuid-d7cd8af9-ae13-4aaa-9c5f-f9ceb0281e5e / ABUNDANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 55
+:END:
+厚@hòu	[[tls:concept:ABUNDANT::#uuid-d7cd8af9-ae13-4aaa-9c5f-f9ceb0281e5e][ABUNDANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be richly supplied, be abundant, lavish; be substantial; be abundant in number; be affluent
+** 功多者其爵尊	Those who accomplish much he gives high rank.
+:PROPERTIES:
+:SRC: ZGC 5.8.1; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182 Fan-tzu's letter
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a07:50::功多 / 戰國策
+:CHARPOS: 50
+:END:
+*** 爵@jué
+:PROPERTIES:
+:CONCEPT: uuid-a7bc84f5-f369-44f5-9093-6352830c273c / RANK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 54
+:END:
+爵@jué	[[tls:concept:RANK::#uuid-a7bc84f5-f369-44f5-9093-6352830c273c][RANK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / official high formal rank; appointments to official ranks
+*** 尊@zūn
+:PROPERTIES:
+:CONCEPT: uuid-3e85dc5e-81d3-4aac-9b41-b3510faa17ce / NOBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 55
+:END:
+尊@zūn	[[tls:concept:NOBLE::#uuid-3e85dc5e-81d3-4aac-9b41-b3510faa17ce][NOBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be noble; be honoured; be deserving of respect or veneration 至尊
+** 能治眾者其官大	Those who can lead he appoints to high office.
+:PROPERTIES:
+:SRC: ZGC 5.8.1; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182 Fan-tzu's letter
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a08:50::能治 / 戰國策
+:CHARPOS: 50
+:END:
+*** 官@guān
+:PROPERTIES:
+:CONCEPT: uuid-d5a719e7-a3da-4b8a-aa51-232def9b707b / OFFICE
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 55
+:END:
+官@guān	[[tls:concept:OFFICE::#uuid-d5a719e7-a3da-4b8a-aa51-232def9b707b][OFFICE]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / official duties; bureau; 五官 "five bureaus"; office, official position NB: the distinction between the offices as such and their holders is blurred for very good reasons, since officials acted as representatives of their bureau.
+** 使以臣之言為可	If my words seem good to you
+:PROPERTIES:
+:SRC: ZGC 5.8.2; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a11:1::使以 / 戰國策
+:CHARPOS: 1
+:END:
+*** 使@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-6e544816-2782-4837-a7e8-e5272c79be48 / IF
+:SYN-FUNC: uuid-cf44b197-f172-4bcd-8bc2-b404d02bf71c
+:CHARPOS: 1
+:END:
+使@shǐ	[[tls:concept:IF::#uuid-6e544816-2782-4837-a7e8-e5272c79be48][IF]]	V [[tls:syn-func::#uuid-cf44b197-f172-4bcd-8bc2-b404d02bf71c][vt0oS1.adS2]] / supposing as a purely hypothetical and theoretical, or at least remote, possibility
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-58248328-733b-4587-bbd8-7c8aa830eebf / SPEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 5
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-58248328-733b-4587-bbd8-7c8aa830eebf][SPEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / statements of opinion, proposal; public or formal utterance which commits the speaker; pronouncement; public or formal pronouncement, public or formal suggestion; Sometimes less specifically: proposal; what one says, speech; language; public proposal, public speech, words
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-afef424d-97b8-4b6c-80fb-fe86f0352863 / TRUE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-d5acd595-a3a2-48cf-aceb-11ea436b2886
+:CHARPOS: 7
+:END:
+可@kě	[[tls:concept:TRUE::#uuid-afef424d-97b8-4b6c-80fb-fe86f0352863][TRUE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-d5acd595-a3a2-48cf-aceb-11ea436b2886][subject=words]]} / be acceptable, justified and true
+** 若將弗行	If you do not use them in the future,
+:PROPERTIES:
+:SRC: ZGC 5.8.2; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a13:1::若將 / 戰國策
+:CHARPOS: 1
+:END:
+*** 弗@fú
+:PROPERTIES:
+:CONCEPT: uuid-7a2049b2-9c88-496b-9dde-1fcd652ccb0f / REFUSE
+:SYN-FUNC: uuid-97cf839b-9fad-4d02-b83c-edb5ec732d37
+:CHARPOS: 3
+:END:
+弗@fú	[[tls:concept:REFUSE::#uuid-7a2049b2-9c88-496b-9dde-1fcd652ccb0f][REFUSE]]	 [[tls:syn-func::#uuid-97cf839b-9fad-4d02-b83c-edb5ec732d37][vt{NEG}+.Vt{0}(oN)]] / would not; refuse to; decide not to (do what one might otherwise have done); will not; fail to
+** 語曰	There is a saying,
+:PROPERTIES:
+:SRC: ZGC 5.8.2; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a15:1::語曰 / 戰國策
+:CHARPOS: 1
+:END:
+*** 語@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-d5a6d195-6fba-4829-8f2e-3f62837171da / PROVERB
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 1
+:END:
+語@yǔ	[[tls:concept:PROVERB::#uuid-d5a6d195-6fba-4829-8f2e-3f62837171da][PROVERB]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / proverb; sometimes also attributed to a place 宋人語曰
+** 人主賞所愛	"The merely human king rewards those whom he loves
+:PROPERTIES:
+:SRC: ZGC 5.8.2; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a16:50::『人 / 戰國策
+:CHARPOS: 50
+:END:
+*** 賞@shǎng
+:PROPERTIES:
+:CONCEPT: uuid-0ac12bb8-b92a-43b6-a350-1aae829218f1 / REWARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 52
+:END:
+賞@shǎng	[[tls:concept:REWARD::#uuid-0ac12bb8-b92a-43b6-a350-1aae829218f1][REWARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / make a reward to (a person); award ritual presents to (someone) in compensation for his services
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-093a1c6a-df79-4f98-bcb5-917361ba08bb / LOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-ae73cc73-c142-4cc5-ac10-d2297723f2e2
+:CHARPOS: 54
+:END:
+愛@ài	[[tls:concept:LOVE::#uuid-093a1c6a-df79-4f98-bcb5-917361ba08bb][LOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-ae73cc73-c142-4cc5-ac10-d2297723f2e2][fondly]]} / be especially fond of (also abstract things)
+** 而罰所惡	and punishes those not in his favour.
+:PROPERTIES:
+:SRC: ZGC 5.8.2; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a17:50::而罰 / 戰國策
+:CHARPOS: 50
+:END:
+*** 罰@fá
+:PROPERTIES:
+:CONCEPT: uuid-c4918b4f-11ae-4299-80cd-741e73151951 / PUNISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+罰@fá	[[tls:concept:PUNISH::#uuid-c4918b4f-11ae-4299-80cd-741e73151951][PUNISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / condemn to the payment of a fine or some other form of mild punishment; generally: to punish
+** 賞必加於有功	his rewards must go to the accomplished
+:PROPERTIES:
+:SRC: ZGC 5.8.2; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a19:1::賞必 / 戰國策
+:CHARPOS: 1
+:END:
+*** 加@jiā
+:PROPERTIES:
+:CONCEPT: uuid-724d988a-9f2b-4c57-a0bd-a8a2eeaa11e9 / NAME
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 3
+:END:
+加@jiā	[[tls:concept:NAME::#uuid-724d988a-9f2b-4c57-a0bd-a8a2eeaa11e9][NAME]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be attributed to N
+*** 有功@yǒugōng
+:PROPERTIES:
+:CONCEPT: uuid-da69c4e5-ac80-4c0e-a9ef-1ae1a4658f87 / ACHIEVE
+:SYN-FUNC: uuid-080d3352-c9b3-40b5-8aed-7996007863d9
+:CHARPOS: 5
+:END:
+有功@yǒugōng	[[tls:concept:ACHIEVE::#uuid-da69c4e5-ac80-4c0e-a9ef-1ae1a4658f87][ACHIEVE]]	N [[tls:syn-func::#uuid-080d3352-c9b3-40b5-8aed-7996007863d9][NP{adN}]] / person of substantial meritorious achievements BHT also has the explicit 有功者, but in subject position.
+** 今臣之胸不足以當椹質	At present I have not offended enough for the headman's block
+:PROPERTIES:
+:SRC: ZGC 5.8.3; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a21:1::今臣 / 戰國策
+:CHARPOS: 1
+:END:
+*** 椹@zhēn
+:PROPERTIES:
+:CONCEPT: uuid-fa5895e7-89a9-4e41-894c-0b50a8a4cd00 / CHOPPING BLOCK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 9
+:END:
+椹@zhēn	[[tls:concept:CHOPPING BLOCK::#uuid-fa5895e7-89a9-4e41-894c-0b50a8a4cd00][CHOPPING BLOCK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / chopping block
+*** 椹質@zhēnzhì
+:PROPERTIES:
+:CONCEPT: uuid-d78f6055-5fb1-47f7-bbc5-082e8eaa90ef / CHOPPING BLOCK
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CONCEPT: uuid-3cd492bc-6ba8-4ba5-9819-9669b2b1a4bc / CHOPPING BLOCK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 9
+:END:
+椹質@zhēnzhì	[[tls:concept:CHOPPING BLOCK::#uuid-d78f6055-5fb1-47f7-bbc5-082e8eaa90ef][CHOPPING BLOCK]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / chopping block
+鑕@zhì / 質@zhì	[[tls:concept:CHOPPING BLOCK::#uuid-3cd492bc-6ba8-4ba5-9819-9669b2b1a4bc][CHOPPING BLOCK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / n: executioner's chopping block (used in executions)
+** 要不足以待斧鉞	and his axe
+:PROPERTIES:
+:SRC: ZGC 5.8.3; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a22:50::要不 / 戰國策
+:CHARPOS: 50
+:END:
+*** 腰@yāo / 要@yāo
+:PROPERTIES:
+:CONCEPT: uuid-4faa1bce-4827-40fe-a59c-436dd5b64ef1 / WAIST
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+腰@yāo / 要@yāo	[[tls:concept:WAIST::#uuid-4faa1bce-4827-40fe-a59c-436dd5b64ef1][WAIST]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / waist
+*** 斧鉞@fǔyuè
+:PROPERTIES:
+:CONCEPT: uuid-8e151fc5-7247-4fa5-a941-71d05eca88cd / AXE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 55
+:END:
+斧鉞@fǔyuè	[[tls:concept:AXE::#uuid-8e151fc5-7247-4fa5-a941-71d05eca88cd][AXE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / executioner's axe
+** 豈敢以疑事嘗試於王乎	so would I be likely to experiment with dubious schemes for your majesty?
+:PROPERTIES:
+:SRC: ZGC 5.8.3; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a23:50::豈敢 / 戰國策
+:CHARPOS: 50
+:END:
+*** 疑@yí
+:PROPERTIES:
+:CONCEPT: uuid-a14428fd-7ecd-4a8d-9ba7-ef9a3e6fb5b9 / DOUBT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 53
+:END:
+疑@yí	[[tls:concept:DOUBT::#uuid-a14428fd-7ecd-4a8d-9ba7-ef9a3e6fb5b9][DOUBT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / dubious; doubtful
+*** 嘗試@chángshì
+:PROPERTIES:
+:CONCEPT: uuid-ab199d0b-d0d9-4457-8bdc-70d91e17ae84 / TRY
+:SYN-FUNC: uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c
+:CHARPOS: 55
+:END:
+嘗試@chángshì	[[tls:concept:TRY::#uuid-ab199d0b-d0d9-4457-8bdc-70d91e17ae84][TRY]]	V [[tls:syn-func::#uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c][VPt+prep+N]] / attempt to do something for N
+** 雖以臣為賤	However that may be, if you hold me in low esteem
+:PROPERTIES:
+:SRC: ZGC 5.8.3; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a24:50::雖以 / 戰國策
+:CHARPOS: 50
+:END:
+*** 賤@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-eeb7c63f-93c5-4b4b-aa48-90787a7ed9da / HUMBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 54
+:END:
+賤@jiàn	[[tls:concept:HUMBLE::#uuid-eeb7c63f-93c5-4b4b-aa48-90787a7ed9da][HUMBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be base; be of low status; be of low moral worth
+** 而輕辱臣	and choose to abuse me
+:PROPERTIES:
+:SRC: ZGC 5.8.3; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a24:50::而輕 / 戰國策
+:CHARPOS: 50
+:END:
+*** 輕辱@qīngrǔ
+:PROPERTIES:
+:CONCEPT: uuid-be32ed51-a2e2-46d3-8329-40acd746ecb5 / HUMILIATE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 51
+:END:
+輕辱@qīngrǔ	[[tls:concept:HUMILIATE::#uuid-be32ed51-a2e2-46d3-8329-40acd746ecb5][HUMILIATE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / treat without serious respect so as to humiliate> treat with insulting nonchalance
+** 獨不重任臣者	you cannot avoid slighting the man who recommended me -
+:PROPERTIES:
+:SRC: ZGC 5.8.3; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a25:50::獨不 / 戰國策
+:CHARPOS: 50
+:END:
+*** 任@rèn
+:PROPERTIES:
+:CONCEPT: uuid-878fd489-1e3a-4459-af40-9f313f7e3f24 / EMPLOY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+任@rèn	[[tls:concept:EMPLOY::#uuid-878fd489-1e3a-4459-af40-9f313f7e3f24][EMPLOY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / give responsibilities to; give responsibilities for something to someone, put in charge of
+** 後無反覆於王前耶	and if that happens will he ever again argue the merits152 of anyone before your majesty?
+:PROPERTIES:
+:SRC: ZGC 5.8.3; tr. Crump 1979 no. 93, p 101, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:1a25:50::後無 / 戰國策
+:CHARPOS: 50
+:END:
+*** 後@hòu
+:PROPERTIES:
+:CONCEPT: uuid-f078927d-bb7e-4b65-9444-512fcb346ead / FUTURE
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 50
+:END:
+後@hòu	[[tls:concept:FUTURE::#uuid-f078927d-bb7e-4b65-9444-512fcb346ead][FUTURE]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / in the future, afterwards
+*** 無@wú
+:PROPERTIES:
+:CONCEPT: uuid-7c0bdbf6-16d2-4e4b-9ee4-49735595bf26 / NEVER
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+無@wú	[[tls:concept:NEVER::#uuid-7c0bdbf6-16d2-4e4b-9ee4-49735595bf26][NEVER]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / will never (in generalisations); at no time (during a certain period), never (無有 there never are any)
+*** 反覆@fǎnfù
+:PROPERTIES:
+:CONCEPT: uuid-f90b04b7-1a50-403a-85db-5d4248636c6b / GO TO
+:SYN-FUNC: uuid-b1e31491-4093-4727-8d93-5500277ba053
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+反覆@fǎnfù	[[tls:concept:GO TO::#uuid-f90b04b7-1a50-403a-85db-5d4248636c6b][GO TO]]	V [[tls:syn-func::#uuid-b1e31491-4093-4727-8d93-5500277ba053][VPt+prep+N{PLACE}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / frequent a place
+** 此四寶者	these four great treasures
+:PROPERTIES:
+:SRC: ZGC 5.8.4; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:2a05:1::此四 / 戰國策
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024 / PRECIOUS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 3
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024][PRECIOUS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / precious possession; precious things; treasure of high personal, monetary, social or moral value 三寶
+** 而為天下名器	to make them objects know throughout the empire.
+:PROPERTIES:
+:SRC: ZGC 5.8.4; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:2a07:1::而為 / 戰國策
+:CHARPOS: 1
+:END:
+*** 名@míng
+:PROPERTIES:
+:CONCEPT: uuid-bb999101-835c-4082-af3b-7a195217ec90 / WELL-KNOWN
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 5
+:END:
+名@míng	[[tls:concept:WELL-KNOWN::#uuid-bb999101-835c-4082-af3b-7a195217ec90][WELL-KNOWN]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / famous, renouned名師　"famous army"
+** 然則聖王之所棄者	Is it not also probable then that even your sage majesty
+:PROPERTIES:
+:SRC: ZGC 5.8.4; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:2a08:50::然則 / 戰國策
+:CHARPOS: 50
+:END:
+*** 聖@shèng
+:PROPERTIES:
+:CONCEPT: uuid-cc28dcbf-ee62-46d7-946e-0fe4339c750b / WISE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 52
+:END:
+聖@shèng	[[tls:concept:WISE::#uuid-cc28dcbf-ee62-46d7-946e-0fe4339c750b][WISE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / sagely, sagacious
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-9df16f29-d7ad-4997-9108-1d585e5ac954 / YOU
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 52
+:END:
+聖王@shèngwáng	[[tls:concept:YOU::#uuid-9df16f29-d7ad-4997-9108-1d585e5ac954][YOU]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / Your Majesty
+** 獨不足以厚國家乎	may some day reject something of possible value to his state?
+:PROPERTIES:
+:SRC: ZGC 5.8.4; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:2a09:50::獨不 / 戰國策
+:CHARPOS: 50
+:END:
+*** 厚@hòu
+:PROPERTIES:
+:CONCEPT: uuid-c32db4e3-71b0-42bb-afc4-9224bdfd2ae6 / ABUNDANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 54
+:END:
+厚@hòu	[[tls:concept:ABUNDANT::#uuid-c32db4e3-71b0-42bb-afc4-9224bdfd2ae6][ABUNDANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / make abundant; maximise; cause to be richly supplied, enrich
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 55
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation
+** 臣聞善厚家者	I have heard that you look within your own state
+:PROPERTIES:
+:SRC: ZGC 5.8.5; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a01:50::「臣 / 戰國策
+:CHARPOS: 50
+:END:
+*** 厚@hòu
+:PROPERTIES:
+:CONCEPT: uuid-f42078e1-bbb1-4cd1-8376-9d1afe504efc / PROFIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+厚@hòu	[[tls:concept:PROFIT::#uuid-f42078e1-bbb1-4cd1-8376-9d1afe504efc][PROFIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be of substantial benefit to, profit substantially
+** 善厚國者	but seek among the Lords
+:PROPERTIES:
+:SRC: ZGC 5.8.5; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a03:1::善厚 / 戰國策
+:CHARPOS: 1
+:END:
+*** 厚@hòu
+:PROPERTIES:
+:CONCEPT: uuid-f42078e1-bbb1-4cd1-8376-9d1afe504efc / PROFIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+厚@hòu	[[tls:concept:PROFIT::#uuid-f42078e1-bbb1-4cd1-8376-9d1afe504efc][PROFIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be of substantial benefit to, profit substantially
+** 則諸侯不得擅厚矣	the Feudal Lords are not covetous of their own advantage.153
+:PROPERTIES:
+:SRC: ZGC 5.8.5; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a06:1::則諸 / 戰國策
+:CHARPOS: 1
+:END:
+*** 擅@shàn
+:PROPERTIES:
+:CONCEPT: uuid-33312a32-1a40-4c57-9bd3-15853cf630cb / ARROGATE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 6
+:END:
+擅@shàn	[[tls:concept:ARROGATE::#uuid-33312a32-1a40-4c57-9bd3-15853cf630cb][ARROGATE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / presume to V; arrogate to oneself the authority to V; usurp the authority of V-ing
+*** 厚@hòu
+:PROPERTIES:
+:CONCEPT: uuid-ef97ed99-05bf-4fbc-84ac-7e9e69c8ce23 / PROFIT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 7
+:END:
+厚@hòu	[[tls:concept:PROFIT::#uuid-ef97ed99-05bf-4fbc-84ac-7e9e69c8ce23][PROFIT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / benefit others; seek benefit
+** 良醫知病人之死生	A good physician knows whether his patient's illness is critical or not,
+:PROPERTIES:
+:SRC: ZGC 5.8.6; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a09:1::良醫 / 戰國策
+:CHARPOS: 1
+:END:
+*** 良@liáng
+:PROPERTIES:
+:CONCEPT: uuid-891597e9-a1bb-41e7-bbb4-1813e0a335bb / EXCELLENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+良@liáng	[[tls:concept:EXCELLENT::#uuid-891597e9-a1bb-41e7-bbb4-1813e0a335bb][EXCELLENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / fine; competent; efficient; excellent; preferred
+** 聖主明於成敗之事	just as a sage ruler knows what actions make for success or failure.
+:PROPERTIES:
+:SRC: ZGC 5.8.6; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a10:50::聖主 / 戰國策
+:CHARPOS: 50
+:END:
+*** 聖@shèng
+:PROPERTIES:
+:CONCEPT: uuid-cc28dcbf-ee62-46d7-946e-0fe4339c750b / WISE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+聖@shèng	[[tls:concept:WISE::#uuid-cc28dcbf-ee62-46d7-946e-0fe4339c750b][WISE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / sagely, sagacious
+*** 明@míng
+:PROPERTIES:
+:CONCEPT: uuid-bee5d519-f5d4-4b8c-b400-5094285f0a26 / UNDERSTAND
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 52
+:END:
+明@míng	[[tls:concept:UNDERSTAND::#uuid-bee5d519-f5d4-4b8c-b400-5094285f0a26][UNDERSTAND]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / understand properly; develop a proper understanding of
+** 利則行之	If a thing is beneficial he will act upon it,
+:PROPERTIES:
+:SRC: ZGC 5.8.6; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a11:50::利則 / 戰國策
+:CHARPOS: 50
+:END:
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-71a92ca8-2e5d-4ed7-a46d-e955d8df4e8f / PROFIT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-71a92ca8-2e5d-4ed7-a46d-e955d8df4e8f][PROFIT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be advantageous; be profitable, be advisable
+** 害則舍之	if harmful he will discard it.
+:PROPERTIES:
+:SRC: ZGC 5.8.6; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a12:50::害則 / 戰國策
+:CHARPOS: 50
+:END:
+*** 害@hài
+:PROPERTIES:
+:CONCEPT: uuid-da58fa69-e583-4a35-b833-a871d0b4d633 / DAMAGE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CONCEPT: uuid-76f52fa8-ea3f-4e32-96f2-29e203e8839b / DISCARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+害@hài	[[tls:concept:DAMAGE::#uuid-da58fa69-e583-4a35-b833-a871d0b4d633][DAMAGE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / be harmful; do damage to others; be harmful in any way; be a harmful thing to do
+捨@shě / 舍@shě	[[tls:concept:DISCARD::#uuid-76f52fa8-ea3f-4e32-96f2-29e203e8839b][DISCARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / give up, release; opt against, reject as a choice; give up on; set aside; throw away
+** 疑則少嘗之	If he is not sure which it is he will cautiously test it.
+:PROPERTIES:
+:SRC: ZGC 5.8.6; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a13:50::疑則 / 戰國策
+:CHARPOS: 50
+:END:
+*** 疑@yí
+:PROPERTIES:
+:CONCEPT: uuid-d4aeac65-51a4-4950-99d1-afeb4ac8a3e3 / DOUBT
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 50
+:END:
+疑@yí	[[tls:concept:DOUBT::#uuid-d4aeac65-51a4-4950-99d1-afeb4ac8a3e3][DOUBT]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / be doubtful (of situations), be left in doubt (of people)
+*** 嘗@cháng
+:PROPERTIES:
+:CONCEPT: uuid-5d8553ae-ebf7-4060-bb19-92d352814ff6 / TRY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+嘗@cháng	[[tls:concept:TRY::#uuid-5d8553ae-ebf7-4060-bb19-92d352814ff6][TRY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / make an attempt at, give a try
+** 雖堯舜禹湯復生	If he acts thus, the sages Yao, Shun, Yy, and T'ang could come back to life
+:PROPERTIES:
+:SRC: ZGC 5.8.6; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a14:50::雖堯 / 戰國策
+:CHARPOS: 50
+:END:
+*** 雖@suī
+:PROPERTIES:
+:CONCEPT: uuid-421d6798-09c7-4fb8-b990-0cc7e42c9fba / EVEN IF
+:SYN-FUNC: uuid-cf44b197-f172-4bcd-8bc2-b404d02bf71c
+:CHARPOS: 50
+:END:
+雖@suī	[[tls:concept:EVEN IF::#uuid-421d6798-09c7-4fb8-b990-0cc7e42c9fba][EVEN IF]]	V [[tls:syn-func::#uuid-cf44b197-f172-4bcd-8bc2-b404d02bf71c][vt0oS1.adS2]] / even if
+*** 復@fù
+:PROPERTIES:
+:CONCEPT: uuid-a7cef44b-cc5c-4e84-b7e8-4a1743584f73 / AGAIN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 55
+:END:
+復@fù	[[tls:concept:AGAIN::#uuid-a7cef44b-cc5c-4e84-b7e8-4a1743584f73][AGAIN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / again (as in 復戰 "fight again, renew battle".(often of reverting to an original state:) again (失而復得"lose but regain again") occasionally and rarely adversative: on the contrary; (with negatives, not) any more, not any longer; but again)
+** 語之至者臣不敢載之於書	The most pertinent thing I have to say I dare not write in this letter;
+:PROPERTIES:
+:SRC: ZGC 5.8.6; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a17:1::語之 / 戰國策
+:CHARPOS: 1
+:END:
+*** 至@zhì
+:PROPERTIES:
+:CONCEPT: uuid-225c9ae2-d5ee-4f54-893b-0cf630d6f43b / PERFECT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd
+:CHARPOS: 3
+:END:
+至@zhì	[[tls:concept:PERFECT::#uuid-225c9ae2-d5ee-4f54-893b-0cf630d6f43b][PERFECT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd][subj=nonhuman]]} / the ultimate point, the extreme manifestation
+*** 載@zǎi
+:PROPERTIES:
+:CONCEPT: uuid-561b92ce-c1c5-4b19-a7e5-c972e268e9b9 / RECORD
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 8
+:END:
+載@zǎi	[[tls:concept:RECORD::#uuid-561b92ce-c1c5-4b19-a7e5-c972e268e9b9][RECORD]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / record in N, record on N
+*** 書@shū
+:PROPERTIES:
+:CONCEPT: uuid-fb4ab325-2f46-40fd-a023-fb25b20a77be / LETTER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 11
+:END:
+書@shū	[[tls:concept:LETTER::#uuid-fb4ab325-2f46-40fd-a023-fb25b20a77be][LETTER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / letter
+** 其淺者又不足聽也	and things less important than those I have mentioned are not worth saying at all.
+:PROPERTIES:
+:SRC: ZGC 5.8.6; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a18:50::其淺 / 戰國策
+:CHARPOS: 50
+:END:
+*** 淺@qiǎn
+:PROPERTIES:
+:CONCEPT: uuid-b646c23d-44c2-4096-881b-b8f8c2e861c1 / SHALLOW
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 51
+:END:
+淺@qiǎn	[[tls:concept:SHALLOW::#uuid-b646c23d-44c2-4096-881b-b8f8c2e861c1][SHALLOW]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / the shallow points
+*** 又@yòu
+:PROPERTIES:
+:CONCEPT: uuid-62af76a6-103d-456a-a9c9-58fab8262a5a / NONETHELESS
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 53
+:END:
+又@yòu	[[tls:concept:NONETHELESS::#uuid-62af76a6-103d-456a-a9c9-58fab8262a5a][NONETHELESS]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / likewise, nonetheless; meanwhile (colloquial)
+** 臣愚而不闔於王心耶	that I will prove stupid and not in accord with your thinking?
+:PROPERTIES:
+:SRC: ZGC 5.8.7; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a20:1::臣愚 / 戰國策
+:CHARPOS: 1
+:END:
+*** 闔@hé
+:PROPERTIES:
+:CONCEPT: uuid-9e69e8af-b12a-4b3d-b2ea-800b2641292c / CONFORM
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 5
+:END:
+闔@hé	[[tls:concept:CONFORM::#uuid-9e69e8af-b12a-4b3d-b2ea-800b2641292c][CONFORM]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / fit with
+** 望見足下而入之	and allow me an audience to present my important statements.'
+:PROPERTIES:
+:SRC: ZGC 5.8.7; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 182
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:3a26:1::望見 / 戰國策
+:CHARPOS: 1
+:END:
+*** 足下@zúxià
+:PROPERTIES:
+:CONCEPT: uuid-27c875a8-dcb9-4f90-a3e5-ecb5624abdae / YOU
+:SYN-FUNC: uuid-77fda6e0-8eb3-433a-b867-d00cbeea8353
+:CHARPOS: 3
+:END:
+足下@zúxià	[[tls:concept:YOU::#uuid-27c875a8-dcb9-4f90-a3e5-ecb5624abdae][YOU]]	N [[tls:syn-func::#uuid-77fda6e0-8eb3-433a-b867-d00cbeea8353][NP{post=npro2.}{adN}]] / your excellency
+** 書上	The letter was sent up to the king of Ch'in
+:PROPERTIES:
+:SRC: ZGC 5.8.8; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 183
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:4a01:50::書上 / 戰國策
+:CHARPOS: 50
+:END:
+*** 書@shū
+:PROPERTIES:
+:CONCEPT: uuid-fb4ab325-2f46-40fd-a023-fb25b20a77be / LETTER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+書@shū	[[tls:concept:LETTER::#uuid-fb4ab325-2f46-40fd-a023-fb25b20a77be][LETTER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / letter
+** 秦王說之	and he was delighted by it.
+:PROPERTIES:
+:SRC: ZGC 5.8.8; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 183
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:4a02:50::秦王 / 戰國策
+:CHARPOS: 50
+:END:
+*** 悅@yuè / 說@yuè
+:PROPERTIES:
+:CONCEPT: uuid-142a28cc-e45a-4823-911e-d253b3bd1278 / DELIGHT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 50
+:END:
+悅@yuè / 說@yuè	[[tls:concept:DELIGHT::#uuid-142a28cc-e45a-4823-911e-d253b3bd1278][DELIGHT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / find fully satisfactory, delight in as ideal; be delighted with; appreciate positively 甚悅之
+** 因謝王稽說	He apologized to Wang Chi
+:PROPERTIES:
+:SRC: ZGC 5.8.8; tr. Crump 1979 no. 93, p 102, ed. Shanghaiguji p. 183
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_082:4a03:50::因謝 / 戰國策
+:CHARPOS: 50
+:END:
+*** 謝@xiè
+:PROPERTIES:
+:CONCEPT: uuid-a0693d5f-7bd0-44e9-a07c-b312673e9ba1 / APOLOGISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+謝@xiè	[[tls:concept:APOLOGISE::#uuid-a0693d5f-7bd0-44e9-a07c-b312673e9ba1][APOLOGISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / HF 2.7.29: apologise to; make apologies for a misdeed (on behalf of someone)

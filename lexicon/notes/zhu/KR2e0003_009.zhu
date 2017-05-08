@@ -1,0 +1,86 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_009
+#+DATE: 2017-02-08T16:41:08+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 臣請令齊相子	I would then tell Ch'i to appoint you her minister.7
+:PROPERTIES:
+:SRC: ZGC 1.9; tr. Crump 1979 no. 37, p. 48 Chou Tsui's plan
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_009:1a03:1::臣請 / 戰國策
+:CHARPOS: 1
+:END:
+*** 相@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-ac311821-4880-4b6f-85bc-64411189fbac / APPOINT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 5
+:END:
+相@xiàng	[[tls:concept:APPOINT::#uuid-ac311821-4880-4b6f-85bc-64411189fbac][APPOINT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / appoint as prime minister
+** 是天下制於子也	This would make you master of the empire.
+:PROPERTIES:
+:SRC: ZGC 1.9; tr. Crump 1979 no. 37, p. 48 Chou Tsui's plan
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_009:1a07:1::是天 / 戰國策
+:CHARPOS: 1
+:END:
+*** 制@zhì
+:PROPERTIES:
+:CONCEPT: uuid-f2b5086b-6fb3-4e8a-bd0a-18787f8fd672 / CONTROL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 4
+:END:
+制@zhì	[[tls:concept:CONTROL::#uuid-f2b5086b-6fb3-4e8a-bd0a-18787f8fd672][CONTROL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be controlled by 制於
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-89268135-86d0-420c-a072-25ac47bf1872 / PASSIVE MARKER
+:SYN-FUNC: uuid-ebbe28ed-bdcc-468c-bc28-51ba2a7f215b
+:CHARPOS: 5
+:END:
+於@yú	[[tls:concept:PASSIVE MARKER::#uuid-89268135-86d0-420c-a072-25ac47bf1872][PASSIVE MARKER]]	V [[tls:syn-func::#uuid-ebbe28ed-bdcc-468c-bc28-51ba2a7f215b][vt{0}oN.postadV{PASS}]] / passivising particle: "by" 殺於人 "literally: was killed (the killing) being from/by someone else> be killed by someone else"
+** 子東重於齊	In the east you would be valuable to Ch'i,
+:PROPERTIES:
+:SRC: ZGC 1.9; tr. Crump 1979 no. 37, p. 48 Chou Tsui's plan
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_009:1a08:50::子東 / 戰國策
+:CHARPOS: 50
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-42a51c44-4f4f-4e32-b9d5-edb6e86e6179 / IMPORTANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+重@zhòng	[[tls:concept:IMPORTANT::#uuid-42a51c44-4f4f-4e32-b9d5-edb6e86e6179][IMPORTANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be regarded as important by
+** 西貴於秦	In the west honored in Ch'in.
+:PROPERTIES:
+:SRC: ZGC 1.9; tr. Crump 1979 no. 37, p. 48 Chou Tsui's plan
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_009:1a09:50::西貴 / 戰國策
+:CHARPOS: 50
+:END:
+*** 貴@guì
+:PROPERTIES:
+:CONCEPT: uuid-4879df74-a748-45cd-85d3-909ff7f4cf52 / APPRECIATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 51
+:END:
+貴@guì	[[tls:concept:APPRECIATE::#uuid-4879df74-a748-45cd-85d3-909ff7f4cf52][APPRECIATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be highly esteemed by 貴於
+** 則子常重矣	so you would be honored forever!'
+:PROPERTIES:
+:SRC: ZGC 1.9; tr. Crump 1979 no. 37, p. 48 Chou Tsui's plan
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_009:1a10:1::則子 / 戰國策
+:CHARPOS: 1
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-c7c71757-df9d-4f99-b107-c6beee1fe597 / IMPORTANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 4
+:END:
+重@zhòng	[[tls:concept:IMPORTANT::#uuid-c7c71757-df9d-4f99-b107-c6beee1fe597][IMPORTANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be powerful, significant, striking; be in a strong position: be of great (political) weight 最重

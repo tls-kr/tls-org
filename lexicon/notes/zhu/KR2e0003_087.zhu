@@ -1,0 +1,191 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_087
+#+DATE: 2017-02-08T16:41:18+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 鄭人謂玉未理者璞	'In Cheng they call jade which has not been worked "pure";
+:PROPERTIES:
+:SRC: ZGC 5.13.1; tr. Crump 1979 no. 100, p 113, ed. Shanghaiguji p. 198 A dialect word
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_087:1a02:1::「鄭 / 戰國策
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-98bbbff5-3346-4093-ab0f-86fdbe85ceaf / RELATIVE CLAUSE MARKER
+:SYN-FUNC: uuid-14e9690c-483c-49dd-a7ef-4553f298ba1f
+:CHARPOS: 7
+:END:
+者@zhě	[[tls:concept:RELATIVE CLAUSE MARKER::#uuid-98bbbff5-3346-4093-ab0f-86fdbe85ceaf][RELATIVE CLAUSE MARKER]]	N [[tls:syn-func::#uuid-14e9690c-483c-49dd-a7ef-4553f298ba1f][npro.postV:postadN]] / (an N) which (V-s) 葉實可啄食者 SW: 凡物無乳者
+** 周人謂鼠未腊者朴	in Chou they call fresh-dressed rats which have not yet been preserved, "pure".
+:PROPERTIES:
+:SRC: ZGC 5.13.1; tr. Crump 1979 no. 100, p 113, ed. Shanghaiguji p. 198 A dialect word
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_087:1a03:50::周人 / 戰國策
+:CHARPOS: 50
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-f7c6fd23-438f-4e3e-a3cc-770eeae383e2 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 51
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-f7c6fd23-438f-4e3e-a3cc-770eeae383e2][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the (typically elevated) people in Npl [This should probably be subsumed under the general "def.plur" semantic category, and this is easily done. However the examples form a neat set of some interest, so I keep them together. CH]
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-98bbbff5-3346-4093-ab0f-86fdbe85ceaf / RELATIVE CLAUSE MARKER
+:SYN-FUNC: uuid-14e9690c-483c-49dd-a7ef-4553f298ba1f
+:CHARPOS: 56
+:END:
+者@zhě	[[tls:concept:RELATIVE CLAUSE MARKER::#uuid-98bbbff5-3346-4093-ab0f-86fdbe85ceaf][RELATIVE CLAUSE MARKER]]	N [[tls:syn-func::#uuid-14e9690c-483c-49dd-a7ef-4553f298ba1f][npro.postV:postadN]] / (an N) which (V-s) 葉實可啄食者 SW: 凡物無乳者
+** 周人懷璞過鄭賈曰	A man of Chou carrying fresh-dressed rats passed a Cheng merchant and asked him
+:PROPERTIES:
+:SRC: ZGC 5.13.1; tr. Crump 1979 no. 100, p 113, ed. Shanghaiguji p. 198 A dialect word
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_087:1a04:50::周人 / 戰國策
+:CHARPOS: 50
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-ccaf1f61-d71e-466d-a606-d75ce6427a40 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 51
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-ccaf1f61-d71e-466d-a606-d75ce6427a40][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a person/man from Npl
+*** 過@guò
+:PROPERTIES:
+:CONCEPT: uuid-232e6170-3e27-4635-a4e7-2ea1004cb188 / MEET
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+過@guò	[[tls:concept:MEET::#uuid-232e6170-3e27-4635-a4e7-2ea1004cb188][MEET]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / pass by someone or some place, come upon someone (read guō 過); pass by something (e.g. ruler's seat)
+** 欲買朴乎	if he wanted to buy some "pures".
+:PROPERTIES:
+:SRC: ZGC 5.13.1; tr. Crump 1979 no. 100, p 113, ed. Shanghaiguji p. 198 A dialect word
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_087:1a05:50::『欲 / 戰國策
+:CHARPOS: 50
+:END:
+*** 買@mǎi
+:PROPERTIES:
+:CONCEPT: uuid-24afd96e-e3a9-4de8-bf49-9aa713ac2d8f / BUY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+買@mǎi	[[tls:concept:BUY::#uuid-24afd96e-e3a9-4de8-bf49-9aa713ac2d8f][BUY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / buy, acquire (official positions) for money; go out to buy; try to buy; buy (a person from his employer)
+** 鄭賈曰	The merchant replied
+:PROPERTIES:
+:SRC: ZGC 5.13.1; tr. Crump 1979 no. 100, p 113, ed. Shanghaiguji p. 198 A dialect word
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_087:1a06:50::鄭賈 / 戰國策
+:CHARPOS: 50
+:END:
+*** 賈@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-232da51a-bcf1-4b36-b90e-d294a480a2c1 / MERCHANT
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 51
+:END:
+賈@gǔ	[[tls:concept:MERCHANT::#uuid-232da51a-bcf1-4b36-b90e-d294a480a2c1][MERCHANT]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / (sedentory) merchant; merchant [Perhaps this should be taken as a primary noun? 待考]
+** 欲之	that he did.
+:PROPERTIES:
+:SRC: ZGC 5.13.1; tr. Crump 1979 no. 100, p 113, ed. Shanghaiguji p. 198 A dialect word
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_087:1a07:50::『欲 / 戰國策
+:CHARPOS: 50
+:END:
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-0519bfe4-2764-48dd-8ca5-bc7d07885583 / PRONOUN
+:SYN-FUNC: uuid-c912ed13-eb44-424d-818d-37499c4df5d6
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 51
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-0519bfe4-2764-48dd-8ca5-bc7d07885583][PRONOUN]]	V [[tls:syn-func::#uuid-c912ed13-eb44-424d-818d-37499c4df5d6][vpro]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / (wish) to do this
+** 乃鼠也	dressed rats
+:PROPERTIES:
+:SRC: ZGC 5.13.2; tr. Crump 1979 no. 100, p 113, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_087:1a10:1::乃鼠 / 戰國策
+:CHARPOS: 1
+:END:
+*** 鼠@shǔ
+:PROPERTIES:
+:CONCEPT: uuid-62a84590-84a7-43fd-b7e8-244b34230c87 / RAT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+鼠@shǔ	[[tls:concept:RAT::#uuid-62a84590-84a7-43fd-b7e8-244b34230c87][RAT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / rodent; rat; mouse
+** 因謝不取	he declined them.
+:PROPERTIES:
+:SRC: ZGC 5.13.2; tr. Crump 1979 no. 100, p 113, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_087:1a11:50::因謝 / 戰國策
+:CHARPOS: 50
+:END:
+*** 謝@xiè
+:PROPERTIES:
+:CONCEPT: uuid-e4bb8493-2081-4e0e-99bf-3f118abc0bf6 / APOLOGISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+謝@xiè	[[tls:concept:APOLOGISE::#uuid-e4bb8493-2081-4e0e-99bf-3f118abc0bf6][APOLOGISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / beg pardon; offer one's apologies, apologise; apologise for one's misdeeds
+** 今平原君自以賢顯名於天下	Now Lord P'ing-yyan [Kung-tzu Sheng]162 is busy getting himself a name for virtue throughout the empire.
+:PROPERTIES:
+:SRC: ZGC 5.13.2; tr. Crump 1979 no. 100, p 113, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_087:1a12:50::今平 / 戰國策
+:CHARPOS: 50
+:END:
+*** 顯@xiǎn
+:PROPERTIES:
+:CONCEPT: uuid-e8a55a11-b9b5-4e66-83ca-290b77fcec06 / SHOW
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 57
+:END:
+顯@xiǎn	[[tls:concept:SHOW::#uuid-e8a55a11-b9b5-4e66-83ca-290b77fcec06][SHOW]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / show off N1 to N2, make a show of N1 for N2
+** 天下之王尚猶尊之	yet rulers everywhere still respect him.
+:PROPERTIES:
+:SRC: ZGC 5.13.3; tr. Crump 1979 no. 100, p 113, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_087:1a14:1::天下 / 戰國策
+:CHARPOS: 1
+:END:
+*** 尚猶@shàngyóu
+:PROPERTIES:
+:CONCEPT: uuid-15ed005e-d5f6-4c0b-aa0c-dadb954dfb6d / NONETHELESS
+:SYN-FUNC: uuid-a9e51915-33f6-4995-9e68-d369df016b99
+:CHARPOS: 5
+:END:
+尚猶@shàngyóu	[[tls:concept:NONETHELESS::#uuid-15ed005e-d5f6-4c0b-aa0c-dadb954dfb6d][NONETHELESS]]	P [[tls:syn-func::#uuid-a9e51915-33f6-4995-9e68-d369df016b99][PPadV.postS]] / still, nonetheless
+** 不如鄭賈之智也	are less intelligent than the Cheng merchant.
+:PROPERTIES:
+:SRC: ZGC 5.13.3; tr. Crump 1979 no. 100, p 113, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_087:1a15:50::不如 / 戰國策
+:CHARPOS: 50
+:END:
+*** 賈@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-232da51a-bcf1-4b36-b90e-d294a480a2c1 / MERCHANT
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 53
+:END:
+賈@gǔ	[[tls:concept:MERCHANT::#uuid-232da51a-bcf1-4b36-b90e-d294a480a2c1][MERCHANT]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / (sedentory) merchant; merchant [Perhaps this should be taken as a primary noun? 待考]
+** 眩於名	They are so dazzled by the word "pure"
+:PROPERTIES:
+:SRC: ZGC 5.13.3; tr. Crump 1979 no. 100, p 113, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_087:1a16:50::眩於 / 戰國策
+:CHARPOS: 50
+:END:
+*** 眩@xuán
+:PROPERTIES:
+:CONCEPT: uuid-9f6f8b17-b7a2-4d4d-b58e-a80eb2249c2b / CHEAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 50
+:END:
+眩@xuán	[[tls:concept:CHEAT::#uuid-9f6f8b17-b7a2-4d4d-b58e-a80eb2249c2b][CHEAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be blinded (and deceived) by

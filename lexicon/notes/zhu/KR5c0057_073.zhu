@@ -1,0 +1,69 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_073
+#+DATE: 2017-02-08T16:43:47+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 勇於敢者則殺	The one who is bold in daring, becomes killed,
+:PROPERTIES:
+:SRC: LAO 73.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_073:1a01:50::勇於 / 老子
+:CHARPOS: 50
+:END:
+*** 敢@gǎn
+:PROPERTIES:
+:CONCEPT: uuid-dd29a5cf-b949-42c1-a8df-97c2cc408fb6 / COURAGE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+敢@gǎn	[[tls:concept:COURAGE::#uuid-dd29a5cf-b949-42c1-a8df-97c2cc408fb6][COURAGE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / courage
+*** 殺@shā / 煞@shā
+:PROPERTIES:
+:CONCEPT: uuid-e119aead-7986-4b42-aa52-460138034acd / KILL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 55
+:END:
+殺@shā / 煞@shā	[[tls:concept:KILL::#uuid-e119aead-7986-4b42-aa52-460138034acd][KILL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / get killed
+** 此兩者或利或害	Of these two, the one is favourable, the other is harmful.
+:PROPERTIES:
+:SRC: LAO 73.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_073:1a03:1::此兩 / 老子
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303 / THIS
+:SYN-FUNC: uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774
+:SEM-FEAT: uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303][THIS]]	N [[tls:syn-func::#uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774][npro.adN{NUM}:adnpro]] {[[tls:sem-feat::#uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432][N=abstract]]} / 此三者
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3][npro:post.Npost-V{NUM}]] / after number phrase　三家者， 之數物者
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-6dec2066-f3b4-4946-9220-166a56dc5cd4 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 4
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-6dec2066-f3b4-4946-9220-166a56dc5cd4][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the one..., the other 二者，或有餘於數，或不足於數，
+** 天之所惡	One whom Heaven hates,
+:PROPERTIES:
+:SRC: LAO 73.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_073:1a04:50::天之 / 老子
+:CHARPOS: 50
+:END:
+*** 天@tiān
+:PROPERTIES:
+:CONCEPT: uuid-71cf382e-f8fe-4946-b7cf-f2800f4bfe6b / GOD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-47a533fc-0c9a-45b3-abba-6fb56ba6c96f
+:CHARPOS: 50
+:END:
+天@tiān	[[tls:concept:GOD::#uuid-71cf382e-f8fe-4946-b7cf-f2800f4bfe6b][GOD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-47a533fc-0c9a-45b3-abba-6fb56ba6c96f][personified]]} / God of Heaven, personified Heaven (note personification in 天之愛民)

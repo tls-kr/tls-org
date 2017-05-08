@@ -1,0 +1,76 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_053
+#+DATE: 2017-02-08T16:35:53+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 惟予小子嗣守文武成康遺緒	I, the little child, have become charged by inheritance with the line of government transmitted from Wen and Wu, from Cheng and Kang;
+:PROPERTIES:
+:SRC: SHU (LATE) 45.1.1; tr. Legge p. 578ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_053:2a08:1::惟予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+*** 予小子@yúxiǎozǐ
+:PROPERTIES:
+:CONCEPT: uuid-4a1e7000-f719-4665-99f9-6eb511d1c463 / EGO
+:SYN-FUNC: uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd
+:CHARPOS: 2
+:END:
+予小子@yúxiǎozǐ	[[tls:concept:EGO::#uuid-4a1e7000-f719-4665-99f9-6eb511d1c463][EGO]]	N [[tls:syn-func::#uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd][NPpro]] / I, the little one
+** 克左右亂四方	who aided them in the good government of the kingdom;
+:PROPERTIES:
+:SRC: SHU (LATE) 45.1.1; tr. Legge p. 578ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_053:2a09:50::克左 / 尚書
+:CHARPOS: 50
+:END:
+*** 亂@luàn
+:PROPERTIES:
+:CONCEPT: uuid-3f7b36aa-a62a-4e0f-b2aa-020aaf55d333 / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+亂@luàn	[[tls:concept:GOVERN::#uuid-3f7b36aa-a62a-4e0f-b2aa-020aaf55d333][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / archaic: govern well
+** 今命爾予翼	I now give you charge to assist me;
+:PROPERTIES:
+:SRC: SHU (LATE) 45.1.2; tr. Legge p. 578ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_053:2a13:1::今命 / 尚書
+:CHARPOS: 1
+:END:
+*** 今@jīn
+:PROPERTIES:
+:CONCEPT: uuid-cbb37fd3-d779-4900-a406-a8eaa4341bb3 / NOW
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+今@jīn	[[tls:concept:NOW::#uuid-cbb37fd3-d779-4900-a406-a8eaa4341bb3][NOW]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / hereby
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-fedf00e9-f341-454b-9c73-e89bb323f75e / EGO
+:SYN-FUNC: uuid-dcde337f-dbf8-4ce2-b262-60b74f99a17b
+:CHARPOS: 4
+:END:
+予@yú	[[tls:concept:EGO::#uuid-fedf00e9-f341-454b-9c73-e89bb323f75e][EGO]]	 [[tls:syn-func::#uuid-dcde337f-dbf8-4ce2-b262-60b74f99a17b][npro+Vt]] / me (as preposed object)
+** 啟佑我後人	All in principle correct, and deficient in nothing,
+:PROPERTIES:
+:SRC: SHU (LATE) 45.1.4; tr. Legge p. 578ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_053:2a33:1::啟佑 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 3
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)

@@ -1,0 +1,33 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_447
+#+DATE: 2017-02-08T16:41:32+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 示天下與小人群也	This informs the world that my lord consorts with inferior men.'
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2e0003_447:1a07:1::示天 / 戰國策
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-acad86b1-1b2a-41c0-bb34-4451ad917235 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 5
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-acad86b1-1b2a-41c0-bb34-4451ad917235][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / person of ordinary low status, close to 庶人
+** 所謂以忠信得罪於君者也	This is what they mean by "Loyalty and faith will offend your ruler".
+:PROPERTIES:
+:SRC: ZGC 29. 5. 8;tr. Crump 1979 no.446, 510, ed. Shanghai Guji p. 1047f
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_447:3a37:1::所謂 / 戰國策
+:CHARPOS: 1
+:END:
+*** 得罪@dézuì
+:PROPERTIES:
+:CONCEPT: uuid-f86016e7-658c-48d4-8494-722b6b8cec9e / OFFEND
+:SYN-FUNC: uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c
+:CHARPOS: 6
+:END:
+得罪@dézuì	[[tls:concept:OFFEND::#uuid-f86016e7-658c-48d4-8494-722b6b8cec9e][OFFEND]]	V [[tls:syn-func::#uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c][VPt+prep+N]] / fall foul of, commit a crime against

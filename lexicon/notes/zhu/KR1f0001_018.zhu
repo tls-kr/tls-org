@@ -1,0 +1,760 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 孝經 KR1f0001_018
+#+DATE: 2017-02-08T16:40:11+0900
+#+PROPERTY: COMMIT f2d155e179399ea4b6de200698895be0743588f4
+** 子曰	The Master said:
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a01:50::子曰 / 孝經
+:CHARPOS: 50
+:END:
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-85f74e57-c4d7-4d7f-a330-ae20510026b1 / TEACHER
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 50
+:END:
+子@zǐ	[[tls:concept:TEACHER::#uuid-85f74e57-c4d7-4d7f-a330-ae20510026b1][TEACHER]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / our master; person in authority [Note that the [post-N] can never in fact be made explicit without breaking the rules of the grammar! CH]
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-8fff2d95-8f01-41c6-9344-b798d74d2831 / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8
+:CHARPOS: 51
+:END:
+曰@yuē	[[tls:concept:SPEAK::#uuid-8fff2d95-8f01-41c6-9344-b798d74d2831][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8][direct-speech]]} / say: S
+** 孝子之喪親也	As for a filial son mourning for his parents,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a02:50::「孝 / 孝經
+:CHARPOS: 50
+:END:
+*** 孝@xiào
+:PROPERTIES:
+:CONCEPT: uuid-7f8553f0-e07c-4660-afa7-46d3b55ed5fe / LOVE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+孝@xiào	[[tls:concept:LOVE::#uuid-7f8553f0-e07c-4660-afa7-46d3b55ed5fe][LOVE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / characterised by filial love (see VIRTUE)
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-a0c1bacf-8b11-4523-868d-5140c194914f / CHILD
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:SEM-FEAT: uuid-420fbe78-6b7c-49ca-8927-d60349fa4f3a
+:CHARPOS: 51
+:END:
+子@zǐ	[[tls:concept:CHILD::#uuid-a0c1bacf-8b11-4523-868d-5140c194914f][CHILD]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] {[[tls:sem-feat::#uuid-420fbe78-6b7c-49ca-8927-d60349fa4f3a][male?]]} / son
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-1cfb1034-c8e6-4e0f-9412-30268bc6c3e9 / PARENT
+:SYN-FUNC: uuid-f688791d-a18c-4bab-854f-b17a9f193cc5
+:CHARPOS: 54
+:END:
+親@qīn	[[tls:concept:PARENT::#uuid-1cfb1034-c8e6-4e0f-9412-30268bc6c3e9][PARENT]]	N [[tls:syn-func::#uuid-f688791d-a18c-4bab-854f-b17a9f193cc5][nt(post-N)]] / parents, one's parents
+** 哭不偯	his lamentation is without sobbing,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a03:50::哭不 / 孝經
+:CHARPOS: 50
+:END:
+*** 哭@kū
+:PROPERTIES:
+:CONCEPT: uuid-f589ce97-e027-4af4-b1b7-7fc173893257 / WEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+哭@kū	[[tls:concept:WEEP::#uuid-f589ce97-e027-4af4-b1b7-7fc173893257][WEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wail; lament
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a / NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+不@bù	[[tls:concept:NOT::#uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a][NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / not
+*** 偯@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-e6683a5f-e3a6-43c6-b99f-31071503fd4e / WEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+偯@yǐ	[[tls:concept:WEEP::#uuid-e6683a5f-e3a6-43c6-b99f-31071503fd4e][WEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / sob (LI)
+** 禮無容	(his) ritual practice wú róng, ??
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a04:50::禮無 / 孝經
+:CHARPOS: 50
+:END:
+*** 禮@lǐ
+:PROPERTIES:
+:CONCEPT: uuid-ca3b5947-5e12-432f-9e7c-a6fa034969fa / RITUAL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+禮@lǐ	[[tls:concept:RITUAL::#uuid-ca3b5947-5e12-432f-9e7c-a6fa034969fa][RITUAL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / descriptive: ritual practices, rituals; ritual; the ceremonies
+** 言不文	his speech isn't embellished,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a05:50::言不 / 孝經
+:CHARPOS: 50
+:END:
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-e1ea3b15-12f1-4a2e-9dcc-77e67cfd779a / SPEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-e1ea3b15-12f1-4a2e-9dcc-77e67cfd779a][SPEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / word; sentence; doctrine as expressed in words
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-ed6ca6bb-901b-44ce-b4ba-781533220c92 / NOT
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-85df4657-80aa-49a8-a2c0-0482088da5f8
+:CHARPOS: 51
+:END:
+不@bù	[[tls:concept:NOT::#uuid-ed6ca6bb-901b-44ce-b4ba-781533220c92][NOT]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-85df4657-80aa-49a8-a2c0-0482088da5f8][opposite]]} / CREATES A VP WITH THE OPPOSITE MEANING 不 VP means "DO OR BE THE OPPOSITE OF VP"
+** 服美不安	when he wears a nice dress he feels uncomfortable,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a06:50::服美 / 孝經
+:CHARPOS: 50
+:END:
+*** 服@fú
+:PROPERTIES:
+:CONCEPT: uuid-1539feaa-bf87-4b09-9dd0-729f96e0cf2b / WEAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+服@fú	[[tls:concept:WEAR::#uuid-1539feaa-bf87-4b09-9dd0-729f96e0cf2b][WEAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / wear and make use of, dress up in; carry on one's side (a sword); wear on one's head (a hat); wear as embellishments of one's robe (jade)
+*** 美@měi / 媄@měi / 媺@měi
+:PROPERTIES:
+:CONCEPT: uuid-0a1c5b6a-3e0d-408b-ad4e-745bdabf9e6a / BEAUTIFUL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-1a4f1186-6570-4817-b8ef-916aa6f20363
+:CHARPOS: 51
+:END:
+美@měi / 媄@měi / 媺@měi	[[tls:concept:BEAUTIFUL::#uuid-0a1c5b6a-3e0d-408b-ad4e-745bdabf9e6a][BEAUTIFUL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-1a4f1186-6570-4817-b8ef-916aa6f20363][subject=nonref]]} / what is beautiful> wonderful things, beautiful creatures 兩美
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-ed6ca6bb-901b-44ce-b4ba-781533220c92 / NOT
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-85df4657-80aa-49a8-a2c0-0482088da5f8
+:CHARPOS: 52
+:END:
+不@bù	[[tls:concept:NOT::#uuid-ed6ca6bb-901b-44ce-b4ba-781533220c92][NOT]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-85df4657-80aa-49a8-a2c0-0482088da5f8][opposite]]} / CREATES A VP WITH THE OPPOSITE MEANING 不 VP means "DO OR BE THE OPPOSITE OF VP"
+*** 安@ān
+:PROPERTIES:
+:CONCEPT: uuid-9bc8cb99-6f0d-4d71-99da-5e07352f3beb / COMFORTABLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+安@ān	[[tls:concept:COMFORTABLE::#uuid-9bc8cb99-6f0d-4d71-99da-5e07352f3beb][COMFORTABLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / feel comfortable, feel well
+** 聞樂不樂	when he hears music he isn't delighted,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a07:50::聞樂 / 孝經
+:CHARPOS: 50
+:END:
+*** 聞@wén
+:PROPERTIES:
+:CONCEPT: uuid-f707291d-592a-44af-8334-4e71ccdea034 / HEAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+聞@wén	[[tls:concept:HEAR::#uuid-f707291d-592a-44af-8334-4e71ccdea034][HEAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / hear (sounds); overhear; hear about
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-0dce0c82-00ee-4c4c-91c9-4c0904b0b1bc / DELIGHT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 51
+:END:
+樂@lè	[[tls:concept:DELIGHT::#uuid-0dce0c82-00ee-4c4c-91c9-4c0904b0b1bc][DELIGHT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / (of persons) feel deeply moved in the direction of harmonious delight, be full of joy; be joyfully satisfied
+*** 樂@yuè
+:PROPERTIES:
+:CONCEPT: uuid-c42992d3-f18e-46bc-9a03-9ade7bd3b72f / MUSIC
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+樂@yuè	[[tls:concept:MUSIC::#uuid-c42992d3-f18e-46bc-9a03-9ade7bd3b72f][MUSIC]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / musical performance; the practice of music; musical effect
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a / NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 52
+:END:
+不@bù	[[tls:concept:NOT::#uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a][NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / not
+** 食旨不甘	when he eats exquisite food he doesn't appreciate it,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a08:50::食旨 / 孝經
+:CHARPOS: 50
+:END:
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-be68ecd1-3399-4c84-9ef3-62f7b9686bf7 / EAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+食@shí	[[tls:concept:EAT::#uuid-be68ecd1-3399-4c84-9ef3-62f7b9686bf7][EAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / eat; eat some of; eat up; feed on; live on
+*** 旨@zhǐ
+:PROPERTIES:
+:CONCEPT: uuid-615ff244-326d-4c47-be6d-1ac35e0c5fdb / SAVOURY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 51
+:END:
+旨@zhǐ	[[tls:concept:SAVOURY::#uuid-615ff244-326d-4c47-be6d-1ac35e0c5fdb][SAVOURY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / savoury food, exquisite food
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a / NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 52
+:END:
+不@bù	[[tls:concept:NOT::#uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a][NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / not
+** 此哀戚之情也	This is the real feeling of grief.
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a09:50::此哀 / 孝經
+:CHARPOS: 50
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-20e72b12-d3da-4d93-82a7-4d85d052a415
+:CHARPOS: 50
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-20e72b12-d3da-4d93-82a7-4d85d052a415][abstract]]} / this (particular aforementioned abstract but definite) item
+*** 哀戚@āiqī / 哀慼@āiqī / 哀@āi
+:PROPERTIES:
+:CONCEPT: uuid-67d3a3fc-9e7d-4099-b406-ab4cf287d058 / GRIEF
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 51
+:END:
+哀戚@āiqī / 哀慼@āiqī / 哀@āi	[[tls:concept:GRIEF::#uuid-67d3a3fc-9e7d-4099-b406-ab4cf287d058][GRIEF]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / grief in general, all kinds of grief
+*** 情@qíng
+:PROPERTIES:
+:CONCEPT: uuid-bffda197-c6bb-4a87-80d9-6ce0b8512123 / FEELING
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 54
+:END:
+情@qíng	[[tls:concept:FEELING::#uuid-bffda197-c6bb-4a87-80d9-6ce0b8512123][FEELING]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / real inner state; innermost feelings; real inner feelings; basic feelings; basic loyalties; sentiment
+** 三日而食	As for eating after three days,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a10:50::三日 / 孝經
+:CHARPOS: 50
+:END:
+*** 日@rì
+:PROPERTIES:
+:CONCEPT: uuid-196a048c-239d-492d-9713-e48c217485c0 / DAY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+日@rì	[[tls:concept:DAY::#uuid-196a048c-239d-492d-9713-e48c217485c0][DAY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / day, the length of a day counted as day-time; day on which something is to be done>date
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-c474877b-30f0-47ee-975b-0f0cf0544b07 / EAT
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 53
+:END:
+食@shí	[[tls:concept:EAT::#uuid-c474877b-30f0-47ee-975b-0f0cf0544b07][EAT]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / eat food, eat a meal; have a meal
+** 教民無以死傷生	he teaches people not to harm the living because of the dead,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a11:50::教民 / 孝經
+:CHARPOS: 50
+:END:
+*** 教@jiào
+:PROPERTIES:
+:CONCEPT: uuid-0ad1d20a-e952-43df-b3eb-d07e212328f4 / TEACH
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 50
+:END:
+教@jiào	[[tls:concept:TEACH::#uuid-0ad1d20a-e952-43df-b3eb-d07e212328f4][TEACH]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / instruct (someone, to do something) 教良民為姦
+*** 民@mín
+:PROPERTIES:
+:CONCEPT: uuid-a5d0b599-5b22-41f7-9b0e-e15003ab8683 / PEOPLE
+:SYN-FUNC: uuid-4f6909aa-6800-4ba6-a332-3e60b7127f68
+:CHARPOS: 51
+:END:
+民@mín	[[tls:concept:PEOPLE::#uuid-a5d0b599-5b22-41f7-9b0e-e15003ab8683][PEOPLE]]	N [[tls:syn-func::#uuid-4f6909aa-6800-4ba6-a332-3e60b7127f68][nm(post-N)]] / the common people of the contextually determinate place, the native people, the permanently resident people
+*** 無@wú
+:PROPERTIES:
+:CONCEPT: uuid-a20215bf-4f86-4b21-b115-3ce75ccc2c18 / SHOULD NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 52
+:END:
+無@wú	[[tls:concept:SHOULD NOT::#uuid-a20215bf-4f86-4b21-b115-3ce75ccc2c18][SHOULD NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / (GENERALLY probitive) should not in general; should never; should never again
+*** 死@sǐ
+:PROPERTIES:
+:CONCEPT: uuid-d15051f9-9678-4915-917b-842b037f0e01 / DIE
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 54
+:END:
+死@sǐ	[[tls:concept:DIE::#uuid-d15051f9-9678-4915-917b-842b037f0e01][DIE]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a dead person; a person in the state after death (contrast CORPSE)
+*** 傷@shāng
+:PROPERTIES:
+:CONCEPT: uuid-a1cbd943-25a0-4d87-987a-b64bd7f125f9 / DAMAGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+傷@shāng	[[tls:concept:DAMAGE::#uuid-a1cbd943-25a0-4d87-987a-b64bd7f125f9][DAMAGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / inflict harm on (physical objects)
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-120d5fe6-5327-4972-8f56-69ce546f51a1 / LIVE
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 56
+:END:
+生@shēng	[[tls:concept:LIVE::#uuid-120d5fe6-5327-4972-8f56-69ce546f51a1][LIVE]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the living, those who are alive; living creatures
+** 毀不滅性	that their maltreat would not destroy their life.
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a12:50::毀不 / 孝經
+:CHARPOS: 50
+:END:
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a / NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+不@bù	[[tls:concept:NOT::#uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a][NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / not
+*** 滅@miè
+:PROPERTIES:
+:CONCEPT: uuid-1c8461fa-1f41-49bc-b43a-f2ca3bd1692f / DESTROY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+滅@miè	[[tls:concept:DESTROY::#uuid-1c8461fa-1f41-49bc-b43a-f2ca3bd1692f][DESTROY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / destroy; wipe out, obliterate (may occasionally take abstract objects)
+** 此聖人之政也	These are the methods of government of a sage.
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a13:50::此聖 / 孝經
+:CHARPOS: 50
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-20e72b12-d3da-4d93-82a7-4d85d052a415
+:CHARPOS: 50
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-20e72b12-d3da-4d93-82a7-4d85d052a415][abstract]]} / this (particular aforementioned abstract but definite) item
+*** 聖人@shèngrén
+:PROPERTIES:
+:CONCEPT: uuid-39d30f94-36a5-4b5f-8792-a6601a7a9178 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+聖人@shèngrén	[[tls:concept:HERO::#uuid-39d30f94-36a5-4b5f-8792-a6601a7a9178][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the person of extraordinary and creative talent (with untensed predicate)
+*** 政@zhèng
+:PROPERTIES:
+:CONCEPT: uuid-5ae3535c-0daa-4543-905e-ec11c3a7815b / GOVERN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 54
+:END:
+政@zhèng	[[tls:concept:GOVERN::#uuid-5ae3535c-0daa-4543-905e-ec11c3a7815b][GOVERN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / methods of government
+** 喪不過三年示民有終也	His mourning period does not exceed three years, thus he shows to the people that there is an limit.
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a14:50::喪不 / 孝經
+:CHARPOS: 50
+:END:
+*** 喪@sāng
+:PROPERTIES:
+:CONCEPT: uuid-ed234a59-2adb-4bec-b5da-49067a053b58 / MOURNING
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+喪@sāng	[[tls:concept:MOURNING::#uuid-ed234a59-2adb-4bec-b5da-49067a053b58][MOURNING]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / mourning; burial; funeral arrangements
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a / NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+不@bù	[[tls:concept:NOT::#uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a][NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / not
+*** 過@guò
+:PROPERTIES:
+:CONCEPT: uuid-9f145b07-127f-4643-89e0-703a1b390c8a / SURPASS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+過@guò	[[tls:concept:SURPASS::#uuid-9f145b07-127f-4643-89e0-703a1b390c8a][SURPASS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / exceed, surpass; be better than; go beyond (a limit, a number)
+*** 年@nián
+:PROPERTIES:
+:CONCEPT: uuid-ecefc565-b0a8-45f5-a12a-4959791c9c7d / YEAR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+年@nián	[[tls:concept:YEAR::#uuid-ecefc565-b0a8-45f5-a12a-4959791c9c7d][YEAR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / year; years of age; age sān shí nián 三十年 "thirty years", NOT: "thirty years old". Nián sān shí 年三十 "thirty years old" and "for thirty years".
+*** 示@shì / 視@shì
+:PROPERTIES:
+:CONCEPT: uuid-fd90568f-0f0e-4196-825b-ec2544be41fb / SHOW
+:SYN-FUNC: uuid-47bf65b8-3762-4d1c-81e6-a3a2f26a0200
+:CHARPOS: 55
+:END:
+示@shì / 視@shì	[[tls:concept:SHOW::#uuid-fd90568f-0f0e-4196-825b-ec2544be41fb][SHOW]]	V [[tls:syn-func::#uuid-47bf65b8-3762-4d1c-81e6-a3a2f26a0200][vttoN.+S]] / show (to someone) that S
+*** 民@mín
+:PROPERTIES:
+:CONCEPT: uuid-a5d0b599-5b22-41f7-9b0e-e15003ab8683 / PEOPLE
+:SYN-FUNC: uuid-4f6909aa-6800-4ba6-a332-3e60b7127f68
+:CHARPOS: 56
+:END:
+民@mín	[[tls:concept:PEOPLE::#uuid-a5d0b599-5b22-41f7-9b0e-e15003ab8683][PEOPLE]]	N [[tls:syn-func::#uuid-4f6909aa-6800-4ba6-a332-3e60b7127f68][nm(post-N)]] / the common people of the contextually determinate place, the native people, the permanently resident people
+*** 有@yǒu
+:PROPERTIES:
+:CONCEPT: uuid-d24f0e7d-073a-4441-b79e-0f81c67a7179 / EXIST
+:SYN-FUNC: uuid-a25aba9d-46f5-4932-a1d7-48af11e04f61
+:SEM-FEAT: uuid-eab59e0f-58b2-4c7c-916f-48e16d372139
+:CHARPOS: 57
+:END:
+有@yǒu	[[tls:concept:EXIST::#uuid-d24f0e7d-073a-4441-b79e-0f81c67a7179][EXIST]]	V [[tls:syn-func::#uuid-a25aba9d-46f5-4932-a1d7-48af11e04f61][vt0oN{SUBJ}]] {[[tls:sem-feat::#uuid-eab59e0f-58b2-4c7c-916f-48e16d372139][exist]]} / there are (subjects); there is 有人
+*** 終@zhōng
+:PROPERTIES:
+:CONCEPT: uuid-bbca0a7b-2ca0-4a6a-95e8-6a5e3af865df / END
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-faf53255-68e4-4691-9eeb-63a839ffa0bc
+:CHARPOS: 58
+:END:
+終@zhōng	[[tls:concept:END::#uuid-bbca0a7b-2ca0-4a6a-95e8-6a5e3af865df][END]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-faf53255-68e4-4691-9eeb-63a839ffa0bc][dimension]]} / the end; successful conclusion
+** 為之棺椁衣衾而舉之	He makes coffins and burial garments for them [PARENTS] and puts them into the coffin,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a15:50::為之 / 孝經
+:CHARPOS: 50
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-289596b6-3d23-46c5-b0ed-4ef14edd5c09 / PRODUCE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 50
+:END:
+為@wéi	[[tls:concept:PRODUCE::#uuid-289596b6-3d23-46c5-b0ed-4ef14edd5c09][PRODUCE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / produce (something N2) (for someone N1)
+*** 衣衾@yīqīn
+:PROPERTIES:
+:CONCEPT: uuid-06ae908c-a3e0-42a5-9b47-4ae6e677c6ac / GARMENT
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 54
+:END:
+衣衾@yīqīn	[[tls:concept:GARMENT::#uuid-06ae908c-a3e0-42a5-9b47-4ae6e677c6ac][GARMENT]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / burial garments, funeral garments
+** 陳其簠簋而哀慼之	lines up the ritual vessels and mourns for them.
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a17:50::陳其 / 孝經
+:CHARPOS: 50
+:END:
+*** 陳@chén
+:PROPERTIES:
+:CONCEPT: uuid-2905c6ce-bf71-4328-8729-fe83e0dd8d29 / DEPLOY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+陳@chén	[[tls:concept:DEPLOY::#uuid-2905c6ce-bf71-4328-8729-fe83e0dd8d29][DEPLOY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lay out physically, display and deploy; line up
+** 擗踊哭泣	He beats his breast, jumps, laments and weeps,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a18:50::擗踊 / 孝經
+:CHARPOS: 50
+:END:
+*** 辟踊@pìyǒng / 闢踊@pìyǒng / 擗踊@pǐyǒng
+:PROPERTIES:
+:CONCEPT: uuid-afcdcaa1-baf9-49b5-b60a-ef02801f1b09 / JUMP
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 50
+:END:
+辟踊@pìyǒng / 闢踊@pìyǒng / 擗踊@pǐyǒng	[[tls:concept:JUMP::#uuid-afcdcaa1-baf9-49b5-b60a-ef02801f1b09][JUMP]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / jump up and down in extreme grief
+*** 擗@pǐ / 辟@pì / 闢@pì
+:PROPERTIES:
+:CONCEPT: uuid-2bd2861e-5985-4f95-8c10-2b91c7f172af / KNOCK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CONCEPT: uuid-70e9f344-ddac-432d-8495-20773540b611 / JUMP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+擗@pǐ / 辟@pì / 闢@pì	[[tls:concept:KNOCK::#uuid-2bd2861e-5985-4f95-8c10-2b91c7f172af][KNOCK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / beat one's breast (check pronunciation: pǐ?)
+踴@yǒng / 踊@yǒng	[[tls:concept:JUMP::#uuid-70e9f344-ddac-432d-8495-20773540b611][JUMP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / SHI: jump up; LIJI: jump up as sign of extreme mourning stump the ground; leap about
+*** 哭泣@kūqì
+:PROPERTIES:
+:CONCEPT: uuid-e45abea7-9e6d-4cce-acbe-fb432905bfcb / WEEP
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+哭泣@kūqì	[[tls:concept:WEEP::#uuid-e45abea7-9e6d-4cce-acbe-fb432905bfcb][WEEP]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wail and weep
+** 哀以送之	accompanies them (on their last way) with grief,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a19:50::哀以 / 孝經
+:CHARPOS: 50
+:END:
+*** 哀以@āiyǐ
+:PROPERTIES:
+:CONCEPT: uuid-39ecb3f4-186a-4427-bc43-ecb436ff0ddc / SYMPATHY
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:CHARPOS: 50
+:END:
+哀以@āiyǐ	[[tls:concept:SYMPATHY::#uuid-39ecb3f4-186a-4427-bc43-ecb436ff0ddc][SYMPATHY]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] / full of sympathetic grief, full of saddened sympathy [???SURELY 以 GOES WITH WHAT FOLLOWS!!!CH]
+*** 送@sòng
+:PROPERTIES:
+:CONCEPT: uuid-6e2e0cb4-b031-4d85-846a-9751ff6ba556 / ACCOMPANY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+送@sòng	[[tls:concept:ACCOMPANY::#uuid-6e2e0cb4-b031-4d85-846a-9751ff6ba556][ACCOMPANY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / accompany some way upon departure
+** 卜其宅兆	divines about their burial place
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a20:50::卜其 / 孝經
+:CHARPOS: 50
+:END:
+*** 卜@bǔ
+:PROPERTIES:
+:CONCEPT: uuid-e85ea381-dd1e-43f0-9db5-66fc5e478e6e / DIVINATION
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+卜@bǔ	[[tls:concept:DIVINATION::#uuid-e85ea381-dd1e-43f0-9db5-66fc5e478e6e][DIVINATION]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / divine by the use of cracks in a turtle shell;
+** 而安措之	and buries them peacefully.
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a20:50::而安 / 孝經
+:CHARPOS: 50
+:END:
+*** 安@ān
+:PROPERTIES:
+:CONCEPT: uuid-4e04d67e-c640-4cfc-9b90-c2118d497f17 / PEACEFUL
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CONCEPT: uuid-e3f02901-1598-4c6f-85a4-3de856e9a3c5 / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+安@ān	[[tls:concept:PEACEFUL::#uuid-4e04d67e-c640-4cfc-9b90-c2118d497f17][PEACEFUL]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / peacefully and comfortably 安坐
+厝@cuò	[[tls:concept:BURY::#uuid-e3f02901-1598-4c6f-85a4-3de856e9a3c5][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / put to rest> bury (compare 措"put")
+** 為之宗廟	He builds an ancestral temple for them
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a21:50::為之 / 孝經
+:CHARPOS: 50
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-289596b6-3d23-46c5-b0ed-4ef14edd5c09 / PRODUCE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 50
+:END:
+為@wéi	[[tls:concept:PRODUCE::#uuid-289596b6-3d23-46c5-b0ed-4ef14edd5c09][PRODUCE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / produce (something N2) (for someone N1)
+*** 宗廟@zōngmiào
+:PROPERTIES:
+:CONCEPT: uuid-3200ea64-3004-42e4-b6da-c620f5b69ce0 / TEMPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 52
+:END:
+宗廟@zōngmiào	[[tls:concept:TEMPLE::#uuid-3200ea64-3004-42e4-b6da-c620f5b69ce0][TEMPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / ancestral temples, temples for the ancestors (symbols of the nation, see this word under NATION)
+** 以鬼享之	and sacrifices to them in the way in which one sacrifices to ghosts.
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a21:50::以鬼 / 孝經
+:CHARPOS: 50
+:END:
+*** 饗@xiǎng / 享@xiǎng / 小臣@xiǎochén
+:PROPERTIES:
+:CONCEPT: uuid-2f506e6a-4452-43c0-a28c-6147f9392050 / SACRIFICE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+饗@xiǎng / 享@xiǎng / 小臣@xiǎochén	[[tls:concept:SACRIFICE::#uuid-2f506e6a-4452-43c0-a28c-6147f9392050][SACRIFICE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / make (large-scale) offerings of wine (to the gods in order to seek their blessings)
+** 以時思之	and lingers in thought on them at the appropriate time.
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a22:50::以時 / 孝經
+:CHARPOS: 50
+:END:
+*** 時@shí
+:PROPERTIES:
+:CONCEPT: uuid-3a4d540c-318c-45df-8403-f710d87bb8dd / TIMELY
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-879c6409-75f9-42af-b180-c3a05f323a3d
+:CHARPOS: 51
+:END:
+時@shí	[[tls:concept:TIMELY::#uuid-3a4d540c-318c-45df-8403-f710d87bb8dd][TIMELY]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-879c6409-75f9-42af-b180-c3a05f323a3d][appropriate]]} / at the appropriate time; when the need arises Note 非時
+*** 思@sī
+:PROPERTIES:
+:CONCEPT: uuid-57a2f716-ea89-4b2f-83b3-59770d9a9aca / THINK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+思@sī	[[tls:concept:THINK::#uuid-57a2f716-ea89-4b2f-83b3-59770d9a9aca][THINK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be preoccupied by; linger in thought on; reflect on, be mindful of, think about
+** 生事愛敬	When they live, he's concerned with loving care and diligent respect,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a23:50::生事 / 孝經
+:CHARPOS: 50
+:END:
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-fcd2f973-9801-4918-8d17-919d16ff5829 / LIVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-1e331347-13e3-42a1-a1a8-8e4404f03509
+:CHARPOS: 50
+:END:
+生@shēng	[[tls:concept:LIVE::#uuid-fcd2f973-9801-4918-8d17-919d16ff5829][LIVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-1e331347-13e3-42a1-a1a8-8e4404f03509][continuous]]} / be alive; remain alive; cf. also shēng qín 生擒 "catch while he is still alive"
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-9078810f-e5bc-446d-9e9a-0509dba04faf / STRIVE FOR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 51
+:END:
+事@shì	[[tls:concept:STRIVE FOR::#uuid-9078810f-e5bc-446d-9e9a-0509dba04faf][STRIVE FOR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / have as one's main concern; make something one's own business; show concern for
+*** 愛敬@àijìng
+:PROPERTIES:
+:CONCEPT: uuid-10bbb1ba-9121-4690-8b8b-b4fb04b7ba42 / RESPECT
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+愛敬@àijìng	[[tls:concept:RESPECT::#uuid-10bbb1ba-9121-4690-8b8b-b4fb04b7ba42][RESPECT]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / love and respect; loving respect
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-f8f790a1-3282-4abe-bf1d-af9a7ea793f8 / LOVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+愛@ài	[[tls:concept:LOVE::#uuid-f8f790a1-3282-4abe-bf1d-af9a7ea793f8][LOVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / loving care; love; feelings of love; sollicitousness; active affection
+*** 敬@jìng
+:PROPERTIES:
+:CONCEPT: uuid-47b029a8-65ad-4039-aee7-86bb528bc6b3 / RESPECT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+敬@jìng	[[tls:concept:RESPECT::#uuid-47b029a8-65ad-4039-aee7-86bb528bc6b3][RESPECT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / earnest and respectful diligence; respectful devotion
+** 死事哀慼	when they are dead, he's concerned with mourning and grief,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a24:50::死事 / 孝經
+:CHARPOS: 50
+:END:
+*** 死@sǐ
+:PROPERTIES:
+:CONCEPT: uuid-a406311f-b15b-4f31-b67b-026defa7448f / DIE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 50
+:END:
+死@sǐ	[[tls:concept:DIE::#uuid-a406311f-b15b-4f31-b67b-026defa7448f][DIE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / be dead
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-9078810f-e5bc-446d-9e9a-0509dba04faf / STRIVE FOR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 51
+:END:
+事@shì	[[tls:concept:STRIVE FOR::#uuid-9078810f-e5bc-446d-9e9a-0509dba04faf][STRIVE FOR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / have as one's main concern; make something one's own business; show concern for
+*** 哀戚@āiqī / 哀慼@āiqī / 哀@āi
+:PROPERTIES:
+:CONCEPT: uuid-67d3a3fc-9e7d-4099-b406-ab4cf287d058 / GRIEF
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 50
+:END:
+哀戚@āiqī / 哀慼@āiqī / 哀@āi	[[tls:concept:GRIEF::#uuid-67d3a3fc-9e7d-4099-b406-ab4cf287d058][GRIEF]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / grief in general, all kinds of grief
+** 生民之本盡矣	so the basis of the people is completely realised,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a25:50::生民 / 孝經
+:CHARPOS: 50
+:END:
+*** 本@běn
+:PROPERTIES:
+:CONCEPT: uuid-558ff586-0ca6-48be-b41d-9abdca096cc7 / BASIS
+:SYN-FUNC: uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 53
+:END:
+本@běn	[[tls:concept:BASIS::#uuid-558ff586-0ca6-48be-b41d-9abdca096cc7][BASIS]]	N [[tls:syn-func::#uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693][nab.post-N]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / what is basic and crucial; the basic and crucial feature; basic features; primary consideration
+*** 盡@jìn
+:PROPERTIES:
+:CONCEPT: uuid-2a0ccb02-2a3c-4405-9003-6e407ac82bda / COMPLETE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 54
+:END:
+盡@jìn	[[tls:concept:COMPLETE::#uuid-2a0ccb02-2a3c-4405-9003-6e407ac82bda][COMPLETE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be realised completely
+** 死生之義備矣	the meaning of death and life is completely provided,
+:PROPERTIES:
+:SRC: XIAOJING 18, ed. SSJZS p. 0141
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_018:1a26:50::死生 / 孝經
+:CHARPOS: 50
+:END:
+*** 死生@sǐshēng
+:PROPERTIES:
+:CONCEPT: uuid-5ea17cc6-667e-4018-aa8f-531107db26b4 / LIVE
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:CHARPOS: 50
+:END:
+死生@sǐshēng	[[tls:concept:LIVE::#uuid-5ea17cc6-667e-4018-aa8f-531107db26b4][LIVE]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] / life on earth; one's dying or staying alive
+*** 義@yì
+:PROPERTIES:
+:CONCEPT: uuid-5635c07e-2dd0-44e6-a874-bee25a76b23a / MEAN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+義@yì	[[tls:concept:MEAN::#uuid-5635c07e-2dd0-44e6-a874-bee25a76b23a][MEAN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / objective main idea; 本義 "basic intended objective meaning"; objective meaning
+*** 備@bèi
+:PROPERTIES:
+:CONCEPT: uuid-2765d1c6-b3ee-4119-89fd-f5b38cf7b5a5 / PROVIDE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 54
+:END:
+備@bèi	[[tls:concept:PROVIDE::#uuid-2765d1c6-b3ee-4119-89fd-f5b38cf7b5a5][PROVIDE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be completely provided

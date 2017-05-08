@@ -1,0 +1,154 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_050
+#+DATE: 2017-02-08T16:35:53+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 王不懌	the king was not happy (i.e. ill).
+:PROPERTIES:
+:SRC: SHU 42.1, tr. Karlgren 70
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_050:2a02:1::王不 / 尚書
+:CHARPOS: 1
+:END:
+*** 懌@yì
+:PROPERTIES:
+:CONCEPT: uuid-aab83ca7-0e46-4491-9791-43c6e1f90d12 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+懌@yì	[[tls:concept:HAPPY::#uuid-aab83ca7-0e46-4491-9791-43c6e1f90d12][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be happy, pleased; causing pleasure 不懌 "be displeased"
+** 玆予審訓命汝	Now i minutely instruct and order you.
+:PROPERTIES:
+:SRC: SHU 42.4, tr. Karlgren 70
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_050:2a20:1::玆予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-e01096db-36f9-4548-8a67-85f0a8529d01 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-e01096db-36f9-4548-8a67-85f0a8529d01][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / I (as a responsible agent)
+** 爾尚明時朕言	May you clearly understand these words of mine,
+:PROPERTIES:
+:SRC: SHU 42.7, tr. Karlgren 70
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_050:2a29:1::爾尚 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 5
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my
+** 弘濟于艱難	and grandly help him over in the difficulties.
+:PROPERTIES:
+:SRC: SHU 42.7, tr. Karlgren 70
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_050:2a31:1::弘濟 / 尚書
+:CHARPOS: 1
+:END:
+*** 艱難@jiānnàn
+:PROPERTIES:
+:CONCEPT: uuid-0dd52d50-c41c-4255-a44f-66fc77d105fe / DISTRESS
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 4
+:END:
+艱難@jiānnàn	[[tls:concept:DISTRESS::#uuid-0dd52d50-c41c-4255-a44f-66fc77d105fe][DISTRESS]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / severe difficulties, tribulations
+** 柔遠能邇	Be gentle with the distant ones, be kind to the near ones.
+:PROPERTIES:
+:SRC: SHU 42.8, tr. Karlgren 70
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_050:2a32:50::柔遠 / 尚書
+:CHARPOS: 50
+:END:
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-2e6505fa-0909-4ad6-8094-eb5e35ddef25 / GENEROUS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+能@néng	[[tls:concept:GENEROUS::#uuid-2e6505fa-0909-4ad6-8094-eb5e35ddef25][GENEROUS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / treat well
+** 思夫人自亂	You should think of how a man governs himself
+:PROPERTIES:
+:SRC: SHU 42.9, tr. Karlgren 70
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_050:2a34:1::思夫 / 尚書
+:CHARPOS: 1
+:END:
+*** 亂@luàn
+:PROPERTIES:
+:CONCEPT: uuid-d082679d-b74e-4224-9e1b-de8dad3a4a5d / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 5
+:END:
+亂@luàn	[[tls:concept:GOVERN::#uuid-d082679d-b74e-4224-9e1b-de8dad3a4a5d][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / archaic: govern (oneself)
+** 齊侯呂伋以二干戈	The prince of Qí, Lǔ Jí,with two (men with) shields and dagger-axes (i.e. two squires)
+:PROPERTIES:
+:SRC: SHU 42.11, tr. Karlgren 70
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_050:2a41:1::齊侯 / 尚書
+:CHARPOS: 1
+:END:
+*** 干@gān
+:PROPERTIES:
+:CONCEPT: uuid-6ae8cf4c-2c47-40ad-a4ae-993068ad9791 / SHIELD
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 7
+:END:
+干@gān	[[tls:concept:SHIELD::#uuid-6ae8cf4c-2c47-40ad-a4ae-993068ad9791][SHIELD]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / Western dialects, acc. FANGYAN: shield to cover whole body
+** 越玉五重陳寶	(There were) quintuple jades and old treasures.
+:PROPERTIES:
+:SRC: SHU 42.19.1, tr. Karlgren 70
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_050:2a61:1::越玉 / 尚書
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024 / PRECIOUS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 6
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024][PRECIOUS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / precious possession; precious things; treasure of high personal, monetary, social or moral value 三寶
+** 天球河圖	the great qiú jade and the drawing-tablet of the River
+:PROPERTIES:
+:SRC: SHU 42.19.1, tr. Karlgren 70
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_050:2a66:1::天球 / 尚書
+:CHARPOS: 1
+:END:
+*** 球@qiú
+:PROPERTIES:
+:CONCEPT: uuid-5c218efc-cc5d-4258-aedd-1fb6e0a4a559 / JADE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+球@qiú	[[tls:concept:JADE::#uuid-5c218efc-cc5d-4258-aedd-1fb6e0a4a559][JADE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / kind of jade that gives off a pleasant sound when knocked or beaten
+** 眇眇予末小子	Very insignificant am I, the (last small child=) small child, last of our line.
+:PROPERTIES:
+:SRC: SHU 42.25, tr. Karlgren 70
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_050:2a113:1::「眇 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 3
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+*** 予末小子@yúmòxiǎozǐ
+:PROPERTIES:
+:CONCEPT: uuid-4d581e0e-4146-423d-88ad-a8c43871bc0e / EGO
+:SYN-FUNC: uuid-57c09334-09a9-45c9-b02d-4727fa877124
+:CHARPOS: 3
+:END:
+予末小子@yúmòxiǎozǐ	[[tls:concept:EGO::#uuid-4d581e0e-4146-423d-88ad-a8c43871bc0e][EGO]]	N [[tls:syn-func::#uuid-57c09334-09a9-45c9-b02d-4727fa877124][NPpro+V{PRED}]] / I, the small child last in line

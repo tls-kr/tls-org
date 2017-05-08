@@ -1,0 +1,1367 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 莊子 KR5c0126_003
+#+DATE: 2017-02-08T16:43:53+0900
+#+PROPERTY: COMMIT 8727f50dad81dc01cae1cea0a0b0cd5bea1ad693
+** 吾生也有涯	YOUR LIFE HAS A LIMIT
+:PROPERTIES:
+:SRC: ZHUANG 3.1.1; Guo Qingfan 115; Wang Shumin 99; Fang Yong 92; Chen Guying 94
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:1a01:50::吾生 / 莊子
+:CHARPOS: 50
+:END:
+*** 吾@wú
+:PROPERTIES:
+:CONCEPT: uuid-db2f86df-aa49-4de8-8a86-7d084edf6ca4 / ONESELF
+:SYN-FUNC: uuid-8dc98b5f-4184-4e97-aecf-8152733d1d06
+:SEM-FEAT: uuid-26d3ec76-dd89-4fd2-b554-92258536af7f
+:CHARPOS: 50
+:END:
+吾@wú	[[tls:concept:ONESELF::#uuid-db2f86df-aa49-4de8-8a86-7d084edf6ca4][ONESELF]]	N [[tls:syn-func::#uuid-8dc98b5f-4184-4e97-aecf-8152733d1d06][npro0.adN]] {[[tls:sem-feat::#uuid-26d3ec76-dd89-4fd2-b554-92258536af7f][impersonal]]} / non-referential: one's
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-fb0c695f-6686-47d1-abe4-09da65f7d1db / LIVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 51
+:END:
+生@shēng	[[tls:concept:LIVE::#uuid-fb0c695f-6686-47d1-abe4-09da65f7d1db][LIVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / lifespan, the stretch of time one is alive 長生
+*** 也@yě
+:PROPERTIES:
+:CONCEPT: uuid-c46d7bc7-d9d6-4584-b181-0fbf8d31e5d4 / TOPIC MARKER
+:SYN-FUNC: uuid-40cbedf8-23be-405f-8185-859c3196e742
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 52
+:END:
+也@yě	[[tls:concept:TOPIC MARKER::#uuid-c46d7bc7-d9d6-4584-b181-0fbf8d31e5d4][TOPIC MARKER]]	P [[tls:syn-func::#uuid-40cbedf8-23be-405f-8185-859c3196e742][ppostN.+V]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / after topics other than personal names
+*** 涯@yá / 涯@yí
+:PROPERTIES:
+:CONCEPT: uuid-d00f36f5-6d93-4a8e-99df-79dab7d5bcc4 / LIMIT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 54
+:END:
+涯@yá / 涯@yí	[[tls:concept:LIMIT::#uuid-d00f36f5-6d93-4a8e-99df-79dab7d5bcc4][LIMIT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / natural limit; given limitation
+** 而知也无涯	but knowledge has none.
+:PROPERTIES:
+:SRC: ZHUANG 3.1.1; Guo Qingfan 115; Wang Shumin 99; Fang Yong 92; Chen Guying 94
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:1a02:50::而知 / 莊子
+:CHARPOS: 50
+:END:
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-6a84e3c8-8986-4ba6-b3ef-7c618c569cb3 / KNOW
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 51
+:END:
+知@zhī	[[tls:concept:KNOW::#uuid-6a84e3c8-8986-4ba6-b3ef-7c618c569cb3][KNOW]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / knowing something; knowing things; knowledge of things; discursive knowledge, conceptual knowledge
+*** 也@yě
+:PROPERTIES:
+:CONCEPT: uuid-c46d7bc7-d9d6-4584-b181-0fbf8d31e5d4 / TOPIC MARKER
+:SYN-FUNC: uuid-40cbedf8-23be-405f-8185-859c3196e742
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 52
+:END:
+也@yě	[[tls:concept:TOPIC MARKER::#uuid-c46d7bc7-d9d6-4584-b181-0fbf8d31e5d4][TOPIC MARKER]]	P [[tls:syn-func::#uuid-40cbedf8-23be-405f-8185-859c3196e742][ppostN.+V]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / after topics other than personal names
+*** 涯@yá / 涯@yí
+:PROPERTIES:
+:CONCEPT: uuid-d00f36f5-6d93-4a8e-99df-79dab7d5bcc4 / LIMIT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 54
+:END:
+涯@yá / 涯@yí	[[tls:concept:LIMIT::#uuid-d00f36f5-6d93-4a8e-99df-79dab7d5bcc4][LIMIT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / natural limit; given limitation
+** 以有涯隨无涯殆已	If you use what is limited to pursue what has no limit, you will be in danger.
+:PROPERTIES:
+:SRC: ZHUANG 3.1.1; Guo Qingfan 115; Wang Shumin 99; Fang Yong 92; Chen Guying 94
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:1a03:50::以有 / 莊子
+:CHARPOS: 50
+:END:
+*** 〓#@
+:PROPERTIES:
+:CONCEPT: uuid-89339cb3-7f07-4550-9916-c461557964ce / PURSUE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+〓#@	[[tls:concept:PURSUE::#uuid-89339cb3-7f07-4550-9916-c461557964ce][PURSUE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / pursue, go after, follow up; avenge
+*** 涯@yá / 涯@yí
+:PROPERTIES:
+:CONCEPT: uuid-d00f36f5-6d93-4a8e-99df-79dab7d5bcc4 / LIMIT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 52
+:END:
+涯@yá / 涯@yí	[[tls:concept:LIMIT::#uuid-d00f36f5-6d93-4a8e-99df-79dab7d5bcc4][LIMIT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / natural limit; given limitation
+*** 殆@dài
+:PROPERTIES:
+:CONCEPT: uuid-f2c0be29-e72c-4f73-b263-628a10e36381 / DANGER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 56
+:END:
+殆@dài	[[tls:concept:DANGER::#uuid-f2c0be29-e72c-4f73-b263-628a10e36381][DANGER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be in (serious) personal danger; be in serious danger 甚殆
+** 已而為知者殆而已矣	If you understand this and still strive for knowledge, you will be in danger for certain!
+:PROPERTIES:
+:SRC: ZHUANG 3.1.1; Guo Qingfan 115; Wang Shumin 99; Fang Yong 92; Chen Guying 94
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:1a04:50::已而 / 莊子
+:CHARPOS: 50
+:END:
+*** 為@wèi
+:PROPERTIES:
+:CONCEPT: uuid-f0ee390d-45f9-48ad-9ac8-8c68164f67ba / FOR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+為@wèi	[[tls:concept:FOR::#uuid-f0ee390d-45f9-48ad-9ac8-8c68164f67ba][FOR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / work for; be on the side of; work for the benefit of; work towards; aim for; act in the spirit of 為公甚
+** 為善无近名	If you do good, stay away from fame.
+:PROPERTIES:
+:SRC: ZHUANG 3.1.1; Guo Qingfan 115; Wang Shumin 99; Fang Yong 92; Chen Guying 94
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:1a05:50::為善 / 莊子
+:CHARPOS: 50
+:END:
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-c2d23731-a8a9-4454-87ac-08b7a1883ef6 / GOOD
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 51
+:END:
+善@shàn	[[tls:concept:GOOD::#uuid-c2d23731-a8a9-4454-87ac-08b7a1883ef6][GOOD]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / the "good"
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-9a0416f3-d96a-4539-bf8d-3d526a46d27d / GOOD
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 51
+:END:
+善@shàn	[[tls:concept:GOOD::#uuid-9a0416f3-d96a-4539-bf8d-3d526a46d27d][GOOD]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / what is morally excellent; moral excellence; what is good
+** 緣督以為經	Follow the middle; go by what is constant,
+:PROPERTIES:
+:SRC: ZHUANG 3.1.1; Guo Qingfan 115; Wang Shumin 99; Fang Yong 92; Chen Guying 94
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:1a07:1::緣督 / 莊子
+:CHARPOS: 1
+:END:
+*** 經@jīng
+:PROPERTIES:
+:CONCEPT: uuid-54c1780c-e450-4d0a-9c5c-6a9faff92c14 / RULE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 5
+:END:
+經@jīng	[[tls:concept:RULE::#uuid-54c1780c-e450-4d0a-9c5c-6a9faff92c14][RULE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / leading thread, warp; cardinal principle
+** 可以保身	and you can stay in one piece,
+:PROPERTIES:
+:SRC: ZHUANG 3.1.1; Guo Qingfan 115; Wang Shumin 99; Fang Yong 92; Chen Guying 94
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:1a08:50::可以 / 莊子
+:CHARPOS: 50
+:END:
+*** 保@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-1f091f6e-f0a0-4ef8-862f-7533053da872 / SAFEGUARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+保@bǎo	[[tls:concept:SAFEGUARD::#uuid-1f091f6e-f0a0-4ef8-862f-7533053da872][SAFEGUARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / safeguard, keep secure; keep to oneself; protect properly; HF 5.2.20: keep (one purposes) secure and secret
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-5b26ff72-5f1f-4a5e-a976-48527b2f72bb / BODY
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 53
+:END:
+身@shēn	[[tls:concept:BODY::#uuid-5b26ff72-5f1f-4a5e-a976-48527b2f72bb][BODY]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / one's own body [many of the BODY n need to be moved here]
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-3a9dd862-1011-47c8-ba30-b84a1b4a98a0 / BODY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+身@shēn	[[tls:concept:BODY::#uuid-3a9dd862-1011-47c8-ba30-b84a1b4a98a0][BODY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / body as a whole; especially the main trunk as opposed to the head; body as embodying the person
+** 可以全生	keep yourself alive,
+:PROPERTIES:
+:SRC: ZHUANG 3.1.1; Guo Qingfan 115; Wang Shumin 99; Fang Yong 92; Chen Guying 94
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:1a09:50::可以 / 莊子
+:CHARPOS: 50
+:END:
+*** 全@quán
+:PROPERTIES:
+:CONCEPT: uuid-1329f2d8-745a-4b24-b746-8bcf2b891f15 / SAFEGUARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 52
+:END:
+全@quán	[[tls:concept:SAFEGUARD::#uuid-1329f2d8-745a-4b24-b746-8bcf2b891f15][SAFEGUARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / (cause to be safe>) keep safe and unharmed, safeguard so as to keep intact
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-297c6850-9f21-4b34-8b72-2b27c1e90adf / LIVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 53
+:END:
+生@shēng	[[tls:concept:LIVE::#uuid-297c6850-9f21-4b34-8b72-2b27c1e90adf][LIVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / state of being alive; life; survival; sometimes even: livelihood 治生 "look after one's livelihood"
+** 可以盡年	and live out your years.
+:PROPERTIES:
+:SRC: ZHUANG 3.1.1; Guo Qingfan 115; Wang Shumin 99; Fang Yong 92; Chen Guying 94
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:1a11:1::可以 / 莊子
+:CHARPOS: 1
+:END:
+*** 年@nián
+:PROPERTIES:
+:CONCEPT: uuid-75ded5f0-55e7-4b79-9057-5094e6ac6791 / AGE
+:SYN-FUNC: uuid-9cbb9197-e69a-49bc-a93c-a1afbbd07d29
+:CHARPOS: 4
+:END:
+年@nián	[[tls:concept:AGE::#uuid-75ded5f0-55e7-4b79-9057-5094e6ac6791][AGE]]	 [[tls:syn-func::#uuid-9cbb9197-e69a-49bc-a93c-a1afbbd07d29][nab(post-N)]] / the contextually determinate N's age; the number of years one lives, the time-span one has lived or will live 盡其天年
+** 庖丁為文惠君解牛	Cook Ting was cutting up an ox for Lord Wen-hui.2
+:PROPERTIES:
+:SRC: ZHUANG 3.2.1; Guo Qingfan 117; Wang Shumin 102; Fang Yong 93; Chen Guying 95
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:2a01:1::庖丁 / 莊子
+:CHARPOS: 1
+:END:
+*** 炮@páo / 庖@páo
+:PROPERTIES:
+:CONCEPT: uuid-d93a7a69-575b-43d3-a281-7afccda8a660 / COOK
+:SYN-FUNC: uuid-0f5b5ce6-d13f-433e-abbd-88a290f978d6
+:CHARPOS: 1
+:END:
+炮@páo / 庖@páo	[[tls:concept:COOK::#uuid-d93a7a69-575b-43d3-a281-7afccda8a660][COOK]]	N [[tls:syn-func::#uuid-0f5b5ce6-d13f-433e-abbd-88a290f978d6][n+Npr]] / cook Npr
+*** 解@jiě
+:PROPERTIES:
+:CONCEPT: uuid-efea145b-523b-4088-a698-bde410f00fc6 / CUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+解@jiě	[[tls:concept:CUT::#uuid-efea145b-523b-4088-a698-bde410f00fc6][CUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cut up and dismember (an ox); disect, carve up; [cut off][CA]
+*** 牛@niú
+:PROPERTIES:
+:CONCEPT: uuid-ad1c2963-5e73-4132-8920-78a488637651 / BOVINE
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 8
+:END:
+牛@niú	[[tls:concept:BOVINE::#uuid-ad1c2963-5e73-4132-8920-78a488637651][BOVINE]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / water buffalo; ox Keightley: @Foot{I translate oracle-bone @i{niu} 牛 as "bovine"; theinscriptions do not generally indicate whether the bovinesinvolved were female or male.}
+** 手之所觸	At every touch of his hand,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.1; Guo Qingfan 117; Wang Shumin 102; Fang Yong 93; Chen Guying 95
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:2a02:50::手之 / 莊子
+:CHARPOS: 50
+:END:
+*** 觸@chù
+:PROPERTIES:
+:CONCEPT: uuid-1d464ca2-d776-4f4b-91c8-322e231523fe / TOUCH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+觸@chù	[[tls:concept:TOUCH::#uuid-1d464ca2-d776-4f4b-91c8-322e231523fe][TOUCH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / touch; dash into; bump into; bump one's head against (also deliberately)
+** 肩之所倚	every heave of his shoulder,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.1; Guo Qingfan 117; Wang Shumin 102; Fang Yong 93; Chen Guying 95
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:2a03:50::肩之 / 莊子
+:CHARPOS: 50
+:END:
+*** 肩@jiān
+:PROPERTIES:
+:CONCEPT: uuid-282810ba-b059-4ab1-aa2a-3fcdeac26c95 / SHOULDER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+肩@jiān	[[tls:concept:SHOULDER::#uuid-282810ba-b059-4ab1-aa2a-3fcdeac26c95][SHOULDER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / shoulder
+*** 倚@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-6c7c64fa-005f-4c7f-b131-923db39ad510 / LEAN ON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+倚@yǐ	[[tls:concept:LEAN ON::#uuid-6c7c64fa-005f-4c7f-b131-923db39ad510][LEAN ON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lean (often, but not always, heavily) on; HF: lean against (a gate)
+** 足之所履	every move of his feet,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.1; Guo Qingfan 117; Wang Shumin 102; Fang Yong 93; Chen Guying 95
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:2a04:50::足之 / 莊子
+:CHARPOS: 50
+:END:
+*** 足@zú
+:PROPERTIES:
+:CONCEPT: uuid-12618a04-9f5a-4ec5-9f37-d64e662012e7 / FOOT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+足@zú	[[tls:concept:FOOT::#uuid-12618a04-9f5a-4ec5-9f37-d64e662012e7][FOOT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / foot; feet
+*** 履@lǚ
+:PROPERTIES:
+:CONCEPT: uuid-a16b001f-a054-40fd-98f0-c7f8a9570052 / TREAD ON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+履@lǚ	[[tls:concept:TREAD ON::#uuid-a16b001f-a054-40fd-98f0-c7f8a9570052][TREAD ON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / walk on, use as one's walking surface tread on; step on (so as to hold down)
+** 膝之所踦	every thrust of his knee -
+:PROPERTIES:
+:SRC: ZHUANG 3.2.1; Guo Qingfan 117; Wang Shumin 102; Fang Yong 93; Chen Guying 95
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:2a05:50::膝之 / 莊子
+:CHARPOS: 50
+:END:
+*** 膝@xī
+:PROPERTIES:
+:CONCEPT: uuid-42a1c7aa-7643-4070-961a-a3c2d6debffb / KNEE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+膝@xī	[[tls:concept:KNEE::#uuid-42a1c7aa-7643-4070-961a-a3c2d6debffb][KNEE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / knee
+*** 踦@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-1c05c942-c5d9-4666-aa81-99b90482d026 / LEAN ON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+踦@jǐ	[[tls:concept:LEAN ON::#uuid-1c05c942-c5d9-4666-aa81-99b90482d026][LEAN ON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lean against; touch; knock against ?????????
+** 奏刀騞然	He slithered the knife along with a zing,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.1; Guo Qingfan 117; Wang Shumin 102; Fang Yong 93; Chen Guying 95
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:2a07:1::奏刀 / 莊子
+:CHARPOS: 1
+:END:
+*** 奏@zòu
+:PROPERTIES:
+:CONCEPT: uuid-c0672e27-9e62-4d20-b271-4f0760d8dd39 / WIELD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+奏@zòu	[[tls:concept:WIELD::#uuid-c0672e27-9e62-4d20-b271-4f0760d8dd39][WIELD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / wield (a knife)
+** 合於桑林之舞	as though he were performing the dance of the Mulberry Grove
+:PROPERTIES:
+:SRC: ZHUANG 3.2.2; Guo Qingfan 117; Wang Shumin 102; Fang Yong 93; Chen Guying 95
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:2a09:1::合於 / 莊子
+:CHARPOS: 1
+:END:
+*** 合@hé
+:PROPERTIES:
+:CONCEPT: uuid-9cfd44a5-4d09-4527-a120-fd66212cd465 / CONFORM
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 1
+:END:
+合@hé	[[tls:concept:CONFORM::#uuid-9cfd44a5-4d09-4527-a120-fd66212cd465][CONFORM]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / come to conform to, conform to; be in accordance with; be in conformity with
+*** 舞@wǔ
+:PROPERTIES:
+:CONCEPT: uuid-a46f4dcd-0043-489b-9c15-678bcd3e7dc7 / DANCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+舞@wǔ	[[tls:concept:DANCE::#uuid-a46f4dcd-0043-489b-9c15-678bcd3e7dc7][DANCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / a dance, dancing; dancing activities
+** 乃中經首之會	or keeping time to the Ching-shou music.3
+:PROPERTIES:
+:SRC: ZHUANG 3.2.2; Guo Qingfan 117; Wang Shumin 102; Fang Yong 93; Chen Guying 95
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:2a10:50::乃中 / 莊子
+:CHARPOS: 50
+:END:
+*** 中@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-36020202-1f48-4372-b0fa-fd6b1a8e3874 / CONFORM
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+中@zhòng	[[tls:concept:CONFORM::#uuid-36020202-1f48-4372-b0fa-fd6b1a8e3874][CONFORM]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / correspond exactly to, be exactly appropriate for; be in conformity with
+** 文惠君曰譆善哉	"Ah, this is marvelous!" said Lord Wen-hui.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.2; Guo Qingfan 117; Wang Shumin 102; Fang Yong 93; Chen Guying 95
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:2a11:50::文惠 / 莊子
+:CHARPOS: 50
+:END:
+*** 嘻@xī / 譆@xī
+:PROPERTIES:
+:CONCEPT: uuid-869aa087-8fcb-42a4-aeb3-2291f9060164 / EXCLAMATORY PARTICLE
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:CHARPOS: 50
+:END:
+嘻@xī / 譆@xī	[[tls:concept:EXCLAMATORY PARTICLE::#uuid-869aa087-8fcb-42a4-aeb3-2291f9060164][EXCLAMATORY PARTICLE]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] / ah! exclamatory particle expressing surprise, sometimes mixed with delight
+** 技蓋至此乎	"Imagine skill reaching such heights!" [[Lit: Presumably skill reaches perfection at this point. CH]]
+:PROPERTIES:
+:SRC: ZHUANG 3.2.2; Guo Qingfan 117; Wang Shumin 102; Fang Yong 93; Chen Guying 95
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:2a13:50::技蓋 / 莊子
+:CHARPOS: 50
+:END:
+*** 技@jì
+:PROPERTIES:
+:CONCEPT: uuid-81469afb-bd5e-4e4e-a691-3b1189c700cf / SKILLFUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 50
+:END:
+技@jì	[[tls:concept:SKILLFUL::#uuid-81469afb-bd5e-4e4e-a691-3b1189c700cf][SKILLFUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / skill, ingenuity
+*** 蓋@gài
+:PROPERTIES:
+:CONCEPT: uuid-ead57287-e68d-4ed5-a86b-facb5ef163b5 / REALITY
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 51
+:END:
+蓋@gài	[[tls:concept:REALITY::#uuid-ead57287-e68d-4ed5-a86b-facb5ef163b5][REALITY]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / in fact 蓋有以也 "there was reason for it, as it turns out", 蓋又自
+** 庖丁釋刀對曰	Cook Ting laid down his knife and replied,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.3; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a01:50::庖丁 / 莊子
+:CHARPOS: 50
+:END:
+*** 釋@shì
+:PROPERTIES:
+:CONCEPT: uuid-67b93a36-85c4-496b-9cb5-42b18adcab51 / DISCARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+釋@shì	[[tls:concept:DISCARD::#uuid-67b93a36-85c4-496b-9cb5-42b18adcab51][DISCARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / discard, abandon; put down, put aside, put away; reject and rid oneself of; dismiss and reject; give up (on a task)
+** 臣之所好者道也	"What I care about is the Way,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.3; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a02:50::「臣 / 莊子
+:CHARPOS: 50
+:END:
+*** 好@hào
+:PROPERTIES:
+:CONCEPT: uuid-adf06a4b-1144-4c0d-80ec-a7d8cfa15d53 / DESIRE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 53
+:END:
+好@hào	[[tls:concept:DESIRE::#uuid-adf06a4b-1144-4c0d-80ec-a7d8cfa15d53][DESIRE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / like (something); be fond of (something); LY 4.6: be truly fond of (goodness)
+*** 道@dào
+:PROPERTIES:
+:CONCEPT: uuid-4962e5de-1d55-461d-bade-2a850587a059 / METHOD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 55
+:END:
+道@dào	[[tls:concept:METHOD::#uuid-4962e5de-1d55-461d-bade-2a850587a059][METHOD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / the (morally correct) Way; the proper non-substance-like abstract metaphysical principle ensuring that all is well in the world
+** 進乎技矣	which goes beyond skill.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.3; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a03:50::進乎 / 莊子
+:CHARPOS: 50
+:END:
+*** 進@jìn
+:PROPERTIES:
+:CONCEPT: uuid-2cedbd16-a3f8-4b19-aa92-217cadae9865 / PROGRESS
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 50
+:END:
+進@jìn	[[tls:concept:PROGRESS::#uuid-2cedbd16-a3f8-4b19-aa92-217cadae9865][PROGRESS]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / be more advanced than
+*** 技@jì
+:PROPERTIES:
+:CONCEPT: uuid-81469afb-bd5e-4e4e-a691-3b1189c700cf / SKILLFUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 52
+:END:
+技@jì	[[tls:concept:SKILLFUL::#uuid-81469afb-bd5e-4e4e-a691-3b1189c700cf][SKILLFUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / skill, ingenuity
+** 始臣之解牛之時	When I first began cutting up oxen,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.3; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a04:50::始臣 / 莊子
+:CHARPOS: 50
+:END:
+*** 始@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-4d7c1ec2-3fe8-4d1f-b49d-3d2f68a25a82 / ORIGINALLY
+:SYN-FUNC: uuid-16ca95ce-1240-4773-8697-b6f5183ac53d
+:CHARPOS: 50
+:END:
+始@shǐ	[[tls:concept:ORIGINALLY::#uuid-4d7c1ec2-3fe8-4d1f-b49d-3d2f68a25a82][ORIGINALLY]]	V [[tls:syn-func::#uuid-16ca95ce-1240-4773-8697-b6f5183ac53d][vadS]] / in the very beginning, originally
+*** 解@jiě
+:PROPERTIES:
+:CONCEPT: uuid-efea145b-523b-4088-a698-bde410f00fc6 / CUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+解@jiě	[[tls:concept:CUT::#uuid-efea145b-523b-4088-a698-bde410f00fc6][CUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cut up and dismember (an ox); disect, carve up; [cut off][CA]
+** 所見无非牛者	all I could see was the ox itself.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.3; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a05:50::所見 / 莊子
+:CHARPOS: 50
+:END:
+*** 全@quán
+:PROPERTIES:
+:CONCEPT: uuid-a2b1aead-75ea-4096-84ff-3f19eb875609 / COMPLETE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CONCEPT: uuid-566f4594-69d7-49c6-a03f-2693476f239d / ALWAYS
+:SYN-FUNC: uuid-1b6dbf40-d82e-46e0-bd63-0fcffce8306b
+:CHARPOS: 50
+:END:
+全@quán	[[tls:concept:COMPLETE::#uuid-a2b1aead-75ea-4096-84ff-3f19eb875609][COMPLETE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / the whole N
+〓#無非@wúfēi	[[tls:concept:ALWAYS::#uuid-566f4594-69d7-49c6-a03f-2693476f239d][ALWAYS]]	V [[tls:syn-func::#uuid-1b6dbf40-d82e-46e0-bd63-0fcffce8306b][VPadN{PRED}]] / in no case not> always
+** 三年之後未嘗見全牛	After three years I no longer saw the whole ox.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.3; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a06:50::三年 / 莊子
+:CHARPOS: 50
+:END:
+*** 未@wèi
+:PROPERTIES:
+:CONCEPT: uuid-032009d4-35d6-4c44-aaa8-ae6a94abe7b6 / NEVER
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:CHARPOS: 54
+:END:
+未@wèi	[[tls:concept:NEVER::#uuid-032009d4-35d6-4c44-aaa8-ae6a94abe7b6][NEVER]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] / never; (henceforward/thenceforward) never
+*** 全@quán
+:PROPERTIES:
+:CONCEPT: uuid-a2b1aead-75ea-4096-84ff-3f19eb875609 / COMPLETE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 57
+:END:
+全@quán	[[tls:concept:COMPLETE::#uuid-a2b1aead-75ea-4096-84ff-3f19eb875609][COMPLETE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / the whole N
+** 臣以神遇	now I go at it by spirit
+:PROPERTIES:
+:SRC: ZHUANG 3.2.3; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a08:1::臣以 / 莊子
+:CHARPOS: 1
+:END:
+*** 神@shén
+:PROPERTIES:
+:CONCEPT: uuid-2966d748-5c31-4b81-ac09-8287fe9c1a60 / SOUL
+:SYN-FUNC: uuid-9cbb9197-e69a-49bc-a93c-a1afbbd07d29
+:CHARPOS: 3
+:END:
+神@shén	[[tls:concept:SOUL::#uuid-2966d748-5c31-4b81-ac09-8287fe9c1a60][SOUL]]	 [[tls:syn-func::#uuid-9cbb9197-e69a-49bc-a93c-a1afbbd07d29][nab(post-N)]] / spirit soul; the spirits (as distinct from the mind 心 and opposed to the body 形)
+** 而不以目視	and don't look with my eyes.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.3; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a08:50::而不 / 莊子
+:CHARPOS: 50
+:END:
+*** 目@mù
+:PROPERTIES:
+:CONCEPT: uuid-72ffa04a-eed4-4c23-93aa-5574ac8357c4 / EYE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+目@mù	[[tls:concept:EYE::#uuid-72ffa04a-eed4-4c23-93aa-5574ac8357c4][EYE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / eye
+** 官知止	Perception and understanding have come to a stop
+:PROPERTIES:
+:SRC: ZHUANG 3.2.4; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a09:50::官知 / 莊子
+:CHARPOS: 50
+:END:
+*** 官@guān
+:PROPERTIES:
+:CONCEPT: uuid-6032df44-bf50-44fc-8dd0-ddb376111720 / ORGAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+官@guān	[[tls:concept:ORGAN::#uuid-6032df44-bf50-44fc-8dd0-ddb376111720][ORGAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / sense organ, sense 五官 "the five senses"
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-6a84e3c8-8986-4ba6-b3ef-7c618c569cb3 / KNOW
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 51
+:END:
+知@zhī	[[tls:concept:KNOW::#uuid-6a84e3c8-8986-4ba6-b3ef-7c618c569cb3][KNOW]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / knowing something; knowing things; knowledge of things; discursive knowledge, conceptual knowledge
+** 而神欲行	and spirit moves where it wants.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.4; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a09:50::而神 / 莊子
+:CHARPOS: 50
+:END:
+*** 欲@yù / 慾@yù
+:PROPERTIES:
+:CONCEPT: uuid-ee9e27dd-c8d1-48b5-86d4-a3802a6f3f13 / DESIRE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+欲@yù / 慾@yù	[[tls:concept:DESIRE::#uuid-ee9e27dd-c8d1-48b5-86d4-a3802a6f3f13][DESIRE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / desires; preferences; impulse
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-3de85b88-4247-4a22-91f9-e970e5fdc1c0 / ACT
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 53
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-3de85b88-4247-4a22-91f9-e970e5fdc1c0][ACT]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / do things; act, behave as a moral agent; perform an act; engage in action
+** 依乎天理	I go along with the natural makeup,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.4; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a10:50::依乎 / 莊子
+:CHARPOS: 50
+:END:
+*** 依@yī
+:PROPERTIES:
+:CONCEPT: uuid-7df2d924-186d-43fe-b769-64bb2e0ca502 / CONFORM
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 50
+:END:
+依@yī	[[tls:concept:CONFORM::#uuid-7df2d924-186d-43fe-b769-64bb2e0ca502][CONFORM]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / conform to (rules)
+*** 天理@tiānlǐ
+:PROPERTIES:
+:CONCEPT: uuid-2be8d886-b4ec-4998-8d74-efec66bbb5c6 / PRINCIPLE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 52
+:END:
+天理@tiānlǐ	[[tls:concept:PRINCIPLE::#uuid-2be8d886-b4ec-4998-8d74-efec66bbb5c6][PRINCIPLE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / principles of Nature
+** 批大郤	strike in the big hollows,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.4; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a11:50::批大 / 莊子
+:CHARPOS: 50
+:END:
+*** 批@pī
+:PROPERTIES:
+:CONCEPT: uuid-3f823400-5136-47c3-9c87-672ee21e50a8 / STRIKE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CONCEPT: uuid-8dc1d385-5d10-4ebf-8251-dc9fae4602d2 / HOLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+批@pī	[[tls:concept:STRIKE::#uuid-3f823400-5136-47c3-9c87-672ee21e50a8][STRIKE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to hit; to beat; to slap; to strike into
+卻@què	[[tls:concept:HOLE::#uuid-8dc1d385-5d10-4ebf-8251-dc9fae4602d2][HOLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / crevice, hole, opening; gap
+** 導大窾	guide the knife through the big openings,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.4; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a12:50::導大 / 莊子
+:CHARPOS: 50
+:END:
+*** 窾@kuǎn
+:PROPERTIES:
+:CONCEPT: uuid-c735de1f-f7d3-4310-8cbc-9dc29f50887b / CAVITY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+窾@kuǎn	[[tls:concept:CAVITY::#uuid-c735de1f-f7d3-4310-8cbc-9dc29f50887b][CAVITY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / hole; cavity
+** 因其固然	and follow things as they are.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.4; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a13:50::因其 / 莊子
+:CHARPOS: 50
+:END:
+*** 因@yīn
+:PROPERTIES:
+:CONCEPT: uuid-3491d04e-fccc-4a67-8398-7a1602c0dc7f / RELY ON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+因@yīn	[[tls:concept:RELY ON::#uuid-3491d04e-fccc-4a67-8398-7a1602c0dc7f][RELY ON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / base oneself on (as the the Shang dynasty on the institutions of the Xia), utilise as a basis, utilise as a basis for power; make use of; rely on, take advantage of
+*** 固然@gùrán
+:PROPERTIES:
+:CONCEPT: uuid-ab9b1daf-ad02-48fe-955e-1fbc6984aa39 / NATURE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 52
+:END:
+固然@gùrán	[[tls:concept:NATURE::#uuid-ab9b1daf-ad02-48fe-955e-1fbc6984aa39][NATURE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / inherent nature
+** 而況大軱乎	much less a main joint.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.4; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a15:1::而況 / 莊子
+:CHARPOS: 1
+:END:
+*** 而況@érkuàng
+:PROPERTIES:
+:CONCEPT: uuid-54873b36-3d36-4127-a215-536931c6bc09 / HOW
+:SYN-FUNC: uuid-8864c819-1f34-460b-92d1-0c85be0f247c
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 1
+:END:
+而況@érkuàng	[[tls:concept:HOW::#uuid-54873b36-3d36-4127-a215-536931c6bc09][HOW]]	P [[tls:syn-func::#uuid-8864c819-1f34-460b-92d1-0c85be0f247c][PP+N.postS]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how much more
+** 良庖歲更刀	"A good cook changes his knife once a year-
+:PROPERTIES:
+:SRC: ZHUANG 3.2.5; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a16:50::良庖 / 莊子
+:CHARPOS: 50
+:END:
+*** 良@liáng
+:PROPERTIES:
+:CONCEPT: uuid-891597e9-a1bb-41e7-bbb4-1813e0a335bb / EXCELLENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CONCEPT: uuid-769a396a-f2f8-4411-8f71-42fcd7ede026 / COOK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 50
+:END:
+良@liáng	[[tls:concept:EXCELLENT::#uuid-891597e9-a1bb-41e7-bbb4-1813e0a335bb][EXCELLENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / fine; competent; efficient; excellent; preferred
+炮@páo / 庖@páo	[[tls:concept:COOK::#uuid-769a396a-f2f8-4411-8f71-42fcd7ede026][COOK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / a cook
+*** 歲@suì
+:PROPERTIES:
+:CONCEPT: uuid-cc1309f9-cefb-4f8f-9b45-ffacdcfcaa08 / YEAR
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 52
+:END:
+歲@suì	[[tls:concept:YEAR::#uuid-cc1309f9-cefb-4f8f-9b45-ffacdcfcaa08][YEAR]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / per year, every year; once a year; year after year
+*** 更@gēng
+:PROPERTIES:
+:CONCEPT: uuid-854fc2ad-fb1d-46ed-b9d3-fe973d2c7a82 / REPLACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+更@gēng	[[tls:concept:REPLACE::#uuid-854fc2ad-fb1d-46ed-b9d3-fe973d2c7a82][REPLACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / replace and change into something new
+** 割也	because he cuts.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.5; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a17:50::割也 / 莊子
+:CHARPOS: 50
+:END:
+*** 割@gē
+:PROPERTIES:
+:CONCEPT: uuid-0aedca3c-7195-4bc9-9c41-b43c1e03472f / CUT
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 50
+:END:
+割@gē	[[tls:concept:CUT::#uuid-0aedca3c-7195-4bc9-9c41-b43c1e03472f][CUT]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / cut; scrape; cut up things
+** 族庖月更刀	A mediocre cook changes his knife once a month-
+:PROPERTIES:
+:SRC: ZHUANG 3.2.5; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a18:50::族庖 / 莊子
+:CHARPOS: 50
+:END:
+*** 族@zú
+:PROPERTIES:
+:CONCEPT: uuid-4733cb5c-a966-4a41-8403-a3f85dc10fcb / ORDINARY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+族@zú	[[tls:concept:ORDINARY::#uuid-4733cb5c-a966-4a41-8403-a3f85dc10fcb][ORDINARY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / run of the mill, middling; less than extraordinary
+*** 月@yuè
+:PROPERTIES:
+:CONCEPT: uuid-28afea80-c43d-43f2-bfc5-5ead883047d2 / MONTH
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 52
+:END:
+月@yuè	[[tls:concept:MONTH::#uuid-28afea80-c43d-43f2-bfc5-5ead883047d2][MONTH]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / every month, month by month; once a month
+*** 更@gēng
+:PROPERTIES:
+:CONCEPT: uuid-854fc2ad-fb1d-46ed-b9d3-fe973d2c7a82 / REPLACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+更@gēng	[[tls:concept:REPLACE::#uuid-854fc2ad-fb1d-46ed-b9d3-fe973d2c7a82][REPLACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / replace and change into something new
+** 所解數千牛矣	and I've cut up thousands of oxen with it,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.5; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a21:1::所解 / 莊子
+:CHARPOS: 1
+:END:
+*** 解@jiě
+:PROPERTIES:
+:CONCEPT: uuid-efea145b-523b-4088-a698-bde410f00fc6 / CUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+解@jiě	[[tls:concept:CUT::#uuid-efea145b-523b-4088-a698-bde410f00fc6][CUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cut up and dismember (an ox); disect, carve up; [cut off][CA]
+** 而刀刃若新發於硎	and yet the blade is as good as though it had just come from the grindstone.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.5; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a22:50::而刀 / 莊子
+:CHARPOS: 50
+:END:
+*** 刀刃@dāorèn
+:PROPERTIES:
+:CONCEPT: uuid-1e3d788a-c5a0-4cd8-9a5c-febed6cd870e / BLADE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 51
+:END:
+刀刃@dāorèn	[[tls:concept:BLADE::#uuid-1e3d788a-c5a0-4cd8-9a5c-febed6cd870e][BLADE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / edge of a knife
+*** 新@xīn
+:PROPERTIES:
+:CONCEPT: uuid-8658dd11-782b-4668-8622-ae0542b631c5 / RECENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 54
+:END:
+新@xīn	[[tls:concept:RECENT::#uuid-8658dd11-782b-4668-8622-ae0542b631c5][RECENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / newly, recently; lately; just
+*** 硎@xíng
+:PROPERTIES:
+:CONCEPT: uuid-3d48fc44-aeca-4a1a-8780-8ddaf875c4ab / WHETSTONE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 57
+:END:
+硎@xíng	[[tls:concept:WHETSTONE::#uuid-3d48fc44-aeca-4a1a-8780-8ddaf875c4ab][WHETSTONE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / whetstone
+** 彼節者有間	There are spaces between the joints,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.5; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a23:50::彼節 / 莊子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 52
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 而刀刃者无厚	and the blade of the knife has really no thickness.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.5; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a24:50::而刀 / 莊子
+:CHARPOS: 50
+:END:
+*** 刀刃@dāorèn
+:PROPERTIES:
+:CONCEPT: uuid-1e3d788a-c5a0-4cd8-9a5c-febed6cd870e / BLADE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 51
+:END:
+刀刃@dāorèn	[[tls:concept:BLADE::#uuid-1e3d788a-c5a0-4cd8-9a5c-febed6cd870e][BLADE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / edge of a knife
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 53
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+*** 厚@hòu
+:PROPERTIES:
+:CONCEPT: uuid-6057c414-6842-4a1c-b0f6-a0184e2b1316 / THICK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 55
+:END:
+厚@hòu	[[tls:concept:THICK::#uuid-6057c414-6842-4a1c-b0f6-a0184e2b1316][THICK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / thickness 《禮記·檀弓上》："天子之棺四重，水兕革棺被之，其厚三寸。"《淮南子·俶真訓》："若夫無秋豪之微，蘆苻之厚，四達無境，通於無圻。"
+** 其於遊刃必有餘地矣	more than enough for the blade to play about it.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.5; Guo Qingfan 119; Wang Shumin 105; Fang Yong 93; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a26:4::其於 / 莊子
+:CHARPOS: 4
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-d2f24061-09dd-4c08-a7c9-0792855ba3f3 / FOR
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 5
+:END:
+於@yú	[[tls:concept:FOR::#uuid-d2f24061-09dd-4c08-a7c9-0792855ba3f3][FOR]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / for; for the sake of
+*** 遊@yóu / 游@yóu
+:PROPERTIES:
+:CONCEPT: uuid-dc151ac7-6fa2-4ce7-8b1a-fbbb85707a23 / TRAVEL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 6
+:END:
+遊@yóu / 游@yóu	[[tls:concept:TRAVEL::#uuid-dc151ac7-6fa2-4ce7-8b1a-fbbb85707a23][TRAVEL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / let roam freely (one's eyes, or a knife when one is a butcher etc)
+*** 餘@yú
+:PROPERTIES:
+:CONCEPT: uuid-43dbcf18-1097-41b1-a884-02567d4cc58f / SURPLUS
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 10
+:END:
+餘@yú	[[tls:concept:SURPLUS::#uuid-43dbcf18-1097-41b1-a884-02567d4cc58f][SURPLUS]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / remaining; left over, superfluous; more than; surplus, extra
+** 是以十九年而刀刃若新發於硎	That's why after nineteen yearsthe blade of my knife is still as good as when it first came from the grindstone.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.6; Guo Qingfan 119; Wang Shumin 105; Fang Yong 94; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a27:50::是以 / 莊子
+:CHARPOS: 50
+:END:
+*** 刃@rèn
+:PROPERTIES:
+:CONCEPT: uuid-a0d1fcd3-1abc-4a01-8b68-6cf8c80d577b / BLADE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 57
+:END:
+刃@rèn	[[tls:concept:BLADE::#uuid-a0d1fcd3-1abc-4a01-8b68-6cf8c80d577b][BLADE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / blade of a dagger, axe, or sword, cutting edge
+*** 新@xīn
+:PROPERTIES:
+:CONCEPT: uuid-8658dd11-782b-4668-8622-ae0542b631c5 / RECENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 59
+:END:
+新@xīn	[[tls:concept:RECENT::#uuid-8658dd11-782b-4668-8622-ae0542b631c5][RECENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / newly, recently; lately; just
+*** 硎@xíng
+:PROPERTIES:
+:CONCEPT: uuid-3d48fc44-aeca-4a1a-8780-8ddaf875c4ab / WHETSTONE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 62
+:END:
+硎@xíng	[[tls:concept:WHETSTONE::#uuid-3d48fc44-aeca-4a1a-8780-8ddaf875c4ab][WHETSTONE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / whetstone
+** 雖然每至於族	However, whenever I come to a complicated place,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.6; Guo Qingfan 119; Wang Shumin 105; Fang Yong 94; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a28:50::雖然 / 莊子
+:CHARPOS: 50
+:END:
+*** 每@měi
+:PROPERTIES:
+:CONCEPT: uuid-67774712-95cc-40ed-b703-a0115bb6ba86 / WHEN
+:SYN-FUNC: uuid-3f998e40-1964-4bb5-b598-323cc148c1ea
+:CHARPOS: 52
+:END:
+每@měi	[[tls:concept:WHEN::#uuid-67774712-95cc-40ed-b703-a0115bb6ba86][WHEN]]	P [[tls:syn-func::#uuid-3f998e40-1964-4bb5-b598-323cc148c1ea][padV1.adV2]] / whenever
+*** 至@zhì
+:PROPERTIES:
+:CONCEPT: uuid-bd8e6939-4f15-479d-a9d6-154318d961af / REACH
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 53
+:END:
+至@zhì	[[tls:concept:REACH::#uuid-bd8e6939-4f15-479d-a9d6-154318d961af][REACH]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / reach as far as (a place)
+** 怵然為戒	tell myself to watch out and be careful, [[lit: exercise carefulness??]]
+:PROPERTIES:
+:SRC: ZHUANG 3.2.6; Guo Qingfan 119; Wang Shumin 105; Fang Yong 94; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a30:1::怵然 / 莊子
+:CHARPOS: 1
+:END:
+*** 怵@chù
+:PROPERTIES:
+:CONCEPT: uuid-8a6991ab-fa9a-49d7-b2da-e38a2c5f6cea / FEAR
+:SYN-FUNC: uuid-cbdc59ff-fffb-4336-9904-e9ce9a978ef6
+:CHARPOS: 1
+:END:
+怵@chù	[[tls:concept:FEAR::#uuid-8a6991ab-fa9a-49d7-b2da-e38a2c5f6cea][FEAR]]	V [[tls:syn-func::#uuid-cbdc59ff-fffb-4336-9904-e9ce9a978ef6][vi-P]] / be fearful, be wary
+*** 戒@jiè
+:PROPERTIES:
+:CONCEPT: uuid-d7a31aa3-5264-48b1-947b-e0e50ed55a8a / CAUTIOUS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+戒@jiè	[[tls:concept:CAUTIOUS::#uuid-d7a31aa3-5264-48b1-947b-e0e50ed55a8a][CAUTIOUS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / cautionary rules, rules of circumspection
+** 視為止	keep my eyes on what I'm doing, [[In looking I practise unchanging imobility. CH]]
+:PROPERTIES:
+:SRC: ZHUANG 3.2.6; Guo Qingfan 119; Wang Shumin 105; Fang Yong 94; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a31:50::視為 / 莊子
+:CHARPOS: 50
+:END:
+*** 視@shì
+:PROPERTIES:
+:CONCEPT: uuid-f3c4fefd-476e-4e60-8390-a4c04eb30ba1 / LOOK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+視@shì	[[tls:concept:LOOK::#uuid-f3c4fefd-476e-4e60-8390-a4c04eb30ba1][LOOK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / looking at things; the (concentrated) regard; eyesight
+** 動刀甚微	and move the knife with the greatest subtlety,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.7; Guo Qingfan 119; Wang Shumin 105; Fang Yong 94; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a33:1::動刀 / 莊子
+:CHARPOS: 1
+:END:
+*** 甚@shèn
+:PROPERTIES:
+:CONCEPT: uuid-4109828e-cdbf-4cad-b647-3555f0591072 / INTENSELY
+:SYN-FUNC: uuid-8e105901-3fec-4d17-a5b5-4b8daacb98fa
+:CHARPOS: 3
+:END:
+甚@shèn	[[tls:concept:INTENSELY::#uuid-4109828e-cdbf-4cad-b647-3555f0591072][INTENSELY]]	V [[tls:syn-func::#uuid-8e105901-3fec-4d17-a5b5-4b8daacb98fa][vadV.postadN]] / 置表甚長"put out a long advertisement"
+*** 微@wēi
+:PROPERTIES:
+:CONCEPT: uuid-4e59e9e6-a9b7-4983-87b4-cc5f9dd33d7a / TENUOUS
+:SYN-FUNC: uuid-6bcabe16-89d8-45be-aa0b-57177f67b1f9
+:CHARPOS: 4
+:END:
+微@wēi	[[tls:concept:TENUOUS::#uuid-4e59e9e6-a9b7-4983-87b4-cc5f9dd33d7a][TENUOUS]]	V [[tls:syn-func::#uuid-6bcabe16-89d8-45be-aa0b-57177f67b1f9][vpostadV]] / subtly, with small movements
+** 謋然已解	- flop! the whole thing comes apart
+:PROPERTIES:
+:SRC: ZHUANG 3.2.7; Guo Qingfan 119; Wang Shumin 105; Fang Yong 94; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a34:50::謋然 / 莊子
+:CHARPOS: 50
+:END:
+*** 解@jiě
+:PROPERTIES:
+:CONCEPT: uuid-693bb532-3d05-4ab1-830c-240882371e9f / CUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+解@jiě	[[tls:concept:CUT::#uuid-693bb532-3d05-4ab1-830c-240882371e9f][CUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be cut apart, be torn asunder
+** 如土委地	ike a clod of earth crumbling to the ground.
+:PROPERTIES:
+:SRC: ZHUANG 3.2.7; Guo Qingfan 119; Wang Shumin 105; Fang Yong 94; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a35:50::如土 / 莊子
+:CHARPOS: 50
+:END:
+*** 如@rú
+:PROPERTIES:
+:CONCEPT: uuid-3246d808-ee51-478a-b252-b229af9d4d2a / RESEMBLE
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:CHARPOS: 50
+:END:
+如@rú	[[tls:concept:RESEMBLE::#uuid-3246d808-ee51-478a-b252-b229af9d4d2a][RESEMBLE]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] / 如土委地 resemble a fact, situation or action expressed by a sentence
+*** 委@wěi
+:PROPERTIES:
+:CONCEPT: uuid-e7ae21ad-b3f4-4338-94f1-328c2637e71a / FALL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+委@wěi	[[tls:concept:FALL::#uuid-e7ae21ad-b3f4-4338-94f1-328c2637e71a][FALL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / fall on (the ground)
+*** 地@dì
+:PROPERTIES:
+:CONCEPT: uuid-96ab2dff-fc97-4160-8522-6534e6e8d37e / FLOOR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+地@dì	[[tls:concept:FLOOR::#uuid-96ab2dff-fc97-4160-8522-6534e6e8d37e][FLOOR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / floor, ground
+** 提刀而立	I stand there holding the knife
+:PROPERTIES:
+:SRC: ZHUANG 3.2.7; Guo Qingfan 119; Wang Shumin 105; Fang Yong 94; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a36:50::提刀 / 莊子
+:CHARPOS: 50
+:END:
+*** 提@tí
+:PROPERTIES:
+:CONCEPT: uuid-031d5e2e-8aae-4cad-afa7-ec990dd6e4af / LIFT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+提@tí	[[tls:concept:LIFT::#uuid-031d5e2e-8aae-4cad-afa7-ec990dd6e4af][LIFT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lift, hold up in one's hand
+*** 提@tí
+:PROPERTIES:
+:CONCEPT: uuid-dcf751df-9983-4aff-b36e-745ffa4d47ca / PICK UP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+提@tí	[[tls:concept:PICK UP::#uuid-dcf751df-9983-4aff-b36e-745ffa4d47ca][PICK UP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / GY: pick up (a drum); LIJI: lift up ceremoniously up to the level of the belt
+** 為之四顧	and look all around me,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.7; Guo Qingfan 119; Wang Shumin 105; Fang Yong 94; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a37:50::為之 / 莊子
+:CHARPOS: 50
+:END:
+*** 四@sì
+:PROPERTIES:
+:CONCEPT: uuid-eecd09c7-9196-4848-aded-d75489b214a3 / EVERYWHERE
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2
+:CHARPOS: 52
+:END:
+四@sì	[[tls:concept:EVERYWHERE::#uuid-eecd09c7-9196-4848-aded-d75489b214a3][EVERYWHERE]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2][place]]} / in all four directions 四顧"look in all directions".
+** 為之躊躇滿志	completely satisfied and reluctant to move on,
+:PROPERTIES:
+:SRC: ZHUANG 3.2.7; Guo Qingfan 119; Wang Shumin 105; Fang Yong 94; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a38:50::為之 / 莊子
+:CHARPOS: 50
+:END:
+*** 躊躇@chóuchú
+:PROPERTIES:
+:CONCEPT: uuid-953aece3-fa7b-4441-b535-eb928b212283 / HESITATE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+躊躇@chóuchú	[[tls:concept:HESITATE::#uuid-953aece3-fa7b-4441-b535-eb928b212283][HESITATE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / hesitate; be hesitant; linger on
+*** 滿志@mǎnzhì
+:PROPERTIES:
+:CONCEPT: uuid-d4913d2d-f5dc-42db-8280-f559c58b2aca / SATISFACTORY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 54
+:END:
+滿志@mǎnzhì	[[tls:concept:SATISFACTORY::#uuid-d4913d2d-f5dc-42db-8280-f559c58b2aca][SATISFACTORY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be satisfied
+** 得養生焉	and learned how to care for life!"
+:PROPERTIES:
+:SRC: ZHUANG 3.2.7; Guo Qingfan 119; Wang Shumin 105; Fang Yong 94; Chen Guying 96
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:3a43:1::得養 / 莊子
+:CHARPOS: 1
+:END:
+*** 養生@yǎngshēng
+:PROPERTIES:
+:CONCEPT: uuid-b08aa99d-3adf-4f48-8fa7-96e8e044cc32 / CULTIVATE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+養生@yǎngshēng	[[tls:concept:CULTIVATE::#uuid-b08aa99d-3adf-4f48-8fa7-96e8e044cc32][CULTIVATE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / nourishment of life
+** 惡乎介也	How did he come to be footless?
+:PROPERTIES:
+:SRC: ZHUANG 3.3.1; Guo Qingfan 124; Wang Shumin 109; Fang Yong 99; Chen Guying 100
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:4a03:1::惡乎 / 莊子
+:CHARPOS: 1
+:END:
+*** 介@jiè
+:PROPERTIES:
+:CONCEPT: uuid-9579b89d-3850-4313-adff-5c317a0ef15b / MUTILATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+介@jiè	[[tls:concept:MUTILATE::#uuid-9579b89d-3850-4313-adff-5c317a0ef15b][MUTILATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / have an amputated foot, be mutilated ZHUANG: 介也 "be mutilated"
+** 天與其人與	Was it Heaven? Or was it man?"
+:PROPERTIES:
+:SRC: ZHUANG 3.3.1; Guo Qingfan 124; Wang Shumin 109; Fang Yong 99; Chen Guying 100
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:4a04:50::天與 / 莊子
+:CHARPOS: 50
+:END:
+*** 歟@yú / 與@yú
+:PROPERTIES:
+:CONCEPT: uuid-9116263f-4e55-41fb-a95e-7de540cb4338 / INTERROGATORY PARTICLES
+:SYN-FUNC: uuid-c086c9bd-8ec5-463f-9803-c938c8b0d4d9
+:SEM-FEAT: uuid-8252b779-cbd7-4bf8-9774-0c9cc9ac322b
+:CHARPOS: 50
+:END:
+歟@yú / 與@yú	[[tls:concept:INTERROGATORY PARTICLES::#uuid-9116263f-4e55-41fb-a95e-7de540cb4338][INTERROGATORY PARTICLES]]	P [[tls:syn-func::#uuid-c086c9bd-8ec5-463f-9803-c938c8b0d4d9][ppostadS]] {[[tls:sem-feat::#uuid-8252b779-cbd7-4bf8-9774-0c9cc9ac322b][contraction]]} / particle indicating questions, contraction of 也乎
+*** 其@qí
+:PROPERTIES:
+:CONCEPT: uuid-f5cc53b1-ecb5-4b11-bb06-62b8c1375cd2 / OR
+:SYN-FUNC: uuid-d4e1570d-69fc-493c-b2ec-d1f0f5b56e05
+:CHARPOS: 52
+:END:
+其@qí	[[tls:concept:OR::#uuid-f5cc53b1-ecb5-4b11-bb06-62b8c1375cd2][OR]]	P [[tls:syn-func::#uuid-d4e1570d-69fc-493c-b2ec-d1f0f5b56e05][padS1.post-S2]] / or shall we, or should we?; or perhaps; either... or;Note OBI: 其 V 其弗 V: whether we V or not　ZGC: 其不乎？ "or not?"
+** 曰天也非人也	"It was Heaven, not man," said the commander.
+:PROPERTIES:
+:SRC: ZHUANG 3.3.1; Guo Qingfan 124; Wang Shumin 109; Fang Yong 99; Chen Guying 100
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:4a05:50::曰： / 莊子
+:CHARPOS: 50
+:END:
+*** 天@tiān
+:PROPERTIES:
+:CONCEPT: uuid-65f26a10-13b6-407e-8924-f065f8f2f484 / NATURALLY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 51
+:END:
+天@tiān	[[tls:concept:NATURALLY::#uuid-65f26a10-13b6-407e-8924-f065f8f2f484][NATURALLY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / Nature; what is natural; natural endowment, natural features
+** 人之貌有與也	Men's looks are given to them.
+:PROPERTIES:
+:SRC: ZHUANG 3.3.1; Guo Qingfan 124; Wang Shumin 109; Fang Yong 99; Chen Guying 100
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:4a08:1::人之 / 莊子
+:CHARPOS: 1
+:END:
+*** 貌@mào
+:PROPERTIES:
+:CONCEPT: uuid-b4d35f2f-8983-42a1-8ba1-061afe1ae124 / SHAPE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+貌@mào	[[tls:concept:SHAPE::#uuid-b4d35f2f-8983-42a1-8ba1-061afe1ae124][SHAPE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / external shape, contour
+** 澤雉十步一啄	The swamp pheasant has to walk ten paces for one peck
+:PROPERTIES:
+:SRC: ZHUANG 3.3.2; Guo Qingfan 126; Wang Shumin 109; Fang Yong 99; Chen Guying 101
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:4a11:1::澤雉 / 莊子
+:CHARPOS: 1
+:END:
+*** 雉@zhì
+:PROPERTIES:
+:CONCEPT: uuid-930030db-cb1b-441a-862e-ce1617e6eb27 / BIRDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+雉@zhì	[[tls:concept:BIRDS::#uuid-930030db-cb1b-441a-862e-ce1617e6eb27][BIRDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / pheasant
+*** 一@yī
+:PROPERTIES:
+:CONCEPT: uuid-88321a55-3eac-478d-996c-acf56f928521 / ONCE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 5
+:END:
+一@yī	[[tls:concept:ONCE::#uuid-88321a55-3eac-478d-996c-acf56f928521][ONCE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / one time; for the first time; once (a day)
+*** 啄@zhuó
+:PROPERTIES:
+:CONCEPT: uuid-0fcc48bc-d802-4aae-a27c-f1000e719f43 / BITE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 6
+:END:
+啄@zhuó	[[tls:concept:BITE::#uuid-0fcc48bc-d802-4aae-a27c-f1000e719f43][BITE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / peck at things, eat
+** 百步一飲	and a hundred paces for one drink,
+:PROPERTIES:
+:SRC: ZHUANG 3.3.2; Guo Qingfan 126; Wang Shumin 109; Fang Yong 99; Chen Guying 101
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:4a12:50::百步 / 莊子
+:CHARPOS: 50
+:END:
+*** 一@yī
+:PROPERTIES:
+:CONCEPT: uuid-88321a55-3eac-478d-996c-acf56f928521 / ONCE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+一@yī	[[tls:concept:ONCE::#uuid-88321a55-3eac-478d-996c-acf56f928521][ONCE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / one time; for the first time; once (a day)
+*** 飲@yǐn
+:PROPERTIES:
+:CONCEPT: uuid-5cf95b78-94fb-4822-aebb-233af7d98b2f / DRINK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+飲@yǐn	[[tls:concept:DRINK::#uuid-5cf95b78-94fb-4822-aebb-233af7d98b2f][DRINK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / propose a toast [CHANGE SYNONYM GROUP TO "GREET, SALUTE"]
+** 不蘄畜乎樊中	but it doesn't want to be kept in a cage.
+:PROPERTIES:
+:SRC: ZHUANG 3.3.2; Guo Qingfan 126; Wang Shumin 109; Fang Yong 99; Chen Guying 101
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:4a13:50::不蘄 / 莊子
+:CHARPOS: 50
+:END:
+*** 蘄@qí
+:PROPERTIES:
+:CONCEPT: uuid-33206542-8ade-4b50-92db-992dd1b3cae1 / SEEK
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CONCEPT: uuid-329c495e-2d12-4008-9ddc-ff800766a61d / REAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 51
+:END:
+蘄@qí	[[tls:concept:SEEK::#uuid-33206542-8ade-4b50-92db-992dd1b3cae1][SEEK]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / wish to; hope for; prefer?? (ZHUANG)
+蓄@xù / 畜@xù	[[tls:concept:REAR::#uuid-329c495e-2d12-4008-9ddc-ff800766a61d][REAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be reared; be brought up
+*** 樊@fán
+:PROPERTIES:
+:CONCEPT: uuid-cbf385c7-eb17-4145-8265-8859c495d7d4 / CAGE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+樊@fán	[[tls:concept:CAGE::#uuid-cbf385c7-eb17-4145-8265-8859c495d7d4][CAGE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / cage
+** 神雖王不善也	Though you treat it like a king, its spirit won't be content."
+:PROPERTIES:
+:SRC: ZHUANG 3.3.2; Guo Qingfan 126; Wang Shumin 109; Fang Yong 99; Chen Guying 101
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:4a14:50::神雖 / 莊子
+:CHARPOS: 50
+:END:
+*** 神@shén
+:PROPERTIES:
+:CONCEPT: uuid-2966d748-5c31-4b81-ac09-8287fe9c1a60 / SOUL
+:SYN-FUNC: uuid-9cbb9197-e69a-49bc-a93c-a1afbbd07d29
+:CHARPOS: 50
+:END:
+神@shén	[[tls:concept:SOUL::#uuid-2966d748-5c31-4b81-ac09-8287fe9c1a60][SOUL]]	 [[tls:syn-func::#uuid-9cbb9197-e69a-49bc-a93c-a1afbbd07d29][nab(post-N)]] / spirit soul; the spirits (as distinct from the mind 心 and opposed to the body 形)
+*** 王@wàng
+:PROPERTIES:
+:CONCEPT: uuid-41721804-8159-42b3-8af9-b5bc09ed6036 / GOVERN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+王@wàng	[[tls:concept:GOVERN::#uuid-41721804-8159-42b3-8af9-b5bc09ed6036][GOVERN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / gain royal supremacy, reign supreme; become a king, get to rule as king; become a proper king
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-2aaabb92-a75d-4d90-8145-06bbbf7a2646 / SATISFACTORY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 54
+:END:
+善@shàn	[[tls:concept:SATISFACTORY::#uuid-2aaabb92-a75d-4d90-8145-06bbbf7a2646][SATISFACTORY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / feel in good shape, feel satisfied
+** 老聃死秦失弔之	When Lao Tan6 died, Chin Shih went to mourn for him;
+:PROPERTIES:
+:SRC: ZHUANG 3.3.3; Guo Qingfan 127; Wang Shumin 111; Fang Yong 100; Chen Guying 101
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:5a01:50::老聃 / 莊子
+:CHARPOS: 50
+:END:
+*** 弔@diào / @
+:PROPERTIES:
+:CONCEPT: uuid-9d9c154b-3a53-49b7-957b-89b6c50c844d / MOURNING
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+弔@diào / @	[[tls:concept:MOURNING::#uuid-9d9c154b-3a53-49b7-957b-89b6c50c844d][MOURNING]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to bemoan the loss of (a person dear to one but not directly family-related to one), typically through a ritual visit of the bereaved family
+** 三號而出	but after giving three cries, he left the room.
+:PROPERTIES:
+:SRC: ZHUANG 3.3.3; Guo Qingfan 127; Wang Shumin 111; Fang Yong 100; Chen Guying 101
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:5a02:50::三號 / 莊子
+:CHARPOS: 50
+:END:
+*** 號@háo
+:PROPERTIES:
+:CONCEPT: uuid-c49c75b5-5f59-4ae3-a220-aac754eeb109 / WEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+號@háo	[[tls:concept:WEEP::#uuid-c49c75b5-5f59-4ae3-a220-aac754eeb109][WEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wail loudly
+** 弟子曰非夫子之友邪	"Weren't you a friend of the Master?" asked Lao Tzu's disciples.
+:PROPERTIES:
+:SRC: ZHUANG 3.3.3; Guo Qingfan 127; Wang Shumin 111; Fang Yong 100; Chen Guying 101
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:5a03:50::弟子 / 莊子
+:CHARPOS: 50
+:END:
+*** 弟子@dìzǐ
+:PROPERTIES:
+:CONCEPT: uuid-04dc144e-ef2b-43b2-878c-890b04983d91 / STUDENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 50
+:END:
+弟子@dìzǐ	[[tls:concept:STUDENT::#uuid-04dc144e-ef2b-43b2-878c-890b04983d91][STUDENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / an (identifiabe) disciple, the disciple
+** 向吾入而弔焉	A little while ago, when I went in to mourn,
+:PROPERTIES:
+:SRC: ZHUANG 3.3.4; Guo Qingfan 128; Wang Shumin 111; Fang Yong 100; Chen Guying 103
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:5a12:1::向吾 / 莊子
+:CHARPOS: 1
+:END:
+*** 曏@xiàng / 嚮@xiàng / 向@xiàng / @
+:PROPERTIES:
+:CONCEPT: uuid-9f19c045-cfc4-46e2-a0c3-04cf35f59df3 / PAST
+:SYN-FUNC: uuid-b7691903-ed54-4f79-9abc-1d576fac56b7
+:CHARPOS: 1
+:END:
+曏@xiàng / 嚮@xiàng / 向@xiàng / @	[[tls:concept:PAST::#uuid-9f19c045-cfc4-46e2-a0c3-04cf35f59df3][PAST]]	N [[tls:syn-func::#uuid-b7691903-ed54-4f79-9abc-1d576fac56b7][nadSS]] / not long ago
+*** 弔@diào / @
+:PROPERTIES:
+:CONCEPT: uuid-9d9c154b-3a53-49b7-957b-89b6c50c844d / MOURNING
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+弔@diào / @	[[tls:concept:MOURNING::#uuid-9d9c154b-3a53-49b7-957b-89b6c50c844d][MOURNING]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to bemoan the loss of (a person dear to one but not directly family-related to one), typically through a ritual visit of the bereaved family
+** 必有不蘄言而言	he must have done something to make them talk about him, though he didn't ask them to talk,
+:PROPERTIES:
+:SRC: ZHUANG 3.3.4; Guo Qingfan 128; Wang Shumin 111; Fang Yong 100; Chen Guying 103
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:5a16:1::必有 / 莊子
+:CHARPOS: 1
+:END:
+*** 蘄@qí
+:PROPERTIES:
+:CONCEPT: uuid-33206542-8ade-4b50-92db-992dd1b3cae1 / SEEK
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 4
+:END:
+蘄@qí	[[tls:concept:SEEK::#uuid-33206542-8ade-4b50-92db-992dd1b3cae1][SEEK]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / wish to; hope for; prefer?? (ZHUANG)
+** 不蘄哭而哭者	or make them weep for him, though he didn't ask them to weep.
+:PROPERTIES:
+:SRC: ZHUANG 3.3.4; Guo Qingfan 128; Wang Shumin 111; Fang Yong 100; Chen Guying 103
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_003:5a17:50::不蘄 / 莊子
+:CHARPOS: 50
+:END:
+*** 蘄@qí
+:PROPERTIES:
+:CONCEPT: uuid-33206542-8ade-4b50-92db-992dd1b3cae1 / SEEK
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+蘄@qí	[[tls:concept:SEEK::#uuid-33206542-8ade-4b50-92db-992dd1b3cae1][SEEK]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / wish to; hope for; prefer?? (ZHUANG)

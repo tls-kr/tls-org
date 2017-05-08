@@ -1,0 +1,34 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_339
+#+DATE: 2017-02-08T16:41:30+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 百姓無被兵之患	the people avoid the distress of war,
+:PROPERTIES:
+:SRC: ZGC 24.6.4; tr. Crump 1979 no. 129, p.160, ed. Shanghaiguji p. 865
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_339:2a16:1::百姓 / 戰國策
+:CHARPOS: 1
+:END:
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-3cd96c28-c477-4520-ae63-9ff7632ca79c / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-b6dffda3-770c-4e82-8329-6903528b1ab9
+:CHARPOS: 1
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-3cd96c28-c477-4520-ae63-9ff7632ca79c][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-b6dffda3-770c-4e82-8329-6903528b1ab9][common]]} / the (taxpaying) people (i.e. the entire population, particularly the common people like the peasants)
+*** 被@bèi
+:PROPERTIES:
+:CONCEPT: uuid-1df7b6b8-0cee-43bd-97c8-bfca578c04e0 / PASSIVE MARKER
+:SYN-FUNC: uuid-3e4d7784-23b7-4027-bac6-92ba590e8257
+:CHARPOS: 4
+:END:
+被@bèi	[[tls:concept:PASSIVE MARKER::#uuid-1df7b6b8-0cee-43bd-97c8-bfca578c04e0][PASSIVE MARKER]]	V [[tls:syn-func::#uuid-3e4d7784-23b7-4027-bac6-92ba590e8257][vt{oN.}+V{0}{PASS}]] / (be exposed to>) marker of passivisation
+*** 兵@bīng
+:PROPERTIES:
+:CONCEPT: uuid-87c03bcf-0d51-47e5-beb0-8244b3dc19ae / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 5
+:END:
+兵@bīng	[[tls:concept:ATTACK::#uuid-87c03bcf-0d51-47e5-beb0-8244b3dc19ae][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / launch an armed attack on

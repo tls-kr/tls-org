@@ -1,0 +1,98 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_078
+#+DATE: 2017-02-08T16:41:17+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 和不成	someone said to Wei Jan,
+:PROPERTIES:
+:SRC: ZGC 5.4.1; tr. Crump 1979 no. 87, p 91, ed. Shanghaiguji p. 172 A fragment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_078:1a02:1::「和 / 戰國策
+:CHARPOS: 1
+:END:
+*** 成@chéng
+:PROPERTIES:
+:CONCEPT: uuid-d4c4b0eb-200e-42f4-8787-7fc22af49b17 / PEACE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+成@chéng	[[tls:concept:PEACE::#uuid-d4c4b0eb-200e-42f4-8787-7fc22af49b17][PEACE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / make peace, offer peace; sue for peace
+** 兵必出	'then troops must not be used again
+:PROPERTIES:
+:SRC: ZGC 5.4.1; tr. Crump 1979 no. 87, p 91, ed. Shanghaiguji p. 172 A fragment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_078:1a03:50::兵必 / 戰國策
+:CHARPOS: 50
+:END:
+*** 兵@bīng
+:PROPERTIES:
+:CONCEPT: uuid-52412632-776f-43da-a2d7-596a55a8b1e8 / ARMY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 50
+:END:
+兵@bīng	[[tls:concept:ARMY::#uuid-52412632-776f-43da-a2d7-596a55a8b1e8][ARMY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / troops, armed forces; military support; military force
+** 戰勝	If he is victorious
+:PROPERTIES:
+:SRC: ZGC 5.4.1; tr. Crump 1979 no. 87, p 91, ed. Shanghaiguji p. 172 A fragment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_078:1a06:1::戰勝 / 戰國策
+:CHARPOS: 1
+:END:
+*** 戰勝@zhànshèng
+:PROPERTIES:
+:CONCEPT: uuid-23b6e4ea-a6dc-45b9-86dd-352ab050acb8 / WIN
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 1
+:END:
+戰勝@zhànshèng	[[tls:concept:WIN::#uuid-23b6e4ea-a6dc-45b9-86dd-352ab050acb8][WIN]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / fight so as to win> fight a victorious battle, win a/the battle
+** 必窮公	you will be in difficulties;
+:PROPERTIES:
+:SRC: ZGC 5.4.1; tr. Crump 1979 no. 87, p 91, ed. Shanghaiguji p. 172 A fragment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_078:1a07:50::必窮 / 戰國策
+:CHARPOS: 50
+:END:
+*** 窮@qióng
+:PROPERTIES:
+:CONCEPT: uuid-1ebb55d4-42d4-4535-b254-78309d0f01ba / DISTRESS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 51
+:END:
+窮@qióng	[[tls:concept:DISTRESS::#uuid-1ebb55d4-42d4-4535-b254-78309d0f01ba][DISTRESS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / drive to exhaustion, wear out completely; put in a tight spot
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-fb0f5f81-b4e4-4a5d-9545-1a23d00f0e64 / YOU
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:CHARPOS: 52
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-fb0f5f81-b4e4-4a5d-9545-1a23d00f0e64][YOU]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] / you, sir
+** 必事趙從公	he will [make alliance with Chao?]136
+:PROPERTIES:
+:SRC: ZGC 5.4.1; tr. Crump 1979 no. 87, p 91, ed. Shanghaiguji p. 172 A fragment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_078:1a09:1::必事 / 戰國策
+:CHARPOS: 1
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-fb0f5f81-b4e4-4a5d-9545-1a23d00f0e64 / YOU
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:CHARPOS: 5
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-fb0f5f81-b4e4-4a5d-9545-1a23d00f0e64][YOU]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] / you, sir
+** 公不若毋多	The best thing for you to do is [?].137
+:PROPERTIES:
+:SRC: ZGC 5.4.1; tr. Crump 1979 no. 87, p 91, ed. Shanghaiguji p. 172 A fragment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_078:1a11:1::公不 / 戰國策
+:CHARPOS: 1
+:END:
+*** 不若@bùruò
+:PROPERTIES:
+:CONCEPT: uuid-a4123775-040f-4d24-aecb-4e929019308d / SHOULD
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 2
+:END:
+不若@bùruò	[[tls:concept:SHOULD::#uuid-a4123775-040f-4d24-aecb-4e929019308d][SHOULD]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / had better, must

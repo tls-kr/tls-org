@@ -1,0 +1,519 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 論衡 KR3j0080_014
+#+DATE: 2017-02-08T16:43:27+0900
+#+PROPERTY: COMMIT 4527326cad354527d529ce18236a9771ae63de14
+** 此言妄也	This assertion is preposterous.
+:PROPERTIES:
+:SRC: LH 14.1.1; Liu 1990:142 Nylan, ™´∂’Ωg
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:1a03:1::此言 / 論衡
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-8e8b8acb-9aa1-45b3-96f0-a3b9b414acd5 / THIS
+:SYN-FUNC: uuid-e81e5db1-7207-4450-a18d-27a597c5fd67
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-8e8b8acb-9aa1-45b3-96f0-a3b9b414acd5][THIS]]	N [[tls:syn-func::#uuid-e81e5db1-7207-4450-a18d-27a597c5fd67][npro.adNab]] / this 此說之難"These difficulties with persusasion"
+** 且夫婦不故生子	And from the fact that husband and wife do not intentionally beget a child,
+:PROPERTIES:
+:SRC: LH 14.1.2; Liu 1990:144
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:2a09:1::且夫 / 論衡
+:CHARPOS: 1
+:END:
+*** 夫@fū
+:PROPERTIES:
+:CONCEPT: uuid-3fd88032-cc23-40f0-8582-1fca7b71e575 / HUSBAND
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+夫@fū	[[tls:concept:HUSBAND::#uuid-3fd88032-cc23-40f0-8582-1fca7b71e575][HUSBAND]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a husband in general;
+*** 婦@fù
+:PROPERTIES:
+:CONCEPT: uuid-5c01e554-335e-496a-bd54-87ae838db2f2 / WIFE
+:SYN-FUNC: uuid-3473071e-1407-4804-a185-2db288ee8726
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+婦@fù	[[tls:concept:WIFE::#uuid-5c01e554-335e-496a-bd54-87ae838db2f2][WIFE]]	N [[tls:syn-func::#uuid-3473071e-1407-4804-a185-2db288ee8726][nt]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a wife in general
+** 造化為工乎	and the process of fashioning is the work done?
+:PROPERTIES:
+:SRC: LH 14.2.1; Liu 1990:145
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:3a08:1::造化 / 論衡
+:CHARPOS: 1
+:END:
+*** 造化@zàohuà
+:PROPERTIES:
+:CONCEPT: uuid-779e9b94-08ae-49fe-8467-359670379850 / CREATE
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:CHARPOS: 1
+:END:
+造化@zàohuà	[[tls:concept:CREATE::#uuid-779e9b94-08ae-49fe-8467-359670379850][CREATE]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] / the fashioner and transformer of things (short for 造化者): the creator
+** 人皆引人事	people always bring up human activities.
+:PROPERTIES:
+:SRC: LH 14.2.4; Liu 1990:145
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:4a06:3::人皆 / 論衡
+:CHARPOS: 3
+:END:
+*** 引@yǐn
+:PROPERTIES:
+:CONCEPT: uuid-ed358ac9-e7c2-4cc2-86e8-c08c627abf5a / SPEAK
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 5
+:END:
+引@yǐn	[[tls:concept:SPEAK::#uuid-ed358ac9-e7c2-4cc2-86e8-c08c627abf5a][SPEAK]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / cite; bring up
+** 足不得不搖	the foot cannot but move. [That is because]
+:PROPERTIES:
+:SRC: LH 14.2.5; Liu 1990:145
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:4a12:1::足不 / 論衡
+:CHARPOS: 1
+:END:
+*** 不得不@bùdébù
+:PROPERTIES:
+:CONCEPT: uuid-569b9476-f1e3-4530-bddc-9c68c56a347f / CERTAIN
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 2
+:END:
+不得不@bùdébù	[[tls:concept:CERTAIN::#uuid-569b9476-f1e3-4530-bddc-9c68c56a347f][CERTAIN]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / will certainly; willy nilly have to; inevitably will; certainly would have
+** 偶自然也	that [the crops] do on their own, by coincidence.
+:PROPERTIES:
+:SRC: LH 14.2.8; Liu 1990:146
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:5a09:1::偶自 / 論衡
+:CHARPOS: 1
+:END:
+*** 自然@zìrán
+:PROPERTIES:
+:CONCEPT: uuid-b4ca1b11-296d-474f-aee1-1e8732606f43 / COINCIDENCE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 2
+:END:
+自然@zìrán	[[tls:concept:COINCIDENCE::#uuid-b4ca1b11-296d-474f-aee1-1e8732606f43][COINCIDENCE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be coincidental
+** 當令其相親愛	then it ought to love one another like kin;
+:PROPERTIES:
+:SRC: LH 14.2.8; Liu 1990:146
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:5a12:1::當令 / 論衡
+:CHARPOS: 1
+:END:
+*** 其@qí
+:PROPERTIES:
+:CONCEPT: uuid-47657c20-7e9c-4453-aed0-7da864a5388c / THIS
+:SYN-FUNC: uuid-e8b41705-45b6-484a-81e9-ff87a32a8253
+:CHARPOS: 3
+:END:
+其@qí	[[tls:concept:THIS::#uuid-47657c20-7e9c-4453-aed0-7da864a5388c][THIS]]	N [[tls:syn-func::#uuid-e8b41705-45b6-484a-81e9-ff87a32a8253][npro.postVt:+V{0}]] / him/her/it/them
+*** 親愛@qīnài
+:PROPERTIES:
+:CONCEPT: uuid-3ec9fb5c-0a80-4803-9e01-5ea4c73181a8 / LOVE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 5
+:END:
+親愛@qīnài	[[tls:concept:LOVE::#uuid-3ec9fb5c-0a80-4803-9e01-5ea4c73181a8][LOVE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / love intensely; love dearly (also as people loving ruler) 甚親愛
+** 令之相親愛	It ought to bid them love one another;
+:PROPERTIES:
+:SRC: LH 14.3.1; Liu 1990:146
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:7a03:1::令之 / 論衡
+:CHARPOS: 1
+:END:
+*** 親愛@qīnài
+:PROPERTIES:
+:CONCEPT: uuid-3ec9fb5c-0a80-4803-9e01-5ea4c73181a8 / LOVE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 4
+:END:
+親愛@qīnài	[[tls:concept:LOVE::#uuid-3ec9fb5c-0a80-4803-9e01-5ea4c73181a8][LOVE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / love intensely; love dearly (also as people loving ruler) 甚親愛
+** 相勝服相齧噬	subdue and bite and devour
+:PROPERTIES:
+:SRC: LH 14.4.2; Liu 1990:147
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:8a16:5::相勝 / 論衡
+:CHARPOS: 5
+:END:
+*** 〓#@
+:PROPERTIES:
+:CONCEPT: uuid-a12eab4d-e703-47a9-8c43-c1c85447b05a / BITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+〓#@	[[tls:concept:BITE::#uuid-a12eab4d-e703-47a9-8c43-c1c85447b05a][BITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / bite; gnaw　毒蛇嚙指
+*** 噬@shì
+:PROPERTIES:
+:CONCEPT: uuid-64c49872-d13a-435c-a08b-1a240fd81630 / BITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 10
+:END:
+噬@shì	[[tls:concept:BITE::#uuid-64c49872-d13a-435c-a08b-1a240fd81630][BITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / ZUO Ai 12: bite (of rabies-mad dog biting man)
+*** 噬@shì
+:PROPERTIES:
+:CONCEPT: uuid-e8f1ebd5-f1a8-43d0-b1b3-2cf78e8f9e4c / BITE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 10
+:END:
+噬@shì	[[tls:concept:BITE::#uuid-e8f1ebd5-f1a8-43d0-b1b3-2cf78e8f9e4c][BITE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / bite (in all sorts of ways???)
+** 相啖食者	one another precisely because
+:PROPERTIES:
+:SRC: LH 14.4.2; Liu 1990:147
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:8a17:50::相啖 / 論衡
+:CHARPOS: 50
+:END:
+*** 啖@dàn
+:PROPERTIES:
+:CONCEPT: uuid-0e33d5b2-8bdf-4e2e-87ec-66aa8889c8c4 / EAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+啖@dàn	[[tls:concept:EAT::#uuid-0e33d5b2-8bdf-4e2e-87ec-66aa8889c8c4][EAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / eat
+** 不得不相賊害也	they could not harm one another,
+:PROPERTIES:
+:SRC: LH 14.4.3; Liu 1990:147
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:9a04:1::不得 / 論衡
+:CHARPOS: 1
+:END:
+*** 不得不@bùdébù
+:PROPERTIES:
+:CONCEPT: uuid-569b9476-f1e3-4530-bddc-9c68c56a347f / CERTAIN
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 1
+:END:
+不得不@bùdébù	[[tls:concept:CERTAIN::#uuid-569b9476-f1e3-4530-bddc-9c68c56a347f][CERTAIN]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / will certainly; willy nilly have to; inevitably will; certainly would have
+** 含五行之氣	holds within the Five Phases qi.
+:PROPERTIES:
+:SRC: LH 14.4.4; Liu 1990:147
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:9a09:1::含五 / 論衡
+:CHARPOS: 1
+:END:
+*** 含@hán
+:PROPERTIES:
+:CONCEPT: uuid-4cde7f44-b2b0-4410-aa55-57dede0b74b9 / CONTAIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+含@hán	[[tls:concept:CONTAIN::#uuid-4cde7f44-b2b0-4410-aa55-57dede0b74b9][CONTAIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / hold in one's mouth> encompass; have within one, contain
+** 一人之操	And does one's person conduct
+:PROPERTIES:
+:SRC: LH 14.4.6; Liu 1990:148
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:9a23:1::一人 / 論衡
+:CHARPOS: 1
+:END:
+*** 操@cào
+:PROPERTIES:
+:CONCEPT: uuid-293cd6cc-636d-4d00-92d7-45c569f37de0 / ACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+操@cào	[[tls:concept:ACT::#uuid-293cd6cc-636d-4d00-92d7-45c569f37de0][ACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / conduct, way of behaviour as something deliberately cultivated
+** 含血之蟲亦有不相勝之效	there would also be signs that certain living things do not conquer one another.
+:PROPERTIES:
+:SRC: LH 14.5.4; Liu 1990:149
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:11a03:1::含血 / 論衡
+:CHARPOS: 1
+:END:
+*** 蟲@chóng
+:PROPERTIES:
+:CONCEPT: uuid-91ea2131-5faa-4035-a51f-5a24afc0da32 / ANIMAL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+蟲@chóng	[[tls:concept:ANIMAL::#uuid-91ea2131-5faa-4035-a51f-5a24afc0da32][ANIMAL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / animals (general); the animal (of the season etc)
+*** 效@xiào
+:PROPERTIES:
+:CONCEPT: uuid-b23c1d45-90d1-420e-b2b2-b372bc057c05 / PROVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d
+:CHARPOS: 11
+:END:
+效@xiào	[[tls:concept:PROVE::#uuid-b23c1d45-90d1-420e-b2b2-b372bc057c05][PROVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d][factual]]} / manifest proof, manifest evidence; a fact that can serve as evidence; symptom, indication; visible sign; proof in practice; proof
+** 雞何不啄兔	why does the chicken not peck at the hare?
+:PROPERTIES:
+:SRC: LH 14.5.5; Liu 1990:149
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:11a11:1::雞何 / 論衡
+:CHARPOS: 1
+:END:
+*** 啄@zhuó
+:PROPERTIES:
+:CONCEPT: uuid-b3d108a5-9594-4049-b3fb-6609aedc4979 / BITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+啄@zhuó	[[tls:concept:BITE::#uuid-b3d108a5-9594-4049-b3fb-6609aedc4979][BITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / peck at (in order to eat)
+** 囓獼猴者	The animal which sinks its teeth into the macaque
+:PROPERTIES:
+:SRC: LH 14.5.6; Liu 1990:150
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:11a22:1::囓獼 / 論衡
+:CHARPOS: 1
+:END:
+*** 〓#@
+:PROPERTIES:
+:CONCEPT: uuid-a12eab4d-e703-47a9-8c43-c1c85447b05a / BITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+〓#@	[[tls:concept:BITE::#uuid-a12eab4d-e703-47a9-8c43-c1c85447b05a][BITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / bite; gnaw　毒蛇嚙指
+** 犬也	is the dog.
+:PROPERTIES:
+:SRC: LH 14.5.6; Liu 1990:150
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:11a23:1::犬也 / 論衡
+:CHARPOS: 1
+:END:
+*** 犬@quǎn
+:PROPERTIES:
+:CONCEPT: uuid-a9ccfd1b-c3e2-4d3f-a7c3-61a30bf5a534 / DOG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+犬@quǎn	[[tls:concept:DOG::#uuid-a9ccfd1b-c3e2-4d3f-a7c3-61a30bf5a534][DOG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / dog
+** 以十二辰之禽效之	or verify it by the twelve animals corresponding to the twelve two-hour periods,
+:PROPERTIES:
+:SRC: LH 14.5.10; Liu 1990:151
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:13a02:1::以十 / 論衡
+:CHARPOS: 1
+:END:
+*** 效@xiào
+:PROPERTIES:
+:CONCEPT: uuid-bb6b379d-9251-4a23-8d7c-11ed0030ffaa / PROVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+效@xiào	[[tls:concept:PROVE::#uuid-bb6b379d-9251-4a23-8d7c-11ed0030ffaa][PROVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / prove, give proof of; prove the truth of (words); also: give proof of an ability one has 何以效之 ？
+** 則尤不相應	are not especially good cases of [the principle of] mutual response.
+:PROPERTIES:
+:SRC: LH 14.5.10; Liu 1990:151
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:13a04:1::則尤 / 論衡
+:CHARPOS: 1
+:END:
+*** 尤@yóu
+:PROPERTIES:
+:CONCEPT: uuid-91984b93-4758-4e4d-92cd-7bd5c22159ee / MORE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 2
+:END:
+尤@yóu	[[tls:concept:MORE::#uuid-91984b93-4758-4e4d-92cd-7bd5c22159ee][MORE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / even more, particularly
+** 凡萬物相刻賊	In general, the myriad things [all ] injure and destroy one another,
+:PROPERTIES:
+:SRC: LH 14.6.1; Liu 1990:152
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:14a01:1::凡萬 / 論衡
+:CHARPOS: 1
+:END:
+*** 刻@kè
+:PROPERTIES:
+:CONCEPT: uuid-ebc3e41d-0e2c-4c86-b98b-a5cc39f61db3 / INJURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+刻@kè	[[tls:concept:INJURE::#uuid-ebc3e41d-0e2c-4c86-b98b-a5cc39f61db3][INJURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / SHU weizi 8: injure, wound
+*** 賊@zéi
+:PROPERTIES:
+:CONCEPT: uuid-9c9ff299-e306-45d7-aa8b-e64996d3b8d9 / DESTROY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+賊@zéi	[[tls:concept:DESTROY::#uuid-9c9ff299-e306-45d7-aa8b-e64996d3b8d9][DESTROY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / ruin, damage irrecoverably; pervert and ruin; inflict serious harm on
+** 至於相啖食者	they even bite or eat each other.
+:PROPERTIES:
+:SRC: LH 14.6.1; Liu 1990:152
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:14a03:1::至於 / 論衡
+:CHARPOS: 1
+:END:
+*** 啖@dàn
+:PROPERTIES:
+:CONCEPT: uuid-0e33d5b2-8bdf-4e2e-87ec-66aa8889c8c4 / EAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+啖@dàn	[[tls:concept:EAT::#uuid-0e33d5b2-8bdf-4e2e-87ec-66aa8889c8c4][EAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / eat
+** 自以齒牙頓利	On their own, their teeth are blunt and sharp;
+:PROPERTIES:
+:SRC: LH 14.6.1; Liu 1990:152
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:14a04:50::自以 / 論衡
+:CHARPOS: 50
+:END:
+*** 齒牙@chǐyá
+:PROPERTIES:
+:CONCEPT: uuid-2b08c182-5950-4777-bced-b5a9b51ea410 / TOOTH
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 52
+:END:
+齒牙@chǐyá	[[tls:concept:TOOTH::#uuid-2b08c182-5950-4777-bced-b5a9b51ea410][TOOTH]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / teeth
+** 力不均等	nor is their strength the same.
+:PROPERTIES:
+:SRC: LH 14.6.2; Liu 1990:152
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:14a10:1::力不 / 論衡
+:CHARPOS: 1
+:END:
+*** 均@jūn / 鈞@jūn
+:PROPERTIES:
+:CONCEPT: uuid-10e96e58-85e9-4a9f-a55e-0ec4e2b054e1 / EQUAL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+均@jūn / 鈞@jūn	[[tls:concept:EQUAL::#uuid-10e96e58-85e9-4a9f-a55e-0ec4e2b054e1][EQUAL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be on a par; be equal; be equable
+*** 等@děng
+:PROPERTIES:
+:CONCEPT: uuid-0c273e72-8b9b-48aa-9841-91827524eeab / EQUAL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+等@děng	[[tls:concept:EQUAL::#uuid-0c273e72-8b9b-48aa-9841-91827524eeab][EQUAL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be on a par, at the same level MO
+** 勢烈牙長	with fiery spirit and long teeth,
+:PROPERTIES:
+:SRC: LH 14.6.3; Liu 1990:152
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:14a17:1::勢烈 / 論衡
+:CHARPOS: 1
+:END:
+*** 牙@yá
+:PROPERTIES:
+:CONCEPT: uuid-d584f96d-9564-4b7e-8834-1348db3c1acf / TOOTH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+牙@yá	[[tls:concept:TOOTH::#uuid-d584f96d-9564-4b7e-8834-1348db3c1acf][TOOTH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / fangs; teeth
+** 誅膽小距頓	a defeatist attitude, and blunt spurs
+:PROPERTIES:
+:SRC: LH 14.6.3; Liu 1990:152
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:14a20:1::誅膽 / 論衡
+:CHARPOS: 1
+:END:
+*** 膽@dǎn
+:PROPERTIES:
+:CONCEPT: uuid-b2379a39-6174-48ec-bea9-46fdd789112e / COURAGE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 2
+:END:
+膽@dǎn	[[tls:concept:COURAGE::#uuid-b2379a39-6174-48ec-bea9-46fdd789112e][COURAGE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / fighting spirit
+** 負者未必得木精也	the losers have not necessarily gotten the essential qi of Wood.
+:PROPERTIES:
+:SRC: LH 14.6.4; Liu 1990:153
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:14a25:1::負者 / 論衡
+:CHARPOS: 1
+:END:
+*** 負@fù
+:PROPERTIES:
+:CONCEPT: uuid-bdfd02d9-ee62-4e7f-a203-f08688674f8b / FAIL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 1
+:END:
+負@fù	[[tls:concept:FAIL::#uuid-bdfd02d9-ee62-4e7f-a203-f08688674f8b][FAIL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / lose
+** 卻行流汗	stepped backwards, sweating.
+:PROPERTIES:
+:SRC: LH 14.6.4; Liu 1990:153
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:14a27:1::卻行 / 論衡
+:CHARPOS: 1
+:END:
+*** 汗@hàn
+:PROPERTIES:
+:CONCEPT: uuid-7e66496a-5ab9-41e1-80f1-96833403c42e / SWEAT
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+汗@hàn	[[tls:concept:SWEAT::#uuid-7e66496a-5ab9-41e1-80f1-96833403c42e][SWEAT]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / sweat
+** 或以䈥力	some use their spirit and position,
+:PROPERTIES:
+:SRC: LH 14.7.1; Liu 1990:155
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:16a02:1::或以 / 論衡
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-23c3f0d8-c04e-4b05-86ea-0df4f7854e6e / OR
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:OR::#uuid-23c3f0d8-c04e-4b05-86ea-0df4f7854e6e][OR]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / either... or; or perhaps
+** 牛馬困於蚊虻	The ox and the horse are tormented by the mosquito and the gadfly, [however]
+:PROPERTIES:
+:SRC: LH 14.7.4; Liu 1990:154
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:16a14:1::牛馬 / 論衡
+:CHARPOS: 1
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-89268135-86d0-420c-a072-25ac47bf1872 / PASSIVE MARKER
+:SYN-FUNC: uuid-ebbe28ed-bdcc-468c-bc28-51ba2a7f215b
+:CHARPOS: 4
+:END:
+於@yú	[[tls:concept:PASSIVE MARKER::#uuid-89268135-86d0-420c-a072-25ac47bf1872][PASSIVE MARKER]]	V [[tls:syn-func::#uuid-ebbe28ed-bdcc-468c-bc28-51ba2a7f215b][vt{0}oN.postadV{PASS}]] / passivising particle: "by" 殺於人 "literally: was killed (the killing) being from/by someone else> be killed by someone else"
+** 然而鹿制於犬	Nonetheless, the stag is ruled by the dog
+:PROPERTIES:
+:SRC: LH 14.7.4; Liu 1990:154
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:16a18:1::然而 / 論衡
+:CHARPOS: 1
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-89268135-86d0-420c-a072-25ac47bf1872 / PASSIVE MARKER
+:SYN-FUNC: uuid-ebbe28ed-bdcc-468c-bc28-51ba2a7f215b
+:CHARPOS: 5
+:END:
+於@yú	[[tls:concept:PASSIVE MARKER::#uuid-89268135-86d0-420c-a072-25ac47bf1872][PASSIVE MARKER]]	V [[tls:syn-func::#uuid-ebbe28ed-bdcc-468c-bc28-51ba2a7f215b][vt{0}oN.postadV{PASS}]] / passivising particle: "by" 殺於人 "literally: was killed (the killing) being from/by someone else> be killed by someone else"
+** 獼猴服於鼠	and the monkey subdued by the rat
+:PROPERTIES:
+:SRC: LH 14.7.4; Liu 1990:154
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:16a19:50::獼猴 / 論衡
+:CHARPOS: 50
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-89268135-86d0-420c-a072-25ac47bf1872 / PASSIVE MARKER
+:SYN-FUNC: uuid-ebbe28ed-bdcc-468c-bc28-51ba2a7f215b
+:CHARPOS: 53
+:END:
+於@yú	[[tls:concept:PASSIVE MARKER::#uuid-89268135-86d0-420c-a072-25ac47bf1872][PASSIVE MARKER]]	V [[tls:syn-func::#uuid-ebbe28ed-bdcc-468c-bc28-51ba2a7f215b][vt{0}oN.postadV{PASS}]] / passivising particle: "by" 殺於人 "literally: was killed (the killing) being from/by someone else> be killed by someone else"
+** 角爪不利也	because their horns and nails are blunt.
+:PROPERTIES:
+:SRC: LH 14.7.4; Liu 1990:154
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_014:16a20:50::角、 / 論衡
+:CHARPOS: 50
+:END:
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-4e584f10-e6eb-4499-a813-48b5ecb9e4b4 / SHARP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+利@lì	[[tls:concept:SHARP::#uuid-4e584f10-e6eb-4499-a813-48b5ecb9e4b4][SHARP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be sharp (of anything that can cut and piece), have sharp edge;

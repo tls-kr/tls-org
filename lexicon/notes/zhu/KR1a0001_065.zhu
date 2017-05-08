@@ -1,0 +1,1262 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 周易 KR1a0001_065
+#+DATE: 2017-02-08T16:35:46+0900
+#+PROPERTY: COMMIT 64f09541958b1cd69e3b951f774532c1877e13e8
+** 天尊地卑	Heaven is exalted and Earth is humble,
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR1a0001_065:1a01:4::天尊 / 周易
+:CHARPOS: 4
+:END:
+*** 天@tiān
+:PROPERTIES:
+:CONCEPT: uuid-017e4a46-92e1-4c9a-a0c5-168e0d0ce644 / SKY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-644cf692-c668-427a-9d1b-84570afa92b0
+:CHARPOS: 4
+:END:
+天@tiān	[[tls:concept:SKY::#uuid-017e4a46-92e1-4c9a-a0c5-168e0d0ce644][SKY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-644cf692-c668-427a-9d1b-84570afa92b0][concrete]]} / the sky
+*** 尊@zūn
+:PROPERTIES:
+:CONCEPT: uuid-e8add00f-e620-4d2b-a3b3-03cc01918a95 / NOBLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 5
+:END:
+尊@zūn	[[tls:concept:NOBLE::#uuid-e8add00f-e620-4d2b-a3b3-03cc01918a95][NOBLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be regarded as noble, be honoured> be distinguished, enjoy elevated status (also of things like meritorious achievements)
+*** 卑@bēi
+:PROPERTIES:
+:CONCEPT: uuid-1b1a0332-2795-4036-b69b-8b6eec08b96a / HUMBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 7
+:END:
+卑@bēi	[[tls:concept:HUMBLE::#uuid-1b1a0332-2795-4036-b69b-8b6eec08b96a][HUMBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be lowly, humble, hold low social status, menial; have a low status; be on a low level; also of one's reputation: be low
+** 乾坤定矣	and Qian and Kun are defined.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR1a0001_065:1a02:50::乾坤 / 周易
+:CHARPOS: 50
+:END:
+*** 乾@qián
+:PROPERTIES:
+:CONCEPT: uuid-7d3b7f18-a8c2-449b-893c-288abf7bebea / SKY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 50
+:END:
+乾@qián	[[tls:concept:SKY::#uuid-7d3b7f18-a8c2-449b-893c-288abf7bebea][SKY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / archaic, metaphysical: Heaven (YI)
+*** 坤@kūn
+:PROPERTIES:
+:CONCEPT: uuid-c98bda53-0aa1-452c-bcf5-e2d7080a27ef / EARTH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+坤@kūn	[[tls:concept:EARTH::#uuid-c98bda53-0aa1-452c-bcf5-e2d7080a27ef][EARTH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (abstract, cosmological:) earth (YI)
+*** 定@dìng
+:PROPERTIES:
+:CONCEPT: uuid-6264fa98-ae8e-48d2-9374-a7dc4e761afe / FIX
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 52
+:END:
+定@dìng	[[tls:concept:FIX::#uuid-6264fa98-ae8e-48d2-9374-a7dc4e761afe][FIX]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be stable and fixed, have taken a fixed shape
+** 卑高以陳	The humble and the high position in the hexagram having already been set out,
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR1a0001_065:1a03:50::卑高 / 周易
+:CHARPOS: 50
+:END:
+*** 卑高@bēigāo
+:PROPERTIES:
+:CONCEPT: uuid-b19f9ee7-4a1b-4403-b088-b8a307fd29db / HIGH
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 50
+:END:
+卑高@bēigāo	[[tls:concept:HIGH::#uuid-b19f9ee7-4a1b-4403-b088-b8a307fd29db][HIGH]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / relative status, relative elevatedness; the dimension of being high or lowly
+*** 卑@bēi
+:PROPERTIES:
+:CONCEPT: uuid-8b02ffbd-96a4-4944-b88a-5d75ba70a07c / LOW
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-83f3fdd7-af64-4c8f-b156-bb6a0e761030
+:CHARPOS: 50
+:END:
+卑@bēi	[[tls:concept:LOW::#uuid-8b02ffbd-96a4-4944-b88a-5d75ba70a07c][LOW]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-83f3fdd7-af64-4c8f-b156-bb6a0e761030][N=place]]} / what is low, the low thing, a low place
+*** 高@gāo
+:PROPERTIES:
+:CONCEPT: uuid-b316460b-45e3-446d-9a69-a8e6f043cb28 / HIGH
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CONCEPT: uuid-a7474fd3-2503-4116-992e-406623ba84d0 / ALREADY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-4f4d14c8-c938-4b7e-bd27-e752d00e897b
+:CHARPOS: 51
+:END:
+高@gāo	[[tls:concept:HIGH::#uuid-b316460b-45e3-446d-9a69-a8e6f043cb28][HIGH]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / that which is high; the high thing; high point, elevation
+已@yǐ / 以@yǐ	[[tls:concept:ALREADY::#uuid-a7474fd3-2503-4116-992e-406623ba84d0][ALREADY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-4f4d14c8-c938-4b7e-bd27-e752d00e897b][present]]} / by this time, already; after; after a while
+*** 陳@chén
+:PROPERTIES:
+:CONCEPT: uuid-0e9d4b5e-f52b-4726-857d-7d6c1b93800c / EXPLAIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+陳@chén	[[tls:concept:EXPLAIN::#uuid-0e9d4b5e-f52b-4726-857d-7d6c1b93800c][EXPLAIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be laid out clearly, be made explicit; be publicly pronounced (of words)
+** 貴賤位矣	and the noble and the base find their proper places.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR1a0001_065:1a03:50::貴賤 / 周易
+:CHARPOS: 50
+:END:
+*** 貴賤@guìjiàn
+:PROPERTIES:
+:CONCEPT: uuid-225d1900-db8c-4f49-a1b2-b51b692e4d93 / NOBLE
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 50
+:END:
+貴賤@guìjiàn	[[tls:concept:NOBLE::#uuid-225d1900-db8c-4f49-a1b2-b51b692e4d93][NOBLE]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / relative status; dimension of status
+*** 位@wèi
+:PROPERTIES:
+:CONCEPT: uuid-61cdc832-1916-4292-8436-4e09b5f6d9fe / PLACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 52
+:END:
+位@wèi	[[tls:concept:PLACE::#uuid-61cdc832-1916-4292-8436-4e09b5f6d9fe][PLACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be apportioned a proper place
+** 動靜有常	Action and inaction have their constant norm
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR1a0001_065:1a04:50::動靜 / 周易
+:CHARPOS: 50
+:END:
+*** 〓#@
+:PROPERTIES:
+:CONCEPT: uuid-a73bcabd-1cc8-4cad-b95c-5e87780492f3 / INACTIVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+〓#@	[[tls:concept:INACTIVE::#uuid-a73bcabd-1cc8-4cad-b95c-5e87780492f3][INACTIVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / failure or refusal to take intiatives; nonactivity
+*** 常@cháng
+:PROPERTIES:
+:CONCEPT: uuid-8b84430b-26f1-48e2-8f5b-2d6983d0bf6a / STANDARD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 53
+:END:
+常@cháng	[[tls:concept:STANDARD::#uuid-8b84430b-26f1-48e2-8f5b-2d6983d0bf6a][STANDARD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / constant norm; highest norm; routine; constancy in attitude
+** 剛柔斷矣	and the hard and the pliable are determined.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR1a0001_065:1a05:50::剛柔 / 周易
+:CHARPOS: 50
+:END:
+*** 剛@gāng
+:PROPERTIES:
+:CONCEPT: uuid-c62f933f-84fe-417c-9fff-8f20b21f369d / HARD
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 50
+:END:
+剛@gāng	[[tls:concept:HARD::#uuid-c62f933f-84fe-417c-9fff-8f20b21f369d][HARD]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / that which is firm, the firm and strong things; a hard substance
+*** 柔@róu
+:PROPERTIES:
+:CONCEPT: uuid-180497cc-f3d0-4ba9-820b-52e8225ecb41 / SOFT
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 51
+:END:
+柔@róu	[[tls:concept:SOFT::#uuid-180497cc-f3d0-4ba9-820b-52e8225ecb41][SOFT]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / what is soft, the soft things; soft things
+** 方以類聚	Methods group things according to (artificial) categories,
+:PROPERTIES:
+:SRC: XC 1.2, ed. Lou Yulie p. 535, tr. Lynn p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a06:50::方以 / 周易
+:CHARPOS: 50
+:END:
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-ae55df49-22b5-46be-82de-ec3ce4476678 / CONFORM
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 51
+:END:
+以@yǐ	[[tls:concept:CONFORM::#uuid-ae55df49-22b5-46be-82de-ec3ce4476678][CONFORM]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / according to, in the way of (emperor Yáo etc); according to (the right season); at (a certain time)
+*** 類@lèi
+:PROPERTIES:
+:CONCEPT: uuid-b45c949b-e4d7-48c9-a589-8c50cb7703b6 / CATEGORY
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 52
+:END:
+類@lèi	[[tls:concept:CATEGORY::#uuid-b45c949b-e4d7-48c9-a589-8c50cb7703b6][CATEGORY]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / natural kind, kind, class
+*** 聚@jù / 聚@jù
+:PROPERTIES:
+:CONCEPT: uuid-c30a5267-19bb-4110-b3c4-8123594aec9c / GATHER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+聚@jù / 聚@jù	[[tls:concept:GATHER::#uuid-c30a5267-19bb-4110-b3c4-8123594aec9c][GATHER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / mostly of persons, but occasionally also of things like insects: assemble
+** 物以群分	and creatures divide up according to (natural) groups. See JZ Liu Hui 1.9
+:PROPERTIES:
+:SRC: XC 1.2, ed. Lou Yulie p. 535, tr. Lynn p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a07:50::物以 / 周易
+:CHARPOS: 50
+:END:
+*** 物@wù
+:PROPERTIES:
+:CONCEPT: uuid-82f08579-6b75-4379-bf2f-62b9a863d423 / CREATURE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+物@wù	[[tls:concept:CREATURE::#uuid-82f08579-6b75-4379-bf2f-62b9a863d423][CREATURE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (kind of) living creature 百物; 天物 "the creatures of this world that are from Heaven"
+*** 群@qún
+:PROPERTIES:
+:CONCEPT: uuid-a0725841-0d29-45c1-91db-6e2c467aac0e / GROUP
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+群@qún	[[tls:concept:GROUP::#uuid-a0725841-0d29-45c1-91db-6e2c467aac0e][GROUP]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / flock; group
+** 吉凶生矣	[And as a result of all this] good fortune and misfortune arise.
+:PROPERTIES:
+:SRC: XC 1.2, ed. Lou Yulie p. 535, tr. Lynn p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a08:50::吉凶 / 周易
+:CHARPOS: 50
+:END:
+*** 吉@jí
+:PROPERTIES:
+:CONCEPT: uuid-be9ef873-2d2a-4df0-b830-1edbc47e518c / AUSPICIOUS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 50
+:END:
+吉@jí	[[tls:concept:AUSPICIOUS::#uuid-be9ef873-2d2a-4df0-b830-1edbc47e518c][AUSPICIOUS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / (Heaven-sent) auspicious events or good fortune
+*** 吉凶@jíxiōng
+:PROPERTIES:
+:CONCEPT: uuid-0dc3b786-4cbd-4689-ad4a-40c603fbe1ca / AUSPICIOUS
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 50
+:END:
+吉凶@jíxiōng	[[tls:concept:AUSPICIOUS::#uuid-0dc3b786-4cbd-4689-ad4a-40c603fbe1ca][AUSPICIOUS]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / the dimension of auspiciousness versus inauspiciousness; auspiciousness or otherwise
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-44e7662a-c3c1-4304-a510-7141c549a5b8 / DISASTER
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 51
+:END:
+凶@xiōng	[[tls:concept:DISASTER::#uuid-44e7662a-c3c1-4304-a510-7141c549a5b8][DISASTER]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / terrible supernaturally ordained disaster; great bad luck; major misfortune; dire consequences 百凶
+** 在天成象	In [the realm of] Heaven these bring about symbolic images,
+:PROPERTIES:
+:SRC: XC 1.2, ed. Lou Yulie p. 535, tr. Lynn p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a09:50::在天 / 周易
+:CHARPOS: 50
+:END:
+*** 在@zài / 才@cái
+:PROPERTIES:
+:CONCEPT: uuid-a0a0ad21-373d-4d66-bb49-ea0c9d249fcd / BE IN
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2
+:CHARPOS: 50
+:END:
+在@zài / 才@cái	[[tls:concept:BE IN::#uuid-a0a0ad21-373d-4d66-bb49-ea0c9d249fcd][BE IN]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2][place]]} / in; at
+** 在地成形	and in [the realm of] Earth they bring about [concrete physical] forms,
+:PROPERTIES:
+:SRC: XC 1.2, ed. Lou Yulie p. 535, tr. Lynn p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a10:50::在地 / 周易
+:CHARPOS: 50
+:END:
+*** 在@zài / 才@cái
+:PROPERTIES:
+:CONCEPT: uuid-a0a0ad21-373d-4d66-bb49-ea0c9d249fcd / BE IN
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2
+:CHARPOS: 50
+:END:
+在@zài / 才@cái	[[tls:concept:BE IN::#uuid-a0a0ad21-373d-4d66-bb49-ea0c9d249fcd][BE IN]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2][place]]} / in; at
+*** 成@chéng
+:PROPERTIES:
+:CONCEPT: uuid-b13d33cb-c987-42ac-bb9f-6a4e081dac80 / COMPLETE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+成@chéng	[[tls:concept:COMPLETE::#uuid-b13d33cb-c987-42ac-bb9f-6a4e081dac80][COMPLETE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / practise successfully; to bring to completion; to bring to a successful conclusion; to accomplish; give its full form to; to make complete and perfect
+*** 形@xíng
+:PROPERTIES:
+:CONCEPT: uuid-28b05aca-a57d-4e56-ac42-5665dffea450 / SHAPE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-faf53255-68e4-4691-9eeb-63a839ffa0bc
+:CHARPOS: 53
+:END:
+形@xíng	[[tls:concept:SHAPE::#uuid-28b05aca-a57d-4e56-ac42-5665dffea450][SHAPE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-faf53255-68e4-4691-9eeb-63a839ffa0bc][dimension]]} / three-dimensional physical visible shape
+** 變化見矣	so change and transformation manifest themselves. [1132]
+:PROPERTIES:
+:SRC: XC 1.2, ed. Lou Yulie p. 535, tr. Lynn p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a11:50::變化 / 周易
+:CHARPOS: 50
+:END:
+*** 變化@biànhuà
+:PROPERTIES:
+:CONCEPT: uuid-cd2469af-b196-40f8-8d51-3e98c36f4eb4 / CHANGE
+:SYN-FUNC: uuid-9629f093-fa64-4769-9b05-9f49f12c7790
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CONCEPT: uuid-7761562e-da5b-461e-9609-edc6e4a6fc48 / VISIBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 50
+:END:
+變化@biànhuà	[[tls:concept:CHANGE::#uuid-cd2469af-b196-40f8-8d51-3e98c36f4eb4][CHANGE]]	N [[tls:syn-func::#uuid-9629f093-fa64-4769-9b05-9f49f12c7790][NPab{N1=N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the various changes in the world; all kinds of change
+現@xiàn / 見@xiàn	[[tls:concept:VISIBLE::#uuid-7761562e-da5b-461e-9609-edc6e4a6fc48][VISIBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become visible, appear, come to light; show one's face
+** 剛柔相摩	The hard and soft stroke each other,
+:PROPERTIES:
+:SRC: XC 1.3, ed. Lou Yulie p. 535f, tr. Lynn p. 48
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a11:50::剛柔 / 周易
+:CHARPOS: 50
+:END:
+*** 剛@gāng
+:PROPERTIES:
+:CONCEPT: uuid-c62f933f-84fe-417c-9fff-8f20b21f369d / HARD
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 50
+:END:
+剛@gāng	[[tls:concept:HARD::#uuid-c62f933f-84fe-417c-9fff-8f20b21f369d][HARD]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / that which is firm, the firm and strong things; a hard substance
+*** 柔@róu
+:PROPERTIES:
+:CONCEPT: uuid-180497cc-f3d0-4ba9-820b-52e8225ecb41 / SOFT
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 51
+:END:
+柔@róu	[[tls:concept:SOFT::#uuid-180497cc-f3d0-4ba9-820b-52e8225ecb41][SOFT]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / what is soft, the soft things; soft things
+*** 相@xiàng / 相@xiāng
+:PROPERTIES:
+:CONCEPT: uuid-a3e27cb3-2518-4d26-bac0-2f0b5e7290aa / INTERACT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+相@xiàng / 相@xiāng	[[tls:concept:INTERACT::#uuid-a3e27cb3-2518-4d26-bac0-2f0b5e7290aa][INTERACT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in mutual interaction> each other, mutually
+*** 摩@mó
+:PROPERTIES:
+:CONCEPT: uuid-0ec8e84a-e041-4065-86be-1305c1d50b7e / RUB
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+摩@mó	[[tls:concept:RUB::#uuid-0ec8e84a-e041-4065-86be-1305c1d50b7e][RUB]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / rub against; polish; whet; pat
+** 八卦相盪	the eight trigrams activate each other. [1133]
+:PROPERTIES:
+:SRC: XC 1.3, ed. Lou Yulie p. 535f, tr. Lynn p. 48
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a12:50::八卦 / 周易
+:CHARPOS: 50
+:END:
+*** 八卦@bāguà
+:PROPERTIES:
+:CONCEPT: uuid-5da376c6-8ec1-498f-a3e1-796402e577d1 / HEXAGRAM
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 50
+:END:
+八卦@bāguà	[[tls:concept:HEXAGRAM::#uuid-5da376c6-8ec1-498f-a3e1-796402e577d1][HEXAGRAM]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / the eight trigrams
+*** 卦@guà
+:PROPERTIES:
+:CONCEPT: uuid-66e54df4-25af-4df9-9916-310fda7e6a89 / HEXAGRAM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+卦@guà	[[tls:concept:HEXAGRAM::#uuid-66e54df4-25af-4df9-9916-310fda7e6a89][HEXAGRAM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / trigram
+*** 盪@dàng
+:PROPERTIES:
+:CONCEPT: uuid-210cb356-fa2b-4597-b2a5-16712ba0e56f / MOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+盪@dàng	[[tls:concept:MOVE::#uuid-210cb356-fa2b-4597-b2a5-16712ba0e56f][MOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / activate??
+** 鼓之以雷霆	They urge things on with claps of thunder,
+:PROPERTIES:
+:SRC: XC 1.3, ed. Lou Yulie p. 535f, tr. Lynn p. 48
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a13:50::鼓之 / 周易
+:CHARPOS: 50
+:END:
+*** 鼓@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-816b74a3-b1bf-4952-9025-00930c946c3e / ENCOURAGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 50
+:END:
+鼓@gǔ	[[tls:concept:ENCOURAGE::#uuid-816b74a3-b1bf-4952-9025-00930c946c3e][ENCOURAGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / urge on, encourage to engage in activity
+*** 雷霆@léitíng
+:PROPERTIES:
+:CONCEPT: uuid-7c286434-5eda-407c-9218-d28c085aadd5 / THUNDER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 53
+:END:
+雷霆@léitíng	[[tls:concept:THUNDER::#uuid-7c286434-5eda-407c-9218-d28c085aadd5][THUNDER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / thunder
+** 潤之以風雨	they moisten them with thunderstorms,/
+:PROPERTIES:
+:SRC: XC 1.3, ed. Lou Yulie p. 535f, tr. Lynn p. 48
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a14:50::潤之 / 周易
+:CHARPOS: 50
+:END:
+*** 潤@rùn
+:PROPERTIES:
+:CONCEPT: uuid-f7b88ed7-2f39-47ba-84ba-083a54c16d27 / MOIST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+潤@rùn	[[tls:concept:MOIST::#uuid-f7b88ed7-2f39-47ba-84ba-083a54c16d27][MOIST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / moisten
+*** 風雨@fēngyǔ
+:PROPERTIES:
+:CONCEPT: uuid-bd618bff-f005-4d0a-bf83-2e258e1987ec / RAIN
+:SYN-FUNC: uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 53
+:END:
+風雨@fēngyǔ	[[tls:concept:RAIN::#uuid-bd618bff-f005-4d0a-bf83-2e258e1987ec][RAIN]]	N [[tls:syn-func::#uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54][NPab{N1&N2}]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / thunderstorm
+** 日月運行	Sun and moon take their regular paths,
+:PROPERTIES:
+:SRC: XC 1.3, ed. Lou Yulie p. 535f, tr. Lynn p. 48
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a15:50::日月 / 周易
+:CHARPOS: 50
+:END:
+*** 運行@yùnxíng
+:PROPERTIES:
+:CONCEPT: uuid-c2cdeb47-cce8-4b53-a849-fa582b159900 / REVOLVE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 52
+:END:
+運行@yùnxíng	[[tls:concept:REVOLVE::#uuid-c2cdeb47-cce8-4b53-a849-fa582b159900][REVOLVE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / follow one's regular course
+*** 運@yùn
+:PROPERTIES:
+:CONCEPT: uuid-218013c2-0731-4fa3-8206-7883cc0595f2 / REVOLVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 52
+:END:
+運@yùn	[[tls:concept:REVOLVE::#uuid-218013c2-0731-4fa3-8206-7883cc0595f2][REVOLVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / course along on a revolving circular course (typically said of stars in the Heavens)
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-b4655153-1622-48ac-a4dc-22698c0d4c4e / MOVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 53
+:END:
+行@xíng	[[tls:concept:MOVE::#uuid-b4655153-1622-48ac-a4dc-22698c0d4c4e][MOVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / (of heavenly bodies or the four seasons) take their course, move along one's course
+** 一寒一暑	and at one time it is cold, at another it is hot./ [1134]
+:PROPERTIES:
+:SRC: XC 1.3, ed. Lou Yulie p. 535f, tr. Lynn p. 48
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a16:50::一寒 / 周易
+:CHARPOS: 50
+:END:
+*** 寒@hán
+:PROPERTIES:
+:CONCEPT: uuid-730b6948-00f1-49ec-9def-21036435873d / COLD
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 51
+:END:
+寒@hán	[[tls:concept:COLD::#uuid-730b6948-00f1-49ec-9def-21036435873d][COLD]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / it is cold
+*** 暑@shǔ
+:PROPERTIES:
+:CONCEPT: uuid-ae220f41-be33-4921-857f-205a032fc282 / HOT
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 53
+:END:
+暑@shǔ	[[tls:concept:HOT::#uuid-ae220f41-be33-4921-857f-205a032fc282][HOT]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / it is hot
+** 乾道成男	The Way of Qian gives complete form to the male,
+:PROPERTIES:
+:SRC: XC 2.1, ed. Lou Yulie p. 535f, tr. Lynn p. 48
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a17:50::乾道 / 周易
+:CHARPOS: 50
+:END:
+*** 乾@qián
+:PROPERTIES:
+:CONCEPT: uuid-7d3b7f18-a8c2-449b-893c-288abf7bebea / SKY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 50
+:END:
+乾@qián	[[tls:concept:SKY::#uuid-7d3b7f18-a8c2-449b-893c-288abf7bebea][SKY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / archaic, metaphysical: Heaven (YI)
+*** 成@chéng
+:PROPERTIES:
+:CONCEPT: uuid-b13d33cb-c987-42ac-bb9f-6a4e081dac80 / COMPLETE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+成@chéng	[[tls:concept:COMPLETE::#uuid-b13d33cb-c987-42ac-bb9f-6a4e081dac80][COMPLETE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / practise successfully; to bring to completion; to bring to a successful conclusion; to accomplish; give its full form to; to make complete and perfect
+*** 男@nán
+:PROPERTIES:
+:CONCEPT: uuid-6d87ff1a-6ba3-475a-a1bf-c178995b3df1 / MALE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 53
+:END:
+男@nán	[[tls:concept:MALE::#uuid-6d87ff1a-6ba3-475a-a1bf-c178995b3df1][MALE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / the male principle; maleness
+** 坤道成女	the Way of Kun gives complete form to the female. [1135]
+:PROPERTIES:
+:SRC: XC 2.1, ed. Lou Yulie p. 535f, tr. Lynn p. 48
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a18:50::坤道 / 周易
+:CHARPOS: 50
+:END:
+*** 坤@kūn
+:PROPERTIES:
+:CONCEPT: uuid-c98bda53-0aa1-452c-bcf5-e2d7080a27ef / EARTH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+坤@kūn	[[tls:concept:EARTH::#uuid-c98bda53-0aa1-452c-bcf5-e2d7080a27ef][EARTH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (abstract, cosmological:) earth (YI)
+*** 成@chéng
+:PROPERTIES:
+:CONCEPT: uuid-b13d33cb-c987-42ac-bb9f-6a4e081dac80 / COMPLETE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+成@chéng	[[tls:concept:COMPLETE::#uuid-b13d33cb-c987-42ac-bb9f-6a4e081dac80][COMPLETE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / practise successfully; to bring to completion; to bring to a successful conclusion; to accomplish; give its full form to; to make complete and perfect
+*** 女@nǚ
+:PROPERTIES:
+:CONCEPT: uuid-22e82156-dc36-48ea-828f-0753dfc7278a / FEMALE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 53
+:END:
+女@nǚ	[[tls:concept:FEMALE::#uuid-22e82156-dc36-48ea-828f-0753dfc7278a][FEMALE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / the biological category of the female
+** 乾知大始	Qian oversees the Great Beginning,
+:PROPERTIES:
+:SRC: XC 2.1, ed. Lou Yulie p. 535f, tr. Lynn p. 48
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a19:50::乾知 / 周易
+:CHARPOS: 50
+:END:
+*** 〓#太始@tàishǐ
+:PROPERTIES:
+:CONCEPT: uuid-af06f3d3-7a2c-48c3-8e28-621c7cb7f062 / BEGIN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 50
+:END:
+〓#太始@tàishǐ	[[tls:concept:BEGIN::#uuid-af06f3d3-7a2c-48c3-8e28-621c7cb7f062][BEGIN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / the great beginning
+** 坤作成物	and Kun is activated/activates itself to form things. [1136]
+:PROPERTIES:
+:SRC: XC 2.1, ed. Lou Yulie p. 535f, tr. Lynn p. 48
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a19:50::坤作 / 周易
+:CHARPOS: 50
+:END:
+*** 作成@zuòchéng / 作成@zuòchéng / 作成@zuòchéng
+:PROPERTIES:
+:CONCEPT: uuid-50ad74d4-dba8-4ab1-a370-9ac525a8a4e3 / PRODUCE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 51
+:END:
+作成@zuòchéng / 作成@zuòchéng / 作成@zuòchéng	[[tls:concept:PRODUCE::#uuid-50ad74d4-dba8-4ab1-a370-9ac525a8a4e3][PRODUCE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / produce as a complete product, create so as to be a complete thing
+** 乾以易知	Qian oversees things through natural ease,
+:PROPERTIES:
+:SRC: XC 2.1, ed. Lou Yulie p. 535f, tr. Lynn p. 48
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a20:50::乾以 / 周易
+:CHARPOS: 50
+:END:
+*** 乾@qián
+:PROPERTIES:
+:CONCEPT: uuid-b4089447-617d-4800-b686-3a212676bb69 / SKY
+:SYN-FUNC: uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770
+:SEM-FEAT: uuid-47a533fc-0c9a-45b3-abba-6fb56ba6c96f
+:CHARPOS: 50
+:END:
+乾@qián	[[tls:concept:SKY::#uuid-b4089447-617d-4800-b686-3a212676bb69][SKY]]	N [[tls:syn-func::#uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770][npr]] {[[tls:sem-feat::#uuid-47a533fc-0c9a-45b3-abba-6fb56ba6c96f][personified]]} / Heaven (as an agent overseeing what happens on earth)
+*** 易@yì
+:PROPERTIES:
+:CONCEPT: uuid-9c1fe0e1-47cd-4fd9-937c-c5ea86e9ba6a / EASY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+易@yì	[[tls:concept:EASY::#uuid-9c1fe0e1-47cd-4fd9-937c-c5ea86e9ba6a][EASY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / easy naturalness
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-ca1b6569-b6fa-4947-b2ca-aaa043a11acd / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+知@zhī	[[tls:concept:GOVERN::#uuid-ca1b6569-b6fa-4947-b2ca-aaa043a11acd][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / KNOW ALL ABOUT> be fully in charge of, be formally and politically in charge of
+** 坤以簡能	and Kun is capableof things through natural simplicity. [1137]
+:PROPERTIES:
+:SRC: XC 2.1, ed. Lou Yulie p. 535f, tr. Lynn p. 48
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a21:50::坤以 / 周易
+:CHARPOS: 50
+:END:
+*** 簡@jiǎn
+:PROPERTIES:
+:CONCEPT: uuid-dc3b4639-561c-4daa-a0db-80c0fd6fe077 / SIMPLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+簡@jiǎn	[[tls:concept:SIMPLE::#uuid-dc3b4639-561c-4daa-a0db-80c0fd6fe077][SIMPLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / simplicity
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-3aee3602-f70a-45b3-8c0d-c3fae6db6cfe / ABLE
+:SYN-FUNC: uuid-a5fc31a7-255b-4d30-99e1-59f8d371ccb4
+:CHARPOS: 53
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-3aee3602-f70a-45b3-8c0d-c3fae6db6cfe][ABLE]]	V [[tls:syn-func::#uuid-a5fc31a7-255b-4d30-99e1-59f8d371ccb4][vt{+V{0}}]] / be capable and competent; be able to act, be in a position to act
+** 易則易知	If something is possessed of natural ease, it is easy to understand;
+:PROPERTIES:
+:SRC: XC 2.2, ed. Lou Yulie p. 536, tr. Lynn p. 48f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a22:50::易則 / 周易
+:CHARPOS: 50
+:END:
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-c1ca60c1-aa8d-417c-814e-1b6813c6fe9a / UNDERSTAND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+知@zhī	[[tls:concept:UNDERSTAND::#uuid-c1ca60c1-aa8d-417c-814e-1b6813c6fe9a][UNDERSTAND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / get properly known, get found out; become well-known; get properly understood
+** 簡則易從	and if something is possessed of natural simplicity, it is easy to follow.
+:PROPERTIES:
+:SRC: XC 2.2, ed. Lou Yulie p. 536, tr. Lynn p. 48f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a23:50::簡則 / 周易
+:CHARPOS: 50
+:END:
+*** 簡@jiǎn
+:PROPERTIES:
+:CONCEPT: uuid-d54863eb-3aaa-49a1-8885-6bc075872ace / SIMPLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+簡@jiǎn	[[tls:concept:SIMPLE::#uuid-d54863eb-3aaa-49a1-8885-6bc075872ace][SIMPLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / be simple, uncontrived
+*** 從@cóng
+:PROPERTIES:
+:CONCEPT: uuid-f112f039-fe00-490b-a276-bd060748da73 / FOLLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+從@cóng	[[tls:concept:FOLLOW::#uuid-f112f039-fe00-490b-a276-bd060748da73][FOLLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be followed (as a deliberate act)
+** 有親則可久	if something has intimate allies then it can be made to last,
+:PROPERTIES:
+:SRC: XC 2.2, ed. Lou Yulie p. 536, tr. Lynn p. 48f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a26:1::有親 / 周易
+:CHARPOS: 1
+:END:
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-a2202bc1-0144-4614-8e5a-22ef2ae4443f / FRIEND
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 2
+:END:
+親@qīn	[[tls:concept:FRIEND::#uuid-a2202bc1-0144-4614-8e5a-22ef2ae4443f][FRIEND]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / close associates; friends
+*** 可久@kějiǔ
+:PROPERTIES:
+:CONCEPT: uuid-0eb0bb02-efec-4c3a-8807-c80563f6a3d6 / ENDURING
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 4
+:END:
+可久@kějiǔ	[[tls:concept:ENDURING::#uuid-0eb0bb02-efec-4c3a-8807-c80563f6a3d6][ENDURING]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / the capacity to be made enduring
+*** 久@jiǔ
+:PROPERTIES:
+:CONCEPT: uuid-00c324ba-3135-4c9b-8090-b06a4f16db29 / ENDURING
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 5
+:END:
+久@jiǔ	[[tls:concept:ENDURING::#uuid-00c324ba-3135-4c9b-8090-b06a4f16db29][ENDURING]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / be made to last long
+** 可久則賢人之德	The capacity to be made to last, that is the inner power of the man of worth.
+:PROPERTIES:
+:SRC: XC 2.2, ed. Lou Yulie p. 536, tr. Lynn p. 48f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a28:1::可久 / 周易
+:CHARPOS: 1
+:END:
+*** 德@dé
+:PROPERTIES:
+:CONCEPT: uuid-1cdab186-9017-4847-a833-2ab92f47da4a / VIRTUE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 7
+:END:
+德@dé	[[tls:concept:VIRTUE::#uuid-1cdab186-9017-4847-a833-2ab92f47da4a][VIRTUE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / the highest form of virtue, true virtue, true inner power
+** 可大則賢人之業	the capacity to be made to be great, that is the main purpose of the man of worth [1138]
+:PROPERTIES:
+:SRC: XC 2.2, ed. Lou Yulie p. 536, tr. Lynn p. 48f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a29:50::可大 / 周易
+:CHARPOS: 50
+:END:
+*** 大@dà
+:PROPERTIES:
+:CONCEPT: uuid-44d91fbe-ad33-4c20-bbc6-39a90d73b702 / BIG
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 51
+:END:
+大@dà	[[tls:concept:BIG::#uuid-44d91fbe-ad33-4c20-bbc6-39a90d73b702][BIG]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / be made large or important
+*** 業@yè
+:PROPERTIES:
+:CONCEPT: uuid-c43d0f9f-14fc-4d3f-9fc6-b888ca37a3b1 / STRIVE FOR
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 56
+:END:
+業@yè	[[tls:concept:STRIVE FOR::#uuid-c43d0f9f-14fc-4d3f-9fc6-b888ca37a3b1][STRIVE FOR]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / main purpose in public life, main professional aim; main mission; inherited professional aim
+** 易簡	As Qián and Kùn] being possessed of natural ease and natural simplicity
+:PROPERTIES:
+:SRC: XC 2.3, ed. Lou Yulie p. 536, tr. Lynn p. 48f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a30:50::易簡 / 周易
+:CHARPOS: 50
+:END:
+*** 易@yì
+:PROPERTIES:
+:CONCEPT: uuid-760715ac-8942-4d55-930a-6cf86c715054 / EASY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 50
+:END:
+易@yì	[[tls:concept:EASY::#uuid-760715ac-8942-4d55-930a-6cf86c715054][EASY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be easy and natural; be easy and trifling; be an easy matter 甚易
+*** 簡@jiǎn
+:PROPERTIES:
+:CONCEPT: uuid-d54863eb-3aaa-49a1-8885-6bc075872ace / SIMPLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+簡@jiǎn	[[tls:concept:SIMPLE::#uuid-d54863eb-3aaa-49a1-8885-6bc075872ace][SIMPLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / be simple, uncontrived
+** 而天下之理得矣	the principles of All under Heaven are (got>) put in place.
+:PROPERTIES:
+:SRC: XC 2.3, ed. Lou Yulie p. 536, tr. Lynn p. 48f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a30:50::而天 / 周易
+:CHARPOS: 50
+:END:
+*** 天下@tiānxià
+:PROPERTIES:
+:CONCEPT: uuid-b7d1fa23-7cac-4cd0-8b71-3c5bd74c8f04 / WORLD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 51
+:END:
+天下@tiānxià	[[tls:concept:WORLD::#uuid-b7d1fa23-7cac-4cd0-8b71-3c5bd74c8f04][WORLD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / the universe 天下無人
+*** 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-4dc9efb2-3807-4f11-9fe0-587ffda32fc5 / OBTAIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 55
+:END:
+得@dé	[[tls:concept:OBTAIN::#uuid-4dc9efb2-3807-4f11-9fe0-587ffda32fc5][OBTAIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be obtained> be at hand; be got hold of
+** 而成位乎其中矣	they give complete form to the space/position between them.
+:PROPERTIES:
+:SRC: XC 2.3, ed. Lou Yulie p. 536, tr. Lynn p. 48f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:1a32:1::而成 / 周易
+:CHARPOS: 1
+:END:
+*** 成@chéng
+:PROPERTIES:
+:CONCEPT: uuid-b13d33cb-c987-42ac-bb9f-6a4e081dac80 / COMPLETE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+成@chéng	[[tls:concept:COMPLETE::#uuid-b13d33cb-c987-42ac-bb9f-6a4e081dac80][COMPLETE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / practise successfully; to bring to completion; to bring to a successful conclusion; to accomplish; give its full form to; to make complete and perfect
+*** 位@wèi
+:PROPERTIES:
+:CONCEPT: uuid-620033c0-b993-4baf-ba34-941ca0a5c359 / PLACE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 3
+:END:
+位@wèi	[[tls:concept:PLACE::#uuid-620033c0-b993-4baf-ba34-941ca0a5c359][PLACE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / place, proper place
+*** 中@zhōng
+:PROPERTIES:
+:CONCEPT: uuid-64cc5de0-dca1-460e-ba89-f8efa3a6c696 / INSIDE
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:SEM-FEAT: uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2
+:CHARPOS: 6
+:END:
+中@zhōng	[[tls:concept:INSIDE::#uuid-64cc5de0-dca1-460e-ba89-f8efa3a6c696][INSIDE]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] {[[tls:sem-feat::#uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2][place]]} / inside, in the middle of N 其中x
+** 聖人	The sages
+:PROPERTIES:
+:SRC: XC 3.1, ed. Lou Yulie p. 537f, tr. Lynn p. 49f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:2a01:1::聖人 / 周易
+:CHARPOS: 1
+:END:
+*** 聖人@shèngrén
+:PROPERTIES:
+:CONCEPT: uuid-41a97f00-3d28-4d48-a7a8-3537ac51b1f8 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+聖人@shèngrén	[[tls:concept:HERO::#uuid-41a97f00-3d28-4d48-a7a8-3537ac51b1f8][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sages (of antiquity) (enumerable, with tensed predicate)
+** 設卦	set up the [concrete] hexagrams
+:PROPERTIES:
+:SRC: XC 3.1, ed. Lou Yulie p. 537f, tr. Lynn p. 49f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:2a01:50::設卦 / 周易
+:CHARPOS: 50
+:END:
+*** 設@shè
+:PROPERTIES:
+:CONCEPT: uuid-6132dcec-6ae8-434c-94ac-65ff12f9120a / ESTABLISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+設@shè	[[tls:concept:ESTABLISH::#uuid-6132dcec-6ae8-434c-94ac-65ff12f9120a][ESTABLISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / set up, establish administratively; arrange for, make preparations for
+** 觀象	and [thus] and thus systematically observed the abstract images;
+:PROPERTIES:
+:SRC: XC 3.1, ed. Lou Yulie p. 537f, tr. Lynn p. 49f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:2a01:50::觀象 / 周易
+:CHARPOS: 50
+:END:
+*** 觀@guān
+:PROPERTIES:
+:CONCEPT: uuid-d119c4f1-6679-4cb8-af69-1237eca49192 / INVESTIGATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+觀@guān	[[tls:concept:INVESTIGATE::#uuid-d119c4f1-6679-4cb8-af69-1237eca49192][INVESTIGATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / critically observe, watch carefully; look over carefully and systematically, make an overall investigation; survey and examine
+** 繫辭焉	They appended the Statements
+:PROPERTIES:
+:SRC: XC 3.1, ed. Lou Yulie p. 537f, tr. Lynn p. 49f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:2a02:50::繫辭 / 周易
+:CHARPOS: 50
+:END:
+*** 繫@xì
+:PROPERTIES:
+:CONCEPT: uuid-b1919cd9-300f-47b9-8be4-47c07e3fd458 / TIE TO
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 50
+:END:
+繫@xì	[[tls:concept:TIE TO::#uuid-b1919cd9-300f-47b9-8be4-47c07e3fd458][TIE TO]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / appended 繫辭
+*** 繫@xì
+:PROPERTIES:
+:CONCEPT: uuid-efe84e41-f9c7-4995-8d06-730a6f6943b0 / TIE TO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+繫@xì	[[tls:concept:TIE TO::#uuid-efe84e41-f9c7-4995-8d06-730a6f6943b0][TIE TO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / tie to a thing to something else; tie up so as to assemble; keep tied up
+*** 辭@cí
+:PROPERTIES:
+:CONCEPT: uuid-36cab94a-91cc-471b-a45f-c48fbdcc378d / SPEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 51
+:END:
+辭@cí	[[tls:concept:SPEAK::#uuid-36cab94a-91cc-471b-a45f-c48fbdcc378d][SPEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / text; formulation, statement; sentence; rhetoric CHECK EXAMPLES
+** 而明吉凶	and thus clarified the auspiciousness/inauspiciousness (which they imply). [1140]
+:PROPERTIES:
+:SRC: XC 3.1, ed. Lou Yulie p. 537f, tr. Lynn p. 49f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:2a02:50::而明 / 周易
+:CHARPOS: 50
+:END:
+*** 吉凶@jíxiōng
+:PROPERTIES:
+:CONCEPT: uuid-0dc3b786-4cbd-4689-ad4a-40c603fbe1ca / AUSPICIOUS
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 52
+:END:
+吉凶@jíxiōng	[[tls:concept:AUSPICIOUS::#uuid-0dc3b786-4cbd-4689-ad4a-40c603fbe1ca][AUSPICIOUS]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / the dimension of auspiciousness versus inauspiciousness; auspiciousness or otherwise
+** 而生變化	so that they produce change and transformation. [1141]
+:PROPERTIES:
+:SRC: XC 3.1, ed. Lou Yulie p. 537f, tr. Lynn p. 49f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:2a03:50::而生 / 周易
+:CHARPOS: 50
+:END:
+*** 變化@biànhuà
+:PROPERTIES:
+:CONCEPT: uuid-cd2469af-b196-40f8-8d51-3e98c36f4eb4 / CHANGE
+:SYN-FUNC: uuid-9629f093-fa64-4769-9b05-9f49f12c7790
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+變化@biànhuà	[[tls:concept:CHANGE::#uuid-cd2469af-b196-40f8-8d51-3e98c36f4eb4][CHANGE]]	N [[tls:syn-func::#uuid-9629f093-fa64-4769-9b05-9f49f12c7790][NPab{N1=N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the various changes in the world; all kinds of change
+** 吉凶者	the auspicious and the inauspicious lines
+:PROPERTIES:
+:SRC: XC 3.2.1, ed. Lou Yulie p. 537f, tr. Lynn p. 49f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:2a04:50::吉凶 / 周易
+:CHARPOS: 50
+:END:
+*** 吉@jí
+:PROPERTIES:
+:CONCEPT: uuid-80ba3f29-fa14-4165-9646-3efdc16f2b6a / HEXAGRAM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+吉@jí	[[tls:concept:HEXAGRAM::#uuid-80ba3f29-fa14-4165-9646-3efdc16f2b6a][HEXAGRAM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / auspicious line in a trigram
+** 變化者	Change and transformation
+:PROPERTIES:
+:SRC: XC 3.2.1, ed. Lou Yulie p. 537f, tr. Lynn p. 49f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:2a08:1::變化 / 周易
+:CHARPOS: 1
+:END:
+*** 變化@biànhuà
+:PROPERTIES:
+:CONCEPT: uuid-cd2469af-b196-40f8-8d51-3e98c36f4eb4 / CHANGE
+:SYN-FUNC: uuid-9629f093-fa64-4769-9b05-9f49f12c7790
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+變化@biànhuà	[[tls:concept:CHANGE::#uuid-cd2469af-b196-40f8-8d51-3e98c36f4eb4][CHANGE]]	N [[tls:syn-func::#uuid-9629f093-fa64-4769-9b05-9f49f12c7790][NPab{N1=N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the various changes in the world; all kinds of change
+** 晝夜之象也	are images of day and night.
+:PROPERTIES:
+:SRC: XC 3.2.1, ed. Lou Yulie p. 537f, tr. Lynn p. 49f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:2a11:1::晝夜 / 周易
+:CHARPOS: 1
+:END:
+*** 晝@zhòu
+:PROPERTIES:
+:CONCEPT: uuid-5be0d2b4-ad03-4770-b7f2-e2815b6d03d9 / DAY
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 1
+:END:
+晝@zhòu	[[tls:concept:DAY::#uuid-5be0d2b4-ad03-4770-b7f2-e2815b6d03d9][DAY]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / daytime-(meal etc)
+*** 夜@yè
+:PROPERTIES:
+:CONCEPT: uuid-262e5aa8-1b78-4a9d-b999-307e295f9cdd / NIGHT
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 2
+:END:
+夜@yè	[[tls:concept:NIGHT::#uuid-262e5aa8-1b78-4a9d-b999-307e295f9cdd][NIGHT]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / nighttime
+** 自天祐之	"Since Heaven succours him,
+:PROPERTIES:
+:SRC: XC 3.3.1, ed. Lou Yulie p. 538, tr. Lynn p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:2a20:3::自天 / 周易
+:CHARPOS: 3
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-f7b5b2bf-f57e-4a15-8cad-e88de832f167 / SINCE
+:SYN-FUNC: uuid-cf44b197-f172-4bcd-8bc2-b404d02bf71c
+:CHARPOS: 3
+:END:
+自@zì	[[tls:concept:SINCE::#uuid-f7b5b2bf-f57e-4a15-8cad-e88de832f167][SINCE]]	V [[tls:syn-func::#uuid-cf44b197-f172-4bcd-8bc2-b404d02bf71c][vt0oS1.adS2]] / since
+*** 祐@yòu
+:PROPERTIES:
+:CONCEPT: uuid-78dca96c-f696-4511-b071-2e1d43ee0c7f / BLESS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+祐@yòu	[[tls:concept:BLESS::#uuid-78dca96c-f696-4511-b071-2e1d43ee0c7f][BLESS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / come to the divine aid of, support by divine means
+** 吉无不利	things turn out auspicious [for him] and nothing fails to be to his advantage." [1145]
+:PROPERTIES:
+:SRC: XC 3.3.1, ed. Lou Yulie p. 538, tr. Lynn p. 50
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:2a21:50::吉无 / 周易
+:CHARPOS: 50
+:END:
+*** 吉@jí
+:PROPERTIES:
+:CONCEPT: uuid-eb627f1b-2733-4312-b7c0-d057d5fe77b9 / AUSPICIOUS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CONCEPT: uuid-fa5ba337-f78f-4963-b702-7e162aab67e8 / ALL
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:SEM-FEAT: uuid-d579c8ae-df31-4e0c-941f-27b2e0b784f9
+:CHARPOS: 50
+:END:
+吉@jí	[[tls:concept:AUSPICIOUS::#uuid-eb627f1b-2733-4312-b7c0-d057d5fe77b9][AUSPICIOUS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / turn out auspiciously
+無不@wúbù	[[tls:concept:ALL::#uuid-fa5ba337-f78f-4963-b702-7e162aab67e8][ALL]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] {[[tls:sem-feat::#uuid-d579c8ae-df31-4e0c-941f-27b2e0b784f9][reference=subject]]} / all of the subjects
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-45938622-43ac-4941-9f2c-4db723dee475 / PROFIT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 53
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-45938622-43ac-4941-9f2c-4db723dee475][PROFIT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / turn out advantageous, provide profit
+** 凶者	The differentiation between the auspicious and the inauspicious
+:PROPERTIES:
+:SRC: XC 4.2.1, ed. Lou Yulie p. 538f, tr. Lynn p. 50f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:3a05:2::凶者 / 周易
+:CHARPOS: 2
+:END:
+*** 吉凶@jíxiōng
+:PROPERTIES:
+:CONCEPT: uuid-0dc3b786-4cbd-4689-ad4a-40c603fbe1ca / AUSPICIOUS
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 2
+:END:
+吉凶@jíxiōng	[[tls:concept:AUSPICIOUS::#uuid-0dc3b786-4cbd-4689-ad4a-40c603fbe1ca][AUSPICIOUS]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / the dimension of auspiciousness versus inauspiciousness; auspiciousness or otherwise
+** 言乎其小疵也	pronounce on minor blemishes.
+:PROPERTIES:
+:SRC: XC 4.2.1, ed. Lou Yulie p. 538f, tr. Lynn p. 50f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:3a08:1::言乎 / 周易
+:CHARPOS: 1
+:END:
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-d5d452a5-c46c-4b30-befa-06503173e585 / MEAN
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 1
+:END:
+言@yán	[[tls:concept:MEAN::#uuid-d5d452a5-c46c-4b30-befa-06503173e585][MEAN]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / refer to
+** 无咎者	One who has no blame attached
+:PROPERTIES:
+:SRC: XC 4.2.1, ed. Lou Yulie p. 538f, tr. Lynn p. 50f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:3a09:50::无咎 / 周易
+:CHARPOS: 50
+:END:
+*** 咎@jiù
+:PROPERTIES:
+:CONCEPT: uuid-9081ba23-1360-4776-aa30-20ec69a0f32f / CRIME
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+咎@jiù	[[tls:concept:CRIME::#uuid-9081ba23-1360-4776-aa30-20ec69a0f32f][CRIME]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / fault, moral responsibility for an unfortunate state of affairs
+** 震无咎者	Saving those who (suffer misfortune but are) "without blame"
+:PROPERTIES:
+:SRC: XC 4.2.2, ed. Lou Yulie p. 538f, tr. Lynn p. 50f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:3a15:1::震无 / 周易
+:CHARPOS: 1
+:END:
+*** 咎@jiù
+:PROPERTIES:
+:CONCEPT: uuid-9081ba23-1360-4776-aa30-20ec69a0f32f / CRIME
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+咎@jiù	[[tls:concept:CRIME::#uuid-9081ba23-1360-4776-aa30-20ec69a0f32f][CRIME]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / fault, moral responsibility for an unfortunate state of affairs
+** 辭也者	As for the statements in general,
+:PROPERTIES:
+:SRC: XC 4.3, ed. Lou Yulie p. 538f, tr. Lynn p. 50f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:3a18:1::辭也 / 周易
+:CHARPOS: 1
+:END:
+*** 辭@cí
+:PROPERTIES:
+:CONCEPT: uuid-9efc95f9-cf16-4788-bc30-1d79c8eec5cc / SENTENCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 1
+:END:
+辭@cí	[[tls:concept:SENTENCE::#uuid-9efc95f9-cf16-4788-bc30-1d79c8eec5cc][SENTENCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / statement; MO: proposition
+** 仰以觀於天文	Above we use [the Changes] to systematically observe the configurations of Heaven,
+:PROPERTIES:
+:SRC: XC 5.2, ed. Lou Yulie p. 539f, tr. Lynn p. 51f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:3a22:1::仰以 / 周易
+:CHARPOS: 1
+:END:
+*** 仰@yǎng
+:PROPERTIES:
+:CONCEPT: uuid-7a346fbe-7e16-4c90-bad7-6d00d9fe311d / AND
+:SYN-FUNC: uuid-eae6fe87-4260-4882-ba08-767a9048688f
+:CHARPOS: 1
+:END:
+仰@yǎng	[[tls:concept:AND::#uuid-7a346fbe-7e16-4c90-bad7-6d00d9fe311d][AND]]	V [[tls:syn-func::#uuid-eae6fe87-4260-4882-ba08-767a9048688f][vadV1.adV2]] / one the one hand (and on the other) 仰...俯
+** 俯以察於地理	and below we use it to examine precisely the patterns of Earth.
+:PROPERTIES:
+:SRC: XC 5.2, ed. Lou Yulie p. 539f, tr. Lynn p. 51f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:3a23:50::俯以 / 周易
+:CHARPOS: 50
+:END:
+*** 俯@fǔ
+:PROPERTIES:
+:CONCEPT: uuid-77e4b978-0143-40b1-b2db-9c418c6b93df / AND
+:SYN-FUNC: uuid-54df8fce-7efc-4f90-b641-89a414e5e767
+:CHARPOS: 50
+:END:
+俯@fǔ	[[tls:concept:AND::#uuid-77e4b978-0143-40b1-b2db-9c418c6b93df][AND]]	V [[tls:syn-func::#uuid-54df8fce-7efc-4f90-b641-89a414e5e767][vadV1.postV2]] / and also 仰...俯
+** 是故知幽明之故	Therefore one understands the reasons behind what is hidden and what is clear,
+:PROPERTIES:
+:SRC: XC 5.2, ed. Lou Yulie p. 539f, tr. Lynn p. 51f
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:3a24:50::是故 / 周易
+:CHARPOS: 50
+:END:
+*** 幽@yōu
+:PROPERTIES:
+:CONCEPT: uuid-3512e9ca-8fbb-4981-b7cd-c3527d90641a / OBSCURE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d
+:CHARPOS: 53
+:END:
+幽@yōu	[[tls:concept:OBSCURE::#uuid-3512e9ca-8fbb-4981-b7cd-c3527d90641a][OBSCURE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d][factual]]} / what is mysterious
+*** 明@míng
+:PROPERTIES:
+:CONCEPT: uuid-5fa54202-3130-48ec-b21d-df5dd662ab1f / CLEAR
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d
+:CHARPOS: 54
+:END:
+明@míng	[[tls:concept:CLEAR::#uuid-5fa54202-3130-48ec-b21d-df5dd662ab1f][CLEAR]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d][factual]]} / what is evident and clear
+** 與天地相似	It (Changes? Way? One) is patterned on Heaven and Earth,
+:PROPERTIES:
+:SRC: XC 6.1, ed. Lou Yulie p. 540f, tr. Lynn p. 52
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:4a04:1::與天 / 周易
+:CHARPOS: 1
+:END:
+*** 似@sì
+:PROPERTIES:
+:CONCEPT: uuid-c346aa63-dc92-44f9-a8ac-480cfcb782bd / RESEMBLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 5
+:END:
+似@sì	[[tls:concept:RESEMBLE::#uuid-c346aa63-dc92-44f9-a8ac-480cfcb782bd][RESEMBLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / look like; be similar in appearance
+** 知命	understands fate.
+:PROPERTIES:
+:SRC: XC 6.2, ed. Lou Yulie p. 540f, tr. Lynn p. 52
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:4a10:3::知命 / 周易
+:CHARPOS: 3
+:END:
+*** 命@mìng
+:PROPERTIES:
+:CONCEPT: uuid-7a2d7d8c-0cbe-4560-bc1b-f7fb5f23d9dc / FATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 4
+:END:
+命@mìng	[[tls:concept:FATE::#uuid-7a2d7d8c-0cbe-4560-bc1b-f7fb5f23d9dc][FATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / the principles of fate
+** 仁者見之謂之仁	When the benevolent see it they call it benevolence,
+:PROPERTIES:
+:SRC: XC 8.2, ed. Lou Yulie p. 541f, tr. Lynn p. 52,
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:4a20:1::仁者 / 周易
+:CHARPOS: 1
+:END:
+*** 仁者@rénzhě
+:PROPERTIES:
+:CONCEPT: uuid-8cefb61d-78bf-4d33-b0f1-5e3414fa4f06 / BENEVOLENCE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+仁者@rénzhě	[[tls:concept:BENEVOLENCE::#uuid-8cefb61d-78bf-4d33-b0f1-5e3414fa4f06][BENEVOLENCE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: "the benevolent person; the human-hearted person" at any time and in any place
+** 知者見之謂之知	and when the competent see it they call it int elligence.
+:PROPERTIES:
+:SRC: XC 8.2, ed. Lou Yulie p. 541f, tr. Lynn p. 52,
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:4a21:50::知者 / 周易
+:CHARPOS: 50
+:END:
+*** 知者@zhīzhě
+:PROPERTIES:
+:CONCEPT: uuid-9c3b5021-73ad-4749-9bbf-f9d732b9ba3c / INTELLIGENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+知者@zhīzhě	[[tls:concept:INTELLIGENT::#uuid-9c3b5021-73ad-4749-9bbf-f9d732b9ba3c][INTELLIGENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / intelligent people
+** 成象之謂乾	Insofar as it gives full form to abstract images, we call it Qián.
+:PROPERTIES:
+:SRC: XC 9.2, ed. Lou Yulie p. 542f, tr. Lynn p. 54
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:5a08:1::成象 / 周易
+:CHARPOS: 1
+:END:
+*** 乾@qián
+:PROPERTIES:
+:CONCEPT: uuid-7d3b7f18-a8c2-449b-893c-288abf7bebea / SKY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 5
+:END:
+乾@qián	[[tls:concept:SKY::#uuid-7d3b7f18-a8c2-449b-893c-288abf7bebea][SKY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / archaic, metaphysical: Heaven (YI)
+** 效法之謂坤	Insofar as it imitates these patterns [set by the abstract images], we call it Kūn. [1161]
+:PROPERTIES:
+:SRC: XC 9.2, ed. Lou Yulie p. 542f, tr. Lynn p. 54
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:5a09:50::效法 / 周易
+:CHARPOS: 50
+:END:
+*** 效@xiào
+:PROPERTIES:
+:CONCEPT: uuid-a6aa633b-b1a9-4c29-a974-dc7f938bcdb5 / IMITATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+效@xiào	[[tls:concept:IMITATE::#uuid-a6aa633b-b1a9-4c29-a974-dc7f938bcdb5][IMITATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / HF 8.1.15: emulate (the sage); imitate; live up to; act according to
+** 極數知來之謂占	Masterig the technique so as to understand the future is called 'prognostication',
+:PROPERTIES:
+:SRC: XC 9.3, ed. Lou Yulie p. 542f, tr. Lynn p. 54
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:5a10:50::極數 / 周易
+:CHARPOS: 50
+:END:
+*** 來@lái
+:PROPERTIES:
+:CONCEPT: uuid-c44b652f-b3c2-4bef-a799-f7b4d9c4abae / FUTURE
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 53
+:END:
+來@lái	[[tls:concept:FUTURE::#uuid-c44b652f-b3c2-4bef-a799-f7b4d9c4abae][FUTURE]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / what is to come, the future; the next thing
+** 陰陽不測之謂神	What from the Yin and the Yang one cannot fathom is called 'the supernatural.' [1163]
+:PROPERTIES:
+:SRC: XC 9.3, ed. Lou Yulie p. 542f, tr. Lynn p. 54
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:5a12:1::陰陽 / 周易
+:CHARPOS: 1
+:END:
+*** 測@cè
+:PROPERTIES:
+:CONCEPT: uuid-32f9764e-d32c-46fa-9669-8b1e911546e3 / ASSESS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+測@cè	[[tls:concept:ASSESS::#uuid-32f9764e-d32c-46fa-9669-8b1e911546e3][ASSESS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / fathom, assess depth or height of (physical objects)
+** 夫乾	As for Qian,
+:PROPERTIES:
+:SRC: XC 10.1.2, ed. Lou Yulie p. 544, tr. Lynn p. 55
+:DATE: 8110	late Warring States
+:LOCATION: KR1a0001_065:5a18:1::夫乾 / 周易
+:CHARPOS: 1
+:END:
+*** 乾@qián
+:PROPERTIES:
+:CONCEPT: uuid-7d3b7f18-a8c2-449b-893c-288abf7bebea / SKY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 2
+:END:
+乾@qián	[[tls:concept:SKY::#uuid-7d3b7f18-a8c2-449b-893c-288abf7bebea][SKY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / archaic, metaphysical: Heaven (YI)

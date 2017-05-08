@@ -1,0 +1,981 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_032
+#+DATE: 2017-02-08T16:35:51+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 惟十有三祀	In the thirteenth year,
+:PROPERTIES:
+:SRC: SHU (LATE) 24.1; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a01:1::惟十 / 尚書
+:CHARPOS: 1
+:END:
+*** 有@yǒu / 又@yòu
+:PROPERTIES:
+:CONCEPT: uuid-212c10be-3cae-4e42-8c20-b31950d176e4 / AND
+:SYN-FUNC: uuid-01184788-3c2e-450b-ac41-a287dd19c444
+:CHARPOS: 3
+:END:
+有@yǒu / 又@yòu	[[tls:concept:AND::#uuid-212c10be-3cae-4e42-8c20-b31950d176e4][AND]]	 [[tls:syn-func::#uuid-01184788-3c2e-450b-ac41-a287dd19c444][padv{NUM}.post-v{NUM}]] / and in addition
+*** 祀@sì
+:PROPERTIES:
+:CONCEPT: uuid-168fdd32-3985-4d82-8804-59f576cbe886 / YEAR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+祀@sì	[[tls:concept:YEAR::#uuid-168fdd32-3985-4d82-8804-59f576cbe886][YEAR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / archaic, rare, SHU: year
+** 王訪于箕子	the king went to enquire of the count of Qi,
+:PROPERTIES:
+:SRC: SHU (LATE) 24.1; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a02:50::王訪 / 尚書
+:CHARPOS: 50
+:END:
+*** 王@wáng
+:PROPERTIES:
+:CONCEPT: uuid-1b94ef38-f88b-42dd-bff7-6e5e63e9b251 / KING
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 50
+:END:
+王@wáng	[[tls:concept:KING::#uuid-1b94ef38-f88b-42dd-bff7-6e5e63e9b251][KING]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / His Majesty, the current king
+*** 訪@fǎng
+:PROPERTIES:
+:CONCEPT: uuid-6f1d508e-b861-45b0-8878-6e96e91c066a / VISIT
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 51
+:END:
+訪@fǎng	[[tls:concept:VISIT::#uuid-6f1d508e-b861-45b0-8878-6e96e91c066a][VISIT]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / paid a visit to
+** 王乃言曰	and said to him,
+:PROPERTIES:
+:SRC: SHU (LATE) 24.1; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a03:50::王乃 / 尚書
+:CHARPOS: 50
+:END:
+*** 王@wáng
+:PROPERTIES:
+:CONCEPT: uuid-1b94ef38-f88b-42dd-bff7-6e5e63e9b251 / KING
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 50
+:END:
+王@wáng	[[tls:concept:KING::#uuid-1b94ef38-f88b-42dd-bff7-6e5e63e9b251][KING]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / His Majesty, the current king
+*** 言曰@yányuē
+:PROPERTIES:
+:CONCEPT: uuid-9cd03805-6164-41be-bc1c-8cd8333cfb41 / SPEAK
+:SYN-FUNC: uuid-c2560eab-8090-475f-9b7a-c80bd21d4938
+:SEM-FEAT: uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e
+:CHARPOS: 52
+:END:
+言曰@yányuē	[[tls:concept:SPEAK::#uuid-9cd03805-6164-41be-bc1c-8cd8333cfb41][SPEAK]]	V [[tls:syn-func::#uuid-c2560eab-8090-475f-9b7a-c80bd21d4938][VPtoS]] {[[tls:sem-feat::#uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e][quotation]]} / declare that S, state that S; make the announcement S
+** 嗚呼	Oh!
+:PROPERTIES:
+:SRC: SHU (LATE) 24.1; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a04:50::「嗚 / 尚書
+:CHARPOS: 50
+:END:
+*** 嗚呼@wūhū / 嗚虖@wūhū / 於呼@wūhū
+:PROPERTIES:
+:CONCEPT: uuid-43032068-39b2-4428-875f-7ff70a904168 / ALAS
+:SYN-FUNC: uuid-abb3fe0b-cd02-406e-accf-be7f13163ef5
+:CHARPOS: 50
+:END:
+嗚呼@wūhū / 嗚虖@wūhū / 於呼@wūhū	[[tls:concept:ALAS::#uuid-43032068-39b2-4428-875f-7ff70a904168][ALAS]]	 [[tls:syn-func::#uuid-abb3fe0b-cd02-406e-accf-be7f13163ef5][PP+Npr]] / Oh Npr!
+** 惟天陰騭下民	Heaven, (working) unseen, secures the tranquillity of the lower people,
+:PROPERTIES:
+:SRC: SHU (LATE) 24.1; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a06:1::惟天 / 尚書
+:CHARPOS: 1
+:END:
+*** 陰@yīn
+:PROPERTIES:
+:CONCEPT: uuid-2c1c3866-fd7a-4211-8ca0-100d3b2d0917 / SECRET
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 3
+:END:
+陰@yīn	[[tls:concept:SECRET::#uuid-2c1c3866-fd7a-4211-8ca0-100d3b2d0917][SECRET]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / secretly; in an indirect way; in hidden ways
+*** 騭@zhì
+:PROPERTIES:
+:CONCEPT: uuid-f741232d-e22a-40ba-a23a-fc9a4ae90094 / PEACEFUL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 4
+:END:
+騭@zhì	[[tls:concept:PEACEFUL::#uuid-f741232d-e22a-40ba-a23a-fc9a4ae90094][PEACEFUL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / bring peace to, ensure the tranquility of
+*** 下民@xiàmín
+:PROPERTIES:
+:CONCEPT: uuid-fcf326b1-92de-4773-8719-b4ebc810ac18 / PEOPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 5
+:END:
+下民@xiàmín	[[tls:concept:PEOPLE::#uuid-fcf326b1-92de-4773-8719-b4ebc810ac18][PEOPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / SHI: the lowly people, the common people
+** 相協厥居	aiding them to be in harmony with their condition.
+:PROPERTIES:
+:SRC: SHU (LATE) 24.1; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a07:50::相協 / 尚書
+:CHARPOS: 50
+:END:
+*** 相@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-9d9669a5-214c-4dc8-b141-21c755b3345f / HELP
+:SYN-FUNC: uuid-7de00196-12aa-43e2-9843-72079143c05b
+:CHARPOS: 50
+:END:
+相@xiàng	[[tls:concept:HELP::#uuid-9d9669a5-214c-4dc8-b141-21c755b3345f][HELP]]	V [[tls:syn-func::#uuid-7de00196-12aa-43e2-9843-72079143c05b][vtt(oN.)+V{0}]] / help the implicit N to V
+*** 協@xié
+:PROPERTIES:
+:CONCEPT: uuid-cfc1a61d-c4fd-4422-b6f7-d80bc7f33aff / HARMONY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 51
+:END:
+協@xié	[[tls:concept:HARMONY::#uuid-cfc1a61d-c4fd-4422-b6f7-d80bc7f33aff][HARMONY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / harmonise
+*** 居@jū
+:PROPERTIES:
+:CONCEPT: uuid-e80d6501-20b3-473c-9a53-c69fc15d35f6 / DWELL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+居@jū	[[tls:concept:DWELL::#uuid-e80d6501-20b3-473c-9a53-c69fc15d35f6][DWELL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / deciding where to live; choice of dwelling place
+** 我不知其彝倫攸敘	I do not know how the unvarying principles (of its method in doing so) should be set forth in due order.'
+:PROPERTIES:
+:SRC: SHU (LATE) 24.1; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a08:50::我不 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-f6d689f3-eb57-4368-9845-dbb36607be8e / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-f6d689f3-eb57-4368-9845-dbb36607be8e][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (at present, or remembering the personal past)
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-051d9548-dba7-4f8f-b9fe-4bb69448f295 / EGO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-051d9548-dba7-4f8f-b9fe-4bb69448f295][EGO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / I (on the other hand), I for my part, I as opposed to others
+*** 彝@yí
+:PROPERTIES:
+:CONCEPT: uuid-7e803c3a-1364-477d-b2e1-38149c44364e / ENDURING
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 54
+:END:
+彝@yí	[[tls:concept:ENDURING::#uuid-7e803c3a-1364-477d-b2e1-38149c44364e][ENDURING]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / archaic: unvarying, permanent
+*** 攸@yōu
+:PROPERTIES:
+:CONCEPT: uuid-a8f8fd2f-e12d-4fb5-af09-f505283355dc / NOMINALISER
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 56
+:END:
+攸@yōu	[[tls:concept:NOMINALISER::#uuid-a8f8fd2f-e12d-4fb5-af09-f505283355dc][NOMINALISER]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / pre-classical pronoun, here in the function similar to the classic 所
+*** 敘@xù
+:PROPERTIES:
+:CONCEPT: uuid-7efd198e-cb6f-4e9e-8d3a-9e90bce0a67c / CONTROL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 57
+:END:
+敘@xù	[[tls:concept:CONTROL::#uuid-7efd198e-cb6f-4e9e-8d3a-9e90bce0a67c][CONTROL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / regulate; put in order; arrange
+** 箕子乃言曰	The count of Qi thereupon replied,
+:PROPERTIES:
+:SRC: SHU (LATE) 24.2; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a09:50::箕子 / 尚書
+:CHARPOS: 50
+:END:
+*** 乃@nǎi / 迺@nǎi
+:PROPERTIES:
+:CONCEPT: uuid-d5f9c225-330b-4a1e-b342-86c3c335af13 / THEN
+:SYN-FUNC: uuid-f6980e39-6a66-40ea-899f-95eaf0384097
+:CHARPOS: 52
+:END:
+乃@nǎi / 迺@nǎi	[[tls:concept:THEN::#uuid-d5f9c225-330b-4a1e-b342-86c3c335af13][THEN]]	P [[tls:syn-func::#uuid-f6980e39-6a66-40ea-899f-95eaf0384097][padV.postN{SUBJ}:post-S]] / (THE SUBJECT N) then (will VERB)
+*** 言曰@yányuē
+:PROPERTIES:
+:CONCEPT: uuid-9cd03805-6164-41be-bc1c-8cd8333cfb41 / SPEAK
+:SYN-FUNC: uuid-c2560eab-8090-475f-9b7a-c80bd21d4938
+:SEM-FEAT: uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e
+:CHARPOS: 53
+:END:
+言曰@yányuē	[[tls:concept:SPEAK::#uuid-9cd03805-6164-41be-bc1c-8cd8333cfb41][SPEAK]]	V [[tls:syn-func::#uuid-c2560eab-8090-475f-9b7a-c80bd21d4938][VPtoS]] {[[tls:sem-feat::#uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e][quotation]]} / declare that S, state that S; make the announcement S
+** 我聞在昔	'I have heard that in old time
+:PROPERTIES:
+:SRC: SHU (LATE) 24.2; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a10:50::「我 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-f6d689f3-eb57-4368-9845-dbb36607be8e / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-f6d689f3-eb57-4368-9845-dbb36607be8e][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (at present, or remembering the personal past)
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-051d9548-dba7-4f8f-b9fe-4bb69448f295 / EGO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-051d9548-dba7-4f8f-b9fe-4bb69448f295][EGO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / I (on the other hand), I for my part, I as opposed to others
+*** 聞@wén
+:PROPERTIES:
+:CONCEPT: uuid-3d7a87d8-29fc-47ce-94fb-046bd81fc7f1 / LEARN
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-c20ca0b7-7f5f-439c-914a-f7ba1e2096b4
+:CHARPOS: 51
+:END:
+聞@wén	[[tls:concept:LEARN::#uuid-3d7a87d8-29fc-47ce-94fb-046bd81fc7f1][LEARN]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-c20ca0b7-7f5f-439c-914a-f7ba1e2096b4][object=fact]]} / learn that S, hear that S
+*** 在@zài / 才@cái
+:PROPERTIES:
+:CONCEPT: uuid-8ab9aed5-70b7-4cb8-935d-cfa36a0a30e5 / BE IN
+:SYN-FUNC: uuid-eff96969-dfb1-4cc3-9784-3851c19c3f27
+:SEM-FEAT: uuid-f7823965-d29e-4ca7-ab59-52cfeb09515c
+:CHARPOS: 52
+:END:
+在@zài / 才@cái	[[tls:concept:BE IN::#uuid-8ab9aed5-70b7-4cb8-935d-cfa36a0a30e5][BE IN]]	V [[tls:syn-func::#uuid-eff96969-dfb1-4cc3-9784-3851c19c3f27][vt0oN.adS]] {[[tls:sem-feat::#uuid-f7823965-d29e-4ca7-ab59-52cfeb09515c][temporal]]} / OBI 3: at (a certain time), during (a certain period)
+** 鯀陻洪水	Gun dammed up the inundating waters,
+:PROPERTIES:
+:SRC: SHU (LATE) 24.2; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a10:50::鯀陻 / 尚書
+:CHARPOS: 50
+:END:
+*** 鯀@gǔn
+:PROPERTIES:
+:CONCEPT: uuid-99a80a1b-ceb5-41a7-b58f-352d971da1ba / MALES
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CONCEPT: uuid-6ca6e5b2-6843-484a-87fc-ac22b4e382ee / HINDER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+鯀@gǔn	[[tls:concept:MALES::#uuid-99a80a1b-ceb5-41a7-b58f-352d971da1ba][MALES]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / Standard Name: Gǔn 鯀 Unger no. 372 ????
+堙@yīn	[[tls:concept:HINDER::#uuid-6ca6e5b2-6843-484a-87fc-ac22b4e382ee][HINDER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / hinder the flow of, dam up
+*** 洪@hóng
+:PROPERTIES:
+:CONCEPT: uuid-78e7a592-2000-48e2-b23e-0c2c390b1237 / BIG
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 52
+:END:
+洪@hóng	[[tls:concept:BIG::#uuid-78e7a592-2000-48e2-b23e-0c2c390b1237][BIG]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / vast; typical only in 洪水 'flood'
+*** 水@shuǐ
+:PROPERTIES:
+:CONCEPT: uuid-53899f44-bed0-435c-bc7f-6238acaf28ed / FLOOD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 53
+:END:
+水@shuǐ	[[tls:concept:FLOOD::#uuid-53899f44-bed0-435c-bc7f-6238acaf28ed][FLOOD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / flood
+** 汩陳其五行	and thereby threw into disorder the arrangement of the five elements.
+:PROPERTIES:
+:SRC: SHU (LATE) 24.2; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a11:50::汩陳 / 尚書
+:CHARPOS: 50
+:END:
+*** 汩@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-cb1a05e1-acf8-4375-a061-d71fc40b6192 / CHAOS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+汩@gǔ	[[tls:concept:CHAOS::#uuid-cb1a05e1-acf8-4375-a061-d71fc40b6192][CHAOS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / throw into chaos
+*** 五行@wǔxíng
+:PROPERTIES:
+:CONCEPT: uuid-a38787ef-33a7-40d4-a55d-3731361c7b6e / ENERGY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 53
+:END:
+五行@wǔxíng	[[tls:concept:ENERGY::#uuid-a38787ef-33a7-40d4-a55d-3731361c7b6e][ENERGY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / the five cosmic material agents 木、火、土、金、水 which determine five cosmic phases where they alternately dominate
+** 帝乃震怒	God was consequently roused to anger,
+:PROPERTIES:
+:SRC: SHU (LATE) 24.2; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a12:50::帝乃 / 尚書
+:CHARPOS: 50
+:END:
+*** 帝@dì
+:PROPERTIES:
+:CONCEPT: uuid-23ec3b0a-992c-4020-ad7d-05f07476162f / GOD
+:SYN-FUNC: uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770
+:CHARPOS: 50
+:END:
+帝@dì	[[tls:concept:GOD::#uuid-23ec3b0a-992c-4020-ad7d-05f07476162f][GOD]]	N [[tls:syn-func::#uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770][npr]] / OBI 4: God, the head of the Shāng pantheon, in control of wind, rain, harvests, disasters, approval of settlement decisions etc.;
+*** 震怒@zhènnù
+:PROPERTIES:
+:CONCEPT: uuid-129e6eae-0768-42a5-8cd7-ec5e1039615f / ANGER
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+震怒@zhènnù	[[tls:concept:ANGER::#uuid-129e6eae-0768-42a5-8cd7-ec5e1039615f][ANGER]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / get very angry
+** 不畀洪範九疇	and did not give him the Great Plan with its nine divisions,
+:PROPERTIES:
+:SRC: SHU (LATE) 24.2; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a13:50::不畀 / 尚書
+:CHARPOS: 50
+:END:
+*** 畀@bì
+:PROPERTIES:
+:CONCEPT: uuid-4b0bfe0a-f727-45a7-9df6-3b0d025f8f61 / GIVE
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:SEM-FEAT: uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd
+:CHARPOS: 51
+:END:
+畀@bì	[[tls:concept:GIVE::#uuid-4b0bfe0a-f727-45a7-9df6-3b0d025f8f61][GIVE]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] {[[tls:sem-feat::#uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd][om]]} / give the contextually determinate thing N1 to (the beneficiary N2)
+*** 疇@chóu
+:PROPERTIES:
+:CONCEPT: uuid-ce26f729-072a-45e5-8df2-73064a86c523 / CATEGORY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 55
+:END:
+疇@chóu	[[tls:concept:CATEGORY::#uuid-ce26f729-072a-45e5-8df2-73064a86c523][CATEGORY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / natural group; (ERYA: classificatory category) ZGC 夫物各有疇 "all things belong to groups"
+** 彝倫攸斁	and thus the unvarying principles (of Heaven's method) were allowed to go to ruin.
+:PROPERTIES:
+:SRC: SHU (LATE) 24.2; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a14:50::彝倫 / 尚書
+:CHARPOS: 50
+:END:
+*** 彝@yí
+:PROPERTIES:
+:CONCEPT: uuid-7e803c3a-1364-477d-b2e1-38149c44364e / ENDURING
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+彝@yí	[[tls:concept:ENDURING::#uuid-7e803c3a-1364-477d-b2e1-38149c44364e][ENDURING]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / archaic: unvarying, permanent
+*** 彝倫@yílún
+:PROPERTIES:
+:CONCEPT: uuid-68b16118-a43a-4acd-8eef-da21773c0e21 / PRINCIPLE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 50
+:END:
+彝倫@yílún	[[tls:concept:PRINCIPLE::#uuid-68b16118-a43a-4acd-8eef-da21773c0e21][PRINCIPLE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / constant/unvarying cosmic principles
+*** 倫@lún
+:PROPERTIES:
+:CONCEPT: uuid-06257758-2831-418a-9d83-ca587b083366 / PRINCIPLE
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 51
+:END:
+倫@lún	[[tls:concept:PRINCIPLE::#uuid-06257758-2831-418a-9d83-ca587b083366][PRINCIPLE]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / fundamental human relations; moral standards of social behaviour
+*** 斁@yì
+:PROPERTIES:
+:CONCEPT: uuid-c42a42a3-0f7e-4fbe-adc0-60d527a788e3 / DESTROY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+斁@yì	[[tls:concept:DESTROY::#uuid-c42a42a3-0f7e-4fbe-adc0-60d527a788e3][DESTROY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / SHU: get destroyed
+** 鯀則殛死	Gun was therefore kept a prisoner till his death,
+:PROPERTIES:
+:SRC: SHU (LATE) 24.2; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a15:50::鯀則 / 尚書
+:CHARPOS: 50
+:END:
+*** 鯀@gǔn
+:PROPERTIES:
+:CONCEPT: uuid-99a80a1b-ceb5-41a7-b58f-352d971da1ba / MALES
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 50
+:END:
+鯀@gǔn	[[tls:concept:MALES::#uuid-99a80a1b-ceb5-41a7-b58f-352d971da1ba][MALES]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / Standard Name: Gǔn 鯀 Unger no. 372 ????
+*** 殛@jí
+:PROPERTIES:
+:CONCEPT: uuid-c328d847-b517-4d9b-b6ec-22ab09c84fd7 / BANISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+殛@jí	[[tls:concept:BANISH::#uuid-c328d847-b517-4d9b-b6ec-22ab09c84fd7][BANISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be banished
+** 禹乃嗣興	and his son Yu rose up (and entered on the same undertaking).
+:PROPERTIES:
+:SRC: SHU (LATE) 24.2; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a16:50::禹乃 / 尚書
+:CHARPOS: 50
+:END:
+*** 禹@yǔ / 文命@wénmìng
+:PROPERTIES:
+:CONCEPT: uuid-3df24fe0-2418-46e8-bc94-a52b490dd0da / RULERS PREHISTORIC
+:SYN-FUNC: uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770
+:CHARPOS: 50
+:END:
+禹@yǔ / 文命@wénmìng	[[tls:concept:RULERS PREHISTORIC::#uuid-3df24fe0-2418-46e8-bc94-a52b490dd0da][RULERS PREHISTORIC]]	N [[tls:syn-func::#uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770][npr]] / Unger no. 961 Yǔ
+*** 嗣興@sìxīng
+:PROPERTIES:
+:CONCEPT: uuid-d64d714d-5d69-492a-9d11-cc3dfc1e6bff / INHERIT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 52
+:END:
+嗣興@sìxīng	[[tls:concept:INHERIT::#uuid-d64d714d-5d69-492a-9d11-cc3dfc1e6bff][INHERIT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / rise as a successor
+** 彝倫攸敘	and the unvarying principles (of its method) were set forth in their due order.'
+:PROPERTIES:
+:SRC: SHU (LATE) 24.2; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a18:1::彝倫 / 尚書
+:CHARPOS: 1
+:END:
+*** 彝倫@yílún
+:PROPERTIES:
+:CONCEPT: uuid-68b16118-a43a-4acd-8eef-da21773c0e21 / PRINCIPLE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 1
+:END:
+彝倫@yílún	[[tls:concept:PRINCIPLE::#uuid-68b16118-a43a-4acd-8eef-da21773c0e21][PRINCIPLE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / constant/unvarying cosmic principles
+*** 敘@xù
+:PROPERTIES:
+:CONCEPT: uuid-7efd198e-cb6f-4e9e-8d3a-9e90bce0a67c / CONTROL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+敘@xù	[[tls:concept:CONTROL::#uuid-7efd198e-cb6f-4e9e-8d3a-9e90bce0a67c][CONTROL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / regulate; put in order; arrange
+** 初一曰五行	'(Of those divisions) the first is called the (Heaven-determined) "five cosmic material agents;"
+:PROPERTIES:
+:SRC: SHU (LATE) 24.3; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a19:50::初一 / 尚書
+:CHARPOS: 50
+:END:
+*** 五行@wǔxíng
+:PROPERTIES:
+:CONCEPT: uuid-a38787ef-33a7-40d4-a55d-3731361c7b6e / ENERGY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 53
+:END:
+五行@wǔxíng	[[tls:concept:ENERGY::#uuid-a38787ef-33a7-40d4-a55d-3731361c7b6e][ENERGY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / the five cosmic material agents 木、火、土、金、水 which determine five cosmic phases where they alternately dominate
+** 次二曰敬用五事	the second, "reverent attention to the five (Heaven-assinged) (personal) matters;"
+:PROPERTIES:
+:SRC: SHU (LATE) 24.3; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a20:50::次二 / 尚書
+:CHARPOS: 50
+:END:
+*** 敬@jìng
+:PROPERTIES:
+:CONCEPT: uuid-f1dba997-2cc6-4c89-befe-ba6051ebcf06 / DILIGENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 53
+:END:
+敬@jìng	[[tls:concept:DILIGENT::#uuid-f1dba997-2cc6-4c89-befe-ba6051ebcf06][DILIGENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / with devoted diligence, diligently
+*** 五事@wǔshì
+:PROPERTIES:
+:CONCEPT: uuid-e46e83e9-51e9-4cb8-96a5-378e2228376a / WORK
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 55
+:END:
+五事@wǔshì	[[tls:concept:WORK::#uuid-e46e83e9-51e9-4cb8-96a5-378e2228376a][WORK]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / five types of obligatory behaviour/tasks 指古代統治者修身的五件事，謂貌恭、言從、視明、聽聰、思睿。《書‧洪範》："五事：一曰貌，二曰言，三曰視，四曰聽，五曰思。貌曰恭，言曰從，視曰明，聽曰聰，思曰睿。"
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-d3b1124d-9e4e-47ae-8d7e-5e4a5ae6485e / WORK
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 56
+:END:
+事@shì	[[tls:concept:WORK::#uuid-d3b1124d-9e4e-47ae-8d7e-5e4a5ae6485e][WORK]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / kinds of official task
+** 次三曰農用八政	the third, "earnest devotion to the eight (Heaven-determined) (objects of) government;"
+:PROPERTIES:
+:SRC: SHU (LATE) 24.3; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a21:50::次三 / 尚書
+:CHARPOS: 50
+:END:
+*** 農@nóng
+:PROPERTIES:
+:CONCEPT: uuid-d0b63571-6cfb-4b7b-b3f7-f69dc0c8bbf9 / EFFORT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 53
+:END:
+農@nóng	[[tls:concept:EFFORT::#uuid-d0b63571-6cfb-4b7b-b3f7-f69dc0c8bbf9][EFFORT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / with laborious efforts, energetically
+*** 政@zhèng
+:PROPERTIES:
+:CONCEPT: uuid-c98150bd-f02a-498b-906f-4a7d0eefbd5e / OFFICE
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 56
+:END:
+政@zhèng	[[tls:concept:OFFICE::#uuid-c98150bd-f02a-498b-906f-4a7d0eefbd5e][OFFICE]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / government department; administrative department
+** 次四曰協用五紀	the fourth, "the harmonious use of the five (Heaven-sanctioned) dividers of time;"
+:PROPERTIES:
+:SRC: SHU (LATE) 24.3; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a22:50::次四 / 尚書
+:CHARPOS: 50
+:END:
+*** 協@xié
+:PROPERTIES:
+:CONCEPT: uuid-f4bcdb83-5a2f-4643-adf3-8bb4b86a19d9 / HARMONY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 53
+:END:
+協@xié	[[tls:concept:HARMONY::#uuid-f4bcdb83-5a2f-4643-adf3-8bb4b86a19d9][HARMONY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / harmoniously
+** 次五曰建用皇極	the fifth, "the establishment and use of (Heaven-sanctioned) royal perfection;"
+:PROPERTIES:
+:SRC: SHU (LATE) 24.3; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a23:50::次五 / 尚書
+:CHARPOS: 50
+:END:
+*** 建@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-12f2d60e-ce2e-49bf-9573-caff90ad6206 / ESTABLISH
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 53
+:END:
+建@jiàn	[[tls:concept:ESTABLISH::#uuid-12f2d60e-ce2e-49bf-9573-caff90ad6206][ESTABLISH]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / constructively
+*** 皇極@huángjí
+:PROPERTIES:
+:CONCEPT: uuid-31c44be4-cfd7-4d31-8325-5738eb80d110 / PRINCIPLE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 55
+:END:
+皇極@huángjí	[[tls:concept:PRINCIPLE::#uuid-31c44be4-cfd7-4d31-8325-5738eb80d110][PRINCIPLE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / august correctness; ideal principles of imperial government
+** 次六曰乂用三德	the sixth, "the discriminating use of the (Heaven-determined) three virtues;"
+:PROPERTIES:
+:SRC: SHU (LATE) 24.3; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a24:50::次六 / 尚書
+:CHARPOS: 50
+:END:
+*** 乂@yì
+:PROPERTIES:
+:CONCEPT: uuid-980c1169-5116-4e85-b5aa-3f353ddcf00e / GOVERN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 53
+:END:
+乂@yì	[[tls:concept:GOVERN::#uuid-980c1169-5116-4e85-b5aa-3f353ddcf00e][GOVERN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in a properly regulated way
+** 次七曰明用稽疑	the seventh, "the intelligent use of (Heaven-imposed) examination of doubts;"
+:PROPERTIES:
+:SRC: SHU (LATE) 24.3; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a25:50::次七 / 尚書
+:CHARPOS: 50
+:END:
+*** 明@míng
+:PROPERTIES:
+:CONCEPT: uuid-8d2448a1-d8ed-42b9-b3a7-10544d95db2e / INTELLIGENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 53
+:END:
+明@míng	[[tls:concept:INTELLIGENT::#uuid-8d2448a1-d8ed-42b9-b3a7-10544d95db2e][INTELLIGENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / intelligently
+*** 稽@jī
+:PROPERTIES:
+:CONCEPT: uuid-b3d20a23-5892-45e0-ab44-9fab0a619deb / INVESTIGATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+稽@jī	[[tls:concept:INVESTIGATE::#uuid-b3d20a23-5892-45e0-ab44-9fab0a619deb][INVESTIGATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / investigate (e.g. antiquity)
+*** 疑@yí
+:PROPERTIES:
+:CONCEPT: uuid-664b3a1c-0efd-44a4-9051-6a04c6f181ba / DOUBT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d
+:CHARPOS: 56
+:END:
+疑@yí	[[tls:concept:DOUBT::#uuid-664b3a1c-0efd-44a4-9051-6a04c6f181ba][DOUBT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d][factual]]} / passive: what is doubted; doubtful point; doubtful situation;
+** 次八曰念用庶徵	the eighth, "the thoughtful use of the various (Heaven-licenced) verifications;"
+:PROPERTIES:
+:SRC: SHU (LATE) 24.3; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a26:50::次八 / 尚書
+:CHARPOS: 50
+:END:
+*** 念@niàn
+:PROPERTIES:
+:CONCEPT: uuid-73ab2062-3b94-4fb4-9910-3559e53e989b / THINK
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 53
+:END:
+念@niàn	[[tls:concept:THINK::#uuid-73ab2062-3b94-4fb4-9910-3559e53e989b][THINK]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / deliberately, with deliberate thought.
+*** 庶@shù
+:PROPERTIES:
+:CONCEPT: uuid-cb0c66a9-7f54-4b89-8753-73936084e0ef / MANY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 55
+:END:
+庶@shù	[[tls:concept:MANY::#uuid-cb0c66a9-7f54-4b89-8753-73936084e0ef][MANY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the numerous; all the many, all the multifarious
+** 次九曰嚮用五福	the ninth, "the aspiring use of the five (Heaven-conferred) happiness,
+:PROPERTIES:
+:SRC: SHU (LATE) 24.3; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a27:50::次九 / 尚書
+:CHARPOS: 50
+:END:
+*** 福@fú
+:PROPERTIES:
+:CONCEPT: uuid-00e62594-840d-4d2c-948b-7cb5dd9c17c2 / HAPPY
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 56
+:END:
+福@fú	[[tls:concept:HAPPY::#uuid-00e62594-840d-4d2c-948b-7cb5dd9c17c2][HAPPY]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / (sources of) happiness
+** 土爰稼穡	while (that of) earth is seen in seed-sowing and in-gathering.
+:PROPERTIES:
+:SRC: SHU (LATE) 24.4.1; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a39:1::土爰 / 尚書
+:CHARPOS: 1
+:END:
+*** 稼穡@jiàsè
+:PROPERTIES:
+:CONCEPT: uuid-ce9fb513-993c-419d-837a-280c3e829f3b / AGRICULTURE
+:SYN-FUNC: uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+稼穡@jiàsè	[[tls:concept:AGRICULTURE::#uuid-ce9fb513-993c-419d-837a-280c3e829f3b][AGRICULTURE]]	N [[tls:syn-func::#uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54][NPab{N1&N2}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (sow and harvest>) husbandry; agricultural production
+** 稼穡作甘	and from seed-sowing and in-gathering comes sweetness.'
+:PROPERTIES:
+:SRC: SHU (LATE) 24.4.2; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a44:1::稼穡 / 尚書
+:CHARPOS: 1
+:END:
+*** 稼穡@jiàsè
+:PROPERTIES:
+:CONCEPT: uuid-ce9fb513-993c-419d-837a-280c3e829f3b / AGRICULTURE
+:SYN-FUNC: uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+稼穡@jiàsè	[[tls:concept:AGRICULTURE::#uuid-ce9fb513-993c-419d-837a-280c3e829f3b][AGRICULTURE]]	N [[tls:syn-func::#uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54][NPab{N1&N2}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (sow and harvest>) husbandry; agricultural production
+** 二五事	'Second, of the five (personal) matters.
+:PROPERTIES:
+:SRC: SHU (LATE) 24.5; tr. Legge p. 320ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a45:50::二、 / 尚書
+:CHARPOS: 50
+:END:
+*** 五事@wǔshì
+:PROPERTIES:
+:CONCEPT: uuid-e46e83e9-51e9-4cb8-96a5-378e2228376a / WORK
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 51
+:END:
+五事@wǔshì	[[tls:concept:WORK::#uuid-e46e83e9-51e9-4cb8-96a5-378e2228376a][WORK]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / five types of obligatory behaviour/tasks 指古代統治者修身的五件事，謂貌恭、言從、視明、聽聰、思睿。《書‧洪範》："五事：一曰貌，二曰言，三曰視，四曰聽，五曰思。貌曰恭，言曰從，視曰明，聽曰聰，思曰睿。"
+** 五皇極	Fifth: the august correctness.
+:PROPERTIES:
+:SRC: SHU 24.9
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a74:1::五、 / 尚書
+:CHARPOS: 1
+:END:
+*** 皇極@huángjí
+:PROPERTIES:
+:CONCEPT: uuid-31c44be4-cfd7-4d31-8325-5738eb80d110 / PRINCIPLE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 2
+:END:
+皇極@huángjí	[[tls:concept:PRINCIPLE::#uuid-31c44be4-cfd7-4d31-8325-5738eb80d110][PRINCIPLE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / august correctness; ideal principles of imperial government
+*** 極@jí
+:PROPERTIES:
+:CONCEPT: uuid-010e7c7e-bb25-49e8-99ac-f2fc83115384 / PRINCIPLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-62a630be-58ae-44f4-b858-a7540b2de8d3
+:CHARPOS: 3
+:END:
+極@jí	[[tls:concept:PRINCIPLE::#uuid-010e7c7e-bb25-49e8-99ac-f2fc83115384][PRINCIPLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-62a630be-58ae-44f4-b858-a7540b2de8d3][moral]]} / ultimate moral and social principle; high principle
+** 皇建其有極	When the august one firmly establishes the correctness he posesses,
+:PROPERTIES:
+:SRC: SHU 24.9
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a75:50::皇建 / 尚書
+:CHARPOS: 50
+:END:
+*** 極@jí
+:PROPERTIES:
+:CONCEPT: uuid-010e7c7e-bb25-49e8-99ac-f2fc83115384 / PRINCIPLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-62a630be-58ae-44f4-b858-a7540b2de8d3
+:CHARPOS: 54
+:END:
+極@jí	[[tls:concept:PRINCIPLE::#uuid-010e7c7e-bb25-49e8-99ac-f2fc83115384][PRINCIPLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-62a630be-58ae-44f4-b858-a7540b2de8d3][moral]]} / ultimate moral and social principle; high principle
+** 用敷錫厥庶民	and largely bestows them upon his people;
+:PROPERTIES:
+:SRC: SHU 24.9
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a77:1::用敷 / 尚書
+:CHARPOS: 1
+:END:
+*** 庶民@shùmín
+:PROPERTIES:
+:CONCEPT: uuid-e3355869-4f9f-47ae-a4ee-68ff6ac2e3a8 / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 5
+:END:
+庶民@shùmín	[[tls:concept:PEOPLE::#uuid-e3355869-4f9f-47ae-a4ee-68ff6ac2e3a8][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / SHI: the multitudinous people
+** 凡厥庶民	Among all the people,
+:PROPERTIES:
+:SRC: SHU 24.10
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a79:1::凡厥 / 尚書
+:CHARPOS: 1
+:END:
+*** 庶民@shùmín
+:PROPERTIES:
+:CONCEPT: uuid-e3355869-4f9f-47ae-a4ee-68ff6ac2e3a8 / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 3
+:END:
+庶民@shùmín	[[tls:concept:PEOPLE::#uuid-e3355869-4f9f-47ae-a4ee-68ff6ac2e3a8][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / SHI: the multitudinous people
+** 惟皇作極	is because the august one (makes=) creates correctness.
+:PROPERTIES:
+:SRC: SHU 24.10
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a82:1::惟皇 / 尚書
+:CHARPOS: 1
+:END:
+*** 〓#皇極@huángjí
+:PROPERTIES:
+:CONCEPT: uuid-31c44be4-cfd7-4d31-8325-5738eb80d110 / PRINCIPLE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 1
+:END:
+〓#皇極@huángjí	[[tls:concept:PRINCIPLE::#uuid-31c44be4-cfd7-4d31-8325-5738eb80d110][PRINCIPLE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / august correctness; ideal principles of imperial government
+** 凡厥庶民	Among all the people,
+:PROPERTIES:
+:SRC: SHU 24.11
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a83:1::凡厥 / 尚書
+:CHARPOS: 1
+:END:
+*** 庶民@shùmín
+:PROPERTIES:
+:CONCEPT: uuid-e3355869-4f9f-47ae-a4ee-68ff6ac2e3a8 / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 3
+:END:
+庶民@shùmín	[[tls:concept:PEOPLE::#uuid-e3355869-4f9f-47ae-a4ee-68ff6ac2e3a8][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / SHI: the multitudinous people
+** 不罹于咎	but do not fall into evil,
+:PROPERTIES:
+:SRC: SHU 24.11
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a87:1::不罹 / 尚書
+:CHARPOS: 1
+:END:
+*** 罹@lí
+:PROPERTIES:
+:CONCEPT: uuid-ba0f14f9-7c06-4283-8b77-28678cd6852f / SUFFER
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 2
+:END:
+罹@lí	[[tls:concept:SUFFER::#uuid-ba0f14f9-7c06-4283-8b77-28678cd6852f][SUFFER]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / suffer
+*** 咎@jiù
+:PROPERTIES:
+:CONCEPT: uuid-7dab8bbe-f850-4f98-b952-3cfff6bee02f / DISASTER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 4
+:END:
+咎@jiù	[[tls:concept:DISASTER::#uuid-7dab8bbe-f850-4f98-b952-3cfff6bee02f][DISASTER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / (deserved) bad fortune; (deserved) disaster; (deserved) calamity
+** 予攸好德	"what is love is virtue",
+:PROPERTIES:
+:SRC: SHU 24.11
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a89:6::予攸 / 尚書
+:CHARPOS: 6
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 6
+:END:
+予@yú	[[tls:concept:EGO::#uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (as a non-agential experiencer participant)
+** 汝則錫之福	and then you should give them happiness(i.e. emoluments).
+:PROPERTIES:
+:SRC: SHU 24.11
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a90:50::汝則 / 尚書
+:CHARPOS: 50
+:END:
+*** 福@fú
+:PROPERTIES:
+:CONCEPT: uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 54
+:END:
+福@fú	[[tls:concept:HAPPY::#uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / good fortune and happiness (also in the form of wealth...); blessings
+** 無虐煢獨	Do not oppress thosewho are helpless and alone,
+:PROPERTIES:
+:SRC: SHU 24.12
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a92:1::無虐 / 尚書
+:CHARPOS: 1
+:END:
+*** 煢獨@qióngdú
+:PROPERTIES:
+:CONCEPT: uuid-360ea770-1b3f-4659-a667-46e18e4a324f / ALONE
+:SYN-FUNC: uuid-080d3352-c9b3-40b5-8aed-7996007863d9
+:CHARPOS: 3
+:END:
+煢獨@qióngdú	[[tls:concept:ALONE::#uuid-360ea770-1b3f-4659-a667-46e18e4a324f][ALONE]]	N [[tls:syn-func::#uuid-080d3352-c9b3-40b5-8aed-7996007863d9][NP{adN}]] / somebody who is alone and without anyone to turn to for support
+** 人之有能有為	When there are men who have ability and activity,
+:PROPERTIES:
+:SRC: SHU 24.13
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a93:1::人之 / 尚書
+:CHARPOS: 1
+:END:
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-49c40490-ca65-4711-8a0d-5fdb21b9123a / ABLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 4
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-49c40490-ca65-4711-8a0d-5fdb21b9123a][ABLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / capability; physical capability, concrete technical capability; potential, capacity 人各有能
+** 汝雖錫之福	even though you give them happiness (i.e. emoluments)
+:PROPERTIES:
+:SRC: SHU 24.13
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a101:1::汝雖 / 尚書
+:CHARPOS: 1
+:END:
+*** 福@fú
+:PROPERTIES:
+:CONCEPT: uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 5
+:END:
+福@fú	[[tls:concept:HAPPY::#uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / good fortune and happiness (also in the form of wealth...); blessings
+** 惟辟作福	It is the ruler who (makes happiness=) dispenses favours,
+:PROPERTIES:
+:SRC: SHU 24.18
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a134:1::惟辟 / 尚書
+:CHARPOS: 1
+:END:
+*** 福@fú
+:PROPERTIES:
+:CONCEPT: uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+福@fú	[[tls:concept:HAPPY::#uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / good fortune and happiness (also in the form of wealth...); blessings
+** 凶于而國	and baleful to you state.
+:PROPERTIES:
+:SRC: SHU 24.19
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a140:1::凶于 / 尚書
+:CHARPOS: 1
+:END:
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-f059691f-9b94-43df-805c-c1b797289c5a / DISASTER
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 1
+:END:
+凶@xiōng	[[tls:concept:DISASTER::#uuid-f059691f-9b94-43df-805c-c1b797289c5a][DISASTER]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / bring disaster to
+** 曰雨曰霽	They are called (oracles about) rain, clearing up,
+:PROPERTIES:
+:SRC: SHU 24.21
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a146:1::曰雨 / 尚書
+:CHARPOS: 1
+:END:
+*** 霽@jì
+:PROPERTIES:
+:CONCEPT: uuid-c9255619-07d9-489c-b7aa-cb11d88ac17c / SKY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 4
+:END:
+霽@jì	[[tls:concept:SKY::#uuid-c9255619-07d9-489c-b7aa-cb11d88ac17c][SKY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / clearing sky; clear sky
+** 用靜吉	to remain still is auspicious,
+:PROPERTIES:
+:SRC: SHU 24.25.4
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a180:1::用靜 / 尚書
+:CHARPOS: 1
+:END:
+*** 吉@jí
+:PROPERTIES:
+:CONCEPT: uuid-02c1fe1e-4c84-491b-a20f-e073254dd8de / AUSPICIOUS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+吉@jí	[[tls:concept:AUSPICIOUS::#uuid-02c1fe1e-4c84-491b-a20f-e073254dd8de][AUSPICIOUS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be auspicious; be lucky; bode well
+** 用作凶	to act is baleful.
+:PROPERTIES:
+:SRC: SHU 24.25.4
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a180:50::用作 / 尚書
+:CHARPOS: 50
+:END:
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-f521f979-92eb-42b7-bc3e-c719d4d1aece / INAUSPICIOUS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-9dc3f28d-b073-4711-a1bb-bdb3615e6896
+:CHARPOS: 52
+:END:
+凶@xiōng	[[tls:concept:INAUSPICIOUS::#uuid-f521f979-92eb-42b7-bc3e-c719d4d1aece][INAUSPICIOUS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-9dc3f28d-b073-4711-a1bb-bdb3615e6896][non-graded]]} / be ominous, baleful, ill-omened, inauspicious
+** 曰休徵	(Some) are called the lucky verifications.
+:PROPERTIES:
+:SRC: SHU 24.28
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a189:9::曰休 / 尚書
+:CHARPOS: 9
+:END:
+*** 徵@zhēng
+:PROPERTIES:
+:CONCEPT: uuid-202ad550-71c7-46a6-8510-346f641be7fd / PROVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d
+:CHARPOS: 11
+:END:
+徵@zhēng	[[tls:concept:PROVE::#uuid-202ad550-71c7-46a6-8510-346f641be7fd][PROVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d][factual]]} / symptom, indication, external signs; proofs, verifications
+** 曰咎徵	(Some) are called unlucky verifications.
+:PROPERTIES:
+:SRC: SHU 24.28
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_032:2a195:1::曰咎 / 尚書
+:CHARPOS: 1
+:END:
+*** 咎@jiù
+:PROPERTIES:
+:CONCEPT: uuid-a4a3179b-eda5-4ce2-8eb0-6604a4d29d6d / INAUSPICIOUS
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 2
+:END:
+咎@jiù	[[tls:concept:INAUSPICIOUS::#uuid-a4a3179b-eda5-4ce2-8eb0-6604a4d29d6d][INAUSPICIOUS]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / inauspicious, unlucky
+*** 徵@zhēng
+:PROPERTIES:
+:CONCEPT: uuid-202ad550-71c7-46a6-8510-346f641be7fd / PROVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d
+:CHARPOS: 3
+:END:
+徵@zhēng	[[tls:concept:PROVE::#uuid-202ad550-71c7-46a6-8510-346f641be7fd][PROVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d][factual]]} / symptom, indication, external signs; proofs, verifications

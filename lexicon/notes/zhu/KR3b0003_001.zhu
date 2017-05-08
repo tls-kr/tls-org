@@ -1,0 +1,2145 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 孫子 KR3b0003_001
+#+DATE: 2017-02-08T16:41:51+0900
+#+PROPERTY: COMMIT f58b107877af9acbe27a2ae64200a849f16ab283
+** 孫子曰	Sunzi said:
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3b0003_001:1a01:50::孫子 / 孫子
+:CHARPOS: 50
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-8fff2d95-8f01-41c6-9344-b798d74d2831 / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8
+:CHARPOS: 52
+:END:
+曰@yuē	[[tls:concept:SPEAK::#uuid-8fff2d95-8f01-41c6-9344-b798d74d2831][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8][direct-speech]]} / say: S
+** 兵者	The art of war
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3b0003_001:1a02:50::兵者 / 孫子
+:CHARPOS: 50
+:END:
+*** 兵@bīng
+:PROPERTIES:
+:CONCEPT: uuid-1508bbae-7dae-481b-a3f2-1fae801be678 / WARFARE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+兵@bīng	[[tls:concept:WARFARE::#uuid-1508bbae-7dae-481b-a3f2-1fae801be678][WARFARE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / warfare
+** 國之大事也	is of of vital importance to the state.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3b0003_001:1a03:50::國之 / 孫子
+:CHARPOS: 50
+:END:
+*** 國@guó
+:PROPERTIES:
+:CONCEPT: uuid-40971358-408f-421b-b7d3-709fb75801e0 / STATE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+國@guó	[[tls:concept:STATE::#uuid-40971358-408f-421b-b7d3-709fb75801e0][STATE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / (in general:) the state
+*** 大@dà
+:PROPERTIES:
+:CONCEPT: uuid-276aed56-a026-46a4-8053-96f4c3ab1450 / IMPORTANT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+大@dà	[[tls:concept:IMPORTANT::#uuid-276aed56-a026-46a4-8053-96f4c3ab1450][IMPORTANT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / important, substantial; the most important 甚大
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-7e1a2d80-ae3b-4b7d-9e0b-95b7fe4db85e / THING
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 53
+:END:
+事@shì	[[tls:concept:THING::#uuid-7e1a2d80-ae3b-4b7d-9e0b-95b7fe4db85e][THING]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / affairs; matter, thing; subject matter (of a painting) 不然之事
+** 死生之地	It is a matter of life and death,
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3b0003_001:1a04:50::死生 / 孫子
+:CHARPOS: 50
+:END:
+*** 死生@sǐshēng
+:PROPERTIES:
+:CONCEPT: uuid-5ea17cc6-667e-4018-aa8f-531107db26b4 / LIVE
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:CHARPOS: 50
+:END:
+死生@sǐshēng	[[tls:concept:LIVE::#uuid-5ea17cc6-667e-4018-aa8f-531107db26b4][LIVE]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] / life on earth; one's dying or staying alive
+*** 地@dì
+:PROPERTIES:
+:CONCEPT: uuid-a36d9cab-d8fb-4936-8294-4b490cb9cdea / PLACE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 53
+:END:
+地@dì	[[tls:concept:PLACE::#uuid-a36d9cab-d8fb-4936-8294-4b490cb9cdea][PLACE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / the decisive point (that determines an outcome)
+** 存亡之道	a road either to safety or to ruin.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3b0003_001:1a05:50::存亡 / 孫子
+:CHARPOS: 50
+:END:
+*** 存亡@cúnwáng
+:PROPERTIES:
+:CONCEPT: uuid-d31d8737-fea1-4609-af45-d8511d32bddf / EXIST
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 50
+:END:
+存亡@cúnwáng	[[tls:concept:EXIST::#uuid-d31d8737-fea1-4609-af45-d8511d32bddf][EXIST]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / existence or otherwise
+** 不可不察也	Hence it is a subject of inquiry which [can] on no account be neglected.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3b0003_001:1a06:50::不可 / 孫子
+:CHARPOS: 50
+:END:
+*** 不可不@bùkěbù
+:PROPERTIES:
+:CONCEPT: uuid-9575001b-a426-4b2d-944c-7f20c581d833 / SHOULD
+:SYN-FUNC: uuid-574cb956-877c-4eaa-9a24-c8641607f917
+:CHARPOS: 50
+:END:
+不可不@bùkěbù	[[tls:concept:SHOULD::#uuid-9575001b-a426-4b2d-944c-7f20c581d833][SHOULD]]	V [[tls:syn-func::#uuid-574cb956-877c-4eaa-9a24-c8641607f917][VPt+V{0}{PASS}]] / should by all means be V-ed
+*** 不可不@bùkěbù
+:PROPERTIES:
+:CONCEPT: uuid-1ea5c516-5dad-440f-8da9-affcd51d8015 / SHOULD
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 50
+:END:
+不可不@bùkěbù	[[tls:concept:SHOULD::#uuid-1ea5c516-5dad-440f-8da9-affcd51d8015][SHOULD]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / have to; must; should by all means; should not fail to
+** 故經之以五事	The art of war, then, is governed by five constant factors,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a01:1::故經 / 孫子
+:CHARPOS: 1
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-46411c62-20cf-4252-a454-66239611b824 / THEREFORE
+:SYN-FUNC: uuid-ffe8b29b-2e3a-4821-b3c9-9bdf54cfec5e
+:SEM-FEAT: uuid-2e959f8a-db74-4130-98f4-38026d957374
+:CHARPOS: 1
+:END:
+故@gù	[[tls:concept:THEREFORE::#uuid-46411c62-20cf-4252-a454-66239611b824][THEREFORE]]	N [[tls:syn-func::#uuid-ffe8b29b-2e3a-4821-b3c9-9bdf54cfec5e][nadS1.postS2]] {[[tls:sem-feat::#uuid-2e959f8a-db74-4130-98f4-38026d957374][objective reason]]} / the result is; consequently
+*** 經@jīng
+:PROPERTIES:
+:CONCEPT: uuid-96cf65c5-0543-4daa-b5b0-5e01dd42c0d3 / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+經@jīng	[[tls:concept:GOVERN::#uuid-96cf65c5-0543-4daa-b5b0-5e01dd42c0d3][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / govern well, govern properly; deal with efficiently as the person responsible
+*** 五事@wǔshì
+:PROPERTIES:
+:CONCEPT: uuid-e46e83e9-51e9-4cb8-96a5-378e2228376a / WORK
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 5
+:END:
+五事@wǔshì	[[tls:concept:WORK::#uuid-e46e83e9-51e9-4cb8-96a5-378e2228376a][WORK]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / five types of obligatory behaviour/tasks 指古代統治者修身的五件事，謂貌恭、言從、視明、聽聰、思睿。《書‧洪範》："五事：一曰貌，二曰言，三曰視，四曰聽，五曰思。貌曰恭，言曰從，視曰明，聽曰聰，思曰睿。"
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-2b5855c6-f1c8-470c-af26-6bfb17b16836 / WORK
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+事@shì	[[tls:concept:WORK::#uuid-2b5855c6-f1c8-470c-af26-6bfb17b16836][WORK]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (especially official) matter, especially: public task, official business; public event; public project, (military) undertaking, task; one's professional concern 五事
+** 校之以計	to be taken into account in one's deliberations,
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a02:50::校之 / 孫子
+:CHARPOS: 50
+:END:
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-f68711ab-02c4-43f1-bcb5-d9c7c6bdd953 / USE
+:SYN-FUNC: uuid-15d1678a-ea15-4e9c-a381-75b2f8531623
+:CHARPOS: 52
+:END:
+以@yǐ	[[tls:concept:USE::#uuid-f68711ab-02c4-43f1-bcb5-d9c7c6bdd953][USE]]	V [[tls:syn-func::#uuid-15d1678a-ea15-4e9c-a381-75b2f8531623][vtoN.postadV]] / To V by using> by means of N; with
+*** 計@jì
+:PROPERTIES:
+:CONCEPT: uuid-7730bfea-772c-4949-b12f-26afbbb9e032 / CALCULATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+計@jì	[[tls:concept:CALCULATE::#uuid-7730bfea-772c-4949-b12f-26afbbb9e032][CALCULATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / arithmetics; calculation of an amount; calculation of the relevant advantages
+** 而索其情	when seeking to determine the conditions obtaining in the field.
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a02:50::而索 / 孫子
+:CHARPOS: 50
+:END:
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-018170e0-ae13-4999-a9ef-8bd356066fd7 / AND
+:SYN-FUNC: uuid-d4e1570d-69fc-493c-b2ec-d1f0f5b56e05
+:SEM-FEAT: uuid-dcdf1d0d-3149-4d15-9abe-7cfe96419413
+:CHARPOS: 50
+:END:
+而@ér	[[tls:concept:AND::#uuid-018170e0-ae13-4999-a9ef-8bd356066fd7][AND]]	P [[tls:syn-func::#uuid-d4e1570d-69fc-493c-b2ec-d1f0f5b56e05][padS1.post-S2]] {[[tls:sem-feat::#uuid-dcdf1d0d-3149-4d15-9abe-7cfe96419413][logic]]} / and 任重而道遠"his burden is heavy and the way is far"
+*** 索@suǒ
+:PROPERTIES:
+:CONCEPT: uuid-183d42e8-40ef-4b25-b544-cd39be5709ec / INVESTIGATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+索@suǒ	[[tls:concept:INVESTIGATE::#uuid-183d42e8-40ef-4b25-b544-cd39be5709ec][INVESTIGATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / inquire into, try to find out about
+*** 情@qíng
+:PROPERTIES:
+:CONCEPT: uuid-4f2112cc-582f-4746-9ba4-8b75dda8e78e / REALITY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 53
+:END:
+情@qíng	[[tls:concept:REALITY::#uuid-4f2112cc-582f-4746-9ba4-8b75dda8e78e][REALITY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / real facts of a matter, real state of affairs; real facts of a case
+** 一曰道	These are: (1) The Moral Law;
+:PROPERTIES:
+:SRC: SUN 1.2.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a03:50::一曰 / 孫子
+:CHARPOS: 50
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-0aedd64a-6fcc-4321-9051-1b8c739ba4c1 / COPULA
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:SEM-FEAT: uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9
+:CHARPOS: 51
+:END:
+曰@yuē	[[tls:concept:COPULA::#uuid-0aedd64a-6fcc-4321-9051-1b8c739ba4c1][COPULA]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] {[[tls:sem-feat::#uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9][copula]]} / be; be called; run as follows
+*** 道@dào
+:PROPERTIES:
+:CONCEPT: uuid-fb72f1a5-6178-4456-af09-a27a84e1aa10 / METHOD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 52
+:END:
+道@dào	[[tls:concept:METHOD::#uuid-fb72f1a5-6178-4456-af09-a27a84e1aa10][METHOD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / mass noun that can be counted and specified as being somebody's: way, or the way of doing something; ways (of the world)
+** 二曰天	(2) Heaven;
+:PROPERTIES:
+:SRC: SUN 1.2.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a04:50::二曰 / 孫子
+:CHARPOS: 50
+:END:
+*** 二@èr
+:PROPERTIES:
+:CONCEPT: uuid-e3dd190b-a9d9-4155-a498-a7721054cae4 / TWO
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-910844e5-a3af-4a9f-ab4c-eb5a6b57d068
+:CHARPOS: 50
+:END:
+二@èr	[[tls:concept:TWO::#uuid-e3dd190b-a9d9-4155-a498-a7721054cae4][TWO]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-910844e5-a3af-4a9f-ab4c-eb5a6b57d068][ordinal]]} / the second item
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-0aedd64a-6fcc-4321-9051-1b8c739ba4c1 / COPULA
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:SEM-FEAT: uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9
+:CHARPOS: 51
+:END:
+曰@yuē	[[tls:concept:COPULA::#uuid-0aedd64a-6fcc-4321-9051-1b8c739ba4c1][COPULA]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] {[[tls:sem-feat::#uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9][copula]]} / be; be called; run as follows
+*** 天@tiān
+:PROPERTIES:
+:CONCEPT: uuid-9182922f-693a-4854-b083-6f18848a4ce8 / SEASON
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 52
+:END:
+天@tiān	[[tls:concept:SEASON::#uuid-9182922f-693a-4854-b083-6f18848a4ce8][SEASON]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / seasonal conditions, including weather conditions
+** 三曰地	(3) Earth;
+:PROPERTIES:
+:SRC: SUN 1.2.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a05:50::三曰 / 孫子
+:CHARPOS: 50
+:END:
+*** 三@sān
+:PROPERTIES:
+:CONCEPT: uuid-e0dc1b5b-2d49-4a5d-8e48-65ef0d7e28cb / THREE
+:SYN-FUNC: uuid-df67c06f-c5fc-4f11-893b-fc307b4bfa45
+:SEM-FEAT: uuid-910844e5-a3af-4a9f-ab4c-eb5a6b57d068
+:CHARPOS: 50
+:END:
+三@sān	[[tls:concept:THREE::#uuid-e0dc1b5b-2d49-4a5d-8e48-65ef0d7e28cb][THREE]]	 [[tls:syn-func::#uuid-df67c06f-c5fc-4f11-893b-fc307b4bfa45][v(adN)]] {[[tls:sem-feat::#uuid-910844e5-a3af-4a9f-ab4c-eb5a6b57d068][ordinal]]} / the third item
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-0aedd64a-6fcc-4321-9051-1b8c739ba4c1 / COPULA
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:SEM-FEAT: uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9
+:CHARPOS: 51
+:END:
+曰@yuē	[[tls:concept:COPULA::#uuid-0aedd64a-6fcc-4321-9051-1b8c739ba4c1][COPULA]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] {[[tls:sem-feat::#uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9][copula]]} / be; be called; run as follows
+*** 地@dì
+:PROPERTIES:
+:CONCEPT: uuid-f9a9ee4f-afe2-4af4-b5a4-923d7d9e4fba / LANDSCAPE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 52
+:END:
+地@dì	[[tls:concept:LANDSCAPE::#uuid-f9a9ee4f-afe2-4af4-b5a4-923d7d9e4fba][LANDSCAPE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / terrain, military relevant geografic features
+** 四曰將	(4) The Commander;
+:PROPERTIES:
+:SRC: SUN 1.2.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a06:50::四曰 / 孫子
+:CHARPOS: 50
+:END:
+*** 四@sì
+:PROPERTIES:
+:CONCEPT: uuid-c2d6393f-918b-4fb5-a49c-43e948392b1f / FOUR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-910844e5-a3af-4a9f-ab4c-eb5a6b57d068
+:CHARPOS: 50
+:END:
+四@sì	[[tls:concept:FOUR::#uuid-c2d6393f-918b-4fb5-a49c-43e948392b1f][FOUR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-910844e5-a3af-4a9f-ab4c-eb5a6b57d068][ordinal]]} / the fourth item
+*** 將@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-45857f92-735f-41fc-afb3-339a443266f3 / GENERAL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+將@jiàng	[[tls:concept:GENERAL::#uuid-45857f92-735f-41fc-afb3-339a443266f3][GENERAL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / general, commander
+** 五曰法	(5) Method and discipline.
+:PROPERTIES:
+:SRC: SUN 1.2.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a07:50::五曰 / 孫子
+:CHARPOS: 50
+:END:
+*** 五@wǔ
+:PROPERTIES:
+:CONCEPT: uuid-c5e802ed-96ff-4a57-86a2-280baae01154 / FIVE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-910844e5-a3af-4a9f-ab4c-eb5a6b57d068
+:CHARPOS: 50
+:END:
+五@wǔ	[[tls:concept:FIVE::#uuid-c5e802ed-96ff-4a57-86a2-280baae01154][FIVE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-910844e5-a3af-4a9f-ab4c-eb5a6b57d068][ordinal]]} / the fifth item
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-0aedd64a-6fcc-4321-9051-1b8c739ba4c1 / COPULA
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:SEM-FEAT: uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9
+:CHARPOS: 51
+:END:
+曰@yuē	[[tls:concept:COPULA::#uuid-0aedd64a-6fcc-4321-9051-1b8c739ba4c1][COPULA]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] {[[tls:sem-feat::#uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9][copula]]} / be; be called; run as follows
+*** 法@fǎ
+:PROPERTIES:
+:CONCEPT: uuid-376597e6-3d9f-4725-91c4-e5aa2124dd3d / COMMAND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 52
+:END:
+法@fǎ	[[tls:concept:COMMAND::#uuid-376597e6-3d9f-4725-91c4-e5aa2124dd3d][COMMAND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / military orders
+** 道者	The Moral Law
+:PROPERTIES:
+:SRC: SUN 1.2.3 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a08:50::道者 / 孫子
+:CHARPOS: 50
+:END:
+*** 道@dào
+:PROPERTIES:
+:CONCEPT: uuid-da62fd99-9452-4473-b8e2-41270b5ec8f7 / METHOD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-57a4e9da-7fea-40ed-af93-3816c51d5ad2
+:CHARPOS: 50
+:END:
+道@dào	[[tls:concept:METHOD::#uuid-da62fd99-9452-4473-b8e2-41270b5ec8f7][METHOD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-57a4e9da-7fea-40ed-af93-3816c51d5ad2][ideological]]} / ideology, standard way of thinking imposed on a group or dominating a group
+** 令民與上同意也	causes the people to be in complete accord with the ruler,
+:PROPERTIES:
+:SRC: SUN 1.2.3 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a09:50::令民 / 孫子
+:CHARPOS: 50
+:END:
+*** 令@lìng
+:PROPERTIES:
+:CONCEPT: uuid-105b8aa0-53d3-4266-a541-a78900b2ca6a / CAUSE TO
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 50
+:END:
+令@lìng	[[tls:concept:CAUSE TO::#uuid-105b8aa0-53d3-4266-a541-a78900b2ca6a][CAUSE TO]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / cause to, get (someone) to (do something); send (someone to do somthing)
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-230a526c-700a-4a18-8f2d-a78e538b7b1e / WITH
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-65e08e4c-6f19-43b7-875b-def687fa4be1
+:CHARPOS: 52
+:END:
+與@yǔ	[[tls:concept:WITH::#uuid-230a526c-700a-4a18-8f2d-a78e538b7b1e][WITH]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-65e08e4c-6f19-43b7-875b-def687fa4be1][interact]]} / in interaction with; in association with; with; in collusion with, in cooperation with (NB: MOVE THE HOSTILE CASES TO THE HOSTILE VARIANT!)
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-fd81d0f9-8b8d-42bf-bde1-b53ef6d804d0 / WITH
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-7579a42d-5694-455f-917c-626d5918a255
+:CHARPOS: 52
+:END:
+與@yǔ	[[tls:concept:WITH::#uuid-fd81d0f9-8b8d-42bf-bde1-b53ef6d804d0][WITH]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-7579a42d-5694-455f-917c-626d5918a255][relational]]} / (compared/related etc) with
+*** 上@shàng
+:PROPERTIES:
+:CONCEPT: uuid-6d6565b2-ce28-4510-8856-df27fb770153 / SUPERIOR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 53
+:END:
+上@shàng	[[tls:concept:SUPERIOR::#uuid-6d6565b2-ce28-4510-8856-df27fb770153][SUPERIOR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the leadership; those who are of superior rank, those in high social or political positions;
+*** 同@tóng
+:PROPERTIES:
+:CONCEPT: uuid-471d26a6-2cf3-4834-a8c4-4ac6480b4139 / SAME
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 54
+:END:
+同@tóng	[[tls:concept:SAME::#uuid-471d26a6-2cf3-4834-a8c4-4ac6480b4139][SAME]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / agree as to (e.g. desires, but differ as to function); be the same in 同類 "be the same in kind"
+*** 意@yì
+:PROPERTIES:
+:CONCEPT: uuid-3371caf6-aa2e-4dfd-9f5b-802c612b0ae0 / INTEND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-aa785a51-5bc0-4876-bd7a-5a647ed7689e
+:CHARPOS: 55
+:END:
+意@yì	[[tls:concept:INTEND::#uuid-3371caf6-aa2e-4dfd-9f5b-802c612b0ae0][INTEND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-aa785a51-5bc0-4876-bd7a-5a647ed7689e][political]]} / (political) intentions, ambitions
+** 故可以與之死	so that they will follow him
+:PROPERTIES:
+:SRC: SUN 1.2.3 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a10:50::故可 / 孫子
+:CHARPOS: 50
+:END:
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-334ed30e-037d-41b1-9200-b7f166f22192 / ABLE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+可@kě	[[tls:concept:ABLE::#uuid-334ed30e-037d-41b1-9200-b7f166f22192][ABLE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / have the objective possibility of; be able to (under the circumstances) (short for 可以) FAYAN: 可南面
+*** 死@sǐ
+:PROPERTIES:
+:CONCEPT: uuid-bb39c295-1c72-4ed0-8159-7b657652d3a4 / RISK DEATH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+死@sǐ	[[tls:concept:RISK DEATH::#uuid-bb39c295-1c72-4ed0-8159-7b657652d3a4][RISK DEATH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / risk one's life
+** 可以與之生	regardless of their lives,
+:PROPERTIES:
+:SRC: SUN 1.2.3 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a11:50::可以 / 孫子
+:CHARPOS: 50
+:END:
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-334ed30e-037d-41b1-9200-b7f166f22192 / ABLE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 50
+:END:
+可@kě	[[tls:concept:ABLE::#uuid-334ed30e-037d-41b1-9200-b7f166f22192][ABLE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / have the objective possibility of; be able to (under the circumstances) (short for 可以) FAYAN: 可南面
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-f5a25cdd-81ad-45de-aa31-9057ce1ec173 / LIVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-96334729-a7bf-4d6b-8324-149056b8196c
+:CHARPOS: 54
+:END:
+生@shēng	[[tls:concept:LIVE::#uuid-f5a25cdd-81ad-45de-aa31-9057ce1ec173][LIVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-96334729-a7bf-4d6b-8324-149056b8196c][conative]]} / try to survive
+** 而不畏危	Undismayed by any danger.
+:PROPERTIES:
+:SRC: SUN 1.2.3 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a12:50::而不 / 孫子
+:CHARPOS: 50
+:END:
+*** 畏@wèi
+:PROPERTIES:
+:CONCEPT: uuid-d7592c4f-a46b-4fcf-b95c-aa4af72a74b2 / FEAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-8f5ea99e-b5d9-4c16-9800-1acc3817c697
+:CHARPOS: 52
+:END:
+畏@wèi	[[tls:concept:FEAR::#uuid-d7592c4f-a46b-4fcf-b95c-aa4af72a74b2][FEAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-8f5ea99e-b5d9-4c16-9800-1acc3817c697][no respect]]} / be afraid of
+*** 危@wēi
+:PROPERTIES:
+:CONCEPT: uuid-161f9976-2b86-462b-852d-c243b88fd68f / DANGER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 53
+:END:
+危@wēi	[[tls:concept:DANGER::#uuid-161f9976-2b86-462b-852d-c243b88fd68f][DANGER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / imminent peril, danger; state of danger; precariousness
+** 高下遠近險易廣狹死生也	distances, great and small; danger and security; open ground and narrow passes; the chances of life and death.
+:PROPERTIES:
+:SRC: SUN 1.2.4 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a17:1::高下 / 孫子
+:CHARPOS: 1
+:END:
+*** 遠近@yuǎnjìn
+:PROPERTIES:
+:CONCEPT: uuid-fffe04cb-a4a2-43b1-a32b-23a6ca9d28db / DISTANT
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 3
+:END:
+遠近@yuǎnjìn	[[tls:concept:DISTANT::#uuid-fffe04cb-a4a2-43b1-a32b-23a6ca9d28db][DISTANT]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / relative distance
+*** 險易@xiǎnyì
+:PROPERTIES:
+:CONCEPT: uuid-e09e1d0f-7e94-4979-aad1-a54031b1d890 / DANGER
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 5
+:END:
+險易@xiǎnyì	[[tls:concept:DANGER::#uuid-e09e1d0f-7e94-4979-aad1-a54031b1d890][DANGER]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / relative danger or accessibility (of terrain)
+*** 廣狹@guǎngxiá
+:PROPERTIES:
+:CONCEPT: uuid-8da3924b-fa33-408b-92e3-b940fdee0849 / BROAD
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 7
+:END:
+廣狹@guǎngxiá	[[tls:concept:BROAD::#uuid-8da3924b-fa33-408b-92e3-b940fdee0849][BROAD]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / relative size (of territory or cloth)
+*** 死生@sǐshēng
+:PROPERTIES:
+:CONCEPT: uuid-d2129a0d-4394-43f7-a3d1-d0651fd45976 / LIVE
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 9
+:END:
+死生@sǐshēng	[[tls:concept:LIVE::#uuid-d2129a0d-4394-43f7-a3d1-d0651fd45976][LIVE]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / survivability (of a terrain)
+** 將者	The Commander stands for the virtues of
+:PROPERTIES:
+:SRC: SUN 1.2.4 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a21:50::將者 / 孫子
+:CHARPOS: 50
+:END:
+*** 將@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-45857f92-735f-41fc-afb3-339a443266f3 / GENERAL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+將@jiàng	[[tls:concept:GENERAL::#uuid-45857f92-735f-41fc-afb3-339a443266f3][GENERAL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / general, commander
+** 智信仁勇嚴也	wisdom, sincerity, benevolence, courage and strictness.
+:PROPERTIES:
+:SRC: SUN 1.2.4 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a22:50::智、 / 孫子
+:CHARPOS: 50
+:END:
+*** 智@zhì / 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-27763dc2-a332-4f0f-8675-f0acbf1c09c9 / INTELLIGENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 50
+:END:
+智@zhì / 知@zhī	[[tls:concept:INTELLIGENT::#uuid-27763dc2-a332-4f0f-8675-f0acbf1c09c9][INTELLIGENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / intellect; intellectual competence, professional competence; intelligence, intellectual capacity
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-b4888133-d285-4c43-89f4-91971c0799be / FAITHFUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+信@xìn	[[tls:concept:FAITHFUL::#uuid-b4888133-d285-4c43-89f4-91971c0799be][FAITHFUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / credibility; trustworthiness, good faith, dependability, reliability
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-db0c36c1-1c31-46d5-a1ce-63dc2b95270b / BENEVOLENCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+仁@rén	[[tls:concept:BENEVOLENCE::#uuid-db0c36c1-1c31-46d5-a1ce-63dc2b95270b][BENEVOLENCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / humaneness, kindliness, kind-heartedness; benevolence, Goodness as a moral value
+*** 勇@yǒng
+:PROPERTIES:
+:CONCEPT: uuid-66568d46-4468-4570-a7ba-af2d9e0ab31e / COURAGE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 53
+:END:
+勇@yǒng	[[tls:concept:COURAGE::#uuid-66568d46-4468-4570-a7ba-af2d9e0ab31e][COURAGE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / valour; boldness
+*** 嚴@yán / @
+:PROPERTIES:
+:CONCEPT: uuid-de7a5371-2f28-4849-9285-578e7fadd86a / SEVERE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+嚴@yán / @	[[tls:concept:SEVERE::#uuid-de7a5371-2f28-4849-9285-578e7fadd86a][SEVERE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / severity, sternness; capability to ensure strict discipline
+** 法者	By method and discipline are to be understood
+:PROPERTIES:
+:SRC: SUN 1.2.4 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a24:50::法者 / 孫子
+:CHARPOS: 50
+:END:
+*** 法@fǎ
+:PROPERTIES:
+:CONCEPT: uuid-376597e6-3d9f-4725-91c4-e5aa2124dd3d / COMMAND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 50
+:END:
+法@fǎ	[[tls:concept:COMMAND::#uuid-376597e6-3d9f-4725-91c4-e5aa2124dd3d][COMMAND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / military orders
+** 曲制官道主用也	the marshalling of the army in its proper subdivisions, the gradiations of rank among the officers, the maintenance of roads by which supplies may reach the army, and the control of military expenditure.
+:PROPERTIES:
+:SRC: SUN 1.2.4 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a25:50::曲制 / 孫子
+:CHARPOS: 50
+:END:
+*** 曲@qū
+:PROPERTIES:
+:CONCEPT: uuid-2e78a742-5030-4228-aaf2-9a7a362d0d95 / PART
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 50
+:END:
+曲@qū	[[tls:concept:PART::#uuid-2e78a742-5030-4228-aaf2-9a7a362d0d95][PART]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / units, gained as a result of subdivision.
+*** 制@zhì
+:PROPERTIES:
+:CONCEPT: uuid-b8508b6f-a020-41e0-9ec2-7cd50a46ccb4 / ESTABLISH
+:SYN-FUNC: uuid-3089d27c-a8a0-4ba1-a3ae-5cd513e4f523
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+制@zhì	[[tls:concept:ESTABLISH::#uuid-b8508b6f-a020-41e0-9ec2-7cd50a46ccb4][ESTABLISH]]	N [[tls:syn-func::#uuid-3089d27c-a8a0-4ba1-a3ae-5cd513e4f523][nab.t:post-N]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / military unit's set up
+*** 官@guān
+:PROPERTIES:
+:CONCEPT: uuid-9a11d1b9-9e93-4bf5-bba0-3fade5404e6b / OFFICIAL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 52
+:END:
+官@guān	[[tls:concept:OFFICIAL::#uuid-9a11d1b9-9e93-4bf5-bba0-3fade5404e6b][OFFICIAL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / office-holder, officer, official
+*** 道@dào
+:PROPERTIES:
+:CONCEPT: uuid-0737bc84-550b-4f4c-90c1-7b53f1d6a1d0 / WAY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+道@dào	[[tls:concept:WAY::#uuid-0737bc84-550b-4f4c-90c1-7b53f1d6a1d0][WAY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (traditionally: two-track) wide road suitable for carts; main thoroughfare
+*** 主@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-cbb76185-f42d-4d0e-8237-0556f8ffd0e3 / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+主@zhǔ	[[tls:concept:GOVERN::#uuid-cbb76185-f42d-4d0e-8237-0556f8ffd0e3][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be the leader of; be in charge of (tasks), take responsibility for; preside over
+*** 用@yòng
+:PROPERTIES:
+:CONCEPT: uuid-d63f228f-cd37-4a68-9a9d-b09e221fb5fe / TOOL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 55
+:END:
+用@yòng	[[tls:concept:TOOL::#uuid-d63f228f-cd37-4a68-9a9d-b09e221fb5fe][TOOL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / set of things needed
+** 凡此五者	These five heads
+:PROPERTIES:
+:SRC: SUN 1.2.5 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a27:50::凡此 / 孫子
+:CHARPOS: 50
+:END:
+*** 凡@fán
+:PROPERTIES:
+:CONCEPT: uuid-83695ee9-30e3-43f7-b6b7-62dea98c9f15 / ALL
+:SYN-FUNC: uuid-50cd6a6c-4fc5-4a7b-ae99-ddea8e058be6
+:SEM-FEAT: uuid-e1ab4451-8fe1-4dd6-af69-3cddf5e39540
+:CHARPOS: 50
+:END:
+凡@fán	[[tls:concept:ALL::#uuid-83695ee9-30e3-43f7-b6b7-62dea98c9f15][ALL]]	V [[tls:syn-func::#uuid-50cd6a6c-4fc5-4a7b-ae99-ddea8e058be6][vadN{TOPIC}.+V{COMMENT}]] {[[tls:sem-feat::#uuid-e1ab4451-8fe1-4dd6-af69-3cddf5e39540][V=non-narrative]]} / as a matter of principle, speaking in general of (the topic);
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303 / THIS
+:SYN-FUNC: uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774
+:SEM-FEAT: uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432
+:CHARPOS: 51
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303][THIS]]	N [[tls:syn-func::#uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774][npro.adN{NUM}:adnpro]] {[[tls:sem-feat::#uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432][N=abstract]]} / 此三者
+*** 五@wǔ
+:PROPERTIES:
+:CONCEPT: uuid-e3f1da75-a15d-469a-a300-d5c99a949ef6 / FIVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 52
+:END:
+五@wǔ	[[tls:concept:FIVE::#uuid-e3f1da75-a15d-469a-a300-d5c99a949ef6][FIVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be five in number
+** 將莫不聞	should be familiar to every general
+:PROPERTIES:
+:SRC: SUN 1.2.5 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a28:50::將莫 / 孫子
+:CHARPOS: 50
+:END:
+*** 將@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-45857f92-735f-41fc-afb3-339a443266f3 / GENERAL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+將@jiàng	[[tls:concept:GENERAL::#uuid-45857f92-735f-41fc-afb3-339a443266f3][GENERAL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / general, commander
+*** 莫@mò
+:PROPERTIES:
+:CONCEPT: uuid-6f813ab2-89a1-4637-99a7-03a7b1416d51 / NONE
+:SYN-FUNC: uuid-970d99db-7968-486c-af64-54e70f75c7f0
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 51
+:END:
+莫@mò	[[tls:concept:NONE::#uuid-6f813ab2-89a1-4637-99a7-03a7b1416d51][NONE]]	N [[tls:syn-func::#uuid-970d99db-7968-486c-af64-54e70f75c7f0][npro+V{PRED}.postN{SUBJ}]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / none of
+*** 聞@wén
+:PROPERTIES:
+:CONCEPT: uuid-b1f6fe2f-f9b2-4f1f-9748-babf4aa02ef2 / KNOW
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 53
+:END:
+聞@wén	[[tls:concept:KNOW::#uuid-b1f6fe2f-f9b2-4f1f-9748-babf4aa02ef2][KNOW]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / be apprised of a contextually determinate thing, come to know about something
+** 知之者勝	he who knows them will be virctorious;
+:PROPERTIES:
+:SRC: SUN 1.2.5 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a29:50::知之 / 孫子
+:CHARPOS: 50
+:END:
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-bf6a1211-f6b1-4433-80fc-539643fa7103 / UNDERSTAND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+知@zhī	[[tls:concept:UNDERSTAND::#uuid-bf6a1211-f6b1-4433-80fc-539643fa7103][UNDERSTAND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / understand properly; understand and respect properly; be sure of the workings (of something);
+*** 勝@shèng
+:PROPERTIES:
+:CONCEPT: uuid-5db8cffa-b1d0-48a0-9331-d60c0ccb112c / WIN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+勝@shèng	[[tls:concept:WIN::#uuid-5db8cffa-b1d0-48a0-9331-d60c0ccb112c][WIN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / win the day, win victory; gain the upper hand; keep the upper hand; prevail; be victorious
+** 不知者不勝	he who knows them not will fail.
+:PROPERTIES:
+:SRC: SUN 1.2.5 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a30:50::不知 / 孫子
+:CHARPOS: 50
+:END:
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-c4347c4b-3c64-4be0-9fbe-9d389fd3ec36 / UNDERSTAND
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 51
+:END:
+知@zhī	[[tls:concept:UNDERSTAND::#uuid-c4347c4b-3c64-4be0-9fbe-9d389fd3ec36][UNDERSTAND]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / understand the contextually determinate object properly
+*** 勝@shèng
+:PROPERTIES:
+:CONCEPT: uuid-5db8cffa-b1d0-48a0-9331-d60c0ccb112c / WIN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+勝@shèng	[[tls:concept:WIN::#uuid-5db8cffa-b1d0-48a0-9331-d60c0ccb112c][WIN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / win the day, win victory; gain the upper hand; keep the upper hand; prevail; be victorious
+** 故校之以計	Therefore, in your deliberations,
+:PROPERTIES:
+:SRC: SUN 1.2.5 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a31:50::故校 / 孫子
+:CHARPOS: 50
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-4788bc76-7c4a-4616-b928-2a8edec67db4 / THEREFORE
+:SYN-FUNC: uuid-9846fcc7-7fe2-437f-8163-5564343b7ee2
+:CHARPOS: 50
+:END:
+故@gù	[[tls:concept:THEREFORE::#uuid-4788bc76-7c4a-4616-b928-2a8edec67db4][THEREFORE]]	N [[tls:syn-func::#uuid-9846fcc7-7fe2-437f-8163-5564343b7ee2][nadV.postN{SUBJ}:postS]] / therefore; thus; and similarly [new paragraph]; the point is thusNOTE: the syntax is nadV.postS
+*** 校@jiào
+:PROPERTIES:
+:CONCEPT: uuid-46da0f08-b4ec-4ff3-b426-dfc0f4a7b662 / ASSESS
+:SYN-FUNC: uuid-cbb92823-4092-4552-8cbd-4883113a5422
+:CHARPOS: 51
+:END:
+校@jiào	[[tls:concept:ASSESS::#uuid-46da0f08-b4ec-4ff3-b426-dfc0f4a7b662][ASSESS]]	V [[tls:syn-func::#uuid-cbb92823-4092-4552-8cbd-4883113a5422][vttoN1+.vtoN2]] / to systematize (someting N1) on the basis of (someting N2, e.g. previous calculations)
+*** 計@jì
+:PROPERTIES:
+:CONCEPT: uuid-7730bfea-772c-4949-b12f-26afbbb9e032 / CALCULATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+計@jì	[[tls:concept:CALCULATE::#uuid-7730bfea-772c-4949-b12f-26afbbb9e032][CALCULATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / arithmetics; calculation of an amount; calculation of the relevant advantages
+** 而索其情	when seeking to determine the military conditions, let them be made the basis of a comparison,
+:PROPERTIES:
+:SRC: SUN 1.2.5 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a31:50::而索 / 孫子
+:CHARPOS: 50
+:END:
+*** 索@suǒ
+:PROPERTIES:
+:CONCEPT: uuid-183d42e8-40ef-4b25-b544-cd39be5709ec / INVESTIGATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+索@suǒ	[[tls:concept:INVESTIGATE::#uuid-183d42e8-40ef-4b25-b544-cd39be5709ec][INVESTIGATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / inquire into, try to find out about
+*** 情@qíng
+:PROPERTIES:
+:CONCEPT: uuid-4f2112cc-582f-4746-9ba4-8b75dda8e78e / REALITY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 53
+:END:
+情@qíng	[[tls:concept:REALITY::#uuid-4f2112cc-582f-4746-9ba4-8b75dda8e78e][REALITY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / real facts of a matter, real state of affairs; real facts of a case
+** 曰	in this wise:
+:PROPERTIES:
+:SRC: SUN 1.2.6 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a32:50::曰： / 孫子
+:CHARPOS: 50
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-3ed1713a-ab17-4bbf-bf03-55a2c044953f / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-14db3756-b2ec-46f0-a1ae-dfdbf1f196b0
+:CHARPOS: 50
+:END:
+曰@yuē	[[tls:concept:SPEAK::#uuid-3ed1713a-ab17-4bbf-bf03-55a2c044953f][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-14db3756-b2ec-46f0-a1ae-dfdbf1f196b0][continue]]} / go on to say: "S" (with omitted subject)
+** 主孰有道	(1) Which of the two sovereigns is imbued with the Moral Law?
+:PROPERTIES:
+:SRC: SUN 1.2.6 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a32:50::主孰 / 孫子
+:CHARPOS: 50
+:END:
+*** 主@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-495cc540-b0a6-434d-8b4c-15e561c047eb / RULER
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 50
+:END:
+主@zhǔ	[[tls:concept:RULER::#uuid-495cc540-b0a6-434d-8b4c-15e561c047eb][RULER]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / ruler; host; lord/ruler, owner (as being primarily in charge of territories and/or things)
+*** 孰@shú
+:PROPERTIES:
+:CONCEPT: uuid-2a98b614-2844-461f-a630-144cac4fdb12 / WHO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-d82256cd-a1c1-4a58-b15f-615a92237386
+:CHARPOS: 51
+:END:
+孰@shú	[[tls:concept:WHO::#uuid-2a98b614-2844-461f-a630-144cac4fdb12][WHO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-d82256cd-a1c1-4a58-b15f-615a92237386][question]]} / which one?; (contrastive) who?
+*** 有@yǒu
+:PROPERTIES:
+:CONCEPT: uuid-e4b18681-2c88-4294-87ca-d772f370749a / HAVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 52
+:END:
+有@yǒu	[[tls:concept:HAVE::#uuid-e4b18681-2c88-4294-87ca-d772f370749a][HAVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be characterised by an abstract feature
+*** 道@dào
+:PROPERTIES:
+:CONCEPT: uuid-da62fd99-9452-4473-b8e2-41270b5ec8f7 / METHOD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-57a4e9da-7fea-40ed-af93-3816c51d5ad2
+:CHARPOS: 53
+:END:
+道@dào	[[tls:concept:METHOD::#uuid-da62fd99-9452-4473-b8e2-41270b5ec8f7][METHOD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-57a4e9da-7fea-40ed-af93-3816c51d5ad2][ideological]]} / ideology, standard way of thinking imposed on a group or dominating a group
+** 將孰有能	(2) Which of the two generals has the most ability?
+:PROPERTIES:
+:SRC: SUN 1.2.6 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a33:50::將孰 / 孫子
+:CHARPOS: 50
+:END:
+*** 將@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-45857f92-735f-41fc-afb3-339a443266f3 / GENERAL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+將@jiàng	[[tls:concept:GENERAL::#uuid-45857f92-735f-41fc-afb3-339a443266f3][GENERAL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / general, commander
+*** 孰@shú
+:PROPERTIES:
+:CONCEPT: uuid-2a98b614-2844-461f-a630-144cac4fdb12 / WHO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-d82256cd-a1c1-4a58-b15f-615a92237386
+:CHARPOS: 51
+:END:
+孰@shú	[[tls:concept:WHO::#uuid-2a98b614-2844-461f-a630-144cac4fdb12][WHO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-d82256cd-a1c1-4a58-b15f-615a92237386][question]]} / which one?; (contrastive) who?
+*** 有@yǒu
+:PROPERTIES:
+:CONCEPT: uuid-e4b18681-2c88-4294-87ca-d772f370749a / HAVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 52
+:END:
+有@yǒu	[[tls:concept:HAVE::#uuid-e4b18681-2c88-4294-87ca-d772f370749a][HAVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be characterised by an abstract feature
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-49c40490-ca65-4711-8a0d-5fdb21b9123a / ABLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 53
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-49c40490-ca65-4711-8a0d-5fdb21b9123a][ABLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / capability; physical capability, concrete technical capability; potential, capacity 人各有能
+** 天地孰得	(3) With whom lie the advantages derived from Heaven and Earth?
+:PROPERTIES:
+:SRC: SUN 1.2.6 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a34:50::天地 / 孫子
+:CHARPOS: 50
+:END:
+*** 天@tiān
+:PROPERTIES:
+:CONCEPT: uuid-9182922f-693a-4854-b083-6f18848a4ce8 / SEASON
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 50
+:END:
+天@tiān	[[tls:concept:SEASON::#uuid-9182922f-693a-4854-b083-6f18848a4ce8][SEASON]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / seasonal conditions, including weather conditions
+*** 地@dì
+:PROPERTIES:
+:CONCEPT: uuid-f9a9ee4f-afe2-4af4-b5a4-923d7d9e4fba / LANDSCAPE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 51
+:END:
+地@dì	[[tls:concept:LANDSCAPE::#uuid-f9a9ee4f-afe2-4af4-b5a4-923d7d9e4fba][LANDSCAPE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / terrain, military relevant geografic features
+*** 孰@shú
+:PROPERTIES:
+:CONCEPT: uuid-2a98b614-2844-461f-a630-144cac4fdb12 / WHO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-d82256cd-a1c1-4a58-b15f-615a92237386
+:CHARPOS: 52
+:END:
+孰@shú	[[tls:concept:WHO::#uuid-2a98b614-2844-461f-a630-144cac4fdb12][WHO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-d82256cd-a1c1-4a58-b15f-615a92237386][question]]} / which one?; (contrastive) who?
+*** 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-5a08f426-f21c-4321-9904-f0670fa7195f / OBTAIN
+:SYN-FUNC: uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 53
+:END:
+得@dé	[[tls:concept:OBTAIN::#uuid-5a08f426-f21c-4321-9904-f0670fa7195f][OBTAIN]]	V [[tls:syn-func::#uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5][vtoNab]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / obtain (abstract things like the Way etc), acquire features
+** 法令孰行	(4) On which side is discipline most rigorously enforced?
+:PROPERTIES:
+:SRC: SUN 1.2.6 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a35:50::法令 / 孫子
+:CHARPOS: 50
+:END:
+*** 法@fǎ
+:PROPERTIES:
+:CONCEPT: uuid-376597e6-3d9f-4725-91c4-e5aa2124dd3d / COMMAND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 50
+:END:
+法@fǎ	[[tls:concept:COMMAND::#uuid-376597e6-3d9f-4725-91c4-e5aa2124dd3d][COMMAND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / military orders
+*** 令@lìng
+:PROPERTIES:
+:CONCEPT: uuid-e5a0eded-e5bc-4569-95d2-e627d29071f1 / COMMAND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 51
+:END:
+令@lìng	[[tls:concept:COMMAND::#uuid-e5a0eded-e5bc-4569-95d2-e627d29071f1][COMMAND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / command, order
+*** 孰@shú
+:PROPERTIES:
+:CONCEPT: uuid-2a98b614-2844-461f-a630-144cac4fdb12 / WHO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-d82256cd-a1c1-4a58-b15f-615a92237386
+:CHARPOS: 52
+:END:
+孰@shú	[[tls:concept:WHO::#uuid-2a98b614-2844-461f-a630-144cac4fdb12][WHO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-d82256cd-a1c1-4a58-b15f-615a92237386][question]]} / which one?; (contrastive) who?
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-0ff170ea-f306-41fe-8e75-d16e4bcdbef6 / ACT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 53
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-0ff170ea-f306-41fe-8e75-d16e4bcdbef6][ACT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause (laws) to be carried out
+** 兵眾孰強	(5) Which army is the stronges?
+:PROPERTIES:
+:SRC: SUN 1.2.6 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a36:50::兵眾 / 孫子
+:CHARPOS: 50
+:END:
+*** 兵眾@bīngzhòng
+:PROPERTIES:
+:CONCEPT: uuid-34fcb466-c4d3-4843-bc2a-42522d69595e / SOLDIER
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:SEM-FEAT: uuid-2d131ece-0e8e-4fd3-8839-9395b7aa4b14
+:CHARPOS: 50
+:END:
+兵眾@bīngzhòng	[[tls:concept:SOLDIER::#uuid-34fcb466-c4d3-4843-bc2a-42522d69595e][SOLDIER]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] {[[tls:sem-feat::#uuid-2d131ece-0e8e-4fd3-8839-9395b7aa4b14][colloquial]]} / mass of soldiers, troops
+*** 孰@shú
+:PROPERTIES:
+:CONCEPT: uuid-85476059-4766-4af4-9896-910c024ab0fc / WHOSE
+:SYN-FUNC: uuid-0558ea58-9759-4859-87b0-90425ac6624c
+:CHARPOS: 52
+:END:
+孰@shú	[[tls:concept:WHOSE::#uuid-85476059-4766-4af4-9896-910c024ab0fc][WHOSE]]	N [[tls:syn-func::#uuid-0558ea58-9759-4859-87b0-90425ac6624c][npro.(adN1):postN1]] / whose 士卒孰練 "Whose soldiers are better trained"
+*** 強@qiáng / 強@qiáng
+:PROPERTIES:
+:CONCEPT: uuid-d09580f9-1ac1-46a7-9c9d-9c5a50d255f4 / STRONG
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 53
+:END:
+強@qiáng / 強@qiáng	[[tls:concept:STRONG::#uuid-d09580f9-1ac1-46a7-9c9d-9c5a50d255f4][STRONG]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / to be stronger
+** 士卒孰練	(6) On which side are officers and men more highly trained?
+:PROPERTIES:
+:SRC: SUN 1.2.6 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a37:50::士卒 / 孫子
+:CHARPOS: 50
+:END:
+*** 士@shì
+:PROPERTIES:
+:CONCEPT: uuid-710d759e-3a81-4627-824f-4055a039e5fd / SOLDIER
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 50
+:END:
+士@shì	[[tls:concept:SOLDIER::#uuid-710d759e-3a81-4627-824f-4055a039e5fd][SOLDIER]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / officer on a war chariot who is protected by shield and helmet
+*** 孰@shú
+:PROPERTIES:
+:CONCEPT: uuid-85476059-4766-4af4-9896-910c024ab0fc / WHOSE
+:SYN-FUNC: uuid-0558ea58-9759-4859-87b0-90425ac6624c
+:CHARPOS: 52
+:END:
+孰@shú	[[tls:concept:WHOSE::#uuid-85476059-4766-4af4-9896-910c024ab0fc][WHOSE]]	N [[tls:syn-func::#uuid-0558ea58-9759-4859-87b0-90425ac6624c][npro.(adN1):postN1]] / whose 士卒孰練 "Whose soldiers are better trained"
+*** 練@liàn
+:PROPERTIES:
+:CONCEPT: uuid-3d246848-2cea-4259-b100-9f2529797fd6 / TEACH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 53
+:END:
+練@liàn	[[tls:concept:TEACH::#uuid-3d246848-2cea-4259-b100-9f2529797fd6][TEACH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / to be better trained (in military affairs)
+** 賞罰孰明	(7) In which army is there the greater constancy both in reward and punishment?
+:PROPERTIES:
+:SRC: SUN 1.2.6 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a38:50::賞罰 / 孫子
+:CHARPOS: 50
+:END:
+*** 賞@shǎng
+:PROPERTIES:
+:CONCEPT: uuid-29702a4e-47a8-442c-9ea1-6fef79514482 / REWARD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+賞@shǎng	[[tls:concept:REWARD::#uuid-29702a4e-47a8-442c-9ea1-6fef79514482][REWARD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / the making of rewards
+*** 罰@fá
+:PROPERTIES:
+:CONCEPT: uuid-96a0aaf5-b68f-4bbd-a865-929facd99e8d / PUNISH
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+罰@fá	[[tls:concept:PUNISH::#uuid-96a0aaf5-b68f-4bbd-a865-929facd99e8d][PUNISH]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / punishment through fines; more generally: punitive action
+*** 孰@shú
+:PROPERTIES:
+:CONCEPT: uuid-2a98b614-2844-461f-a630-144cac4fdb12 / WHO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-d82256cd-a1c1-4a58-b15f-615a92237386
+:CHARPOS: 52
+:END:
+孰@shú	[[tls:concept:WHO::#uuid-2a98b614-2844-461f-a630-144cac4fdb12][WHO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-d82256cd-a1c1-4a58-b15f-615a92237386][question]]} / which one?; (contrastive) who?
+*** 明@míng
+:PROPERTIES:
+:CONCEPT: uuid-ef3205d1-e071-472b-aa82-659e58560d96 / CLEAR
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+明@míng	[[tls:concept:CLEAR::#uuid-ef3205d1-e071-472b-aa82-659e58560d96][CLEAR]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be evident; be transparent; be clearly visible
+** 吾以此知勝負矣	By means of these seven considerations I can forecast victory and defeat.
+:PROPERTIES:
+:SRC: SUN 1.2.6 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:2a39:50::吾以 / 孫子
+:CHARPOS: 50
+:END:
+*** 吾@wú
+:PROPERTIES:
+:CONCEPT: uuid-fe6ddf09-f277-496d-81f3-c63e975d8b05 / ONESELF
+:SYN-FUNC: uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b
+:SEM-FEAT: uuid-26d3ec76-dd89-4fd2-b554-92258536af7f
+:CHARPOS: 50
+:END:
+吾@wú	[[tls:concept:ONESELF::#uuid-fe6ddf09-f277-496d-81f3-c63e975d8b05][ONESELF]]	N [[tls:syn-func::#uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b][npro0]] {[[tls:sem-feat::#uuid-26d3ec76-dd89-4fd2-b554-92258536af7f][impersonal]]} / impersonal pronoun: one, oneself
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-256d58d0-076b-41ad-be80-4200f731993e / USE
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 51
+:END:
+以@yǐ	[[tls:concept:USE::#uuid-256d58d0-076b-41ad-be80-4200f731993e][USE]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / using> by means of, with; by way of
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-20e72b12-d3da-4d93-82a7-4d85d052a415
+:CHARPOS: 52
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-20e72b12-d3da-4d93-82a7-4d85d052a415][abstract]]} / this (particular aforementioned abstract but definite) item
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-99b61b5d-772f-47c9-95ee-c451f276df7e / KNOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332
+:CHARPOS: 53
+:END:
+知@zhī	[[tls:concept:KNOW::#uuid-99b61b5d-772f-47c9-95ee-c451f276df7e][KNOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332][inchoative]]} / get to be sure of, ascertain; get wind of; come to know about
+*** 勝@shèng
+:PROPERTIES:
+:CONCEPT: uuid-5db8cffa-b1d0-48a0-9331-d60c0ccb112c / WIN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+勝@shèng	[[tls:concept:WIN::#uuid-5db8cffa-b1d0-48a0-9331-d60c0ccb112c][WIN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / win the day, win victory; gain the upper hand; keep the upper hand; prevail; be victorious
+*** 負@fù
+:PROPERTIES:
+:CONCEPT: uuid-02519124-325f-44d8-b7bc-64a9ea510b14 / DEFEAT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 55
+:END:
+負@fù	[[tls:concept:DEFEAT::#uuid-02519124-325f-44d8-b7bc-64a9ea510b14][DEFEAT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / to suffer defeat, be defeated
+*** 負@fù
+:PROPERTIES:
+:CONCEPT: uuid-feedf00f-1779-417b-b148-99144ecf2a10 / FAIL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 55
+:END:
+負@fù	[[tls:concept:FAIL::#uuid-feedf00f-1779-417b-b148-99144ecf2a10][FAIL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / defeat
+** 將聽吾計	The general that hearkens to my counsel
+:PROPERTIES:
+:SRC: SUN 1.3.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:3a01:1::將聽 / 孫子
+:CHARPOS: 1
+:END:
+*** 將@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-45857f92-735f-41fc-afb3-339a443266f3 / GENERAL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+將@jiàng	[[tls:concept:GENERAL::#uuid-45857f92-735f-41fc-afb3-339a443266f3][GENERAL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / general, commander
+*** 聽@tīng
+:PROPERTIES:
+:CONCEPT: uuid-303795d0-7808-4c94-852b-17aa7b8e162c / FOLLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 2
+:END:
+聽@tīng	[[tls:concept:FOLLOW::#uuid-303795d0-7808-4c94-852b-17aa7b8e162c][FOLLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / do as one is bidden by; follow (advice)
+*** 吾@wú / 䱷@yú
+:PROPERTIES:
+:CONCEPT: uuid-b962c827-25ad-4b75-823b-eac06f25c976 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-36652816-4463-4547-8db8-a965005cf669
+:CHARPOS: 3
+:END:
+吾@wú / 䱷@yú	[[tls:concept:EGO::#uuid-b962c827-25ad-4b75-823b-eac06f25c976][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-36652816-4463-4547-8db8-a965005cf669][type]]} / my
+*** 計@jì
+:PROPERTIES:
+:CONCEPT: uuid-7730bfea-772c-4949-b12f-26afbbb9e032 / CALCULATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+計@jì	[[tls:concept:CALCULATE::#uuid-7730bfea-772c-4949-b12f-26afbbb9e032][CALCULATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / arithmetics; calculation of an amount; calculation of the relevant advantages
+** 用之必勝	and acts upon it, will conquer: -let such a one be retained in command!
+:PROPERTIES:
+:SRC: SUN 1.3.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:3a02:50::用之 / 孫子
+:CHARPOS: 50
+:END:
+*** 用@yòng
+:PROPERTIES:
+:CONCEPT: uuid-dc6556a7-3f98-425e-b81d-cdedb8fa5b3b / EMPLOY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+用@yòng	[[tls:concept:EMPLOY::#uuid-dc6556a7-3f98-425e-b81d-cdedb8fa5b3b][EMPLOY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / make use of the services of (a horse etc), employ (armed force etc); employ (a person); make proper use of
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7 / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 51
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphoric, referring to an aforementioned person: him, her, it; you
+*** 必@bì
+:PROPERTIES:
+:CONCEPT: uuid-07f89652-00d0-4655-832d-d82bfc36f927 / THEN
+:SYN-FUNC: uuid-24957678-0999-4596-8e51-3945e1a7a59a
+:CHARPOS: 52
+:END:
+必@bì	[[tls:concept:THEN::#uuid-07f89652-00d0-4655-832d-d82bfc36f927][THEN]]	V [[tls:syn-func::#uuid-24957678-0999-4596-8e51-3945e1a7a59a][vadS1.post-S2]] / then inevitably, then invariably
+*** 勝@shèng
+:PROPERTIES:
+:CONCEPT: uuid-5db8cffa-b1d0-48a0-9331-d60c0ccb112c / WIN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+勝@shèng	[[tls:concept:WIN::#uuid-5db8cffa-b1d0-48a0-9331-d60c0ccb112c][WIN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / win the day, win victory; gain the upper hand; keep the upper hand; prevail; be victorious
+** 留之	
+:PROPERTIES:
+:SRC: SUN 1.3.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:3a03:50::留之 / 孫子
+:CHARPOS: 50
+:END:
+*** 留@liú
+:PROPERTIES:
+:CONCEPT: uuid-20dbe192-2fc3-40ea-900b-7b4ac44f1c92 / REMAIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+留@liú	[[tls:concept:REMAIN::#uuid-20dbe192-2fc3-40ea-900b-7b4ac44f1c92][REMAIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to stay with one; cause (somebody N) to remain in the position or place currently occupied
+** 將不聽吾計	The general that hearkens not my counsel
+:PROPERTIES:
+:SRC: SUN 1.3.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:3a04:50::將不 / 孫子
+:CHARPOS: 50
+:END:
+*** 將@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-45857f92-735f-41fc-afb3-339a443266f3 / GENERAL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+將@jiàng	[[tls:concept:GENERAL::#uuid-45857f92-735f-41fc-afb3-339a443266f3][GENERAL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / general, commander
+*** 聽@tīng
+:PROPERTIES:
+:CONCEPT: uuid-303795d0-7808-4c94-852b-17aa7b8e162c / FOLLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 52
+:END:
+聽@tīng	[[tls:concept:FOLLOW::#uuid-303795d0-7808-4c94-852b-17aa7b8e162c][FOLLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / do as one is bidden by; follow (advice)
+*** 吾@wú / 䱷@yú
+:PROPERTIES:
+:CONCEPT: uuid-25b0334a-df40-4483-8978-f7d521c79040 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-5f6ad398-2e81-4640-a7a4-260295f37c15
+:CHARPOS: 53
+:END:
+吾@wú / 䱷@yú	[[tls:concept:EGO::#uuid-25b0334a-df40-4483-8978-f7d521c79040][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-5f6ad398-2e81-4640-a7a4-260295f37c15][1. person singular]]} / my; our (Zhou)
+*** 計@jì
+:PROPERTIES:
+:CONCEPT: uuid-7730bfea-772c-4949-b12f-26afbbb9e032 / CALCULATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+計@jì	[[tls:concept:CALCULATE::#uuid-7730bfea-772c-4949-b12f-26afbbb9e032][CALCULATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / arithmetics; calculation of an amount; calculation of the relevant advantages
+** 用之必敗	nor acts upon it, will suffer defeat:
+:PROPERTIES:
+:SRC: SUN 1.3.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:3a05:50::用之 / 孫子
+:CHARPOS: 50
+:END:
+*** 用@yòng
+:PROPERTIES:
+:CONCEPT: uuid-dc6556a7-3f98-425e-b81d-cdedb8fa5b3b / EMPLOY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+用@yòng	[[tls:concept:EMPLOY::#uuid-dc6556a7-3f98-425e-b81d-cdedb8fa5b3b][EMPLOY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / make use of the services of (a horse etc), employ (armed force etc); employ (a person); make proper use of
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7 / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 51
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphoric, referring to an aforementioned person: him, her, it; you
+*** 必@bì
+:PROPERTIES:
+:CONCEPT: uuid-07f89652-00d0-4655-832d-d82bfc36f927 / THEN
+:SYN-FUNC: uuid-24957678-0999-4596-8e51-3945e1a7a59a
+:CHARPOS: 52
+:END:
+必@bì	[[tls:concept:THEN::#uuid-07f89652-00d0-4655-832d-d82bfc36f927][THEN]]	V [[tls:syn-func::#uuid-24957678-0999-4596-8e51-3945e1a7a59a][vadS1.post-S2]] / then inevitably, then invariably
+*** 敗@bài
+:PROPERTIES:
+:CONCEPT: uuid-74e768d2-2195-48ae-a9d6-d1619b5c2dc1 / DEFEAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 53
+:END:
+敗@bài	[[tls:concept:DEFEAT::#uuid-74e768d2-2195-48ae-a9d6-d1619b5c2dc1][DEFEAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / read braads: be defeated; suffer defeat
+** 去之	-let such a one be dismissed!
+:PROPERTIES:
+:SRC: SUN 1.3.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:3a06:50::去之 / 孫子
+:CHARPOS: 50
+:END:
+*** 去@qù
+:PROPERTIES:
+:CONCEPT: uuid-08bab998-6fd7-476f-a1fd-5885c12ab5c0 / REMOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+去@qù	[[tls:concept:REMOVE::#uuid-08bab998-6fd7-476f-a1fd-5885c12ab5c0][REMOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / remove, do away with, get rid of; try to drive away (ants); take off
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7 / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 51
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphoric, referring to an aforementioned person: him, her, it; you
+** 計利以聽	While heeding the profit of my counsel,
+:PROPERTIES:
+:SRC: SUN 1.4.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:4a01:1::計利 / 孫子
+:CHARPOS: 1
+:END:
+*** 計@jì
+:PROPERTIES:
+:CONCEPT: uuid-7730bfea-772c-4949-b12f-26afbbb9e032 / CALCULATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+計@jì	[[tls:concept:CALCULATE::#uuid-7730bfea-772c-4949-b12f-26afbbb9e032][CALCULATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / arithmetics; calculation of an amount; calculation of the relevant advantages
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-2f4bdeba-a202-4085-8ebd-8992ffe0ee67 / PROFIT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CONCEPT: uuid-3443c690-5af2-4d29-b9fc-2a47fa0447ac / ALREADY
+:SYN-FUNC: uuid-c00a4db3-7d89-4b82-80ab-d16a177e3421
+:CHARPOS: 2
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-2f4bdeba-a202-4085-8ebd-8992ffe0ee67][PROFIT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / public benefits, public advantage; what is generally useful, profitability; usefulness
+已@yǐ / 以@yǐ	[[tls:concept:ALREADY::#uuid-3443c690-5af2-4d29-b9fc-2a47fa0447ac][ALREADY]]	V [[tls:syn-func::#uuid-c00a4db3-7d89-4b82-80ab-d16a177e3421][vadV.postN{SUBJ}:adS]] / after, once (one) already has V-ed, after one has V-ed 以死誰懟
+*** 聽@tīng
+:PROPERTIES:
+:CONCEPT: uuid-d15b7a5f-e7bb-41ba-80c5-e316dc234293 / FOLLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 4
+:END:
+聽@tīng	[[tls:concept:FOLLOW::#uuid-d15b7a5f-e7bb-41ba-80c5-e316dc234293][FOLLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be listened to, be followed (as advice)
+** 乃為之勢	avail yourself also of any helpful cirmustances
+:PROPERTIES:
+:SRC: SUN 1.4.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:4a02:50::乃為 / 孫子
+:CHARPOS: 50
+:END:
+*** 乃@nǎi / 迺@nǎi
+:PROPERTIES:
+:CONCEPT: uuid-d394106d-18ea-4013-90f5-41e48dec4139 / THEN
+:SYN-FUNC: uuid-d4e1570d-69fc-493c-b2ec-d1f0f5b56e05
+:SEM-FEAT: uuid-f7823965-d29e-4ca7-ab59-52cfeb09515c
+:CHARPOS: 50
+:END:
+乃@nǎi / 迺@nǎi	[[tls:concept:THEN::#uuid-d394106d-18ea-4013-90f5-41e48dec4139][THEN]]	P [[tls:syn-func::#uuid-d4e1570d-69fc-493c-b2ec-d1f0f5b56e05][padS1.post-S2]] {[[tls:sem-feat::#uuid-f7823965-d29e-4ca7-ab59-52cfeb09515c][temporal]]} / and thereupon, and then accordingly; then without delay;Then accordingly (often after a direct speech)
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-289596b6-3d23-46c5-b0ed-4ef14edd5c09 / PRODUCE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 51
+:END:
+為@wéi	[[tls:concept:PRODUCE::#uuid-289596b6-3d23-46c5-b0ed-4ef14edd5c09][PRODUCE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / produce (something N2) (for someone N1)
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-2b2b7d92-d5e1-4502-9d03-0d893f9869a2 / PRONOUN
+:SYN-FUNC: uuid-8064bb69-7634-4c43-ab3d-57bded5476f2
+:SEM-FEAT: uuid-baaaeae7-6ce0-42a7-a61e-fa3fbd0183de
+:CHARPOS: 52
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-2b2b7d92-d5e1-4502-9d03-0d893f9869a2][PRONOUN]]	N [[tls:syn-func::#uuid-8064bb69-7634-4c43-ab3d-57bded5476f2][npro.postvtt:oN]] {[[tls:sem-feat::#uuid-baaaeae7-6ce0-42a7-a61e-fa3fbd0183de][indirect object]]} / 賜之卮酒 "offered him a beaker of wine"
+*** 勢@shì
+:PROPERTIES:
+:CONCEPT: uuid-64ad251a-3cc4-492f-8df6-f6577a73a260 / SITUATION
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 53
+:END:
+勢@shì	[[tls:concept:SITUATION::#uuid-64ad251a-3cc4-492f-8df6-f6577a73a260][SITUATION]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / military disposition, favorable for successful condact of military operations
+** 以佐其外	over and beyond the ordinary rules.
+:PROPERTIES:
+:SRC: SUN 1.4.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:4a03:50::以佐 / 孫子
+:CHARPOS: 50
+:END:
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-f5017d1d-4f9f-49a6-a07f-3d284845f84c / INTEND
+:SYN-FUNC: uuid-c3908909-fa0c-41eb-8617-3404d62459ad
+:CHARPOS: 50
+:END:
+以@yǐ	[[tls:concept:INTEND::#uuid-f5017d1d-4f9f-49a6-a07f-3d284845f84c][INTEND]]	V [[tls:syn-func::#uuid-c3908909-fa0c-41eb-8617-3404d62459ad][vt+V1.postV2]] / (V2) in order to V1
+*** 佐@zuǒ
+:PROPERTIES:
+:CONCEPT: uuid-c152b62f-7f2a-4916-9363-c455c626ba06 / HELP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+佐@zuǒ	[[tls:concept:HELP::#uuid-c152b62f-7f2a-4916-9363-c455c626ba06][HELP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / help with (the charioteering); assist in (government) assist in an official capacity (as aide, a person of superior status); ZHOULI: assist (the king) [support][CA]
+*** 外@wài
+:PROPERTIES:
+:CONCEPT: uuid-8cc110e3-f554-4743-8ef3-93c7322d3f44 / OUTSIDE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 53
+:END:
+外@wài	[[tls:concept:OUTSIDE::#uuid-8cc110e3-f554-4743-8ef3-93c7322d3f44][OUTSIDE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / something extraodinary, not in the main trend
+** 勢者	According as circumstances
+:PROPERTIES:
+:SRC: SUN 1.4.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:4a04:50::勢者 / 孫子
+:CHARPOS: 50
+:END:
+*** 勢@shì
+:PROPERTIES:
+:CONCEPT: uuid-64ad251a-3cc4-492f-8df6-f6577a73a260 / SITUATION
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 50
+:END:
+勢@shì	[[tls:concept:SITUATION::#uuid-64ad251a-3cc4-492f-8df6-f6577a73a260][SITUATION]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / military disposition, favorable for successful condact of military operations
+** 因利而制權也	are favourable, one should modify mone’s plans.
+:PROPERTIES:
+:SRC: SUN 1.4.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:4a05:50::因利 / 孫子
+:CHARPOS: 50
+:END:
+*** 因@yīn
+:PROPERTIES:
+:CONCEPT: uuid-f0948d09-0f50-4d58-a40f-d1ce37eddc26 / RELY ON
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 50
+:END:
+因@yīn	[[tls:concept:RELY ON::#uuid-f0948d09-0f50-4d58-a40f-d1ce37eddc26][RELY ON]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / relying on, with the help of; on the basis of
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-2f4bdeba-a202-4085-8ebd-8992ffe0ee67 / PROFIT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 51
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-2f4bdeba-a202-4085-8ebd-8992ffe0ee67][PROFIT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / public benefits, public advantage; what is generally useful, profitability; usefulness
+*** 制@zhì
+:PROPERTIES:
+:CONCEPT: uuid-09229ca0-1f97-4c9d-90c1-044de537e337 / ESTABLISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+制@zhì	[[tls:concept:ESTABLISH::#uuid-09229ca0-1f97-4c9d-90c1-044de537e337][ESTABLISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to institute, to set up
+*** 權@quán
+:PROPERTIES:
+:CONCEPT: uuid-62eb66bc-7367-44e0-a1c2-08ebc641af28 / POWER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 54
+:END:
+權@quán	[[tls:concept:POWER::#uuid-62eb66bc-7367-44e0-a1c2-08ebc641af28][POWER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / leverage; political leverage, weight and power; power to make the final assessment
+** 兵者	All warfare
+:PROPERTIES:
+:SRC: SUN 1.5.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a01:1::兵者 / 孫子
+:CHARPOS: 1
+:END:
+*** 兵@bīng
+:PROPERTIES:
+:CONCEPT: uuid-1508bbae-7dae-481b-a3f2-1fae801be678 / WARFARE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+兵@bīng	[[tls:concept:WARFARE::#uuid-1508bbae-7dae-481b-a3f2-1fae801be678][WARFARE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / warfare
+** 詭道也	is based on deception.
+:PROPERTIES:
+:SRC: SUN 1.5.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a02:50::詭道 / 孫子
+:CHARPOS: 50
+:END:
+*** 詭@guǐ
+:PROPERTIES:
+:CONCEPT: uuid-f88bee1d-0de9-4ccb-ac9a-fd054129a787 / CHEAT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+詭@guǐ	[[tls:concept:CHEAT::#uuid-f88bee1d-0de9-4ccb-ac9a-fd054129a787][CHEAT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / deceitful, cheating
+*** 道@dào
+:PROPERTIES:
+:CONCEPT: uuid-30e0eb52-6b96-4bb5-b04f-14e7f9455495 / METHOD
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 51
+:END:
+道@dào	[[tls:concept:METHOD::#uuid-30e0eb52-6b96-4bb5-b04f-14e7f9455495][METHOD]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / way of doing things
+** 故能而示之不能	Hence, when able to attack, we must seem unable;
+:PROPERTIES:
+:SRC: SUN 1.5.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a03:50::故能 / 孫子
+:CHARPOS: 50
+:END:
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-c6621d3b-2883-42a5-b42a-fac5c1325da4 / ABLE
+:SYN-FUNC: uuid-09d661ae-604f-4650-8a7f-97c36f14acf3
+:CHARPOS: 51
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-c6621d3b-2883-42a5-b42a-fac5c1325da4][ABLE]]	V [[tls:syn-func::#uuid-09d661ae-604f-4650-8a7f-97c36f14acf3][vt(+V{0})]] / be able to perform a contexually determinate action or achieve a contextually determinate quality
+** 用而示之不用	when using our forces, we must seem inactive;
+:PROPERTIES:
+:SRC: SUN 1.5.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a04:50::用而 / 孫子
+:CHARPOS: 50
+:END:
+*** 示@shì / 視@shì
+:PROPERTIES:
+:CONCEPT: uuid-fb082dad-850c-4eff-a498-bd70c9b20198 / SHOW
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-17037f08-315e-4fd7-9982-14c55a158404
+:CHARPOS: 52
+:END:
+示@shì / 視@shì	[[tls:concept:SHOW::#uuid-fb082dad-850c-4eff-a498-bd70c9b20198][SHOW]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-17037f08-315e-4fd7-9982-14c55a158404][V=comp]]} / to show (something N) as if it is (V-ing)
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-7e24bae4-a3f6-4f0b-9028-fc5cad5a0dab / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-7e24bae4-a3f6-4f0b-9028-fc5cad5a0dab][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphorically refers to whatever the dummy object pronoun refers to
+*** 用@yòng
+:PROPERTIES:
+:CONCEPT: uuid-4aa66788-5be7-4a4e-9ccc-68129a6d2a6a / DEPLOY
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:SEM-FEAT: uuid-e552194c-935e-46a5-984a-9d86cd6956bb
+:CHARPOS: 50
+:END:
+用@yòng	[[tls:concept:DEPLOY::#uuid-4aa66788-5be7-4a4e-9ccc-68129a6d2a6a][DEPLOY]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] {[[tls:sem-feat::#uuid-e552194c-935e-46a5-984a-9d86cd6956bb][intention]]} / to intend to deploy a contextually determinate object
+** 近而示之遠	when we are near, we must make them belive we are far away
+:PROPERTIES:
+:SRC: SUN 1.5.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a05:50::近而 / 孫子
+:CHARPOS: 50
+:END:
+*** 示@shì / 視@shì
+:PROPERTIES:
+:CONCEPT: uuid-fb082dad-850c-4eff-a498-bd70c9b20198 / SHOW
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-17037f08-315e-4fd7-9982-14c55a158404
+:CHARPOS: 52
+:END:
+示@shì / 視@shì	[[tls:concept:SHOW::#uuid-fb082dad-850c-4eff-a498-bd70c9b20198][SHOW]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-17037f08-315e-4fd7-9982-14c55a158404][V=comp]]} / to show (something N) as if it is (V-ing)
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-7e24bae4-a3f6-4f0b-9028-fc5cad5a0dab / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-7e24bae4-a3f6-4f0b-9028-fc5cad5a0dab][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphorically refers to whatever the dummy object pronoun refers to
+** 遠而示之近	when far away, we must make him believe we are near.
+:PROPERTIES:
+:SRC: SUN 1.5.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a06:50::遠而 / 孫子
+:CHARPOS: 50
+:END:
+*** 遠@yuǎn
+:PROPERTIES:
+:CONCEPT: uuid-e680f34f-7af7-4f6b-9779-8dcaf358c22e / DISTANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+遠@yuǎn	[[tls:concept:DISTANT::#uuid-e680f34f-7af7-4f6b-9779-8dcaf358c22e][DISTANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be distant; be far away, be far off; be a long way; go a long way
+*** 示@shì / 視@shì
+:PROPERTIES:
+:CONCEPT: uuid-fb082dad-850c-4eff-a498-bd70c9b20198 / SHOW
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-17037f08-315e-4fd7-9982-14c55a158404
+:CHARPOS: 52
+:END:
+示@shì / 視@shì	[[tls:concept:SHOW::#uuid-fb082dad-850c-4eff-a498-bd70c9b20198][SHOW]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-17037f08-315e-4fd7-9982-14c55a158404][V=comp]]} / to show (something N) as if it is (V-ing)
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-7e24bae4-a3f6-4f0b-9028-fc5cad5a0dab / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-7e24bae4-a3f6-4f0b-9028-fc5cad5a0dab][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphorically refers to whatever the dummy object pronoun refers to
+*** 近@jìn
+:PROPERTIES:
+:CONCEPT: uuid-792d1490-8c27-46fe-a71e-02e610eed453 / NEAR
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 54
+:END:
+近@jìn	[[tls:concept:NEAR::#uuid-792d1490-8c27-46fe-a71e-02e610eed453][NEAR]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / (spatial) be close, near; be a small distance
+** 利而誘之	Hold out baits to entice the enemy.
+:PROPERTIES:
+:SRC: SUN 1.5.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a07:50::利而 / 孫子
+:CHARPOS: 50
+:END:
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-5c8cad8e-be81-438b-81a0-b031318844c8 / PROFIT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 50
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-5c8cad8e-be81-438b-81a0-b031318844c8][PROFIT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / to be easily enticed by profit
+*** 誘@yòu
+:PROPERTIES:
+:CONCEPT: uuid-6a21031c-6098-40a1-9d49-fc0d2c84b212 / SEDUCE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+誘@yòu	[[tls:concept:SEDUCE::#uuid-6a21031c-6098-40a1-9d49-fc0d2c84b212][SEDUCE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / entice, seduce; cajole; misguide; entrap by cajoling
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7 / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphoric, referring to an aforementioned person: him, her, it; you
+** 亂而取之	Feign disorder, and crush him.
+:PROPERTIES:
+:SRC: SUN 1.5.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a08:50::亂而 / 孫子
+:CHARPOS: 50
+:END:
+*** 亂@luàn
+:PROPERTIES:
+:CONCEPT: uuid-9698e3e9-dba7-4ffb-b712-735eedff68c2 / CHAOS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 50
+:END:
+亂@luàn	[[tls:concept:CHAOS::#uuid-9698e3e9-dba7-4ffb-b712-735eedff68c2][CHAOS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be in turmoil; be in disorder 亂弱甚矣
+*** 取@qǔ
+:PROPERTIES:
+:CONCEPT: uuid-97aeeb73-e955-4368-8946-0550a1128329 / ANNEX
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+取@qǔ	[[tls:concept:ANNEX::#uuid-97aeeb73-e955-4368-8946-0550a1128329][ANNEX]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / take possession of (a place); annex a state or city; confiscate
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7 / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphoric, referring to an aforementioned person: him, her, it; you
+** 實而備之	If he is secure at all points, be prepeared for him.
+:PROPERTIES:
+:SRC: SUN 1.5.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a09:50::實而 / 孫子
+:CHARPOS: 50
+:END:
+*** 實@shí
+:PROPERTIES:
+:CONCEPT: uuid-c7b67c6b-698b-4ca3-8828-54ca22af04a5 / FULL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+實@shí	[[tls:concept:FULL::#uuid-c7b67c6b-698b-4ca3-8828-54ca22af04a5][FULL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be full; be full of substance; be filled (with people)
+*** 備@bèi
+:PROPERTIES:
+:CONCEPT: uuid-e1d91873-da61-49c0-b0ed-e0592c77de0d / PROVIDE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-205dccd7-8dff-40f0-bdfe-a49e60d52ebd
+:CHARPOS: 52
+:END:
+備@bèi	[[tls:concept:PROVIDE::#uuid-e1d91873-da61-49c0-b0ed-e0592c77de0d][PROVIDE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-205dccd7-8dff-40f0-bdfe-a49e60d52ebd][N=situation]]} / provide and make completely ready in good time; provide for; be sure to be ready for (an attack etc)
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7 / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphoric, referring to an aforementioned person: him, her, it; you
+** 強而避之	If he is in superior strength, evade him.
+:PROPERTIES:
+:SRC: SUN 1.5.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a10:50::強而 / 孫子
+:CHARPOS: 50
+:END:
+*** 強@qiáng / 強@qiáng
+:PROPERTIES:
+:CONCEPT: uuid-bb834a47-fd33-4b26-a010-12e2319e43df / STRONG
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+強@qiáng / 強@qiáng	[[tls:concept:STRONG::#uuid-bb834a47-fd33-4b26-a010-12e2319e43df][STRONG]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be tough, vigorous, strong; of persons or institutions: be physically strong; psychological: formidable, strong
+*** 避@bì / 辟@bì
+:PROPERTIES:
+:CONCEPT: uuid-40b65c32-e702-4fa9-9fbc-ebda7b3d440f / AVOID
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+避@bì / 辟@bì	[[tls:concept:AVOID::#uuid-40b65c32-e702-4fa9-9fbc-ebda7b3d440f][AVOID]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / flee from; stay clear of; keep away from, get out of the way of, keep out of the way of; ZZ 37: (decide to) keep away from (high and low places); flinch before (an enemy); bypass and fail to consider (a candidate);
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7 / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphoric, referring to an aforementioned person: him, her, it; you
+** 怒而撓之	If your opponent is of choleric temper, seek to irritate.
+:PROPERTIES:
+:SRC: SUN 1.5.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a11:50::怒而 / 孫子
+:CHARPOS: 50
+:END:
+*** 怒@nù
+:PROPERTIES:
+:CONCEPT: uuid-1f0a7bd8-ed27-4e5c-8033-7ad7c2287864 / ANGER
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 50
+:END:
+怒@nù	[[tls:concept:ANGER::#uuid-1f0a7bd8-ed27-4e5c-8033-7ad7c2287864][ANGER]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become angry
+*** 撓@náo
+:PROPERTIES:
+:CONCEPT: uuid-9b367fff-7bc2-4a0a-b432-1617fd32bef5 / HINDER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 52
+:END:
+撓@náo	[[tls:concept:HINDER::#uuid-9b367fff-7bc2-4a0a-b432-1617fd32bef5][HINDER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / provoke (somebody N) to perform an action that he/she does not want to perform at the moment
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7 / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphoric, referring to an aforementioned person: him, her, it; you
+** 卑而驕之	Pretend to be weak, that he may grow arrogant.
+:PROPERTIES:
+:SRC: SUN 1.5.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a12:50::卑而 / 孫子
+:CHARPOS: 50
+:END:
+*** 卑@bēi
+:PROPERTIES:
+:CONCEPT: uuid-1b1a0332-2795-4036-b69b-8b6eec08b96a / HUMBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+卑@bēi	[[tls:concept:HUMBLE::#uuid-1b1a0332-2795-4036-b69b-8b6eec08b96a][HUMBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be lowly, humble, hold low social status, menial; have a low status; be on a low level; also of one's reputation: be low
+*** 驕@jiāo
+:PROPERTIES:
+:CONCEPT: uuid-28935b88-74f5-4586-b0ed-8152d95c5e19 / ARROGANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 52
+:END:
+驕@jiāo	[[tls:concept:ARROGANT::#uuid-28935b88-74f5-4586-b0ed-8152d95c5e19][ARROGANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to be arrogant and over-confident
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7 / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphoric, referring to an aforementioned person: him, her, it; you
+** 佚而勞之	If he is taking his ease, give him no rest.
+:PROPERTIES:
+:SRC: SUN 1.5.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a13:50::佚而 / 孫子
+:CHARPOS: 50
+:END:
+*** 佚@yì / 軼@yì / 逸@yì
+:PROPERTIES:
+:CONCEPT: uuid-bb6dcee9-6d3f-488b-834d-4647718b1686 / PEACEFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+佚@yì / 軼@yì / 逸@yì	[[tls:concept:PEACEFUL::#uuid-bb6dcee9-6d3f-488b-834d-4647718b1686][PEACEFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be at leisure; make oneself comfortable; be at ease
+*** 勞@láo
+:PROPERTIES:
+:CONCEPT: uuid-510f33ec-61dc-4236-bf95-27e05fb16488 / TIRED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 52
+:END:
+勞@láo	[[tls:concept:TIRED::#uuid-510f33ec-61dc-4236-bf95-27e05fb16488][TIRED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / wear out, tire out
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7 / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphoric, referring to an aforementioned person: him, her, it; you
+** 親而離之	If his forces are united, sperate them.
+:PROPERTIES:
+:SRC: SUN 1.5.2 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a14:50::親而 / 孫子
+:CHARPOS: 50
+:END:
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-f46e107f-cba2-4382-ba1f-4f42a72fd0d3 / INTIMATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+親@qīn	[[tls:concept:INTIMATE::#uuid-f46e107f-cba2-4382-ba1f-4f42a72fd0d3][INTIMATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be close to one; be close to each other; be on harmonious terms; have intimate releations with one another; be on close terms
+*** 離@lí
+:PROPERTIES:
+:CONCEPT: uuid-aab3c847-eb0e-41b6-8957-23494fb05517 / SCATTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+離@lí	[[tls:concept:SCATTER::#uuid-aab3c847-eb0e-41b6-8957-23494fb05517][SCATTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / separate, break up (e.g. alliances)
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7 / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-3fbc8532-a798-4fb2-8ff7-a174b6c24ed7][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / anaphoric, referring to an aforementioned person: him, her, it; you
+** 攻其無備	Attack him where he is unprepared,
+:PROPERTIES:
+:SRC: SUN 1.5.3 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a15:50::攻其 / 孫子
+:CHARPOS: 50
+:END:
+*** 攻@gōng
+:PROPERTIES:
+:CONCEPT: uuid-59ba3ea0-98e5-47d6-95dd-198de11c360d / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+攻@gōng	[[tls:concept:ATTACK::#uuid-59ba3ea0-98e5-47d6-95dd-198de11c360d][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / launch an attack (which is not necessarily successful) against; direct attack; assault, personally attack (a person); sometimes used very generally: attack (an opponent, in any way) [The examples have to be distributed into the subcategories below.]
+*** 無備@wúbèi
+:PROPERTIES:
+:CONCEPT: uuid-6c5e823c-91f1-4e6c-88e3-5f4743030a88 / LACK
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 52
+:END:
+無備@wúbèi	[[tls:concept:LACK::#uuid-6c5e823c-91f1-4e6c-88e3-5f4743030a88][LACK]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / aspect in which one lacks enough preparation
+** 出其不意	appear where you are not expected.
+:PROPERTIES:
+:SRC: SUN 1.5.3 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a16:50::出其 / 孫子
+:CHARPOS: 50
+:END:
+*** 出@chū
+:PROPERTIES:
+:CONCEPT: uuid-19438b46-cceb-4bed-856d-b6f5db2c81a0 / SHOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-83f3fdd7-af64-4c8f-b156-bb6a0e761030
+:CHARPOS: 50
+:END:
+出@chū	[[tls:concept:SHOW::#uuid-19438b46-cceb-4bed-856d-b6f5db2c81a0][SHOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-83f3fdd7-af64-4c8f-b156-bb6a0e761030][N=place]]} / to appear at (a place N)
+*** 不意@bùyì
+:PROPERTIES:
+:CONCEPT: uuid-2731a50a-e23e-4386-85eb-bd8327233169 / DISASTER
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 52
+:END:
+不意@bùyì	[[tls:concept:DISASTER::#uuid-2731a50a-e23e-4386-85eb-bd8327233169][DISASTER]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / someonething unpredicted, a disaster that one has not thought about
+** 此兵家之勝	These military devices, leading to victory,
+:PROPERTIES:
+:SRC: SUN 1.5.3 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a17:50::此兵 / 孫子
+:CHARPOS: 50
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-20e72b12-d3da-4d93-82a7-4d85d052a415
+:CHARPOS: 50
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-20e72b12-d3da-4d93-82a7-4d85d052a415][abstract]]} / this (particular aforementioned abstract but definite) item
+*** 兵家@bīngjiā
+:PROPERTIES:
+:CONCEPT: uuid-f428aea5-0cbf-4f7d-96f1-70ee426c6950 / OFFICIAL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-2e377e0e-02e8-437f-86ce-f041186bc7aa
+:CHARPOS: 51
+:END:
+兵家@bīngjiā	[[tls:concept:OFFICIAL::#uuid-f428aea5-0cbf-4f7d-96f1-70ee426c6950][OFFICIAL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-2e377e0e-02e8-437f-86ce-f041186bc7aa][human]]} / military expert(s)
+*** 勝@shèng
+:PROPERTIES:
+:CONCEPT: uuid-18f8c17e-d197-449e-9fbd-bf4694cfa934 / WIN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-91f55413-83e2-4acb-9076-2b004249e4f1
+:CHARPOS: 54
+:END:
+勝@shèng	[[tls:concept:WIN::#uuid-18f8c17e-d197-449e-9fbd-bf4694cfa934][WIN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-91f55413-83e2-4acb-9076-2b004249e4f1][potential]]} / something leading to victory
+** 不可先傳也	must not be divulged beforehand.
+:PROPERTIES:
+:SRC: SUN 1.5.3 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:5a18:50::不可 / 孫子
+:CHARPOS: 50
+:END:
+*** 先@xiān
+:PROPERTIES:
+:CONCEPT: uuid-1e37f034-af19-43d6-95eb-b992851dc7cc / EARLY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 52
+:END:
+先@xiān	[[tls:concept:EARLY::#uuid-1e37f034-af19-43d6-95eb-b992851dc7cc][EARLY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / too early, earlier than it should be
+*** 傳@chuán
+:PROPERTIES:
+:CONCEPT: uuid-c915916d-e0f7-4535-84c5-fab69e2bef6d / TRANSMIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+傳@chuán	[[tls:concept:TRANSMIT::#uuid-c915916d-e0f7-4535-84c5-fab69e2bef6d][TRANSMIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be passed down, be transmitted
+** 未戰而廟筭勝者	the general who wins a battle
+:PROPERTIES:
+:SRC: SUN 1.6.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:6a01:2::未戰 / 孫子
+:CHARPOS: 2
+:END:
+*** 未@wèi
+:PROPERTIES:
+:CONCEPT: uuid-bbcc061b-2fbd-4b2b-850d-d9be0a369ce0 / NOT
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 2
+:END:
+未@wèi	[[tls:concept:NOT::#uuid-bbcc061b-2fbd-4b2b-850d-d9be0a369ce0][NOT]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / not yet
+*** 戰@zhàn
+:PROPERTIES:
+:CONCEPT: uuid-3b496056-a509-4683-9f9e-c6232d9873e1 / BATTLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+戰@zhàn	[[tls:concept:BATTLE::#uuid-3b496056-a509-4683-9f9e-c6232d9873e1][BATTLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in battle, give battle; be professionally engaged in an act of warfare [NB: giving battle is not a vi2. The use of 戰 with two subjects is actually not very common.]
+*** 廟@miào
+:PROPERTIES:
+:CONCEPT: uuid-f9e13c01-8d5a-43d5-a31e-d292fdaa6bc7 / TEMPLE
+:SYN-FUNC: uuid-9f482f91-d3b7-4fdd-9fe5-8a7fe712f174
+:CONCEPT: uuid-492d7b88-f574-491c-9524-4a5cf1673f83 / CALCULATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-229a701e-1341-4719-9af8-a0b4e69c6c71
+:CHARPOS: 5
+:END:
+廟@miào	[[tls:concept:TEMPLE::#uuid-f9e13c01-8d5a-43d5-a31e-d292fdaa6bc7][TEMPLE]]	N [[tls:syn-func::#uuid-9f482f91-d3b7-4fdd-9fe5-8a7fe712f174][n{PLACE}adV]] / in the ancestral temple
+算@suàn	[[tls:concept:CALCULATE::#uuid-492d7b88-f574-491c-9524-4a5cf1673f83][CALCULATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-229a701e-1341-4719-9af8-a0b4e69c6c71][perfective]]} / obtain ( a result N) through calculation
+*** 勝@shèng
+:PROPERTIES:
+:CONCEPT: uuid-2dca6066-0202-45c7-ac20-9e66a3e34be0 / WIN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 7
+:END:
+勝@shèng	[[tls:concept:WIN::#uuid-2dca6066-0202-45c7-ac20-9e66a3e34be0][WIN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / victory
+** 得筭多也	makes many calculations in his temple ere the battle is fought.
+:PROPERTIES:
+:SRC: SUN 1.6.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:6a02:50::得筭 / 孫子
+:CHARPOS: 50
+:END:
+*** 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-ce3bc611-f8bf-4064-92e1-e15f9d037a10 / OBTAIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CONCEPT: uuid-26c6789c-670a-432e-bfab-7fca28d97d2e / CALCULATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 50
+:END:
+得@dé	[[tls:concept:OBTAIN::#uuid-ce3bc611-f8bf-4064-92e1-e15f9d037a10][OBTAIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / manage to get, obtain; get hold of, find (what one is looking for); manage to find (one's proper place)
+算@suàn	[[tls:concept:CALCULATE::#uuid-26c6789c-670a-432e-bfab-7fca28d97d2e][CALCULATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / results of calculation, results gained through claculation
+*** 多@duō
+:PROPERTIES:
+:CONCEPT: uuid-cf97e9fd-99e0-4c4a-9af2-538dc33680b1 / MANY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+多@duō	[[tls:concept:MANY::#uuid-cf97e9fd-99e0-4c4a-9af2-538dc33680b1][MANY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be many; be abundant, be much; be more than enough; be in a majority
+** 未戰而廟筭不勝者	The general who loses a battle
+:PROPERTIES:
+:SRC: SUN 1.6.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:6a03:50::未戰 / 孫子
+:CHARPOS: 50
+:END:
+*** 未@wèi
+:PROPERTIES:
+:CONCEPT: uuid-bbcc061b-2fbd-4b2b-850d-d9be0a369ce0 / NOT
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 50
+:END:
+未@wèi	[[tls:concept:NOT::#uuid-bbcc061b-2fbd-4b2b-850d-d9be0a369ce0][NOT]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / not yet
+*** 戰@zhàn
+:PROPERTIES:
+:CONCEPT: uuid-3b496056-a509-4683-9f9e-c6232d9873e1 / BATTLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+戰@zhàn	[[tls:concept:BATTLE::#uuid-3b496056-a509-4683-9f9e-c6232d9873e1][BATTLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in battle, give battle; be professionally engaged in an act of warfare [NB: giving battle is not a vi2. The use of 戰 with two subjects is actually not very common.]
+*** 廟@miào
+:PROPERTIES:
+:CONCEPT: uuid-f9e13c01-8d5a-43d5-a31e-d292fdaa6bc7 / TEMPLE
+:SYN-FUNC: uuid-9f482f91-d3b7-4fdd-9fe5-8a7fe712f174
+:CONCEPT: uuid-492d7b88-f574-491c-9524-4a5cf1673f83 / CALCULATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-229a701e-1341-4719-9af8-a0b4e69c6c71
+:CHARPOS: 53
+:END:
+廟@miào	[[tls:concept:TEMPLE::#uuid-f9e13c01-8d5a-43d5-a31e-d292fdaa6bc7][TEMPLE]]	N [[tls:syn-func::#uuid-9f482f91-d3b7-4fdd-9fe5-8a7fe712f174][n{PLACE}adV]] / in the ancestral temple
+算@suàn	[[tls:concept:CALCULATE::#uuid-492d7b88-f574-491c-9524-4a5cf1673f83][CALCULATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-229a701e-1341-4719-9af8-a0b4e69c6c71][perfective]]} / obtain ( a result N) through calculation
+*** 不勝@bùshèng
+:PROPERTIES:
+:CONCEPT: uuid-bfe0c863-668a-4c85-8163-cf358dcf6e4e / DEFEAT
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 55
+:END:
+不勝@bùshèng	[[tls:concept:DEFEAT::#uuid-bfe0c863-668a-4c85-8163-cf358dcf6e4e][DEFEAT]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / defeat
+** 得筭少也	makes but a few calculations beforehand.
+:PROPERTIES:
+:SRC: SUN 1.6.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:6a04:50::得筭 / 孫子
+:CHARPOS: 50
+:END:
+*** 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-ce3bc611-f8bf-4064-92e1-e15f9d037a10 / OBTAIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CONCEPT: uuid-26c6789c-670a-432e-bfab-7fca28d97d2e / CALCULATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 50
+:END:
+得@dé	[[tls:concept:OBTAIN::#uuid-ce3bc611-f8bf-4064-92e1-e15f9d037a10][OBTAIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / manage to get, obtain; get hold of, find (what one is looking for); manage to find (one's proper place)
+算@suàn	[[tls:concept:CALCULATE::#uuid-26c6789c-670a-432e-bfab-7fca28d97d2e][CALCULATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / results of calculation, results gained through claculation
+*** 少@shǎo
+:PROPERTIES:
+:CONCEPT: uuid-372ec7aa-18aa-4489-8921-2b233c94c666 / FEW
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+少@shǎo	[[tls:concept:FEW::#uuid-372ec7aa-18aa-4489-8921-2b233c94c666][FEW]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / there are few; be few　甚少
+** 多筭勝	Thus do many calculations lead to victory,
+:PROPERTIES:
+:SRC: SUN 1.6.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:6a05:50::多筭 / 孫子
+:CHARPOS: 50
+:END:
+*** 多@duō
+:PROPERTIES:
+:CONCEPT: uuid-b9c47179-e54c-498b-9059-989923f48f66 / MANY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CONCEPT: uuid-3c035a32-b170-4f50-9d8a-10c771b6adec / CALCULATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 50
+:END:
+多@duō	[[tls:concept:MANY::#uuid-b9c47179-e54c-498b-9059-989923f48f66][MANY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in large numbers, one a wide scale; in large quantities on a large scale; referring to the object: many objects; most subjects
+算@suàn	[[tls:concept:CALCULATE::#uuid-3c035a32-b170-4f50-9d8a-10c771b6adec][CALCULATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / to calculate, be engaged in the process of calculation
+*** 勝@shèng
+:PROPERTIES:
+:CONCEPT: uuid-5db8cffa-b1d0-48a0-9331-d60c0ccb112c / WIN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+勝@shèng	[[tls:concept:WIN::#uuid-5db8cffa-b1d0-48a0-9331-d60c0ccb112c][WIN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / win the day, win victory; gain the upper hand; keep the upper hand; prevail; be victorious
+** 少筭不勝	and few calculations to defeat:
+:PROPERTIES:
+:SRC: SUN 1.6.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:6a06:50::少筭 / 孫子
+:CHARPOS: 50
+:END:
+*** 少@shǎo
+:PROPERTIES:
+:CONCEPT: uuid-7b8100e0-b805-4ecd-95fd-507a5b30a709 / SLIGHTLY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CONCEPT: uuid-3c035a32-b170-4f50-9d8a-10c771b6adec / CALCULATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 50
+:END:
+少@shǎo	[[tls:concept:SLIGHTLY::#uuid-7b8100e0-b805-4ecd-95fd-507a5b30a709][SLIGHTLY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / on a small scale; a little; a little distance; for a short while
+算@suàn	[[tls:concept:CALCULATE::#uuid-3c035a32-b170-4f50-9d8a-10c771b6adec][CALCULATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / to calculate, be engaged in the process of calculation
+*** 勝@shèng
+:PROPERTIES:
+:CONCEPT: uuid-5db8cffa-b1d0-48a0-9331-d60c0ccb112c / WIN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+勝@shèng	[[tls:concept:WIN::#uuid-5db8cffa-b1d0-48a0-9331-d60c0ccb112c][WIN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / win the day, win victory; gain the upper hand; keep the upper hand; prevail; be victorious
+** 而況於無筭乎	how much more no calculation at all!
+:PROPERTIES:
+:SRC: SUN 1.6.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:6a07:50::而況 / 孫子
+:CHARPOS: 50
+:END:
+*** 而況@érkuàng
+:PROPERTIES:
+:CONCEPT: uuid-ba8569cb-e009-47bb-b4c1-0cc89cfb05a7 / HOW
+:SYN-FUNC: uuid-a9e51915-33f6-4995-9e68-d369df016b99
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 50
+:END:
+而況@érkuàng	[[tls:concept:HOW::#uuid-ba8569cb-e009-47bb-b4c1-0cc89cfb05a7][HOW]]	P [[tls:syn-func::#uuid-a9e51915-33f6-4995-9e68-d369df016b99][PPadV.postS]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how much more
+*** 無@wú / 毋@wú / 亡@wáng / 无@wú
+:PROPERTIES:
+:CONCEPT: uuid-8cba9fb3-fdc8-401c-b682-924407fc640f / LACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CONCEPT: uuid-69744c2e-798c-40f2-8d70-b8a86122ee3d / CALCULATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+無@wú / 毋@wú / 亡@wáng / 无@wú	[[tls:concept:LACK::#uuid-8cba9fb3-fdc8-401c-b682-924407fc640f][LACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lack, be without; make do without; imply no (harm or loss); lack the support of (subordinates)
+算@suàn	[[tls:concept:CALCULATE::#uuid-69744c2e-798c-40f2-8d70-b8a86122ee3d][CALCULATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / calculation
+** 吾以此觀之	It is by attention to this point
+:PROPERTIES:
+:SRC: SUN 1.6.1 tr. Giles 1910:DATE: 8110	late Warring States
+:LOCATION: KR3b0003_001:6a08:50::吾以 / 孫子
+:CHARPOS: 50
+:END:
+*** 吾@wú
+:PROPERTIES:
+:CONCEPT: uuid-fe6ddf09-f277-496d-81f3-c63e975d8b05 / ONESELF
+:SYN-FUNC: uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b
+:SEM-FEAT: uuid-26d3ec76-dd89-4fd2-b554-92258536af7f
+:CHARPOS: 50
+:END:
+吾@wú	[[tls:concept:ONESELF::#uuid-fe6ddf09-f277-496d-81f3-c63e975d8b05][ONESELF]]	N [[tls:syn-func::#uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b][npro0]] {[[tls:sem-feat::#uuid-26d3ec76-dd89-4fd2-b554-92258536af7f][impersonal]]} / impersonal pronoun: one, oneself
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-256d58d0-076b-41ad-be80-4200f731993e / USE
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 51
+:END:
+以@yǐ	[[tls:concept:USE::#uuid-256d58d0-076b-41ad-be80-4200f731993e][USE]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / using> by means of, with; by way of
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-20e72b12-d3da-4d93-82a7-4d85d052a415
+:CHARPOS: 52
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-3adfa10e-3cbd-417e-8d50-d22759bd99f1][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-20e72b12-d3da-4d93-82a7-4d85d052a415][abstract]]} / this (particular aforementioned abstract but definite) item
+*** 觀@guān
+:PROPERTIES:
+:CONCEPT: uuid-d119c4f1-6679-4cb8-af69-1237eca49192 / INVESTIGATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+觀@guān	[[tls:concept:INVESTIGATE::#uuid-d119c4f1-6679-4cb8-af69-1237eca49192][INVESTIGATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / critically observe, watch carefully; look over carefully and systematically, make an overall investigation; survey and examine
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-620fab5a-64e8-44e6-8dd5-e37dbc111d8e / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 54
+:END:
+之@zhī	[[tls:concept:PRONOUN::#uuid-620fab5a-64e8-44e6-8dd5-e37dbc111d8e][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / cognate object; indefinite dummy object pronouns without reference: things, people; someone 以約失之者"Those who, through keeping to the main thing, get things wrong"

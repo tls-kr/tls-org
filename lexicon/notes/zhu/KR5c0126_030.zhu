@@ -1,0 +1,270 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 莊子 KR5c0126_030
+#+DATE: 2017-02-08T16:44:01+0900
+#+PROPERTY: COMMIT 8727f50dad81dc01cae1cea0a0b0cd5bea1ad693
+** 孰能說王之意止劍士者賜之千金	"I will bestow a thousand pieces of gold upon any man who can reason with the king and make him give up these sword fights!"
+:PROPERTIES:
+:SRC: ZHUANG 30.1.2 Guo Qingfan 1016; Wang Shumin 1215; Fang Yong i33; Chen Guying 806
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:1a11:1::「孰 / 莊子
+:CHARPOS: 1
+:END:
+*** 孰@shú
+:PROPERTIES:
+:CONCEPT: uuid-5d8194ba-34e9-4df2-8f09-84248df34a15 / SOME
+:SYN-FUNC: uuid-2b4052c6-a2b6-456b-b161-60c10307c4af
+:CHARPOS: 1
+:END:
+孰@shú	[[tls:concept:SOME::#uuid-5d8194ba-34e9-4df2-8f09-84248df34a15][SOME]]	N [[tls:syn-func::#uuid-2b4052c6-a2b6-456b-b161-60c10307c4af][npro.adV:adS]] / if anyone V-s(, then S)
+*** 賜@cì
+:PROPERTIES:
+:CONCEPT: uuid-e571e9b5-0e00-44bc-8daf-ee0618cebacb / GIVE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 11
+:END:
+賜@cì	[[tls:concept:GIVE::#uuid-e571e9b5-0e00-44bc-8daf-ee0618cebacb][GIVE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / give (a present N2) to (a recipient N1 of lower status)
+** 謹奉千金以幣從車	and I wished in all due respect to offer this thousand in gold as a gift to your attendants.
+:PROPERTIES:
+:SRC: ZHUANG 30.1.4 Guo Qingfan 1017; Wang Shumin 1215; Fang Yong i33; Chen Guying 806
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:2a08:1::謹奉 / 莊子
+:CHARPOS: 1
+:END:
+*** 謹@jǐn
+:PROPERTIES:
+:CONCEPT: uuid-6055e1a0-d77f-415d-aa6e-d8d83a17b185 / RESPECT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+謹@jǐn	[[tls:concept:RESPECT::#uuid-6055e1a0-d77f-415d-aa6e-d8d83a17b185][RESPECT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / respectfully
+** 悝尚何敢言	then I dare say no more about the matter."
+:PROPERTIES:
+:SRC: ZHUANG 30.1.4 Guo Qingfan 1017; Wang Shumin 1215; Fang Yong i33; Chen Guying 806
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:2a10:1::悝尚 / 莊子
+:CHARPOS: 1
+:END:
+*** 何@hé
+:PROPERTIES:
+:CONCEPT: uuid-9139b363-7697-4f77-8e18-98f50f3c48e9 / HOW
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 3
+:END:
+何@hé	[[tls:concept:HOW::#uuid-9139b363-7697-4f77-8e18-98f50f3c48e9][HOW]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / how on earth? How on earth could you/he/I? 回何敢死？ 丘何敢乎？何足憂？
+** 則身刑而死	then I would be sentenced to execution.
+:PROPERTIES:
+:SRC: ZHUANG 30.1.5 Guo Qingfan 1017; Wang Shumin 1215; Fang Yong i33; Chen Guying 806
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:2a15:1::則身 / 莊子
+:CHARPOS: 1
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-dbf27e25-044b-4288-ae44-c2280c322ac1 / SELF
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:CHARPOS: 2
+:END:
+身@shēn	[[tls:concept:SELF::#uuid-dbf27e25-044b-4288-ae44-c2280c322ac1][SELF]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] / contrastive: himself; oneself; the person him/herself (also: 身雖無能)
+** 莊子曰諾	"Fine!" said Chuang Tzu.
+:PROPERTIES:
+:SRC: ZHUANG 30.1.7 Guo Qingfan 1017; Wang Shumin 1216; Fang Yong i33; Chen Guying 806
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:3a04:1::莊子 / 莊子
+:CHARPOS: 1
+:END:
+*** 諾@nuò
+:PROPERTIES:
+:CONCEPT: uuid-4167d212-8dea-470b-b24c-5c923ae94254 / AGREE TO
+:SYN-FUNC: uuid-04dc4978-046d-4430-a08b-6198445e9667
+:CHARPOS: 4
+:END:
+諾@nuò	[[tls:concept:AGREE TO::#uuid-4167d212-8dea-470b-b24c-5c923ae94254][AGREE TO]]	V [[tls:syn-func::#uuid-04dc4978-046d-4430-a08b-6198445e9667][vt{0}(oN)]] / (Said by superior) [I hereby] approve [this]. All right! (Said by inferior) Yes!
+** 今夫子必儒服而見王	Now, Sir, if you should insist upon going to see him in scholarly garb,
+:PROPERTIES:
+:SRC: ZHUANG 30.1.8 Guo Qingfan 1017; Wang Shumin 1216; Fang Yong i33; Chen Guying 806
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:3a12:1::今夫 / 莊子
+:CHARPOS: 1
+:END:
+*** 儒@rú
+:PROPERTIES:
+:CONCEPT: uuid-bcb418cb-b6a4-4768-a3f7-ffb3f6a1905b / CONFUCIAN
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-bedce81f-bac5-4537-8e1f-191c7ff90bdb
+:CHARPOS: 5
+:END:
+儒@rú	[[tls:concept:CONFUCIAN::#uuid-bcb418cb-b6a4-4768-a3f7-ffb3f6a1905b][CONFUCIAN]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-bedce81f-bac5-4537-8e1f-191c7ff90bdb][analogy]]} / as a Confucian, like a Confucian; like a scholar
+** 莊子入殿門不趨	Chuang Tzu entered the door of the hall with unhurried steps,
+:PROPERTIES:
+:SRC: ZHUANG 30.1.10 Guo Qingfan 1018; Wang Shumin 1216; Fang Yong i33; Chen Guying 807
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:3a20:1::莊子 / 莊子
+:CHARPOS: 1
+:END:
+*** 殿@diàn
+:PROPERTIES:
+:CONCEPT: uuid-91378b39-93f4-4b7e-b22d-f90e42d6ae31 / COURT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+殿@diàn	[[tls:concept:COURT::#uuid-91378b39-93f4-4b7e-b22d-f90e42d6ae31][COURT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / large building; court; main hall
+** 使奉劍於殿下	who were ordered to present themselves with their swords outside the king's hall.
+:PROPERTIES:
+:SRC: ZHUANG 30.1.17 Guo Qingfan 1019; Wang Shumin 1220; Fang Yong i34; Chen Guying 807
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:4a04:1::使奉 / 莊子
+:CHARPOS: 1
+:END:
+*** 殿@diàn
+:PROPERTIES:
+:CONCEPT: uuid-91378b39-93f4-4b7e-b22d-f90e42d6ae31 / COURT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+殿@diàn	[[tls:concept:COURT::#uuid-91378b39-93f4-4b7e-b22d-f90e42d6ae31][COURT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / large building; court; main hall
+** 匡諸侯	the feudal lords return to their former obedience
+:PROPERTIES:
+:SRC: ZHUANG 30.2.3 Guo Qingfan 1020; Wang Shumin 1220; Fang Yong i34; Chen Guying i12
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:4a49:1::匡諸 / 莊子
+:CHARPOS: 1
+:END:
+*** 匡@kuāng
+:PROPERTIES:
+:CONCEPT: uuid-1c915e2c-59ac-4010-b11c-c1cc371259e0 / CORRECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+匡@kuāng	[[tls:concept:CORRECT::#uuid-1c915e2c-59ac-4010-b11c-c1cc371259e0][CORRECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to be proper; to correct
+** 諸侯之劍何如	"What is the sword of the feudal lord like?"
+:PROPERTIES:
+:SRC: ZHUANG 30.2.4 Guo Qingfan 1021; Wang Shumin 1221; Fang Yong i34; Chen Guying i12
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:5a03:1::「諸 / 莊子
+:CHARPOS: 1
+:END:
+*** 諸侯@zhūhóu
+:PROPERTIES:
+:CONCEPT: uuid-b65c515f-0576-4a02-acc6-f89c710aa400 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+諸侯@zhūhóu	[[tls:concept:RULER::#uuid-b65c515f-0576-4a02-acc6-f89c710aa400][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the feudal lords
+** 諸侯之劍	"The sword of the feudal lord?
+:PROPERTIES:
+:SRC: ZHUANG 30.2.5 Guo Qingfan 1022; Wang Shumin 1221; Fang Yong i34; Chen Guying i12
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:5a05:1::「諸 / 莊子
+:CHARPOS: 1
+:END:
+*** 諸侯@zhūhóu
+:PROPERTIES:
+:CONCEPT: uuid-b65c515f-0576-4a02-acc6-f89c710aa400 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+諸侯@zhūhóu	[[tls:concept:RULER::#uuid-b65c515f-0576-4a02-acc6-f89c710aa400][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the feudal lords
+** 下法方地	Below, it takes its model from the squareness of earth,
+:PROPERTIES:
+:SRC: ZHUANG 30.2.5 Guo Qingfan 1022; Wang Shumin 1221; Fang Yong i34; Chen Guying i12
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:5a16:1::下法 / 莊子
+:CHARPOS: 1
+:END:
+*** 法@fǎ
+:PROPERTIES:
+:CONCEPT: uuid-95019529-59d8-4d1c-a2c2-61db44bc3f3f / IMITATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+法@fǎ	[[tls:concept:IMITATE::#uuid-95019529-59d8-4d1c-a2c2-61db44bc3f3f][IMITATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / model oneself after; emulate, take as a model, follow as a method; (See also IMITATE)
+** 此諸侯之劍也	This is the sword of the feudal lord."
+:PROPERTIES:
+:SRC: ZHUANG 30.2.6 Guo Qingfan 1022; Wang Shumin 1221; Fang Yong i34; Chen Guying i12
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:5a22:1::此諸 / 莊子
+:CHARPOS: 1
+:END:
+*** 諸侯@zhūhóu
+:PROPERTIES:
+:CONCEPT: uuid-29103926-573c-4661-8a18-0be60691648a / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 2
+:END:
+諸侯@zhūhóu	[[tls:concept:RULER::#uuid-29103926-573c-4661-8a18-0be60691648a][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / (generalising, non-referential) a feudal lord　[I include all examples that I feel deserve consideration in this connection. Many are questionable, but all can throw light on the problem of the plural/singular an definite/indefinite problem. These attributions are all being reworked.CH]
+** 上斬頸領	Above, it lops off heads and necks;
+:PROPERTIES:
+:SRC: ZHUANG 30.2.9 Guo Qingfan 1022; Wang Shumin 1221; Fang Yong i35; Chen Guying i12
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:6a10:1::上斬 / 莊子
+:CHARPOS: 1
+:END:
+*** 頸領@jǐnglǐng
+:PROPERTIES:
+:CONCEPT: uuid-53b3750a-b4ed-4d06-b25b-08e9c0fe0ffb / NECK
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 3
+:END:
+頸領@jǐnglǐng	[[tls:concept:NECK::#uuid-53b3750a-b4ed-4d06-b25b-08e9c0fe0ffb][NECK]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / neck and throat
+** 今大王有天子之位	Now Your Majesty occupies the position of a Son of Heaven,
+:PROPERTIES:
+:SRC: ZHUANG 30.2.9 Guo Qingfan 1022; Wang Shumin 1221; Fang Yong i35; Chen Guying i12
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:6a16:1::今大 / 莊子
+:CHARPOS: 1
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-9b309289-51ab-4c77-8a80-67dff3a9da01 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 5
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-9b309289-51ab-4c77-8a80-67dff3a9da01][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the (contextually determinate) Son of Heaven (of the time)
+** 臣竊為大王薄之	If I may be so bold, I think it rather unworthy of you!
+:PROPERTIES:
+:SRC: ZHUANG 30.2.9 Guo Qingfan 1022; Wang Shumin 1221; Fang Yong i35; Chen Guying i12
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:6a17:1::臣竊 / 莊子
+:CHARPOS: 1
+:END:
+*** 竊@qiè
+:PROPERTIES:
+:CONCEPT: uuid-0cb9a202-969a-4733-84f6-0e924fbbc7cd / DARE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 2
+:END:
+竊@qiè	[[tls:concept:DARE::#uuid-0cb9a202-969a-4733-84f6-0e924fbbc7cd][DARE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / in polite speech: take the liberty of V-ing; humbly permit oneself to, humbly allow oneself to (NB 竊不敢...)
+** 王乃牽而上殿	The king thereupon led Chuang Tzu up into his hall,
+:PROPERTIES:
+:SRC: ZHUANG 30.2.10 Guo Qingfan 1022; Wang Shumin 1221; Fang Yong i35; Chen Guying i12
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:6a18:50::王乃 / 莊子
+:CHARPOS: 50
+:END:
+*** 殿@diàn
+:PROPERTIES:
+:CONCEPT: uuid-91378b39-93f4-4b7e-b22d-f90e42d6ae31 / COURT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 55
+:END:
+殿@diàn	[[tls:concept:COURT::#uuid-91378b39-93f4-4b7e-b22d-f90e42d6ae31][COURT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / large building; court; main hall
+** 於是文王不出宮三月	After this, King Wen did not emerge from his palace for three months,
+:PROPERTIES:
+:SRC: ZHUANG 30.2.11 Guo Qingfan 1023; Wang Shumin 1221; Fang Yong i35; Chen Guying i12
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_030:6a24:1::於是 / 莊子
+:CHARPOS: 1
+:END:
+*** 於是@yúshì
+:PROPERTIES:
+:CONCEPT: uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28 / THEREUPON
+:SYN-FUNC: uuid-fc393db1-993e-431d-9540-bc9fde4945d4
+:CHARPOS: 1
+:END:
+於是@yúshì	[[tls:concept:THEREUPON::#uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28][THEREUPON]]	V [[tls:syn-func::#uuid-fc393db1-993e-431d-9540-bc9fde4945d4][VPadS1.postS2]] / At that point, Whereupon; at that time; at this time (remarkably often after direct speeech: having said this,...; then; at that point, at this juncture; at this stage (in a text); and then; subsequently)

@@ -1,0 +1,124 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_011
+#+DATE: 2017-02-08T16:35:47+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 予恐來世以台為口實	'I am afraid that in future ages men will fill their mouths with me, (as an apology for their rebellious proceedings.)'
+:PROPERTIES:
+:SRC: SHU (LATE) 11.1; tr. Legge p 177ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_011:2a04:1::「予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (as a non-agential experiencer participant)
+*** 台@yí
+:PROPERTIES:
+:CONCEPT: uuid-ecbe9a7d-80d9-4114-a014-a8fbdf16931c / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 6
+:END:
+台@yí	[[tls:concept:EGO::#uuid-ecbe9a7d-80d9-4114-a014-a8fbdf16931c][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / me
+** 肇我邦于有夏	(but) from the first our country was to the sovereign of Xia
+:PROPERTIES:
+:SRC: SHU (LATE) 11.2.2; tr. Legge p 177ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_011:2a25:1::肇我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 矧予之德	How much more was this the case, when our (prince's) virtues
+:PROPERTIES:
+:SRC: SHU (LATE) 11.2.3; tr. Legge p 177ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_011:2a30:1::矧予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-2f87492c-8c6d-4d67-b158-547c42e32579 / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-fe6e0789-b1ed-4663-b1f3-4ae29db37404
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:WE::#uuid-2f87492c-8c6d-4d67-b158-547c42e32579][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-fe6e0789-b1ed-4663-b1f3-4ae29db37404][exclusive]]} / our (often not that of the audience) CHECK CAREFULLY ALL THE EXAMPLES!
+** 奚獨後予	"Why does he make us alone the last?"
+:PROPERTIES:
+:SRC: SHU (LATE) 11.2.4; tr. Legge p 177ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_011:2a44:2::奚獨 / 尚書
+:CHARPOS: 2
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-b99f038f-db49-4ae2-9a4a-452d261f6935 / WE
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-fe6e0789-b1ed-4663-b1f3-4ae29db37404
+:CHARPOS: 5
+:END:
+予@yú	[[tls:concept:WE::#uuid-b99f038f-db49-4ae2-9a4a-452d261f6935][WE]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-fe6e0789-b1ed-4663-b1f3-4ae29db37404][exclusive]]} / us (often excluding the audience addressed) CHECK CAREFULLY ALL THE EXAMPLES!
+** 徯予后	"We have waited for our prince;
+:PROPERTIES:
+:SRC: SHU (LATE) 11.2.4; tr. Legge p 177ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_011:2a48:1::「徯 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-2f87492c-8c6d-4d67-b158-547c42e32579 / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-fe6e0789-b1ed-4663-b1f3-4ae29db37404
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:WE::#uuid-2f87492c-8c6d-4d67-b158-547c42e32579][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-fe6e0789-b1ed-4663-b1f3-4ae29db37404][exclusive]]} / our (often not that of the audience) CHECK CAREFULLY ALL THE EXAMPLES!
+** 以禮制心	order your heart by propriety -
+:PROPERTIES:
+:SRC: SHU (LATE) 11.2.6; tr. Legge p 177ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_011:2a65:1::以禮 / 尚書
+:CHARPOS: 1
+:END:
+*** 禮@lǐ
+:PROPERTIES:
+:CONCEPT: uuid-ca3b5947-5e12-432f-9e7c-a6fa034969fa / RITUAL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+禮@lǐ	[[tls:concept:RITUAL::#uuid-ca3b5947-5e12-432f-9e7c-a6fa034969fa][RITUAL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / descriptive: ritual practices, rituals; ritual; the ceremonies
+*** 心@xīn
+:PROPERTIES:
+:CONCEPT: uuid-99797c97-0d86-427b-a38c-ae43527a1d18 / MIND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+心@xīn	[[tls:concept:MIND::#uuid-99797c97-0d86-427b-a38c-ae43527a1d18][MIND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / mind (Most of these examples are really nab(post-N) or nab[post-N]. The subdivision has not been implemented so far.)BUDDH: skr. citta (the concept of 心 in Buddhist texts is extremely complicated!)
+** 予聞曰	I have heard the saying,
+:PROPERTIES:
+:SRC: SHU (LATE) 11.2.6; tr. Legge p 177ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_011:2a67:1::予聞 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (as a non-agential experiencer participant)

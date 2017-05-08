@@ -1,0 +1,273 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_080
+#+DATE: 2017-02-08T16:43:48+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 小邦寡民	In a small state with few inhabitant
+:PROPERTIES:
+:SRC: LAO 80.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_080:1a01:50::小邦 / 老子
+:CHARPOS: 50
+:END:
+*** 小@xiǎo
+:PROPERTIES:
+:CONCEPT: uuid-fa8ca7fb-5795-41ff-a2b6-94c88eb166bb / SMALL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+小@xiǎo	[[tls:concept:SMALL::#uuid-fa8ca7fb-5795-41ff-a2b6-94c88eb166bb][SMALL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / make smaller; ensure the smallness of
+*** 寡@guǎ
+:PROPERTIES:
+:CONCEPT: uuid-ed5ee20f-16cf-4d0b-8613-754085460735 / FEW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 52
+:END:
+寡@guǎ	[[tls:concept:FEW::#uuid-ed5ee20f-16cf-4d0b-8613-754085460735][FEW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to be few
+*** 民@mín
+:PROPERTIES:
+:CONCEPT: uuid-b02ba303-f52c-4663-8bdf-e796becf8b1d / PEOPLE
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 53
+:END:
+民@mín	[[tls:concept:PEOPLE::#uuid-b02ba303-f52c-4663-8bdf-e796becf8b1d][PEOPLE]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / amount of people; population; mankind
+** 使有什伯之器	supposing that there exist men with the capacity of ten or a hundred men,
+:PROPERTIES:
+:SRC: LAO 80.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_080:1a02:50::使有 / 老子
+:CHARPOS: 50
+:END:
+*** 使@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-8a47346f-e41f-4239-ba91-a8a76839f852 / CAUSE TO
+:SYN-FUNC: uuid-7de00196-12aa-43e2-9843-72079143c05b
+:CHARPOS: 50
+:END:
+使@shǐ	[[tls:concept:CAUSE TO::#uuid-8a47346f-e41f-4239-ba91-a8a76839f852][CAUSE TO]]	V [[tls:syn-func::#uuid-7de00196-12aa-43e2-9843-72079143c05b][vtt(oN.)+V{0}]] / cause somebody contextually determinate N to V, make somebody N get into a certain situation, make somebody or something obtain a quality
+*** 什@shí
+:PROPERTIES:
+:CONCEPT: uuid-71e122bc-a1e1-44c2-8a40-91cdf6d3bcb9 / TEN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-c143c779-6245-46c4-9151-8411ffe56c67
+:CHARPOS: 52
+:END:
+什@shí	[[tls:concept:TEN::#uuid-71e122bc-a1e1-44c2-8a40-91cdf6d3bcb9][TEN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-c143c779-6245-46c4-9151-8411ffe56c67][army]]} / a group of ten persons or items
+*** 什@shí
+:PROPERTIES:
+:CONCEPT: uuid-3bd8c840-ded7-4c6e-8d1e-f3c6eea13718 / TEN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+什@shí	[[tls:concept:TEN::#uuid-3bd8c840-ded7-4c6e-8d1e-f3c6eea13718][TEN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (amout of) ten; unit of ten
+*** 伯@bó / @
+:PROPERTIES:
+:CONCEPT: uuid-99db7cb9-d920-425d-90b4-a1ed50ca5b15 / HUNDRED
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+伯@bó / @	[[tls:concept:HUNDRED::#uuid-99db7cb9-d920-425d-90b4-a1ed50ca5b15][HUNDRED]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / one hundred
+*** 伯@bó / @
+:PROPERTIES:
+:CONCEPT: uuid-9c3e3c13-ce16-4179-8791-9a89b60ec57d / HUNDRED
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-11883762-41f6-4299-89ee-bda40cb4fec4
+:CHARPOS: 53
+:END:
+伯@bó / @	[[tls:concept:HUNDRED::#uuid-9c3e3c13-ce16-4179-8791-9a89b60ec57d][HUNDRED]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-11883762-41f6-4299-89ee-bda40cb4fec4][military]]} / force of a hundred, German: Hundertschaft
+*** 器@qì
+:PROPERTIES:
+:CONCEPT: uuid-d64ccdf5-0ea8-4ef1-8a06-b82525825104 / WEAPON
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 55
+:END:
+器@qì	[[tls:concept:WEAPON::#uuid-d64ccdf5-0ea8-4ef1-8a06-b82525825104][WEAPON]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / weapons
+** 使民重死	Supposing that the people had respect for death
+:PROPERTIES:
+:SRC: LAO 80.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_080:1a03:1::使民 / 老子
+:CHARPOS: 1
+:END:
+*** 使@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-11b1c91c-9a95-42c3-822e-38661cc04106 / CAUSE TO
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 1
+:END:
+使@shǐ	[[tls:concept:CAUSE TO::#uuid-11b1c91c-9a95-42c3-822e-38661cc04106][CAUSE TO]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / cause N to V, bring it about that N V-s 使之聞之 [NB: the first 之shows that the object of 使 does function as an object and not only as a subject of wén 聞. Thus technically speaking we do not have a sentence after the vt.]
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-1cff7896-da7d-43e9-b8d4-ef2133e23740 / IMPORTANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 3
+:END:
+重@zhòng	[[tls:concept:IMPORTANT::#uuid-1cff7896-da7d-43e9-b8d4-ef2133e23740][IMPORTANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / consider as important; consider as a serious matter, take seriously, attach importance to; be chiefly concerned with; 最重
+** 而不遠徙	and did not emigrate far away.
+:PROPERTIES:
+:SRC: LAO 80.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_080:1a04:50::而不 / 老子
+:CHARPOS: 50
+:END:
+*** 遠@yuǎn
+:PROPERTIES:
+:CONCEPT: uuid-09e41bde-556a-4487-a62f-bb60ed911587 / DISTANT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+遠@yuǎn	[[tls:concept:DISTANT::#uuid-09e41bde-556a-4487-a62f-bb60ed911587][DISTANT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in the far distance, far away; into the far distance; on a distant journey; over a long distance
+*** 徙@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-de65074f-144a-428a-856d-2196468c9d38 / MOVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+徙@xǐ	[[tls:concept:MOVE::#uuid-de65074f-144a-428a-856d-2196468c9d38][MOVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / move house; move place, move about, move around; change course; migrate; move abroad
+** 雖有舟輿	Even if there existed boats and carriages
+:PROPERTIES:
+:SRC: LAO 80.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_080:1a05:50::雖有 / 老子
+:CHARPOS: 50
+:END:
+*** 舟輿@zhōuyú
+:PROPERTIES:
+:CONCEPT: uuid-fb778d51-4475-4e0c-baab-87c46795aa22 / VEHICLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+舟輿@zhōuyú	[[tls:concept:VEHICLE::#uuid-fb778d51-4475-4e0c-baab-87c46795aa22][VEHICLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / means of transport
+** 雖有甲兵	even if there were buff-coats and weapons,
+:PROPERTIES:
+:SRC: LAO 80.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_080:1a07:1::雖有 / 老子
+:CHARPOS: 1
+:END:
+*** 甲兵@jiǎbīng
+:PROPERTIES:
+:CONCEPT: uuid-888db5b1-c2a7-4581-8776-dd4dcc76ee81 / WEAPON
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:CHARPOS: 3
+:END:
+甲兵@jiǎbīng	[[tls:concept:WEAPON::#uuid-888db5b1-c2a7-4581-8776-dd4dcc76ee81][WEAPON]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / armour and weapons; military equipment (not nececessarily only armour and weapons specifically, compare 仁義 "morality")
+** 甘其食	that they found their food savoury,
+:PROPERTIES:
+:SRC: LAO 80.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_080:1a10:1::甘其 / 老子
+:CHARPOS: 1
+:END:
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-cd902983-7a39-4205-b48c-0394ac183b08 / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 3
+:END:
+食@shí	[[tls:concept:FOOD::#uuid-cd902983-7a39-4205-b48c-0394ac183b08][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / Note that Lù Démíng reads this meaning as sì in several places of 經典釋文: provisions; food supply; staple food; food for general sustenance while at home; (e.g. beg for) something to eat; food supplies; fodder (e.g. for horses)
+** 鄰邦相望	Neighbouring states would see one another,
+:PROPERTIES:
+:SRC: LAO 80.3; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_080:1a14:1::鄰邦 / 老子
+:CHARPOS: 1
+:END:
+*** 鄰@lín
+:PROPERTIES:
+:CONCEPT: uuid-22e37294-6f6c-476d-a0e5-d9957b096d21 / NEAR
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+鄰@lín	[[tls:concept:NEAR::#uuid-22e37294-6f6c-476d-a0e5-d9957b096d21][NEAR]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / neighbouring; adjacent
+*** 相@xiàng / 相@xiāng
+:PROPERTIES:
+:CONCEPT: uuid-a3e27cb3-2518-4d26-bac0-2f0b5e7290aa / INTERACT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 3
+:END:
+相@xiàng / 相@xiāng	[[tls:concept:INTERACT::#uuid-a3e27cb3-2518-4d26-bac0-2f0b5e7290aa][INTERACT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in mutual interaction> each other, mutually
+*** 望@wàng / 望@(wáng)
+:PROPERTIES:
+:CONCEPT: uuid-612ed63a-379c-4a30-b545-5148d00bcdf1 / LOOK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+望@wàng / 望@(wáng)	[[tls:concept:LOOK::#uuid-612ed63a-379c-4a30-b545-5148d00bcdf1][LOOK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / look out for; look at (admiringly) from afar; look to (for guidance); look into the distance (as from a tower etc); see from a distance; look around; look into distance in expectation of somebody's arrival
+** 雞犬之聲相聞	the sound of cocks and dogs would be heard between them,
+:PROPERTIES:
+:SRC: LAO 80.3; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_080:1a15:50::雞犬 / 老子
+:CHARPOS: 50
+:END:
+*** 雞@jī
+:PROPERTIES:
+:CONCEPT: uuid-bfdd347f-28d4-43b8-87e6-0c6c95e0989d / COCK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+雞@jī	[[tls:concept:COCK::#uuid-bfdd347f-28d4-43b8-87e6-0c6c95e0989d][COCK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / cock
+*** 雞@jī
+:PROPERTIES:
+:CONCEPT: uuid-9df9744d-94db-4d71-8270-11ddb4ea1bae / CHICKEN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+雞@jī	[[tls:concept:CHICKEN::#uuid-9df9744d-94db-4d71-8270-11ddb4ea1bae][CHICKEN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / cock; chicken
+*** 犬@quǎn
+:PROPERTIES:
+:CONCEPT: uuid-a9ccfd1b-c3e2-4d3f-a7c3-61a30bf5a534 / DOG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+犬@quǎn	[[tls:concept:DOG::#uuid-a9ccfd1b-c3e2-4d3f-a7c3-61a30bf5a534][DOG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / dog
+*** 聲@shēng
+:PROPERTIES:
+:CONCEPT: uuid-b3326f77-ca84-4630-ab7f-4b888909a8e4 / SOUND
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:SEM-FEAT: uuid-04a9e8b5-0f83-4189-8c23-2542ebf14f0f
+:CHARPOS: 53
+:END:
+聲@shēng	[[tls:concept:SOUND::#uuid-b3326f77-ca84-4630-ab7f-4b888909a8e4][SOUND]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] {[[tls:sem-feat::#uuid-04a9e8b5-0f83-4189-8c23-2542ebf14f0f][N=creatures]]} / generally: sound made by any creature
+*** 聞@wén
+:PROPERTIES:
+:CONCEPT: uuid-f707291d-592a-44af-8334-4e71ccdea034 / HEAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+聞@wén	[[tls:concept:HEAR::#uuid-f707291d-592a-44af-8334-4e71ccdea034][HEAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / hear (sounds); overhear; hear about
+** 民至老死不相往來	the people would reach old age and die without any intercourse between them.
+:PROPERTIES:
+:SRC: LAO 80.3; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_080:1a15:50::民至 / 老子
+:CHARPOS: 50
+:END:
+*** 至@zhì
+:PROPERTIES:
+:CONCEPT: uuid-bd602adb-a72f-49ce-b025-96fee97b46fb / ARRIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-229a701e-1341-4719-9af8-a0b4e69c6c71
+:CHARPOS: 51
+:END:
+至@zhì	[[tls:concept:ARRIVE::#uuid-bd602adb-a72f-49ce-b025-96fee97b46fb][ARRIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-229a701e-1341-4719-9af8-a0b4e69c6c71][perfective]]} / arrive at, turn up at; get to (a place); abstract: advance to the position of; attain to
+*** 老@lǎo
+:PROPERTIES:
+:CONCEPT: uuid-5b905cf4-d018-45bc-8889-1bb7db7532da / OLD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+老@lǎo	[[tls:concept:OLD::#uuid-5b905cf4-d018-45bc-8889-1bb7db7532da][OLD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / old age; getting old
+*** 死@sǐ
+:PROPERTIES:
+:CONCEPT: uuid-2ebad24c-43d3-49fa-a7fd-64cb258fbf16 / DIE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 53
+:END:
+死@sǐ	[[tls:concept:DIE::#uuid-2ebad24c-43d3-49fa-a7fd-64cb258fbf16][DIE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / death, also abstract: the fact of dying; mode of dying
+*** 往來@wǎnglái
+:PROPERTIES:
+:CONCEPT: uuid-46f29330-858d-4bc3-9b48-e77cdfb6568e / INTERACT
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 56
+:END:
+往來@wǎnglái	[[tls:concept:INTERACT::#uuid-46f29330-858d-4bc3-9b48-e77cdfb6568e][INTERACT]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / have social intercourse with (one another); go back and forth between (places)

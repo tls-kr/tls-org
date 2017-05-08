@@ -1,0 +1,111 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_102
+#+DATE: 2017-02-08T16:41:19+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 朝為天子	He held court as the "Son of Heaven"
+:PROPERTIES:
+:SRC: ZGC 6.10.3; tr. Crump 1979 no.112, p 143, ed. Shanghaiguji p. 259-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_102:1a29:1::朝為 / 戰國策
+:CHARPOS: 1
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-50e1746a-8d0a-4c0f-9665-e3b6cbfd4e26 / KING
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 3
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-50e1746a-8d0a-4c0f-9665-e3b6cbfd4e26][KING]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be the Son of Heaven
+** 國家大危	and threatening the state itself.
+:PROPERTIES:
+:SRC: ZGC 6.10.3; tr. Crump 1979 no.112, p 143, ed. Shanghaiguji p. 259-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_102:1a34:1::國家 / 戰國策
+:CHARPOS: 1
+:END:
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 1
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation
+** 請為陳侯臣	He begged to be vassal of Marquis Ch'n, ruler of Ch'i.
+:PROPERTIES:
+:SRC: ZGC 6.10.3; tr. Crump 1979 no.112, p 143, ed. Shanghaiguji p. 259-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_102:1a36:1::請為 / 戰國策
+:CHARPOS: 1
+:END:
+*** 請@qǐng
+:PROPERTIES:
+:CONCEPT: uuid-9fcb1c4b-d1ee-480e-96e7-42f97a602d67 / REQUEST
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 1
+:END:
+請@qǐng	[[tls:concept:REQUEST::#uuid-9fcb1c4b-d1ee-480e-96e7-42f97a602d67][REQUEST]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / 子犯請擊之"Zǐfàn asked to attack them"ask permission (to do what what one would like to do); [The person whose permission is asked should also be in the structure as being always understood. There are quite a number of such cases. CH]
+** 寢不寐	he tossed sleepless in his bed
+:PROPERTIES:
+:SRC: ZGC 6.10.4; tr. Crump 1979 no.112, p 144, ed. Shanghaiguji p. 259
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_102:1a39:1::寢不 / 戰國策
+:CHARPOS: 1
+:END:
+*** 寢@qǐn
+:PROPERTIES:
+:CONCEPT: uuid-1fe02276-4006-4aa4-b74b-0a071da5670b / REST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+寢@qǐn	[[tls:concept:REST::#uuid-1fe02276-4006-4aa4-b74b-0a071da5670b][REST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / take a rest; go to rest; go to sleep
+*** 寐@mèi
+:PROPERTIES:
+:CONCEPT: uuid-5b64c866-8dbf-4a67-943d-2a4e0e1c55ce / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 3
+:END:
+寐@mèi	[[tls:concept:SLEEP::#uuid-5b64c866-8dbf-4a67-943d-2a4e0e1c55ce][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / fall asleep; get to sleep
+** 食不飽	and picked at his food
+:PROPERTIES:
+:SRC: ZGC 6.10.4; tr. Crump 1979 no.112, p 144, ed. Shanghaiguji p. 259
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_102:1a40:50::食不 / 戰國策
+:CHARPOS: 50
+:END:
+*** 飽@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-4c366136-71ab-4777-b027-abcdc0825f25 / EAT
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 52
+:END:
+飽@bǎo	[[tls:concept:EAT::#uuid-4c366136-71ab-4777-b027-abcdc0825f25][EAT]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / eat to one's heart's content; eat enough
+** 帥天下百姓	until finally he led the people of the empire
+:PROPERTIES:
+:SRC: ZGC 6.10.4; tr. Crump 1979 no.112, p 144, ed. Shanghaiguji p. 259
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_102:1a41:50::帥天 / 戰國策
+:CHARPOS: 50
+:END:
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-30a51e86-68e3-42a1-982a-5541407fc369 / PEOPLE
+:SYN-FUNC: uuid-6a061076-9f61-43ed-9b5e-2cfcedc1de01
+:CHARPOS: 53
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-30a51e86-68e3-42a1-982a-5541407fc369][PEOPLE]]	N [[tls:syn-func::#uuid-6a061076-9f61-43ed-9b5e-2cfcedc1de01][NPpostVt]] / the people (as grammatical object)
+** 內喻其百姓	and within her own borders she told her people.
+:PROPERTIES:
+:SRC: ZGC 6.10.5; tr. Crump 1979 no.112, p 144, ed. Shanghaiguji p. 259
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_102:1a54:1::內喻 / 戰國策
+:CHARPOS: 1
+:END:
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-30a51e86-68e3-42a1-982a-5541407fc369 / PEOPLE
+:SYN-FUNC: uuid-6a061076-9f61-43ed-9b5e-2cfcedc1de01
+:CHARPOS: 4
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-30a51e86-68e3-42a1-982a-5541407fc369][PEOPLE]]	N [[tls:syn-func::#uuid-6a061076-9f61-43ed-9b5e-2cfcedc1de01][NPpostVt]] / the people (as grammatical object)

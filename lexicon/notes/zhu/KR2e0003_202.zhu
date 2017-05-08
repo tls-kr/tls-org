@@ -1,0 +1,33 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_202
+#+DATE: 2017-02-08T16:41:25+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 黃金珠璣犀象出於楚	'Gold, pearls, gems, rhinoceros horn and ivory all come from Ch'u.
+:PROPERTIES:
+:SRC: ZGC 16.4.2, tr. Crump no 192, ed. Sha4ngha3igu3jí p. 539
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_202:2a11:1::「黃 / 戰國策
+:CHARPOS: 1
+:END:
+*** 珠璣@zhūjī
+:PROPERTIES:
+:CONCEPT: uuid-d66d2b7f-a542-4556-9956-28aac4193781 / PEARL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 3
+:END:
+珠璣@zhūjī	[[tls:concept:PEARL::#uuid-d66d2b7f-a542-4556-9956-28aac4193781][PEARL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / pearls of all kinds
+** 子釋之	'You are pardoned', replied the king.
+:PROPERTIES:
+:SRC: ZGC 16.4.6, tr. Crump no 192, ed. Sha4ngha3igu3jí p. 540
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_202:4a23:1::「子 / 戰國策
+:CHARPOS: 1
+:END:
+*** 釋@shì
+:PROPERTIES:
+:CONCEPT: uuid-8af2a9e3-b6b6-4b71-a7da-0b63e5d943ca / FORGIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+釋@shì	[[tls:concept:FORGIVE::#uuid-8af2a9e3-b6b6-4b71-a7da-0b63e5d943ca][FORGIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / set aside> forgive personally (crimes); let go free (Note 釋其罪)

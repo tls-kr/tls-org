@@ -1,0 +1,64 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_225
+#+DATE: 2017-02-08T16:41:26+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 士為知己者死	the true warrior requires the lord who knew his worth by dying for him,
+:PROPERTIES:
+:SRC: ZGC 18.4.1, tr. Crump no 232, ed. Sha4ngha3igu3jí p. 595
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_225:1a11:1::士為 / 戰國策
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1 / SELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 4
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1][SELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / object pronoun, resumptive, non-contrastive: oneself, himself, herself, themselves
+** 女為悅己者容	just as a woman makes herself beautiful for the man who delights in her,
+:PROPERTIES:
+:SRC: ZGC 18.4.1, tr. Crump no 232, ed. Sha4ngha3igu3jí p. 595
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_225:1a12:50::女為 / 戰國策
+:CHARPOS: 50
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1 / SELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 53
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1][SELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / object pronoun, resumptive, non-contrastive: oneself, himself, herself, themselves
+** 知伯以國士遇臣	When I served the Hegemon he treated me as a hero,
+:PROPERTIES:
+:SRC: ZGC 18.4.8, tr. Crump no 232, ed. Sha4ngha3igu3jí p. 597
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_225:2a18:1::知伯 / 戰國策
+:CHARPOS: 1
+:END:
+*** 國士@guóshì
+:PROPERTIES:
+:CONCEPT: uuid-0a16e718-7603-44b1-8f2b-feb09ffedb03 / CITIZEN
+:SYN-FUNC: uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 4
+:END:
+國士@guóshì	[[tls:concept:CITIZEN::#uuid-0a16e718-7603-44b1-8f2b-feb09ffedb03][CITIZEN]]	N [[tls:syn-func::#uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a][NPadV]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / as a distinguished gentleman; state hero (object) 國士遇我
+** 臣故國士報之	and I treat his revenge as a hero should.'
+:PROPERTIES:
+:SRC: ZGC 18.4.8, tr. Crump no 232, ed. Sha4ngha3igu3jí p. 597
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_225:2a19:50::臣故 / 戰國策
+:CHARPOS: 50
+:END:
+*** 國士@guóshì
+:PROPERTIES:
+:CONCEPT: uuid-d1d012b3-1822-48df-b3aa-c84e6f45b1df / CITIZEN
+:SYN-FUNC: uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 52
+:END:
+國士@guóshì	[[tls:concept:CITIZEN::#uuid-d1d012b3-1822-48df-b3aa-c84e6f45b1df][CITIZEN]]	N [[tls:syn-func::#uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a][NPadV]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / as a distinguished gentleman of the state; state hero

@@ -1,0 +1,76 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_189
+#+DATE: 2017-02-08T16:41:24+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 威王問於莫敖子華曰自從先君文王以至不穀之身	'From the era of my ancestor, Wen, until my unfortunate person,
+:PROPERTIES:
+:SRC: ZGC 14.20.1, tr. Crump no 185, ed. Sha4ngha3igu3jí p. 514
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_189:1a01:50::威王 / 戰國策
+:CHARPOS: 50
+:END:
+*** 以至@yǐzhì
+:PROPERTIES:
+:CONCEPT: uuid-0c67fcec-e750-4366-87a6-dee478d4cb56 / UNTIL
+:SYN-FUNC: uuid-aeb80333-359d-487d-b0c3-c38c2aa4772e
+:CHARPOS: 65
+:END:
+以至@yǐzhì	[[tls:concept:UNTIL::#uuid-0c67fcec-e750-4366-87a6-dee478d4cb56][UNTIL]]	 [[tls:syn-func::#uuid-aeb80333-359d-487d-b0c3-c38c2aa4772e][VPt0oN1.post-:Vt0oN2:.adS]] / from N1 until N2 自從。。。至於
+** 顧而大息曰	
+:PROPERTIES:
+:SRC: ZGC 14.20.7, tr. Crump no 185, ed. Sha4ngha3igu3jí p. 515
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_189:4a04:1::顧而 / 戰國策
+:CHARPOS: 1
+:END:
+*** 大息@dàxī
+:PROPERTIES:
+:CONCEPT: uuid-70241376-6b0b-473a-a3ee-177210d039d6 / SIGH
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+大息@dàxī	[[tls:concept:SIGH::#uuid-70241376-6b0b-473a-a3ee-177210d039d6][SIGH]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / heave a deep sigh
+** 子孰誰也	who he was.
+:PROPERTIES:
+:SRC: ZGC 14.20. 10, tr. Crump no 185, ed. Sha4ngha3igu3jí p. 515
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_189:5a27:1::『子 / 戰國策
+:CHARPOS: 1
+:END:
+*** 孰誰@shúshuí
+:PROPERTIES:
+:CONCEPT: uuid-199215fa-592b-4581-940d-063c41f69a2f / WHO
+:SYN-FUNC: uuid-7d18edf6-8cf7-47e9-a591-158f938748d0
+:CHARPOS: 2
+:END:
+孰誰@shúshuí	[[tls:concept:WHO::#uuid-199215fa-592b-4581-940d-063c41f69a2f][WHO]]	N [[tls:syn-func::#uuid-7d18edf6-8cf7-47e9-a591-158f938748d0][NPpro{PRED}]] / who?
+** 遂出革車千乘	'Thereafter he sent forth eastward a thousand armoured chariots
+:PROPERTIES:
+:SRC: ZGC 14.20. 11, tr. Crump no 185, ed. Sha4ngha3igu3jí p. 515
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_189:5a44:1::遂出 / 戰國策
+:CHARPOS: 1
+:END:
+*** 革@gé
+:PROPERTIES:
+:CONCEPT: uuid-e8acbe3b-d434-4f72-9b23-46579fc518f2 / ARMOUR
+:SYN-FUNC: uuid-a51b30e7-dffc-4a3d-b4f7-2dccf9eee4a9
+:CHARPOS: 3
+:END:
+革@gé	[[tls:concept:ARMOUR::#uuid-e8acbe3b-d434-4f72-9b23-46579fc518f2][ARMOUR]]	N [[tls:syn-func::#uuid-a51b30e7-dffc-4a3d-b4f7-2dccf9eee4a9][nmadN]] / armoured with hardened leather
+** 王乃大息曰此古之人也	'Ah, but for these were the men of old', sighed the king.
+:PROPERTIES:
+:SRC: ZGC 14.20.15, tr. Crump no185 , ed. Sha4ngha3igu3jí p. 519
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_189:7a01:1::王乃 / 戰國策
+:CHARPOS: 1
+:END:
+*** 大息@dàxī
+:PROPERTIES:
+:CONCEPT: uuid-70241376-6b0b-473a-a3ee-177210d039d6 / SIGH
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+大息@dàxī	[[tls:concept:SIGH::#uuid-70241376-6b0b-473a-a3ee-177210d039d6][SIGH]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / heave a deep sigh

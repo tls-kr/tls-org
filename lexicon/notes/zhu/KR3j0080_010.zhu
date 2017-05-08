@@ -1,0 +1,820 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 論衡 KR3j0080_010
+#+DATE: 2017-02-08T16:43:27+0900
+#+PROPERTY: COMMIT 4527326cad354527d529ce18236a9771ae63de14
+** 命	Destiny
+:PROPERTIES:
+:SRC: LH 10.1.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:1a01:50::命、 / 論衡
+:CHARPOS: 50
+:END:
+*** 命@mìng
+:PROPERTIES:
+:CONCEPT: uuid-f0c996ef-bb13-455a-8084-35e7ff0cee96 / FATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 50
+:END:
+命@mìng	[[tls:concept:FATE::#uuid-f0c996ef-bb13-455a-8084-35e7ff0cee96][FATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / fate, destiny
+** 吉凶之主也	is the main factor in good luck and ill.
+:PROPERTIES:
+:SRC: LH 10.1.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:1a02:50::吉凶 / 論衡
+:CHARPOS: 50
+:END:
+*** 主@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-6ec287da-9741-4632-904f-fd4fa3403e70 / RULER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 53
+:END:
+主@zhǔ	[[tls:concept:RULER::#uuid-6ec287da-9741-4632-904f-fd4fa3403e70][RULER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / ruling principle
+** 自然之道	It is that which, in the natural course of events and
+:PROPERTIES:
+:SRC: LH 10.1.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:1a03:50::自然 / 論衡
+:CHARPOS: 50
+:END:
+*** 自然@zìrán
+:PROPERTIES:
+:CONCEPT: uuid-ebc52399-e4b1-434f-ae27-48aa51c88320 / NATURALLY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+自然@zìrán	[[tls:concept:NATURALLY::#uuid-ebc52399-e4b1-434f-ae27-48aa51c88320][NATURALLY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / conduct according to nature
+** 屈原自沉	Qū Yúan drowned himself,
+:PROPERTIES:
+:SRC: LH 10.2.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:2a02:1::屈原 / 論衡
+:CHARPOS: 1
+:END:
+*** 〓#自沈@zìchén / 自沈@zìchén
+:PROPERTIES:
+:CONCEPT: uuid-dc5faeb7-0feb-48ef-b276-7407612cc2a2 / SUICIDE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 1
+:END:
+〓#自沈@zìchén / 自沈@zìchén	[[tls:concept:SUICIDE::#uuid-dc5faeb7-0feb-48ef-b276-7407612cc2a2][SUICIDE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / drown oneself [see 自沈]
+** 其實自然	but in fact their deaths happened quite naturally,
+:PROPERTIES:
+:SRC: LH 10.2.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:2a14:1::其實 / 論衡
+:CHARPOS: 1
+:END:
+*** 自然@zìrán
+:PROPERTIES:
+:CONCEPT: uuid-6c489184-7a69-4c36-b2d5-3d23a2960d43 / NATURALLY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 3
+:END:
+自然@zìrán	[[tls:concept:NATURALLY::#uuid-6c489184-7a69-4c36-b2d5-3d23a2960d43][NATURALLY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be so of and by itself; be naturally oneself; be natural; come naturally
+** 關龍逢殺	Guān Lóngpáng, as it happened, was killed;
+:PROPERTIES:
+:SRC: LH 10.2.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:3a06:1::關龍 / 論衡
+:CHARPOS: 1
+:END:
+*** 殺@shā / 煞@shā
+:PROPERTIES:
+:CONCEPT: uuid-e119aead-7986-4b42-aa52-460138034acd / KILL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 4
+:END:
+殺@shā / 煞@shā	[[tls:concept:KILL::#uuid-e119aead-7986-4b42-aa52-460138034acd][KILL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / get killed
+** 湯武且興之會	to the fact that it was time for Tāng and Wǔ to rise and
+:PROPERTIES:
+:SRC: LH 10.2.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:3a12:1::湯、 / 論衡
+:CHARPOS: 1
+:END:
+*** 會@huì
+:PROPERTIES:
+:CONCEPT: uuid-1e6b5b48-43e4-4a01-a03f-58307b0efdd1 / TIME
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+會@huì	[[tls:concept:TIME::#uuid-1e6b5b48-43e4-4a01-a03f-58307b0efdd1][TIME]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / time, occasion
+** 亦二臣當用之際也	also time for the two officials to be employed.
+:PROPERTIES:
+:SRC: LH 10.2.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:3a13:50::亦二 / 論衡
+:CHARPOS: 50
+:END:
+*** 際@jì
+:PROPERTIES:
+:CONCEPT: uuid-b6423d8f-cc7d-41df-b63d-b140c66c579d / TIME
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 56
+:END:
+際@jì	[[tls:concept:TIME::#uuid-b6423d8f-cc7d-41df-b63d-b140c66c579d][TIME]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / juncture, point in time; period in time
+** 賢不肖之主與之相逢	and so he meets with either a worthy or unworthy ruler.
+:PROPERTIES:
+:SRC: LH 10.2.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:3a15:1::賢不 / 論衡
+:CHARPOS: 1
+:END:
+*** 逢@féng
+:PROPERTIES:
+:CONCEPT: uuid-a9b09599-1f28-42dc-ae46-903c99fae7ef / MEET
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 9
+:END:
+逢@féng	[[tls:concept:MEET::#uuid-a9b09599-1f28-42dc-ae46-903c99fae7ef][MEET]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / make the acquantance of, get together with
+** 二龍之祅當效	Just at the point when the portent of the two dragons was due to appear,
+:PROPERTIES:
+:SRC: LH 10.3.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:5a01:1::二龍 / 論衡
+:CHARPOS: 1
+:END:
+*** 效@xiào
+:PROPERTIES:
+:CONCEPT: uuid-e10ac8f3-d5d0-4ab9-b6fa-a79224139e74 / VISIBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 6
+:END:
+效@xiào	[[tls:concept:VISIBLE::#uuid-e10ac8f3-d5d0-4ab9-b6fa-a79224139e74][VISIBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / emerge clearly
+** 遭逢會遇	All these were conjunctions and coincidences, which
+:PROPERTIES:
+:SRC: LH 10.3.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:5a07:1::遭逢 / 論衡
+:CHARPOS: 1
+:END:
+*** 遭逢@zāoféng
+:PROPERTIES:
+:CONCEPT: uuid-bb1f8051-9af8-46a9-856f-beaea93ce3b6 / ENCOUNTER
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:CHARPOS: 1
+:END:
+遭逢@zāoféng	[[tls:concept:ENCOUNTER::#uuid-bb1f8051-9af8-46a9-856f-beaea93ce3b6][ENCOUNTER]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] / happenstance; coincidence
+** 僮謠之語當驗	Just when the children's rhymes were due to come out,
+:PROPERTIES:
+:SRC: LH 10.3.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:6a01:1::僮謠 / 論衡
+:CHARPOS: 1
+:END:
+*** 謠@yáo
+:PROPERTIES:
+:CONCEPT: uuid-fd1a6d17-96d2-4c0e-b764-82b07e4a3e9b / SONG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CONCEPT: uuid-a60808f3-9f89-4a3d-850b-dbd5f4cbffc4 / SONG
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 2
+:END:
+謠@yáo	[[tls:concept:SONG::#uuid-fd1a6d17-96d2-4c0e-b764-82b07e4a3e9b][SONG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / song; ditty 童謠
+〓#童謠@tóngyáo	[[tls:concept:SONG::#uuid-a60808f3-9f89-4a3d-850b-dbd5f4cbffc4][SONG]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / children's ditty
+** 非僮謠致鬭競	It was not the children's rhymes (P.100)that brought on the fight. 童謠
+:PROPERTIES:
+:SRC: LH 10.3.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:6a05:1::非僮 / 論衡
+:CHARPOS: 1
+:END:
+*** 謠@yáo
+:PROPERTIES:
+:CONCEPT: uuid-fd1a6d17-96d2-4c0e-b764-82b07e4a3e9b / SONG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+謠@yáo	[[tls:concept:SONG::#uuid-fd1a6d17-96d2-4c0e-b764-82b07e4a3e9b][SONG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / song; ditty 童謠
+*** 童謠@tóngyáo
+:PROPERTIES:
+:CONCEPT: uuid-a60808f3-9f89-4a3d-850b-dbd5f4cbffc4 / SONG
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 75
+:END:
+童謠@tóngyáo	[[tls:concept:SONG::#uuid-a60808f3-9f89-4a3d-850b-dbd5f4cbffc4][SONG]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / children's ditty
+** 堯命當禪舜	And right when it was Yáo's destiny to hand the throne over to Shùn,
+:PROPERTIES:
+:SRC: LH 10.3.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:7a01:1::堯命 / 論衡
+:CHARPOS: 1
+:END:
+*** 禪@shàn
+:PROPERTIES:
+:CONCEPT: uuid-5e7f0cf6-0122-4ce4-be90-f264d5d724d1 / ABDICATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 4
+:END:
+禪@shàn	[[tls:concept:ABDICATE::#uuid-5e7f0cf6-0122-4ce4-be90-f264d5d724d1][ABDICATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / abdicate in favour of
+** 適相逢也	came together by chance.
+:PROPERTIES:
+:SRC: LH 10.3.5; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:7a07:5::適相 / 論衡
+:CHARPOS: 5
+:END:
+*** 適@shì
+:PROPERTIES:
+:CONCEPT: uuid-eca604f1-91e8-43ec-8889-75d61f7a328f / COINCIDENCE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 5
+:END:
+適@shì	[[tls:concept:COINCIDENCE::#uuid-eca604f1-91e8-43ec-8889-75d61f7a328f][COINCIDENCE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / as it turned out in the event; by some coincidence 士適出 "this officer happened to leave the house".
+** 姑死而婦代	when the mother-in-law expires, the daughter-in-law takes her place.
+:PROPERTIES:
+:SRC: LH 10.4.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:10a02:1::姑死 / 論衡
+:CHARPOS: 1
+:END:
+*** 姑@gū
+:PROPERTIES:
+:CONCEPT: uuid-562559b8-5d5b-4550-815c-741c41c231d5 / MOTHER-IN-LAW
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+姑@gū	[[tls:concept:MOTHER-IN-LAW::#uuid-562559b8-5d5b-4550-815c-741c41c231d5][MOTHER-IN-LAW]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / mother-in-law
+** 非子婦代使父姑終歿也	It is not the succession of the son and daughter-in-law that makes theolder generation die.
+:PROPERTIES:
+:SRC: LH 10.4.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:10a03:50::非子 / 論衡
+:CHARPOS: 50
+:END:
+*** 婦@fù
+:PROPERTIES:
+:CONCEPT: uuid-e55170f3-1d2a-4beb-9de3-ba338868a961 / DAUGHTER-IN-LAW
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+婦@fù	[[tls:concept:DAUGHTER-IN-LAW::#uuid-e55170f3-1d2a-4beb-9de3-ba338868a961][DAUGHTER-IN-LAW]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / "young wife in the house", regularly used to refer to the daughter in law
+** 世謂秋氣擊殺穀草	The world claims that the autumn qi attacks and kills the grain and grass, and since
+:PROPERTIES:
+:SRC: LH 10.5.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:11a01:1::世謂 / 論衡
+:CHARPOS: 1
+:END:
+*** 擊殺@jīshā
+:PROPERTIES:
+:CONCEPT: uuid-51b64aea-221d-4e20-88fc-229a220d37c2 / STRIKE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 5
+:END:
+擊殺@jīshā	[[tls:concept:STRIKE::#uuid-51b64aea-221d-4e20-88fc-229a220d37c2][STRIKE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / strike dead
+** 適自枯死	Just when they are due to wither and die on their own,
+:PROPERTIES:
+:SRC: LH 10.5.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:11a06:1::適自 / 論衡
+:CHARPOS: 1
+:END:
+*** 枯死@kūsǐ
+:PROPERTIES:
+:CONCEPT: uuid-05640fcc-881f-4508-9c21-c3a72794d9aa / WITHER
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+枯死@kūsǐ	[[tls:concept:WITHER::#uuid-05640fcc-881f-4508-9c21-c3a72794d9aa][WITHER]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / wither so as to die
+** 或觸寒而不枯	but some may meet the cold and not wither.
+:PROPERTIES:
+:SRC: LH 10.5.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:11a23:1::或觸 / 論衡
+:CHARPOS: 1
+:END:
+*** 枯@kū
+:PROPERTIES:
+:CONCEPT: uuid-1b091ccc-1cef-4e16-911d-158a9a0430a6 / WITHER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 6
+:END:
+枯@kū	[[tls:concept:WITHER::#uuid-1b091ccc-1cef-4e16-911d-158a9a0430a6][WITHER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / of trees: wither and die
+** 非屋精崖氣殺此人也	such men are not killed by the spirit of the house or the qi of the bank.
+:PROPERTIES:
+:SRC: LH 10.5.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:12a03:1::非屋 / 論衡
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-ae4ae771-671e-41e8-b34c-bef60b8b32c0 / RESEMBLE
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-2e377e0e-02e8-437f-86ce-f041186bc7aa
+:CHARPOS: 7
+:END:
+此@cǐ	[[tls:concept:RESEMBLE::#uuid-ae4ae771-671e-41e8-b34c-bef60b8b32c0][RESEMBLE]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-2e377e0e-02e8-437f-86ce-f041186bc7aa][human]]} / such a person
+** 命凶之人	those given the bad fortunes
+:PROPERTIES:
+:SRC: LH 10.5.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:12a05:1::命凶 / 論衡
+:CHARPOS: 1
+:END:
+*** 命@mìng
+:PROPERTIES:
+:CONCEPT: uuid-f0c996ef-bb13-455a-8084-35e7ff0cee96 / FATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 1
+:END:
+命@mìng	[[tls:concept:FATE::#uuid-f0c996ef-bb13-455a-8084-35e7ff0cee96][FATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / fate, destiny
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-f521f979-92eb-42b7-bc3e-c719d4d1aece / INAUSPICIOUS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-9dc3f28d-b073-4711-a1bb-bdb3615e6896
+:CHARPOS: 2
+:END:
+凶@xiōng	[[tls:concept:INAUSPICIOUS::#uuid-f521f979-92eb-42b7-bc3e-c719d4d1aece][INAUSPICIOUS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-9dc3f28d-b073-4711-a1bb-bdb3615e6896][non-graded]]} / be ominous, baleful, ill-omened, inauspicious
+** 若夫物事相遭	If things and events fall in with one another,
+:PROPERTIES:
+:SRC: LH 10.6.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:14a01:1::若夫 / 論衡
+:CHARPOS: 1
+:END:
+*** 物事@wùshì
+:PROPERTIES:
+:CONCEPT: uuid-dcbc3b07-3165-45be-a57a-595cf2d4111b / THING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+物事@wùshì	[[tls:concept:THING::#uuid-dcbc3b07-3165-45be-a57a-595cf2d4111b][THING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / matter of any kind
+** 殺人者罪至大辟	The worst penalty given a murderer is capital punishment.
+:PROPERTIES:
+:SRC: LH 10.6.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:15a01:1::殺人 / 論衡
+:CHARPOS: 1
+:END:
+*** 大辟@dàbì
+:PROPERTIES:
+:CONCEPT: uuid-50e69ac0-d58e-4460-930f-74767733e128 / BEHEAD
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+大辟@dàbì	[[tls:concept:BEHEAD::#uuid-50e69ac0-d58e-4460-930f-74767733e128][BEHEAD]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / capital punishment, beheading
+** 故害氣下降	Therefore when harmful qi rains down,
+:PROPERTIES:
+:SRC: LH 10.6.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:15a04:1::故害 / 論衡
+:CHARPOS: 1
+:END:
+*** 下降@xiàjiàng
+:PROPERTIES:
+:CONCEPT: uuid-7ee302d8-765a-4bd6-a004-e0af5c63ded8 / DESCEND
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 4
+:END:
+下降@xiàjiàng	[[tls:concept:DESCEND::#uuid-7ee302d8-765a-4bd6-a004-e0af5c63ded8][DESCEND]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / descend (from Heaven)
+** 聖王德施	And when a sage-king's virtue is to be displayed,
+:PROPERTIES:
+:SRC: LH 10.6.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:15a06:1::聖王 / 論衡
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-9f7467cb-0cea-435a-aae5-38967a283ae6 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 1
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-9f7467cb-0cea-435a-aae5-38967a283ae6][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / one of the sage kings, a (certain) sage king
+** 厚祿先逢	those predestined for premier rank are the first to come forth.
+:PROPERTIES:
+:SRC: LH 10.6.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:15a07:50::厚祿 / 論衡
+:CHARPOS: 50
+:END:
+*** 逢@féng
+:PROPERTIES:
+:CONCEPT: uuid-738faca2-9306-487f-b128-3950ccb2b49e / ENCOUNTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-facfa6bf-2fca-43c4-ac7e-7947e0913c04
+:CHARPOS: 53
+:END:
+逢@féng	[[tls:concept:ENCOUNTER::#uuid-738faca2-9306-487f-b128-3950ccb2b49e][ENCOUNTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-facfa6bf-2fca-43c4-ac7e-7947e0913c04][object=positive]]} / meet (the right object); be exposed to (the right person, times, etc)
+** 是故德令降於殿堂	For this reason, of an edict mandating acts of mercy is to be issued from the palace,
+:PROPERTIES:
+:SRC: LH 10.6.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:15a08:50::是故 / 論衡
+:CHARPOS: 50
+:END:
+*** 降@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-9eadbab5-9be2-4d5a-9bf1-c53a916bb83c / DESCEND
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 54
+:END:
+降@jiàng	[[tls:concept:DESCEND::#uuid-9eadbab5-9be2-4d5a-9bf1-c53a916bb83c][DESCEND]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / descend from> be issued from, issue from a higher position
+** 聖王適下赦	Right when the sage-king sends down the pardon is when
+:PROPERTIES:
+:SRC: LH 10.6.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:15a12:1::聖王 / 論衡
+:CHARPOS: 1
+:END:
+*** 赦@shè
+:PROPERTIES:
+:CONCEPT: uuid-8f7fcb9d-830d-4b31-94c3-d2f5fa9c91ab / PARDON
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+赦@shè	[[tls:concept:PARDON::#uuid-8f7fcb9d-830d-4b31-94c3-d2f5fa9c91ab][PARDON]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / act of pardoning, pardon
+** 猶人以夜臥晝起矣	It is just like the fact that humans sleep at night and rise with the sun.
+:PROPERTIES:
+:SRC: LH 10.6.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:15a14:1::猶人 / 論衡
+:CHARPOS: 1
+:END:
+*** 夜@yè
+:PROPERTIES:
+:CONCEPT: uuid-17826b0e-dcca-4366-a67a-9d3598195cd8 / NIGHT
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 4
+:END:
+夜@yè	[[tls:concept:NIGHT::#uuid-17826b0e-dcca-4366-a67a-9d3598195cd8][NIGHT]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / late in the evening, late at night; by night
+*** 臥@wò / @
+:PROPERTIES:
+:CONCEPT: uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1 / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-516a7b20-3abd-49d2-a05c-65dace0c5337
+:CHARPOS: 5
+:END:
+臥@wò / @	[[tls:concept:SLEEP::#uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-516a7b20-3abd-49d2-a05c-65dace0c5337][continuative]]} / sleep; find rest; be in bed; also of dogs: lie down to sleep
+** 欲壹休息	so they all want to rest.
+:PROPERTIES:
+:SRC: LH 10.6.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:15a18:1::欲壹 / 論衡
+:CHARPOS: 1
+:END:
+*** 壹@yī
+:PROPERTIES:
+:CONCEPT: uuid-de8cc109-dbc3-4f9c-b3f5-41606cf4c270 / ALL
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 2
+:END:
+壹@yī	[[tls:concept:ALL::#uuid-de8cc109-dbc3-4f9c-b3f5-41606cf4c270][ALL]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / completely, wholly; (before negatives) not at all 壹不知 "do not at all understand"
+** 人臥亦覺	so those who have been sleeping then awaken, and
+:PROPERTIES:
+:SRC: LH 10.6.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:15a20:1::人臥 / 論衡
+:CHARPOS: 1
+:END:
+*** 臥@wò / @
+:PROPERTIES:
+:CONCEPT: uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1 / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-516a7b20-3abd-49d2-a05c-65dace0c5337
+:CHARPOS: 2
+:END:
+臥@wò / @	[[tls:concept:SLEEP::#uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-516a7b20-3abd-49d2-a05c-65dace0c5337][continuative]]} / sleep; find rest; be in bed; also of dogs: lie down to sleep
+*** 覺@jué
+:PROPERTIES:
+:CONCEPT: uuid-021e8e8e-1c21-4c16-b35d-3be3611bd33c / WAKE UP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 4
+:END:
+覺@jué	[[tls:concept:WAKE UP::#uuid-021e8e8e-1c21-4c16-b35d-3be3611bd33c][WAKE UP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / wake up from sleep or dream
+** 以夜息之也	and by night would have them rest,
+:PROPERTIES:
+:SRC: LH 10.6.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:15a23:1::以夜 / 論衡
+:CHARPOS: 1
+:END:
+*** 夜@yè
+:PROPERTIES:
+:CONCEPT: uuid-17826b0e-dcca-4366-a67a-9d3598195cd8 / NIGHT
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 2
+:END:
+夜@yè	[[tls:concept:NIGHT::#uuid-17826b0e-dcca-4366-a67a-9d3598195cd8][NIGHT]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / late in the evening, late at night; by night
+** 男女早死者	in the case of men and women dying young
+:PROPERTIES:
+:SRC: LH 10.8.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:17a06:1::「男 / 論衡
+:CHARPOS: 1
+:END:
+*** 早@zǎo / 蚤@zǎo
+:PROPERTIES:
+:CONCEPT: uuid-aabc70b3-ce77-4c60-b3e3-da9132ff3f27 / EARLY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 3
+:END:
+早@zǎo / 蚤@zǎo	[[tls:concept:EARLY::#uuid-aabc70b3-ce77-4c60-b3e3-da9132ff3f27][EARLY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / prematurely, too early; so early
+** 妻害夫	or the wife injures the husband.
+:PROPERTIES:
+:SRC: LH 10.8.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:17a08:1::妻害 / 論衡
+:CHARPOS: 1
+:END:
+*** 夫@fū
+:PROPERTIES:
+:CONCEPT: uuid-3fd88032-cc23-40f0-8582-1fca7b71e575 / HUSBAND
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+夫@fū	[[tls:concept:HUSBAND::#uuid-3fd88032-cc23-40f0-8582-1fca7b71e575][HUSBAND]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a husband in general;
+** 命自然也	It is by destiny that it is naturally so.
+:PROPERTIES:
+:SRC: LH 10.8.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:17a10:1::命自 / 論衡
+:CHARPOS: 1
+:END:
+*** 自然@zìrán
+:PROPERTIES:
+:CONCEPT: uuid-6c489184-7a69-4c36-b2d5-3d23a2960d43 / NATURALLY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 2
+:END:
+自然@zìrán	[[tls:concept:NATURALLY::#uuid-6c489184-7a69-4c36-b2d5-3d23a2960d43][NATURALLY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be so of and by itself; be naturally oneself; be natural; come naturally
+** 今男女之早夭	Now the case of men and women dying early
+:PROPERTIES:
+:SRC: LH 10.8.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:17a18:1::今男 / 論衡
+:CHARPOS: 1
+:END:
+*** 早@zǎo / 蚤@zǎo
+:PROPERTIES:
+:CONCEPT: uuid-aabc70b3-ce77-4c60-b3e3-da9132ff3f27 / EARLY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 5
+:END:
+早@zǎo / 蚤@zǎo	[[tls:concept:EARLY::#uuid-aabc70b3-ce77-4c60-b3e3-da9132ff3f27][EARLY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / prematurely, too early; so early
+*** 夭@yāo
+:PROPERTIES:
+:CONCEPT: uuid-abe5086b-bdb3-491e-a5b9-5e76d4c67ebf / DIE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 6
+:END:
+夭@yāo	[[tls:concept:DIE::#uuid-abe5086b-bdb3-491e-a5b9-5e76d4c67ebf][DIE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / die before one has reached old age (ca. 50); die young
+** 至於死亡	even unto death,
+:PROPERTIES:
+:SRC: LH 10.8.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:17a27:1::至於 / 論衡
+:CHARPOS: 1
+:END:
+*** 死亡@sǐwáng
+:PROPERTIES:
+:CONCEPT: uuid-2231704c-0488-44ea-9bc7-cf915f85dd0b / DIE
+:SYN-FUNC: uuid-9629f093-fa64-4769-9b05-9f49f12c7790
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 3
+:END:
+死亡@sǐwáng	[[tls:concept:DIE::#uuid-2231704c-0488-44ea-9bc7-cf915f85dd0b][DIE]]	N [[tls:syn-func::#uuid-9629f093-fa64-4769-9b05-9f49f12c7790][NPab{N1=N2}]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / death
+** 或客死千里之外	In some cases, a person living abroad may die a thousand miles from home,
+:PROPERTIES:
+:SRC: LH 10.8.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:17a29:1::或客 / 論衡
+:CHARPOS: 1
+:END:
+*** 客@kè
+:PROPERTIES:
+:CONCEPT: uuid-0ec8ef50-edbd-48be-baed-c2c7540932b8 / FOREIGNER
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:CHARPOS: 2
+:END:
+客@kè	[[tls:concept:FOREIGNER::#uuid-0ec8ef50-edbd-48be-baed-c2c7540932b8][FOREIGNER]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] / as a foreigner
+** 兵燒厭溺	through wars and fires, through being crushed or drowned,
+:PROPERTIES:
+:SRC: LH 10.8.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:17a30:50::兵燒 / 論衡
+:CHARPOS: 50
+:END:
+*** 燒@shāo
+:PROPERTIES:
+:CONCEPT: uuid-caaae02b-293b-46f2-b0d7-45e6ada34329 / BURN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+燒@shāo	[[tls:concept:BURN::#uuid-caaae02b-293b-46f2-b0d7-45e6ada34329][BURN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / the act of setting fire to something
+** 遙賊三家	If it destroyed the three from a distance,
+:PROPERTIES:
+:SRC: LH 10.8.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:17a38:1::遙賊 / 論衡
+:CHARPOS: 1
+:END:
+*** 遙@yáo
+:PROPERTIES:
+:CONCEPT: uuid-73406a46-71dc-49a9-9d01-b0be95a080b3 / DISTANT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+遙@yáo	[[tls:concept:DISTANT::#uuid-73406a46-71dc-49a9-9d01-b0be95a080b3][DISTANT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / into the far distance; from a far distance; in the far distance; into the distance
+** 黃次公取鄰巫之女	Huáng Cìgōng married the daughter of a neighborhood sorcerer,
+:PROPERTIES:
+:SRC: LH 10.8.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:17a40:1::黃次 / 論衡
+:CHARPOS: 1
+:END:
+*** 巫@wū
+:PROPERTIES:
+:CONCEPT: uuid-500b3fa8-3b7e-4ab3-b422-4083a84bc651 / SHAMAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+巫@wū	[[tls:concept:SHAMAN::#uuid-500b3fa8-3b7e-4ab3-b422-4083a84bc651][SHAMAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / shamaness; (but note GUAN 女巫 ); generally: shaman; exorcist GY: 如是則明神降之六，在男曰覡，在女曰巫七。
+** 殖不滋之穀也	they sow plants that bear no grain.
+:PROPERTIES:
+:SRC: LH 10.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:18a09:1::殖不 / 論衡
+:CHARPOS: 1
+:END:
+*** 殖@zhí
+:PROPERTIES:
+:CONCEPT: uuid-91e9a1e3-7893-4d0d-bf79-3d1d796d19a0 / SOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+殖@zhí	[[tls:concept:SOW::#uuid-91e9a1e3-7893-4d0d-bf79-3d1d796d19a0][SOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / plant, cultivate
+** 假令有之命凶之人	Let us suppose that there to be unlucky persons,
+:PROPERTIES:
+:SRC: LH 10.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:18a14:1::假令 / 論衡
+:CHARPOS: 1
+:END:
+*** 假令@jiǎlìng
+:PROPERTIES:
+:CONCEPT: uuid-f68c2703-2b38-4fe1-b60a-65d6bbb81126 / IF
+:SYN-FUNC: uuid-729965e0-633f-46d5-b017-2a31f4edc0a4
+:CHARPOS: 1
+:END:
+假令@jiǎlìng	[[tls:concept:IF::#uuid-f68c2703-2b38-4fe1-b60a-65d6bbb81126][IF]]	V [[tls:syn-func::#uuid-729965e0-633f-46d5-b017-2a31f4edc0a4][VPt0oS1.adS2]] / suppose S1 then S2
+** 仕宦進退遷徙	promotion, demotion, or transfer of officials
+:PROPERTIES:
+:SRC: LH 10.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:19a02:1::仕宦 / 論衡
+:CHARPOS: 1
+:END:
+*** 遷徙@qiānxǐ
+:PROPERTIES:
+:CONCEPT: uuid-d064507d-26a8-4c7b-9817-92bec55cb89c / DISPLACE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 5
+:END:
+遷徙@qiānxǐ	[[tls:concept:DISPLACE::#uuid-d064507d-26a8-4c7b-9817-92bec55cb89c][DISPLACE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / transfer people to new duties
+** 賢人薦己	a worthy man will recommend him.
+:PROPERTIES:
+:SRC: LH 10.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:19a07:1::賢人 / 論衡
+:CHARPOS: 1
+:END:
+*** 賢人@xiánrén
+:PROPERTIES:
+:CONCEPT: uuid-e6f345d9-f349-4625-8919-2d964131d066 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+賢人@xiánrén	[[tls:concept:HERO::#uuid-e6f345d9-f349-4625-8919-2d964131d066][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the worthy person
+** 君子輔善	a gentleman will assist the good.
+:PROPERTIES:
+:SRC: LH 10.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:19a09:1::君子 / 論衡
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+** 小人毀奇	a petty man will denigrate his remarkable qualities.
+:PROPERTIES:
+:SRC: LH 10.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:19a11:1::小人 / 論衡
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-86710c17-18a5-4621-866f-eac5b8c9422e / BAD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+小人@xiǎorén	[[tls:concept:BAD::#uuid-86710c17-18a5-4621-866f-eac5b8c9422e][BAD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / petty person
+** 公伯寮愬子路於季孫	When Gōngbó Liáo slandered Zilù to Jìsūn,
+:PROPERTIES:
+:SRC: LH 10.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:19a12:50::公伯 / 論衡
+:CHARPOS: 50
+:END:
+*** 訴@sù / 愬@sù
+:PROPERTIES:
+:CONCEPT: uuid-2e59ebae-939c-4685-afa2-8e5b8a8fe5a5 / ACCUSE
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 50
+:END:
+訴@sù / 愬@sù	[[tls:concept:ACCUSE::#uuid-2e59ebae-939c-4685-afa2-8e5b8a8fe5a5][ACCUSE]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / accuse or malign (someone N1) in front of (someone else N2) 訴公於晉侯 "accuse the Duke in front of the Lord of Jìn"
+** 不尤臧倉	rather than faulting Zāng Cāng.
+:PROPERTIES:
+:SRC: LH 10.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:19a23:1::不尤 / 論衡
+:CHARPOS: 1
+:END:
+*** 尤@yóu
+:PROPERTIES:
+:CONCEPT: uuid-4cfc73f6-1024-48fa-b687-f29cd5963a2b / BLAME
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+尤@yóu	[[tls:concept:BLAME::#uuid-4cfc73f6-1024-48fa-b687-f29cd5963a2b][BLAME]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / berate, to blame, to hold morally guilty See also GUILT
+** 自然也	bound to be thus.
+:PROPERTIES:
+:SRC: LH 10.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:19a24:50::自然 / 論衡
+:CHARPOS: 50
+:END:
+*** 自然@zìrán
+:PROPERTIES:
+:CONCEPT: uuid-6c489184-7a69-4c36-b2d5-3d23a2960d43 / NATURALLY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 50
+:END:
+自然@zìrán	[[tls:concept:NATURALLY::#uuid-6c489184-7a69-4c36-b2d5-3d23a2960d43][NATURALLY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be so of and by itself; be naturally oneself; be natural; come naturally
+** 治亂成敗之時	The age of peace or disorder, success or defeat,
+:PROPERTIES:
+:SRC: LH 10.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:20a08:1::治亂 / 論衡
+:CHARPOS: 1
+:END:
+*** 治亂@zhìluàn
+:PROPERTIES:
+:CONCEPT: uuid-65cbffc6-5a07-4d76-a44e-a022241ad552 / ORDERLY
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:CHARPOS: 1
+:END:
+治亂@zhìluàn	[[tls:concept:ORDERLY::#uuid-65cbffc6-5a07-4d76-a44e-a022241ad552][ORDERLY]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] / relative state of good order or chaos; good order versus chaos
+*** 成敗@chéngbài
+:PROPERTIES:
+:CONCEPT: uuid-a6e75b57-daf1-4d9e-a7cf-2ff2eb2ce86d / WIN
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:CHARPOS: 3
+:END:
+成敗@chéngbài	[[tls:concept:WIN::#uuid-a6e75b57-daf1-4d9e-a7cf-2ff2eb2ce86d][WIN]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] / victory versus defeat; success or failure
+** 與人興衰吉凶適相遭遇	will happen to accord, by sheer (P.106)coincidence, with the rise or fall, luck or misfortune, of the person.
+:PROPERTIES:
+:SRC: LH 10.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:20a09:50::與人 / 論衡
+:CHARPOS: 50
+:END:
+*** 遭遇@zāoyù
+:PROPERTIES:
+:CONCEPT: uuid-3814a1b4-e672-41dd-99d8-995b511ff412 / ENCOUNTER
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 58
+:END:
+遭遇@zāoyù	[[tls:concept:ENCOUNTER::#uuid-3814a1b4-e672-41dd-99d8-995b511ff412][ENCOUNTER]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / encounter in any way
+** 良輔超拔於際會	a fine aide will be promoted just at that juncture.
+:PROPERTIES:
+:SRC: LH 10.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:21a03:1::良輔 / 論衡
+:CHARPOS: 1
+:END:
+*** 際會@jìhuì
+:PROPERTIES:
+:CONCEPT: uuid-7d5dc152-f915-4b00-960b-71ab17398c0a / TIME
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 6
+:END:
+際會@jìhuì	[[tls:concept:TIME::#uuid-7d5dc152-f915-4b00-960b-71ab17398c0a][TIME]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / time, occasion
+** 睡臥遭出也	it happened that he escaped because he slept.
+:PROPERTIES:
+:SRC: LH 10.7.6; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:21a33:1::睡臥 / 論衡
+:CHARPOS: 1
+:END:
+*** 睡@shuì
+:PROPERTIES:
+:CONCEPT: uuid-5103710e-b262-4178-b260-bf9b9f975141 / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-1e331347-13e3-42a1-a1a8-8e4404f03509
+:CHARPOS: 1
+:END:
+睡@shuì	[[tls:concept:SLEEP::#uuid-5103710e-b262-4178-b260-bf9b9f975141][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-1e331347-13e3-42a1-a1a8-8e4404f03509][continuous]]} / be having a nap
+*** 臥@wò / @
+:PROPERTIES:
+:CONCEPT: uuid-d412fae3-0311-4a7a-8472-5aaaeb461dcb / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332
+:CHARPOS: 2
+:END:
+臥@wò / @	[[tls:concept:SLEEP::#uuid-d412fae3-0311-4a7a-8472-5aaaeb461dcb][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332][inchoative]]} / nodd off; rest (as on a table before one), take a nap; doze off 醉而臥; often: take a nap during the day
+** 凶歲所著	And those struck by a famine year
+:PROPERTIES:
+:SRC: LH 10.7.7; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_010:21a43:1::凶歲 / 論衡
+:CHARPOS: 1
+:END:
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-cd8a6ecd-1d96-4dfa-a59d-babfcf108ed4 / DISASTER
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+凶@xiōng	[[tls:concept:DISASTER::#uuid-cd8a6ecd-1d96-4dfa-a59d-babfcf108ed4][DISASTER]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / calamitious (of years) 凶年，凶器

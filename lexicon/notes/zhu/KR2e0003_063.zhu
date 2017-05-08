@@ -1,0 +1,185 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_063
+#+DATE: 2017-02-08T16:41:15+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 醫扁鵲見秦武王	The great physician Pien-ch'iao visited king Wu of Ch'in
+:PROPERTIES:
+:SRC: ZGC 4.5.1; tr. Crump 1979 no. 65, p 74, ed. Shanghaiguji p. 144 Pien-ch'iao and the king's carbuncle
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_063:1a01:50::醫扁 / 戰國策
+:CHARPOS: 50
+:END:
+*** 醫@yī
+:PROPERTIES:
+:CONCEPT: uuid-d6e063c7-fbc6-49f7-8166-28dd7e020872 / PHYSICIAN
+:SYN-FUNC: uuid-0f5b5ce6-d13f-433e-abbd-88a290f978d6
+:SEM-FEAT: uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86
+:CHARPOS: 50
+:END:
+醫@yī	[[tls:concept:PHYSICIAN::#uuid-d6e063c7-fbc6-49f7-8166-28dd7e020872][PHYSICIAN]]	N [[tls:syn-func::#uuid-0f5b5ce6-d13f-433e-abbd-88a290f978d6][n+Npr]] {[[tls:sem-feat::#uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86][title]]} / Dr Npr
+*** 扁鵲@biǎnquè
+:PROPERTIES:
+:CONCEPT: uuid-2bc472c6-e721-4e5a-84c2-6502e849a662 / DOCTORS
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 51
+:END:
+扁鵲@biǎnquè	[[tls:concept:DOCTORS::#uuid-2bc472c6-e721-4e5a-84c2-6502e849a662][DOCTORS]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / mythical doctor of antiquity, on whom there is a biography in SHIJI
+*** 見@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-77a0ba78-8667-4b93-87a7-32c8714b9cbc / VISIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+見@jiàn	[[tls:concept:VISIT::#uuid-77a0ba78-8667-4b93-87a7-32c8714b9cbc][VISIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / pay a visit to (often to a superior), have an audience with; gain an audience with;
+** 武王示之病	and the king showed him the carbuncle on his face.
+:PROPERTIES:
+:SRC: ZGC 4.5.1; tr. Crump 1979 no. 65, p 74, ed. Shanghaiguji p. 144 Pien-ch'iao and the king's carbuncle
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_063:1a02:50::武王 / 戰國策
+:CHARPOS: 50
+:END:
+*** 示@shì / 視@shì
+:PROPERTIES:
+:CONCEPT: uuid-0e376dec-b4fc-44e6-a13d-860a60473b1a / SHOW
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 52
+:END:
+示@shì / 視@shì	[[tls:concept:SHOW::#uuid-0e376dec-b4fc-44e6-a13d-860a60473b1a][SHOW]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / demonstrate (something N2) to (someone N1), make (something N2) clear to (an audience N1); make a demonstration of N2 to N1
+** 除之未必已也	'If the physician should not cease soon enough while removing it
+:PROPERTIES:
+:SRC: ZGC 4.5.1; tr. Crump 1979 no. 65, p 74, ed. Shanghaiguji p. 144 Pien-ch'iao and the king's carbuncle
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_063:1a08:1::除之 / 戰國策
+:CHARPOS: 1
+:END:
+*** 除@chú
+:PROPERTIES:
+:CONCEPT: uuid-5357fd96-ab7d-400c-9c7d-24ec217cab6d / REMOVE
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 1
+:END:
+除@chú	[[tls:concept:REMOVE::#uuid-5357fd96-ab7d-400c-9c7d-24ec217cab6d][REMOVE]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / remove the contextually determinate object;
+*** 除@chú
+:PROPERTIES:
+:CONCEPT: uuid-15a100ea-1c5a-4dfd-bcc3-169a657b5f4f / REMOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+除@chú	[[tls:concept:REMOVE::#uuid-15a100ea-1c5a-4dfd-bcc3-169a657b5f4f][REMOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / abolish; get rid of, weed out; remove; make clean, clear (a road); dismiss from office; have (someone) removed
+** 將使耳不聰	he might cause your-majesty to lose his hearing
+:PROPERTIES:
+:SRC: ZGC 4.5.1; tr. Crump 1979 no. 65, p 74, ed. Shanghaiguji p. 144 Pien-ch'iao and the king's carbuncle
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_063:1a09:50::將使 / 戰國策
+:CHARPOS: 50
+:END:
+*** 使@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-11b1c91c-9a95-42c3-822e-38661cc04106 / CAUSE TO
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 51
+:END:
+使@shǐ	[[tls:concept:CAUSE TO::#uuid-11b1c91c-9a95-42c3-822e-38661cc04106][CAUSE TO]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / cause N to V, bring it about that N V-s 使之聞之 [NB: the first 之shows that the object of 使 does function as an object and not only as a subject of wén 聞. Thus technically speaking we do not have a sentence after the vt.]
+** 君以告扁鵲	As a result the king excused Pien-ch'iao.
+:PROPERTIES:
+:SRC: ZGC 4.5.2; tr. Crump 1979 no. 65, p 74, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_063:1a11:1::君以 / 戰國策
+:CHARPOS: 1
+:END:
+*** 告@gào
+:PROPERTIES:
+:CONCEPT: uuid-35948638-421b-4c71-a216-78d4220e7cc3 / REPORT
+:SYN-FUNC: uuid-f61ce0f3-6443-41fd-b221-244fb9b98322
+:CHARPOS: 3
+:END:
+告@gào	[[tls:concept:REPORT::#uuid-35948638-421b-4c71-a216-78d4220e7cc3][REPORT]]	V [[tls:syn-func::#uuid-f61ce0f3-6443-41fd-b221-244fb9b98322][vttoN1.post-vt(oN2)]] / inform (somebody N1) about a contextually determinate matter N2 以告x
+** 扁鵲怒而投其石	Pien-ch'iao was furious and threw down his flint lancet.
+:PROPERTIES:
+:SRC: ZGC 4.5.2; tr. Crump 1979 no. 65, p 74, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_063:1a12:50::扁鵲 / 戰國策
+:CHARPOS: 50
+:END:
+*** 扁鵲@biǎnquè
+:PROPERTIES:
+:CONCEPT: uuid-2bc472c6-e721-4e5a-84c2-6502e849a662 / DOCTORS
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 50
+:END:
+扁鵲@biǎnquè	[[tls:concept:DOCTORS::#uuid-2bc472c6-e721-4e5a-84c2-6502e849a662][DOCTORS]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / mythical doctor of antiquity, on whom there is a biography in SHIJI
+*** 投@tóu
+:PROPERTIES:
+:CONCEPT: uuid-ef04d555-96d7-459e-a6d2-59360c5d9632 / DISCARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+投@tóu	[[tls:concept:DISCARD::#uuid-ef04d555-96d7-459e-a6d2-59360c5d9632][DISCARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / discard, throw to the ground
+*** 石@shí
+:PROPERTIES:
+:CONCEPT: uuid-c77b9dab-3ecc-45dc-8c9b-033cf74f46eb / NEEDLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 56
+:END:
+石@shí	[[tls:concept:NEEDLE::#uuid-c77b9dab-3ecc-45dc-8c9b-033cf74f46eb][NEEDLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / stone needle
+** 君與知之者謀之	'Your majesty planned this by consulting with one who had knowledge
+:PROPERTIES:
+:SRC: ZGC 4.5.2; tr. Crump 1979 no. 65, p 74, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_063:1a13:50::「君 / 戰國策
+:CHARPOS: 50
+:END:
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-c260f851-48ec-4934-8d7c-4d135b9c7297 / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:CHARPOS: 50
+:END:
+君@jūn	[[tls:concept:YOU::#uuid-c260f851-48ec-4934-8d7c-4d135b9c7297][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] / you, my ruler; your lordship; you, my master
+*** 謀@móu
+:PROPERTIES:
+:CONCEPT: uuid-6fb4a9a2-079b-4bb5-933f-87910e264481 / PLAN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-a005cc36-98f4-4c2b-9bd7-2eecb130324e
+:CHARPOS: 55
+:END:
+謀@móu	[[tls:concept:PLAN::#uuid-6fb4a9a2-079b-4bb5-933f-87910e264481][PLAN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-a005cc36-98f4-4c2b-9bd7-2eecb130324e][N=aim]]} / be strategically concerned about, plan for; seek through careful planning
+** 使此知秦國之政也	If the government of Ch'in were run in the same fashion,
+:PROPERTIES:
+:SRC: ZGC 4.5.2; tr. Crump 1979 no. 65, p 74, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_063:1a15:1::使此 / 戰國策
+:CHARPOS: 1
+:END:
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-be2916fd-4325-4bb4-ac75-efcd82faa56d / ACT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+知@zhī	[[tls:concept:ACT::#uuid-be2916fd-4325-4bb4-ac75-efcd82faa56d][ACT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / conduct (government)
+** 則君一舉而亡國矣	the country would perish with your first action.'
+:PROPERTIES:
+:SRC: ZGC 4.5.2; tr. Crump 1979 no. 65, p 74, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_063:1a15:50::則君 / 戰國策
+:CHARPOS: 50
+:END:
+*** 舉@jǔ
+:PROPERTIES:
+:CONCEPT: uuid-087e285a-d2f2-4f70-92dd-5d21dbab76fa / ACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+舉@jǔ	[[tls:concept:ACT::#uuid-087e285a-d2f2-4f70-92dd-5d21dbab76fa][ACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / action
+*** 亡@wáng
+:PROPERTIES:
+:CONCEPT: uuid-ed6362ad-ce86-428f-9b8a-4cfb9b0ae67b / DESTROY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 55
+:END:
+亡@wáng	[[tls:concept:DESTROY::#uuid-ed6362ad-ce86-428f-9b8a-4cfb9b0ae67b][DESTROY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / (cause to be ruined>) to ruin (a state or a ruler, one's peson)

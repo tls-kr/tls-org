@@ -1,0 +1,160 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 史記 KR2a0001_206
+#+DATE: 2017-02-08T16:40:49+0900
+#+PROPERTY: COMMIT c5f1950cc5ba00d0302093e6232d41346fb4cdd8
+** 封爵之誓曰	When the feudal lords received their titles they took an oath that,
+:PROPERTIES:
+:SRC: SHIJI 18.1.2 877; Wang Liqi 621; Takigawa 2; tr. Watson 1993, Han, vol.1 p. 427
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_206:1a09:1::封爵 / 史記
+:CHARPOS: 1
+:END:
+*** 誓@shì / 逝@shì / 矢@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-c01be757-1b81-4f2a-bdb5-c4dc39ca1496 / OATH
+:SYN-FUNC: uuid-6f5d08ca-03b0-4cec-acce-9be13992e8f0
+:CHARPOS: 4
+:END:
+誓@shì / 逝@shì / 矢@shǐ	[[tls:concept:OATH::#uuid-c01be757-1b81-4f2a-bdb5-c4dc39ca1496][OATH]]	V [[tls:syn-func::#uuid-6f5d08ca-03b0-4cec-acce-9be13992e8f0][vt+Vt.oS]] / swear an oath (and say) 誓曰
+*** 誓@shì
+:PROPERTIES:
+:CONCEPT: uuid-7ec7222a-6054-4e76-bf1a-a382c709a1ec / PUBLICISE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+誓@shì	[[tls:concept:PUBLICISE::#uuid-7ec7222a-6054-4e76-bf1a-a382c709a1ec][PUBLICISE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / military proclamation in front of soldiers or crowds; formal solemn harangue by ruler (not general) in front of his army
+** 泰山若厲	though Mt. Tai become no larger than a whetstone,
+:PROPERTIES:
+:SRC: SHIJI 18.1.2 877; Wang Liqi 621; Takigawa 2; tr. Watson 1993, Han, vol.1 p. 427
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_206:1a11:1::泰山 / 史記
+:CHARPOS: 1
+:END:
+*** 礪@lì / 厲@lì
+:PROPERTIES:
+:CONCEPT: uuid-de618b8f-be0d-4c67-9647-10843fd8e0f9 / WHETSTONE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CONCEPT: uuid-de618b8f-be0d-4c67-9647-10843fd8e0f9 / WHETSTONE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+礪@lì / 厲@lì	[[tls:concept:WHETSTONE::#uuid-de618b8f-be0d-4c67-9647-10843fd8e0f9][WHETSTONE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / whetstone for the initial rougher work (often for the sharpening of larger implements such as weapons)
+〓:礪@lì / 厲@lì	[[tls:concept:WHETSTONE::#uuid-de618b8f-be0d-4c67-9647-10843fd8e0f9][WHETSTONE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / whetstone for the initial rougher work (often for the sharpening of larger implements such as weapons)
+** 千有餘載	and period of over 1,000 years,
+:PROPERTIES:
+:SRC: SHIJI 18.2.3 877/78; Wang Liqi 621; Takigawa 2; tr. Watson 1993, Han, vol.1 p. 428
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_206:2a13:4::千有 / 史記
+:CHARPOS: 4
+:END:
+*** 載@zǎi
+:PROPERTIES:
+:CONCEPT: uuid-22d37e7a-2824-4d33-99a6-b3bd591981f6 / YEAR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 7
+:END:
+載@zǎi	[[tls:concept:YEAR::#uuid-22d37e7a-2824-4d33-99a6-b3bd591981f6][YEAR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / year, (number of years) something has lasted
+** 自全以蕃衛天子	and fulfilled their duty as guardians of the Son of Heaven.
+:PROPERTIES:
+:SRC: SHIJI 18.2.3 877/78; Wang Liqi 621; Takigawa 2; tr. Watson 1993, Han, vol.1 p. 428
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_206:2a14:50::自全 / 史記
+:CHARPOS: 50
+:END:
+*** 全@quán
+:PROPERTIES:
+:CONCEPT: uuid-6c0bf958-a5fc-4dce-aa0f-6ac818656101 / SAFEGUARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 51
+:END:
+全@quán	[[tls:concept:SAFEGUARD::#uuid-6c0bf958-a5fc-4dce-aa0f-6ac818656101][SAFEGUARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / keep (oneself) complete, keep out of harm's way
+** 蕭曹絳灌之屬	so that the fiefs of men like Xiao He, Cao Can, Zhou Bo, and Guan Ying
+:PROPERTIES:
+:SRC: SHIJI 18.2.5 877/78; Wang Liqi 621; Takigawa 2; tr. Watson 1993, Han, vol.1 p. 428
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_206:2a27:1::蕭、 / 史記
+:CHARPOS: 1
+:END:
+*** 屬@shǔ
+:PROPERTIES:
+:CONCEPT: uuid-c0abf699-bfcd-4319-85bd-cf05a13844e2 / CATEGORY
+:SYN-FUNC: uuid-48670316-2952-4035-aeaa-6665f5329cb9
+:CHARPOS: 6
+:END:
+屬@shǔ	[[tls:concept:CATEGORY::#uuid-c0abf699-bfcd-4319-85bd-cf05a13844e2][CATEGORY]]	N [[tls:syn-func::#uuid-48670316-2952-4035-aeaa-6665f5329cb9][nab.t:post.-N+zhi]] / the category of items like N
+** 小侯自倍	and those of the lesser marquises doubled in population.
+:PROPERTIES:
+:SRC: SHIJI 18.2.5 877/78; Wang Liqi 621; Takigawa 2; tr. Watson 1993, Han, vol.1 p. 428
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_206:2a28:1::小侯 / 史記
+:CHARPOS: 1
+:END:
+*** 倍@bèi
+:PROPERTIES:
+:CONCEPT: uuid-50e367e6-30c5-4bcd-a279-b7090ac74568 / TWO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 4
+:END:
+倍@bèi	[[tls:concept:TWO::#uuid-50e367e6-30c5-4bcd-a279-b7090ac74568][TWO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / cause (oneself) to be double
+** 何必舊聞	What need is there to consult the traditions of antiquity?
+:PROPERTIES:
+:SRC: SHIJI 18.3.1 878; Wang Liqi 621; Takigawa 5; tr. Watson 1993, Han, vol.1 p. 429
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_206:3a09:1::何必 / 史記
+:CHARPOS: 1
+:END:
+*** 何@hé
+:PROPERTIES:
+:CONCEPT: uuid-9139b363-7697-4f77-8e18-98f50f3c48e9 / HOW
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 1
+:END:
+何@hé	[[tls:concept:HOW::#uuid-9139b363-7697-4f77-8e18-98f50f3c48e9][HOW]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / how on earth? How on earth could you/he/I? 回何敢死？ 丘何敢乎？何足憂？
+*** 必@bì
+:PROPERTIES:
+:CONCEPT: uuid-f2c26f03-050e-4fdb-abfc-d647cb94e896 / NEED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+必@bì	[[tls:concept:NEED::#uuid-f2c26f03-050e-4fdb-abfc-d647cb94e896][NEED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / definitely need
+*** 舊@jiù
+:PROPERTIES:
+:CONCEPT: uuid-7fe9f2e6-79e5-492b-acec-857844f7e6d8 / OLD
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 3
+:END:
+舊@jiù	[[tls:concept:OLD::#uuid-7fe9f2e6-79e5-492b-acec-857844f7e6d8][OLD]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / old and venerated (of non-animate things); possessed for a long time
+** 於是謹其終始	So I have with all diligence
+:PROPERTIES:
+:SRC: SHIJI 18.3.1 878; Wang Liqi 621; Takigawa 5; tr. Watson 1993, Han, vol.1 p. 429
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_206:3a10:50::於是 / 史記
+:CHARPOS: 50
+:END:
+*** 謹@jǐn
+:PROPERTIES:
+:CONCEPT: uuid-54c32728-1fbb-4d1d-9eb9-7134650f09a4 / DILIGENT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+謹@jǐn	[[tls:concept:DILIGENT::#uuid-54c32728-1fbb-4d1d-9eb9-7134650f09a4][DILIGENT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / pay diligent attention to, pay close attention to; be carefully attentive to
+** 得以覽焉==>	they will at least be able to peruse what I have written.
+:PROPERTIES:
+:SRC: SHIJI 18.3.2 878; Wang Liqi 621; Takigawa 5; tr. Watson 1993, Han, vol.1 p. 429
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_206:3a17:1::得以 / 史記
+:CHARPOS: 1
+:END:
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-7411e31e-dec9-415d-b658-19953d9322ab / READ
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+覽@lǎn	[[tls:concept:READ::#uuid-7411e31e-dec9-415d-b658-19953d9322ab][READ]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / To survey from above, synoptically and without attention to detail, taking in a scene in a sweep> to peruse a text in a cursory manner.

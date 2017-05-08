@@ -1,0 +1,76 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_013
+#+DATE: 2017-02-08T16:41:09+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 秦以周最之齊疑天下	'Ch'in is suspicious that Chou Tsui is going to Ch'i to set the empire against her.
+:PROPERTIES:
+:SRC: ZGC 1.13.1; tr. Crump 1979 no. 43, p. 52 Chin T'ou urged to support Chou Tsui
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_013:1a02:1::「秦 / 戰國策
+:CHARPOS: 1
+:END:
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a / GO TO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+之@zhī	[[tls:concept:GO TO::#uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a][GO TO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / go to (so as to stay there for a considerable time, or for some business); move towards; of things: be moved to
+** 則公之國虛矣	your state will be only ruins!
+:PROPERTIES:
+:SRC: ZGC 1.13.1; tr. Crump 1979 no. 43, p. 52 Chin T'ou urged to support Chou Tsui
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_013:1a07:1::則公 / 戰國策
+:CHARPOS: 1
+:END:
+*** 墟@xū / 虛@xū
+:PROPERTIES:
+:CONCEPT: uuid-317cdbaa-7bbe-4ed2-81f1-4cc923604a42 / RUINS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 1
+:END:
+墟@xū / 虛@xū	[[tls:concept:RUINS::#uuid-317cdbaa-7bbe-4ed2-81f1-4cc923604a42][RUINS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / be turned into ruins, be laid waste
+** 公不如救齊	The best course would be to go to Ch'i's rescuē3
+:PROPERTIES:
+:SRC: ZGC 1.13.2; tr. Crump 1979 no. 43, p. 52
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_013:1a08:50::公不 / 戰國策
+:CHARPOS: 50
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 50
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / honorific in informal conversation: you; also n - pro: "you my Duke"; used both as subject and as object
+** 因佐秦而伐韓魏	and help Ch'in invade Han and Wei.
+:PROPERTIES:
+:SRC: ZGC 1.13.2; tr. Crump 1979 no. 43, p. 52
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_013:1a09:50::因佐 / 戰國策
+:CHARPOS: 50
+:END:
+*** 佐@zuǒ
+:PROPERTIES:
+:CONCEPT: uuid-c152b62f-7f2a-4916-9363-c455c626ba06 / HELP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+佐@zuǒ	[[tls:concept:HELP::#uuid-c152b62f-7f2a-4916-9363-c455c626ba06][HELP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / help with (the charioteering); assist in (government) assist in an official capacity (as aide, a person of superior status); ZHOULI: assist (the king) [support][CA]
+** 公東收寶於秦	you will recieve treasure from Ch'in in the west14
+:PROPERTIES:
+:SRC: ZGC 1.13.2; tr. Crump 1979 no. 43, p. 52
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_013:1a10:1::公東 / 戰國策
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-a1d9899d-708a-4536-9b76-a108d8d444da / PRECIOUS
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-a1d9899d-708a-4536-9b76-a108d8d444da][PRECIOUS]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / treasure (cf. English: you will receive treasure...)

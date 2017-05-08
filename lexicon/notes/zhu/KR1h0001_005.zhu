@@ -1,0 +1,2258 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 孟子 KR1h0001_005
+#+DATE: 2017-02-08T16:40:25+0900
+#+PROPERTY: COMMIT cafc2a3c3032edb4f7b1cb44555c5c480c3eeaae
+** 世子疑吾言乎	asked Mencius,
+:PROPERTIES:
+:SRC: MENG 3A01:02; tr. D. C. Lau 1.93
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:2a04:1::「世 / 孟子
+:CHARPOS: 1
+:END:
+*** 吾@wú / 䱷@yú
+:PROPERTIES:
+:CONCEPT: uuid-8e092e3f-a5ba-4cab-ae98-7ad55d6db05f / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-1f600b16-385a-4b8b-a134-b3c091951a4d
+:CHARPOS: 4
+:END:
+吾@wú / 䱷@yú	[[tls:concept:EGO::#uuid-8e092e3f-a5ba-4cab-ae98-7ad55d6db05f][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-1f600b16-385a-4b8b-a134-b3c091951a4d][authorial]]} / my
+** 彼丈夫也	'He is a man
+:PROPERTIES:
+:SRC: MENG 3A01:03; tr. D. C. Lau 1.93
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:2a07:1::『彼 / 孟子
+:CHARPOS: 1
+:END:
+*** 丈夫@zhàngfū
+:PROPERTIES:
+:CONCEPT: uuid-61c51f00-da4f-40c4-9922-9d344c6da2ea / MALE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f4e97457-afe2-413e-8537-d023e93d6605
+:CHARPOS: 2
+:END:
+丈夫@zhàngfū	[[tls:concept:MALE::#uuid-61c51f00-da4f-40c4-9922-9d344c6da2ea][MALE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f4e97457-afe2-413e-8537-d023e93d6605][adult]]} / adult male
+** 舜何人也	'What sort of man was Shun?
+:PROPERTIES:
+:SRC: MENG 3A01:03; tr. D. C. Lau 1.93
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:2a11:1::『舜 / 孟子
+:CHARPOS: 1
+:END:
+*** 何人@hérén
+:PROPERTIES:
+:CONCEPT: uuid-895c6751-e9d9-490e-8243-c334db5a5c5c / WHO
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 2
+:END:
+何人@hérén	[[tls:concept:WHO::#uuid-895c6751-e9d9-490e-8243-c334db5a5c5c][WHO]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / be what kind of person? be who?
+** 予何人也	And what sort of man am I?
+:PROPERTIES:
+:SRC: MENG 3A01:03; tr. D. C. Lau 1.93
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:2a12:50::予、 / 孟子
+:CHARPOS: 50
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-7dd7f6b0-d1f7-4a72-81f2-6ec166e32ca5 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 50
+:END:
+予@yú	[[tls:concept:EGO::#uuid-7dd7f6b0-d1f7-4a72-81f2-6ec166e32ca5][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / I (personally); I personally; I, as a matter of personal experience or sensibility 予欲 "I wish..."
+** 若藥不瞑眩	'If the medicine does not make the head swim,
+:PROPERTIES:
+:SRC: MENG 3A01:04; tr. D. C. Lau 1.93
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:2a21:1::『若 / 孟子
+:CHARPOS: 1
+:END:
+*** 藥@yào
+:PROPERTIES:
+:CONCEPT: uuid-232eaefe-1ba3-4658-bfc0-c12218941dbd / DRUG
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 2
+:END:
+藥@yào	[[tls:concept:DRUG::#uuid-232eaefe-1ba3-4658-bfc0-c12218941dbd][DRUG]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / medicine, medication; (dig for) medicinal roots, herbs or mushrooms
+** 厥疾不瘳	the illness will not be cured.'"64
+:PROPERTIES:
+:SRC: MENG 3A01:04; tr. D. C. Lau 1.93
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:2a22:50::厥疾 / 孟子
+:CHARPOS: 50
+:END:
+*** 疾@jí
+:PROPERTIES:
+:CONCEPT: uuid-ab11e6ff-bbb5-486c-be0e-7e34ab1df13f / ILLNESS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 51
+:END:
+疾@jí	[[tls:concept:ILLNESS::#uuid-ab11e6ff-bbb5-486c-be0e-7e34ab1df13f][ILLNESS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / OBI 5: acute sickness; current state of sickness; also: xīn jí 心疾 "indisposition/illness of the heart/mind"; sickness 斯疾 temporary indisposition; falling sick
+*** 瘳@chōu
+:PROPERTIES:
+:CONCEPT: uuid-8007337d-c71b-42b5-b01e-4d86355d6caf / CURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 53
+:END:
+瘳@chōu	[[tls:concept:CURE::#uuid-8007337d-c71b-42b5-b01e-4d86355d6caf][CURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be cured; have become better
+** 親喪固所自盡也	"The funeral of a parent is an occasion for giving one's outmost.
+:PROPERTIES:
+:SRC: MENG 3A02:02; tr. D. C. Lau 1.93
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:5a03:1::親喪 / 孟子
+:CHARPOS: 1
+:END:
+*** 盡@jìn
+:PROPERTIES:
+:CONCEPT: uuid-c6382525-f3ce-4927-8e50-66ee814a1960 / EFFORT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 6
+:END:
+盡@jìn	[[tls:concept:EFFORT::#uuid-c6382525-f3ce-4927-8e50-66ee814a1960][EFFORT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause (oneself) to do one's very best, cause (oneself) to give everything
+** 自天子達於庶人	these were observed in the three dynasties by men of all conditions alike,
+:PROPERTIES:
+:SRC: MENG 3A02:04; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:5a17:1::自天 / 孟子
+:CHARPOS: 1
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-b6119c71-aa08-4977-9da9-08a28e7367cf / FROM
+:SYN-FUNC: uuid-1b855bd0-d675-4203-a1ba-2de03eba19fe
+:CHARPOS: 1
+:END:
+自@zì	[[tls:concept:FROM::#uuid-b6119c71-aa08-4977-9da9-08a28e7367cf][FROM]]	V [[tls:syn-func::#uuid-1b855bd0-d675-4203-a1ba-2de03eba19fe][vt01+N1.advt02+prep+N2:adS]] / from (the beginning of an abstract series 自天子達於庶人)
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-e9d7ecdf-283d-4ee4-9dfa-27501092b82e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-e9d7ecdf-283d-4ee4-9dfa-27501092b82e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / an emperor; the emperor generally (with untensed predicate)
+** 三代共之	from Emperor to Commoner."
+:PROPERTIES:
+:SRC: MENG 3A02:04; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:5a18:50::三代 / 孟子
+:CHARPOS: 50
+:END:
+*** 代@dài
+:PROPERTIES:
+:CONCEPT: uuid-7f1e7a6a-4635-4bd4-980a-ce47c427d3e7 / DYNASTY
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 51
+:END:
+代@dài	[[tls:concept:DYNASTY::#uuid-7f1e7a6a-4635-4bd4-980a-ce47c427d3e7][DYNASTY]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / dynasty 三代，五代，七代; HANSHU 漢代內史
+** 父兄百官皆不欲也	The elders and all the officials were opposed to this
+:PROPERTIES:
+:SRC: MENG 3A02:05; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:6a03:1::父兄 / 孟子
+:CHARPOS: 1
+:END:
+*** 父兄@fùxiōng
+:PROPERTIES:
+:CONCEPT: uuid-aab05b85-edba-4186-944a-3edbd4e3d579 / UNCLE
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+父兄@fùxiōng	[[tls:concept:UNCLE::#uuid-aab05b85-edba-4186-944a-3edbd4e3d579][UNCLE]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / senior persons that belong a family; the elders
+** 吾宗國魯先君莫之行	"The ancestral rulers of the eldest branch of our house in Lu never observed this;
+:PROPERTIES:
+:SRC: MENG 3A02:05; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:6a05:1::「吾 / 孟子
+:CHARPOS: 1
+:END:
+*** 宗@zōng
+:PROPERTIES:
+:CONCEPT: uuid-6a8fc11c-c056-4360-aba9-ed64ffedc22e / ANCESTOR
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 2
+:END:
+宗@zōng	[[tls:concept:ANCESTOR::#uuid-6a8fc11c-c056-4360-aba9-ed64ffedc22e][ANCESTOR]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / ancestral
+** 至於子之身而反之	Now it comes to you, and you go against our accepted practice.
+:PROPERTIES:
+:SRC: MENG 3A02:05; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:6a07:1::至於 / 孟子
+:CHARPOS: 1
+:END:
+*** 子之身@zǐzhīshēn
+:PROPERTIES:
+:CONCEPT: uuid-5c913294-dbe2-42f7-b443-dad8af748919 / YOU
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 3
+:END:
+子之身@zǐzhīshēn	[[tls:concept:YOU::#uuid-5c913294-dbe2-42f7-b443-dad8af748919][YOU]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / you yourself
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-985d4855-8fe0-421b-a88f-7b9084888a65 / SELF
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:CHARPOS: 5
+:END:
+身@shēn	[[tls:concept:SELF::#uuid-985d4855-8fe0-421b-a88f-7b9084888a65][SELF]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] / contrastive: oneself; the person him/herself 吾身,寡人之身
+** 喪祭從先祖	'In funeral and sacrifice, one follows the practice of one's ancestors.'"
+:PROPERTIES:
+:SRC: MENG 3A02:06; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:6a10:1::『喪 / 孟子
+:CHARPOS: 1
+:END:
+*** 祖@zǔ
+:PROPERTIES:
+:CONCEPT: uuid-26fe811e-254a-483d-9d1e-e5a6c2f34947 / ANCESTOR
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:CHARPOS: 5
+:END:
+祖@zǔ	[[tls:concept:ANCESTOR::#uuid-26fe811e-254a-483d-9d1e-e5a6c2f34947][ANCESTOR]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] / ZUO Zhao 22: original first ancestor of the clan; the highest ancestor (BUDDH: patriarch (the founder or transmitter of a Buddhist lineage))
+** 吾他日未嘗學問	"In the past I have never paid much attention to learning,
+:PROPERTIES:
+:SRC: MENG 3A02:07; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:7a02:1::「吾 / 孟子
+:CHARPOS: 1
+:END:
+*** 學問@xuéwèn
+:PROPERTIES:
+:CONCEPT: uuid-c4db41a9-6fcd-4c5a-9f0a-89ed42408742 / STUDY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+學問@xuéwèn	[[tls:concept:STUDY::#uuid-c4db41a9-6fcd-4c5a-9f0a-89ed42408742][STUDY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in study
+** 今也父兄百官不我足也	Now the elders and all my officials do not think too highly of me,
+:PROPERTIES:
+:SRC: MENG 3A02:07; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:7a04:1::今也 / 孟子
+:CHARPOS: 1
+:END:
+*** 父兄@fùxiōng
+:PROPERTIES:
+:CONCEPT: uuid-aab05b85-edba-4186-944a-3edbd4e3d579 / UNCLE
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+父兄@fùxiōng	[[tls:concept:UNCLE::#uuid-aab05b85-edba-4186-944a-3edbd4e3d579][UNCLE]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / senior persons that belong a family; the elders
+*** 百官@bǎiguān
+:PROPERTIES:
+:CONCEPT: uuid-70b25540-9456-447d-a580-fa2def992348 / OFFICIAL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 5
+:END:
+百官@bǎiguān	[[tls:concept:OFFICIAL::#uuid-70b25540-9456-447d-a580-fa2def992348][OFFICIAL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / the various officials
+** 君薨	'When the ruler dies
+:PROPERTIES:
+:SRC: MENG 3A02:09; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:9a05:1::『君 / 孟子
+:CHARPOS: 1
+:END:
+*** 薨@hōng
+:PROPERTIES:
+:CONCEPT: uuid-3491d41c-1515-4aa6-a15d-9f22f38a798f / DIE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 2
+:END:
+薨@hōng	[[tls:concept:DIE::#uuid-3491d41c-1515-4aa6-a15d-9f22f38a798f][DIE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / of senior officials: die [occasionally also used to refer to the death of an emperor]
+** 歠粥	and sip rice gruel,
+:PROPERTIES:
+:SRC: MENG 3A02:09; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:9a07:1::歠粥 / 孟子
+:CHARPOS: 1
+:END:
+*** 歠@chuò
+:PROPERTIES:
+:CONCEPT: uuid-dee4784f-496a-48cd-8a98-c506c188ab95 / DRINK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+歠@chuò	[[tls:concept:DRINK::#uuid-dee4784f-496a-48cd-8a98-c506c188ab95][DRINK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to drink; swill
+*** 粥@zhōu / @
+:PROPERTIES:
+:CONCEPT: uuid-8b9a0b9d-514f-4b72-b2e3-74303116b756 / GRUEL
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 2
+:END:
+粥@zhōu / @	[[tls:concept:GRUEL::#uuid-8b9a0b9d-514f-4b72-b2e3-74303116b756][GRUEL]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / thin broth
+** 面深墨	showing a deep inky colour on his face.
+:PROPERTIES:
+:SRC: MENG 3A02:09; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:9a08:50::面深 / 孟子
+:CHARPOS: 50
+:END:
+*** 墨@mò
+:PROPERTIES:
+:CONCEPT: uuid-1358755c-b990-4f0a-a074-1cbba6e86425 / BLACK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+墨@mò	[[tls:concept:BLACK::#uuid-1358755c-b990-4f0a-a074-1cbba6e86425][BLACK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be dark in complexion; be black 深墨
+** 先之也	This is because he sets the example.
+:PROPERTIES:
+:SRC: MENG 3A02:09; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:9a11:1::先之 / 孟子
+:CHARPOS: 1
+:END:
+*** 先@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-45112b84-33d9-4a1d-a626-7b375abc848d / LEAD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+先@xiàn	[[tls:concept:LEAD::#uuid-45112b84-33d9-4a1d-a626-7b375abc848d][LEAD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / lead; German: mit gutem Beispiel vorangehen
+** 君子之德	The virtue of the gentleman
+:PROPERTIES:
+:SRC: MENG 3A02:10; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:9a14:1::君子 / 孟子
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+** 小人之德	the virtue of the small man
+:PROPERTIES:
+:SRC: MENG 3A02:10; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:9a16:1::小人 / 孟子
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-acad86b1-1b2a-41c0-bb34-4451ad917235 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 1
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-acad86b1-1b2a-41c0-bb34-4451ad917235][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / person of ordinary low status, close to 庶人
+** 草上之風必偃	Let the wind blow over the grass, and it is sure to bend.'67
+:PROPERTIES:
+:SRC: MENG 3A02:10; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:9a18:1::草上 / 孟子
+:CHARPOS: 1
+:END:
+*** 偃@yǎn
+:PROPERTIES:
+:CONCEPT: uuid-e504cd49-9b85-4c08-a9f2-996f5d30399f / TWIST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 6
+:END:
+偃@yǎn	[[tls:concept:TWIST::#uuid-e504cd49-9b85-4c08-a9f2-996f5d30399f][TWIST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / bend flat down
+** 五月居廬	For five months he stayed in his mourning hut,
+:PROPERTIES:
+:SRC: MENG 3A02:12; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:12a01:1::五月 / 孟子
+:CHARPOS: 1
+:END:
+*** 廬@lú
+:PROPERTIES:
+:CONCEPT: uuid-01ebb698-dbe8-41bc-ab99-21c3ce7998eb / HUT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+廬@lú	[[tls:concept:HUT::#uuid-01ebb698-dbe8-41bc-ab99-21c3ce7998eb][HUT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / hut; simple hut (often built next to a tomb to house the mourner during the mourning period)
+** 及至葬	When it was time for the burial ceremony,
+:PROPERTIES:
+:SRC: MENG 3A02:12; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:12a05:1::及至 / 孟子
+:CHARPOS: 1
+:END:
+*** 及至@jízhì
+:PROPERTIES:
+:CONCEPT: uuid-e54fb355-9a3c-4b6c-b522-d726a48ab3cb / WHEN
+:SYN-FUNC: uuid-082ded84-1906-4ce3-bfea-29e9eac6cb56
+:CHARPOS: 1
+:END:
+及至@jízhì	[[tls:concept:WHEN::#uuid-e54fb355-9a3c-4b6c-b522-d726a48ab3cb][WHEN]]	 [[tls:syn-func::#uuid-082ded84-1906-4ce3-bfea-29e9eac6cb56][VPt0oN.adS]] / when it came to N, then S
+** 四方來觀之	people came from all quarters to watch.
+:PROPERTIES:
+:SRC: MENG 3A02:12; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:12a06:50::四方 / 孟子
+:CHARPOS: 50
+:END:
+*** 四方@sìfāng
+:PROPERTIES:
+:CONCEPT: uuid-bdf06c5f-52a7-4ab8-9c72-b2a24fad558e / EVERYWHERE
+:SYN-FUNC: uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a
+:CHARPOS: 50
+:END:
+四方@sìfāng	[[tls:concept:EVERYWHERE::#uuid-bdf06c5f-52a7-4ab8-9c72-b2a24fad558e][EVERYWHERE]]	N [[tls:syn-func::#uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a][NPadV]] / from all the Four Regions; from everywhere; everywhere; anywhere
+** 顏色之戚	He showed such a grief-stricken countenance
+:PROPERTIES:
+:SRC: MENG 3A02:12; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:12a07:50::顏色 / 孟子
+:CHARPOS: 50
+:END:
+*** 顏色@yánsè
+:PROPERTIES:
+:CONCEPT: uuid-7bd655d4-7191-469b-88dd-1af4a8d77c42 / FACE
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:CHARPOS: 50
+:END:
+顏色@yánsè	[[tls:concept:FACE::#uuid-7bd655d4-7191-469b-88dd-1af4a8d77c42][FACE]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] / facial expression, countenance; sometimes non-expressive: facial complexion 顏色黯黑 "my facial complexion is all dark".
+** 弔者大悅	that the mourners were greatly delighted.
+:PROPERTIES:
+:SRC: MENG 3A02:12; tr. D. C. Lau 1.95
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:12a09:1::弔者 / 孟子
+:CHARPOS: 1
+:END:
+*** 弔@diào / @
+:PROPERTIES:
+:CONCEPT: uuid-38b85fca-1e9a-4b96-9928-3a4fdd7d3479 / CONSOLE
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 1
+:END:
+弔@diào / @	[[tls:concept:CONSOLE::#uuid-38b85fca-1e9a-4b96-9928-3a4fdd7d3479][CONSOLE]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / offer one's condolences
+** 宵爾索綯	At night they make it into ropes.
+:PROPERTIES:
+:SRC: MENG 3A03:01; tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:14a05:1::宵爾 / 孟子
+:CHARPOS: 1
+:END:
+*** 綯@táo
+:PROPERTIES:
+:CONCEPT: uuid-7bb5b6f4-7fa3-4125-b7c5-6ef76cfd73e7 / ROPE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+綯@táo	[[tls:concept:ROPE::#uuid-7bb5b6f4-7fa3-4125-b7c5-6ef76cfd73e7][ROPE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / SHI: rope
+** 亟其乘屋	They hasten to repair the roof;
+:PROPERTIES:
+:SRC: MENG 3A03:01; tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:14a06:50::亟其 / 孟子
+:CHARPOS: 50
+:END:
+*** 屋@wū
+:PROPERTIES:
+:CONCEPT: uuid-69ad13a8-aa29-4b7d-8215-e695d9197851 / ROOF
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+屋@wū	[[tls:concept:ROOF::#uuid-69ad13a8-aa29-4b7d-8215-e695d9197851][ROOF]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / roof; roof of a building
+** 有恆產者有恆心	Those with constant means of support will have constant hearts,
+:PROPERTIES:
+:SRC: MENG 3A03:02; tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:14a09:1::有恆 / 孟子
+:CHARPOS: 1
+:END:
+*** 產@chǎn
+:PROPERTIES:
+:CONCEPT: uuid-caf0dac1-b2b5-46e4-94c9-304b4b185d17 / ASSET
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 3
+:END:
+產@chǎn	[[tls:concept:ASSET::#uuid-caf0dac1-b2b5-46e4-94c9-304b4b185d17][ASSET]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / property, means of production; livelihood
+** 無不為已	stopping at nothing.
+:PROPERTIES:
+:SRC: MENG 3A03:02; tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:14a13:1::無不 / 孟子
+:CHARPOS: 1
+:END:
+*** 無不@wúbù
+:PROPERTIES:
+:CONCEPT: uuid-b88c1dd5-4a81-4f1c-a266-7466f73780f4 / ALL
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:SEM-FEAT: uuid-c65b2c3d-9d08-4c44-b958-ba9cd849f304
+:CHARPOS: 1
+:END:
+無不@wúbù	[[tls:concept:ALL::#uuid-b88c1dd5-4a81-4f1c-a266-7466f73780f4][ALL]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] {[[tls:sem-feat::#uuid-c65b2c3d-9d08-4c44-b958-ba9cd849f304][reference=object]]} / all objects =無所不
+** 及陷乎罪	To punish them
+:PROPERTIES:
+:SRC: MENG 3A03:02; tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:14a14:50::及陷 / 孟子
+:CHARPOS: 50
+:END:
+*** 陷@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-604a4ae2-6336-4e92-b102-fdbdf3c27dad / FALL
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 51
+:END:
+陷@xiàn	[[tls:concept:FALL::#uuid-604a4ae2-6336-4e92-b102-fdbdf3c27dad][FALL]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / figurative: run into (criminality etc.)
+** 夏后氏五十而貢	In the Hsia dynasty each family was given fifty mu of land, and the 'kung' method of taxation was used;
+:PROPERTIES:
+:SRC: MENG 3A03:03; tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a01:1::夏后 / 孟子
+:CHARPOS: 1
+:END:
+*** 貢@gòng
+:PROPERTIES:
+:CONCEPT: uuid-3b83b64e-5e0d-4395-845f-041c97905ea3 / TAX
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 7
+:END:
+貢@gòng	[[tls:concept:TAX::#uuid-3b83b64e-5e0d-4395-845f-041c97905ea3][TAX]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / employ the gòng taxation method for fields
+** 殷人七十而助	in the Yin, each family was given seventy mu and the 'chu' method was used;
+:PROPERTIES:
+:SRC: MENG 3A03:03; tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a02:50::殷人 / 孟子
+:CHARPOS: 50
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-f7c6fd23-438f-4e3e-a3cc-770eeae383e2 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 51
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-f7c6fd23-438f-4e3e-a3cc-770eeae383e2][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the (typically elevated) people in Npl [This should probably be subsumed under the general "def.plur" semantic category, and this is easily done. However the examples form a neat set of some interest, so I keep them together. CH]
+** 周人百畝而徹	in the Chou, each family was given a hundred mu and the 'ch'e' method was used.
+:PROPERTIES:
+:SRC: MENG 3A03:03; tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a03:50::周人 / 孟子
+:CHARPOS: 50
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-f7c6fd23-438f-4e3e-a3cc-770eeae383e2 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 51
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-f7c6fd23-438f-4e3e-a3cc-770eeae383e2][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the (typically elevated) people in Npl [This should probably be subsumed under the general "def.plur" semantic category, and this is easily done. However the examples form a neat set of some interest, so I keep them together. CH]
+** 其實皆什一也	In fact, all three amounted to a taxation of one in ten.
+:PROPERTIES:
+:SRC: MENG 3A03:03; tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a04:50::其實 / 孟子
+:CHARPOS: 50
+:END:
+*** 什@shí
+:PROPERTIES:
+:CONCEPT: uuid-3bd8c840-ded7-4c6e-8d1e-f3c6eea13718 / TEN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+什@shí	[[tls:concept:TEN::#uuid-3bd8c840-ded7-4c6e-8d1e-f3c6eea13718][TEN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (amout of) ten; unit of ten
+** 徹者	'Ch'e'
+:PROPERTIES:
+:SRC: MENG 3A03:04 tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a05:50::徹者 / 孟子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-01625126-0718-48fc-842d-7a4fe3afc6ab / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:SEM-FEAT: uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e
+:CHARPOS: 51
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-01625126-0718-48fc-842d-7a4fe3afc6ab][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] {[[tls:sem-feat::#uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e][quotation]]} / "..."
+** 助者	'chu'
+:PROPERTIES:
+:SRC: MENG 3A03:04 tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a07:1::助者 / 孟子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-01625126-0718-48fc-842d-7a4fe3afc6ab / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:SEM-FEAT: uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e
+:CHARPOS: 2
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-01625126-0718-48fc-842d-7a4fe3afc6ab][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] {[[tls:sem-feat::#uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e][quotation]]} / "..."
+** 治地莫善於助	'In administering land, there is no better method than chu
+:PROPERTIES:
+:SRC: MENG 3A03:04 tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a10:1::『治 / 孟子
+:CHARPOS: 1
+:END:
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-04245704-2a1e-40ff-9137-ace8910ea25d / EXCELLENT
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 4
+:END:
+善@shàn	[[tls:concept:EXCELLENT::#uuid-04245704-2a1e-40ff-9137-ace8910ea25d][EXCELLENT]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / be better than N
+** 莫不善於貢	and no worse than kung.'
+:PROPERTIES:
+:SRC: MENG 3A03:04 tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a11:50::莫不 / 孟子
+:CHARPOS: 50
+:END:
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-04245704-2a1e-40ff-9137-ace8910ea25d / EXCELLENT
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 52
+:END:
+善@shàn	[[tls:concept:EXCELLENT::#uuid-04245704-2a1e-40ff-9137-ace8910ea25d][EXCELLENT]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / be better than N
+*** 貢@gòng
+:PROPERTIES:
+:CONCEPT: uuid-1bfa8a46-5b5f-4a79-8e9c-11cdc2179434 / TAX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+貢@gòng	[[tls:concept:TAX::#uuid-1bfa8a46-5b5f-4a79-8e9c-11cdc2179434][TAX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / field tax
+** 凶年	while in bad years,
+:PROPERTIES:
+:SRC: MENG 3A03:05 tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a18:1::凶年 / 孟子
+:CHARPOS: 1
+:END:
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-cd8a6ecd-1d96-4dfa-a59d-babfcf108ed4 / DISASTER
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+凶@xiōng	[[tls:concept:DISASTER::#uuid-cd8a6ecd-1d96-4dfa-a59d-babfcf108ed4][DISASTER]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / calamitious (of years) 凶年，凶器
+** 糞其田而不足	when there is not enough to spare for fertilizing the fields,
+:PROPERTIES:
+:SRC: MENG 3A03:05 tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a19:50::糞其 / 孟子
+:CHARPOS: 50
+:END:
+*** 糞@fèn
+:PROPERTIES:
+:CONCEPT: uuid-7b34607e-ab54-4b44-a335-0525601f0f8a / FERTILISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+糞@fèn	[[tls:concept:FERTILISE::#uuid-7b34607e-ab54-4b44-a335-0525601f0f8a][FERTILISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / dung; to dung, to fertilise with dung
+** 將終歲勤動	because they do not get
+:PROPERTIES:
+:SRC: MENG 3A03:06 tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a23:1::將終 / 孟子
+:CHARPOS: 1
+:END:
+*** 動@dòng
+:PROPERTIES:
+:CONCEPT: uuid-a3d016e5-84ff-4d56-b81f-d945f0329932 / WORK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+動@dòng	[[tls:concept:WORK::#uuid-a3d016e5-84ff-4d56-b81f-d945f0329932][WORK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / work
+** 使老稚轉乎溝壑	and causes the young and the old to be abandoned in the gutter,
+:PROPERTIES:
+:SRC: MENG 3A03:06 tr. D. C. Lau 1.97
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a26:1::使老 / 孟子
+:CHARPOS: 1
+:END:
+*** 溝壑@gōuhè
+:PROPERTIES:
+:CONCEPT: uuid-0d09b0b0-41b6-4cdf-b523-bdc04f7c6b89 / CANAL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 6
+:END:
+溝壑@gōuhè	[[tls:concept:CANAL::#uuid-0d09b0b0-41b6-4cdf-b523-bdc04f7c6b89][CANAL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the ditches, gullies and waterways (into which dead bodies are thrown)
+** 雨我公田	'The rain falls on our public land,
+:PROPERTIES:
+:SRC: MENG 3A03:07 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:15a31:1::『雨 / 孟子
+:CHARPOS: 1
+:END:
+*** 雨@yù
+:PROPERTIES:
+:CONCEPT: uuid-20252156-df37-4ed8-8ba5-848d2ddfb9f4 / RAIN
+:SYN-FUNC: uuid-4dad7226-8922-42f9-b24a-7baa8c1169ea
+:CHARPOS: 1
+:END:
+雨@yù	[[tls:concept:RAIN::#uuid-20252156-df37-4ed8-8ba5-848d2ddfb9f4][RAIN]]	 [[tls:syn-func::#uuid-4dad7226-8922-42f9-b24a-7baa8c1169ea][vi0+N{PLACE}]] / it rains on
+** 設為庠序學校以教之	'Hsiang', 'hsy', 'hsyeh', and 'hsiao' were set up for the purpose of education.
+:PROPERTIES:
+:SRC: MENG 3A03:08 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:16a01:1::設為 / 孟子
+:CHARPOS: 1
+:END:
+*** 教@jiào
+:PROPERTIES:
+:CONCEPT: uuid-fad1b2e5-dd78-49a7-8f9e-79d3e2e20a16 / TEACH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-5100e402-4cb5-4b99-929f-be674b3757d4
+:CHARPOS: 8
+:END:
+教@jiào	[[tls:concept:TEACH::#uuid-fad1b2e5-dd78-49a7-8f9e-79d3e2e20a16][TEACH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-5100e402-4cb5-4b99-929f-be674b3757d4][N=human]]} / instruct, give instruction to; train up (prototypically military); train up properly, instruct properly
+** 庠者養也	'Hsiang' means 'rearing',
+:PROPERTIES:
+:SRC: MENG 3A03:08 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:16a02:50::庠者 / 孟子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-01625126-0718-48fc-842d-7a4fe3afc6ab / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:SEM-FEAT: uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e
+:CHARPOS: 51
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-01625126-0718-48fc-842d-7a4fe3afc6ab][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] {[[tls:sem-feat::#uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e][quotation]]} / "..."
+** 校者教也	'hsiao' means 'teaching'
+:PROPERTIES:
+:SRC: MENG 3A03:08 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:16a03:50::校者 / 孟子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-01625126-0718-48fc-842d-7a4fe3afc6ab / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:SEM-FEAT: uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e
+:CHARPOS: 51
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-01625126-0718-48fc-842d-7a4fe3afc6ab][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] {[[tls:sem-feat::#uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e][quotation]]} / "..."
+** 序者射也	and 'hsy' means 'archery'.72
+:PROPERTIES:
+:SRC: MENG 3A03:08 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:16a04:50::序者 / 孟子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-01625126-0718-48fc-842d-7a4fe3afc6ab / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:SEM-FEAT: uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e
+:CHARPOS: 51
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-01625126-0718-48fc-842d-7a4fe3afc6ab][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] {[[tls:sem-feat::#uuid-c35896f5-92c7-4b54-b6c5-7219e8f0c20e][quotation]]} / "..."
+** 學則三代共之	while 'hsyeh' was a name common to all the Three Dynasties.
+:PROPERTIES:
+:SRC: MENG 3A03:08 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:16a08:1::學則 / 孟子
+:CHARPOS: 1
+:END:
+*** 代@dài
+:PROPERTIES:
+:CONCEPT: uuid-7f1e7a6a-4635-4bd4-980a-ce47c427d3e7 / DYNASTY
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 4
+:END:
+代@dài	[[tls:concept:DYNASTY::#uuid-7f1e7a6a-4635-4bd4-980a-ce47c427d3e7][DYNASTY]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / dynasty 三代，五代，七代; HANSHU 漢代內史
+** 皆所以明人倫也	They all serve to make the people understand human relationships.73
+:PROPERTIES:
+:SRC: MENG 3A03:08 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:16a09:50::皆所 / 孟子
+:CHARPOS: 50
+:END:
+*** 人倫@rénlún
+:PROPERTIES:
+:CONCEPT: uuid-c3119ec3-2c5a-4893-83e4-cc73757f8ce8 / PRINCIPLE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 54
+:END:
+人倫@rénlún	[[tls:concept:PRINCIPLE::#uuid-c3119ec3-2c5a-4893-83e4-cc73757f8ce8][PRINCIPLE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / principles underlying human relations and moral behaviour; proper human relations; standards of proper human conduct
+** 人倫明於上	When it is clear that those in authority understand human relationships,
+:PROPERTIES:
+:SRC: MENG 3A03:09 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:16a10:50::人倫 / 孟子
+:CHARPOS: 50
+:END:
+*** 人倫@rénlún
+:PROPERTIES:
+:CONCEPT: uuid-c3119ec3-2c5a-4893-83e4-cc73757f8ce8 / PRINCIPLE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 50
+:END:
+人倫@rénlún	[[tls:concept:PRINCIPLE::#uuid-c3119ec3-2c5a-4893-83e4-cc73757f8ce8][PRINCIPLE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / principles underlying human relations and moral behaviour; proper human relations; standards of proper human conduct
+** 有王者起	Should a true King arise,
+:PROPERTIES:
+:SRC: MENG 3A03:09 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:16a12:1::有王 / 孟子
+:CHARPOS: 1
+:END:
+*** 王者@wàngzhě
+:PROPERTIES:
+:CONCEPT: uuid-a068a5db-cba9-47e7-b249-17212f158f60 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+王者@wàngzhě	[[tls:concept:RULER::#uuid-a068a5db-cba9-47e7-b249-17212f158f60][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the true king
+*** 起@qǐ
+:PROPERTIES:
+:CONCEPT: uuid-522631c6-ec38-42ec-a09a-0d7e88205140 / ARISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 4
+:END:
+起@qǐ	[[tls:concept:ARISE::#uuid-522631c6-ec38-42ec-a09a-0d7e88205140][ARISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / arise
+** 必來取法	he is certain to take this as a model.
+:PROPERTIES:
+:SRC: MENG 3A03:09 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:16a13:50::必來 / 孟子
+:CHARPOS: 50
+:END:
+*** 法@fǎ
+:PROPERTIES:
+:CONCEPT: uuid-0452f378-e888-4f54-ad13-53004f9eb97f / MODEL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 53
+:END:
+法@fǎ	[[tls:concept:MODEL::#uuid-0452f378-e888-4f54-ad13-53004f9eb97f][MODEL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / model
+** 是為王者師也	Thus he who practises this will be tutor to a true King.
+:PROPERTIES:
+:SRC: MENG 3A03:09 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:16a14:50::是為 / 孟子
+:CHARPOS: 50
+:END:
+*** 王者@wàngzhě
+:PROPERTIES:
+:CONCEPT: uuid-a068a5db-cba9-47e7-b249-17212f158f60 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+王者@wàngzhě	[[tls:concept:RULER::#uuid-a068a5db-cba9-47e7-b249-17212f158f60][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the true king
+** 子之君將行仁政	"is going to practise benevolent government
+:PROPERTIES:
+:SRC: MENG 3A03:11 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:19a02:1::「子 / 孟子
+:CHARPOS: 1
+:END:
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-651682b2-dddb-476f-a0dd-f671b8d80719 / BENEVOLENCE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 6
+:END:
+仁@rén	[[tls:concept:BENEVOLENCE::#uuid-651682b2-dddb-476f-a0dd-f671b8d80719][BENEVOLENCE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / referring to humane behaviour, characterised by humane behaviour
+** 子必勉之	You must do your best.
+:PROPERTIES:
+:SRC: MENG 3A03:11 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:19a04:1::子必 / 孟子
+:CHARPOS: 1
+:END:
+*** 勉@miǎn
+:PROPERTIES:
+:CONCEPT: uuid-6315c728-e15d-4e3b-8ccd-9fcdf2ad5ac9 / EFFORT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+勉@miǎn	[[tls:concept:EFFORT::#uuid-6315c728-e15d-4e3b-8ccd-9fcdf2ad5ac9][EFFORT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / exert oneself for; do the utmost for
+** 夫仁政必自經界始	Benevolent government must begin with land demarcation.
+:PROPERTIES:
+:SRC: MENG 3A03:11 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:19a05:50::夫仁 / 孟子
+:CHARPOS: 50
+:END:
+*** 政@zhèng
+:PROPERTIES:
+:CONCEPT: uuid-37eb6fea-b6bf-4b98-8e23-914d330dbb07 / GOVERN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+政@zhèng	[[tls:concept:GOVERN::#uuid-37eb6fea-b6bf-4b98-8e23-914d330dbb07][GOVERN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / administration of a state, public administration; administrative measure; administrative method; administrative tasks and problems; administrative practice
+*** 經界@jìngjiè
+:PROPERTIES:
+:CONCEPT: uuid-2318a8cc-f7cb-4a92-a4c8-9d46ee82d8fd / BOUNDARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 55
+:END:
+經界@jìngjiè	[[tls:concept:BOUNDARY::#uuid-2318a8cc-f7cb-4a92-a4c8-9d46ee82d8fd][BOUNDARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / (administration of boundaries??>) boundaries, borders
+*** 界@jiè
+:PROPERTIES:
+:CONCEPT: uuid-27d0ec0e-0b50-4f81-ad61-a9c628ce0388 / BOUNDARY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 56
+:END:
+界@jiè	[[tls:concept:BOUNDARY::#uuid-27d0ec0e-0b50-4f81-ad61-a9c628ce0388][BOUNDARY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / the (typically marked) border; sometimes by synecdoche the reference is to "area enclosd by the border", and these cases are not easy to separate out.
+** 是故暴君汙吏必慢其經界	For this reason, despotic rulers and corrupt officials always neglect the boundaries.
+:PROPERTIES:
+:SRC: MENG 3A03:12 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:19a09:1::是故 / 孟子
+:CHARPOS: 1
+:END:
+*** 暴君@bàojūn
+:PROPERTIES:
+:CONCEPT: uuid-575bab16-5558-455a-a3e5-c87df756a2b0 / TYRANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 3
+:END:
+暴君@bàojūn	[[tls:concept:TYRANT::#uuid-575bab16-5558-455a-a3e5-c87df756a2b0][TYRANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / violent ruler, tyrant
+*** 汙@wù
+:PROPERTIES:
+:CONCEPT: uuid-b731b91f-87ec-4bad-bef6-404d8874a656 / WICKED
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 5
+:END:
+汙@wù	[[tls:concept:WICKED::#uuid-b731b91f-87ec-4bad-bef6-404d8874a656][WICKED]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / wicked, corrupt
+*** 經界@jìngjiè
+:PROPERTIES:
+:CONCEPT: uuid-2318a8cc-f7cb-4a92-a4c8-9d46ee82d8fd / BOUNDARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 10
+:END:
+經界@jìngjiè	[[tls:concept:BOUNDARY::#uuid-2318a8cc-f7cb-4a92-a4c8-9d46ee82d8fd][BOUNDARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / (administration of boundaries??>) boundaries, borders
+*** 界@jiè
+:PROPERTIES:
+:CONCEPT: uuid-27d0ec0e-0b50-4f81-ad61-a9c628ce0388 / BOUNDARY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 11
+:END:
+界@jiè	[[tls:concept:BOUNDARY::#uuid-27d0ec0e-0b50-4f81-ad61-a9c628ce0388][BOUNDARY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / the (typically marked) border; sometimes by synecdoche the reference is to "area enclosd by the border", and these cases are not easy to separate out.
+** 經界既正	Once the boundaries are correctly fixed,
+:PROPERTIES:
+:SRC: MENG 3A03:12 tr. D. C. Lau 1.99
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:19a10:50::經界 / 孟子
+:CHARPOS: 50
+:END:
+*** 經界@jìngjiè
+:PROPERTIES:
+:CONCEPT: uuid-2318a8cc-f7cb-4a92-a4c8-9d46ee82d8fd / BOUNDARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+經界@jìngjiè	[[tls:concept:BOUNDARY::#uuid-2318a8cc-f7cb-4a92-a4c8-9d46ee82d8fd][BOUNDARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / (administration of boundaries??>) boundaries, borders
+** 將為君子焉	Nevertheless, there will be men in authority
+:PROPERTIES:
+:SRC: MENG 3A03:13 tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:20a02:1::將為 / 孟子
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the gentlemen (of a certain time or place) 其君子
+** 無君子莫治野人	Without the former, there would be no one to rule the latter;
+:PROPERTIES:
+:SRC: MENG 3A03:13 tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:20a04:1::無君 / 孟子
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 2
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the gentlemen (of a certain time or place) 其君子
+** 無野人莫養君子	without the latter, there would be no one to support the former.
+:PROPERTIES:
+:SRC: MENG 3A03:13 tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:20a05:50::無野 / 孟子
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 55
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the gentlemen (of a certain time or place) 其君子
+** 什一使自賦	it should be one in ten, to be levied in kind.
+:PROPERTIES:
+:SRC: MENG 3A03:13 tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:20a07:3::什一 / 孟子
+:CHARPOS: 3
+:END:
+*** 什@shí
+:PROPERTIES:
+:CONCEPT: uuid-3bd8c840-ded7-4c6e-8d1e-f3c6eea13718 / TEN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+什@shí	[[tls:concept:TEN::#uuid-3bd8c840-ded7-4c6e-8d1e-f3c6eea13718][TEN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (amout of) ten; unit of ten
+** 死徙無出鄉	Neither in burying the dead, nor in changing his abode, does a man go beyond the confines of his village.
+:PROPERTIES:
+:SRC: MENG 3A03:14 tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:20a11:1::死徙 / 孟子
+:CHARPOS: 1
+:END:
+*** 徙@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-de65074f-144a-428a-856d-2196468c9d38 / MOVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+徙@xǐ	[[tls:concept:MOVE::#uuid-de65074f-144a-428a-856d-2196468c9d38][MOVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / move house; move place, move about, move around; change course; migrate; move abroad
+** 出入相友	befriend one another both at home and abroad,
+:PROPERTIES:
+:SRC: MENG 3A03:14 tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:20a13:1::出入 / 孟子
+:CHARPOS: 1
+:END:
+*** 友@yǒu
+:PROPERTIES:
+:CONCEPT: uuid-e7412f43-f74b-4636-a613-22238c6783be / FRIEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+友@yǒu	[[tls:concept:FRIEND::#uuid-e7412f43-f74b-4636-a613-22238c6783be][FRIEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / show friendship to, give friendly support to; cultivate the friendship of; treat as a friend; gain as a friend
+** 疾病相扶持	and succour each other in illness,
+:PROPERTIES:
+:SRC: MENG 3A03:14 tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:20a15:1::疾病 / 孟子
+:CHARPOS: 1
+:END:
+*** 疾病@jíbìng
+:PROPERTIES:
+:CONCEPT: uuid-d838c84d-f780-40df-a4cc-d11383baf281 / ILLNESS
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 1
+:END:
+疾病@jíbìng	[[tls:concept:ILLNESS::#uuid-d838c84d-f780-40df-a4cc-d11383baf281][ILLNESS]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / suffer from a serious illness
+*** 扶@fú
+:PROPERTIES:
+:CONCEPT: uuid-42dfae74-d2ea-46ba-b875-6ca9e7e8cd9d / HELP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+扶@fú	[[tls:concept:HELP::#uuid-42dfae74-d2ea-46ba-b875-6ca9e7e8cd9d][HELP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cause/enable someone to lean on one> give one's support to, lend support to
+*** 持@chí
+:PROPERTIES:
+:CONCEPT: uuid-757bc76a-ab04-4eeb-88d2-c161a903ff66 / SUPPORT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+持@chí	[[tls:concept:SUPPORT::#uuid-757bc76a-ab04-4eeb-88d2-c161a903ff66][SUPPORT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / support; German: unter den Arm greifen;
+** 則百姓親睦	they will live in love and harmony.
+:PROPERTIES:
+:SRC: MENG 3A03:14 tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:20a16:50::則百 / 孟子
+:CHARPOS: 50
+:END:
+*** 睦@mù
+:PROPERTIES:
+:CONCEPT: uuid-101dfa54-9ae1-4222-b50d-7e692d5dce8a / HARMONY
+:SYN-FUNC: uuid-a4ac7ae5-ac55-45d6-b390-3c41242eb09e
+:CHARPOS: 54
+:END:
+睦@mù	[[tls:concept:HARMONY::#uuid-101dfa54-9ae1-4222-b50d-7e692d5dce8a][HARMONY]]	V [[tls:syn-func::#uuid-a4ac7ae5-ac55-45d6-b390-3c41242eb09e][vi2]] / show mutual respect and a harmonious spirit
+** 所以別野人也	This is what sets the common people apart.
+:PROPERTIES:
+:SRC: MENG 3A03:15 tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:20a24:1::所以 / 孟子
+:CHARPOS: 1
+:END:
+*** 別@bié
+:PROPERTIES:
+:CONCEPT: uuid-e63bd8cd-4eea-4be6-adb2-c1f5170986c8 / DIVIDE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+別@bié	[[tls:concept:DIVIDE::#uuid-e63bd8cd-4eea-4be6-adb2-c1f5170986c8][DIVIDE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / separate out (into its parts, or as a separate part); move apart; keep apart
+** 5.4有為神農之言者許行	There was a man by the name of Hsy Hsing who preached the eachings of Shen Nung.
+:PROPERTIES:
+:SRC: MENG 3A04:01; tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:21a01:1::5. / 孟子
+:CHARPOS: 1
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-e3df0ba1-a50c-43f8-8dd9-c2a45c20c7a4 / STUDY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+為@wéi	[[tls:concept:STUDY::#uuid-e3df0ba1-a50c-43f8-8dd9-c2a45c20c7a4][STUDY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / study and live up to
+** 踵門而告文公曰	went up to the gate and told Duke Wen,
+:PROPERTIES:
+:SRC: MENG 3A04:01; tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:21a03:1::踵門 / 孟子
+:CHARPOS: 1
+:END:
+*** 告@gào
+:PROPERTIES:
+:CONCEPT: uuid-4ebb9834-4f51-4725-adce-92706f750a13 / ADDRESS
+:SYN-FUNC: uuid-504ec124-c823-4cc6-a14a-913dc8c5c4b4
+:CHARPOS: 4
+:END:
+告@gào	[[tls:concept:ADDRESS::#uuid-4ebb9834-4f51-4725-adce-92706f750a13][ADDRESS]]	V [[tls:syn-func::#uuid-504ec124-c823-4cc6-a14a-913dc8c5c4b4][vtoN.+VtoS]] / addressing (someone)(say) 告眾曰
+** 聞君行仁政	have heard that you, my lord, practise benevolent government.
+:PROPERTIES:
+:SRC: MENG 3A04:01; tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:21a04:50::聞君 / 孟子
+:CHARPOS: 50
+:END:
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-651682b2-dddb-476f-a0dd-f671b8d80719 / BENEVOLENCE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 53
+:END:
+仁@rén	[[tls:concept:BENEVOLENCE::#uuid-651682b2-dddb-476f-a0dd-f671b8d80719][BENEVOLENCE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / referring to humane behaviour, characterised by humane behaviour
+** 願受一廛而為氓	I wish to be given a place to live and become one of your subjects."
+:PROPERTIES:
+:SRC: MENG 3A04:01; tr. D. C. Lau 1.101
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:21a05:50::願受 / 孟子
+:CHARPOS: 50
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-c102cc2b-db8d-49de-8c1b-efa5af18412d / BECOME
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:CHARPOS: 55
+:END:
+為@wéi	[[tls:concept:BECOME::#uuid-c102cc2b-db8d-49de-8c1b-efa5af18412d][BECOME]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] / become (ruler etc)
+** 道許行之言曰	and cited the words of Hsy Hsing.
+:PROPERTIES:
+:SRC: MENG 3A04:04; tr. D. C. Lau 1.103
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:26a02:1::道許 / 孟子
+:CHARPOS: 1
+:END:
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-a26cf40d-b0ab-40ae-83c4-a3010c4e81e1 / SENTENCE
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 5
+:END:
+言@yán	[[tls:concept:SENTENCE::#uuid-a26cf40d-b0ab-40ae-83c4-a3010c4e81e1][SENTENCE]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / statements; pronouncements; utterances
+** 賢者與民並耕而食	To earn his keep a good and wise ruler shares the work of tilling the land with his people.
+:PROPERTIES:
+:SRC: MENG 3A04:04; tr. D. C. Lau 1.103
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:26a06:1::賢者 / 孟子
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1 / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: the man of talent and moral worth (at any time and in any place)
+*** 並@bìng
+:PROPERTIES:
+:CONCEPT: uuid-19581dc6-8143-452f-9232-abee629a6a05 / TOGETHER
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 5
+:END:
+並@bìng	[[tls:concept:TOGETHER::#uuid-19581dc6-8143-452f-9232-abee629a6a05][TOGETHER]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / shoulder to shoulder, together, side by side; momentaneously; at the same time; 十日並出
+** 饔飧而治	He rules while cooking his own meals.
+:PROPERTIES:
+:SRC: MENG 3A04:04; tr. D. C. Lau 1.103
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:26a07:50::饔飧 / 孟子
+:CHARPOS: 50
+:END:
+*** 饔@yōng
+:PROPERTIES:
+:CONCEPT: uuid-4f93a154-bba1-4456-940c-3a5bce198a5f / FOOD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+饔@yōng	[[tls:concept:FOOD::#uuid-4f93a154-bba1-4456-940c-3a5bce198a5f][FOOD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / MENG 3A4: make one's own food for breakfast [really for breakfast or prepare food in general??][CA]
+*** 飧@sūn
+:PROPERTIES:
+:CONCEPT: uuid-fe6aef59-0086-4994-a2bc-7ae4a77aaf20 / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 51
+:END:
+飧@sūn	[[tls:concept:FOOD::#uuid-fe6aef59-0086-4994-a2bc-7ae4a77aaf20][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / food for general sustenance while at home [someimtes referring to the food consumed during the evening meal][CA]
+** 今也滕有倉廩府庫	Now T'eng has granaries and treasuries.
+:PROPERTIES:
+:SRC: MENG 3A04:04; tr. D. C. Lau 1.103
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:26a08:50::今也 / 孟子
+:CHARPOS: 50
+:END:
+*** 今也@jīnyě
+:PROPERTIES:
+:CONCEPT: uuid-be96e5d9-642f-4745-9148-7f0ecbca70b7 / NOW
+:SYN-FUNC: uuid-02c38bc6-493a-4bef-8b5e-2c5b3d623908
+:CHARPOS: 50
+:END:
+今也@jīnyě	[[tls:concept:NOW::#uuid-be96e5d9-642f-4745-9148-7f0ecbca70b7][NOW]]	N [[tls:syn-func::#uuid-02c38bc6-493a-4bef-8b5e-2c5b3d623908][NPadS]] / now
+*** 倉廩@cānglǐn
+:PROPERTIES:
+:CONCEPT: uuid-dba36211-1aa1-45e8-a88f-2ecdb1d7993d / STOREHOUSE
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 54
+:END:
+倉廩@cānglǐn	[[tls:concept:STOREHOUSE::#uuid-dba36211-1aa1-45e8-a88f-2ecdb1d7993d][STOREHOUSE]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the storehouses/granarie LSCQ
+*** 府庫@fǔkù
+:PROPERTIES:
+:CONCEPT: uuid-50925254-92b8-441c-8205-d81444ee3664 / STOREHOUSE
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 56
+:END:
+府庫@fǔkù	[[tls:concept:STOREHOUSE::#uuid-50925254-92b8-441c-8205-d81444ee3664][STOREHOUSE]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / treasuries and arsenals
+** 則是厲民而以自養也	This is for the prince to inflict hardship on the people in order to keep himself.
+:PROPERTIES:
+:SRC: MENG 3A04:04; tr. D. C. Lau 1.103
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:26a09:50::則是 / 孟子
+:CHARPOS: 50
+:END:
+*** 則是@zéshì
+:PROPERTIES:
+:CONCEPT: uuid-cace0ec3-9987-4020-991b-6c7a2868bd80 / THIS
+:SYN-FUNC: uuid-c01f61cb-4895-4a13-a871-a6d8e2351e78
+:CHARPOS: 50
+:END:
+則是@zéshì	[[tls:concept:THIS::#uuid-cace0ec3-9987-4020-991b-6c7a2868bd80][THIS]]	P [[tls:syn-func::#uuid-c01f61cb-4895-4a13-a871-a6d8e2351e78][PP+Nab{PRED}.postS]] / And this (is of the Nab type)
+*** 養@yǎng
+:PROPERTIES:
+:CONCEPT: uuid-7215ea08-62b3-4392-baa1-f656ef463cd0 / REAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 57
+:END:
+養@yǎng	[[tls:concept:REAR::#uuid-7215ea08-62b3-4392-baa1-f656ef463cd0][REAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / nourish (oneself)
+** 許子必種粟而後食乎	asked Mencius.
+:PROPERTIES:
+:SRC: MENG 3A04:05; tr. D. C. Lau 1.103
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:27a02:1::「許 / 孟子
+:CHARPOS: 1
+:END:
+*** 種@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-900a3b47-18b5-4b63-8e43-4fb5df55fe6e / SOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+種@zhòng	[[tls:concept:SOW::#uuid-900a3b47-18b5-4b63-8e43-4fb5df55fe6e][SOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to sow (seeds of a plant); to plant (a tree)
+** 自織之與	"Does he weave it himself?"
+:PROPERTIES:
+:SRC: MENG 3A04:06; tr. D. C. Lau 1.103
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:35a02:1::「自 / 孟子
+:CHARPOS: 1
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-f6841059-ed39-40d9-a595-5df634040bd3 / PERSONALLY
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:CHARPOS: 1
+:END:
+自@zì	[[tls:concept:PERSONALLY::#uuid-f6841059-ed39-40d9-a595-5df634040bd3][PERSONALLY]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] / oneself, in person; by oneself (Perhaps this should be npro+V[PRED]. I do not know how one would argue one way or the other.)
+** 許子奚為不自織	"Why does hsy Tzu not weave it himself?"
+:PROPERTIES:
+:SRC: MENG 3A04:07; tr. D. C. Lau 1.103
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:37a02:1::「許 / 孟子
+:CHARPOS: 1
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-a9b42b09-6b3f-4056-b6d8-93e39612ba51 / SELF
+:SYN-FUNC: uuid-2244dc18-43c6-4f5e-8911-77bc8700e1d5
+:CHARPOS: 6
+:END:
+自@zì	[[tls:concept:SELF::#uuid-a9b42b09-6b3f-4056-b6d8-93e39612ba51][SELF]]	N [[tls:syn-func::#uuid-2244dc18-43c6-4f5e-8911-77bc8700e1d5][npro+Vt(oN)]] / V the contextually determinate object oneself
+** 自為之與	"Does he make them himself?"
+:PROPERTIES:
+:SRC: MENG 3A04:08; tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:41a01:1::「自 / 孟子
+:CHARPOS: 1
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-d4f11f1b-342e-4d42-8492-a46f557fe259 / SELF
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 1
+:END:
+自@zì	[[tls:concept:SELF::#uuid-d4f11f1b-342e-4d42-8492-a46f557fe259][SELF]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / contrastive: oneself, by oneself[PERVASIVELY DIFFICULT TO DISTINGUISH FROM THE "PERSONALLY npro.adV"] Latin: semet ipse (not semet ipsum!)
+** 有大人之事	There are the affairs of great men,
+:PROPERTIES:
+:SRC: MENG 3A04:10 tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:45a02:1::有大 / 孟子
+:CHARPOS: 1
+:END:
+*** 大人@dàrén
+:PROPERTIES:
+:CONCEPT: uuid-85cb8b5f-1c1a-41e3-a02b-6a5e00c953dd / OFFICIAL
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+大人@dàrén	[[tls:concept:OFFICIAL::#uuid-85cb8b5f-1c1a-41e3-a02b-6a5e00c953dd][OFFICIAL]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / men of importance in public life
+** 有小人之事	and there are the affairs of small men.
+:PROPERTIES:
+:SRC: MENG 3A04:10 tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:45a03:50::有小 / 孟子
+:CHARPOS: 50
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-acad86b1-1b2a-41c0-bb34-4451ad917235 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 51
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-acad86b1-1b2a-41c0-bb34-4451ad917235][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / person of ordinary low status, close to 庶人
+** 且一人之身	Moreover, it is necessary for each man
+:PROPERTIES:
+:SRC: MENG 3A04:10 tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:45a04:50::且一 / 孟子
+:CHARPOS: 50
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-985d4855-8fe0-421b-a88f-7b9084888a65 / SELF
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:CHARPOS: 54
+:END:
+身@shēn	[[tls:concept:SELF::#uuid-985d4855-8fe0-421b-a88f-7b9084888a65][SELF]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] / contrastive: oneself; the person him/herself 吾身,寡人之身
+** 或勞心	'There are those who use their minds
+:PROPERTIES:
+:SRC: MENG 3A04:11 tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:45a09:1::『或 / 孟子
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 或勞力	and there are those who use their musles.
+:PROPERTIES:
+:SRC: MENG 3A04:11 tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:45a10:50::或勞 / 孟子
+:CHARPOS: 50
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 50
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 氾濫於天下	inundating the Empire;
+:PROPERTIES:
+:SRC: MENG 3A04:12 tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:46a04:1::氾濫 / 孟子
+:CHARPOS: 1
+:END:
+*** 氾@fàn
+:PROPERTIES:
+:CONCEPT: uuid-e9b35693-7b0b-4eb0-aadf-56f3b40544b6 / FLOOD
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 1
+:END:
+氾@fàn	[[tls:concept:FLOOD::#uuid-e9b35693-7b0b-4eb0-aadf-56f3b40544b6][FLOOD]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / flood, overflow into
+*** 濫@làn
+:PROPERTIES:
+:CONCEPT: uuid-1380e5f4-546d-4134-bd25-a342d0ba8d4d / FLOOD
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 2
+:END:
+濫@làn	[[tls:concept:FLOOD::#uuid-1380e5f4-546d-4134-bd25-a342d0ba8d4d][FLOOD]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / overflow
+** 禽獸偪人	birds and beasts encroached upon men,
+:PROPERTIES:
+:SRC: MENG 3A04:12 tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:46a08:1::禽獸 / 孟子
+:CHARPOS: 1
+:END:
+*** 禽獸@qínshòu
+:PROPERTIES:
+:CONCEPT: uuid-9b3cf423-0b6b-4ae3-8026-52b85427b2c9 / ANIMAL
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CONCEPT: uuid-9301c6f3-d659-40bd-a030-2690aa6fff48 / THREATEN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+禽獸@qínshòu	[[tls:concept:ANIMAL::#uuid-9b3cf423-0b6b-4ae3-8026-52b85427b2c9][ANIMAL]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / birds and beasts; a mere animal
+〓#逼@bī / 逼@bī	[[tls:concept:THREATEN::#uuid-9301c6f3-d659-40bd-a030-2690aa6fff48][THREATEN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / encroach on, exert pressure on; exert undue pressure on (those above or below)
+** 益烈山澤而焚之	Yi ringed off the mountains and valleys and set them alight,
+:PROPERTIES:
+:SRC: MENG 3A04:13 tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:46a13:1::益烈 / 孟子
+:CHARPOS: 1
+:END:
+*** 焚@fén
+:PROPERTIES:
+:CONCEPT: uuid-4f487d0c-421a-4048-b5d2-129f9352b4e9 / BURN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+焚@fén	[[tls:concept:BURN::#uuid-4f487d0c-421a-4048-b5d2-129f9352b4e9][BURN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / burn up, burn down; set fire to; scorch
+** 禽獸逃匿	and the birds and the beasts went into hiding.
+:PROPERTIES:
+:SRC: MENG 3A04:13 tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:46a14:50::禽獸 / 孟子
+:CHARPOS: 50
+:END:
+*** 禽獸@qínshòu
+:PROPERTIES:
+:CONCEPT: uuid-9b3cf423-0b6b-4ae3-8026-52b85427b2c9 / ANIMAL
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+禽獸@qínshòu	[[tls:concept:ANIMAL::#uuid-9b3cf423-0b6b-4ae3-8026-52b85427b2c9][ANIMAL]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / birds and beasts; a mere animal
+*** 逃匿@táonì
+:PROPERTIES:
+:CONCEPT: uuid-3bb38d9c-0b7b-433b-8ad9-7e4a4a26781c / CONCEAL
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 52
+:END:
+逃匿@táonì	[[tls:concept:CONCEAL::#uuid-3bb38d9c-0b7b-433b-8ad9-7e4a4a26781c][CONCEAL]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / flee so as to go into hiding
+*** 匿@nì
+:PROPERTIES:
+:CONCEPT: uuid-06a311ae-ca39-40a5-abf6-2e28016ab2cb / CONCEAL
+:SYN-FUNC: uuid-b7389587-f098-4784-92fb-2c802547dd5f
+:SEM-FEAT: uuid-f3627213-d242-4f27-bc6e-30516ccbd201
+:CHARPOS: 53
+:END:
+匿@nì	[[tls:concept:CONCEAL::#uuid-06a311ae-ca39-40a5-abf6-2e28016ab2cb][CONCEAL]]	V [[tls:syn-func::#uuid-b7389587-f098-4784-92fb-2c802547dd5f][vt{oN{REFLEX}}]] {[[tls:sem-feat::#uuid-f3627213-d242-4f27-bc6e-30516ccbd201][reflexive]]} / hide away
+** 后稷教民稼穡	Hou Chi taught the people how to farm
+:PROPERTIES:
+:SRC: MENG 3A04:14 tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:47a01:1::「后 / 孟子
+:CHARPOS: 1
+:END:
+*** 教@jiào
+:PROPERTIES:
+:CONCEPT: uuid-65a21240-d50a-4f57-9bd3-ed8550d86447 / TEACH
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 3
+:END:
+教@jiào	[[tls:concept:TEACH::#uuid-65a21240-d50a-4f57-9bd3-ed8550d86447][TEACH]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / teach (someone N1) (a subject N2)
+*** 稼穡@jiàsè
+:PROPERTIES:
+:CONCEPT: uuid-ce9fb513-993c-419d-837a-280c3e829f3b / AGRICULTURE
+:SYN-FUNC: uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+稼穡@jiàsè	[[tls:concept:AGRICULTURE::#uuid-ce9fb513-993c-419d-837a-280c3e829f3b][AGRICULTURE]]	N [[tls:syn-func::#uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54][NPab{N1&N2}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (sow and harvest>) husbandry; agricultural production
+** 五穀熟而民人育	When these ripened,
+:PROPERTIES:
+:SRC: MENG 3A04:14 tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:47a03:1::五穀 / 孟子
+:CHARPOS: 1
+:END:
+*** 民人@mínrén
+:PROPERTIES:
+:CONCEPT: uuid-660009c4-c14e-4554-abe0-d5813ab7d64f / PEOPLE
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 5
+:END:
+民人@mínrén	[[tls:concept:PEOPLE::#uuid-660009c4-c14e-4554-abe0-d5813ab7d64f][PEOPLE]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / population; the people in general
+*** 育@yù
+:PROPERTIES:
+:CONCEPT: uuid-e997a55b-8704-42a0-a4fa-90471586b465 / REAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 7
+:END:
+育@yù	[[tls:concept:REAR::#uuid-e997a55b-8704-42a0-a4fa-90471586b465][REAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be nurtured; be raised; be properly nurtured
+** 則近於禽獸	they degenerate to the level of animals if they are allowed to lead idle lives, without education and discipline.
+:PROPERTIES:
+:SRC: MENG 3A04:15 tr. D. C. Lau 1.105
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:47a07:1::則近 / 孟子
+:CHARPOS: 1
+:END:
+*** 禽獸@qínshòu
+:PROPERTIES:
+:CONCEPT: uuid-9b3cf423-0b6b-4ae3-8026-52b85427b2c9 / ANIMAL
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 4
+:END:
+禽獸@qínshòu	[[tls:concept:ANIMAL::#uuid-9b3cf423-0b6b-4ae3-8026-52b85427b2c9][ANIMAL]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / birds and beasts; a mere animal
+** 教以人倫	whose duty was to teach the people human relationships:
+:PROPERTIES:
+:SRC: MENG 3A04:16 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:47a10:1::教以 / 孟子
+:CHARPOS: 1
+:END:
+*** 人倫@rénlún
+:PROPERTIES:
+:CONCEPT: uuid-c3119ec3-2c5a-4893-83e4-cc73757f8ce8 / PRINCIPLE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 3
+:END:
+人倫@rénlún	[[tls:concept:PRINCIPLE::#uuid-c3119ec3-2c5a-4893-83e4-cc73757f8ce8][PRINCIPLE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / principles underlying human relations and moral behaviour; proper human relations; standards of proper human conduct
+** 君臣有義	duty between ruler and subject,
+:PROPERTIES:
+:SRC: MENG 3A04:16 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:47a12:1::君臣 / 孟子
+:CHARPOS: 1
+:END:
+*** 君臣@jūnchén
+:PROPERTIES:
+:CONCEPT: uuid-881976fb-7561-4859-bba2-2ee44d266658 / RULER
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-7579a42d-5694-455f-917c-626d5918a255
+:CHARPOS: 1
+:END:
+君臣@jūnchén	[[tls:concept:RULER::#uuid-881976fb-7561-4859-bba2-2ee44d266658][RULER]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-7579a42d-5694-455f-917c-626d5918a255][relational]]} / relationship between ruler and subject
+** 夫婦有別	distinction between husband and wife,
+:PROPERTIES:
+:SRC: MENG 3A04:16 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:47a13:50::夫婦 / 孟子
+:CHARPOS: 50
+:END:
+*** 別@bié
+:PROPERTIES:
+:CONCEPT: uuid-634eeaa2-17e9-4084-9d6b-0dd5db213871 / DISTINGUISH
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+別@bié	[[tls:concept:DISTINGUISH::#uuid-634eeaa2-17e9-4084-9d6b-0dd5db213871][DISTINGUISH]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / proper distinction made, segregationm also in practice as between men and women (contrast DIFFERENT)
+** 朋友有信	and faith between friends.
+:PROPERTIES:
+:SRC: MENG 3A04:16 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:47a15:1::朋友 / 孟子
+:CHARPOS: 1
+:END:
+*** 朋友@péngyǒu
+:PROPERTIES:
+:CONCEPT: uuid-d14e4f7d-89e5-4fd6-832d-bac83673f3aa / FRIEND
+:SYN-FUNC: uuid-0c513944-f90e-42df-a8ad-65300f05c945
+:SEM-FEAT: uuid-f3627213-d242-4f27-bc6e-30516ccbd201
+:CHARPOS: 1
+:END:
+朋友@péngyǒu	[[tls:concept:FRIEND::#uuid-d14e4f7d-89e5-4fd6-832d-bac83673f3aa][FRIEND]]	N [[tls:syn-func::#uuid-0c513944-f90e-42df-a8ad-65300f05c945][NP{post-N}]] {[[tls:sem-feat::#uuid-f3627213-d242-4f27-bc6e-30516ccbd201][reflexive]]} / one's own friend or colleague (of of any kind, singular or plural!)
+** 匡之直之	Put them on the right path,
+:PROPERTIES:
+:SRC: MENG 3A04:17 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:47a18:1::匡之 / 孟子
+:CHARPOS: 1
+:END:
+*** 匡@kuāng
+:PROPERTIES:
+:CONCEPT: uuid-49e4d502-11c5-44b9-b158-f998f8108cdc / HELP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+匡@kuāng	[[tls:concept:HELP::#uuid-49e4d502-11c5-44b9-b158-f998f8108cdc][HELP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / assist; act as an assistant to; help out; come to the aid to
+*** 直@zhí
+:PROPERTIES:
+:CONCEPT: uuid-212d1c6c-dbb7-4f97-b991-47965cfbe0cb / GOOD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 3
+:END:
+直@zhí	[[tls:concept:GOOD::#uuid-212d1c6c-dbb7-4f97-b991-47965cfbe0cb][GOOD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / make somebody morally straight
+** 輔之翼之	Aid them and help them,
+:PROPERTIES:
+:SRC: MENG 3A04:17 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:47a19:50::輔之 / 孟子
+:CHARPOS: 50
+:END:
+*** 輔@fǔ
+:PROPERTIES:
+:CONCEPT: uuid-eea17c2d-f685-4f44-ac67-282e161592ad / HELP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+輔@fǔ	[[tls:concept:HELP::#uuid-eea17c2d-f685-4f44-ac67-282e161592ad][HELP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to help; be of use to; to support (normally rulers, but occasionally wicked persons or practices); to assist (the exercise of proper government)
+*** 翼@yì
+:PROPERTIES:
+:CONCEPT: uuid-e68b90df-5476-4516-85a9-5ba3dccda34c / HELP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+翼@yì	[[tls:concept:HELP::#uuid-e68b90df-5476-4516-85a9-5ba3dccda34c][HELP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / support
+** 聖人之憂民如此	The Sage worried to this extent about the affairs of the people.
+:PROPERTIES:
+:SRC: MENG 3A04:17 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:47a22:1::聖人 / 孟子
+:CHARPOS: 1
+:END:
+*** 如@rú
+:PROPERTIES:
+:CONCEPT: uuid-51ccf0aa-0700-4290-bd4b-c626b27b4eec / RESEMBLE
+:SYN-FUNC: uuid-9b6b7c29-974b-458d-9ac2-81bccca85f5c
+:SEM-FEAT: uuid-700d1616-5f13-45db-9081-2fbcd7ab5920
+:CHARPOS: 6
+:END:
+如@rú	[[tls:concept:RESEMBLE::#uuid-51ccf0aa-0700-4290-bd4b-c626b27b4eec][RESEMBLE]]	V [[tls:syn-func::#uuid-9b6b7c29-974b-458d-9ac2-81bccca85f5c][vtoN1.postadVtoN2]] {[[tls:sem-feat::#uuid-700d1616-5f13-45db-9081-2fbcd7ab5920][N1 compared to N2]]} / 養民如子 like (comparison being with the V-ing of N2, the object of the preceding transitive verb with the V-ing of N1)　
+** 而暇耕乎	How could he have leisure to plough the fields?
+:PROPERTIES:
+:SRC: MENG 3A04:17 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:47a23:50::而暇 / 孟子
+:CHARPOS: 50
+:END:
+*** 暇@xiá
+:PROPERTIES:
+:CONCEPT: uuid-3f709886-9fd1-44a8-83ea-ffe01273100e / LEISURE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+暇@xiá	[[tls:concept:LEISURE::#uuid-3f709886-9fd1-44a8-83ea-ffe01273100e][LEISURE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / have the time to, have the opportunity to
+** 舜以不得禹皋陶為己憂	and Shun's only worry was that he should fail to find someone like Yü and Kao Yao.
+:PROPERTIES:
+:SRC: MENG 3A04:18 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:48a02:1::舜以 / 孟子
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-8cb1f513-e355-4bfd-b52c-aa2b4dcd934c / SELF
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 9
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-8cb1f513-e355-4bfd-b52c-aa2b4dcd934c][SELF]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / emphatic or contrastive form of 其； (often but not always contrastive:) one's his/her/its own N; all of one's own (and special)
+** 夫以百畝之不易為己憂者	He who worries about his plot of a hundred mu not being well cultivated
+:PROPERTIES:
+:SRC: MENG 3A04:18 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:48a03:50::夫以 / 孟子
+:CHARPOS: 50
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-8cb1f513-e355-4bfd-b52c-aa2b4dcd934c / SELF
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 58
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-8cb1f513-e355-4bfd-b52c-aa2b4dcd934c][SELF]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / emphatic or contrastive form of 其； (often but not always contrastive:) one's his/her/its own N; all of one's own (and special)
+** 農夫也	is a mere farmer.
+:PROPERTIES:
+:SRC: MENG 3A04:18 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:48a04:50::農夫 / 孟子
+:CHARPOS: 50
+:END:
+*** 農夫@nóngfū
+:PROPERTIES:
+:CONCEPT: uuid-dca5741b-6321-48f6-a3b9-2ea555c1cd6e / PEASANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 50
+:END:
+農夫@nóngfū	[[tls:concept:PEASANT::#uuid-dca5741b-6321-48f6-a3b9-2ea555c1cd6e][PEASANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / farmer; peasant
+** 教人以善謂之忠	to teach others to be good is conscientiousness;
+:PROPERTIES:
+:SRC: MENG 3A04:18 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:48a06:1::教人 / 孟子
+:CHARPOS: 1
+:END:
+*** 教@jiào
+:PROPERTIES:
+:CONCEPT: uuid-02d0a0ba-4d5f-46ee-94ea-165a52627cdc / TEACH
+:SYN-FUNC: uuid-cbb92823-4092-4552-8cbd-4883113a5422
+:CHARPOS: 1
+:END:
+教@jiào	[[tls:concept:TEACH::#uuid-02d0a0ba-4d5f-46ee-94ea-165a52627cdc][TEACH]]	V [[tls:syn-func::#uuid-cbb92823-4092-4552-8cbd-4883113a5422][vttoN1+.vtoN2]] / instruct someone in a subject 教X以Y
+** 為天下得人者謂之仁	to find the right man for the Empire is benevolence.
+:PROPERTIES:
+:SRC: MENG 3A04:18 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:48a07:50::為天 / 孟子
+:CHARPOS: 50
+:END:
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-65ebad9e-7e1c-45d7-aef0-7c0b174dc125 / GOOD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 58
+:END:
+仁@rén	[[tls:concept:GOOD::#uuid-65ebad9e-7e1c-45d7-aef0-7c0b174dc125][GOOD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / moral excellence; goodness; goodness of heart
+** 亦不用於耕耳	Only they did not use their minds on ploughing the fields.
+:PROPERTIES:
+:SRC: MENG 3A04:20 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:48a19:1::亦不 / 孟子
+:CHARPOS: 1
+:END:
+*** 亦@yì
+:PROPERTIES:
+:CONCEPT: uuid-3493aa28-6f02-4120-94a9-8e715b613632 / CERTAIN
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 1
+:END:
+亦@yì	[[tls:concept:CERTAIN::#uuid-3493aa28-6f02-4120-94a9-8e715b613632][CERTAIN]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / surely！ surely, like everyone else
+** 吾聞用夏變夷者	I have heard of the Chinese converting the barbarians to their ways,
+:PROPERTIES:
+:SRC: MENG 3A04:20 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:49a01:1::「吾 / 孟子
+:CHARPOS: 1
+:END:
+*** 夏@xià
+:PROPERTIES:
+:CONCEPT: uuid-0dd19724-37e5-4cd5-bf7e-6f02e511eec1 / CHINA
+:SYN-FUNC: uuid-20a87134-926d-4be7-8815-246c1f7a9ca7
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 4
+:END:
+夏@xià	[[tls:concept:CHINA::#uuid-0dd19724-37e5-4cd5-bf7e-6f02e511eec1][CHINA]]	 [[tls:syn-func::#uuid-20a87134-926d-4be7-8815-246c1f7a9ca7][n{adN}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / the Chinese;
+*** 夷@yí
+:PROPERTIES:
+:CONCEPT: uuid-6847aaec-feaf-463d-bc06-c297e11e282a / BARBARIAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 6
+:END:
+夷@yí	[[tls:concept:BARBARIAN::#uuid-6847aaec-feaf-463d-bc06-c297e11e282a][BARBARIAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / barbarians
+** 未聞變於夷者也	but not of their being converted to barbarian ways.
+:PROPERTIES:
+:SRC: MENG 3A04:20 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:49a02:50::未聞 / 孟子
+:CHARPOS: 50
+:END:
+*** 夷@yí
+:PROPERTIES:
+:CONCEPT: uuid-6847aaec-feaf-463d-bc06-c297e11e282a / BARBARIAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 54
+:END:
+夷@yí	[[tls:concept:BARBARIAN::#uuid-6847aaec-feaf-463d-bc06-c297e11e282a][BARBARIAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / barbarians
+** 悅周公仲尼之道	Being delighted with the way of the Duke of Chou and Confucius,
+:PROPERTIES:
+:SRC: MENG 3A04:21 tr. D. C. Lau 1.107
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:49a05:1::悅周 / 孟子
+:CHARPOS: 1
+:END:
+*** 悅@yuè / 說@yuè
+:PROPERTIES:
+:CONCEPT: uuid-142a28cc-e45a-4823-911e-d253b3bd1278 / DELIGHT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 1
+:END:
+悅@yuè / 說@yuè	[[tls:concept:DELIGHT::#uuid-142a28cc-e45a-4823-911e-d253b3bd1278][DELIGHT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / find fully satisfactory, delight in as ideal; be delighted with; appreciate positively 甚悅之
+** 昔者孔子沒	When Confucius died
+:PROPERTIES:
+:SRC: MENG 3A04:22 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:49a12:1::昔者 / 孟子
+:CHARPOS: 1
+:END:
+*** 沒@mò / 歿@mò
+:PROPERTIES:
+:CONCEPT: uuid-7b4e4b7e-764c-4019-9d9f-f0a22f0a934a / DIE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 5
+:END:
+沒@mò / 歿@mò	[[tls:concept:DIE::#uuid-7b4e4b7e-764c-4019-9d9f-f0a22f0a934a][DIE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / die; have died, be dead
+** 築室於場	build a hut in the burial grounds
+:PROPERTIES:
+:SRC: MENG 3A04:22 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:49a20:1::築室 / 孟子
+:CHARPOS: 1
+:END:
+*** 築@zhù
+:PROPERTIES:
+:CONCEPT: uuid-7c8a3770-9a09-44c3-aa7c-27f2c570035f / BUILD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+築@zhù	[[tls:concept:BUILD::#uuid-7c8a3770-9a09-44c3-aa7c-27f2c570035f][BUILD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / build with earth [SHI]; build from scratch, erect
+** 然後歸	before going home.
+:PROPERTIES:
+:SRC: MENG 3A04:22 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:49a22:1::然後 / 孟子
+:CHARPOS: 1
+:END:
+*** 然後@ránhòu
+:PROPERTIES:
+:CONCEPT: uuid-3ad10eb4-f7d9-440c-94eb-e9ea902dfa68 / ONLY THEN
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-f7823965-d29e-4ca7-ab59-52cfeb09515c
+:CHARPOS: 1
+:END:
+然後@ránhòu	[[tls:concept:ONLY THEN::#uuid-3ad10eb4-f7d9-440c-94eb-e9ea902dfa68][ONLY THEN]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-f7823965-d29e-4ca7-ab59-52cfeb09515c][temporal]]} / only after that time
+** 江漢以濯之	Washed by the River and the river Han,
+:PROPERTIES:
+:SRC: MENG 3A04:23 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:49a30:1::江漢 / 孟子
+:CHARPOS: 1
+:END:
+*** 濯@zhuó
+:PROPERTIES:
+:CONCEPT: uuid-6d1d0b1e-a854-46ef-a39e-7c049c6447c5 / WASH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+濯@zhuó	[[tls:concept:WASH::#uuid-6d1d0b1e-a854-46ef-a39e-7c049c6447c5][WASH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / wash
+** 皜皜乎不可尚已	so immaculate was he that his whiteness could not be surpassed.'
+:PROPERTIES:
+:SRC: MENG 3A04:23 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:49a32:1::皜皜 / 孟子
+:CHARPOS: 1
+:END:
+*** 尚@shàng
+:PROPERTIES:
+:CONCEPT: uuid-1629a406-0400-4bb9-9094-423d2bb25099 / WIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 6
+:END:
+尚@shàng	[[tls:concept:WIN::#uuid-1629a406-0400-4bb9-9094-423d2bb25099][WIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be surpassed
+** 吾聞出於幽谷	I have heard of coming out of the dark ravine
+:PROPERTIES:
+:SRC: MENG 3A04:24 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:49a37:1::吾聞 / 孟子
+:CHARPOS: 1
+:END:
+*** 幽@yōu
+:PROPERTIES:
+:CONCEPT: uuid-9cdc7841-a1bf-4d87-bece-484103d210c9 / DARK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 5
+:END:
+幽@yōu	[[tls:concept:DARK::#uuid-9cdc7841-a1bf-4d87-bece-484103d210c9][DARK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / dark and shady, dark and secluded (like a shadowy valley); overgrown
+** 遷于喬木者	and going up to settle on a tall tree,
+:PROPERTIES:
+:SRC: MENG 3A04:24 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:49a37:50::遷于 / 孟子
+:CHARPOS: 50
+:END:
+*** 遷@qiān
+:PROPERTIES:
+:CONCEPT: uuid-49e602b6-b970-4bd2-b757-492bbe41a46f / MOVE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-83f3fdd7-af64-4c8f-b156-bb6a0e761030
+:CHARPOS: 50
+:END:
+遷@qiān	[[tls:concept:MOVE::#uuid-49e602b6-b970-4bd2-b757-492bbe41a46f][MOVE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-83f3fdd7-af64-4c8f-b156-bb6a0e761030][N=place]]} / move to (a place); move within (a place)
+** 雖使五尺之童適市	Even if you send a mere boy to the market,
+:PROPERTIES:
+:SRC: MENG 3A04:26 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:50a04:1::雖使 / 孟子
+:CHARPOS: 1
+:END:
+*** 童@tóng
+:PROPERTIES:
+:CONCEPT: uuid-a598bf17-fec2-4482-ae8f-71305d237ab1 / BOY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+童@tóng	[[tls:concept:BOY::#uuid-a598bf17-fec2-4482-ae8f-71305d237ab1][BOY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / adolescent, youth from the age fifteen to about the age of twenty 十五成童
+** 布帛長短同	For equal lengths
+:PROPERTIES:
+:SRC: MENG 3A04:27 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:50a06:1::布帛 / 孟子
+:CHARPOS: 1
+:END:
+*** 長短@chángduǎn
+:PROPERTIES:
+:CONCEPT: uuid-b58bf5ef-418d-4d0a-b360-fa5fc2910c0c / LONG
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 3
+:END:
+長短@chángduǎn	[[tls:concept:LONG::#uuid-b58bf5ef-418d-4d0a-b360-fa5fc2910c0c][LONG]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / length
+** 麻縷絲絮輕重同	for equal weights hemp,
+:PROPERTIES:
+:SRC: MENG 3A04:27 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:50a08:1::麻縷 / 孟子
+:CHARPOS: 1
+:END:
+*** 輕重@qīngzhòng
+:PROPERTIES:
+:CONCEPT: uuid-4ec894c8-ccff-4fc4-9345-71fd07c575cd / WEIGHT
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:SEM-FEAT: uuid-17852714-0baf-4ffe-a62d-121e2270ff01
+:CHARPOS: 5
+:END:
+輕重@qīngzhòng	[[tls:concept:WEIGHT::#uuid-4ec894c8-ccff-4fc4-9345-71fd07c575cd][WEIGHT]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-17852714-0baf-4ffe-a62d-121e2270ff01][relative]]} / relative weight
+** 屨大小同	for shoes of the same size,
+:PROPERTIES:
+:SRC: MENG 3A04:27 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:50a12:1::屨大 / 孟子
+:CHARPOS: 1
+:END:
+*** 大小@dàxiǎo
+:PROPERTIES:
+:CONCEPT: uuid-02f6abc6-7814-4ac2-a90c-a2119e38d43e / SIZE
+:SYN-FUNC: uuid-b508886f-c59f-4e95-aef9-c8c38b206373
+:SEM-FEAT: uuid-736fb326-137c-451b-b1b8-faf4e0c9c909
+:CHARPOS: 2
+:END:
+大小@dàxiǎo	[[tls:concept:SIZE::#uuid-02f6abc6-7814-4ac2-a90c-a2119e38d43e][SIZE]]	N [[tls:syn-func::#uuid-b508886f-c59f-4e95-aef9-c8c38b206373][NPab{nab1ant.nab2}]] {[[tls:sem-feat::#uuid-736fb326-137c-451b-b1b8-faf4e0c9c909][quantity]]} / relative size
+** 或相什百	ten or a hundred times,
+:PROPERTIES:
+:SRC: MENG 3A04:28 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:51a05:1::或相 / 孟子
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+*** 什@shí
+:PROPERTIES:
+:CONCEPT: uuid-5d86cef2-1ee0-4e9a-993f-5a92ff3aee4a / TEN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 3
+:END:
+什@shí	[[tls:concept:TEN::#uuid-5d86cef2-1ee0-4e9a-993f-5a92ff3aee4a][TEN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be ten times superior to; be tenfold in relation to 相十
+** 或相千萬	even a thousand ten thousand times more than others.
+:PROPERTIES:
+:SRC: MENG 3A04:28 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:51a06:50::或相 / 孟子
+:CHARPOS: 50
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 50
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 子比而同之	If you reduce the me to the same level,
+:PROPERTIES:
+:SRC: MENG 3A04:29 tr. D. C. Lau 1.109
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:51a07:50::子比 / 孟子
+:CHARPOS: 50
+:END:
+*** 是亂天下也。¶
+:PROPERTIES:
+
+:CHARPOS: 50
+:END:
+是亂天下也。¶	it will only bring confusion to the Empire.
+*** # src: MENG 3A04:29 tr. D. C. Lau 1.109
+# dating: 8110
+:PROPERTIES:
+
+:CHARPOS: 50
+:END:
+# src: MENG 3A04:29 tr. D. C. Lau 1.109
+# dating: 8110	late Warring States
+巨屨小屨同賈，¶	If a roughly finished shoe sells at the same price as a finely finished one,
+人豈為之哉？¶	who would make the latter?
+從許子之道，¶	If we follow the way of Hsyn Tzu,
+相率而為偽者也，¶	we will be showing one another the way to being deceitful.
+惡能治國家？」<pb:KR1h0001_CHANT_005-52a>¶	How can one govern a state in this way?"
+*** :zhu:
+國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 50
+:END:
+:zhu:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation
+** 今吾尚病	"but at the moment I am not well.
+:PROPERTIES:
+:SRC: MENG 3A05:01; tr. D. C. Lau 1.111
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:52a04:1::今吾 / 孟子
+:CHARPOS: 1
+:END:
+*** 尚@shàng
+:PROPERTIES:
+:CONCEPT: uuid-0013a996-bccf-415a-b9d2-c9bb9eabab94 / STILL
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-4f4d14c8-c938-4b7e-bd27-e752d00e897b
+:CHARPOS: 3
+:END:
+尚@shàng	[[tls:concept:STILL::#uuid-0013a996-bccf-415a-b9d2-c9bb9eabab94][STILL]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-4f4d14c8-c938-4b7e-bd27-e752d00e897b][present]]} / still
+** 我且往見	I shall go to see him.
+:PROPERTIES:
+:SRC: MENG 3A05:01; tr. D. C. Lau 1.111
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:52a06:1::我且 / 孟子
+:CHARPOS: 1
+:END:
+*** 往@wǎng / @
+:PROPERTIES:
+:CONCEPT: uuid-284bc3a2-3755-4490-bb44-2f8bf3c13658 / GO TO
+:SYN-FUNC: uuid-f0884bf1-dffd-43d8-bbc0-93e11bfc6393
+:CHARPOS: 3
+:END:
+往@wǎng / @	[[tls:concept:GO TO::#uuid-284bc3a2-3755-4490-bb44-2f8bf3c13658][GO TO]]	V [[tls:syn-func::#uuid-f0884bf1-dffd-43d8-bbc0-93e11bfc6393][vt(oN1).-VtoN2]] / go to a contextually determinate place and V, set out to V; be on one's way to (with a verbal (or subjectless sentential, if one prefers) object) 往拜之
+** 夷子不來	There is no need for him to come here."
+:PROPERTIES:
+:SRC: MENG 3A05:01; tr. D. C. Lau 1.111
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:52a07:50::夷子 / 孟子
+:CHARPOS: 50
+:END:
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-6eb1555e-1e24-4d70-bccc-69bb80da6d9b / DON'T
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 52
+:END:
+不@bù	[[tls:concept:DON'T::#uuid-6eb1555e-1e24-4d70-bccc-69bb80da6d9b][DON'T]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / should not
+** 吾聞夷子墨者	I have heard that Yi Tzu is a Mohist.
+:PROPERTIES:
+:SRC: MENG 3A05:02; tr. D. C. Lau 1.111
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:53a06:1::吾聞 / 孟子
+:CHARPOS: 1
+:END:
+*** 墨者@mòzhě
+:PROPERTIES:
+:CONCEPT: uuid-e3d1a317-a1c8-49fe-b549-bcc69ecdfd43 / SCHOLAR
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 5
+:END:
+墨者@mòzhě	[[tls:concept:SCHOLAR::#uuid-e3d1a317-a1c8-49fe-b549-bcc69ecdfd43][SCHOLAR]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / Mohist; adherent of Mozi's school of philosophy
+** 則是以所賤事親也	In so doing, he treated his parents in a manner he did not esteem."
+:PROPERTIES:
+:SRC: MENG 3A05:03; tr. D. C. Lau 1.111
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:53a12:1::則是 / 孟子
+:CHARPOS: 1
+:END:
+*** 則是@zéshì
+:PROPERTIES:
+:CONCEPT: uuid-cace0ec3-9987-4020-991b-6c7a2868bd80 / THIS
+:SYN-FUNC: uuid-c01f61cb-4895-4a13-a871-a6d8e2351e78
+:CHARPOS: 1
+:END:
+則是@zéshì	[[tls:concept:THIS::#uuid-cace0ec3-9987-4020-991b-6c7a2868bd80][THIS]]	P [[tls:syn-func::#uuid-c01f61cb-4895-4a13-a871-a6d8e2351e78][PP+Nab{PRED}.postS]] / And this (is of the Nab type)
+** 徐子以告夷子	"Hsy Tzu reported this to Yi Tzu.
+:PROPERTIES:
+:SRC: MENG 3A05:03; tr. D. C. Lau 1.111
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:54a01:50::徐子 / 孟子
+:CHARPOS: 50
+:END:
+*** 告@gào
+:PROPERTIES:
+:CONCEPT: uuid-35948638-421b-4c71-a216-78d4220e7cc3 / REPORT
+:SYN-FUNC: uuid-f61ce0f3-6443-41fd-b221-244fb9b98322
+:CHARPOS: 53
+:END:
+告@gào	[[tls:concept:REPORT::#uuid-35948638-421b-4c71-a216-78d4220e7cc3][REPORT]]	V [[tls:syn-func::#uuid-f61ce0f3-6443-41fd-b221-244fb9b98322][vttoN1.post-vt(oN2)]] / inform (somebody N1) about a contextually determinate matter N2 以告x
+** 儒者之道	said Yi Tzu,
+:PROPERTIES:
+:SRC: MENG 3A05:04; tr. D. C. Lau 1.111
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:55a02:1::「儒 / 孟子
+:CHARPOS: 1
+:END:
+*** 儒者@rúzhě
+:PROPERTIES:
+:CONCEPT: uuid-80b5755b-67ee-4f9d-8e26-25395c21e35f / SCHOLAR
+:SYN-FUNC: uuid-e6a1583b-b641-4432-bdfa-875626f4526d
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+儒者@rúzhě	[[tls:concept:SCHOLAR::#uuid-80b5755b-67ee-4f9d-8e26-25395c21e35f][SCHOLAR]]	N [[tls:syn-func::#uuid-e6a1583b-b641-4432-bdfa-875626f4526d][NP{nadnpro}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / scholars; sometimes, especially when used in opposition to 墨者: Confucians
+** 若保赤子	'as if they were tending a new-born babe.'ī
+:PROPERTIES:
+:SRC: MENG 3A05:04; tr. D. C. Lau 1.111
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:55a02:50::『若 / 孟子
+:CHARPOS: 50
+:END:
+*** 赤子@chìzǐ
+:PROPERTIES:
+:CONCEPT: uuid-21af4a50-fde9-4efa-84dd-cb2ec3843aa5 / CHILD
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:CHARPOS: 52
+:END:
+赤子@chìzǐ	[[tls:concept:CHILD::#uuid-21af4a50-fde9-4efa-84dd-cb2ec3843aa5][CHILD]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] / little baby
+** 此言何謂也	What does this saying mean?
+:PROPERTIES:
+:SRC: MENG 3A05:04; tr. D. C. Lau 1.111
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:55a03:50::此言 / 孟子
+:CHARPOS: 50
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-8e8b8acb-9aa1-45b3-96f0-a3b9b414acd5 / THIS
+:SYN-FUNC: uuid-e81e5db1-7207-4450-a18d-27a597c5fd67
+:CHARPOS: 50
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-8e8b8acb-9aa1-45b3-96f0-a3b9b414acd5][THIS]]	N [[tls:syn-func::#uuid-e81e5db1-7207-4450-a18d-27a597c5fd67][npro.adNab]] / this 此說之難"These difficulties with persusasion"
+** 為若親其鄰之赤子乎	no more than his neighbour's new-born babe?
+:PROPERTIES:
+:SRC: MENG 3A05:05; tr. D. C. Lau 1.111
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:57a02:14::為若 / 孟子
+:CHARPOS: 14
+:END:
+*** 赤子@chìzǐ
+:PROPERTIES:
+:CONCEPT: uuid-21af4a50-fde9-4efa-84dd-cb2ec3843aa5 / CHILD
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:CHARPOS: 20
+:END:
+赤子@chìzǐ	[[tls:concept:CHILD::#uuid-21af4a50-fde9-4efa-84dd-cb2ec3843aa5][CHILD]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] / little baby
+** 則舉而委之於壑	they were thrown in the gullies.
+:PROPERTIES:
+:SRC: MENG 3A05:06; tr. D. C. Lau 1.111
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:57a11:1::則舉 / 孟子
+:CHARPOS: 1
+:END:
+*** 壑@hè
+:PROPERTIES:
+:CONCEPT: uuid-194bfbb6-1889-4517-8c38-c70a2771a45c / MOUNTAIN BROOK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 7
+:END:
+壑@hè	[[tls:concept:MOUNTAIN BROOK::#uuid-194bfbb6-1889-4517-8c38-c70a2771a45c][MOUNTAIN BROOK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / gully, brook; (often dirty) ditch
+** 夫泚也	the sweating
+:PROPERTIES:
+:SRC: MENG 3A05:07; tr. D. C. Lau 1.113
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:57a17:1::夫泚 / 孟子
+:CHARPOS: 1
+:END:
+*** 泚@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-3cdb6ef8-8a93-4ace-9df0-8e2546b41ade / SWEAT
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 2
+:END:
+泚@cǐ	[[tls:concept:SWEAT::#uuid-3cdb6ef8-8a93-4ace-9df0-8e2546b41ade][SWEAT]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / sweating
+** 中心達於面目	It was an outward expression fo their innermost heart.
+:PROPERTIES:
+:SRC: MENG 3A05:07; tr. D. C. Lau 1.113
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:57a19:1::中心 / 孟子
+:CHARPOS: 1
+:END:
+*** 中心@zhōngxīn
+:PROPERTIES:
+:CONCEPT: uuid-ede7ca2d-13c5-4940-94cb-ffca4448dcad / MIND
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+中心@zhōngxīn	[[tls:concept:MIND::#uuid-ede7ca2d-13c5-4940-94cb-ffca4448dcad][MIND]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / what lies at the bottom of one's heart, one's innermost sensibilities
+** 徐子以告夷子	Hsy Tzu repeated this to Yi Tzu
+:PROPERTIES:
+:SRC: MENG 3A05:08; tr. D. C. Lau 1.113
+:DATE: 8110	late Warring States
+:LOCATION: KR1h0001_005:58a01:1::徐子 / 孟子
+:CHARPOS: 1
+:END:
+*** 告@gào
+:PROPERTIES:
+:CONCEPT: uuid-35948638-421b-4c71-a216-78d4220e7cc3 / REPORT
+:SYN-FUNC: uuid-f61ce0f3-6443-41fd-b221-244fb9b98322
+:CHARPOS: 4
+:END:
+告@gào	[[tls:concept:REPORT::#uuid-35948638-421b-4c71-a216-78d4220e7cc3][REPORT]]	V [[tls:syn-func::#uuid-f61ce0f3-6443-41fd-b221-244fb9b98322][vttoN1.post-vt(oN2)]] / inform (somebody N1) about a contextually determinate matter N2 以告x

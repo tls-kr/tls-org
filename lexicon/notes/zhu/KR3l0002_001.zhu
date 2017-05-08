@@ -1,0 +1,228 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 世說新語 KR3l0002_001
+#+DATE: 2017-02-08T16:43:36+0900
+#+PROPERTY: COMMIT 9fe24b57c4cf883b37164098951b1fa5ecfbf640
+** 陳仲舉言為士則	Chén Fán's 蕃 words became a rule for gentlemen,
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3l0002_001:1a01:9::陳仲 / 世說新語
+:CHARPOS: 9
+:END:
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-58248328-733b-4587-bbd8-7c8aa830eebf / SPEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 12
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-58248328-733b-4587-bbd8-7c8aa830eebf][SPEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / statements of opinion, proposal; public or formal utterance which commits the speaker; pronouncement; public or formal pronouncement, public or formal suggestion; Sometimes less specifically: proposal; what one says, speech; language; public proposal, public speech, words
+*** 則@zé
+:PROPERTIES:
+:CONCEPT: uuid-7225d596-16eb-4f71-a63f-a8448754949e / MODEL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 15
+:END:
+則@zé	[[tls:concept:MODEL::#uuid-7225d596-16eb-4f71-a63f-a8448754949e][MODEL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / person who is a model
+** 行為世範	and in his acts a model for the world.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3l0002_001:1a02:50::行為 / 世說新語
+:CHARPOS: 50
+:END:
+*** 範@fàn
+:PROPERTIES:
+:CONCEPT: uuid-31c84ec4-157c-40c8-a8e7-5f421931543e / MODEL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 53
+:END:
+範@fàn	[[tls:concept:MODEL::#uuid-31c84ec4-157c-40c8-a8e7-5f421931543e][MODEL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / model
+** 登車攬轡	Whenever he mounted his carriage and grasped the reins
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3l0002_001:1a03:50::登車 / 世說新語
+:CHARPOS: 50
+:END:
+*** 攬@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-8710e103-f78b-4a9b-a6e5-312ff43d3140 / TAKE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+攬@lǎn	[[tls:concept:TAKE::#uuid-8710e103-f78b-4a9b-a6e5-312ff43d3140][TAKE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / grasp, take; pluck; stir
+*** 轡@pèi
+:PROPERTIES:
+:CONCEPT: uuid-f1e8ae27-b414-471e-b502-e3d7bf204e36 / REINS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+轡@pèi	[[tls:concept:REINS::#uuid-f1e8ae27-b414-471e-b502-e3d7bf204e36][REINS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / reins for any horse
+** 殷之賢人	was a worthy man of the Yin era,
+:PROPERTIES:
+:SRC: SSXY 1.1.4; Mather p. 1/2
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_001:1a52:1::殷之 / 世說新語
+:CHARPOS: 1
+:END:
+*** 賢人@xiánrén
+:PROPERTIES:
+:CONCEPT: uuid-1f7cef0a-bc90-468e-aafd-b7c78283ac0e / HERO
+:SYN-FUNC: uuid-7ff85022-daa6-4ec8-892f-23641dce0f0f
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+賢人@xiánrén	[[tls:concept:HERO::#uuid-1f7cef0a-bc90-468e-aafd-b7c78283ac0e][HERO]]	N [[tls:syn-func::#uuid-7ff85022-daa6-4ec8-892f-23641dce0f0f][NPpost-N]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the most worthy of the N; the most worthy in the N; a worthy on the N scale
+** 譬諸汎濫	is like overflowing waves;
+:PROPERTIES:
+:SRC: SSXY 1.3.4; Mather 3
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_001:3a47:1::譬諸 / 世說新語
+:CHARPOS: 1
+:END:
+*** 譬諸@pìzhū
+:PROPERTIES:
+:CONCEPT: uuid-beab9f57-99d7-4082-beea-016ca4f8e186 / RESEMBLE
+:SYN-FUNC: uuid-6c70a0a6-3c36-43e6-98b8-884e110ac8d4
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 1
+:END:
+譬諸@pìzhū	[[tls:concept:RESEMBLE::#uuid-beab9f57-99d7-4082-beea-016ca4f8e186][RESEMBLE]]	V [[tls:syn-func::#uuid-6c70a0a6-3c36-43e6-98b8-884e110ac8d4][VPt{0}+N]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / One may compare the thing to N. It is like (often preceded by what we take to be a topic rather than a subject, which is picked up referentially by the 之 hidden in 諸)
+** 邦國不空	That land and state do not lie waste—
+:PROPERTIES:
+:SRC: SSXY 1.14.2.2; Mather 6/7
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_001:14a61:1::邦國 / 世說新語
+:CHARPOS: 1
+:END:
+*** 邦國@bāngguó
+:PROPERTIES:
+:CONCEPT: uuid-b1c45a43-d238-44a2-b518-5594cbf2fbba / NATION
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+邦國@bāngguó	[[tls:concept:NATION::#uuid-b1c45a43-d238-44a2-b518-5594cbf2fbba][NATION]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the state
+** 曹夫人作簏	Mme. Cáo placed a seal on the boxes
+:PROPERTIES:
+:SRC: SSXY 1.29.2; Mather 15
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_001:29a26:1::曹夫 / 世說新語
+:CHARPOS: 1
+:END:
+*** 簏@lù
+:PROPERTIES:
+:CONCEPT: uuid-412f9adc-dd49-428a-aff9-da8727e7c486 / BOX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+簏@lù	[[tls:concept:BOX::#uuid-412f9adc-dd49-428a-aff9-da8727e7c486][BOX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / box; basket; hamper
+** 伯樂相馬經曰	HMC:
+:PROPERTIES:
+:SRC: SSXY 1.31.1; Mather 15/16
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_001:31a15:5::伯樂 / 世說新語
+:CHARPOS: 5
+:END:
+*** 相@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-e71419cc-e967-4191-9ade-6855fe667cf2 / ASSESS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+相@xiàng	[[tls:concept:ASSESS::#uuid-e71419cc-e967-4191-9ade-6855fe667cf2][ASSESS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / assess professionally by physiognomy applied to all parts of the body
+** 而二子不才	but his two sons (Ji and Xia) were incompetent,
+:PROPERTIES:
+:SRC: SSXY 1.36.1.1.1; Mather 17
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_001:36a10:1::而二 / 世說新語
+:CHARPOS: 1
+:END:
+*** 不才@bùcái
+:PROPERTIES:
+:CONCEPT: uuid-899a73cf-49de-491d-bfb6-eb4e9615a9f3 / INCOMPETENT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 4
+:END:
+不才@bùcái	[[tls:concept:INCOMPETENT::#uuid-899a73cf-49de-491d-bfb6-eb4e9615a9f3][INCOMPETENT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / have no particular talents; (by litotes:) be incompetent; be entirely devoid of ability, be devoid of talent
+** 吾之行事	"My own conduct of affairs
+:PROPERTIES:
+:SRC: SSXY 1.36.1.1.2; Mather 17
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_001:36a16:1::「吾 / 世說新語
+:CHARPOS: 1
+:END:
+*** 吾@wú / 䱷@yú
+:PROPERTIES:
+:CONCEPT: uuid-e2308961-f262-4304-a495-9e11e0902ba3 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-aeccff3b-b5dc-4421-b9ca-dbdd57a5fed6
+:CHARPOS: 1
+:END:
+吾@wú / 䱷@yú	[[tls:concept:EGO::#uuid-e2308961-f262-4304-a495-9e11e0902ba3][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-aeccff3b-b5dc-4421-b9ca-dbdd57a5fed6][marked]]} / my
+** 有參軍見鼠白日行	One of his aides saw a rat running in broad daylight
+:PROPERTIES:
+:SRC: SSXY 1.37.1; Mather 17
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_001:37a13:1::有參 / 世說新語
+:CHARPOS: 1
+:END:
+*** 白@bái
+:PROPERTIES:
+:CONCEPT: uuid-be5d6cbb-c5c9-4018-81e8-16784e942da3 / BRIGHT
+:SYN-FUNC: uuid-32ad3da0-3fd0-4fd9-a569-c054b78964a0
+:CHARPOS: 6
+:END:
+白@bái	[[tls:concept:BRIGHT::#uuid-be5d6cbb-c5c9-4018-81e8-16784e942da3][BRIGHT]]	V [[tls:syn-func::#uuid-32ad3da0-3fd0-4fd9-a569-c054b78964a0][vadN.adV]] / bright (daylight)
+** 使君口血未乾	"The blood of your sworn alliance with Yīn is not yet dry on your mouth,
+:PROPERTIES:
+:SRC: SSXY 1.43.1.2.6; Mather 20/21
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_001:nil61:1::『使 / 世說新語
+:CHARPOS: 1
+:END:
+*** 血@xuè
+:PROPERTIES:
+:CONCEPT: uuid-9a7b5ee7-4a26-489f-82a3-d51d8e264adf / BLOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+血@xuè	[[tls:concept:BLOOD::#uuid-9a7b5ee7-4a26-489f-82a3-d51d8e264adf][BLOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / blood
+*** 乾@gān
+:PROPERTIES:
+:CONCEPT: uuid-4028339a-7403-4542-aa60-f3467ee785c3 / DRY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 6
+:END:
+乾@gān	[[tls:concept:DRY::#uuid-4028339a-7403-4542-aa60-f3467ee785c3][DRY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / get dry
+** 而生此姦計	yet you have hatched this treacherous plot.
+:PROPERTIES:
+:SRC: SSXY 1.43.1.2.6; Mather 20/21
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_001:nil62:50::而生 / 世說新語
+:CHARPOS: 50
+:END:
+*** 奸@gān
+:PROPERTIES:
+:CONCEPT: uuid-fb2049d3-fbb8-422d-bc53-c1df761d218b / OFFEND
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+奸@gān	[[tls:concept:OFFEND::#uuid-fb2049d3-fbb8-422d-bc53-c1df761d218b][OFFEND]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / wickedly aggressive; treacherous; offending against one's sworn alliances
+** 玄遂斬之	Huán forthwith decapitated him.
+:PROPERTIES:
+:SRC: SSXY 1.43.1.2.6; Mather 20/21
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_001:nil66:1::玄遂 / 世說新語
+:CHARPOS: 1
+:END:
+*** 斬@zhǎn
+:PROPERTIES:
+:CONCEPT: uuid-23d23854-38e3-4b3c-a43a-2f54f2559f4e / BEHEAD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+斬@zhǎn	[[tls:concept:BEHEAD::#uuid-23d23854-38e3-4b3c-a43a-2f54f2559f4e][BEHEAD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cut off the head of

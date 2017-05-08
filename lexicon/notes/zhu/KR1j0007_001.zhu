@@ -1,0 +1,64 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 釋名 KR1j0007_001
+#+DATE: 2017-02-08T16:40:42+0900
+#+PROPERTY: COMMIT 906d353bc392e7351da9244541da2bfeda071aab
+** 或典禮所制	some (words) have been defined by the classics and by ritual propriety
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR1j0007_001:1a04:1::或典 / 釋名
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 或出自民庶	and others have had their origin among the common people.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR1j0007_001:1a05:50::或出 / 釋名
+:CHARPOS: 50
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 50
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 故撰天地陰陽四時邦國都鄙車服喪紀	Therefore I have composed on Heaven Earth Yin, Yang, the Four seasons, states, capitals, countrydside, vehicles, garments, account of funeral arrangements,
+:PROPERTIES:
+:SRC: SHIMING.XU 03
+:DATE: --
+:LOCATION: KR1j0007_001:1a18:1::故撰 / 釋名
+:CHARPOS: 1
+:END:
+*** 邦國@bāngguó
+:PROPERTIES:
+:CONCEPT: uuid-3cff73c4-a2ca-4205-9b9e-8d412d16ad29 / NATION
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 9
+:END:
+邦國@bāngguó	[[tls:concept:NATION::#uuid-3cff73c4-a2ca-4205-9b9e-8d412d16ad29][NATION]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the state
+** 博物君子其於答難解惑	The broadly learned readership of gentlemen may therein find answers to their problems and solve their uncertainties.
+:PROPERTIES:
+:SRC: SHIMING.XU 04
+:DATE: --
+:LOCATION: KR1j0007_001:1a32:1::博物 / 釋名
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the gentlemen (of a certain time or place) 其君子

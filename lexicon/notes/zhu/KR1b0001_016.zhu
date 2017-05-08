@@ -1,0 +1,42 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_016
+#+DATE: 2017-02-08T16:35:49+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 今王嗣有令緒	Now O king, you have entered on the inheritance of his excellent line;
+:PROPERTIES:
+:SRC: SHU 14.7.2; tr. Legge p. 199ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_016:1a20:1::今王 / 尚書
+:CHARPOS: 1
+:END:
+*** 今@jīn
+:PROPERTIES:
+:CONCEPT: uuid-32e3134c-e13c-453b-9eaf-741475872896 / MOREOVER
+:SYN-FUNC: uuid-b7691903-ed54-4f79-9abc-1d576fac56b7
+:SEM-FEAT: uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db
+:CHARPOS: 1
+:END:
+今@jīn	[[tls:concept:MOREOVER::#uuid-32e3134c-e13c-453b-9eaf-741475872896][MOREOVER]]	N [[tls:syn-func::#uuid-b7691903-ed54-4f79-9abc-1d576fac56b7][nadSS]] {[[tls:sem-feat::#uuid-49319ad4-e90d-4af0-8bdf-1c4f6c86d9db][non-narrative]]} / marker of new paragraph introducing a non-narrative new sequence, translatable by "now"
+*** 今@jīn
+:PROPERTIES:
+:CONCEPT: uuid-b72b6c2b-1f52-4cad-9484-2db4d722841c / NOW
+:SYN-FUNC: uuid-85043f3f-f41d-433b-8bea-c49352206a4e
+:SEM-FEAT: uuid-51f4e8c8-5f69-41d6-a2f5-56f98b62f5ba
+:CHARPOS: 1
+:END:
+今@jīn	[[tls:concept:NOW::#uuid-b72b6c2b-1f52-4cad-9484-2db4d722841c][NOW]]	N [[tls:syn-func::#uuid-85043f3f-f41d-433b-8bea-c49352206a4e][nadS]] {[[tls:sem-feat::#uuid-51f4e8c8-5f69-41d6-a2f5-56f98b62f5ba][narrative]]} / these days, nowadays 今也; now
+** 邦其永孚于休	then the country will lastingly and surely enjoy happiness.'
+:PROPERTIES:
+:SRC: SHU 14.7.3; tr. Legge p. 199ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_016:1a41:1::邦其 / 尚書
+:CHARPOS: 1
+:END:
+*** 休@xiū
+:PROPERTIES:
+:CONCEPT: uuid-977a3c97-5f9a-41e1-a842-60dad4ec7b87 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 6
+:END:
+休@xiū	[[tls:concept:HAPPY::#uuid-977a3c97-5f9a-41e1-a842-60dad4ec7b87][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / happiness

@@ -1,0 +1,208 @@
+# -*- mode: mandoku-tls-view -*-
+#+TITLE: IF NOT
+#+DATE: 2017-03-18T10:35:30.668+09:00        
+#+STARTUP: content
+* =CONCEPT= IF NOT
+:PROPERTIES:
+:CUSTOM_ID: uuid-29d7a1b8-ff20-42eb-b987-5a20ae2ae348
+:TR_ZH: 如果不
+:END:
+** DEFINITION
+
+IF NOT.
+
+** NOTES
+
+*** Old Chinese Criteria
+1. The specific word for "except for" is wēi 微.
+
+2. Fēi 非 is used for wēi 微 when the main predicate is negated.
+
+*** Modern Chinese Criteria
+rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／ LU JIANMING
+
+** POINTERS
+*** SEE ALSO
+ - [[tls:concept:UNLESS][UNLESS]]
+
+*** KIND OF
+ - [[tls:concept:IF][IF]]
+
+** SOURCE REFERENCES
+*** QUINE 1987
+ - [[cite:QUINE-1987][Quine(1987), Quiddities. An Intermittently Philosophical Dictionary]], p.142
+
+** WORDS
+   :PROPERTIES:
+   :VISIBILITY: children
+   :END:
+*** 不 bù (OC:pɯʔ MC:pi̯ut )
+:PROPERTIES:
+:CUSTOM_ID: uuid-6d03712a-7a6f-4c3e-bad8-b0bf106b15f0
+:Char+: 不(1,3/4) 
+:GY_IDS+: uuid-12896cda-5086-41f3-8aeb-21cd406eec3f
+:PY+: bù     
+:OC+: pɯʔ     
+:MC+: pi̯ut     
+:END: 
+**** SOURCE REFERENCES
+***** DUAN DESEN 1992A
+ - [[cite:DUAN-DESEN-1992A][Duan 段(1992), 簡明古漢語同義詞詞典]], p.651
+
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / unless
+:PROPERTIES:
+:CUSTOM_ID: uuid-d51f27bb-63ae-462f-914c-ce1be34e4ca7
+:END:
+****** DEFINITION
+
+unless
+
+****** NOTES
+
+**** P [[tls:syn-func::#uuid-d4572d9b-9897-457b-9fa0-4eb3c791b5dc][padN{PRED}.adS]] / if not
+:PROPERTIES:
+:CUSTOM_ID: uuid-96dc8e2f-b704-4032-ae62-11fb9ab4195b
+:END:
+****** DEFINITION
+
+if not
+
+****** NOTES
+
+*** 微 wēi (OC:mɯl MC:mɨi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-ed50fa07-0577-47b9-b8f4-2103aacc4aa4
+:Char+: 微(60,10/13) 
+:GY_IDS+: uuid-f74875f5-786d-4a10-888d-9a5d8fb1324d
+:PY+: wēi     
+:OC+: mɯl     
+:MC+: mɨi     
+:END: 
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / if not, had it not been for the fact that
+:PROPERTIES:
+:CUSTOM_ID: uuid-27d7fa40-da11-4c3d-a561-752f8fba2ae8
+:END:
+****** DEFINITION
+
+if not, had it not been for the fact that
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-6c8510ea-db8b-4842-8215-0364fbbdefd7][vt0+Nab{S1}.adS2]] / Had it not been for S
+:PROPERTIES:
+:CUSTOM_ID: uuid-4dc176da-fcc7-468e-86d2-7c61d4218dda
+:END:
+****** DEFINITION
+
+Had it not been for S
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-eff96969-dfb1-4cc3-9784-3851c19c3f27][vt0oN.adS]] {[[tls:sem-feat::#uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9][copula]]} / but for; if not; had it not been for; apart from
+:PROPERTIES:
+:CUSTOM_ID: uuid-47bef7e8-c666-42d8-aa3c-cc0f1a3e9a4e
+:WARRING-STATES-CURRENCY: 4
+:END:
+****** DEFINITION
+
+but for; if not; had it not been for; apart from
+
+****** NOTES
+
+*** 非 fēi (OC:pɯl MC:pɨi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-a5210f65-bda4-4005-81ea-21d0c0f0cb4c
+:Char+: 非(175,0/8) 
+:GY_IDS+: uuid-00e22256-d177-459e-bd67-efa461a8d045
+:PY+: fēi     
+:OC+: pɯl     
+:MC+: pɨi     
+:END: 
+**** SOURCE REFERENCES
+***** WANG FENGYANG 1993
+ - [[cite:WANG-FENGYANG-1993][Wang 王(1993), 古辭辨 Gu ci bian]], p.715.2
+
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / if not
+:PROPERTIES:
+:CUSTOM_ID: uuid-4836c9bc-05be-440b-b63c-573c418c6349
+:END:
+****** DEFINITION
+
+if not
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-ea3084d7-d6fa-4817-a40b-ca7cd6fdd5f7][vadV.postN:adS]] / if not
+:PROPERTIES:
+:CUSTOM_ID: uuid-27a07df2-92c1-4348-91d0-7509a761ca29
+:END:
+****** DEFINITION
+
+if not
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-c00a4db3-7d89-4b82-80ab-d16a177e3421][vadV.postN{SUBJ}:adS]] / if not
+:PROPERTIES:
+:CUSTOM_ID: uuid-6ec276e0-ebec-4375-be44-0806237718ce
+:END:
+****** DEFINITION
+
+if not
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-1baf51c2-3a95-4f1e-989b-9e51a97defeb][vt0oN.postVt]] {[[tls:sem-feat::#uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9][copula]]} / except, but 何事非君
+:PROPERTIES:
+:CUSTOM_ID: uuid-3e698c10-2d29-47d9-96b2-35bbdfd1227b
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+except, but 何事非君
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-2231d306-0fde-487d-bf64-ae174f755516][vtoN.adS]] {[[tls:sem-feat::#uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9][copula]]} / if something is not (an N)
+:PROPERTIES:
+:CUSTOM_ID: uuid-ecc602d1-179a-4ede-b3e3-4483cb6ece0a
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+if something is not (an N)
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / except 非禮不聽
+:PROPERTIES:
+:CUSTOM_ID: uuid-91f4e3c9-8829-4957-84f3-257f8ef0b256
+:WARRING-STATES-CURRENCY: 5
+:END:
+****** DEFINITION
+
+except 非禮不聽
+
+****** NOTES
+
+*** 者 zhě (OC:kljaʔ MC:tɕɣɛ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-6cff9820-467d-4492-a497-773955820b8d
+:Char+: 不(1,3/4) 者(125,4/10) 
+:GY_IDS+: uuid-638f5102-6260-4085-891d-9864102bc27c
+:PY+:  zhě    
+:OC+:  kljaʔ    
+:MC+:  tɕɣɛ    
+:END: 
+**** V [[tls:syn-func::#uuid-fc393db1-993e-431d-9540-bc9fde4945d4][VPadS1.postS2]] / otherwise
+:PROPERTIES:
+:CUSTOM_ID: uuid-a6146cc5-6650-47c8-83b5-60d512e1c4b7
+:END:
+****** DEFINITION
+
+otherwise
+
+****** NOTES
+
+** BIBLIOGRAPHY
+bibliography:../core/tlsbib.bib

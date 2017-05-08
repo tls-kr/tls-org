@@ -1,0 +1,104 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_022
+#+DATE: 2017-02-08T16:41:10+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 趙取周之祭地	Chao had seized the sacred precincts of Chou
+:PROPERTIES:
+:SRC: ZGC 1.22.1; tr. Crump 1979 no.32, p. 46 The sacred precincts
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_022:1a01:50::趙取 / 戰國策
+:CHARPOS: 50
+:END:
+*** 祭@jì
+:PROPERTIES:
+:CONCEPT: uuid-2ab8630a-34cd-4832-99f8-d448dd7a4057 / SACRIFICE
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 54
+:END:
+祭@jì	[[tls:concept:SACRIFICE::#uuid-2ab8630a-34cd-4832-99f8-d448dd7a4057][SACRIFICE]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / sacrificial; sacred because connected with ritual performances
+** 鄭朝獻之趙太卜	and Cheng Ch'ao presented it to the Grand Seer of Chao,
+:PROPERTIES:
+:SRC: ZGC 1.22.1; tr. Crump 1979 no.32, p. 46 The sacred precincts
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_022:1a08:1::鄭朝 / 戰國策
+:CHARPOS: 1
+:END:
+*** 獻@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-7768654c-ccfb-4d46-8388-5cb50f8dbd44 / HAND UP
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 3
+:END:
+獻@xiàn	[[tls:concept:HAND UP::#uuid-7768654c-ccfb-4d46-8388-5cb50f8dbd44][HAND UP]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / hand (something N1) up to (someone N2 of higher status)
+** 因告以祭地事	while informing him of the sacred precincts.
+:PROPERTIES:
+:SRC: ZGC 1.22.1; tr. Crump 1979 no.32, p. 46 The sacred precincts
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_022:1a09:50::因告 / 戰國策
+:CHARPOS: 50
+:END:
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-71ee50ce-ceae-4557-8f43-ed180ec98b7e / SITUATION
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:CHARPOS: 55
+:END:
+事@shì	[[tls:concept:SITUATION::#uuid-71ee50ce-ceae-4557-8f43-ed180ec98b7e][SITUATION]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] / the matter of N; the problem of N [Note that the construction must probably be taken as one of apposition! CH]
+** 及王病	When next the king of Chao became ill
+:PROPERTIES:
+:SRC: ZGC 1.22.2; tr. Crump 1979 no.32, p. 46
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_022:1a10:50::及王 / 戰國策
+:CHARPOS: 50
+:END:
+*** 病@bìng
+:PROPERTIES:
+:CONCEPT: uuid-6f7c2572-095b-48f5-9308-8c132c347f7c / ILLNESS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+病@bìng	[[tls:concept:ILLNESS::#uuid-6f7c2572-095b-48f5-9308-8c132c347f7c][ILLNESS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / fall seriously ill; (of an acute illness:) become a serious irremediable medical state
+** 太卜譴之曰	The Seer reprimanded the king saying:
+:PROPERTIES:
+:SRC: ZGC 1.22.2; tr. Crump 1979 no.32, p. 46
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_022:1a12:1::太卜 / 戰國策
+:CHARPOS: 1
+:END:
+*** 譴@qiǎn / 遣@qiàn
+:PROPERTIES:
+:CONCEPT: uuid-6a02bb4e-20fe-46be-9266-89b750b76974 / ACCUSE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+譴@qiǎn / 遣@qiàn	[[tls:concept:ACCUSE::#uuid-6a02bb4e-20fe-46be-9266-89b750b76974][ACCUSE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / reprimand (inferior), formally accuse of misdeeds; make accusations about (a person)
+** 周之祭地為祟	'The sacred precincts of Chou are causing the malignant influence.'
+:PROPERTIES:
+:SRC: ZGC 1.22.2; tr. Crump 1979 no.32, p. 46
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_022:1a13:50::「周 / 戰國策
+:CHARPOS: 50
+:END:
+*** 祟@suì
+:PROPERTIES:
+:CONCEPT: uuid-970c13a7-d270-4a68-b594-2467056384b7 / WICKED
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 55
+:END:
+祟@suì	[[tls:concept:WICKED::#uuid-970c13a7-d270-4a68-b594-2467056384b7][WICKED]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / malignant influence; OBI 5, but read by QIU as 咎: noxious influence, ancestral curse
+** 趙乃還之	Chao returned the precincts.
+:PROPERTIES:
+:SRC: ZGC 1.22.2; tr. Crump 1979 no.32, p. 46
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_022:1a13:50::趙乃 / 戰國策
+:CHARPOS: 50
+:END:
+*** 乃@nǎi / 迺@nǎi
+:PROPERTIES:
+:CONCEPT: uuid-d5f9c225-330b-4a1e-b342-86c3c335af13 / THEN
+:SYN-FUNC: uuid-f6980e39-6a66-40ea-899f-95eaf0384097
+:CHARPOS: 51
+:END:
+乃@nǎi / 迺@nǎi	[[tls:concept:THEN::#uuid-d5f9c225-330b-4a1e-b342-86c3c335af13][THEN]]	P [[tls:syn-func::#uuid-f6980e39-6a66-40ea-899f-95eaf0384097][padV.postN{SUBJ}:post-S]] / (THE SUBJECT N) then (will VERB)

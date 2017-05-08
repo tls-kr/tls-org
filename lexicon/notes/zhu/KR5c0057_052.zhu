@@ -1,0 +1,45 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_052
+#+DATE: 2017-02-08T16:43:46+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 沒身不殆	and to the end of your life you will not be endangered.
+:PROPERTIES:
+:SRC: LAO 52.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_052:1a07:1::沒身 / 老子
+:CHARPOS: 1
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-5cf1c23e-f924-4132-8824-76cdec947016 / LIVE
+:SYN-FUNC: uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693
+:CHARPOS: 2
+:END:
+身@shēn	[[tls:concept:LIVE::#uuid-5cf1c23e-f924-4132-8824-76cdec947016][LIVE]]	N [[tls:syn-func::#uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693][nab.post-N]] / life-time; personal survival; one's life as an individual (as someting one might lose, or which might be endangered)
+** 見小曰明	To see what is small is called to be clear-sighted;
+:PROPERTIES:
+:SRC: LAO 52.3; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_052:1a14:1::見小 / 老子
+:CHARPOS: 1
+:END:
+*** 小@xiǎo
+:PROPERTIES:
+:CONCEPT: uuid-5ad6cc10-1cf9-4be7-ae86-f3952214f014 / SMALL
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-30d59aba-58eb-4679-b8e1-d48c62d29bb5
+:CHARPOS: 2
+:END:
+小@xiǎo	[[tls:concept:SMALL::#uuid-5ad6cc10-1cf9-4be7-ae86-f3952214f014][SMALL]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-30d59aba-58eb-4679-b8e1-d48c62d29bb5][N=state]]} / what is small, something small; specifically refers to: small state
+** 用其光	Us its (the Tao's) brightness
+:PROPERTIES:
+:SRC: LAO 52.3; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_052:1a16:1::用其 / 老子
+:CHARPOS: 1
+:END:
+*** 光@guāng
+:PROPERTIES:
+:CONCEPT: uuid-05d2a6e2-dcee-4df9-808b-84452ffbfc7c / LIGHT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 3
+:END:
+光@guāng	[[tls:concept:LIGHT::#uuid-05d2a6e2-dcee-4df9-808b-84452ffbfc7c][LIGHT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / light; brightness; glint

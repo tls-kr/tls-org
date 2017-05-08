@@ -1,0 +1,53 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_059
+#+DATE: 2017-02-08T16:43:47+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 是謂早服	means (LC 324)an early (working on:) application to (sc. the Tao)
+:PROPERTIES:
+:SRC: LAO 59.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_059:1a04:1::是謂 / 老子
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-2a9996cc-3676-4940-8e12-b2930331bcae / THIS
+:SYN-FUNC: uuid-f450a589-6631-465e-973c-777a2fe14735
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 1
+:END:
+是@shì	[[tls:concept:THIS::#uuid-2a9996cc-3676-4940-8e12-b2930331bcae][THIS]]	N [[tls:syn-func::#uuid-f450a589-6631-465e-973c-777a2fe14735][npro{OBJ}+Vt.postN{TOP}]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / this aforementioned N; the preceding N (is the one the SUBJECT VERBS) 敗是求 "it is defeat that you have sought"
+*** 早@zǎo / 蚤@zǎo
+:PROPERTIES:
+:CONCEPT: uuid-0a9451be-e0da-4211-b1f1-c92b1f72b3a9 / TIMELY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 3
+:END:
+早@zǎo / 蚤@zǎo	[[tls:concept:TIMELY::#uuid-0a9451be-e0da-4211-b1f1-c92b1f72b3a9][TIMELY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in good time, at an early stage; at an earlier stage, at a sufficiently early stage
+** 則莫知其極	nobody knows the limit of it.
+:PROPERTIES:
+:SRC: LAO 59.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_059:1a07:4::則莫 / 老子
+:CHARPOS: 4
+:END:
+*** 莫@mò
+:PROPERTIES:
+:CONCEPT: uuid-1f4d23c2-df94-4442-8a20-7de49d482346 / NONE
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-2e377e0e-02e8-437f-86ce-f041186bc7aa
+:CHARPOS: 5
+:END:
+莫@mò	[[tls:concept:NONE::#uuid-1f4d23c2-df94-4442-8a20-7de49d482346][NONE]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-2e377e0e-02e8-437f-86ce-f041186bc7aa][human]]} / no one
+** 長生久視之道也	is the method for living long and to be seen for a long time.
+:PROPERTIES:
+:SRC: LAO 59.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_059:1a12:1::長生 / 老子
+:CHARPOS: 1
+:END:
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-58a6b1af-d10f-4f4d-8b01-4d9c79eaad2b / LIFE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 2
+:END:
+生@shēng	[[tls:concept:LIFE::#uuid-58a6b1af-d10f-4f4d-8b01-4d9c79eaad2b][LIFE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / lifespan

@@ -1,0 +1,443 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 楚辭 KR4a0001_007
+#+DATE: 2017-02-08T16:43:40+0900
+#+PROPERTY: COMMIT c3f483ed1c381f09b4cbfc4c4a3164868fb193fe
+** 屈原既放游於江潭	After Qū Yuán was banished, he wandered, sometimes along the river's banks,
+:PROPERTIES:
+:SRC: CC YUFU 01:01; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a01:50::屈原 / 楚辭
+:CHARPOS: 50
+:END:
+*** 遊@yóu / 游@yóu
+:PROPERTIES:
+:CONCEPT: uuid-575a5a1e-2d24-4940-827d-b109d3a4c930 / TRAVEL
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 50
+:END:
+遊@yóu / 游@yóu	[[tls:concept:TRAVEL::#uuid-575a5a1e-2d24-4940-827d-b109d3a4c930][TRAVEL]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / travel to, roam in
+*** 潭@tán
+:PROPERTIES:
+:CONCEPT: uuid-0e18e806-e70f-487f-8ca5-a461f1aeb7e9 / LAKE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 57
+:END:
+潭@tán	[[tls:concept:LAKE::#uuid-0e18e806-e70f-487f-8ca5-a461f1aeb7e9][LAKE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / Southern speech: deep water, deep pool
+** 行吟澤畔	sometimes along the marsh's edge, singing as he went.
+:PROPERTIES:
+:SRC: CC YUFU 01:01; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a02:50::行吟 / 楚辭
+:CHARPOS: 50
+:END:
+*** 吟@yín
+:PROPERTIES:
+:CONCEPT: uuid-d6a194af-f7ff-410f-a083-fe0c555f835f / CHANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+吟@yín	[[tls:concept:CHANT::#uuid-d6a194af-f7ff-410f-a083-fe0c555f835f][CHANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / quietly chant poetry to oneself (as one goes); sing softly to oneself (as one goes)
+** 顏色憔悴	His expression was dejected
+:PROPERTIES:
+:SRC: CC YUFU 01:01; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a03:50::顏色 / 楚辭
+:CHARPOS: 50
+:END:
+*** 顏色@yánsè
+:PROPERTIES:
+:CONCEPT: uuid-7bd655d4-7191-469b-88dd-1af4a8d77c42 / FACE
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:CHARPOS: 50
+:END:
+顏色@yánsè	[[tls:concept:FACE::#uuid-7bd655d4-7191-469b-88dd-1af4a8d77c42][FACE]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] / facial expression, countenance; sometimes non-expressive: facial complexion 顏色黯黑 "my facial complexion is all dark".
+** 形容枯槁	and his features emaciated.
+:PROPERTIES:
+:SRC: CC YUFU 01:01; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a04:50::形容 / 楚辭
+:CHARPOS: 50
+:END:
+*** 形容@xíngróng
+:PROPERTIES:
+:CONCEPT: uuid-132f0308-188b-4bc8-a5d8-2f6d7fc85335 / SHAPE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 50
+:END:
+形容@xíngróng	[[tls:concept:SHAPE::#uuid-132f0308-188b-4bc8-a5d8-2f6d7fc85335][SHAPE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / physical outline and appearance, physical appearance
+*** 枯槁@kūgǎo
+:PROPERTIES:
+:CONCEPT: uuid-3e822eba-f446-449f-9985-056b2c86f962 / WITHER
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+枯槁@kūgǎo	[[tls:concept:WITHER::#uuid-3e822eba-f446-449f-9985-056b2c86f962][WITHER]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / wither away; become emaciated
+** 漁父見而問之曰	A fisherman caught sight of him.
+:PROPERTIES:
+:SRC: CC YUFU 01:02; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a05:50::漁父 / 楚辭
+:CHARPOS: 50
+:END:
+*** 問@wèn
+:PROPERTIES:
+:CONCEPT: uuid-5d7684d2-d089-4c70-91be-532305b6587b / ASK
+:SYN-FUNC: uuid-d71d0499-925e-4679-81d3-39598af630b3
+:SEM-FEAT: uuid-4b71fb70-a4b0-44e0-821a-6c6b0302b1e6
+:CHARPOS: 54
+:END:
+問@wèn	[[tls:concept:ASK::#uuid-5d7684d2-d089-4c70-91be-532305b6587b][ASK]]	V [[tls:syn-func::#uuid-d71d0499-925e-4679-81d3-39598af630b3][vtoN.+V]] {[[tls:sem-feat::#uuid-4b71fb70-a4b0-44e0-821a-6c6b0302b1e6][N=interlocutor]]} / ask interlocutor N and say: 問師曠曰
+** 何故至於斯	'What has brought you to his pass?'
+:PROPERTIES:
+:SRC: CC YUFU 01:02; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a07:1::何故 / 楚辭
+:CHARPOS: 1
+:END:
+*** 何故@hégù
+:PROPERTIES:
+:CONCEPT: uuid-9a814e41-818c-47d8-bc87-f8ff45485657 / WHY
+:SYN-FUNC: uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a
+:SEM-FEAT: uuid-d82256cd-a1c1-4a58-b15f-615a92237386
+:CHARPOS: 1
+:END:
+何故@hégù	[[tls:concept:WHY::#uuid-9a814e41-818c-47d8-bc87-f8ff45485657][WHY]]	N [[tls:syn-func::#uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a][NPadV]] {[[tls:sem-feat::#uuid-d82256cd-a1c1-4a58-b15f-615a92237386][question]]} / for what reason?
+*** 斯@sī
+:PROPERTIES:
+:CONCEPT: uuid-f7acfcd1-30cb-450a-b634-5dce88296fce / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-20e72b12-d3da-4d93-82a7-4d85d052a415
+:CHARPOS: 5
+:END:
+斯@sī	[[tls:concept:THIS::#uuid-f7acfcd1-30cb-450a-b634-5dce88296fce][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-20e72b12-d3da-4d93-82a7-4d85d052a415][abstract]]} / this abstract thing; this event; this course of action; this point
+** 舉世皆濁我獨清	said Qū Yuán,
+:PROPERTIES:
+:SRC: CC YUFU 01:02; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a09:1::「舉 / 楚辭
+:CHARPOS: 1
+:END:
+*** 舉@jǔ
+:PROPERTIES:
+:CONCEPT: uuid-a2c81d9b-0c6c-486e-bda2-64eb3adca2a1 / WHOLE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-d1cf7a99-5f60-4ba5-ac4d-ce56db9366bd
+:CHARPOS: 1
+:END:
+舉@jǔ	[[tls:concept:WHOLE::#uuid-a2c81d9b-0c6c-486e-bda2-64eb3adca2a1][WHOLE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-d1cf7a99-5f60-4ba5-ac4d-ce56db9366bd][quantifier]]} / whole, entire; all the 舉國
+*** 濁@zhuó
+:PROPERTIES:
+:CONCEPT: uuid-7c728692-1652-4d8e-ac2f-6576d91fa21c / DIRTY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+濁@zhuó	[[tls:concept:DIRTY::#uuid-7c728692-1652-4d8e-ac2f-6576d91fa21c][DIRTY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be (musically or morally) impure or defiled; be (metaphysically) muddied (i.e. soiled by contact with the world)
+*** 清@qīng
+:PROPERTIES:
+:CONCEPT: uuid-a3cf65e1-9e66-44b9-8340-d8fd4b5a89be / PURE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 7
+:END:
+清@qīng	[[tls:concept:PURE::#uuid-a3cf65e1-9e66-44b9-8340-d8fd4b5a89be][PURE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be morally pure, be pure
+** 是以見放	I have been sent into exile.'
+:PROPERTIES:
+:SRC: CC YUFU 01:02; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a11:1::是以 / 楚辭
+:CHARPOS: 1
+:END:
+*** 是以@shìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-3a92c172-e577-45a8-a29a-c252711b03d5 / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f
+:CHARPOS: 1
+:END:
+是以@shìyǐ	[[tls:concept:THEREFORE::#uuid-3a92c172-e577-45a8-a29a-c252711b03d5][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f][objective]]} / for this objective reason
+*** 放@fàng
+:PROPERTIES:
+:CONCEPT: uuid-630f99de-36bc-4969-b8cb-7d5381f8ab27 / BANISH
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+放@fàng	[[tls:concept:BANISH::#uuid-630f99de-36bc-4969-b8cb-7d5381f8ab27][BANISH]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / being exiled
+** 聖人不凝滯於物	said the fisherman,
+:PROPERTIES:
+:SRC: CC YUFU 01:03; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a13:1::「聖 / 楚辭
+:CHARPOS: 1
+:END:
+*** 凝滯@níngzhì
+:PROPERTIES:
+:CONCEPT: uuid-52c6a690-02b0-4f4c-adf5-a2c6a71f61ef / HINDER
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 4
+:END:
+凝滯@níngzhì	[[tls:concept:HINDER::#uuid-52c6a690-02b0-4f4c-adf5-a2c6a71f61ef][HINDER]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be hindered or blocked by
+** 而能與世推移	'but can move as the world moves.
+:PROPERTIES:
+:SRC: CC YUFU 01:03; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a14:50::而能 / 楚辭
+:CHARPOS: 50
+:END:
+*** 推移@tuīyí
+:PROPERTIES:
+:CONCEPT: uuid-e717c715-025d-4308-86ac-ade335195572 / CHANGE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 54
+:END:
+推移@tuīyí	[[tls:concept:CHANGE::#uuid-e717c715-025d-4308-86ac-ade335195572][CHANGE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / change
+** 世人皆濁	If all the world is muddy,
+:PROPERTIES:
+:SRC: CC YUFU 01:03; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a15:50::世人 / 楚辭
+:CHARPOS: 50
+:END:
+*** 濁@zhuó
+:PROPERTIES:
+:CONCEPT: uuid-7c728692-1652-4d8e-ac2f-6576d91fa21c / DIRTY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 53
+:END:
+濁@zhuó	[[tls:concept:DIRTY::#uuid-7c728692-1652-4d8e-ac2f-6576d91fa21c][DIRTY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be (musically or morally) impure or defiled; be (metaphysically) muddied (i.e. soiled by contact with the world)
+** 眾人皆醉	And if all men are drunk,
+:PROPERTIES:
+:SRC: CC YUFU 01:03; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a17:1::眾人 / 楚辭
+:CHARPOS: 1
+:END:
+*** 醉@zuì
+:PROPERTIES:
+:CONCEPT: uuid-1588a02c-97d7-4178-8600-63eda9f95e09 / DRUNK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 4
+:END:
+醉@zuì	[[tls:concept:DRUNK::#uuid-1588a02c-97d7-4178-8600-63eda9f95e09][DRUNK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be drunk 甚醉
+** 何不餔其糟而歠其釃	why not sup their dregs and swill their lees?
+:PROPERTIES:
+:SRC: CC YUFU 01:03; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a18:50::何不 / 楚辭
+:CHARPOS: 50
+:END:
+*** 餔@bū
+:PROPERTIES:
+:CONCEPT: uuid-982428dd-6e5a-4cfa-8828-8b73f2420b10 / EAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+餔@bū	[[tls:concept:EAT::#uuid-982428dd-6e5a-4cfa-8828-8b73f2420b10][EAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / eat; fill one's stomach with
+*** 糟@zāo
+:PROPERTIES:
+:CONCEPT: uuid-718ae892-4eba-4e3c-b360-5dcf2d281fee / DREGS
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 54
+:END:
+糟@zāo	[[tls:concept:DREGS::#uuid-718ae892-4eba-4e3c-b360-5dcf2d281fee][DREGS]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / wine dregs
+*** 歠@chuò
+:PROPERTIES:
+:CONCEPT: uuid-dee4784f-496a-48cd-8a98-c506c188ab95 / DRINK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 56
+:END:
+歠@chuò	[[tls:concept:DRINK::#uuid-dee4784f-496a-48cd-8a98-c506c188ab95][DRINK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to drink; swill
+*** 釃@shī
+:PROPERTIES:
+:CONCEPT: uuid-006bbdda-8cfd-47e4-8e16-4701cd6abc0b / LIQUOR
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 58
+:END:
+釃@shī	[[tls:concept:LIQUOR::#uuid-006bbdda-8cfd-47e4-8e16-4701cd6abc0b][LIQUOR]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / strained wine
+** 何故深思高舉	Why get yourself exiled
+:PROPERTIES:
+:SRC: CC YUFU 01:03; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a19:50::何故 / 楚辭
+:CHARPOS: 50
+:END:
+*** 何故@hégù
+:PROPERTIES:
+:CONCEPT: uuid-0f376c4c-a794-4332-9ee5-a198efb78955 / WHY
+:SYN-FUNC: uuid-db15f64f-c2d5-4bdc-8f57-dfb9cf3357b4
+:SEM-FEAT: uuid-0fecf78e-b514-4ef4-96dd-87e3f2bff1b0
+:CHARPOS: 50
+:END:
+何故@hégù	[[tls:concept:WHY::#uuid-0f376c4c-a794-4332-9ee5-a198efb78955][WHY]]	N [[tls:syn-func::#uuid-db15f64f-c2d5-4bdc-8f57-dfb9cf3357b4][NP+V]] {[[tls:sem-feat::#uuid-0fecf78e-b514-4ef4-96dd-87e3f2bff1b0][reason]]} / why? (i.e. surely for no good subjective reason)
+** 自令放為	because of your deep thoughts and your fine aspirations?'
+:PROPERTIES:
+:SRC: CC YUFU 01:03; SBBY 296; Jin 758; Huang 136; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a20:50::自令 / 楚辭
+:CHARPOS: 50
+:END:
+*** 令@lìng
+:PROPERTIES:
+:CONCEPT: uuid-e06910ab-bf3c-4241-84ef-d7fa5b164a01 / CAUSE TO
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 51
+:END:
+令@lìng	[[tls:concept:CAUSE TO::#uuid-e06910ab-bf3c-4241-84ef-d7fa5b164a01][CAUSE TO]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / cause (oneself) to V [Note that this does not get the semantic category "caus".]
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-64cdf46a-f0a6-48b3-be53-2e5cc4cc5d08 / HOW
+:SYN-FUNC: uuid-aba77ad5-c92d-4e36-b905-413cb8d393e9
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 53
+:END:
+為@wéi	[[tls:concept:HOW::#uuid-64cdf46a-f0a6-48b3-be53-2e5cc4cc5d08][HOW]]	V [[tls:syn-func::#uuid-aba77ad5-c92d-4e36-b905-413cb8d393e9][vpostS]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how? (i.e. in no way); for what? to what purpose? (with or without additional 何)
+** 新沐者必彈冠	"He who has just washed his hair should brush his hat;
+:PROPERTIES:
+:SRC: CC YUFU 01:04; SBBY 297; Jin 758; Huang 137; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a23:1::新沐 / 楚辭
+:CHARPOS: 1
+:END:
+*** 新@xīn
+:PROPERTIES:
+:CONCEPT: uuid-8658dd11-782b-4668-8622-ae0542b631c5 / RECENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+新@xīn	[[tls:concept:RECENT::#uuid-8658dd11-782b-4668-8622-ae0542b631c5][RECENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / newly, recently; lately; just
+** 新浴者必振衣	and he who has just bathed should shake his clothes."
+:PROPERTIES:
+:SRC: CC YUFU 01:04; SBBY 297; Jin 758; Huang 137; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a24:50::新浴 / 楚辭
+:CHARPOS: 50
+:END:
+*** 新@xīn
+:PROPERTIES:
+:CONCEPT: uuid-8658dd11-782b-4668-8622-ae0542b631c5 / RECENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+新@xīn	[[tls:concept:RECENT::#uuid-8658dd11-782b-4668-8622-ae0542b631c5][RECENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / newly, recently; lately; just
+** 安能以身之察察	How can I submit my spotless purity
+:PROPERTIES:
+:SRC: CC YUFU 01:04; SBBY 297; Jin 758; Huang 137; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a25:50::安能 / 楚辭
+:CHARPOS: 50
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-05832d86-f28d-495f-8c06-b33f94bddcf8 / EGO
+:SYN-FUNC: uuid-cfe7b66f-84da-40a0-9c3c-6262fd7e3820
+:CHARPOS: 53
+:END:
+身@shēn	[[tls:concept:EGO::#uuid-05832d86-f28d-495f-8c06-b33f94bddcf8][EGO]]	 [[tls:syn-func::#uuid-cfe7b66f-84da-40a0-9c3c-6262fd7e3820][n{post-npro1}]] / my person> (my)self (I)
+** 寧赴湘流	I would rather cast myself into the waters of the river
+:PROPERTIES:
+:SRC: CC YUFU 01:04; SBBY 297; Jin 758; Huang 137; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a27:1::寧赴 / 楚辭
+:CHARPOS: 1
+:END:
+*** 赴@fù
+:PROPERTIES:
+:CONCEPT: uuid-2bc36a70-d92f-4424-86ea-19a921e19a95 / ENTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+赴@fù	[[tls:concept:ENTER::#uuid-2bc36a70-d92f-4424-86ea-19a921e19a95][ENTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / dive into, throw oneself into; sink into
+** 安能以皓皓之白	than hide my shining light
+:PROPERTIES:
+:SRC: CC YUFU 01:04; SBBY 297; Jin 758; Huang 137; Fu 141; tr. Hawkes 206;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a29:1::安能 / 楚辭
+:CHARPOS: 1
+:END:
+*** 安@ān
+:PROPERTIES:
+:CONCEPT: uuid-841bbdb1-94ee-4e18-88c9-44957768f931 / HOW
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 1
+:END:
+安@ān	[[tls:concept:HOW::#uuid-841bbdb1-94ee-4e18-88c9-44957768f931][HOW]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how? (idiomatic in 安得 "how can one get to?", 安敢"how would I dare to?")
+*** 皓@hào
+:PROPERTIES:
+:CONCEPT: uuid-ced5405b-0095-4e07-8779-99ea1c8a5a60 / WHITE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 4
+:END:
+皓@hào	[[tls:concept:WHITE::#uuid-ced5405b-0095-4e07-8779-99ea1c8a5a60][WHITE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / flashing white (as beautiful women's teeth)
+** 漁父莞爾而笑	The fisherman, with a faint smile,
+:PROPERTIES:
+:SRC: CC YUFU 01:05; SBBY 298; Jin 765; Huang 137; Fu 141; tr. Hawkes 207;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:1a31:1::漁父 / 楚辭
+:CHARPOS: 1
+:END:
+*** 莞爾@wǎněr
+:PROPERTIES:
+:CONCEPT: uuid-1071ba66-e3c3-4b76-83c5-3136e075cb7a / SMILE
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 3
+:END:
+莞爾@wǎněr	[[tls:concept:SMILE::#uuid-1071ba66-e3c3-4b76-83c5-3136e075cb7a][SMILE]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / (smile) mildly 莞爾而笑
+*** 笑@xiào
+:PROPERTIES:
+:CONCEPT: uuid-99823f89-0de2-4b2f-bc8c-04313dfa5af0 / LAUGH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+笑@xiào	[[tls:concept:LAUGH::#uuid-99823f89-0de2-4b2f-bc8c-04313dfa5af0][LAUGH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / produce an audible sneer
+** 歌曰	And as he went he sang:
+:PROPERTIES:
+:SRC: CC YUFU 01:05; SBBY 298; Jin 765; Huang 137; Fu 141; tr. Hawkes 207;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:2a01:1::歌曰 / 楚辭
+:CHARPOS: 1
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-41cf587e-afb3-452a-9e63-e1e217afc4ed / QUOTATION MARKER
+:SYN-FUNC: uuid-623f6562-5263-46a5-bdc1-c949659ada2a
+:CHARPOS: 2
+:END:
+曰@yuē	[[tls:concept:QUOTATION MARKER::#uuid-41cf587e-afb3-452a-9e63-e1e217afc4ed][QUOTATION MARKER]]	V [[tls:syn-func::#uuid-623f6562-5263-46a5-bdc1-c949659ada2a][vtoS.post-V]] / to V as follows: S
+** 滄浪之水濁兮	When the Cāng-làng's waters are muddy,
+:PROPERTIES:
+:SRC: CC YUFU 01:05; SBBY 298; Jin 765; Huang 137; Fu 141; tr. Hawkes 207;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:2a04:1::滄浪 / 楚辭
+:CHARPOS: 1
+:END:
+*** 濁@zhuó
+:PROPERTIES:
+:CONCEPT: uuid-95e48a55-5e4e-4602-a10a-ae85f8907dd0 / DIRTY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 5
+:END:
+濁@zhuó	[[tls:concept:DIRTY::#uuid-95e48a55-5e4e-4602-a10a-ae85f8907dd0][DIRTY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / mixed with impurities and sediment; impure
+** 可以濯吾足	I can wash my feet in them.
+:PROPERTIES:
+:SRC: CC YUFU 01:05; SBBY 298; Jin 765; Huang 137; Fu 141; tr. Hawkes 207;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_007:2a05:50::可以 / 楚辭
+:CHARPOS: 50
+:END:
+*** 濯@zhuó
+:PROPERTIES:
+:CONCEPT: uuid-6d1d0b1e-a854-46ef-a39e-7c049c6447c5 / WASH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+濯@zhuó	[[tls:concept:WASH::#uuid-6d1d0b1e-a854-46ef-a39e-7c049c6447c5][WASH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / wash

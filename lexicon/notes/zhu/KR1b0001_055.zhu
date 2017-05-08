@@ -1,0 +1,790 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_055
+#+DATE: 2017-02-08T16:35:54+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 王享國百年	the king had enjoyed the state a hundred years,
+:PROPERTIES:
+:SRC: SHU 47.1, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a02:1::王享 / 尚書
+:CHARPOS: 1
+:END:
+*** 享@xiǎng
+:PROPERTIES:
+:CONCEPT: uuid-92813915-9a0f-48e1-b728-f2ffa755f33d / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+享@xiǎng	[[tls:concept:GOVERN::#uuid-92813915-9a0f-48e1-b728-f2ffa755f33d][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / enjoy the privileges of being a ruler over
+*** 國@guó
+:PROPERTIES:
+:CONCEPT: uuid-a1bd7b0f-8859-40e5-ab3e-3d7c56c159b5 / STATE
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 3
+:END:
+國@guó	[[tls:concept:STATE::#uuid-a1bd7b0f-8859-40e5-ab3e-3d7c56c159b5][STATE]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / [our] state; [his] state, her state, their state, one's state; [the subject's] state
+** 耄荒度作刑	and he was very old and senile, but he still planned to make (punishments=) penal laws,
+:PROPERTIES:
+:SRC: SHU 47.1, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a02:50::耄荒 / 尚書
+:CHARPOS: 50
+:END:
+*** 耄@mào
+:PROPERTIES:
+:CONCEPT: uuid-45c2174c-1d92-4d2e-8393-dfc8ee910622 / OLD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+耄@mào	[[tls:concept:OLD::#uuid-45c2174c-1d92-4d2e-8393-dfc8ee910622][OLD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be old
+*** 荒@huāng
+:PROPERTIES:
+:CONCEPT: uuid-b06ec2cd-645c-4a69-a446-8127f14eb8f0 / STUPID
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 51
+:END:
+荒@huāng	[[tls:concept:STUPID::#uuid-b06ec2cd-645c-4a69-a446-8127f14eb8f0][STUPID]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be useless; senile???
+*** 度@dù
+:PROPERTIES:
+:CONCEPT: uuid-71e9f748-0445-4e9e-9a34-62e1a3476e26 / PLAN
+:SYN-FUNC: uuid-0b09b6e0-ddea-45f8-8b4a-5d427d67044b
+:CHARPOS: 52
+:END:
+度@dù	[[tls:concept:PLAN::#uuid-71e9f748-0445-4e9e-9a34-62e1a3476e26][PLAN]]	 [[tls:syn-func::#uuid-0b09b6e0-ddea-45f8-8b4a-5d427d67044b][vt+V(0)]] / plan to V
+*** 作@zuò / 作@zuò / 作@zuò / 乍@zhà
+:PROPERTIES:
+:CONCEPT: uuid-31c3b0fc-42ee-430c-84e0-6abcae262feb / PRODUCE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 53
+:END:
+作@zuò / 作@zuò / 作@zuò / 乍@zhà	[[tls:concept:PRODUCE::#uuid-31c3b0fc-42ee-430c-84e0-6abcae262feb][PRODUCE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / generate (a thought or plan etc)
+*** 刑@xíng
+:PROPERTIES:
+:CONCEPT: uuid-f37352ab-3b55-4ba4-b3f1-41934cf6efde / LAW
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 54
+:END:
+刑@xíng	[[tls:concept:LAW::#uuid-f37352ab-3b55-4ba4-b3f1-41934cf6efde][LAW]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / penal law
+** 以詰四方	in order to control the (people of) the four quarters.
+:PROPERTIES:
+:SRC: SHU 47.1, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a02:50::以詰 / 尚書
+:CHARPOS: 50
+:END:
+*** 詰@jié
+:PROPERTIES:
+:CONCEPT: uuid-2fa9a7f4-1728-472a-84c6-203d168958af / CONTROL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+詰@jié	[[tls:concept:CONTROL::#uuid-2fa9a7f4-1728-472a-84c6-203d168958af][CONTROL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / control by supervision
+** 若古有訓	(Anciently=) from ancient times we have had the teaching
+:PROPERTIES:
+:SRC: SHU 47.2, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a04:1::「若 / 尚書
+:CHARPOS: 1
+:END:
+*** 古@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-ccaf91a1-b275-4235-a6f8-a60172ef64ae / PAST
+:SYN-FUNC: uuid-85043f3f-f41d-433b-8bea-c49352206a4e
+:CHARPOS: 2
+:END:
+古@gǔ	[[tls:concept:PAST::#uuid-ccaf91a1-b275-4235-a6f8-a60172ef64ae][PAST]]	N [[tls:syn-func::#uuid-85043f3f-f41d-433b-8bea-c49352206a4e][nadS]] / in ancient times
+** 蚩尤惟始作亂	that Chī Yóu was the first to make rebellion.
+:PROPERTIES:
+:SRC: SHU 47.2, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a05:50::蚩尤 / 尚書
+:CHARPOS: 50
+:END:
+*** 始@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-a8886067-c9f4-4d96-a6db-511dca626b03 / BEGIN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 53
+:END:
+始@shǐ	[[tls:concept:BEGIN::#uuid-a8886067-c9f4-4d96-a6db-511dca626b03][BEGIN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / for the first time, from the very beginning; to begin with; in the beginning
+*** 作@zuò / 作@zuò / 作@zuò
+:PROPERTIES:
+:CONCEPT: uuid-bc5df947-e416-4111-bc54-72c84f3d1564 / CREATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+作@zuò / 作@zuò / 作@zuò	[[tls:concept:CREATE::#uuid-bc5df947-e416-4111-bc54-72c84f3d1564][CREATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / set up, originate (something), create, invent; produce; of texts: compose
+*** 亂@luàn
+:PROPERTIES:
+:CONCEPT: uuid-bd7db345-79cf-4af9-83ff-0069e683693a / REVOLT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+亂@luàn	[[tls:concept:REVOLT::#uuid-bd7db345-79cf-4af9-83ff-0069e683693a][REVOLT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / political revolt; political unrest, political turmoil; disorderliness, unruliness; acts of political insubordinacy
+** 鴟義姦宄	owl-behavioured (i.e. rapacious), villains and traitors,
+:PROPERTIES:
+:SRC: SHU 47.2, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a08:1::鴟義 / 尚書
+:CHARPOS: 1
+:END:
+*** 鴟@chī
+:PROPERTIES:
+:CONCEPT: uuid-f9bdbc3b-14cb-45ac-9c52-6d2a51f69412 / BIRDS OF PREY
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+鴟@chī	[[tls:concept:BIRDS OF PREY::#uuid-f9bdbc3b-14cb-45ac-9c52-6d2a51f69412][BIRDS OF PREY]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / owl-like
+*** 姦@jiān
+:PROPERTIES:
+:CONCEPT: uuid-55559224-c61d-43f8-897d-0d0bbb433e9e / WICKED
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+姦@jiān	[[tls:concept:WICKED::#uuid-55559224-c61d-43f8-897d-0d0bbb433e9e][WICKED]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / wicked, depraved; morally incompetent
+*** 宄@guǐ
+:PROPERTIES:
+:CONCEPT: uuid-a2449b51-359c-450b-8391-86eb6226f936 / THIEF
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+宄@guǐ	[[tls:concept:THIEF::#uuid-a2449b51-359c-450b-8391-86eb6226f936][THIEF]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / thief
+** 奪攘矯虔	snachers and plunderers, forgers and killers.
+:PROPERTIES:
+:SRC: SHU 47.2, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a09:50::奪攘 / 尚書
+:CHARPOS: 50
+:END:
+*** 矯@jiǎo
+:PROPERTIES:
+:CONCEPT: uuid-adea9ba5-1a3d-4962-84d9-226fafdde714 / FAKE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+矯@jiǎo	[[tls:concept:FAKE::#uuid-adea9ba5-1a3d-4962-84d9-226fafdde714][FAKE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / commit an act of faking
+*** 虔@qián
+:PROPERTIES:
+:CONCEPT: uuid-8fbea0bb-819f-4841-88cb-5fc7c7b2b455 / MURDER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 53
+:END:
+虔@qián	[[tls:concept:MURDER::#uuid-8fbea0bb-819f-4841-88cb-5fc7c7b2b455][MURDER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / murderer
+*** 虔@qián
+:PROPERTIES:
+:CONCEPT: uuid-702aaef8-0a15-4c29-9bd7-7b6f68631c8a / MURDER
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 53
+:END:
+虔@qián	[[tls:concept:MURDER::#uuid-702aaef8-0a15-4c29-9bd7-7b6f68631c8a][MURDER]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / commit murder
+** 苗民弗用靈	The Miáo people did not (use=) apply an improving training, [Among the Miáo people they do not use exercises
+:PROPERTIES:
+:SRC: SHU 47.3, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a10:50::苗民 / 尚書
+:CHARPOS: 50
+:END:
+*** 苗@miáo
+:PROPERTIES:
+:CONCEPT: uuid-e182644d-ccd3-4304-ae05-2e67c83508fa / BARBARIAN
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 50
+:END:
+苗@miáo	[[tls:concept:BARBARIAN::#uuid-e182644d-ccd3-4304-ae05-2e67c83508fa][BARBARIAN]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / the Mia2o barbarians
+** 制以刑	they restrained by means of punishments,
+:PROPERTIES:
+:SRC: SHU 47.3, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a11:50::制以 / 尚書
+:CHARPOS: 50
+:END:
+*** 制@zhì
+:PROPERTIES:
+:CONCEPT: uuid-dcce6223-5a0c-4fca-a51b-0d966b01d128 / CONTROL
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 50
+:END:
+制@zhì	[[tls:concept:CONTROL::#uuid-dcce6223-5a0c-4fca-a51b-0d966b01d128][CONTROL]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / control people, keep control over people
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-f68711ab-02c4-43f1-bcb5-d9c7c6bdd953 / USE
+:SYN-FUNC: uuid-15d1678a-ea15-4e9c-a381-75b2f8531623
+:CHARPOS: 51
+:END:
+以@yǐ	[[tls:concept:USE::#uuid-f68711ab-02c4-43f1-bcb5-d9c7c6bdd953][USE]]	V [[tls:syn-func::#uuid-15d1678a-ea15-4e9c-a381-75b2f8531623][vtoN.postadV]] / To V by using> by means of N; with
+** 曰法	and called this the law. [and these were the law
+:PROPERTIES:
+:SRC: SHU 47.3, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a13:1::曰法 / 尚書
+:CHARPOS: 1
+:END:
+*** 法@fǎ
+:PROPERTIES:
+:CONCEPT: uuid-878a28b9-af9a-499c-bbd6-c76b98f3286b / LAW
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 2
+:END:
+法@fǎ	[[tls:concept:LAW::#uuid-878a28b9-af9a-499c-bbd6-c76b98f3286b][LAW]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / law, legal system, legal rule; law text
+** 殺戮無辜	They killed the innocent,
+:PROPERTIES:
+:SRC: SHU 47.3, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a14:50::殺戮 / 尚書
+:CHARPOS: 50
+:END:
+*** 殺戮@shālù
+:PROPERTIES:
+:CONCEPT: uuid-a9aedb23-b0a9-46c1-8db4-9b4bac5e860e / EXECUTE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 50
+:END:
+殺戮@shālù	[[tls:concept:EXECUTE::#uuid-a9aedb23-b0a9-46c1-8db4-9b4bac5e860e][EXECUTE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / execute by any method [note euphonic word order]
+** 爰始淫為劓刖椓黥	and so they started exessively to practise the cutting-off of the nose, the cutting-off of the legs, castration, black-branding;
+:PROPERTIES:
+:SRC: SHU 47.3, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a15:50::爰始 / 尚書
+:CHARPOS: 50
+:END:
+*** 〓#@
+:PROPERTIES:
+:CONCEPT: uuid-644ea77e-693a-4b49-9e3c-1332f7e09145 / CASTRATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+〓#@	[[tls:concept:CASTRATE::#uuid-644ea77e-693a-4b49-9e3c-1332f7e09145][CASTRATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / castration, also castration of women
+*** 始@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-a8886067-c9f4-4d96-a6db-511dca626b03 / BEGIN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+始@shǐ	[[tls:concept:BEGIN::#uuid-a8886067-c9f4-4d96-a6db-511dca626b03][BEGIN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / for the first time, from the very beginning; to begin with; in the beginning
+*** 淫@yín
+:PROPERTIES:
+:CONCEPT: uuid-0e630546-b4cd-4b01-a55f-a8f4ea2e1d92 / EXCESSIVE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+淫@yín	[[tls:concept:EXCESSIVE::#uuid-0e630546-b4cd-4b01-a55f-a8f4ea2e1d92][EXCESSIVE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / excessively, wantonly
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-e691d6bd-5d3a-4371-be47-773ece35b7a5 / ACT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+為@wéi	[[tls:concept:ACT::#uuid-e691d6bd-5d3a-4371-be47-773ece35b7a5][ACT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in action, do what one does
+*** 劓@yì
+:PROPERTIES:
+:CONCEPT: uuid-ac0eaee1-97bf-4880-af3f-25c48e0a9cf7 / MUTILATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+劓@yì	[[tls:concept:MUTILATE::#uuid-ac0eaee1-97bf-4880-af3f-25c48e0a9cf7][MUTILATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / mutilation
+*** 刖@yuè
+:PROPERTIES:
+:CONCEPT: uuid-e08890a9-40dd-4081-9f9f-b25a8daf9442 / MUTILATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+刖@yuè	[[tls:concept:MUTILATE::#uuid-e08890a9-40dd-4081-9f9f-b25a8daf9442][MUTILATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / mutilation of the foot; amputaton of the foot
+*** 刖@yuè
+:PROPERTIES:
+:CONCEPT: uuid-365db584-e808-4af2-b628-4d9d54d66b1e / MUTILATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+刖@yuè	[[tls:concept:MUTILATE::#uuid-365db584-e808-4af2-b628-4d9d54d66b1e][MUTILATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / amputation of the foot
+*** 黥@qíng
+:PROPERTIES:
+:CONCEPT: uuid-70cc20c6-7388-4f8a-b767-cd2eb1eeee23 / BRAND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 57
+:END:
+黥@qíng	[[tls:concept:BRAND::#uuid-70cc20c6-7388-4f8a-b767-cd2eb1eeee23][BRAND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (black) tattoo (on the face of a criminal)
+** 罔差有辭	They made no distinctions between those who (had indictments=) were indicted.
+:PROPERTIES:
+:SRC: SHU 47.3, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a17:1::罔差 / 尚書
+:CHARPOS: 1
+:END:
+*** 差@chā
+:PROPERTIES:
+:CONCEPT: uuid-d271c45d-822e-456d-a1f8-994f921be7a7 / DISTINGUISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+差@chā	[[tls:concept:DISTINGUISH::#uuid-d271c45d-822e-456d-a1f8-994f921be7a7][DISTINGUISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / distinguish; sort out the difference; establish a difference (in treatment)
+*** 有辭@yǒucí
+:PROPERTIES:
+:CONCEPT: uuid-c2e0ecc9-9bdf-4523-afdd-d5f4a57d04cc / ACCUSE
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 3
+:END:
+有辭@yǒucí	[[tls:concept:ACCUSE::#uuid-c2e0ecc9-9bdf-4523-afdd-d5f4a57d04cc][ACCUSE]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / the accused (non-referential)
+** 民興胥漸	The people started to (imbue=) affect each other,
+:PROPERTIES:
+:SRC: SHU 47.4, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a18:50::民興 / 尚書
+:CHARPOS: 50
+:END:
+*** 胥@xū
+:PROPERTIES:
+:CONCEPT: uuid-63182bc2-2954-4dc0-bae2-6c46e25e6e32 / MUTUAL
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 52
+:END:
+胥@xū	[[tls:concept:MUTUAL::#uuid-63182bc2-2954-4dc0-bae2-6c46e25e6e32][MUTUAL]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / mutually, one another
+** 以覆詛盟	and therefore they (overthrew=) violated their oaths and covenants.
+:PROPERTIES:
+:SRC: SHU 47.4, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a21:1::以覆 / 尚書
+:CHARPOS: 1
+:END:
+*** 覆@fù
+:PROPERTIES:
+:CONCEPT: uuid-48ccaeec-0ee2-4fcb-9f07-beeed105454f / OFFEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+覆@fù	[[tls:concept:OFFEND::#uuid-48ccaeec-0ee2-4fcb-9f07-beeed105454f][OFFEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / contravene; offend against
+*** 詛盟@zǔméng
+:PROPERTIES:
+:CONCEPT: uuid-5bbc435a-ba48-4575-8916-5e14119f55c2 / CONTRACT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+詛盟@zǔméng	[[tls:concept:CONTRACT::#uuid-5bbc435a-ba48-4575-8916-5e14119f55c2][CONTRACT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / sworn contracts
+** 虐威庶戮方	all those punished with a tyrannical severity everywhere
+:PROPERTIES:
+:SRC: SHU 47.4, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a22:50::虐威 / 尚書
+:CHARPOS: 50
+:END:
+*** 庶@shù
+:PROPERTIES:
+:CONCEPT: uuid-cb0c66a9-7f54-4b89-8753-73936084e0ef / MANY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 52
+:END:
+庶@shù	[[tls:concept:MANY::#uuid-cb0c66a9-7f54-4b89-8753-73936084e0ef][MANY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the numerous; all the many, all the multifarious
+*** 戮@lù / 僇@lù
+:PROPERTIES:
+:CONCEPT: uuid-dcd41fe5-e3a6-4a99-bea5-abb267fcd933 / EXECUTE
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 53
+:END:
+戮@lù / 僇@lù	[[tls:concept:EXECUTE::#uuid-dcd41fe5-e3a6-4a99-bea5-abb267fcd933][EXECUTE]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / victim of execution
+** 告無辜于上	declared their innocence to (God on) High.
+:PROPERTIES:
+:SRC: SHU 47.4, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a22:50::告無 / 尚書
+:CHARPOS: 50
+:END:
+*** 無辜@wúgū
+:PROPERTIES:
+:CONCEPT: uuid-5d7d2f0a-8994-454f-a96d-993037f8932b / INNOCENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 51
+:END:
+無辜@wúgū	[[tls:concept:INNOCENT::#uuid-5d7d2f0a-8994-454f-a96d-993037f8932b][INNOCENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / innocence
+*** 上@shàng
+:PROPERTIES:
+:CONCEPT: uuid-24daf118-b9a2-4ab3-80b6-54baf6e54196 / GOD
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 54
+:END:
+上@shàng	[[tls:concept:GOD::#uuid-24daf118-b9a2-4ab3-80b6-54baf6e54196][GOD]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / The Sovereign on High 上帝
+** 上帝監民	God on High surveyed the people;
+:PROPERTIES:
+:SRC: SHU 47.4, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a23:50::上帝 / 尚書
+:CHARPOS: 50
+:END:
+*** 上帝@shàngdì
+:PROPERTIES:
+:CONCEPT: uuid-a1da9a8d-0a4f-4533-a8aa-0d71d62e563a / GOD
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 50
+:END:
+上帝@shàngdì	[[tls:concept:GOD::#uuid-a1da9a8d-0a4f-4533-a8aa-0d71d62e563a][GOD]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / the highest god
+*** 監@jiān
+:PROPERTIES:
+:CONCEPT: uuid-58f2b5c0-53df-48cf-a86b-0daf3b42deda / INSPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+監@jiān	[[tls:concept:INSPECT::#uuid-58f2b5c0-53df-48cf-a86b-0daf3b42deda][INSPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / keep an eye on; survey, investigate and assess
+** 罔有馨香德	there was no fragrant virtue,
+:PROPERTIES:
+:SRC: SHU 47.4, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a24:50::罔有 / 尚書
+:CHARPOS: 50
+:END:
+*** 罔有@wǎngyǒu
+:PROPERTIES:
+:CONCEPT: uuid-ee4da94f-4b70-4127-a395-2fbd2bafbf47 / LACK
+:SYN-FUNC: uuid-20bad71e-4921-4af5-8558-8ae18ec86001
+:CHARPOS: 50
+:END:
+罔有@wǎngyǒu	[[tls:concept:LACK::#uuid-ee4da94f-4b70-4127-a395-2fbd2bafbf47][LACK]]	V [[tls:syn-func::#uuid-20bad71e-4921-4af5-8558-8ae18ec86001][VPt0{oN}]] / there is a lack of
+*** 馨@xīn
+:PROPERTIES:
+:CONCEPT: uuid-267cd792-dbcc-4ee6-98bc-4379d9fc4205 / FRAGRANT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 52
+:END:
+馨@xīn	[[tls:concept:FRAGRANT::#uuid-267cd792-dbcc-4ee6-98bc-4379d9fc4205][FRAGRANT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / fragrant
+*** 馨香@xīnxiāng
+:PROPERTIES:
+:CONCEPT: uuid-b06f7ad7-cc16-45e0-a5ea-548b7b184223 / FRAGRANT
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:CHARPOS: 52
+:END:
+馨香@xīnxiāng	[[tls:concept:FRAGRANT::#uuid-b06f7ad7-cc16-45e0-a5ea-548b7b184223][FRAGRANT]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] / fragrant
+** 刑發聞惟腥	the smell sent out by the punishments was rank.
+:PROPERTIES:
+:SRC: SHU 47.4, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a24:50::刑發 / 尚書
+:CHARPOS: 50
+:END:
+*** 刑@xíng
+:PROPERTIES:
+:CONCEPT: uuid-aeed63f1-713a-4770-b7ed-e801cdb165e8 / PUNISH
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+刑@xíng	[[tls:concept:PUNISH::#uuid-aeed63f1-713a-4770-b7ed-e801cdb165e8][PUNISH]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / physical punishment
+*** 腥@xīng
+:PROPERTIES:
+:CONCEPT: uuid-fd2d4ea7-d4e9-4471-941b-a8d704a2ee23 / STINK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 54
+:END:
+腥@xīng	[[tls:concept:STINK::#uuid-fd2d4ea7-d4e9-4471-941b-a8d704a2ee23][STINK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / being putrid; stench of rotten pork; stench of rotten pork or rotten fish; stench; rank, smelly
+** 皇帝哀矜庶戮之不辜	The august souvereign felt grief and pity for the innocence of the punished ones,
+:PROPERTIES:
+:SRC: SHU 47.5, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a25:50::皇帝 / 尚書
+:CHARPOS: 50
+:END:
+*** 皇帝@huángdì
+:PROPERTIES:
+:CONCEPT: uuid-e004df65-8c30-4b9b-80b4-244c382bf032 / KING
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 50
+:END:
+皇帝@huángdì	[[tls:concept:KING::#uuid-e004df65-8c30-4b9b-80b4-244c382bf032][KING]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the August Thearch, the Emperor
+*** 哀矜@āijīn
+:PROPERTIES:
+:CONCEPT: uuid-9174e249-5516-4d74-aac8-75fe690f749f / SYMPATHY
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 52
+:END:
+哀矜@āijīn	[[tls:concept:SYMPATHY::#uuid-9174e249-5516-4d74-aac8-75fe690f749f][SYMPATHY]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / feel intense sympathy with
+*** 不辜@bùgū
+:PROPERTIES:
+:CONCEPT: uuid-cd801a05-661e-4aad-9afa-a2901b27dbb5 / INNOCENT
+:SYN-FUNC: uuid-050a35e8-fed5-4be4-9854-cddf5fe12a5a
+:CHARPOS: 57
+:END:
+不辜@bùgū	[[tls:concept:INNOCENT::#uuid-cd801a05-661e-4aad-9afa-a2901b27dbb5][INNOCENT]]	N [[tls:syn-func::#uuid-050a35e8-fed5-4be4-9854-cddf5fe12a5a][NPab{vt{NEG}+V(.adN)}]] / innocence
+** 主名山川	presided over the naming of mountains and rivers.
+:PROPERTIES:
+:SRC: SHU 47.8, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a42:1::主名 / 尚書
+:CHARPOS: 1
+:END:
+*** 主@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-879fde9d-c577-485f-8095-dfb2f3fbc0c3 / GOVERN
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 1
+:END:
+主@zhǔ	[[tls:concept:GOVERN::#uuid-879fde9d-c577-485f-8095-dfb2f3fbc0c3][GOVERN]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / preside over the V-ing
+** 降咎于苗	and sent down calamity on the Miáo.
+:PROPERTIES:
+:SRC: SHU 47.12.2, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a73:1::降咎 / 尚書
+:CHARPOS: 1
+:END:
+*** 降@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-14bef572-8581-41cf-918e-b356658104e7 / SEND DOWN
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 1
+:END:
+降@jiàng	[[tls:concept:SEND DOWN::#uuid-14bef572-8581-41cf-918e-b356658104e7][SEND DOWN]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / send N1 down to N2
+*** 咎@jiù
+:PROPERTIES:
+:CONCEPT: uuid-7dab8bbe-f850-4f98-b952-3cfff6bee02f / DISASTER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 2
+:END:
+咎@jiù	[[tls:concept:DISASTER::#uuid-7dab8bbe-f850-4f98-b952-3cfff6bee02f][DISASTER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / (deserved) bad fortune; (deserved) disaster; (deserved) calamity
+** 幼子童孫	young sons and young grandsons,
+:PROPERTIES:
+:SRC: SHU 47.13.1, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a80:1::幼子 / 尚書
+:CHARPOS: 1
+:END:
+*** 幼子@yòuzǐ
+:PROPERTIES:
+:CONCEPT: uuid-d8a6be59-0b2d-4561-a490-de407eef2133 / CHILD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+幼子@yòuzǐ	[[tls:concept:CHILD::#uuid-d8a6be59-0b2d-4561-a490-de407eef2133][CHILD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / mere child (younger than the adolescent boy/child 童子)
+** 皆聽朕言	all listen to my words.
+:PROPERTIES:
+:SRC: SHU 47.13.1, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a81:50::皆聽 / 尚書
+:CHARPOS: 50
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 52
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my
+** 俾我一日	endows us with one day (i.e. a short spell of life);
+:PROPERTIES:
+:SRC: SHU 47.13.1, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a87:1::俾我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4faa14de-daaa-43a4-870d-92945f70d9f1 / ONESELF
+:SYN-FUNC: uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b
+:SEM-FEAT: uuid-26d3ec76-dd89-4fd2-b554-92258536af7f
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4faa14de-daaa-43a4-870d-92945f70d9f1][ONESELF]]	N [[tls:syn-func::#uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b][npro0]] {[[tls:sem-feat::#uuid-26d3ec76-dd89-4fd2-b554-92258536af7f][impersonal]]} / impersonal pronoun: one, oneself (as opposed to other things) 自我 (cf. 自我加冕 "be self-congratulatory)
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-7bf3694a-ae38-45f9-86a2-f534afddbd45 / WE
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-7bf3694a-ae38-45f9-86a2-f534afddbd45][WE]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / us; our party (which is also yours)
+** 爾尚敬逆天命	may you respectfully meet Heaven's (order=) will,
+:PROPERTIES:
+:SRC: SHU 47.13.2, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a88:1::爾尚 / 尚書
+:CHARPOS: 1
+:END:
+*** 天命@tiānmìng
+:PROPERTIES:
+:CONCEPT: uuid-533f6496-d740-498f-9ddc-ea03efec1d2c / COMMAND
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:CHARPOS: 5
+:END:
+天命@tiānmìng	[[tls:concept:COMMAND::#uuid-533f6496-d740-498f-9ddc-ea03efec1d2c][COMMAND]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] / command from Heaven, heavenly decree (on any subject)
+** 以奉我一人	thereby (recieving=) obeying me, the One Man.
+:PROPERTIES:
+:SRC: SHU 47.13.2, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a89:50::以奉 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-129095f8-6815-4f8c-a990-a9cc2c83e397 / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 52
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-129095f8-6815-4f8c-a990-a9cc2c83e397][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 我一人
+** 一人有慶	(I), the One Man, shall enjoy happiness
+:PROPERTIES:
+:SRC: SHU 47.13.2, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a94:1::一人 / 尚書
+:CHARPOS: 1
+:END:
+*** 慶@qìng
+:PROPERTIES:
+:CONCEPT: uuid-e3060ec5-a1e1-44f2-97e4-7ee0ea532556 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+慶@qìng	[[tls:concept:HAPPY::#uuid-e3060ec5-a1e1-44f2-97e4-7ee0ea532556][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / blissful happiness
+** 吁來有邦有土	Oh, come, posessors of states and posessors of lands.
+:PROPERTIES:
+:SRC: SHU 47.14, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a98:1::「吁 / 尚書
+:CHARPOS: 1
+:END:
+*** 〓#@
+:PROPERTIES:
+:CONCEPT: uuid-01d3d81e-78a7-4fd4-b8ae-50bb7629f251 / YOU/PLUR
+:SYN-FUNC: uuid-0a0651fc-91dc-4da6-9393-8522d26d8ad6
+:CHARPOS: 1
+:END:
+〓#@	[[tls:concept:YOU-PLUR::#uuid-01d3d81e-78a7-4fd4-b8ae-50bb7629f251][YOU/PLUR]]	 [[tls:syn-func::#uuid-0a0651fc-91dc-4da6-9393-8522d26d8ad6][VP{adN.}{post=npro2}]] / you rulers of the land
+*** 有邦@yǒubāng
+:PROPERTIES:
+:CONCEPT: uuid-c850ef6f-13f2-4a12-9deb-8ceeb25d8b92 / YOU/PLUR
+:SYN-FUNC: uuid-0a0651fc-91dc-4da6-9393-8522d26d8ad6
+:CHARPOS: 3
+:END:
+有邦@yǒubāng	[[tls:concept:YOU-PLUR::#uuid-c850ef6f-13f2-4a12-9deb-8ceeb25d8b92][YOU/PLUR]]	 [[tls:syn-func::#uuid-0a0651fc-91dc-4da6-9393-8522d26d8ad6][VP{adN.}{post=npro2}]] / you rulers over countries
+** 簡孚有眾	You should ascertain and verify and (have the multitude=)act in concert with public opinion;
+:PROPERTIES:
+:SRC: SHU 47.17, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a118:5::簡孚 / 尚書
+:CHARPOS: 5
+:END:
+*** 有眾@yǒuzhòng
+:PROPERTIES:
+:CONCEPT: uuid-04048ea6-c178-4859-b07c-664010fb7f04 / CROWD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 7
+:END:
+有眾@yǒuzhòng	[[tls:concept:CROWD::#uuid-04048ea6-c178-4859-b07c-664010fb7f04][CROWD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / the crowd
+** 墨辟疑赦	When the punishment of black-branding is doubtful and remitted,
+:PROPERTIES:
+:SRC: SHU 47.18.1, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a122:1::墨辟 / 尚書
+:CHARPOS: 1
+:END:
+*** 墨@mò
+:PROPERTIES:
+:CONCEPT: uuid-87a80a9d-bbe0-4a1a-b717-71f597351306 / BRAND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+墨@mò	[[tls:concept:BRAND::#uuid-87a80a9d-bbe0-4a1a-b717-71f597351306][BRAND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / punishment by black-branding; branding
+** 大辟疑赦	When the great punishment (i.e. death penalty) is doubtful and remitted,
+:PROPERTIES:
+:SRC: SHU 47.18.2, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a134:1::大辟 / 尚書
+:CHARPOS: 1
+:END:
+*** 大辟@dàbì
+:PROPERTIES:
+:CONCEPT: uuid-50e69ac0-d58e-4460-930f-74767733e128 / BEHEAD
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+大辟@dàbì	[[tls:concept:BEHEAD::#uuid-50e69ac0-d58e-4460-930f-74767733e128][BEHEAD]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / capital punishment, beheading
+** 墨罰之屬千	The redeemable kinds (of crimes falling ) under black-branding are 1000,
+:PROPERTIES:
+:SRC: SHU 47.18.2, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a137:1::墨罰 / 尚書
+:CHARPOS: 1
+:END:
+*** 墨@mò
+:PROPERTIES:
+:CONCEPT: uuid-87a80a9d-bbe0-4a1a-b717-71f597351306 / BRAND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+墨@mò	[[tls:concept:BRAND::#uuid-87a80a9d-bbe0-4a1a-b717-71f597351306][BRAND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / punishment by black-branding; branding
+** 朕言多懼	My speech (has much fear=) is full of apprehension,
+:PROPERTIES:
+:SRC: SHU 47.21.1, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a172:1::朕言 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 1
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my
+** 朕敬于刑	I am reverently careful about the punishments.
+:PROPERTIES:
+:SRC: SHU 47.21.1, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a173:50::朕敬 / 尚書
+:CHARPOS: 50
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 50
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my
+** 獄貨非寶	Hoardings from criminal cases are no treasures.
+:PROPERTIES:
+:SRC: SHU 47.21.2, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a181:1::獄貨 / 尚書
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024 / PRECIOUS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 4
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024][PRECIOUS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / precious possession; precious things; treasure of high personal, monetary, social or moral value 三寶
+** 咸中有慶	and when all is just there will be happiness.
+:PROPERTIES:
+:SRC: SHU 47.22, tr. Karlgren 74
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_055:2a197:1::咸中 / 尚書
+:CHARPOS: 1
+:END:
+*** 慶@qìng
+:PROPERTIES:
+:CONCEPT: uuid-e3060ec5-a1e1-44f2-97e4-7ee0ea532556 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+慶@qìng	[[tls:concept:HAPPY::#uuid-e3060ec5-a1e1-44f2-97e4-7ee0ea532556][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / blissful happiness

@@ -1,0 +1,156 @@
+# -*- mode: mandoku-tls-view -*-
+#+TITLE: CLOCK
+#+DATE: 2017-03-18T10:35:30.668+09:00        
+#+STARTUP: content
+* =CONCEPT= CLOCK
+:PROPERTIES:
+:CUSTOM_ID: uuid-f2284c79-c50f-45e3-b898-f646400b5573
+:SYNONYM+:  TIMEPIECE
+:SYNONYM+:  TIMEKEEPER
+:SYNONYM+:  TIMER
+:SYNONYM+:  CHRONOMETER
+:SYNONYM+:  CHRONOGRAPH.
+:SYNONYM+:  TIMEPIECE
+:TR_ZH: 測日儀
+:END:
+** DEFINITION
+
+TOOL USED FOR MEASURING TIME.
+
+** NOTES
+
+*** Old Chinese Criteria
+1. The current general word for a sundial is biǎo 表.
+
+2. Niè 臬 and guǐ 晷 are technical terms for a sundial.
+
+*** Modern Chinese Criteria
+鐘
+
+時鐘
+
+座鐘
+
+台鐘
+
+擺鐘
+
+掛鐘
+
+鬧鐘
+
+電鐘
+
+子母鐘
+
+石英鐘
+
+天文鐘
+
+馬蹄表
+
+表
+
+手表
+
+手錶
+
+rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／
+
+** POINTERS
+*** TAXONOMY
+ - [[tls:concept:TIMEPIECE][TIMEPIECE]]
+
+*** KIND OF
+ - [[tls:concept:TOOL][TOOL]]
+
+** SOURCE REFERENCES
+*** BUCK 1988
+ - [[cite:BUCK-1988][BUCK(1988), A Dictionary of Selected Synonyms in the Principal Indo-European Languages]], p.14.53
+
+** WORDS
+   :PROPERTIES:
+   :VISIBILITY: children
+   :END:
+*** 晷 guǐ (OC:kʷrɯwʔ MC:ki )
+:PROPERTIES:
+:CUSTOM_ID: uuid-8a4d14d7-3001-40a5-9082-818c3122012c
+:Char+: 晷(72,8/12) 
+:GY_IDS+: uuid-47966f6c-bc53-4b30-a62e-f3ba63470dcd
+:PY+: guǐ     
+:OC+: kʷrɯwʔ     
+:MC+: ki     
+:END: 
+**** N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / sundial which indicates by the position of the shadow it makes the time of day.
+:PROPERTIES:
+:CUSTOM_ID: uuid-d7ff706d-1e37-454a-9f26-9da18d96ef99
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+sundial which indicates by the position of the shadow it makes the time of day.
+
+****** NOTES
+
+**** N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / (gnomon-like-) indicator;
+:PROPERTIES:
+:CUSTOM_ID: uuid-a5819ef1-6984-4e5d-b3cd-a1ee91888e5f
+:END:
+****** DEFINITION
+
+(gnomon-like-) indicator;
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to be an indicator> use as an indictor; cause to become a manifestation of N
+:PROPERTIES:
+:CUSTOM_ID: uuid-2eaf21a0-8541-4443-9eb4-d1c579619461
+:END:
+****** DEFINITION
+
+cause to be an indicator> use as an indictor; cause to become a manifestation of N
+
+****** NOTES
+
+*** 臬 niè (OC:ŋɡeed MC:ŋet )
+:PROPERTIES:
+:CUSTOM_ID: uuid-47ca3f42-e9f7-4f97-afb7-8c282eccbaf8
+:Char+: 臬(132,4/10) 
+:GY_IDS+: uuid-ad262e7b-dca2-439c-ac10-aaae4aa6cc69
+:PY+: niè     
+:OC+: ŋɡeed     
+:MC+: ŋet     
+:END: 
+**** N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / sundial used to determine the directions, predecessor of the compass
+:PROPERTIES:
+:CUSTOM_ID: uuid-fe21a16f-36a0-4f12-b04a-9278efe1f64b
+:WARRING-STATES-CURRENCY: 2
+:END:
+****** DEFINITION
+
+sundial used to determine the directions, predecessor of the compass
+
+****** NOTES
+
+*** 表 biǎo (OC:prawʔ MC:piɛu )
+:PROPERTIES:
+:CUSTOM_ID: uuid-f2d5dd7f-677c-4958-8a67-6cd65c81de14
+:Char+: 表(145,3/9) 
+:GY_IDS+: uuid-6064302c-25e2-4718-9c4b-4fdf63a6cd7b
+:PY+: biǎo     
+:OC+: prawʔ     
+:MC+: piɛu     
+:END: 
+**** N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / post placed in the ground to measure the size of the shadow in order to measure the time of day;  s...
+:PROPERTIES:
+:CUSTOM_ID: uuid-73975064-50df-468f-9c61-cc9fd679d514
+:WARRING-STATES-CURRENCY: 4
+:END:
+****** DEFINITION
+
+post placed in the ground to measure the size of the shadow in order to measure the time of day;  sun-dial
+
+****** NOTES
+
+** BIBLIOGRAPHY
+bibliography:../core/tlsbib.bib

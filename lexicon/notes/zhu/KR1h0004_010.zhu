@@ -1,0 +1,3694 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 論語 KR1h0004_010
+#+DATE: 2017-02-08T16:40:34+0900
+#+PROPERTY: COMMIT 3589fb3cb19180a8b7bdd0901b8e944ce4d46794
+** 10.1孔子於鄉黨	Confucius, in his local village,
+:PROPERTIES:
+:SRC: LY 10.01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:1a01:50::10 / 論語
+:CHARPOS: 50
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-0a757f0e-6f6f-4e9d-b231-e6f9ac17f3ff / BE IN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 56
+:END:
+於@yú	[[tls:concept:BE IN::#uuid-0a757f0e-6f6f-4e9d-b231-e6f9ac17f3ff][BE IN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to be in; to be at; be conducted in/at (place or time)
+*** 鄉黨@xiāngdǎng
+:PROPERTIES:
+:CONCEPT: uuid-d82e5e9f-6775-447f-bbee-6b7ed7f69771 / HOME
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 57
+:END:
+鄉黨@xiāngdǎng	[[tls:concept:HOME::#uuid-d82e5e9f-6775-447f-bbee-6b7ed7f69771][HOME]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / home village
+** 恂恂如也	was very reticent,
+:PROPERTIES:
+:SRC: LY 10.01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:1a02:50::恂恂 / 論語
+:CHARPOS: 50
+:END:
+*** 恂@xún
+:PROPERTIES:
+:CONCEPT: uuid-ba2f955d-3f51-45f0-942e-9ae091beb449 / FEAR
+:SYN-FUNC: uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2
+:CHARPOS: 50
+:END:
+恂@xún	[[tls:concept:FEAR::#uuid-ba2f955d-3f51-45f0-942e-9ae091beb449][FEAR]]	V [[tls:syn-func::#uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2][vi.red]] / rare and poetic: be all fearful; be reticent
+** 似不能言者	as if unable to speak up on things.
+:PROPERTIES:
+:SRC: LY 10.01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:1a03:50::似不 / 論語
+:CHARPOS: 50
+:END:
+*** 似@sì
+:PROPERTIES:
+:CONCEPT: uuid-c346aa63-dc92-44f9-a8ac-480cfcb782bd / RESEMBLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 50
+:END:
+似@sì	[[tls:concept:RESEMBLE::#uuid-c346aa63-dc92-44f9-a8ac-480cfcb782bd][RESEMBLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / look like; be similar in appearance
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-893ee225-ba0b-4809-89cc-abee8b5f0a88 / SPEAK
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 53
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-893ee225-ba0b-4809-89cc-abee8b5f0a88][SPEAK]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / express oneself in words 能言; speak up; 提意見, come up with statements, come up with one's personal opinions; state one's personal opinion of things; make a proposal
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 54
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / someone who V-s (typically tensed); anyone who V-s
+** 其在宗廟朝廷	But when he is at the ancestral temple, or in court
+:PROPERTIES:
+:SRC: LY 10.01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:1a04:50::其在 / 論語
+:CHARPOS: 50
+:END:
+*** 宗@zōng
+:PROPERTIES:
+:CONCEPT: uuid-606bd992-4540-4e51-bd2b-8e11d11bb9b8 / ANCESTOR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 52
+:END:
+宗@zōng	[[tls:concept:ANCESTOR::#uuid-606bd992-4540-4e51-bd2b-8e11d11bb9b8][ANCESTOR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / ancestry; ancestors
+*** 宗廟@zōngmiào
+:PROPERTIES:
+:CONCEPT: uuid-3200ea64-3004-42e4-b6da-c620f5b69ce0 / TEMPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 52
+:END:
+宗廟@zōngmiào	[[tls:concept:TEMPLE::#uuid-3200ea64-3004-42e4-b6da-c620f5b69ce0][TEMPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / ancestral temples, temples for the ancestors (symbols of the nation, see this word under NATION)
+*** 朝廷@cháotíng
+:PROPERTIES:
+:CONCEPT: uuid-b877ab75-074a-4726-b4c9-73b1de7f220b / COURT
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 54
+:END:
+朝廷@cháotíng	[[tls:concept:COURT::#uuid-b877ab75-074a-4726-b4c9-73b1de7f220b][COURT]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / royal court (apparently never used to refer to any concrete court of a concrete king)
+** 便便言	then he speaks with great facility,
+:PROPERTIES:
+:SRC: LY 10.01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:1a05:50::便便 / 論語
+:CHARPOS: 50
+:END:
+*** 便@biàn
+:PROPERTIES:
+:CONCEPT: uuid-5bdbecda-1f8c-4da4-ab45-3641bab1e2b0 / SKILLFUL
+:SYN-FUNC: uuid-cda1c3c1-e292-40d5-83be-7d4c3ae41a32
+:CHARPOS: 50
+:END:
+便@biàn	[[tls:concept:SKILLFUL::#uuid-5bdbecda-1f8c-4da4-ab45-3641bab1e2b0][SKILLFUL]]	V [[tls:syn-func::#uuid-cda1c3c1-e292-40d5-83be-7d4c3ae41a32][vi.red:adV]] / be very skilful
+** 唯謹爾	only, he remains careful about what he says.
+:PROPERTIES:
+:SRC: LY 10.01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:1a06:50::唯謹 / 論語
+:CHARPOS: 50
+:END:
+*** 唯@wéi
+:PROPERTIES:
+:CONCEPT: uuid-bf6de247-da5d-40f2-ac58-5eb31a2a9a23 / NONETHELESS
+:SYN-FUNC: uuid-f8be1b81-09e5-4165-ad0c-8137c403ebd3
+:CHARPOS: 50
+:END:
+唯@wéi	[[tls:concept:NONETHELESS::#uuid-bf6de247-da5d-40f2-ac58-5eb31a2a9a23][NONETHELESS]]	V [[tls:syn-func::#uuid-f8be1b81-09e5-4165-ad0c-8137c403ebd3][vadV1.postV2]] / only
+*** 謹@jǐn
+:PROPERTIES:
+:CONCEPT: uuid-de916ad1-8a57-4b7f-8c16-2988cd7dd55b / DILIGENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+謹@jǐn	[[tls:concept:DILIGENT::#uuid-de916ad1-8a57-4b7f-8c16-2988cd7dd55b][DILIGENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / be diligent; be meticulous; be assiduous; show diligence
+*** 爾@ěr
+:PROPERTIES:
+:CONCEPT: uuid-26fa6bec-04f7-43a4-9d24-98e8db6e8885 / SUFFIX
+:SYN-FUNC: uuid-692c0672-88f0-46d3-9778-0dcbd2eaf54b
+:CHARPOS: 52
+:END:
+爾@ěr	[[tls:concept:SUFFIX::#uuid-26fa6bec-04f7-43a4-9d24-98e8db6e8885][SUFFIX]]	P [[tls:syn-func::#uuid-692c0672-88f0-46d3-9778-0dcbd2eaf54b][ppostadV]] / suffix after descriptive or intensitive verbs, like rán 然
+** 10.2朝	2. At court,
+:PROPERTIES:
+:SRC: LY 10.02, D.C.Lau 10. p 87
+:DATE: --
+:LOCATION: KR1h0004_010:2a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 朝@cháo
+:PROPERTIES:
+:CONCEPT: uuid-aa44c397-e4b4-4a88-89cb-978ab1f0a8ee / COURT
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2
+:CHARPOS: 5
+:END:
+朝@cháo	[[tls:concept:COURT::#uuid-aa44c397-e4b4-4a88-89cb-978ab1f0a8ee][COURT]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2][place]]} / at court
+** 與下大夫言	when exchanging views with dignitaries of lower rank
+:PROPERTIES:
+:SRC: LY 10.02, D.C.Lau 10. p 87
+:DATE: --
+:LOCATION: KR1h0004_010:2a02:50::與下 / 論語
+:CHARPOS: 50
+:END:
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-230a526c-700a-4a18-8f2d-a78e538b7b1e / WITH
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-65e08e4c-6f19-43b7-875b-def687fa4be1
+:CHARPOS: 50
+:END:
+與@yǔ	[[tls:concept:WITH::#uuid-230a526c-700a-4a18-8f2d-a78e538b7b1e][WITH]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-65e08e4c-6f19-43b7-875b-def687fa4be1][interact]]} / in interaction with; in association with; with; in collusion with, in cooperation with (NB: MOVE THE HOSTILE CASES TO THE HOSTILE VARIANT!)
+*** 下@xià
+:PROPERTIES:
+:CONCEPT: uuid-a0a28415-fe5f-43e2-b1a3-73f4fe71341f / HUMBLE
+:SYN-FUNC: uuid-96118d5b-6adf-432e-ba77-f86d424ffa9f
+:CHARPOS: 51
+:END:
+下@xià	[[tls:concept:HUMBLE::#uuid-a0a28415-fe5f-43e2-b1a3-73f4fe71341f][HUMBLE]]	N [[tls:syn-func::#uuid-96118d5b-6adf-432e-ba77-f86d424ffa9f][n|vadN]] / of low rank; very low in rank; lower in rank, subordinate
+*** 大夫@dàfū
+:PROPERTIES:
+:CONCEPT: uuid-8aade339-b09f-4ada-9280-88141e1351b5 / OFFICIAL
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:CHARPOS: 52
+:END:
+大夫@dàfū	[[tls:concept:OFFICIAL::#uuid-8aade339-b09f-4ada-9280-88141e1351b5][OFFICIAL]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] / dignitary; grand officer; notable; grandee
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-403c651e-0fb3-40aa-bf6a-afa66496f0e2 / DISCUSS
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 54
+:END:
+言@yán	[[tls:concept:DISCUSS::#uuid-403c651e-0fb3-40aa-bf6a-afa66496f0e2][DISCUSS]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / engage in serious discussion (with someone), discuss things (with someone)
+** 侃侃如也	he was outspoken;
+:PROPERTIES:
+:SRC: LY 10.02, D.C.Lau 10. p 87
+:DATE: --
+:LOCATION: KR1h0004_010:2a03:50::侃侃 / 論語
+:CHARPOS: 50
+:END:
+*** 侃侃@kǎnkǎn
+:PROPERTIES:
+:CONCEPT: uuid-ca2f80eb-b2b5-4dd1-a3d0-42b13e7aa24f / FRANK
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 50
+:END:
+侃侃@kǎnkǎn	[[tls:concept:FRANK::#uuid-ca2f80eb-b2b5-4dd1-a3d0-42b13e7aa24f][FRANK]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / all frank 侃侃如
+** 與上大夫言	when speaking with Councellors of upper rank,
+:PROPERTIES:
+:SRC: LY 10.02, D.C.Lau 10. p 87
+:DATE: --
+:LOCATION: KR1h0004_010:2a04:50::與上 / 論語
+:CHARPOS: 50
+:END:
+*** 上@shàng
+:PROPERTIES:
+:CONCEPT: uuid-3023312c-8aa0-4acb-baec-5f1e02acff81 / SUPERIOR
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 51
+:END:
+上@shàng	[[tls:concept:SUPERIOR::#uuid-3023312c-8aa0-4acb-baec-5f1e02acff81][SUPERIOR]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / of superior quality; of the superior kind; superior; of higher status
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-403c651e-0fb3-40aa-bf6a-afa66496f0e2 / DISCUSS
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 54
+:END:
+言@yán	[[tls:concept:DISCUSS::#uuid-403c651e-0fb3-40aa-bf6a-afa66496f0e2][DISCUSS]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / engage in serious discussion (with someone), discuss things (with someone)
+** 誾誾如也	he was very affable.
+:PROPERTIES:
+:SRC: LY 10.02, D.C.Lau 10. p 87
+:DATE: --
+:LOCATION: KR1h0004_010:2a05:50::誾誾 / 論語
+:CHARPOS: 50
+:END:
+*** 誾@yín
+:PROPERTIES:
+:CONCEPT: uuid-532693c4-a646-4650-9318-f5bd7c5ea4d4 / ELOQUENT
+:SYN-FUNC: uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2
+:CHARPOS: 50
+:END:
+誾@yín	[[tls:concept:ELOQUENT::#uuid-532693c4-a646-4650-9318-f5bd7c5ea4d4][ELOQUENT]]	V [[tls:syn-func::#uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2][vi.red]] / reduplicated: well-reasoned and affable
+** 君在	When the ruler was present
+:PROPERTIES:
+:SRC: LY 10.02, D.C.Lau 10. p 87
+:DATE: --
+:LOCATION: KR1h0004_010:2a06:50::君在 / 論語
+:CHARPOS: 50
+:END:
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-d6cb6c13-cf8a-4bed-8622-02113ff2f604 / RULER
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 50
+:END:
+君@jūn	[[tls:concept:RULER::#uuid-d6cb6c13-cf8a-4bed-8622-02113ff2f604][RULER]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / the contextually determinate N's ruler
+*** 在@zài / 才@cái
+:PROPERTIES:
+:CONCEPT: uuid-6f80d8a2-75f5-4962-8d7a-7fee31296f83 / BE IN
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 51
+:END:
+在@zài / 才@cái	[[tls:concept:BE IN::#uuid-6f80d8a2-75f5-4962-8d7a-7fee31296f83][BE IN]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / be in the contextually determinate place > be inside, be there; be present
+** 踧踖如也	he was full of diffident respect,
+:PROPERTIES:
+:SRC: LY 10.02, D.C.Lau 10. p 87
+:DATE: --
+:LOCATION: KR1h0004_010:2a07:50::踧踖 / 論語
+:CHARPOS: 50
+:END:
+*** 踧踖@cùjí
+:PROPERTIES:
+:CONCEPT: uuid-47acbf4c-c6da-4a57-b901-7798bd93f938 / DILIGENT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 50
+:END:
+踧踖@cùjí	[[tls:concept:DILIGENT::#uuid-47acbf4c-c6da-4a57-b901-7798bd93f938][DILIGENT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / be very reverent
+** 與與如也	and he was very cooperative.
+:PROPERTIES:
+:SRC: LY 10.02, D.C.Lau 10. p 87
+:DATE: --
+:LOCATION: KR1h0004_010:2a08:50::與與 / 論語
+:CHARPOS: 50
+:END:
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-ad939c21-4e9a-4ce0-918b-fa6a159a79a6 / COOPERATE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 50
+:END:
+與@yǔ	[[tls:concept:COOPERATE::#uuid-ad939c21-4e9a-4ce0-918b-fa6a159a79a6][COOPERATE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / be affably cooperative
+** 10.3君召使擯	When the ruler summoned him and made him act as an usher
+:PROPERTIES:
+:SRC: LY 10.03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:3a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-d6cb6c13-cf8a-4bed-8622-02113ff2f604 / RULER
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 5
+:END:
+君@jūn	[[tls:concept:RULER::#uuid-d6cb6c13-cf8a-4bed-8622-02113ff2f604][RULER]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / the contextually determinate N's ruler
+*** 召@zhào
+:PROPERTIES:
+:CONCEPT: uuid-4ad4033c-22a9-4d03-aa6d-27dc3ca86fe8 / SUMMON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+召@zhào	[[tls:concept:SUMMON::#uuid-4ad4033c-22a9-4d03-aa6d-27dc3ca86fe8][SUMMON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / summon officially; summon in; call in; deliver a summons (on behalf of a ruler), call in (on behalf of someone else); occasionally with abstract objects 召恥
+*** 使@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-70ceeff2-cffc-471e-9264-88a7d11a2a51 / COMMAND
+:SYN-FUNC: uuid-7de00196-12aa-43e2-9843-72079143c05b
+:CHARPOS: 7
+:END:
+使@shǐ	[[tls:concept:COMMAND::#uuid-70ceeff2-cffc-471e-9264-88a7d11a2a51][COMMAND]]	V [[tls:syn-func::#uuid-7de00196-12aa-43e2-9843-72079143c05b][vtt(oN.)+V{0}]] / command a contextually determinate person (to do something)
+*** 擯@bìn
+:PROPERTIES:
+:CONCEPT: uuid-bad9eb05-32b8-42df-9cf1-f2fdfbd842af / WELCOME
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 8
+:END:
+擯@bìn	[[tls:concept:WELCOME::#uuid-bad9eb05-32b8-42df-9cf1-f2fdfbd842af][WELCOME]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / usher people in and out on behalf of a ruler, act as a butler
+*** 擯@bìn
+:PROPERTIES:
+:CONCEPT: uuid-a28800af-e67d-482c-9dce-338a57b47c84 / WELCOME
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 8
+:END:
+擯@bìn	[[tls:concept:WELCOME::#uuid-a28800af-e67d-482c-9dce-338a57b47c84][WELCOME]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / usher in and welcome on behalf of a ruler
+** 色勃如也	his facial expression was very officious
+:PROPERTIES:
+:SRC: LY 10.03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:3a02:50::色勃 / 論語
+:CHARPOS: 50
+:END:
+*** 色@sè
+:PROPERTIES:
+:CONCEPT: uuid-4bc8df68-ccc3-44a4-958e-11440e4b9ed7 / FACE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+色@sè	[[tls:concept:FACE::#uuid-4bc8df68-ccc3-44a4-958e-11440e4b9ed7][FACE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / outer facial expression as expressive of an inner mental state or psychological disposition; spirit displayed
+*** 勃@bó
+:PROPERTIES:
+:CONCEPT: uuid-917373e1-0035-4cbe-aa48-dac51bb9d86f / DILIGENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 51
+:END:
+勃@bó	[[tls:concept:DILIGENT::#uuid-917373e1-0035-4cbe-aa48-dac51bb9d86f][DILIGENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / be serious, be officious
+** 足躩如也	and his gait was faltering (with nervousness?).
+:PROPERTIES:
+:SRC: LY 10.03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:3a03:50::足躩 / 論語
+:CHARPOS: 50
+:END:
+*** 足@zú
+:PROPERTIES:
+:CONCEPT: uuid-12618a04-9f5a-4ec5-9f37-d64e662012e7 / FOOT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+足@zú	[[tls:concept:FOOT::#uuid-12618a04-9f5a-4ec5-9f37-d64e662012e7][FOOT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / foot; feet
+*** 躩@jué
+:PROPERTIES:
+:CONCEPT: uuid-bc8ff27d-ec66-4a27-9785-921ff7a84b97 / STUMBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 51
+:END:
+躩@jué	[[tls:concept:STUMBLE::#uuid-bc8ff27d-ec66-4a27-9785-921ff7a84b97][STUMBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / walk unsteadily
+** 揖所與立	When bowing to those with whom he was standing,
+:PROPERTIES:
+:SRC: LY 10.03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:3a04:50::揖所 / 論語
+:CHARPOS: 50
+:END:
+*** 揖@yī
+:PROPERTIES:
+:CONCEPT: uuid-b348505b-c670-497e-87c7-6bcd12df63df / BOW DOWN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+揖@yī	[[tls:concept:BOW DOWN::#uuid-b348505b-c670-497e-87c7-6bcd12df63df][BOW DOWN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / bow to (somebody)
+*** 所@suǒ
+:PROPERTIES:
+:CONCEPT: uuid-fb7db905-1970-42fc-8f20-8615aeab5f4e / PRONOUN
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 51
+:END:
+所@suǒ	[[tls:concept:PRONOUN::#uuid-fb7db905-1970-42fc-8f20-8615aeab5f4e][PRONOUN]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the object which
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-48b9a32e-c03f-4267-9fe8-f2db7345b90a / WITH
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-80d9b919-ce61-439a-905f-c49fa05ec625
+:CHARPOS: 52
+:END:
+與@yǔ	[[tls:concept:WITH::#uuid-48b9a32e-c03f-4267-9fe8-f2db7345b90a][WITH]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-80d9b919-ce61-439a-905f-c49fa05ec625][jointly]]} / with
+*** 立@lì
+:PROPERTIES:
+:CONCEPT: uuid-208ea60a-f529-450c-bac2-b33b260d8cae / STAND
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+立@lì	[[tls:concept:STAND::#uuid-208ea60a-f529-450c-bac2-b33b260d8cae][STAND]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / to stand in a certain place; stand in attention (at court); often used with 於 (one might feel this is a transitive usage with a local object rather than a localising complement)
+** 左右手	he used his left and right arms,
+:PROPERTIES:
+:SRC: LY 10.03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:3a05:50::左右 / 論語
+:CHARPOS: 50
+:END:
+*** 左@zuǒ
+:PROPERTIES:
+:CONCEPT: uuid-dda0cd8b-dfba-4f7c-b1a4-4e02bf929a0d / DIRECTION
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+左@zuǒ	[[tls:concept:DIRECTION::#uuid-dda0cd8b-dfba-4f7c-b1a4-4e02bf929a0d][DIRECTION]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / left
+*** 右@yòu
+:PROPERTIES:
+:CONCEPT: uuid-485eba00-553e-48ba-81bb-319e5f987071 / DIRECTION
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 51
+:END:
+右@yòu	[[tls:concept:DIRECTION::#uuid-485eba00-553e-48ba-81bb-319e5f987071][DIRECTION]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / right
+** 衣前後	and his dress did move forward and backward,
+:PROPERTIES:
+:SRC: LY 10.03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:3a06:50::衣前 / 論語
+:CHARPOS: 50
+:END:
+*** 前@qián
+:PROPERTIES:
+:CONCEPT: uuid-7cd680c6-f77c-4af0-97e3-8e0cba885ad9 / ADVANCE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 51
+:END:
+前@qián	[[tls:concept:ADVANCE::#uuid-7cd680c6-f77c-4af0-97e3-8e0cba885ad9][ADVANCE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / move forward (e.g. of one's dress)
+*** 後@hòu
+:PROPERTIES:
+:CONCEPT: uuid-8e25c991-2602-4c5b-9e1d-ca48b77152e3 / WITHDRAW
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 52
+:END:
+後@hòu	[[tls:concept:WITHDRAW::#uuid-8e25c991-2602-4c5b-9e1d-ca48b77152e3][WITHDRAW]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / move backwards (e.g. of clothes)
+** 襜如也	so it rustled properly.
+:PROPERTIES:
+:SRC: LY 10.03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:3a07:50::襜如 / 論語
+:CHARPOS: 50
+:END:
+*** 襜@chān
+:PROPERTIES:
+:CONCEPT: uuid-7102a874-4b4d-4384-ad67-a4b0cd87cbc2 / MOVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 50
+:END:
+襜@chān	[[tls:concept:MOVE::#uuid-7102a874-4b4d-4384-ad67-a4b0cd87cbc2][MOVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / rustle
+** 趨進	When he scuffled forward officiously
+:PROPERTIES:
+:SRC: LY 10.03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:3a08:50::趨進 / 論語
+:CHARPOS: 50
+:END:
+*** 趨@qū / @
+:PROPERTIES:
+:CONCEPT: uuid-955db91d-e260-4737-880a-481895358264 / HURRY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+趨@qū / @	[[tls:concept:HURRY::#uuid-955db91d-e260-4737-880a-481895358264][HURRY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / on the spot; quickly, urgently
+*** 進@jìn
+:PROPERTIES:
+:CONCEPT: uuid-8993edff-729a-41a2-b060-62778fdacfd8 / ADVANCE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+進@jìn	[[tls:concept:ADVANCE::#uuid-8993edff-729a-41a2-b060-62778fdacfd8][ADVANCE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / move forward, step forward, come forward
+** 翼如也	it was with a gliding movement.
+:PROPERTIES:
+:SRC: LY 10.03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:3a09:50::翼如 / 論語
+:CHARPOS: 50
+:END:
+*** 翼@yì
+:PROPERTIES:
+:CONCEPT: uuid-c2375cbb-e574-45f3-b359-55f636ed59f5 / FLOAT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 50
+:END:
+翼@yì	[[tls:concept:FLOAT::#uuid-c2375cbb-e574-45f3-b359-55f636ed59f5][FLOAT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / glide along
+** 賓不顧矣	"The guest is no more turning his head."
+:PROPERTIES:
+:SRC: LY 10.03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:3a11:1::「賓 / 論語
+:CHARPOS: 1
+:END:
+*** 顧@gù
+:PROPERTIES:
+:CONCEPT: uuid-ff7bb667-b676-4544-9dfe-fec6f0a20563 / LOOK
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 3
+:END:
+顧@gù	[[tls:concept:LOOK::#uuid-ff7bb667-b676-4544-9dfe-fec6f0a20563][LOOK]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / turn one's head to look, look in a new direction
+** 10.4入公門	When entering the Duke's gate
+:PROPERTIES:
+:SRC: LY 10.04:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:4a01:50::10 / 論語
+:CHARPOS: 50
+:END:
+*** 入@rù / 內@nèi
+:PROPERTIES:
+:CONCEPT: uuid-d6b34641-5440-43c3-a326-a98e95bca3f1 / ENTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-68b62b98-c97a-43a2-9564-dbab9bf97c20
+:CHARPOS: 54
+:END:
+入@rù / 內@nèi	[[tls:concept:ENTER::#uuid-d6b34641-5440-43c3-a326-a98e95bca3f1][ENTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-68b62b98-c97a-43a2-9564-dbab9bf97c20][object=opening]]} / enter through 入門
+*** 門@mén
+:PROPERTIES:
+:CONCEPT: uuid-51834826-fd7c-4c64-abd6-c7de6e81d3c3 / GATE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 56
+:END:
+門@mén	[[tls:concept:GATE::#uuid-51834826-fd7c-4c64-abd6-c7de6e81d3c3][GATE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / two-wing (main) gate; main gate
+** 鞠躬如也	he was all bows,
+:PROPERTIES:
+:SRC: LY 10.04:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:4a02:50::鞠躬 / 論語
+:CHARPOS: 50
+:END:
+*** 鞠躬@jūgōng
+:PROPERTIES:
+:CONCEPT: uuid-25fc4a1c-97f0-43e8-ab8e-cafe19e8ad3f / BOW
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 50
+:END:
+鞠躬@jūgōng	[[tls:concept:BOW::#uuid-25fc4a1c-97f0-43e8-ab8e-cafe19e8ad3f][BOW]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / bow politely, be all bows
+*** 躬@gōng
+:PROPERTIES:
+:CONCEPT: uuid-a16dfb11-14ce-4318-a721-86e1f6223f39 / BODY
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:SEM-FEAT: uuid-feb10405-63ae-4faf-b10b-9a710610fb26
+:CHARPOS: 51
+:END:
+躬@gōng	[[tls:concept:BODY::#uuid-a16dfb11-14ce-4318-a721-86e1f6223f39][BODY]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] {[[tls:sem-feat::#uuid-feb10405-63ae-4faf-b10b-9a710610fb26][N=self]]} / archaic?: [one's own] body 鞠躬
+** 如不容	as if the gate was not large enough for him.
+:PROPERTIES:
+:SRC: LY 10.04:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:4a03:50::如不 / 論語
+:CHARPOS: 50
+:END:
+*** 如@rú
+:PROPERTIES:
+:CONCEPT: uuid-0f8f5822-172a-4b8e-9638-0b8d81efa46d / AS IF
+:SYN-FUNC: uuid-7cd0c6a6-f273-4571-8b9a-4677eb46175b
+:SEM-FEAT: uuid-2792f4e4-390e-4b9a-b3bd-4dd817903807
+:CHARPOS: 50
+:END:
+如@rú	[[tls:concept:AS IF::#uuid-0f8f5822-172a-4b8e-9638-0b8d81efa46d][AS IF]]	V [[tls:syn-func::#uuid-7cd0c6a6-f273-4571-8b9a-4677eb46175b][vt+V1.postadV2]] {[[tls:sem-feat::#uuid-2792f4e4-390e-4b9a-b3bd-4dd817903807][as if V-ing]]} / as if 出門如見大賓
+*** 容@róng
+:PROPERTIES:
+:CONCEPT: uuid-15bdacc8-1141-40ed-b9f0-d669d72e1d7f / CONTAIN
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 52
+:END:
+容@róng	[[tls:concept:CONTAIN::#uuid-15bdacc8-1141-40ed-b9f0-d669d72e1d7f][CONTAIN]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / be large enough for something determinate
+** 立不中門	When he stood up he did not stand in the middle of the gate,
+:PROPERTIES:
+:SRC: LY 10.04:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:5a01:1::立不 / 論語
+:CHARPOS: 1
+:END:
+*** 立@lì
+:PROPERTIES:
+:CONCEPT: uuid-208ea60a-f529-450c-bac2-b33b260d8cae / STAND
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+立@lì	[[tls:concept:STAND::#uuid-208ea60a-f529-450c-bac2-b33b260d8cae][STAND]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / to stand in a certain place; stand in attention (at court); often used with 於 (one might feel this is a transitive usage with a local object rather than a localising complement)
+*** 中@zhōng
+:PROPERTIES:
+:CONCEPT: uuid-d27a6679-6f09-40ca-a479-8406044deb7d / INSIDE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+中@zhōng	[[tls:concept:INSIDE::#uuid-d27a6679-6f09-40ca-a479-8406044deb7d][INSIDE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / place oneself in the middle of (a gate)
+** 行不履閾	when he moved through he did not step on the threshold.
+:PROPERTIES:
+:SRC: LY 10.04:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:5a02:50::行不 / 論語
+:CHARPOS: 50
+:END:
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-ac13ccd5-0599-44d3-bcaf-aefc85b32460 / WALK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+行@xíng	[[tls:concept:WALK::#uuid-ac13ccd5-0599-44d3-bcaf-aefc85b32460][WALK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / walk, take a walk; travel; be on the move; go on a tour of inspection; walk along
+*** 履@lǚ
+:PROPERTIES:
+:CONCEPT: uuid-a16b001f-a054-40fd-98f0-c7f8a9570052 / TREAD ON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+履@lǚ	[[tls:concept:TREAD ON::#uuid-a16b001f-a054-40fd-98f0-c7f8a9570052][TREAD ON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / walk on, use as one's walking surface tread on; step on (so as to hold down)
+*** 閾@yù
+:PROPERTIES:
+:CONCEPT: uuid-86992275-397f-490c-af6f-d11a62357ac9 / THRESHOLD
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+閾@yù	[[tls:concept:THRESHOLD::#uuid-86992275-397f-490c-af6f-d11a62357ac9][THRESHOLD]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / LIJI 1.27: threshold (of a ruler's house)
+** 過位	When passing the ruler's seat
+:PROPERTIES:
+:SRC: LY 10.04:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:6a01:1::過位 / 論語
+:CHARPOS: 1
+:END:
+*** 過@guò
+:PROPERTIES:
+:CONCEPT: uuid-232e6170-3e27-4635-a4e7-2ea1004cb188 / MEET
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+過@guò	[[tls:concept:MEET::#uuid-232e6170-3e27-4635-a4e7-2ea1004cb188][MEET]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / pass by someone or some place, come upon someone (read guō 過); pass by something (e.g. ruler's seat)
+*** 位@wèi
+:PROPERTIES:
+:CONCEPT: uuid-d1abfd8b-efa5-4357-a82e-d6f80f7142fa / SEAT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+位@wèi	[[tls:concept:SEAT::#uuid-d1abfd8b-efa5-4357-a82e-d6f80f7142fa][SEAT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / the place for a person to sit on, typically a place which indicates the incumbent's status or rank; specifically: ruler's seat
+** 色勃如也	his facial expression was officious
+:PROPERTIES:
+:SRC: LY 10.04:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:6a02:50::色勃 / 論語
+:CHARPOS: 50
+:END:
+*** 色@sè
+:PROPERTIES:
+:CONCEPT: uuid-4bc8df68-ccc3-44a4-958e-11440e4b9ed7 / FACE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+色@sè	[[tls:concept:FACE::#uuid-4bc8df68-ccc3-44a4-958e-11440e4b9ed7][FACE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / outer facial expression as expressive of an inner mental state or psychological disposition; spirit displayed
+*** 勃@bó
+:PROPERTIES:
+:CONCEPT: uuid-917373e1-0035-4cbe-aa48-dac51bb9d86f / DILIGENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 51
+:END:
+勃@bó	[[tls:concept:DILIGENT::#uuid-917373e1-0035-4cbe-aa48-dac51bb9d86f][DILIGENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / be serious, be officious
+** 足躩如也	and his gait was faltering,
+:PROPERTIES:
+:SRC: LY 10.04:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:6a03:50::足躩 / 論語
+:CHARPOS: 50
+:END:
+*** 足@zú
+:PROPERTIES:
+:CONCEPT: uuid-12618a04-9f5a-4ec5-9f37-d64e662012e7 / FOOT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+足@zú	[[tls:concept:FOOT::#uuid-12618a04-9f5a-4ec5-9f37-d64e662012e7][FOOT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / foot; feet
+*** 躩@jué
+:PROPERTIES:
+:CONCEPT: uuid-bc8ff27d-ec66-4a27-9785-921ff7a84b97 / STUMBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 51
+:END:
+躩@jué	[[tls:concept:STUMBLE::#uuid-bc8ff27d-ec66-4a27-9785-921ff7a84b97][STUMBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / walk unsteadily
+** 其言似不足者	in speaking he was as if it (what he said) was not good enough.
+:PROPERTIES:
+:SRC: LY 10.04:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:6a04:50::其言 / 論語
+:CHARPOS: 50
+:END:
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-58248328-733b-4587-bbd8-7c8aa830eebf / SPEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 51
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-58248328-733b-4587-bbd8-7c8aa830eebf][SPEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / statements of opinion, proposal; public or formal utterance which commits the speaker; pronouncement; public or formal pronouncement, public or formal suggestion; Sometimes less specifically: proposal; what one says, speech; language; public proposal, public speech, words
+*** 似@sì
+:PROPERTIES:
+:CONCEPT: uuid-c346aa63-dc92-44f9-a8ac-480cfcb782bd / RESEMBLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+似@sì	[[tls:concept:RESEMBLE::#uuid-c346aa63-dc92-44f9-a8ac-480cfcb782bd][RESEMBLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / look like; be similar in appearance
+*** 足@zú
+:PROPERTIES:
+:CONCEPT: uuid-c385612d-84fe-4dbe-87e6-58f7bb62759d / SUFFICIENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 54
+:END:
+足@zú	[[tls:concept:SUFFICIENT::#uuid-c385612d-84fe-4dbe-87e6-58f7bb62759d][SUFFICIENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / 甚足be sufficient; be satisfactory; be well supplied; (e.g. of words:) be sufficient for the occasion; be sufficiently qualified
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 55
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / someone who V-s (typically tensed); anyone who V-s
+** 攝齊升堂	When lifting up the hem of his garment to ascend the main hall
+:PROPERTIES:
+:SRC: LY 10.04:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:7a01:1::攝齊 / 論語
+:CHARPOS: 1
+:END:
+*** 攝@shè
+:PROPERTIES:
+:CONCEPT: uuid-fbe58f45-f4cc-4330-9fb0-166303cbf1c5 / LIFT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+攝@shè	[[tls:concept:LIFT::#uuid-fbe58f45-f4cc-4330-9fb0-166303cbf1c5][LIFT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gather up (as skirts)
+*** 齊@qí
+:PROPERTIES:
+:CONCEPT: uuid-ea662203-f2e8-476b-96ab-1947a3221f48 / HEM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+齊@qí	[[tls:concept:HEM::#uuid-ea662203-f2e8-476b-96ab-1947a3221f48][HEM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / hem of garment
+*** 升@shēng
+:PROPERTIES:
+:CONCEPT: uuid-d357b4bb-33e9-46cc-b66e-c8a90081dffa / ASCEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+升@shēng	[[tls:concept:ASCEND::#uuid-d357b4bb-33e9-46cc-b66e-c8a90081dffa][ASCEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / rise up; scale up; go up; go up to
+*** 堂@táng
+:PROPERTIES:
+:CONCEPT: uuid-69c8f482-640c-4e7f-92e8-01714de7c9f2 / ROOM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+堂@táng	[[tls:concept:ROOM::#uuid-69c8f482-640c-4e7f-92e8-01714de7c9f2][ROOM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / main sitting room and ceremonial room, main wing in a private house 客庭
+** 鞠躬如也	he was all bows,
+:PROPERTIES:
+:SRC: LY 10.04:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:7a02:50::鞠躬 / 論語
+:CHARPOS: 50
+:END:
+*** 鞠躬@jūgōng
+:PROPERTIES:
+:CONCEPT: uuid-25fc4a1c-97f0-43e8-ab8e-cafe19e8ad3f / BOW
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 50
+:END:
+鞠躬@jūgōng	[[tls:concept:BOW::#uuid-25fc4a1c-97f0-43e8-ab8e-cafe19e8ad3f][BOW]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / bow politely, be all bows
+*** 躬@gōng
+:PROPERTIES:
+:CONCEPT: uuid-a16dfb11-14ce-4318-a721-86e1f6223f39 / BODY
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:SEM-FEAT: uuid-feb10405-63ae-4faf-b10b-9a710610fb26
+:CHARPOS: 51
+:END:
+躬@gōng	[[tls:concept:BODY::#uuid-a16dfb11-14ce-4318-a721-86e1f6223f39][BODY]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] {[[tls:sem-feat::#uuid-feb10405-63ae-4faf-b10b-9a710610fb26][N=self]]} / archaic?: [one's own] body 鞠躬
+** 屏氣似不息者	and he blocked his breath like someone who is not breathing.
+:PROPERTIES:
+:SRC: LY 10.04:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:7a03:50::屏氣 / 論語
+:CHARPOS: 50
+:END:
+*** 屏@bǐng
+:PROPERTIES:
+:CONCEPT: uuid-369333a4-402e-4db1-9fee-2bee6ff2d9fc / BLOCK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+屏@bǐng	[[tls:concept:BLOCK::#uuid-369333a4-402e-4db1-9fee-2bee6ff2d9fc][BLOCK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / block off (e.g. hold one's breath)
+*** 氣@qì
+:PROPERTIES:
+:CONCEPT: uuid-432093d0-ec56-40e0-9976-d9235e734862 / AIR
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:SEM-FEAT: uuid-bee13a93-ef00-4d10-b281-bffeb2f64a69
+:CHARPOS: 51
+:END:
+氣@qì	[[tls:concept:AIR::#uuid-432093d0-ec56-40e0-9976-d9235e734862][AIR]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] {[[tls:sem-feat::#uuid-bee13a93-ef00-4d10-b281-bffeb2f64a69][mobile]]} / breath; breath and inner vital energies, breath and spirits; vital spirits of a person
+*** 似@sì
+:PROPERTIES:
+:CONCEPT: uuid-c346aa63-dc92-44f9-a8ac-480cfcb782bd / RESEMBLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+似@sì	[[tls:concept:RESEMBLE::#uuid-c346aa63-dc92-44f9-a8ac-480cfcb782bd][RESEMBLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / look like; be similar in appearance
+*** 似@sì
+:PROPERTIES:
+:CONCEPT: uuid-8319c345-35c7-45df-9aef-9c0aec7831f4 / RESEMBLE
+:SYN-FUNC: uuid-97424691-5023-4a2e-b90f-d60a1e3b5673
+:CHARPOS: 52
+:END:
+似@sì	[[tls:concept:RESEMBLE::#uuid-8319c345-35c7-45df-9aef-9c0aec7831f4][RESEMBLE]]	V [[tls:syn-func::#uuid-97424691-5023-4a2e-b90f-d60a1e3b5673][vt{0}oN.postadV]] / like; as if
+*** 息@xī
+:PROPERTIES:
+:CONCEPT: uuid-d5283d7b-9208-4f95-a9f7-4986783ebd15 / BREATHE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+息@xī	[[tls:concept:BREATHE::#uuid-d5283d7b-9208-4f95-a9f7-4986783ebd15][BREATHE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / breathe
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 55
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / someone who V-s (typically tensed); anyone who V-s
+** 出	As he left,
+:PROPERTIES:
+:SRC: LY 10.04:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:8a01:1::出， / 論語
+:CHARPOS: 1
+:END:
+*** 出@chū
+:PROPERTIES:
+:CONCEPT: uuid-e8249805-ccd4-4b8d-b005-b9d01612a299 / LEAVE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 1
+:END:
+出@chū	[[tls:concept:LEAVE::#uuid-e8249805-ccd4-4b8d-b005-b9d01612a299][LEAVE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / depart, leave the place where one happens to be (to leave the room, leave the house; leave the capital); come out; set out on an expedition
+** 降一等	when he descended one step,
+:PROPERTIES:
+:SRC: LY 10.04:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:8a02:50::降一 / 論語
+:CHARPOS: 50
+:END:
+*** 降@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-ff5c13d3-8617-4dfc-b173-6ade440c464d / DESCEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-4d95c7b2-eece-4d45-9f15-bcc276f7e529
+:CHARPOS: 50
+:END:
+降@jiàng	[[tls:concept:DESCEND::#uuid-ff5c13d3-8617-4dfc-b173-6ade440c464d][DESCEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-4d95c7b2-eece-4d45-9f15-bcc276f7e529][object=source]]} / get down from, go down from
+*** 等@děng
+:PROPERTIES:
+:CONCEPT: uuid-5bf31436-e76b-481c-acc7-fbc0eb271f9f / STAIRS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+等@děng	[[tls:concept:STAIRS::#uuid-5bf31436-e76b-481c-acc7-fbc0eb271f9f][STAIRS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / step (on stairs)
+** 逞顏色	he wore a look of satisfaction,
+:PROPERTIES:
+:SRC: LY 10.04:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:8a03:50::逞顏 / 論語
+:CHARPOS: 50
+:END:
+*** 顏色@yánsè
+:PROPERTIES:
+:CONCEPT: uuid-7bd655d4-7191-469b-88dd-1af4a8d77c42 / FACE
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:CHARPOS: 51
+:END:
+顏色@yánsè	[[tls:concept:FACE::#uuid-7bd655d4-7191-469b-88dd-1af4a8d77c42][FACE]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] / facial expression, countenance; sometimes non-expressive: facial complexion 顏色黯黑 "my facial complexion is all dark".
+** 怡怡如也	all at ease.
+:PROPERTIES:
+:SRC: LY 10.04:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:8a04:50::怡怡 / 論語
+:CHARPOS: 50
+:END:
+*** 怡怡如@yíyírú
+:PROPERTIES:
+:CONCEPT: uuid-f701d021-10ba-4e01-a3f9-0b66ba651974 / HAPPY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 50
+:END:
+怡怡如@yíyírú	[[tls:concept:HAPPY::#uuid-f701d021-10ba-4e01-a3f9-0b66ba651974][HAPPY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be happily contented and at ease; give an appearance of contentment and ease
+*** 怡@yí / 台@yí
+:PROPERTIES:
+:CONCEPT: uuid-bc1a1f67-55bc-4779-93ab-de57854bfa5f / DELIGHT
+:SYN-FUNC: uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 50
+:END:
+怡@yí / 台@yí	[[tls:concept:DELIGHT::#uuid-bc1a1f67-55bc-4779-93ab-de57854bfa5f][DELIGHT]]	V [[tls:syn-func::#uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2][vi.red]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / show manifest pleasure or satisfaction
+** 沒階趨進	When he reached the end of the steps he scuffled forward officiously
+:PROPERTIES:
+:SRC: LY 10.04:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:9a01:1::沒階 / 論語
+:CHARPOS: 1
+:END:
+*** 沒@mò
+:PROPERTIES:
+:CONCEPT: uuid-d8e27c17-1984-4719-9833-4bf071c0ba4f / SINK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+沒@mò	[[tls:concept:SINK::#uuid-d8e27c17-1984-4719-9833-4bf071c0ba4f][SINK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / sink into, sink into so as to drown in; dive into (water); get to the bottom of (a staircase)
+*** 階@jiē
+:PROPERTIES:
+:CONCEPT: uuid-7bb7dcc0-e628-4476-98b6-8b1b80959e3c / STAIRS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+階@jiē	[[tls:concept:STAIRS::#uuid-7bb7dcc0-e628-4476-98b6-8b1b80959e3c][STAIRS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / stairs
+*** 趨@qū / @
+:PROPERTIES:
+:CONCEPT: uuid-955db91d-e260-4737-880a-481895358264 / HURRY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 3
+:END:
+趨@qū / @	[[tls:concept:HURRY::#uuid-955db91d-e260-4737-880a-481895358264][HURRY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / on the spot; quickly, urgently
+** 翼如也	it was as if he was gliding.
+:PROPERTIES:
+:SRC: LY 10.04:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:9a02:50::翼如 / 論語
+:CHARPOS: 50
+:END:
+*** 翼@yì
+:PROPERTIES:
+:CONCEPT: uuid-c2375cbb-e574-45f3-b359-55f636ed59f5 / FLOAT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 50
+:END:
+翼@yì	[[tls:concept:FLOAT::#uuid-c2375cbb-e574-45f3-b359-55f636ed59f5][FLOAT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / glide along
+** 踧踖如也	his bearing was full of diffident respect.
+:PROPERTIES:
+:SRC: LY 10.04:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:10a02:1::踧踖 / 論語
+:CHARPOS: 1
+:END:
+*** 踧踖@cùjí
+:PROPERTIES:
+:CONCEPT: uuid-47acbf4c-c6da-4a57-b901-7798bd93f938 / DILIGENT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 1
+:END:
+踧踖@cùjí	[[tls:concept:DILIGENT::#uuid-47acbf4c-c6da-4a57-b901-7798bd93f938][DILIGENT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / be very reverent
+** 10.5執圭	When holding a jade tablet
+:PROPERTIES:
+:SRC: LY 10.05:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:11a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 執@zhí
+:PROPERTIES:
+:CONCEPT: uuid-966769c5-d471-4dbd-8ecf-0d7767b8842c / HOLD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-1e331347-13e3-42a1-a1a8-8e4404f03509
+:CHARPOS: 5
+:END:
+執@zhí	[[tls:concept:HOLD::#uuid-966769c5-d471-4dbd-8ecf-0d7767b8842c][HOLD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-1e331347-13e3-42a1-a1a8-8e4404f03509][continuous]]} / hold and carry (any object) with one or with two hands; wield
+*** 圭@guī
+:PROPERTIES:
+:CONCEPT: uuid-104e0430-4661-458d-9abe-db881d57300f / JADE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+圭@guī	[[tls:concept:JADE::#uuid-104e0430-4661-458d-9abe-db881d57300f][JADE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / jade tablet indicating rank
+** 鞠躬如也	he was bowing and bending
+:PROPERTIES:
+:SRC: LY 10.05:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:11a02:50::鞠躬 / 論語
+:CHARPOS: 50
+:END:
+*** 鞠躬@jūgōng
+:PROPERTIES:
+:CONCEPT: uuid-25fc4a1c-97f0-43e8-ab8e-cafe19e8ad3f / BOW
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 50
+:END:
+鞠躬@jūgōng	[[tls:concept:BOW::#uuid-25fc4a1c-97f0-43e8-ab8e-cafe19e8ad3f][BOW]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / bow politely, be all bows
+*** 躬@gōng
+:PROPERTIES:
+:CONCEPT: uuid-a16dfb11-14ce-4318-a721-86e1f6223f39 / BODY
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:SEM-FEAT: uuid-feb10405-63ae-4faf-b10b-9a710610fb26
+:CHARPOS: 51
+:END:
+躬@gōng	[[tls:concept:BODY::#uuid-a16dfb11-14ce-4318-a721-86e1f6223f39][BODY]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] {[[tls:sem-feat::#uuid-feb10405-63ae-4faf-b10b-9a710610fb26][N=self]]} / archaic?: [one's own] body 鞠躬
+** 如不勝	as if he was unable to bear the weight.
+:PROPERTIES:
+:SRC: LY 10.05:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:11a03:50::如不 / 論語
+:CHARPOS: 50
+:END:
+*** 勝@shèng
+:PROPERTIES:
+:CONCEPT: uuid-0ce7044c-0495-4748-a54b-b8a030b52db4 / COPE
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 52
+:END:
+勝@shèng	[[tls:concept:COPE::#uuid-0ce7044c-0495-4748-a54b-b8a030b52db4][COPE]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / manage to cope successfully with a contextually determinate matter
+** 上如揖	Ascending stairs it was as if he was bowing,
+:PROPERTIES:
+:SRC: LY 10.05:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:11a04:50::上如 / 論語
+:CHARPOS: 50
+:END:
+*** 上@shàng
+:PROPERTIES:
+:CONCEPT: uuid-4d2b8bbc-40e9-4be1-9990-66ae98fb452f / ASCEND
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 50
+:END:
+上@shàng	[[tls:concept:ASCEND::#uuid-4d2b8bbc-40e9-4be1-9990-66ae98fb452f][ASCEND]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / go up; move upwards
+*** 如@rú
+:PROPERTIES:
+:CONCEPT: uuid-fc56481d-cf73-4351-ab48-6faa0c2b878a / RESEMBLE
+:SYN-FUNC: uuid-7cd0c6a6-f273-4571-8b9a-4677eb46175b
+:SEM-FEAT: uuid-1f62dda4-1c73-43a4-9ace-3f21bb937786
+:CHARPOS: 51
+:END:
+如@rú	[[tls:concept:RESEMBLE::#uuid-fc56481d-cf73-4351-ab48-6faa0c2b878a][RESEMBLE]]	V [[tls:syn-func::#uuid-7cd0c6a6-f273-4571-8b9a-4677eb46175b][vt+V1.postadV2]] {[[tls:sem-feat::#uuid-1f62dda4-1c73-43a4-9ace-3f21bb937786][V1 the same way as V2]]} / 好德如好色 in the same way as
+*** 揖@yī
+:PROPERTIES:
+:CONCEPT: uuid-a49f36cf-2634-492e-b49f-0ef129326f25 / BOW DOWN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+揖@yī	[[tls:concept:BOW DOWN::#uuid-a49f36cf-2634-492e-b49f-0ef129326f25][BOW DOWN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / give a salute with a ceremonious bow
+** 下如授	descending stairs it was as if he were handing something down to someone.
+:PROPERTIES:
+:SRC: LY 10.05:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:11a05:50::下如 / 論語
+:CHARPOS: 50
+:END:
+*** 下@xià
+:PROPERTIES:
+:CONCEPT: uuid-5490cf36-763e-4fe3-b786-6a8e85a63538 / DESCEND
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 50
+:END:
+下@xià	[[tls:concept:DESCEND::#uuid-5490cf36-763e-4fe3-b786-6a8e85a63538][DESCEND]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / go down, get down (from a contextually determinate place); dismount from a carriage
+*** 如@rú
+:PROPERTIES:
+:CONCEPT: uuid-fc56481d-cf73-4351-ab48-6faa0c2b878a / RESEMBLE
+:SYN-FUNC: uuid-7cd0c6a6-f273-4571-8b9a-4677eb46175b
+:SEM-FEAT: uuid-1f62dda4-1c73-43a4-9ace-3f21bb937786
+:CHARPOS: 51
+:END:
+如@rú	[[tls:concept:RESEMBLE::#uuid-fc56481d-cf73-4351-ab48-6faa0c2b878a][RESEMBLE]]	V [[tls:syn-func::#uuid-7cd0c6a6-f273-4571-8b9a-4677eb46175b][vt+V1.postadV2]] {[[tls:sem-feat::#uuid-1f62dda4-1c73-43a4-9ace-3f21bb937786][V1 the same way as V2]]} / 好德如好色 in the same way as
+*** 授@shòu / 受@shòu
+:PROPERTIES:
+:CONCEPT: uuid-10c3b964-045e-418e-a0ec-1f4a34913205 / GIVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 52
+:END:
+授@shòu / 受@shòu	[[tls:concept:GIVE::#uuid-10c3b964-045e-418e-a0ec-1f4a34913205][GIVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / hand something over
+** 勃如戰色	He was full of reverence, with a trembling expression.
+:PROPERTIES:
+:SRC: LY 10.05:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:11a06:50::勃如 / 論語
+:CHARPOS: 50
+:END:
+*** 勃@bó
+:PROPERTIES:
+:CONCEPT: uuid-917373e1-0035-4cbe-aa48-dac51bb9d86f / DILIGENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 50
+:END:
+勃@bó	[[tls:concept:DILIGENT::#uuid-917373e1-0035-4cbe-aa48-dac51bb9d86f][DILIGENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / be serious, be officious
+*** 戰@zhàn
+:PROPERTIES:
+:CONCEPT: uuid-61138d72-569e-4fab-bba8-5a119f236446 / TREMBLE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 52
+:END:
+戰@zhàn	[[tls:concept:TREMBLE::#uuid-61138d72-569e-4fab-bba8-5a119f236446][TREMBLE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / trembling, shivering
+*** 色@sè
+:PROPERTIES:
+:CONCEPT: uuid-4bc8df68-ccc3-44a4-958e-11440e4b9ed7 / FACE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+色@sè	[[tls:concept:FACE::#uuid-4bc8df68-ccc3-44a4-958e-11440e4b9ed7][FACE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / outer facial expression as expressive of an inner mental state or psychological disposition; spirit displayed
+** 足蹜蹜	His feet shuffled along
+:PROPERTIES:
+:SRC: LY 10.05:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:11a07:50::足蹜 / 論語
+:CHARPOS: 50
+:END:
+*** 足@zú
+:PROPERTIES:
+:CONCEPT: uuid-12618a04-9f5a-4ec5-9f37-d64e662012e7 / FOOT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+足@zú	[[tls:concept:FOOT::#uuid-12618a04-9f5a-4ec5-9f37-d64e662012e7][FOOT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / foot; feet
+** 如有循	as if he was following after something or somebody.
+:PROPERTIES:
+:SRC: LY 10.05:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:11a07:50::如有 / 論語
+:CHARPOS: 50
+:END:
+*** 循@xún
+:PROPERTIES:
+:CONCEPT: uuid-fbedfdc1-4145-4c80-a38c-7c89146f04eb / FOLLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 52
+:END:
+循@xún	[[tls:concept:FOLLOW::#uuid-fbedfdc1-4145-4c80-a38c-7c89146f04eb][FOLLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / follow the same course of action as
+** 享禮	When presenting gifts
+:PROPERTIES:
+:SRC: LY 10.05:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:12a01:1::享禮 / 論語
+:CHARPOS: 1
+:END:
+*** 享@xiǎng
+:PROPERTIES:
+:CONCEPT: uuid-2fb5f30e-1710-4128-8a86-a14c27254c39 / GIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+享@xiǎng	[[tls:concept:GIVE::#uuid-2fb5f30e-1710-4128-8a86-a14c27254c39][GIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / hand up
+*** 禮@lǐ
+:PROPERTIES:
+:CONCEPT: uuid-8fbb3a45-0793-4f26-a9e8-107daeb70e7c / GIFT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+禮@lǐ	[[tls:concept:GIFT::#uuid-8fbb3a45-0793-4f26-a9e8-107daeb70e7c][GIFT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / present
+** 有容色	he had an accommodating facial expression.
+:PROPERTIES:
+:SRC: LY 10.05:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:12a02:50::有容 / 論語
+:CHARPOS: 50
+:END:
+*** 容@róng
+:PROPERTIES:
+:CONCEPT: uuid-11e5f5ec-05c8-4e6c-b613-08514206613a / APPEARANCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+容@róng	[[tls:concept:APPEARANCE::#uuid-11e5f5ec-05c8-4e6c-b613-08514206613a][APPEARANCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / proper dignified appearance, appropriate form, ritually correct form
+** 私覿	In private audience
+:PROPERTIES:
+:SRC: LY 10.05:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:13a01:1::私覿 / 論語
+:CHARPOS: 1
+:END:
+*** 私@sī
+:PROPERTIES:
+:CONCEPT: uuid-9728e633-d587-403d-8f0c-2f7223dea5eb / PRIVATE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+私@sī	[[tls:concept:PRIVATE::#uuid-9728e633-d587-403d-8f0c-2f7223dea5eb][PRIVATE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / unofficially, in a non-official way; for one's own personal purposes; in a way not defined by one's public obligations; in an unlicenced way,unofficially, personally, in an unauthorised way; privately and not on an official public occasion
+*** 覿@dí
+:PROPERTIES:
+:CONCEPT: uuid-ad867597-9e6d-4fc5-b297-b38aeb754cd2 / VISIT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 2
+:END:
+覿@dí	[[tls:concept:VISIT::#uuid-ad867597-9e6d-4fc5-b297-b38aeb754cd2][VISIT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / make a visit (to a ruler or person in authority)
+** 愉愉如也	he was completely relaxed.
+:PROPERTIES:
+:SRC: LY 10.05:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:13a02:50::愉愉 / 論語
+:CHARPOS: 50
+:END:
+*** 愉@yú / 愈@yù
+:PROPERTIES:
+:CONCEPT: uuid-d8b49fcf-60e8-4ac6-a4ef-2c7710db81a8 / HAPPY
+:SYN-FUNC: uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2
+:CHARPOS: 50
+:END:
+愉@yú / 愈@yù	[[tls:concept:HAPPY::#uuid-d8b49fcf-60e8-4ac6-a4ef-2c7710db81a8][HAPPY]]	V [[tls:syn-func::#uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2][vi.red]] / be all at ease and happy; be completely relaxed
+*** 愉@yú / 愈@yù
+:PROPERTIES:
+:CONCEPT: uuid-4c26fc16-3a6e-48dd-812c-b08e67f2612b / HAPPY
+:SYN-FUNC: uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 50
+:END:
+愉@yú / 愈@yù	[[tls:concept:HAPPY::#uuid-4c26fc16-3a6e-48dd-812c-b08e67f2612b][HAPPY]]	V [[tls:syn-func::#uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2][vi.red]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / show mild happiness
+** 10.6君子不以紺緅飾	The gentleman does not wear dark purple silk or maroon silk for decorativeness,
+:PROPERTIES:
+:SRC: LY 10.06:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:14a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 5
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+*** 紺@gàn
+:PROPERTIES:
+:CONCEPT: uuid-7ec33f8e-b674-40d5-b8c2-678d244e9e67 / CLOTH
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 9
+:END:
+紺@gàn	[[tls:concept:CLOTH::#uuid-7ec33f8e-b674-40d5-b8c2-678d244e9e67][CLOTH]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / made of deep purple dark purple silk
+*** 紺@gàn
+:PROPERTIES:
+:CONCEPT: uuid-4316842c-854f-4c00-88e0-b441b88ea86b / CLOTH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 9
+:END:
+紺@gàn	[[tls:concept:CLOTH::#uuid-4316842c-854f-4c00-88e0-b441b88ea86b][CLOTH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / dark purple silk
+*** 緅@zōu
+:PROPERTIES:
+:CONCEPT: uuid-9ac458d5-b6f3-4200-87fc-a0ab1952e12b / CLOTH
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 10
+:END:
+緅@zōu	[[tls:concept:CLOTH::#uuid-9ac458d5-b6f3-4200-87fc-a0ab1952e12b][CLOTH]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / made of brownish purple silk
+*** 飾@shì
+:PROPERTIES:
+:CONCEPT: uuid-2797ce6e-622f-459b-86bf-1140e918fe3d / ORNAMENT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 11
+:END:
+飾@shì	[[tls:concept:ORNAMENT::#uuid-2797ce6e-622f-459b-86bf-1140e918fe3d][ORNAMENT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / ornamentation, embellishment; decorating, decoration, make-up
+** 紅紫不以為褻服	red silk and vermillion silk he does not use in less formal court dress.
+:PROPERTIES:
+:SRC: LY 10.06:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:14a02:50::紅紫 / 論語
+:CHARPOS: 50
+:END:
+*** 紅@hóng
+:PROPERTIES:
+:CONCEPT: uuid-b9768f75-3a06-4813-91dc-6cb8be8740a1 / RED
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 50
+:END:
+紅@hóng	[[tls:concept:RED::#uuid-b9768f75-3a06-4813-91dc-6cb8be8740a1][RED]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / whitish red [silk]
+*** 褻@xiè
+:PROPERTIES:
+:CONCEPT: uuid-ed2fb8c7-1e6e-4c8f-a210-76140c86a232 / INTIMATE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 55
+:END:
+褻@xiè	[[tls:concept:INTIMATE::#uuid-ed2fb8c7-1e6e-4c8f-a210-76140c86a232][INTIMATE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / favoured; intimate; private (dress; 褻衣 underwear); informal (dress 褻服 informal dress)
+** 當暑	When it was hot
+:PROPERTIES:
+:SRC: LY 10.06:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:15a01:1::當暑 / 論語
+:CHARPOS: 1
+:END:
+*** 當@dāng
+:PROPERTIES:
+:CONCEPT: uuid-0b149158-6668-444f-bd7c-3f532f9048ba / WHEN
+:SYN-FUNC: uuid-fa5f4a33-4e77-4c19-8f1c-c674e99177e5
+:CHARPOS: 1
+:END:
+當@dāng	[[tls:concept:WHEN::#uuid-0b149158-6668-444f-bd7c-3f532f9048ba][WHEN]]	V [[tls:syn-func::#uuid-fa5f4a33-4e77-4c19-8f1c-c674e99177e5][vt0+V0.adS]] / while it was V-ing 當暑 [or: vt0+N.adS???]
+*** 暑@shǔ
+:PROPERTIES:
+:CONCEPT: uuid-ae220f41-be33-4921-857f-205a032fc282 / HOT
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 2
+:END:
+暑@shǔ	[[tls:concept:HOT::#uuid-ae220f41-be33-4921-857f-205a032fc282][HOT]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / it is hot
+** 袗絺綌	he wore unlined fine or coarse silk
+:PROPERTIES:
+:SRC: LY 10.06:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:15a02:50::袗絺 / 論語
+:CHARPOS: 50
+:END:
+*** 袗@zhěn
+:PROPERTIES:
+:CONCEPT: uuid-4b85f270-19f0-4792-b068-0ac643d8bbca / THIN
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 50
+:END:
+袗@zhěn	[[tls:concept:THIN::#uuid-4b85f270-19f0-4792-b068-0ac643d8bbca][THIN]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / (of clothes) thin, not double
+*** 絺@chī
+:PROPERTIES:
+:CONCEPT: uuid-b16f4343-27fb-40f6-8187-76d37af809a4 / CLOTH
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 51
+:END:
+絺@chī	[[tls:concept:CLOTH::#uuid-b16f4343-27fb-40f6-8187-76d37af809a4][CLOTH]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / [OC Reconstruction surely qhlvl] SHI: fine linen or hemp cloth
+*** 綌@xì
+:PROPERTIES:
+:CONCEPT: uuid-e162af21-efee-4c1e-ab01-22fc46c688e7 / CLOTH
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 52
+:END:
+綌@xì	[[tls:concept:CLOTH::#uuid-e162af21-efee-4c1e-ab01-22fc46c688e7][CLOTH]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / coarse dolichos cloth
+** 必表而出之	and he was sure to wear it on the outside and to make it visible.
+:PROPERTIES:
+:SRC: LY 10.06:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:15a03:50::必表 / 論語
+:CHARPOS: 50
+:END:
+*** 必@bì
+:PROPERTIES:
+:CONCEPT: uuid-abbb8c63-9a45-4021-ac37-ba6e93935406 / ENDURING
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+必@bì	[[tls:concept:ENDURING::#uuid-abbb8c63-9a45-4021-ac37-ba6e93935406][ENDURING]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / always; invariably
+*** 表@biǎo
+:PROPERTIES:
+:CONCEPT: uuid-7657be2a-534d-468e-92ee-818dd7ad122c / WEAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+表@biǎo	[[tls:concept:WEAR::#uuid-7657be2a-534d-468e-92ee-818dd7ad122c][WEAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to wear on the outside, wear as outer clothes
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-7a624994-d477-4d94-ac73-9d07b83e7b15 / AND
+:SYN-FUNC: uuid-925d397f-870d-467f-a70b-09317a5160ae
+:SEM-FEAT: uuid-9a757077-2e0b-4b19-b134-0dcbc09cb1d8
+:CHARPOS: 52
+:END:
+而@ér	[[tls:concept:AND::#uuid-7a624994-d477-4d94-ac73-9d07b83e7b15][AND]]	P [[tls:syn-func::#uuid-925d397f-870d-467f-a70b-09317a5160ae][padV.post-S]] {[[tls:sem-feat::#uuid-9a757077-2e0b-4b19-b134-0dcbc09cb1d8][contemporary]]} / and at the same time, and on that occasion
+*** 出@chū
+:PROPERTIES:
+:CONCEPT: uuid-79850a18-646a-4af0-925b-657b144e413a / SHOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 53
+:END:
+出@chū	[[tls:concept:SHOW::#uuid-79850a18-646a-4af0-925b-657b144e413a][SHOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / show on the outside
+** 緇衣	With a black silk jacket
+:PROPERTIES:
+:SRC: LY 10.06:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:16a01:1::緇衣 / 論語
+:CHARPOS: 1
+:END:
+*** 緇@zī / 淄@zī / @
+:PROPERTIES:
+:CONCEPT: uuid-20eb4302-537e-4eaa-90b0-aab73286f869 / BLACK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+緇@zī / 淄@zī / @	[[tls:concept:BLACK::#uuid-20eb4302-537e-4eaa-90b0-aab73286f869][BLACK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / black
+*** 衣@yī
+:PROPERTIES:
+:CONCEPT: uuid-23bbf478-9218-4f7a-aec1-086437d3ba66 / JACKET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+衣@yī	[[tls:concept:JACKET::#uuid-23bbf478-9218-4f7a-aec1-086437d3ba66][JACKET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / this can refer specifically to a jacket
+** 羔裘	he wore a coat of goatskin;
+:PROPERTIES:
+:SRC: LY 10.06:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:16a02:50::羔裘 / 論語
+:CHARPOS: 50
+:END:
+*** 羔@gāo
+:PROPERTIES:
+:CONCEPT: uuid-8680636d-a1b0-4150-a5ce-861cbd825ed9 / OVINE
+:SYN-FUNC: uuid-2580db18-a3c0-479d-b94c-a255e447c171
+:CHARPOS: 50
+:END:
+羔@gāo	[[tls:concept:OVINE::#uuid-8680636d-a1b0-4150-a5ce-861cbd825ed9][OVINE]]	 [[tls:syn-func::#uuid-2580db18-a3c0-479d-b94c-a255e447c171][n{adNm.}adN]] / (clothing) made of goat (skin)
+*** 裘@qiú
+:PROPERTIES:
+:CONCEPT: uuid-f865edb1-0a1f-49dd-9613-0baa7f5a7962 / CLOAK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+裘@qiú	[[tls:concept:CLOAK::#uuid-f865edb1-0a1f-49dd-9613-0baa7f5a7962][CLOAK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / fur coat (often but not always of high quality, preferably light), the fur of which always turned outwards rather than inwards
+** 素衣	with a plain silk jacket
+:PROPERTIES:
+:SRC: LY 10.06:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:16a03:50::素衣 / 論語
+:CHARPOS: 50
+:END:
+*** 素@sù
+:PROPERTIES:
+:CONCEPT: uuid-06f13fc0-1120-4404-a031-0d7a4d20a53b / SIMPLE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+素@sù	[[tls:concept:SIMPLE::#uuid-06f13fc0-1120-4404-a031-0d7a4d20a53b][SIMPLE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / pristine and simple, unadorned and pure
+** 麑裘	he wore a coat of fawnskin;
+:PROPERTIES:
+:SRC: LY 10.06:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:16a04:50::麑裘 / 論語
+:CHARPOS: 50
+:END:
+*** 麑@ní
+:PROPERTIES:
+:CONCEPT: uuid-ec9bddb5-26cc-45fc-9412-f996113c110b / DEER
+:SYN-FUNC: uuid-2580db18-a3c0-479d-b94c-a255e447c171
+:CHARPOS: 50
+:END:
+麑@ní	[[tls:concept:DEER::#uuid-ec9bddb5-26cc-45fc-9412-f996113c110b][DEER]]	 [[tls:syn-func::#uuid-2580db18-a3c0-479d-b94c-a255e447c171][n{adNm.}adN]] / made of deerskin
+** 狐裘	he wore a coat of foxskin.
+:PROPERTIES:
+:SRC: LY 10.06:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:16a06:1::狐裘 / 論語
+:CHARPOS: 1
+:END:
+*** 狐@hú
+:PROPERTIES:
+:CONCEPT: uuid-527f2772-7727-435c-98f4-9a406ff36e49 / FUR
+:SYN-FUNC: uuid-2580db18-a3c0-479d-b94c-a255e447c171
+:CHARPOS: 1
+:END:
+狐@hú	[[tls:concept:FUR::#uuid-527f2772-7727-435c-98f4-9a406ff36e49][FUR]]	 [[tls:syn-func::#uuid-2580db18-a3c0-479d-b94c-a255e447c171][n{adNm.}adN]] / made of foxfur
+** 褻裘長	The informal coat was long,
+:PROPERTIES:
+:SRC: LY 10.06:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:17a01:1::褻裘 / 論語
+:CHARPOS: 1
+:END:
+*** 褻@xiè
+:PROPERTIES:
+:CONCEPT: uuid-ed2fb8c7-1e6e-4c8f-a210-76140c86a232 / INTIMATE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+褻@xiè	[[tls:concept:INTIMATE::#uuid-ed2fb8c7-1e6e-4c8f-a210-76140c86a232][INTIMATE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / favoured; intimate; private (dress; 褻衣 underwear); informal (dress 褻服 informal dress)
+*** 褻裘@xièqiú
+:PROPERTIES:
+:CONCEPT: uuid-fc0f8a25-f069-43e6-9241-0a6a5d8aad8b / CLOAK
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+褻裘@xièqiú	[[tls:concept:CLOAK::#uuid-fc0f8a25-f069-43e6-9241-0a6a5d8aad8b][CLOAK]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / informal coat worn at home
+** 短右袂	but he kept the right sleeve short (so he could work with his hands).
+:PROPERTIES:
+:SRC: LY 10.06:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:17a02:50::短右 / 論語
+:CHARPOS: 50
+:END:
+*** 短@duǎn
+:PROPERTIES:
+:CONCEPT: uuid-f21b9bd7-6b74-4fed-bbad-deffeb737259 / SHORT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+短@duǎn	[[tls:concept:SHORT::#uuid-f21b9bd7-6b74-4fed-bbad-deffeb737259][SHORT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / keep (something, e.g. a sleeve) short
+*** 右@yòu
+:PROPERTIES:
+:CONCEPT: uuid-485eba00-553e-48ba-81bb-319e5f987071 / DIRECTION
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 51
+:END:
+右@yòu	[[tls:concept:DIRECTION::#uuid-485eba00-553e-48ba-81bb-319e5f987071][DIRECTION]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / right
+*** 袂@mèi
+:PROPERTIES:
+:CONCEPT: uuid-ccb17f53-9c64-4358-b5d9-54128a9b01cd / SLEEVE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+袂@mèi	[[tls:concept:SLEEVE::#uuid-ccb17f53-9c64-4358-b5d9-54128a9b01cd][SLEEVE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / sleeve
+** 必有寢衣	Invariably he would wear a nightgown
+:PROPERTIES:
+:SRC: LY 10.06:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:18a01:1::必有 / 論語
+:CHARPOS: 1
+:END:
+*** 寢@qǐn
+:PROPERTIES:
+:CONCEPT: uuid-f4bb32d1-c53f-46cc-9898-1a7007663441 / SLEEP
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+寢@qǐn	[[tls:concept:SLEEP::#uuid-f4bb32d1-c53f-46cc-9898-1a7007663441][SLEEP]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / for sleeping in/under (寢衣 "nightgown")
+*** 寢衣@qǐnyī
+:PROPERTIES:
+:CONCEPT: uuid-e5ce37a9-9ea7-4b40-9fe2-dee73d2795ac / BLANKET
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:CHARPOS: 3
+:END:
+寢衣@qǐnyī	[[tls:concept:BLANKET::#uuid-e5ce37a9-9ea7-4b40-9fe2-dee73d2795ac][BLANKET]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] / LY: a small blanket under which to sleep
+*** 衣@yī
+:PROPERTIES:
+:CONCEPT: uuid-41919ca2-745e-4f17-be1e-46c9e16e6fc6 / GARMENT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+衣@yī	[[tls:concept:GARMENT::#uuid-41919ca2-745e-4f17-be1e-46c9e16e6fc6][GARMENT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (primarily visible, outer) clothes (worn on the upper part of the body)
+** 長一身有半	which was one half longer than he himself.
+:PROPERTIES:
+:SRC: LY 10.06:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:18a02:50::長一 / 論語
+:CHARPOS: 50
+:END:
+*** 長@cháng
+:PROPERTIES:
+:CONCEPT: uuid-af04d261-3c18-4df7-b4a3-5a58d4bb1163 / LONG
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+長@cháng	[[tls:concept:LONG::#uuid-af04d261-3c18-4df7-b4a3-5a58d4bb1163][LONG]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be long
+*** 一@yī
+:PROPERTIES:
+:CONCEPT: uuid-a00570eb-dd03-48e0-9e47-ba7fa6e93d80 / WHOLE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 51
+:END:
+一@yī	[[tls:concept:WHOLE::#uuid-a00570eb-dd03-48e0-9e47-ba7fa6e93d80][WHOLE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / the whole of (a state etc), a whole 一國"the whole country"
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-3a9dd862-1011-47c8-ba30-b84a1b4a98a0 / BODY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+身@shēn	[[tls:concept:BODY::#uuid-3a9dd862-1011-47c8-ba30-b84a1b4a98a0][BODY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / body as a whole; especially the main trunk as opposed to the head; body as embodying the person
+*** 有@yǒu / 又@yòu
+:PROPERTIES:
+:CONCEPT: uuid-a7fee15f-b371-4abc-b2d7-de1674ec9a7f / AND
+:SYN-FUNC: uuid-f918c0e3-c419-49f1-a5e9-443387ef0d67
+:CHARPOS: 53
+:END:
+有@yǒu / 又@yòu	[[tls:concept:AND::#uuid-a7fee15f-b371-4abc-b2d7-de1674ec9a7f][AND]]	V [[tls:syn-func::#uuid-f918c0e3-c419-49f1-a5e9-443387ef0d67][vtoN1.postN2]] / and 一身有半 (loan for yòu 又)
+** 狐貉之厚以居	Foxfur and the fur of badger being thick, he sat on these.
+:PROPERTIES:
+:SRC: LY 10.06:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:19a01:1::狐貉 / 論語
+:CHARPOS: 1
+:END:
+*** 狐@hú
+:PROPERTIES:
+:CONCEPT: uuid-a205e831-651c-4cf1-8a22-8d53f1532165 / FUR
+:SYN-FUNC: uuid-633754ce-95c8-45d5-9220-99bd065dd6de
+:CHARPOS: 1
+:END:
+狐@hú	[[tls:concept:FUR::#uuid-a205e831-651c-4cf1-8a22-8d53f1532165][FUR]]	 [[tls:syn-func::#uuid-633754ce-95c8-45d5-9220-99bd065dd6de][n{adNm}]] / foxfur
+*** 貉@hé
+:PROPERTIES:
+:CONCEPT: uuid-c0d46299-ba2b-4d5d-9cea-2d9205234edf / FUR
+:SYN-FUNC: uuid-633754ce-95c8-45d5-9220-99bd065dd6de
+:CHARPOS: 2
+:END:
+貉@hé	[[tls:concept:FUR::#uuid-c0d46299-ba2b-4d5d-9cea-2d9205234edf][FUR]]	 [[tls:syn-func::#uuid-633754ce-95c8-45d5-9220-99bd065dd6de][n{adNm}]] / badger fur
+*** 居@jū
+:PROPERTIES:
+:CONCEPT: uuid-2b5dba46-e11c-4e35-90e1-1a6e0ee28419 / SIT
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 6
+:END:
+居@jū	[[tls:concept:SIT::#uuid-2b5dba46-e11c-4e35-90e1-1a6e0ee28419][SIT]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / sit on the contextually determinate object
+** 去喪無所不佩	Once he had taken off the mourning garments, he would wear anything on his belt.
+:PROPERTIES:
+:SRC: LY 10.06:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:20a01:1::去喪 / 論語
+:CHARPOS: 1
+:END:
+*** 去@qù
+:PROPERTIES:
+:CONCEPT: uuid-08bab998-6fd7-476f-a1fd-5885c12ab5c0 / REMOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+去@qù	[[tls:concept:REMOVE::#uuid-08bab998-6fd7-476f-a1fd-5885c12ab5c0][REMOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / remove, do away with, get rid of; try to drive away (ants); take off
+*** 喪@sāng
+:PROPERTIES:
+:CONCEPT: uuid-4bfd10ca-54bc-4361-a14e-fdef0ac29342 / GARMENT FOR MOURNING
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+喪@sāng	[[tls:concept:GARMENT FOR MOURNING::#uuid-4bfd10ca-54bc-4361-a14e-fdef0ac29342][GARMENT FOR MOURNING]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / mourning clothes
+*** 佩@pèi
+:PROPERTIES:
+:CONCEPT: uuid-7a94cfc4-d26a-43bc-8105-96d63a64999a / WEAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+佩@pèi	[[tls:concept:WEAR::#uuid-7a94cfc4-d26a-43bc-8105-96d63a64999a][WEAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / carry or wear (adornment or other precious item, e.g. a seal, or a belt) on the waist
+** 非帷裳必殺之	Except for the case of whole-cloth lower garments, he was sure to cut up cloth.
+:PROPERTIES:
+:SRC: LY 10.06:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:21a01:1::非帷 / 論語
+:CHARPOS: 1
+:END:
+*** 帷@wéi
+:PROPERTIES:
+:CONCEPT: uuid-f865caf7-6d90-45a9-a7e5-e29cc0352d9d / CLOTH
+:SYN-FUNC: uuid-a51b30e7-dffc-4a3d-b4f7-2dccf9eee4a9
+:CHARPOS: 2
+:END:
+帷@wéi	[[tls:concept:CLOTH::#uuid-f865caf7-6d90-45a9-a7e5-e29cc0352d9d][CLOTH]]	N [[tls:syn-func::#uuid-a51b30e7-dffc-4a3d-b4f7-2dccf9eee4a9][nmadN]] / whole-cloth (curtain style)
+*** 必@bì
+:PROPERTIES:
+:CONCEPT: uuid-abbb8c63-9a45-4021-ac37-ba6e93935406 / ENDURING
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 4
+:END:
+必@bì	[[tls:concept:ENDURING::#uuid-abbb8c63-9a45-4021-ac37-ba6e93935406][ENDURING]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / always; invariably
+*** 殺@shā
+:PROPERTIES:
+:CONCEPT: uuid-f4bfb47b-c409-44a2-a48f-28d0d7441723 / CUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+殺@shā	[[tls:concept:CUT::#uuid-f4bfb47b-c409-44a2-a48f-28d0d7441723][CUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cut up, cut into convenient pieces
+** 羔裘玄冠不以弔	In goatskin overcoats or in dark red caps he did not pay visits of condolence.
+:PROPERTIES:
+:SRC: LY 10.06:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:21a02:50::羔裘 / 論語
+:CHARPOS: 50
+:END:
+*** 羔裘@gāoqiú
+:PROPERTIES:
+:CONCEPT: uuid-2a8b4dc8-63cd-4682-a31b-9144f265c1b1 / HAT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 50
+:END:
+羔裘@gāoqiú	[[tls:concept:HAT::#uuid-2a8b4dc8-63cd-4682-a31b-9144f265c1b1][HAT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / hat made from goat-skin from a young goat
+*** 羔@gāo
+:PROPERTIES:
+:CONCEPT: uuid-8680636d-a1b0-4150-a5ce-861cbd825ed9 / OVINE
+:SYN-FUNC: uuid-2580db18-a3c0-479d-b94c-a255e447c171
+:CHARPOS: 50
+:END:
+羔@gāo	[[tls:concept:OVINE::#uuid-8680636d-a1b0-4150-a5ce-861cbd825ed9][OVINE]]	 [[tls:syn-func::#uuid-2580db18-a3c0-479d-b94c-a255e447c171][n{adNm.}adN]] / (clothing) made of goat (skin)
+*** 玄冠@xuánguān
+:PROPERTIES:
+:CONCEPT: uuid-c9a79615-e1f6-4bee-98f9-21c60b62b724 / HAT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 52
+:END:
+玄冠@xuánguān	[[tls:concept:HAT::#uuid-c9a79615-e1f6-4bee-98f9-21c60b62b724][HAT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / reddish black ritual hat
+*** 玄@xuán
+:PROPERTIES:
+:CONCEPT: uuid-4f7049ba-1d37-411d-b0ab-5452f01290e0 / BLACK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 52
+:END:
+玄@xuán	[[tls:concept:BLACK::#uuid-4f7049ba-1d37-411d-b0ab-5452f01290e0][BLACK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / reddish dark; generally: dark
+*** 冠@guān
+:PROPERTIES:
+:CONCEPT: uuid-a1059309-666c-4629-9e57-88d05ed0a9e9 / HAT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+冠@guān	[[tls:concept:HAT::#uuid-a1059309-666c-4629-9e57-88d05ed0a9e9][HAT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / official hat used to indicate one's social position
+*** 弔@diào / @
+:PROPERTIES:
+:CONCEPT: uuid-38b85fca-1e9a-4b96-9928-3a4fdd7d3479 / CONSOLE
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 56
+:END:
+弔@diào / @	[[tls:concept:CONSOLE::#uuid-38b85fca-1e9a-4b96-9928-3a4fdd7d3479][CONSOLE]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / offer one's condolences
+** 吉月必朝服而朝	On New Year's Day he would always wear court robes and go to court.
+:PROPERTIES:
+:SRC: LY 10.06:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:22a01:1::吉月 / 論語
+:CHARPOS: 1
+:END:
+*** 朝服@cháofú
+:PROPERTIES:
+:CONCEPT: uuid-0ed9c9b6-bfda-4f46-9270-702aaf5963d1 / GARMENT
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:CHARPOS: 4
+:END:
+朝服@cháofú	[[tls:concept:GARMENT::#uuid-0ed9c9b6-bfda-4f46-9270-702aaf5963d1][GARMENT]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] / dressed up court style
+*** 朝@cháo
+:PROPERTIES:
+:CONCEPT: uuid-e89d5f89-163e-45e2-ac36-f51e64b5e63d / VISIT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+朝@cháo	[[tls:concept:VISIT::#uuid-e89d5f89-163e-45e2-ac36-f51e64b5e63d][VISIT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (of a ruler) attend court; (if subjects) go to court; pay a formal visit at court to show one's respect
+*** 朝服@cháofú
+:PROPERTIES:
+:CONCEPT: uuid-57e32008-8cbb-4852-85d0-613e06277d52 / GARMENT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+朝服@cháofú	[[tls:concept:GARMENT::#uuid-57e32008-8cbb-4852-85d0-613e06277d52][GARMENT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / dress up court style
+*** 朝@cháo
+:PROPERTIES:
+:CONCEPT: uuid-0072d58a-bd00-416e-8800-34da9d4f526c / COURT
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 4
+:END:
+朝@cháo	[[tls:concept:COURT::#uuid-0072d58a-bd00-416e-8800-34da9d4f526c][COURT]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / court (robes)
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-45c2388e-1b5b-4798-8bfa-e9efcea5f55f / WHILE
+:SYN-FUNC: uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442
+:CHARPOS: 6
+:END:
+而@ér	[[tls:concept:WHILE::#uuid-45c2388e-1b5b-4798-8bfa-e9efcea5f55f][WHILE]]	P [[tls:syn-func::#uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442][padV1.postV2]] / V1ing to V2 詠而歸"singing songs to return"
+** 必有明衣布	When fasting he always wore clean dress, and ordinary cloth.
+:PROPERTIES:
+:SRC: LY 10.07; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:23a02:1::必有 / 論語
+:CHARPOS: 1
+:END:
+*** 必@bì
+:PROPERTIES:
+:CONCEPT: uuid-abbb8c63-9a45-4021-ac37-ba6e93935406 / ENDURING
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+必@bì	[[tls:concept:ENDURING::#uuid-abbb8c63-9a45-4021-ac37-ba6e93935406][ENDURING]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / always; invariably
+*** 明@míng
+:PROPERTIES:
+:CONCEPT: uuid-3d81ec62-2499-453f-892f-db461dbbb6a7 / PURE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+明@míng	[[tls:concept:PURE::#uuid-3d81ec62-2499-453f-892f-db461dbbb6a7][PURE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / clean, unsullied (of dress)
+*** 衣@yī
+:PROPERTIES:
+:CONCEPT: uuid-41919ca2-745e-4f17-be1e-46c9e16e6fc6 / GARMENT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+衣@yī	[[tls:concept:GARMENT::#uuid-41919ca2-745e-4f17-be1e-46c9e16e6fc6][GARMENT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (primarily visible, outer) clothes (worn on the upper part of the body)
+*** 布@bù
+:PROPERTIES:
+:CONCEPT: uuid-1b207cc6-11dc-4a04-8af8-26112ef27ec9 / CLOTH
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 5
+:END:
+布@bù	[[tls:concept:CLOTH::#uuid-1b207cc6-11dc-4a04-8af8-26112ef27ec9][CLOTH]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / cloth
+** 齊必變食	When (starting the) fasting he always changed his eating habits,
+:PROPERTIES:
+:SRC: LY 10.07; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:24a01:1::齊必 / 論語
+:CHARPOS: 1
+:END:
+*** 變@biàn
+:PROPERTIES:
+:CONCEPT: uuid-511816f0-65f7-4c90-b6f9-90a34b8cc1e8 / CHANGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+變@biàn	[[tls:concept:CHANGE::#uuid-511816f0-65f7-4c90-b6f9-90a34b8cc1e8][CHANGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / effect a change on something from a original state, typically, but not always, from a commendable, constant or ordinary state
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-ece671df-7f2a-4670-a27f-0f3d03f4064c / EAT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+食@shí	[[tls:concept:EAT::#uuid-ece671df-7f2a-4670-a27f-0f3d03f4064c][EAT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / eating regime, diet; food consumption
+** 居必遷坐	and as sitting, he found a new place to sit.
+:PROPERTIES:
+:SRC: LY 10.07; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:24a02:50::居必 / 論語
+:CHARPOS: 50
+:END:
+*** 居@jū
+:PROPERTIES:
+:CONCEPT: uuid-da71df1d-bd8a-4600-b514-f64558d7c633 / SIT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+居@jū	[[tls:concept:SIT::#uuid-da71df1d-bd8a-4600-b514-f64558d7c633][SIT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / sit NB: DUAN YUCAI 399 IS EXEMPLARY IN HIS EXPLANATION OF MODES OF SITTING. THE ORACLE BONE CHARACTER FOR 居 DEFINITELY REFERS TO SQUATTING AND NOT KNEELING. SHUOWEN DEFINES 居蹲也, THE SHUOWEN CHARACTER FOR 居 WHICH HAS 几 FOR 古 AND MEANS "STAY IN, LIVE IN" WAS LATER CONFLATED WITH THE ORACLE BONE CHARACTER WHICH THUS CAME TO HAVE TWO MEANINGS: 1. SIT, SQUAT; 2. STAY; AND THE LATTER HAS COME TO PREVAIL.
+** 10.8食不厭精	When it came to staple food he did not indulge himself in the polished rice,
+:PROPERTIES:
+:SRC: LY 10.08:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-cd902983-7a39-4205-b48c-0394ac183b08 / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 5
+:END:
+食@shí	[[tls:concept:FOOD::#uuid-cd902983-7a39-4205-b48c-0394ac183b08][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / Note that Lù Démíng reads this meaning as sì in several places of 經典釋文: provisions; food supply; staple food; food for general sustenance while at home; (e.g. beg for) something to eat; food supplies; fodder (e.g. for horses)
+*** 精@jīng / 菁@jīng
+:PROPERTIES:
+:CONCEPT: uuid-06f9cdc4-29d2-4f00-b3c2-d21aa4634769 / EXCELLENT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 8
+:END:
+精@jīng / 菁@jīng	[[tls:concept:EXCELLENT::#uuid-06f9cdc4-29d2-4f00-b3c2-d21aa4634769][EXCELLENT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / something excellent (e.g. an excellent subtle proposal)
+** 膾不厭細	when it came to meat he did not indulge himself in delicate pieces.
+:PROPERTIES:
+:SRC: LY 10.08:01; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a02:50::膾不 / 論語
+:CHARPOS: 50
+:END:
+*** 膾@kuài
+:PROPERTIES:
+:CONCEPT: uuid-067a1bb4-6c29-4d58-b8cb-e64e5ba80cb6 / SLICED MEAT
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 50
+:END:
+膾@kuài	[[tls:concept:SLICED MEAT::#uuid-067a1bb4-6c29-4d58-b8cb-e64e5ba80cb6][SLICED MEAT]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / minced meat, either raw or cooked
+*** 細@xì
+:PROPERTIES:
+:CONCEPT: uuid-d07b8b5b-1b75-4d81-ba78-d4a716a5861a / THIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 53
+:END:
+細@xì	[[tls:concept:THIN::#uuid-d07b8b5b-1b75-4d81-ba78-d4a716a5861a][THIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / what is thin and delicate (in sliced meat etc)
+** 食饐而餲	When staple food had gone off and got rancid,
+:PROPERTIES:
+:SRC: LY 10.08:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a03:50::食饐 / 論語
+:CHARPOS: 50
+:END:
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-cd902983-7a39-4205-b48c-0394ac183b08 / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 50
+:END:
+食@shí	[[tls:concept:FOOD::#uuid-cd902983-7a39-4205-b48c-0394ac183b08][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / Note that Lù Démíng reads this meaning as sì in several places of 經典釋文: provisions; food supply; staple food; food for general sustenance while at home; (e.g. beg for) something to eat; food supplies; fodder (e.g. for horses)
+*** 饐@yì
+:PROPERTIES:
+:CONCEPT: uuid-688ac0f2-a5d8-40fa-8ad7-8f22124632b8 / ROTTEN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 51
+:END:
+饐@yì	[[tls:concept:ROTTEN::#uuid-688ac0f2-a5d8-40fa-8ad7-8f22124632b8][ROTTEN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / rotten; spoiled (food)
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-3543598e-eac5-4622-8446-dca5c2626afb / ID EST
+:SYN-FUNC: uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442
+:SEM-FEAT: uuid-c79f051f-bdea-4594-9856-26db91784f3b
+:CHARPOS: 52
+:END:
+而@ér	[[tls:concept:ID EST::#uuid-3543598e-eac5-4622-8446-dca5c2626afb][ID EST]]	P [[tls:syn-func::#uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442][padV1.postV2]] {[[tls:sem-feat::#uuid-c79f051f-bdea-4594-9856-26db91784f3b][epexegetic]]} / that is to say, i.e., in other words 述而不作"transmit and not create"
+*** 餲@ài
+:PROPERTIES:
+:CONCEPT: uuid-5033be60-e644-4b74-af3a-fde88c2f2f61 / ROTTEN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+餲@ài	[[tls:concept:ROTTEN::#uuid-5033be60-e644-4b74-af3a-fde88c2f2f61][ROTTEN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / rotten (food) (LUNYU)
+** 魚餒而肉敗	when fish had gone bad and meat had gone foul,
+:PROPERTIES:
+:SRC: LY 10.08:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a04:50::魚餒 / 論語
+:CHARPOS: 50
+:END:
+*** 餒@něi
+:PROPERTIES:
+:CONCEPT: uuid-bc01b7a9-6487-4c5c-bcf8-3c98142ccba3 / ROTTEN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 51
+:END:
+餒@něi	[[tls:concept:ROTTEN::#uuid-bc01b7a9-6487-4c5c-bcf8-3c98142ccba3][ROTTEN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be rotten (of fish)
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-018170e0-ae13-4999-a9ef-8bd356066fd7 / AND
+:SYN-FUNC: uuid-d4e1570d-69fc-493c-b2ec-d1f0f5b56e05
+:SEM-FEAT: uuid-dcdf1d0d-3149-4d15-9abe-7cfe96419413
+:CHARPOS: 52
+:END:
+而@ér	[[tls:concept:AND::#uuid-018170e0-ae13-4999-a9ef-8bd356066fd7][AND]]	P [[tls:syn-func::#uuid-d4e1570d-69fc-493c-b2ec-d1f0f5b56e05][padS1.post-S2]] {[[tls:sem-feat::#uuid-dcdf1d0d-3149-4d15-9abe-7cfe96419413][logic]]} / and 任重而道遠"his burden is heavy and the way is far"
+*** 敗@bài
+:PROPERTIES:
+:CONCEPT: uuid-21631f04-01f2-4e9d-ab72-d9ab333a92ef / ROTTEN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-229a701e-1341-4719-9af8-a0b4e69c6c71
+:CHARPOS: 54
+:END:
+敗@bài	[[tls:concept:ROTTEN::#uuid-21631f04-01f2-4e9d-ab72-d9ab333a92ef][ROTTEN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-229a701e-1341-4719-9af8-a0b4e69c6c71][perfective]]} / resultative: have gone bad and be stinking (as of meat)
+** 色惡	When something was off-colour
+:PROPERTIES:
+:SRC: LY 10.08:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a06:1::色惡 / 論語
+:CHARPOS: 1
+:END:
+*** 色@sè
+:PROPERTIES:
+:CONCEPT: uuid-615fd1ca-dbf0-4183-9ff9-41b9ede91e66 / COLOUR
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 1
+:END:
+色@sè	[[tls:concept:COLOUR::#uuid-615fd1ca-dbf0-4183-9ff9-41b9ede91e66][COLOUR]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / colour
+*** 惡@è
+:PROPERTIES:
+:CONCEPT: uuid-e5c5ebdf-0408-49d0-bcad-bb784f078d9b / UGLY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 2
+:END:
+惡@è	[[tls:concept:UGLY::#uuid-e5c5ebdf-0408-49d0-bcad-bb784f078d9b][UGLY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be ugly; be in terribly bad shape
+** 臭惡	When something gave off a bad smell
+:PROPERTIES:
+:SRC: LY 10.08:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a08:1::臭惡 / 論語
+:CHARPOS: 1
+:END:
+*** 〓#@
+:PROPERTIES:
+:CONCEPT: uuid-849acb97-5c09-45b7-b888-803aa651949f / ODOUR
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 1
+:END:
+〓#@	[[tls:concept:ODOUR::#uuid-849acb97-5c09-45b7-b888-803aa651949f][ODOUR]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / odour 無聲無臭
+** 失飪	if something was not properly prepared
+:PROPERTIES:
+:SRC: LY 10.08:02; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a10:1::失飪 / 論語
+:CHARPOS: 1
+:END:
+*** 失@shī
+:PROPERTIES:
+:CONCEPT: uuid-b66070bf-8145-4dd2-aacc-58a8f39fc3fd / MISTAKE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+失@shī	[[tls:concept:MISTAKE::#uuid-b66070bf-8145-4dd2-aacc-58a8f39fc3fd][MISTAKE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / by mistake, through an insouciance
+*** 飪@rèn
+:PROPERTIES:
+:CONCEPT: uuid-07d37ffa-e335-464d-8e10-6e4b9d8630a0 / COOK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 2
+:END:
+飪@rèn	[[tls:concept:COOK::#uuid-07d37ffa-e335-464d-8e10-6e4b9d8630a0][COOK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be cooked
+** 割不正	If something had not been cut straight
+:PROPERTIES:
+:SRC: LY 10.08:03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a14:1::割不 / 論語
+:CHARPOS: 1
+:END:
+*** 割@gē
+:PROPERTIES:
+:CONCEPT: uuid-43b7714e-0d2f-4f46-8329-a44e652ee6dd / CUT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+割@gē	[[tls:concept:CUT::#uuid-43b7714e-0d2f-4f46-8329-a44e652ee6dd][CUT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / cutting; the cut
+*** 正@zhèng
+:PROPERTIES:
+:CONCEPT: uuid-be17cc15-3023-4409-8f4c-47f32700a048 / CORRECT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+正@zhèng	[[tls:concept:CORRECT::#uuid-be17cc15-3023-4409-8f4c-47f32700a048][CORRECT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be morally upright and correct; be correct and exact
+** 不得其醬	If something had not got its proper seasoning
+:PROPERTIES:
+:SRC: LY 10.08:03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a16:1::不得 / 論語
+:CHARPOS: 1
+:END:
+*** 醬@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-90adcfa1-1469-4848-a0d2-520a7e837a8d / SAUCE
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+醬@jiàng	[[tls:concept:SAUCE::#uuid-90adcfa1-1469-4848-a0d2-520a7e837a8d][SAUCE]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / some kind of pickled sauce with meat on the bone; (also: pickles, spices)
+** 不使勝食氣	he did not let this dominate or exceed the vital energy intake from the staple food.
+:PROPERTIES:
+:SRC: LY 10.08:03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a19:1::不使 / 論語
+:CHARPOS: 1
+:END:
+*** 勝@shèng
+:PROPERTIES:
+:CONCEPT: uuid-1f7cd390-d893-4971-a3a3-fb475b3f68c5 / MORE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+勝@shèng	[[tls:concept:MORE::#uuid-1f7cd390-d893-4971-a3a3-fb475b3f68c5][MORE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / predominate vis-a-vis; be superior to, be more than
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-cd902983-7a39-4205-b48c-0394ac183b08 / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+食@shí	[[tls:concept:FOOD::#uuid-cd902983-7a39-4205-b48c-0394ac183b08][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / Note that Lù Démíng reads this meaning as sì in several places of 經典釋文: provisions; food supply; staple food; food for general sustenance while at home; (e.g. beg for) something to eat; food supplies; fodder (e.g. for horses)
+*** 氣@qì
+:PROPERTIES:
+:CONCEPT: uuid-41ace0a6-4247-41c7-a29a-a1c4f7a9d483 / ENERGY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:SEM-FEAT: uuid-20b7c1ea-e8d5-4867-8c15-637f89da3824
+:CHARPOS: 5
+:END:
+氣@qì	[[tls:concept:ENERGY::#uuid-41ace0a6-4247-41c7-a29a-a1c4f7a9d483][ENERGY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] {[[tls:sem-feat::#uuid-20b7c1ea-e8d5-4867-8c15-637f89da3824][mental]]} / inner mental energies of a person; vital energies in a person
+** 唯酒無量	Only in wine he had no fixed limit,
+:PROPERTIES:
+:SRC: LY 10.08:03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a20:50::唯酒 / 論語
+:CHARPOS: 50
+:END:
+*** 酒@jiǔ
+:PROPERTIES:
+:CONCEPT: uuid-c496eb95-590e-416b-9727-9c76c567e408 / LIQUOR
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 51
+:END:
+酒@jiǔ	[[tls:concept:LIQUOR::#uuid-c496eb95-590e-416b-9727-9c76c567e408][LIQUOR]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / wine
+*** 量@liàng
+:PROPERTIES:
+:CONCEPT: uuid-bff69463-2708-492c-87f1-13230bf0ac45 / LIMIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+量@liàng	[[tls:concept:LIMIT::#uuid-bff69463-2708-492c-87f1-13230bf0ac45][LIMIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / fixed limit
+** 不及亂	but he did not get to the point of raucousness.
+:PROPERTIES:
+:SRC: LY 10.08:03; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a21:50::不及 / 論語
+:CHARPOS: 50
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-bfc6a881-a554-4c65-99ba-4bc239fb4206 / INTENSELY
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+及@jí	[[tls:concept:INTENSELY::#uuid-bfc6a881-a554-4c65-99ba-4bc239fb4206][INTENSELY]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / go so far as to V
+*** 亂@luàn
+:PROPERTIES:
+:CONCEPT: uuid-9698e3e9-dba7-4ffb-b712-735eedff68c2 / CHAOS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+亂@luàn	[[tls:concept:CHAOS::#uuid-9698e3e9-dba7-4ffb-b712-735eedff68c2][CHAOS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be in turmoil; be in disorder 亂弱甚矣
+** 沽酒市脯	If one had bought wine or gone shopping for dried meat
+:PROPERTIES:
+:SRC: LY 10.08:04; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a22:50::沽酒 / 論語
+:CHARPOS: 50
+:END:
+*** 酤@gū / 沽@gū
+:PROPERTIES:
+:CONCEPT: uuid-de180a21-4bf1-4845-a17f-276fe6a3eadb / BUY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+酤@gū / 沽@gū	[[tls:concept:BUY::#uuid-de180a21-4bf1-4845-a17f-276fe6a3eadb][BUY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / buy (wine)
+*** 酒@jiǔ
+:PROPERTIES:
+:CONCEPT: uuid-c496eb95-590e-416b-9727-9c76c567e408 / LIQUOR
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 51
+:END:
+酒@jiǔ	[[tls:concept:LIQUOR::#uuid-c496eb95-590e-416b-9727-9c76c567e408][LIQUOR]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / wine
+*** 市@shì
+:PROPERTIES:
+:CONCEPT: uuid-a5635a01-4acb-48d8-98fd-a6a865ae56a1 / BUY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+市@shì	[[tls:concept:BUY::#uuid-a5635a01-4acb-48d8-98fd-a6a865ae56a1][BUY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / buy in the market; buy; go shopping for
+*** 脯@fǔ
+:PROPERTIES:
+:CONCEPT: uuid-c99c12e1-786a-46b8-919a-875ff449a5cd / DRIED MEAT
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 53
+:END:
+脯@fǔ	[[tls:concept:DRIED MEAT::#uuid-c99c12e1-786a-46b8-919a-875ff449a5cd][DRIED MEAT]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / fine thin slices of dried meat produced by the use of salt
+** 不撤薑食	When they had not removed the ginger and the rice
+:PROPERTIES:
+:SRC: LY 10.08:04; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a24:1::不撤 / 論語
+:CHARPOS: 1
+:END:
+*** 撤@chè
+:PROPERTIES:
+:CONCEPT: uuid-8a353d5f-fb90-404c-9f5d-59106ca7183a / REMOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+撤@chè	[[tls:concept:REMOVE::#uuid-8a353d5f-fb90-404c-9f5d-59106ca7183a][REMOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / remove (especially from the table)
+*** 薑@jiāng
+:PROPERTIES:
+:CONCEPT: uuid-445bdcd2-6c15-47f7-9817-933a7d9f5234 / SPICE
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 3
+:END:
+薑@jiāng	[[tls:concept:SPICE::#uuid-445bdcd2-6c15-47f7-9817-933a7d9f5234][SPICE]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / ginger
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-cd902983-7a39-4205-b48c-0394ac183b08 / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+食@shí	[[tls:concept:FOOD::#uuid-cd902983-7a39-4205-b48c-0394ac183b08][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / Note that Lù Démíng reads this meaning as sì in several places of 經典釋文: provisions; food supply; staple food; food for general sustenance while at home; (e.g. beg for) something to eat; food supplies; fodder (e.g. for horses)
+** 不多食	he did not eat excessively (of the rice with ginger).
+:PROPERTIES:
+:SRC: LY 10.08:04; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:25a25:50::不多 / 論語
+:CHARPOS: 50
+:END:
+*** 多@duō
+:PROPERTIES:
+:CONCEPT: uuid-f9f054eb-8816-4090-ab32-185cf07e9682 / ABUNDANT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+多@duō	[[tls:concept:ABUNDANT::#uuid-f9f054eb-8816-4090-ab32-185cf07e9682][ABUNDANT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / abundantly, on a large scale
+** 不宿肉	he did not keep the meat one more night.
+:PROPERTIES:
+:SRC: LY 10.09; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:26a02:1::不宿 / 論語
+:CHARPOS: 1
+:END:
+*** 宿@sù
+:PROPERTIES:
+:CONCEPT: uuid-9a8d7d33-50f4-4f52-a8fd-ee7776f719a1 / SAFEGUARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+宿@sù	[[tls:concept:SAFEGUARD::#uuid-9a8d7d33-50f4-4f52-a8fd-ee7776f719a1][SAFEGUARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / keep overnight
+** 祭肉不出三日	Because sacrificial meat does not keep beyond three days.
+:PROPERTIES:
+:SRC: LY 10.09; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:26a03:50::祭肉 / 論語
+:CHARPOS: 50
+:END:
+*** 祭@jì
+:PROPERTIES:
+:CONCEPT: uuid-2ab8630a-34cd-4832-99f8-d448dd7a4057 / SACRIFICE
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 50
+:END:
+祭@jì	[[tls:concept:SACRIFICE::#uuid-2ab8630a-34cd-4832-99f8-d448dd7a4057][SACRIFICE]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / sacrificial; sacred because connected with ritual performances
+*** 出@chū
+:PROPERTIES:
+:CONCEPT: uuid-47aae0d0-73ec-427b-8da8-a1133a2260b9 / SURPASS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+出@chū	[[tls:concept:SURPASS::#uuid-47aae0d0-73ec-427b-8da8-a1133a2260b9][SURPASS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / exceed, go beyond, transcend
+** 10.10食不語	While eating he would not engage in conversation,
+:PROPERTIES:
+:SRC: LY 10.10; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:27a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-c474877b-30f0-47ee-975b-0f0cf0544b07 / EAT
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 6
+:END:
+食@shí	[[tls:concept:EAT::#uuid-c474877b-30f0-47ee-975b-0f0cf0544b07][EAT]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / eat food, eat a meal; have a meal
+*** 語@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-09826fdc-5809-4b75-8cea-34bb9bc5ef0c / DIALOGUE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 8
+:END:
+語@yǔ	[[tls:concept:DIALOGUE::#uuid-09826fdc-5809-4b75-8cea-34bb9bc5ef0c][DIALOGUE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / converse; engage in conversation
+** 寢不言	while reclining in bed he did come up with any statements.
+:PROPERTIES:
+:SRC: LY 10.10; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:27a02:50::寢不 / 論語
+:CHARPOS: 50
+:END:
+*** 寢@qǐn
+:PROPERTIES:
+:CONCEPT: uuid-22b31a7a-12c7-43a3-81d5-85bc4912cee8 / REST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+寢@qǐn	[[tls:concept:REST::#uuid-22b31a7a-12c7-43a3-81d5-85bc4912cee8][REST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / lie in bed; stay in bed; keep in bed
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-893ee225-ba0b-4809-89cc-abee8b5f0a88 / SPEAK
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 52
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-893ee225-ba0b-4809-89cc-abee8b5f0a88][SPEAK]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / express oneself in words 能言; speak up; 提意見, come up with statements, come up with one's personal opinions; state one's personal opinion of things; make a proposal
+** 10.11雖蔬食菜羹	Even with coarse food, and vegetables broth,
+:PROPERTIES:
+:SRC: LY 10.11; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:28a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 疏@shū
+:PROPERTIES:
+:CONCEPT: uuid-7aa16d38-7dc2-4ed8-91bc-5e2de452cc09 / COARSE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CONCEPT: uuid-a8314e53-d601-4e8a-9def-b45f57b5d9e2 / FOOD
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:CHARPOS: 1
+:END:
+疏@shū	[[tls:concept:COARSE::#uuid-7aa16d38-7dc2-4ed8-91bc-5e2de452cc09][COARSE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / coarse, unrefined (food) 疏食
+疏食@shūshí	[[tls:concept:FOOD::#uuid-a8314e53-d601-4e8a-9def-b45f57b5d9e2][FOOD]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / simple food
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-cd902983-7a39-4205-b48c-0394ac183b08 / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 8
+:END:
+食@shí	[[tls:concept:FOOD::#uuid-cd902983-7a39-4205-b48c-0394ac183b08][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / Note that Lù Démíng reads this meaning as sì in several places of 經典釋文: provisions; food supply; staple food; food for general sustenance while at home; (e.g. beg for) something to eat; food supplies; fodder (e.g. for horses)
+*** 菜@cài
+:PROPERTIES:
+:CONCEPT: uuid-206925c8-978f-4af5-94e2-e03f456fb0e7 / VEGETABLES
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 9
+:END:
+菜@cài	[[tls:concept:VEGETABLES::#uuid-206925c8-978f-4af5-94e2-e03f456fb0e7][VEGETABLES]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / vegetable
+*** 菜羹@càigēng
+:PROPERTIES:
+:CONCEPT: uuid-f0ba3a67-7172-4173-99bc-2394a8dc5461 / SOUP
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:CHARPOS: 9
+:END:
+菜羹@càigēng	[[tls:concept:SOUP::#uuid-f0ba3a67-7172-4173-99bc-2394a8dc5461][SOUP]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / vegatable soup/congee
+** 10.12席不正	When a mat was not straight
+:PROPERTIES:
+:SRC: LY 10.12; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:29a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 席@xí
+:PROPERTIES:
+:CONCEPT: uuid-4cd960a8-af69-4686-ba63-1786472b95fb / SEAT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+席@xí	[[tls:concept:SEAT::#uuid-4cd960a8-af69-4686-ba63-1786472b95fb][SEAT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / mat used as a seat
+*** 正@zhèng
+:PROPERTIES:
+:CONCEPT: uuid-be17cc15-3023-4409-8f4c-47f32700a048 / CORRECT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 8
+:END:
+正@zhèng	[[tls:concept:CORRECT::#uuid-be17cc15-3023-4409-8f4c-47f32700a048][CORRECT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be morally upright and correct; be correct and exact
+** 不坐	he would not kneel down on it.
+:PROPERTIES:
+:SRC: LY 10.12; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:29a02:50::不坐 / 論語
+:CHARPOS: 50
+:END:
+*** 坐@zuò
+:PROPERTIES:
+:CONCEPT: uuid-d3f26ffd-e6cb-4471-a308-01c70549181a / KNEEL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+坐@zuò	[[tls:concept:KNEEL::#uuid-d3f26ffd-e6cb-4471-a308-01c70549181a][KNEEL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / kneel on
+** 10.13鄉人飲酒	On the occasion of fellow-villagers drinking wine,
+:PROPERTIES:
+:SRC: LY 10.13; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:30a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 鄉@xiāng
+:PROPERTIES:
+:CONCEPT: uuid-4aeed030-0e29-4e0f-80de-9675d1bc1ed4 / VILLAGE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+鄉@xiāng	[[tls:concept:VILLAGE::#uuid-4aeed030-0e29-4e0f-80de-9675d1bc1ed4][VILLAGE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / Xiāng 鄉 as an administrative term refers to a fairly non-urban neighbourhood area which will normally include several lǐ 里. ZHOULI and Han commentators arbitrarily define this as containing 12 500 families
+*** 鄉人@xiāngrén
+:PROPERTIES:
+:CONCEPT: uuid-b186998f-16ba-4c4e-9778-22aad6161e6a / NEIGHBOUR
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:CHARPOS: 6
+:END:
+鄉人@xiāngrén	[[tls:concept:NEIGHBOUR::#uuid-b186998f-16ba-4c4e-9778-22aad6161e6a][NEIGHBOUR]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] / neighbour
+*** 飲@yǐn
+:PROPERTIES:
+:CONCEPT: uuid-6764a630-0434-4c3b-8494-5c826fc3e529 / DRINK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 8
+:END:
+飲@yǐn	[[tls:concept:DRINK::#uuid-6764a630-0434-4c3b-8494-5c826fc3e529][DRINK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / drink; drink from
+** 杖者出	when as soon as the old people with walking sticks left the party
+:PROPERTIES:
+:SRC: LY 10.13; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:30a02:50::杖者 / 論語
+:CHARPOS: 50
+:END:
+*** 杖@zhàng
+:PROPERTIES:
+:CONCEPT: uuid-b3a3f4a9-9ece-42c0-aae2-33c0e6fdf820 / STICK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+杖@zhàng	[[tls:concept:STICK::#uuid-b3a3f4a9-9ece-42c0-aae2-33c0e6fdf820][STICK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (be so old as to have to) use a stick; carry a stick
+*** 杖者@zhàngzhě
+:PROPERTIES:
+:CONCEPT: uuid-038bc550-b1b2-4bcc-8087-6b4799ee8e45 / OLD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 50
+:END:
+杖者@zhàngzhě	[[tls:concept:OLD::#uuid-038bc550-b1b2-4bcc-8087-6b4799ee8e45][OLD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the aged who use walking-sticks
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 51
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / someone who V-s (typically tensed); anyone who V-s
+*** 出@chū
+:PROPERTIES:
+:CONCEPT: uuid-e8249805-ccd4-4b8d-b005-b9d01612a299 / LEAVE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 52
+:END:
+出@chū	[[tls:concept:LEAVE::#uuid-e8249805-ccd4-4b8d-b005-b9d01612a299][LEAVE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / depart, leave the place where one happens to be (to leave the room, leave the house; leave the capital); come out; set out on an expedition
+** 斯出矣	then indeed he would leave.
+:PROPERTIES:
+:SRC: LY 10.13; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:30a03:50::斯出 / 論語
+:CHARPOS: 50
+:END:
+*** 斯@sī
+:PROPERTIES:
+:CONCEPT: uuid-9224a4f3-4860-4eed-858f-a2a6ca28c553 / THEN
+:SYN-FUNC: uuid-be65b5bf-77c6-4abc-9b0b-03d67cf89975
+:CHARPOS: 50
+:END:
+斯@sī	[[tls:concept:THEN::#uuid-9224a4f3-4860-4eed-858f-a2a6ca28c553][THEN]]	N [[tls:syn-func::#uuid-be65b5bf-77c6-4abc-9b0b-03d67cf89975][npro.adS1:postS2]] / then under such circumstances; then indeed, then in point of fact; then as an important (often final) result; sometimes hybrid: then this
+** 10.14鄉人儺	When the fellow villagers engage in exorcism
+:PROPERTIES:
+:SRC: LY 10.14; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:31a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 鄉@xiāng
+:PROPERTIES:
+:CONCEPT: uuid-4aeed030-0e29-4e0f-80de-9675d1bc1ed4 / VILLAGE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+鄉@xiāng	[[tls:concept:VILLAGE::#uuid-4aeed030-0e29-4e0f-80de-9675d1bc1ed4][VILLAGE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / Xiāng 鄉 as an administrative term refers to a fairly non-urban neighbourhood area which will normally include several lǐ 里. ZHOULI and Han commentators arbitrarily define this as containing 12 500 families
+*** 鄉人@xiāngrén
+:PROPERTIES:
+:CONCEPT: uuid-b186998f-16ba-4c4e-9778-22aad6161e6a / NEIGHBOUR
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:CHARPOS: 6
+:END:
+鄉人@xiāngrén	[[tls:concept:NEIGHBOUR::#uuid-b186998f-16ba-4c4e-9778-22aad6161e6a][NEIGHBOUR]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] / neighbour
+*** 儺@nuó
+:PROPERTIES:
+:CONCEPT: uuid-1f1304ca-942b-40b0-8b45-50eed2db2e3b / EXORCISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 8
+:END:
+儺@nuó	[[tls:concept:EXORCISE::#uuid-1f1304ca-942b-40b0-8b45-50eed2db2e3b][EXORCISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / engage in exorcism
+** 朝服	he puts on court robes
+:PROPERTIES:
+:SRC: LY 10.14; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:31a02:50::朝服 / 論語
+:CHARPOS: 50
+:END:
+*** 朝服@cháofú
+:PROPERTIES:
+:CONCEPT: uuid-57e32008-8cbb-4852-85d0-613e06277d52 / GARMENT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+朝服@cháofú	[[tls:concept:GARMENT::#uuid-57e32008-8cbb-4852-85d0-613e06277d52][GARMENT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / dress up court style
+*** 朝@cháo
+:PROPERTIES:
+:CONCEPT: uuid-579ff998-5173-40b3-af3e-07a33e889add / COURT
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:CHARPOS: 50
+:END:
+朝@cháo	[[tls:concept:COURT::#uuid-579ff998-5173-40b3-af3e-07a33e889add][COURT]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] / in court style
+** 而立於阼階	and he takes his stand by the stairs towards the east (where the host receives guests).
+:PROPERTIES:
+:SRC: LY 10.14; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:31a02:50::而立 / 論語
+:CHARPOS: 50
+:END:
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-45c2388e-1b5b-4798-8bfa-e9efcea5f55f / WHILE
+:SYN-FUNC: uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442
+:CHARPOS: 50
+:END:
+而@ér	[[tls:concept:WHILE::#uuid-45c2388e-1b5b-4798-8bfa-e9efcea5f55f][WHILE]]	P [[tls:syn-func::#uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442][padV1.postV2]] / V1ing to V2 詠而歸"singing songs to return"
+*** 阼@zuò
+:PROPERTIES:
+:CONCEPT: uuid-e2770b75-a1bd-471e-9aed-52279633ef7e / STAIRS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+阼@zuò	[[tls:concept:STAIRS::#uuid-e2770b75-a1bd-471e-9aed-52279633ef7e][STAIRS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / east-side staircase; staircase used by the emperor at his succession or to perform a sacrifice
+*** 階@jiē
+:PROPERTIES:
+:CONCEPT: uuid-7bb7dcc0-e628-4476-98b6-8b1b80959e3c / STAIRS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+階@jiē	[[tls:concept:STAIRS::#uuid-7bb7dcc0-e628-4476-98b6-8b1b80959e3c][STAIRS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / stairs
+** 10.15問人於他邦	When making inquiries about the health a person, in a different state,
+:PROPERTIES:
+:SRC: LY 10.15; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:32a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 他@tā / 它@tā / 他@tā
+:PROPERTIES:
+:CONCEPT: uuid-89df4ef1-2749-43f4-b632-edaaf0affabb / OTHER
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 9
+:END:
+他@tā / 它@tā / 他@tā	[[tls:concept:OTHER::#uuid-89df4ef1-2749-43f4-b632-edaaf0affabb][OTHER]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / other; others'; someone else's
+*** 邦@bāng
+:PROPERTIES:
+:CONCEPT: uuid-48aff532-6097-4b83-8468-5ff66ec7c6af / STATE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 10
+:END:
+邦@bāng	[[tls:concept:STATE::#uuid-48aff532-6097-4b83-8468-5ff66ec7c6af][STATE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / the land; country, (large) country (as bounded by formal boundaries)
+** 再拜而送之	he bowed twice and escorted (the person he asked).
+:PROPERTIES:
+:SRC: LY 10.15; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:32a02:50::再拜 / 論語
+:CHARPOS: 50
+:END:
+*** 再@zài
+:PROPERTIES:
+:CONCEPT: uuid-b68f49fd-cefd-4ddb-80a1-749f94a17f83 / TWO
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+再@zài	[[tls:concept:TWO::#uuid-b68f49fd-cefd-4ddb-80a1-749f94a17f83][TWO]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / twice 再拜
+*** 再拜@zàibài
+:PROPERTIES:
+:CONCEPT: uuid-3277f212-2037-4484-920f-40c8a5539fbe / BOW DOWN
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+再拜@zàibài	[[tls:concept:BOW DOWN::#uuid-3277f212-2037-4484-920f-40c8a5539fbe][BOW DOWN]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / make a double bow as a show of polite respect (often followed by a knocking of one's head on the ground)
+*** 拜@bài
+:PROPERTIES:
+:CONCEPT: uuid-232e432a-4246-4442-b82b-71f68a929386 / BOW DOWN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+拜@bài	[[tls:concept:BOW DOWN::#uuid-232e432a-4246-4442-b82b-71f68a929386][BOW DOWN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / bow respectfully; bow as a sign of gratitude, admiration, congratulation, polite apology etc; makeobeisance
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-efaf0665-0eee-4228-bad5-da590f4e6aa0 / AND
+:SYN-FUNC: uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442
+:SEM-FEAT: uuid-ab6330a5-6702-4cee-aa98-dcd58b5cd498
+:CHARPOS: 52
+:END:
+而@ér	[[tls:concept:AND::#uuid-efaf0665-0eee-4228-bad5-da590f4e6aa0][AND]]	P [[tls:syn-func::#uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442][padV1.postV2]] {[[tls:sem-feat::#uuid-ab6330a5-6702-4cee-aa98-dcd58b5cd498][sequence]]} / and then, and thereupon; 拜而受之" accepted this with a bow" (often coordinates two verbal predicates with the same subject)
+*** 送@sòng
+:PROPERTIES:
+:CONCEPT: uuid-2da6c74c-b525-4989-bef5-3055d6f25c2b / FAREWELL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+送@sòng	[[tls:concept:FAREWELL::#uuid-2da6c74c-b525-4989-bef5-3055d6f25c2b][FAREWELL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / send off
+** 10.16康子饋藥	When Kāngzǐ sent a gift of medicine
+:PROPERTIES:
+:SRC: LY 10.16; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:33a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 餽@kuì / 饋@kuì
+:PROPERTIES:
+:CONCEPT: uuid-37838af0-1107-4304-83e7-e068198e9fd0 / GIVE
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:SEM-FEAT: uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd
+:CHARPOS: 1
+:END:
+餽@kuì / 饋@kuì	[[tls:concept:GIVE::#uuid-37838af0-1107-4304-83e7-e068198e9fd0][GIVE]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] {[[tls:sem-feat::#uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd][om]]} / to give a contextually determinate beneficiary N2 (something N1) as present
+*** 藥@yào
+:PROPERTIES:
+:CONCEPT: uuid-232eaefe-1ba3-4658-bfc0-c12218941dbd / DRUG
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 9
+:END:
+藥@yào	[[tls:concept:DRUG::#uuid-232eaefe-1ba3-4658-bfc0-c12218941dbd][DRUG]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / medicine, medication; (dig for) medicinal roots, herbs or mushrooms
+** 拜而受之	he accepted this with a bow,
+:PROPERTIES:
+:SRC: LY 10.16; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:33a02:50::拜而 / 論語
+:CHARPOS: 50
+:END:
+*** 拜@bài
+:PROPERTIES:
+:CONCEPT: uuid-489aefca-2a72-4a0c-a09e-5cb4dceeafbf / BOW DOWN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+拜@bài	[[tls:concept:BOW DOWN::#uuid-489aefca-2a72-4a0c-a09e-5cb4dceeafbf][BOW DOWN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / sometimes almost adverbially: with a bow; bowingly 拜送, 拜送，拜曰
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-efaf0665-0eee-4228-bad5-da590f4e6aa0 / AND
+:SYN-FUNC: uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442
+:SEM-FEAT: uuid-ab6330a5-6702-4cee-aa98-dcd58b5cd498
+:CHARPOS: 51
+:END:
+而@ér	[[tls:concept:AND::#uuid-efaf0665-0eee-4228-bad5-da590f4e6aa0][AND]]	P [[tls:syn-func::#uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442][padV1.postV2]] {[[tls:sem-feat::#uuid-ab6330a5-6702-4cee-aa98-dcd58b5cd498][sequence]]} / and then, and thereupon; 拜而受之" accepted this with a bow" (often coordinates two verbal predicates with the same subject)
+*** 受@shòu
+:PROPERTIES:
+:CONCEPT: uuid-977d3d2b-bc1e-4ba0-84c9-94960e05811e / ACCEPT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+受@shòu	[[tls:concept:ACCEPT::#uuid-977d3d2b-bc1e-4ba0-84c9-94960e05811e][ACCEPT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / accept (and, in case of an order, obey);
+** 丘未達	"Before I fully understand its functions
+:PROPERTIES:
+:SRC: LY 10.16; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:33a04:1::「丘 / 論語
+:CHARPOS: 1
+:END:
+*** 達@dá
+:PROPERTIES:
+:CONCEPT: uuid-eb53ab1f-1b06-435d-beb1-2e2946ed4afc / UNDERSTAND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-229a701e-1341-4719-9af8-a0b4e69c6c71
+:CHARPOS: 3
+:END:
+達@dá	[[tls:concept:UNDERSTAND::#uuid-eb53ab1f-1b06-435d-beb1-2e2946ed4afc][UNDERSTAND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-229a701e-1341-4719-9af8-a0b4e69c6c71][perfective]]} / understand properly, understand fully the functions of
+** 不敢嘗	I dare not try it."
+:PROPERTIES:
+:SRC: LY 10.16; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:33a05:50::不敢 / 論語
+:CHARPOS: 50
+:END:
+*** 嘗@cháng / @
+:PROPERTIES:
+:CONCEPT: uuid-7c995300-b914-48e2-a77d-ffbb5b052779 / SAVOUR
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 52
+:END:
+嘗@cháng / @	[[tls:concept:SAVOUR::#uuid-7c995300-b914-48e2-a77d-ffbb5b052779][SAVOUR]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / taste the contextually determinate object
+** 10.17廄焚	When the horse stable had burnt down
+:PROPERTIES:
+:SRC: LY 10.17; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:34a01:50::10 / 論語
+:CHARPOS: 50
+:END:
+*** 廄@jiù
+:PROPERTIES:
+:CONCEPT: uuid-8b650e67-0b1a-45be-b43c-f5ce96493914 / STABLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 55
+:END:
+廄@jiù	[[tls:concept:STABLE::#uuid-8b650e67-0b1a-45be-b43c-f5ce96493914][STABLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / horse stable; occasionally: fodder house (for horse fodder)
+*** 焚@fén
+:PROPERTIES:
+:CONCEPT: uuid-54519d32-3174-41d1-a8f6-97c59c6a36c8 / BURN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 56
+:END:
+焚@fén	[[tls:concept:BURN::#uuid-54519d32-3174-41d1-a8f6-97c59c6a36c8][BURN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / burn down; burn; catch fire
+** 子退朝	and the Master returned from court
+:PROPERTIES:
+:SRC: LY 10.17; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:34a02:50::子退 / 論語
+:CHARPOS: 50
+:END:
+*** 退@tuì
+:PROPERTIES:
+:CONCEPT: uuid-fde8b583-b48f-4292-bf8c-392431f9a949 / WITHDRAW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+退@tuì	[[tls:concept:WITHDRAW::#uuid-fde8b583-b48f-4292-bf8c-392431f9a949][WITHDRAW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / withdraw from; withdraw before (the enemy)
+*** 朝@cháo
+:PROPERTIES:
+:CONCEPT: uuid-3a44a5e4-b285-4a2a-903d-3f0127888c05 / COURT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 52
+:END:
+朝@cháo	[[tls:concept:COURT::#uuid-3a44a5e4-b285-4a2a-903d-3f0127888c05][COURT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / the royal court; the court
+** 傷人乎	"Did this hurt anyone?"
+:PROPERTIES:
+:SRC: LY 10.17; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:34a04:1::「傷 / 論語
+:CHARPOS: 1
+:END:
+*** 傷@shāng
+:PROPERTIES:
+:CONCEPT: uuid-713f9426-92d8-40c0-9a1b-58eed5feb452 / INJURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+傷@shāng	[[tls:concept:INJURE::#uuid-713f9426-92d8-40c0-9a1b-58eed5feb452][INJURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / wound; cause to be injured
+** 不問馬	He did not ask about the horses?
+:PROPERTIES:
+:SRC: LY 10.17; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:34a05:50::不問 / 論語
+:CHARPOS: 50
+:END:
+*** 問@wèn
+:PROPERTIES:
+:CONCEPT: uuid-78b7ed8c-b69f-4bfb-8210-22031338baae / ASK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-0c4b2be2-9bb3-4e8f-9a71-c8552e769869
+:CHARPOS: 51
+:END:
+問@wèn	[[tls:concept:ASK::#uuid-78b7ed8c-b69f-4bfb-8210-22031338baae][ASK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-0c4b2be2-9bb3-4e8f-9a71-c8552e769869][object=problem]]} / ask about (something or someone to be discussed)　問政
+*** 馬@mǎ
+:PROPERTIES:
+:CONCEPT: uuid-50747786-2863-4509-a2ae-ad9caf9989ff / HORSE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+馬@mǎ	[[tls:concept:HORSE::#uuid-50747786-2863-4509-a2ae-ad9caf9989ff][HORSE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / horse (said to resemble a deer, which goes to show that the horse was more like a pony)
+** 10.18君賜食	When the ruler made an official present of staple food
+:PROPERTIES:
+:SRC: LY 10.18; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:35a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-d6cb6c13-cf8a-4bed-8622-02113ff2f604 / RULER
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 6
+:END:
+君@jūn	[[tls:concept:RULER::#uuid-d6cb6c13-cf8a-4bed-8622-02113ff2f604][RULER]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / the contextually determinate N's ruler
+*** 賜@cì
+:PROPERTIES:
+:CONCEPT: uuid-781123ea-9808-425a-975d-aa8ba3738f27 / GIVE
+:SYN-FUNC: uuid-d297e75d-f861-41bf-8194-937505950af7
+:SEM-FEAT: uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd
+:CHARPOS: 7
+:END:
+賜@cì	[[tls:concept:GIVE::#uuid-781123ea-9808-425a-975d-aa8ba3738f27][GIVE]]	V [[tls:syn-func::#uuid-d297e75d-f861-41bf-8194-937505950af7][vttoN1(.+N2)]] {[[tls:sem-feat::#uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd][om]]} / give (a gift N1) to a determinate beneficiary N2
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-cd902983-7a39-4205-b48c-0394ac183b08 / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 8
+:END:
+食@shí	[[tls:concept:FOOD::#uuid-cd902983-7a39-4205-b48c-0394ac183b08][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / Note that Lù Démíng reads this meaning as sì in several places of 經典釋文: provisions; food supply; staple food; food for general sustenance while at home; (e.g. beg for) something to eat; food supplies; fodder (e.g. for horses)
+** 必正席先嘗之	Confucius would invariably straighten his mat and taste it first.
+:PROPERTIES:
+:SRC: LY 10.18; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:35a02:50::必正 / 論語
+:CHARPOS: 50
+:END:
+*** 正@zhèng
+:PROPERTIES:
+:CONCEPT: uuid-1db78424-de46-4ffd-92c6-430c9e3e4eed / CORRECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 51
+:END:
+正@zhèng	[[tls:concept:CORRECT::#uuid-1db78424-de46-4ffd-92c6-430c9e3e4eed][CORRECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / (cause to be correct>) adjust so as to make correct, to correct; ensure the correctness of
+*** 席@xí
+:PROPERTIES:
+:CONCEPT: uuid-4cd960a8-af69-4686-ba63-1786472b95fb / SEAT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+席@xí	[[tls:concept:SEAT::#uuid-4cd960a8-af69-4686-ba63-1786472b95fb][SEAT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / mat used as a seat
+*** 先@xiān / 先@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-8733a80d-b172-4953-a88e-009d23be5fbe / PRECEDE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-0b8a684c-8893-4f48-8bf5-95250a8cbdc1
+:CHARPOS: 53
+:END:
+先@xiān / 先@xiàn	[[tls:concept:PRECEDE::#uuid-8733a80d-b172-4953-a88e-009d23be5fbe][PRECEDE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-0b8a684c-8893-4f48-8bf5-95250a8cbdc1][superlative]]} / as the first, first
+*** 嘗@cháng / @
+:PROPERTIES:
+:CONCEPT: uuid-9d0fc88f-4547-4bb3-973a-c2ebacf7d6f5 / SAVOUR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+嘗@cháng / @	[[tls:concept:SAVOUR::#uuid-9d0fc88f-4547-4bb3-973a-c2ebacf7d6f5][SAVOUR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / taste
+** 君賜腥	When the ruler made an official gift of raw meat
+:PROPERTIES:
+:SRC: LY 10.18; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:35a03:50::君賜 / 論語
+:CHARPOS: 50
+:END:
+*** 賜@cì
+:PROPERTIES:
+:CONCEPT: uuid-781123ea-9808-425a-975d-aa8ba3738f27 / GIVE
+:SYN-FUNC: uuid-d297e75d-f861-41bf-8194-937505950af7
+:SEM-FEAT: uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd
+:CHARPOS: 51
+:END:
+賜@cì	[[tls:concept:GIVE::#uuid-781123ea-9808-425a-975d-aa8ba3738f27][GIVE]]	V [[tls:syn-func::#uuid-d297e75d-f861-41bf-8194-937505950af7][vttoN1(.+N2)]] {[[tls:sem-feat::#uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd][om]]} / give (a gift N1) to a determinate beneficiary N2
+*** 腥@xīng
+:PROPERTIES:
+:CONCEPT: uuid-6c0e3b20-7c1b-4b84-ac0d-919282da8446 / MEAT
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 52
+:END:
+腥@xīng	[[tls:concept:MEAT::#uuid-6c0e3b20-7c1b-4b84-ac0d-919282da8446][MEAT]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / raw meat
+** 必熟而薦之	Confucius would invariably cook it properly and then offer it to the ancestors.
+:PROPERTIES:
+:SRC: LY 10.18; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:35a04:50::必熟 / 論語
+:CHARPOS: 50
+:END:
+*** 熟@shóu
+:PROPERTIES:
+:CONCEPT: uuid-080438d4-8459-455c-b9ce-f48319e9aceb / COOK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+熟@shóu	[[tls:concept:COOK::#uuid-080438d4-8459-455c-b9ce-f48319e9aceb][COOK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cook well, cook so as to make food well cooked
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-efaf0665-0eee-4228-bad5-da590f4e6aa0 / AND
+:SYN-FUNC: uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442
+:SEM-FEAT: uuid-ab6330a5-6702-4cee-aa98-dcd58b5cd498
+:CHARPOS: 52
+:END:
+而@ér	[[tls:concept:AND::#uuid-efaf0665-0eee-4228-bad5-da590f4e6aa0][AND]]	P [[tls:syn-func::#uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442][padV1.postV2]] {[[tls:sem-feat::#uuid-ab6330a5-6702-4cee-aa98-dcd58b5cd498][sequence]]} / and then, and thereupon; 拜而受之" accepted this with a bow" (often coordinates two verbal predicates with the same subject)
+*** 薦@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-fc523d53-25f9-4fbf-ba1a-2a88cc30cc86 / SACRIFICE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+薦@jiàn	[[tls:concept:SACRIFICE::#uuid-fc523d53-25f9-4fbf-ba1a-2a88cc30cc86][SACRIFICE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / make a sacrifice of; sacrifice from
+** 君賜生	When the ruler made an official gift of a living animal
+:PROPERTIES:
+:SRC: LY 10.18; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:35a05:50::君賜 / 論語
+:CHARPOS: 50
+:END:
+*** 賜@cì
+:PROPERTIES:
+:CONCEPT: uuid-781123ea-9808-425a-975d-aa8ba3738f27 / GIVE
+:SYN-FUNC: uuid-d297e75d-f861-41bf-8194-937505950af7
+:SEM-FEAT: uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd
+:CHARPOS: 51
+:END:
+賜@cì	[[tls:concept:GIVE::#uuid-781123ea-9808-425a-975d-aa8ba3738f27][GIVE]]	V [[tls:syn-func::#uuid-d297e75d-f861-41bf-8194-937505950af7][vttoN1(.+N2)]] {[[tls:sem-feat::#uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd][om]]} / give (a gift N1) to a determinate beneficiary N2
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-6839e742-296b-4261-b4af-e8a5f22cda33 / ANIMAL
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 52
+:END:
+生@shēng	[[tls:concept:ANIMAL::#uuid-6839e742-296b-4261-b4af-e8a5f22cda33][ANIMAL]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / living animal, creature =生物
+** 必畜之	Confucius would invariably rear it up.
+:PROPERTIES:
+:SRC: LY 10.18; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:35a06:50::必畜 / 論語
+:CHARPOS: 50
+:END:
+*** 蓄@xù / 畜@xù
+:PROPERTIES:
+:CONCEPT: uuid-704f70a4-af71-4fde-a07e-d07fc8808baf / REAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+蓄@xù / 畜@xù	[[tls:concept:REAR::#uuid-704f70a4-af71-4fde-a07e-d07fc8808baf][REAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / breed, raise (as domestic animals); nourish, sustain (children and wife)
+** 侍食於君	When he was attending a meal with the ruler
+:PROPERTIES:
+:SRC: LY 10.18; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:35a07:50::侍食 / 論語
+:CHARPOS: 50
+:END:
+*** 侍@shì
+:PROPERTIES:
+:CONCEPT: uuid-f8651c45-ee3c-4ef8-aaaf-707aed88c16a / ACCOMPANY
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 50
+:END:
+侍@shì	[[tls:concept:ACCOMPANY::#uuid-f8651c45-ee3c-4ef8-aaaf-707aed88c16a][ACCOMPANY]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / to serve (somebody N2) at (a meal N1) 侍食於君
+** 10.19疾	When he was ill
+:PROPERTIES:
+:SRC: LY 10.19; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:36a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 疾@jí
+:PROPERTIES:
+:CONCEPT: uuid-e1e26147-eca7-4bde-900f-6e34ff3ef3a8 / ILLNESS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 6
+:END:
+疾@jí	[[tls:concept:ILLNESS::#uuid-e1e26147-eca7-4bde-900f-6e34ff3ef3a8][ILLNESS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / suffer acute sickness 疾甚
+** 君視之	the ruler went to pay a sickness visit.
+:PROPERTIES:
+:SRC: LY 10.19; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:36a02:50::君視 / 論語
+:CHARPOS: 50
+:END:
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-d6cb6c13-cf8a-4bed-8622-02113ff2f604 / RULER
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 50
+:END:
+君@jūn	[[tls:concept:RULER::#uuid-d6cb6c13-cf8a-4bed-8622-02113ff2f604][RULER]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / the contextually determinate N's ruler
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-112bd8f2-c456-4f12-88ee-8dcb66409625 / RULER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+君@jūn	[[tls:concept:RULER::#uuid-112bd8f2-c456-4f12-88ee-8dcb66409625][RULER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the ruler as being primarily administratively in charge of people
+*** 視@shì
+:PROPERTIES:
+:CONCEPT: uuid-7e2b5cc8-0f21-4803-bbc0-772485a1322c / VISIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+視@shì	[[tls:concept:VISIT::#uuid-7e2b5cc8-0f21-4803-bbc0-772485a1322c][VISIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / pay a sickness visit; come to so how (someone) is doing
+** 東首	Confucius turned his head east
+:PROPERTIES:
+:SRC: LY 10.19; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:36a03:50::東首 / 論語
+:CHARPOS: 50
+:END:
+*** 東@dōng
+:PROPERTIES:
+:CONCEPT: uuid-12442006-e322-47d1-9540-ded049ab3656 / DIRECTION
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+東@dōng	[[tls:concept:DIRECTION::#uuid-12442006-e322-47d1-9540-ded049ab3656][DIRECTION]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / turn (one's head) towards the east)
+*** 首@shǒu
+:PROPERTIES:
+:CONCEPT: uuid-a919e0f5-cda9-4a11-a55a-a5f05d696a15 / HEAD
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+首@shǒu	[[tls:concept:HEAD::#uuid-a919e0f5-cda9-4a11-a55a-a5f05d696a15][HEAD]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / head
+** 加朝服	put over himself the court dress
+:PROPERTIES:
+:SRC: LY 10.19; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:36a04:50::加朝 / 論語
+:CHARPOS: 50
+:END:
+*** 加@jiā
+:PROPERTIES:
+:CONCEPT: uuid-bbbecd13-a2e1-4930-8a80-90377c2f7240 / ADD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+加@jiā	[[tls:concept:ADD::#uuid-bbbecd13-a2e1-4930-8a80-90377c2f7240][ADD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / add; put on in addition; put over
+*** 朝服@cháofú
+:PROPERTIES:
+:CONCEPT: uuid-8a01d759-6dbd-42b2-8c16-bccc67cd7b5a / GARMENT
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:CHARPOS: 51
+:END:
+朝服@cháofú	[[tls:concept:GARMENT::#uuid-8a01d759-6dbd-42b2-8c16-bccc67cd7b5a][GARMENT]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] / court dress
+** 拖紳	pulling up the sash.
+:PROPERTIES:
+:SRC: LY 10.19; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:36a05:50::拖紳 / 論語
+:CHARPOS: 50
+:END:
+*** 紳@shēn
+:PROPERTIES:
+:CONCEPT: uuid-d7057165-bfe1-48d3-8690-ae146e7b67d5 / BELT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+紳@shēn	[[tls:concept:BELT::#uuid-d7057165-bfe1-48d3-8690-ae146e7b67d5][BELT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / embroidered piece of cloth dangling from the outer belt; sash; put on a sash
+** 10.20君命召	When the ruler issued a summons by a formal order
+:PROPERTIES:
+:SRC: LY 10.20; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:37a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-d6cb6c13-cf8a-4bed-8622-02113ff2f604 / RULER
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 6
+:END:
+君@jūn	[[tls:concept:RULER::#uuid-d6cb6c13-cf8a-4bed-8622-02113ff2f604][RULER]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / the contextually determinate N's ruler
+*** 命召@mìngzhào
+:PROPERTIES:
+:CONCEPT: uuid-eda57459-e171-46db-883e-8f65eacd96e6 / SUMMON
+:SYN-FUNC: uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d
+:CHARPOS: 7
+:END:
+命召@mìngzhào	[[tls:concept:SUMMON::#uuid-eda57459-e171-46db-883e-8f65eacd96e6][SUMMON]]	V [[tls:syn-func::#uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d][VPt(oN)]] / summon a contextually determinate person by royal command
+*** 命@mìng
+:PROPERTIES:
+:CONCEPT: uuid-e879e6f3-7779-4112-abc3-3d1b345434d2 / COMMAND
+:SYN-FUNC: uuid-7de00196-12aa-43e2-9843-72079143c05b
+:CHARPOS: 7
+:END:
+命@mìng	[[tls:concept:COMMAND::#uuid-e879e6f3-7779-4112-abc3-3d1b345434d2][COMMAND]]	V [[tls:syn-func::#uuid-7de00196-12aa-43e2-9843-72079143c05b][vtt(oN.)+V{0}]] / give orders to a contextually determinate subordinate to V
+*** 召@zhào
+:PROPERTIES:
+:CONCEPT: uuid-06d360fa-5710-4ded-911c-96c3a1c7e443 / SUMMON
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 8
+:END:
+召@zhào	[[tls:concept:SUMMON::#uuid-06d360fa-5710-4ded-911c-96c3a1c7e443][SUMMON]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / call the contextually determinate person in
+** 不俟駕行矣	he would not wait for his carriage to be yoked and got on his way.
+:PROPERTIES:
+:SRC: LY 10.20; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:37a02:50::不俟 / 論語
+:CHARPOS: 50
+:END:
+*** 俟@sì
+:PROPERTIES:
+:CONCEPT: uuid-2a9d53fc-57cf-4b32-86c4-d7674b142cf2 / WAIT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+俟@sì	[[tls:concept:WAIT::#uuid-2a9d53fc-57cf-4b32-86c4-d7674b142cf2][WAIT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / take the time to V; wait for the V-ing to be finished
+*** 駕@jià
+:PROPERTIES:
+:CONCEPT: uuid-c98c0039-9b1f-4a8f-bbad-d037b943ac2f / YOKE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+駕@jià	[[tls:concept:YOKE::#uuid-c98c0039-9b1f-4a8f-bbad-d037b943ac2f][YOKE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / the yoking of one's carriage 不俟駕
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-0dbe7312-339b-4105-ab6c-6bc92755ea64 / LEAVE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 53
+:END:
+行@xíng	[[tls:concept:LEAVE::#uuid-0dbe7312-339b-4105-ab6c-6bc92755ea64][LEAVE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / get on one's way; go one's way; walk off; leave the scene; be on one's way
+** 10.21入太廟	When he entered the Great Temple
+:PROPERTIES:
+:SRC: LY 10.21; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:38a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 入@rù / 內@nèi
+:PROPERTIES:
+:CONCEPT: uuid-ed7326d9-6a30-4ce1-a3ec-255269c58286 / ENTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CONCEPT: uuid-9fdef4df-f1d2-48de-9551-94e4bf10d641 / TEMPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 6
+:END:
+入@rù / 內@nèi	[[tls:concept:ENTER::#uuid-ed7326d9-6a30-4ce1-a3ec-255269c58286][ENTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / of persons: go in, enter; join; enter through; of things: enter (also: 入山) [SEPARATE OFF THE FIGURATIVE USAGES AMONG THE EXAMPLES. CH]
+大廟@dàmiào / 太廟@tàimiào	[[tls:concept:TEMPLE::#uuid-9fdef4df-f1d2-48de-9551-94e4bf10d641][TEMPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / central ancestral temple of the state
+** 每事問	he would ask about every single thing.
+:PROPERTIES:
+:SRC: LY 10.21; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:38a02:50::每事 / 論語
+:CHARPOS: 50
+:END:
+*** 每@měi
+:PROPERTIES:
+:CONCEPT: uuid-0b1fef4c-74ee-463f-bd52-4f86163130de / ALL
+:SYN-FUNC: uuid-b559fe37-af5e-434c-b149-a645c2273f41
+:SEM-FEAT: uuid-d1cf7a99-5f60-4ba5-ac4d-ce56db9366bd
+:CHARPOS: 50
+:END:
+每@měi	[[tls:concept:ALL::#uuid-0b1fef4c-74ee-463f-bd52-4f86163130de][ALL]]	P [[tls:syn-func::#uuid-b559fe37-af5e-434c-b149-a645c2273f41][padN]] {[[tls:sem-feat::#uuid-d1cf7a99-5f60-4ba5-ac4d-ce56db9366bd][quantifier]]} / every　每事
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-7e1a2d80-ae3b-4b7d-9e0b-95b7fe4db85e / THING
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 51
+:END:
+事@shì	[[tls:concept:THING::#uuid-7e1a2d80-ae3b-4b7d-9e0b-95b7fe4db85e][THING]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / affairs; matter, thing; subject matter (of a painting) 不然之事
+*** 問@wèn
+:PROPERTIES:
+:CONCEPT: uuid-9d5d9f41-acc7-4d50-aa12-58a1893e5c60 / ASK
+:SYN-FUNC: uuid-c67a55ad-1e0c-4652-8324-706128c977a1
+:CHARPOS: 52
+:END:
+問@wèn	[[tls:concept:ASK::#uuid-9d5d9f41-acc7-4d50-aa12-58a1893e5c60][ASK]]	V [[tls:syn-func::#uuid-c67a55ad-1e0c-4652-8324-706128c977a1][vt.postN]] / ask about N　每事問
+** 10.22朋友死	When friends (i.e. any friend) died
+:PROPERTIES:
+:SRC: LY 10.22; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:39a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 朋友@péngyǒu
+:PROPERTIES:
+:CONCEPT: uuid-d14e4f7d-89e5-4fd6-832d-bac83673f3aa / FRIEND
+:SYN-FUNC: uuid-0c513944-f90e-42df-a8ad-65300f05c945
+:SEM-FEAT: uuid-f3627213-d242-4f27-bc6e-30516ccbd201
+:CHARPOS: 6
+:END:
+朋友@péngyǒu	[[tls:concept:FRIEND::#uuid-d14e4f7d-89e5-4fd6-832d-bac83673f3aa][FRIEND]]	N [[tls:syn-func::#uuid-0c513944-f90e-42df-a8ad-65300f05c945][NP{post-N}]] {[[tls:sem-feat::#uuid-f3627213-d242-4f27-bc6e-30516ccbd201][reflexive]]} / one's own friend or colleague (of of any kind, singular or plural!)
+** 無所歸	and there was nowhere to take him back to
+:PROPERTIES:
+:SRC: LY 10.22; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:39a02:50::無所 / 論語
+:CHARPOS: 50
+:END:
+*** 所@suǒ
+:PROPERTIES:
+:CONCEPT: uuid-fb7db905-1970-42fc-8f20-8615aeab5f4e / PRONOUN
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 51
+:END:
+所@suǒ	[[tls:concept:PRONOUN::#uuid-fb7db905-1970-42fc-8f20-8615aeab5f4e][PRONOUN]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the object which
+** 於我殯	"Let him be encoffined at my place."
+:PROPERTIES:
+:SRC: LY 10.22; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:39a04:1::「於 / 論語
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c3135f99-8439-4ff2-9617-f086ef7eae0f / EGO
+:SYN-FUNC: uuid-95f68f2f-6ce9-4810-898d-7c71be4de4bc
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-c3135f99-8439-4ff2-9617-f086ef7eae0f][EGO]]	N [[tls:syn-func::#uuid-95f68f2f-6ce9-4810-898d-7c71be4de4bc][npro(.adN)]] / my place; our state
+*** 殯@bìn
+:PROPERTIES:
+:CONCEPT: uuid-0b02eff0-6e08-4172-8e44-4b92e25d3439 / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+殯@bìn	[[tls:concept:BURY::#uuid-0b02eff0-6e08-4172-8e44-4b92e25d3439][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / put into a coffin for burial
+*** 殯@bìn
+:PROPERTIES:
+:CONCEPT: uuid-4d2e685a-9d2d-4853-a586-aafd972a2ae0 / BURY
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 3
+:END:
+殯@bìn	[[tls:concept:BURY::#uuid-4d2e685a-9d2d-4853-a586-aafd972a2ae0][BURY]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / put the contextually determinate person into a coffin for burial
+** 10.23朋友之饋	When friends/any friend made a formal present,
+:PROPERTIES:
+:SRC: LY 10.23; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:40a01:50::10 / 論語
+:CHARPOS: 50
+:END:
+*** 朋友@péngyǒu
+:PROPERTIES:
+:CONCEPT: uuid-d14e4f7d-89e5-4fd6-832d-bac83673f3aa / FRIEND
+:SYN-FUNC: uuid-0c513944-f90e-42df-a8ad-65300f05c945
+:SEM-FEAT: uuid-f3627213-d242-4f27-bc6e-30516ccbd201
+:CONCEPT: uuid-744ac34e-347b-4aae-b786-ea156292b20c / GIVE
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 55
+:END:
+朋友@péngyǒu	[[tls:concept:FRIEND::#uuid-d14e4f7d-89e5-4fd6-832d-bac83673f3aa][FRIEND]]	N [[tls:syn-func::#uuid-0c513944-f90e-42df-a8ad-65300f05c945][NP{post-N}]] {[[tls:sem-feat::#uuid-f3627213-d242-4f27-bc6e-30516ccbd201][reflexive]]} / one's own friend or colleague (of of any kind, singular or plural!)
+餽@kuì / 饋@kuì	[[tls:concept:GIVE::#uuid-744ac34e-347b-4aae-b786-ea156292b20c][GIVE]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / come with presents to the contextually determinate person(s), make presents to one
+** 10.24寢不尸	When reclining bed he did not lie like a corpse,
+:PROPERTIES:
+:SRC: LY 10.24; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:41a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 寢@qǐn
+:PROPERTIES:
+:CONCEPT: uuid-22b31a7a-12c7-43a3-81d5-85bc4912cee8 / REST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+寢@qǐn	[[tls:concept:REST::#uuid-22b31a7a-12c7-43a3-81d5-85bc4912cee8][REST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / lie in bed; stay in bed; keep in bed
+*** 尸@shī
+:PROPERTIES:
+:CONCEPT: uuid-c75b07a1-8bfe-46fa-8d51-8deabd58a464 / CORPSE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 8
+:END:
+尸@shī	[[tls:concept:CORPSE::#uuid-c75b07a1-8bfe-46fa-8d51-8deabd58a464][CORPSE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / lie like a dead body
+** 居不客	when sitting by himself he did not do so formally like a guest (kneeling).
+:PROPERTIES:
+:SRC: LY 10.24; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:41a02:50::居不 / 論語
+:CHARPOS: 50
+:END:
+*** 居@jū
+:PROPERTIES:
+:CONCEPT: uuid-da71df1d-bd8a-4600-b514-f64558d7c633 / SIT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+居@jū	[[tls:concept:SIT::#uuid-da71df1d-bd8a-4600-b514-f64558d7c633][SIT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / sit NB: DUAN YUCAI 399 IS EXEMPLARY IN HIS EXPLANATION OF MODES OF SITTING. THE ORACLE BONE CHARACTER FOR 居 DEFINITELY REFERS TO SQUATTING AND NOT KNEELING. SHUOWEN DEFINES 居蹲也, THE SHUOWEN CHARACTER FOR 居 WHICH HAS 几 FOR 古 AND MEANS "STAY IN, LIVE IN" WAS LATER CONFLATED WITH THE ORACLE BONE CHARACTER WHICH THUS CAME TO HAVE TWO MEANINGS: 1. SIT, SQUAT; 2. STAY; AND THE LATTER HAS COME TO PREVAIL.
+*** 客@kè
+:PROPERTIES:
+:CONCEPT: uuid-485a4fb8-209c-42ed-b079-86b13bfe6848 / GUEST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+客@kè	[[tls:concept:GUEST::#uuid-485a4fb8-209c-42ed-b079-86b13bfe6848][GUEST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / act like a guest
+** 10.25見齊衰者	When he met a person wearing mourning dress,
+:PROPERTIES:
+:SRC: LY 10.25; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:42a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 衰@cuī
+:PROPERTIES:
+:CONCEPT: uuid-68fb4f66-ff69-4665-b4a4-8e214f4d25f8 / GARMENT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 8
+:END:
+衰@cuī	[[tls:concept:GARMENT::#uuid-68fb4f66-ff69-4665-b4a4-8e214f4d25f8][GARMENT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / read zī zuī: respectfully wear mourning garments with hemmed sleeves LY 9.10
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 9
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / someone who V-s (typically tensed); anyone who V-s
+** 雖狎	then even if he was on intimate terms with him
+:PROPERTIES:
+:SRC: LY 10.25; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:42a02:50::雖狎 / 論語
+:CHARPOS: 50
+:END:
+*** 狎@xiá
+:PROPERTIES:
+:CONCEPT: uuid-fa4fb049-1b61-4b52-83c7-540908cbe4c6 / INTIMATE
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 51
+:END:
+狎@xiá	[[tls:concept:INTIMATE::#uuid-fa4fb049-1b61-4b52-83c7-540908cbe4c6][INTIMATE]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / be on intimate terms with; often: be on inappropriately close terms with some contextually derminate person
+** 必變	he was sure to change his attitude (to a more formal one in order to show his sympathy).
+:PROPERTIES:
+:SRC: LY 10.25; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:42a03:50::必變 / 論語
+:CHARPOS: 50
+:END:
+*** 變@biàn
+:PROPERTIES:
+:CONCEPT: uuid-f803ae79-7bfa-43e0-aac2-1c592e28be79 / REACT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+變@biàn	[[tls:concept:REACT::#uuid-f803ae79-7bfa-43e0-aac2-1c592e28be79][REACT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / show a formal reaction
+** 見冕者與瞽者	When he visited someone who was wearing a ritual cap or who was blind,
+:PROPERTIES:
+:SRC: LY 10.25; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:42a04:50::見冕 / 論語
+:CHARPOS: 50
+:END:
+*** 冕@miǎn / 絻@miǎn
+:PROPERTIES:
+:CONCEPT: uuid-cc7622ab-3d8b-454e-a2bf-c60452581986 / OFFICIAL HAT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+冕@miǎn / 絻@miǎn	[[tls:concept:OFFICIAL HAT::#uuid-cc7622ab-3d8b-454e-a2bf-c60452581986][OFFICIAL HAT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wear an official hat
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 52
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / someone who V-s (typically tensed); anyone who V-s
+*** 瞽@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-b614ea51-2043-4760-b16d-4554d03edb7d / BLIND
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 54
+:END:
+瞽@gǔ	[[tls:concept:BLIND::#uuid-b614ea51-2043-4760-b16d-4554d03edb7d][BLIND]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be blind
+** 雖褻	then even if he was on very familiar terms with him,
+:PROPERTIES:
+:SRC: LY 10.25; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:42a05:50::雖褻 / 論語
+:CHARPOS: 50
+:END:
+*** 褻@xiè
+:PROPERTIES:
+:CONCEPT: uuid-4cb86f66-ac24-421c-a299-920f668ef16e / INTIMATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 51
+:END:
+褻@xiè	[[tls:concept:INTIMATE::#uuid-4cb86f66-ac24-421c-a299-920f668ef16e][INTIMATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be on intimate terms with
+** 必以貌	he would invariably behave according to proper form.
+:PROPERTIES:
+:SRC: LY 10.25; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:42a06:50::必以 / 論語
+:CHARPOS: 50
+:END:
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-71de3f40-ec5b-434d-bd2d-6c2c3cf07e8e / CONFORM
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+以@yǐ	[[tls:concept:CONFORM::#uuid-71de3f40-ec5b-434d-bd2d-6c2c3cf07e8e][CONFORM]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / use as a standard of behaviour
+*** 貌@mào
+:PROPERTIES:
+:CONCEPT: uuid-557da024-efae-45a7-8873-da5a36867611 / RITUAL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 52
+:END:
+貌@mào	[[tls:concept:RITUAL::#uuid-557da024-efae-45a7-8873-da5a36867611][RITUAL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / proper ritual form; proper ritual appearance
+** 凶服者式之	To someone with a dress for a deceased person he would bow from his carriage.
+:PROPERTIES:
+:SRC: LY 10.25; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:43a01:1::凶服 / 論語
+:CHARPOS: 1
+:END:
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-70529b04-672f-481b-829d-299efc21bc65 / MOURNING
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+凶@xiōng	[[tls:concept:MOURNING::#uuid-70529b04-672f-481b-829d-299efc21bc65][MOURNING]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / by way of mourning
+*** 服@fú
+:PROPERTIES:
+:CONCEPT: uuid-9bede67f-afb5-4094-ac5e-c2245308ee51 / GARMENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+服@fú	[[tls:concept:GARMENT::#uuid-9bede67f-afb5-4094-ac5e-c2245308ee51][GARMENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / dress ceremoniously in robes, be ceremoniously dressed
+*** 式@shì / 軾@shì
+:PROPERTIES:
+:CONCEPT: uuid-89c94caf-71b1-465d-9cd3-136e2280e06f / BOW DOWN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+式@shì / 軾@shì	[[tls:concept:BOW DOWN::#uuid-89c94caf-71b1-465d-9cd3-136e2280e06f][BOW DOWN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / greet by bowing over the cross beam on top of a carriage one is riding in
+** 式負版者	He bowed from his carriage to anyone (menial) who carried official documents on his back.
+:PROPERTIES:
+:SRC: LY 10.25; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:43a02:50::式負 / 論語
+:CHARPOS: 50
+:END:
+*** 式@shì / 軾@shì
+:PROPERTIES:
+:CONCEPT: uuid-89c94caf-71b1-465d-9cd3-136e2280e06f / BOW DOWN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+式@shì / 軾@shì	[[tls:concept:BOW DOWN::#uuid-89c94caf-71b1-465d-9cd3-136e2280e06f][BOW DOWN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / greet by bowing over the cross beam on top of a carriage one is riding in
+*** 負@fù
+:PROPERTIES:
+:CONCEPT: uuid-b565604b-44c7-4396-9e60-9186864ca3b6 / CARRY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CONCEPT: uuid-c35b6879-acaa-41f3-a6a4-858350ceb7fc / STATIONARY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+負@fù	[[tls:concept:CARRY::#uuid-b565604b-44c7-4396-9e60-9186864ca3b6][CARRY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / carry on one's back; transferred: take upon oneself (official duties etc)
+板@bǎn / 版@bǎn	[[tls:concept:STATIONARY::#uuid-c35b6879-acaa-41f3-a6a4-858350ceb7fc][STATIONARY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / large relatively thick rough wooden tablet for writing on; tablet; A bǎn 版 is broader than a dú 牘. 版 were typically used for population register
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae / PRONOUN
+:SYN-FUNC: uuid-6e908672-1c99-4781-abee-ff98a0e1712a
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 53
+:END:
+者@zhě	[[tls:concept:PRONOUN::#uuid-6207c7b6-b6aa-4e2d-90ed-f9275a1345ae][PRONOUN]]	N [[tls:syn-func::#uuid-6e908672-1c99-4781-abee-ff98a0e1712a][npro.post-V]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / someone who V-s (typically tensed); anyone who V-s
+** 有盛饌	When offered a sumptuous dish
+:PROPERTIES:
+:SRC: LY 10.25; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:44a01:1::有盛 / 論語
+:CHARPOS: 1
+:END:
+*** 盛@chéng
+:PROPERTIES:
+:CONCEPT: uuid-6bdf686a-6e7e-40fc-9438-247f368bcde9 / ABUNDANT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 2
+:END:
+盛@chéng	[[tls:concept:ABUNDANT::#uuid-6bdf686a-6e7e-40fc-9438-247f368bcde9][ABUNDANT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / abundant
+*** 饌@zhuàn
+:PROPERTIES:
+:CONCEPT: uuid-9b5b4ae7-c8d7-492b-9446-1a02992c8edb / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 3
+:END:
+饌@zhuàn	[[tls:concept:FOOD::#uuid-9b5b4ae7-c8d7-492b-9446-1a02992c8edb][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / provisions; food; meal; dish
+** 迅雷風烈必變	When there was a quick thunder or a storm blew up, he was sure to react demonstratively.
+:PROPERTIES:
+:SRC: LY 10.25; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:45a01:1::迅雷 / 論語
+:CHARPOS: 1
+:END:
+*** 迅@xùn
+:PROPERTIES:
+:CONCEPT: uuid-6962f6d0-40b4-457a-9220-0fe4de56cc91 / QUICK
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+迅@xùn	[[tls:concept:QUICK::#uuid-6962f6d0-40b4-457a-9220-0fe4de56cc91][QUICK]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / abruptly
+*** 雷@léi
+:PROPERTIES:
+:CONCEPT: uuid-7f6713f4-cb3d-4d46-9fca-7fff36413355 / THUNDER
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 2
+:END:
+雷@léi	[[tls:concept:THUNDER::#uuid-7f6713f4-cb3d-4d46-9fca-7fff36413355][THUNDER]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / it thunders, there is thunder
+*** 烈@liè
+:PROPERTIES:
+:CONCEPT: uuid-f5d99ccb-2413-40a8-95fe-608e347c9d13 / QUICK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 4
+:END:
+烈@liè	[[tls:concept:QUICK::#uuid-f5d99ccb-2413-40a8-95fe-608e347c9d13][QUICK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / to quicken, to become violent (like a gust of wind)
+** 10.26升車	When ascending a carriage
+:PROPERTIES:
+:SRC: LY 10.26; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:46a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 升@shēng
+:PROPERTIES:
+:CONCEPT: uuid-d357b4bb-33e9-46cc-b66e-c8a90081dffa / ASCEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+升@shēng	[[tls:concept:ASCEND::#uuid-d357b4bb-33e9-46cc-b66e-c8a90081dffa][ASCEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / rise up; scale up; go up; go up to
+** 必正立	he invariably stood straight
+:PROPERTIES:
+:SRC: LY 10.26; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:46a02:50::必正 / 論語
+:CHARPOS: 50
+:END:
+*** 正@zhèng
+:PROPERTIES:
+:CONCEPT: uuid-ecab0119-7128-4076-93da-876580bd1bec / CORRECT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+正@zhèng	[[tls:concept:CORRECT::#uuid-ecab0119-7128-4076-93da-876580bd1bec][CORRECT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / correctly, with formal correctness; exactly, precisely
+*** 立@lì
+:PROPERTIES:
+:CONCEPT: uuid-2c3f07c8-1fa8-42a9-b224-e4082d4fee46 / STAND
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+立@lì	[[tls:concept:STAND::#uuid-2c3f07c8-1fa8-42a9-b224-e4082d4fee46][STAND]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / ZUO: stand up (as a pig standing up like a man). This is the general word for standing straight and inactive with both feet on the ground.
+** 執綏	and held the mounting strap.
+:PROPERTIES:
+:SRC: LY 10.26; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:46a03:50::執綏 / 論語
+:CHARPOS: 50
+:END:
+*** 執@zhí
+:PROPERTIES:
+:CONCEPT: uuid-966769c5-d471-4dbd-8ecf-0d7767b8842c / HOLD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-1e331347-13e3-42a1-a1a8-8e4404f03509
+:CHARPOS: 50
+:END:
+執@zhí	[[tls:concept:HOLD::#uuid-966769c5-d471-4dbd-8ecf-0d7767b8842c][HOLD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-1e331347-13e3-42a1-a1a8-8e4404f03509][continuous]]} / hold and carry (any object) with one or with two hands; wield
+*** 綏@suí
+:PROPERTIES:
+:CONCEPT: uuid-5dd9698e-ceb5-4cc1-bcb5-4783484ecca9 / VEHICLE PARTS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+綏@suí	[[tls:concept:VEHICLE PARTS::#uuid-5dd9698e-ceb5-4cc1-bcb5-4783484ecca9][VEHICLE PARTS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / carriage harness; strap on carriage for help in mounting
+** 車中不內顧	Once in the carriage he would not look towards the inside,
+:PROPERTIES:
+:SRC: LY 10.26; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:47a01:1::車中 / 論語
+:CHARPOS: 1
+:END:
+*** 中@zhōng
+:PROPERTIES:
+:CONCEPT: uuid-64cc5de0-dca1-460e-ba89-f8efa3a6c696 / INSIDE
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:SEM-FEAT: uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2
+:CHARPOS: 2
+:END:
+中@zhōng	[[tls:concept:INSIDE::#uuid-64cc5de0-dca1-460e-ba89-f8efa3a6c696][INSIDE]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] {[[tls:sem-feat::#uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2][place]]} / inside, in the middle of N 其中x
+*** 內@nèi
+:PROPERTIES:
+:CONCEPT: uuid-0a1c9f0a-9ba5-4fb1-9649-0cd1345c6444 / INSIDE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 4
+:END:
+內@nèi	[[tls:concept:INSIDE::#uuid-0a1c9f0a-9ba5-4fb1-9649-0cd1345c6444][INSIDE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / internally; within the court; within the home; on the inside; directed towards the inside
+*** 顧@gù
+:PROPERTIES:
+:CONCEPT: uuid-ff7bb667-b676-4544-9dfe-fec6f0a20563 / LOOK
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 5
+:END:
+顧@gù	[[tls:concept:LOOK::#uuid-ff7bb667-b676-4544-9dfe-fec6f0a20563][LOOK]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / turn one's head to look, look in a new direction
+** 不疾言	he did not make loud remarks,
+:PROPERTIES:
+:SRC: LY 10.26; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:47a02:50::不疾 / 論語
+:CHARPOS: 50
+:END:
+*** 疾@jí
+:PROPERTIES:
+:CONCEPT: uuid-99bc3f09-8d87-4a26-8711-a2d6446076ca / URGENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+疾@jí	[[tls:concept:URGENT::#uuid-99bc3f09-8d87-4a26-8711-a2d6446076ca][URGENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / urgently and intensely
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-893ee225-ba0b-4809-89cc-abee8b5f0a88 / SPEAK
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 52
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-893ee225-ba0b-4809-89cc-abee8b5f0a88][SPEAK]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / express oneself in words 能言; speak up; 提意見, come up with statements, come up with one's personal opinions; state one's personal opinion of things; make a proposal
+** 不親指	nor did he point directly at people he was talking to without maintaining a discrete distance.
+:PROPERTIES:
+:SRC: LY 10.26; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:47a03:50::不親 / 論語
+:CHARPOS: 50
+:END:
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-7ac3fbb6-9021-4ab4-a80a-84206c0c7fba / INTIMATE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 51
+:END:
+親@qīn	[[tls:concept:INTIMATE::#uuid-7ac3fbb6-9021-4ab4-a80a-84206c0c7fba][INTIMATE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / without maintaining a discreet distance
+*** 指@zhǐ
+:PROPERTIES:
+:CONCEPT: uuid-c2715f63-df2d-4968-af98-d8d44d067e85 / SHOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+指@zhǐ	[[tls:concept:SHOW::#uuid-c2715f63-df2d-4968-af98-d8d44d067e85][SHOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / point a finger at
+** 10.27色斯舉矣	Reacting to a facial expression it rose up, ???
+:PROPERTIES:
+:SRC: LY 10.27; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:48a01:1::10 / 論語
+:CHARPOS: 1
+:END:
+*** 舉@jǔ
+:PROPERTIES:
+:CONCEPT: uuid-d4657ee5-b43a-4bb4-9d6f-a7c15f4a8ef1 / RISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 8
+:END:
+舉@jǔ	[[tls:concept:RISE::#uuid-d4657ee5-b43a-4bb4-9d6f-a7c15f4a8ef1][RISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / rise up; (of birds:) rise up into the sky
+** 翔而後集	first it fluttered, and only then it settled down.
+:PROPERTIES:
+:SRC: LY 10.27; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:48a02:50::翔而 / 論語
+:CHARPOS: 50
+:END:
+*** 翔@xiáng
+:PROPERTIES:
+:CONCEPT: uuid-9ce0096d-56c4-46ef-ba7f-85a87549f26a / FLY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+翔@xiáng	[[tls:concept:FLY::#uuid-9ce0096d-56c4-46ef-ba7f-85a87549f26a][FLY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / fly to and fro, soar; hover
+*** 而後@érhòu
+:PROPERTIES:
+:CONCEPT: uuid-ec9a4de5-e124-47f1-a2ec-a391a9c6e33f / ONLY THEN
+:SYN-FUNC: uuid-a9e51915-33f6-4995-9e68-d369df016b99
+:CHARPOS: 51
+:END:
+而後@érhòu	[[tls:concept:ONLY THEN::#uuid-ec9a4de5-e124-47f1-a2ec-a391a9c6e33f][ONLY THEN]]	P [[tls:syn-func::#uuid-a9e51915-33f6-4995-9e68-d369df016b99][PPadV.postS]] / only then; after
+*** 集@jí
+:PROPERTIES:
+:CONCEPT: uuid-44dae296-d60c-431e-bf20-8bc3b0fbeec2 / SIT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+集@jí	[[tls:concept:SIT::#uuid-44dae296-d60c-431e-bf20-8bc3b0fbeec2][SIT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / settle down; find a perch
+** 山梁雌雉	"Female pheasant on the mountain ridge,
+:PROPERTIES:
+:SRC: LY 10.27; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:48a04:1::「山 / 論語
+:CHARPOS: 1
+:END:
+*** 雌@cí
+:PROPERTIES:
+:CONCEPT: uuid-49ce4a18-725b-4f91-8fca-3935f9df183f / FEMALE
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 3
+:END:
+雌@cí	[[tls:concept:FEMALE::#uuid-49ce4a18-725b-4f91-8fca-3935f9df183f][FEMALE]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / female
+*** 雉@zhì
+:PROPERTIES:
+:CONCEPT: uuid-930030db-cb1b-441a-862e-ce1617e6eb27 / BIRDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+雉@zhì	[[tls:concept:BIRDS::#uuid-930030db-cb1b-441a-862e-ce1617e6eb27][BIRDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / pheasant
+** 子路共之	Zǐlù saluted them,
+:PROPERTIES:
+:SRC: LY 10.27; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:48a05:1::子路 / 論語
+:CHARPOS: 1
+:END:
+*** 共@gōng / 拱@gǒng
+:PROPERTIES:
+:CONCEPT: uuid-50b10450-c269-42cb-896c-7b3860de34a1 / BOW DOWN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+共@gōng / 拱@gǒng	[[tls:concept:BOW DOWN::#uuid-50b10450-c269-42cb-896c-7b3860de34a1][BOW DOWN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / bow to
+** 三嗅而作	they  flapped their wings  thrice and rose up.
+:PROPERTIES:
+:SRC: LY 10.27; tr. CH
+:DATE: --
+:LOCATION: KR1h0004_010:48a05:50::三嗅 / 論語
+:CHARPOS: 50
+:END:
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-efaf0665-0eee-4228-bad5-da590f4e6aa0 / AND
+:SYN-FUNC: uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442
+:SEM-FEAT: uuid-ab6330a5-6702-4cee-aa98-dcd58b5cd498
+:CHARPOS: 52
+:END:
+而@ér	[[tls:concept:AND::#uuid-efaf0665-0eee-4228-bad5-da590f4e6aa0][AND]]	P [[tls:syn-func::#uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442][padV1.postV2]] {[[tls:sem-feat::#uuid-ab6330a5-6702-4cee-aa98-dcd58b5cd498][sequence]]} / and then, and thereupon; 拜而受之" accepted this with a bow" (often coordinates two verbal predicates with the same subject)
+*** 作@zuò / 作@zuò / 作@zuò
+:PROPERTIES:
+:CONCEPT: uuid-08a0c65c-f7ba-4fbd-81de-9e4a20368126 / RISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+作@zuò / 作@zuò / 作@zuò	[[tls:concept:RISE::#uuid-08a0c65c-f7ba-4fbd-81de-9e4a20368126][RISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / rise to one's feet

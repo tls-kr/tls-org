@@ -1,0 +1,33 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_143
+#+DATE: 2017-02-08T16:41:22+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 而操銚鎒與農夫居壟畝之中	give him a hoe, make him live and work in the fields,
+:PROPERTIES:
+:SRC: ZGC 10.8.1; tr. Crump 1979 no.152 p.187, ed. Shanghaiguji p. 380 Lord Meng-ch'ang and the unpleasing retainer
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_143:1a11:1::而操 / 戰國策
+:CHARPOS: 1
+:END:
+*** 壟畝@lǒngmǔ
+:PROPERTIES:
+:CONCEPT: uuid-cbd2a307-7145-46fc-a215-4b293191ed4a / FIELD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 9
+:END:
+壟畝@lǒngmǔ	[[tls:concept:FIELD::#uuid-cbd2a307-7145-46fc-a215-4b293191ed4a][FIELD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / fields
+** 今使人而不能	Now suppose you employ a man and he proves incapable
+:PROPERTIES:
+:SRC: ZGC 10.8.2; tr. Crump 1979 no.152 p.187, ed. Shanghaiguji p. 380
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_143:1a16:1::今使 / 戰國策
+:CHARPOS: 1
+:END:
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-0e31d83a-bd56-46c4-b54e-97d29b853794 / AND
+:SYN-FUNC: uuid-8493d61b-f429-413d-aa90-f3f3c0a94f0f
+:SEM-FEAT: uuid-6951a14a-c9f0-4f2d-8abc-a92295365f1c
+:CHARPOS: 4
+:END:
+而@ér	[[tls:concept:AND::#uuid-0e31d83a-bd56-46c4-b54e-97d29b853794][AND]]	V [[tls:syn-func::#uuid-8493d61b-f429-413d-aa90-f3f3c0a94f0f][vadV{PRED}.postN{SUBJ}:adS]] {[[tls:sem-feat::#uuid-6951a14a-c9f0-4f2d-8abc-a92295365f1c][relative clause]]} / forming "relative clause": 人而無信吾不知其可也"If a person lacks good faith..."(one who is N) and/but (does not V)

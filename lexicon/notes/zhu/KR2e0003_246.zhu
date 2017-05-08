@@ -1,0 +1,48 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_246
+#+DATE: 2017-02-08T16:41:26+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 肉試則斷牛馬	when used on flesh could cleave an ox or a horse asunder
+:PROPERTIES:
+:SRC: ZGC 20.1.3, tr. Crump no 261, ed. Sha4ngha3igu3jí p. 677
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_246:2a05:1::肉試 / 戰國策
+:CHARPOS: 1
+:END:
+*** 肉@ròu
+:PROPERTIES:
+:CONCEPT: uuid-45fd5008-23fd-4eed-8f57-8e7435bb471b / MEAT
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 1
+:END:
+肉@ròu	[[tls:concept:MEAT::#uuid-45fd5008-23fd-4eed-8f57-8e7435bb471b][MEAT]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / aiming for meat, having meat as an object
+** 金試則截盤匜	and against metal it could split bronze vessels.
+:PROPERTIES:
+:SRC: ZGC 20.1.3, tr. Crump no 261, ed. Sha4ngha3igu3jí p. 677
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_246:2a06:50::金試 / 戰國策
+:CHARPOS: 50
+:END:
+*** 金@jīn
+:PROPERTIES:
+:CONCEPT: uuid-dc4de4df-1574-4bd3-ba4a-b0237473fb37 / METAL
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:CHARPOS: 50
+:END:
+金@jīn	[[tls:concept:METAL::#uuid-dc4de4df-1574-4bd3-ba4a-b0237473fb37][METAL]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] / using metal as an object; using metal as an instrument, using a metal instrument
+** 都平君喟然大息曰	Lord [Tu]-p'ing heaved a great sigh.
+:PROPERTIES:
+:SRC: ZGC 20.1.9, tr. Crump no 261, ed. Sha4ngha3igu3jí p. 677
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_246:2a55:1::都平 / 戰國策
+:CHARPOS: 1
+:END:
+*** 太息@tàixī
+:PROPERTIES:
+:CONCEPT: uuid-877224e7-1552-43d2-9704-1f755c2d817d / SIGH
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+太息@tàixī	[[tls:concept:SIGH::#uuid-877224e7-1552-43d2-9704-1f755c2d817d][SIGH]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / sigh (as a sign of hightened emotion)

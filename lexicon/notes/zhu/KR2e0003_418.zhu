@@ -1,0 +1,106 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_418
+#+DATE: 2017-02-08T16:41:31+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 嚴遂陰交於聶政	Yen Sui began to associate with Nieh Cheng secretly
+:PROPERTIES:
+:SRC: ZGC 27.22. 2 ; tr. Crump 1979 no.3i3, p.456, ed. Shanghai Guji p. 993
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_418:2a06:1::嚴遂 / 戰國策
+:CHARPOS: 1
+:END:
+*** 陰@yīn
+:PROPERTIES:
+:CONCEPT: uuid-2c1c3866-fd7a-4211-8ca0-100d3b2d0917 / SECRET
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 3
+:END:
+陰@yīn	[[tls:concept:SECRET::#uuid-2c1c3866-fd7a-4211-8ca0-100d3b2d0917][SECRET]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / secretly; in an indirect way; in hidden ways
+*** 交@jiāo
+:PROPERTIES:
+:CONCEPT: uuid-17b74192-ee65-455b-a00d-c5a896f4c7f5 / INTERACT
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 4
+:END:
+交@jiāo	[[tls:concept:INTERACT::#uuid-17b74192-ee65-455b-a00d-c5a896f4c7f5][INTERACT]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / interact with; cultivate contacts with (superiors, spirits); cultivate good diplomatic relations with
+** 久之	After some time
+:PROPERTIES:
+:SRC: ZGC 27.22. 6 ; tr. Crump 1979 no.3i3, p.457, ed. Shanghai Guji p. 994
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_418:3a01:1::久之 / 戰國策
+:CHARPOS: 1
+:END:
+*** 久之@jiǔzhī
+:PROPERTIES:
+:CONCEPT: uuid-7c0b5a82-4285-4cba-9225-236145f6371f / ENDURING
+:SYN-FUNC: uuid-0603ae90-f298-49ae-9614-6da3ff5a48c0
+:CHARPOS: 1
+:END:
+久之@jiǔzhī	[[tls:concept:ENDURING::#uuid-7c0b5a82-4285-4cba-9225-236145f6371f][ENDURING]]	V [[tls:syn-func::#uuid-0603ae90-f298-49ae-9614-6da3ff5a48c0][VP0adS]] / after a long time; sometimes: for a long time
+** 夫賢者以感忿睚眥之意	(fu: in generalCH) A man of honour who had felt the glance of hatred
+:PROPERTIES:
+:SRC: ZGC 27.22. 7 ; tr. Crump 1979 no.3i3, p.457, ed. Shanghai Guji p. 994
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_418:3a17:1::夫賢 / 戰國策
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1 / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: the man of talent and moral worth (at any time and in any place)
+*** 感@gǎn
+:PROPERTIES:
+:CONCEPT: uuid-b815680b-2563-47c2-8e5e-3748ca03ce6f / FEEL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+感@gǎn	[[tls:concept:FEEL::#uuid-b815680b-2563-47c2-8e5e-3748ca03ce6f][FEEL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / react to, feel
+*** 忿@fèn
+:PROPERTIES:
+:CONCEPT: uuid-387c792c-322d-4e56-9c23-28bfa1b1d093 / ANGER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 6
+:END:
+忿@fèn	[[tls:concept:ANGER::#uuid-387c792c-322d-4e56-9c23-28bfa1b1d093][ANGER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / fit of anger; small fits of anger, momentary fit of anger
+*** 睚眥@yàzì
+:PROPERTIES:
+:CONCEPT: uuid-2be3b142-1d45-4b70-bca2-083a1a865114 / STARE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 7
+:END:
+睚眥@yàzì	[[tls:concept:STARE::#uuid-2be3b142-1d45-4b70-bca2-083a1a865114][STARE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / angry stare
+** 政將為知己者用	so I can be of use to one who knew me.'
+:PROPERTIES:
+:SRC: ZGC 27.22. 7 ; tr. Crump 1979 no.3i3, p.457, ed. Shanghai Guji p. 994
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_418:3a23:1::政將 / 戰國策
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1 / SELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 5
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1][SELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / object pronoun, resumptive, non-contrastive: oneself, himself, herself, themselves
+** 久之莫知誰子	But even after a long time had passed no one knew who he was.
+:PROPERTIES:
+:SRC: ZGC 27.22. 12 ; tr. Crump 1979 no.3i3, p.458, ed. Shanghai Guji p. 996
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_418:5a16:1::久之 / 戰國策
+:CHARPOS: 1
+:END:
+*** 久之@jiǔzhī
+:PROPERTIES:
+:CONCEPT: uuid-7c0b5a82-4285-4cba-9225-236145f6371f / ENDURING
+:SYN-FUNC: uuid-0603ae90-f298-49ae-9614-6da3ff5a48c0
+:CHARPOS: 1
+:END:
+久之@jiǔzhī	[[tls:concept:ENDURING::#uuid-7c0b5a82-4285-4cba-9225-236145f6371f][ENDURING]]	V [[tls:syn-func::#uuid-0603ae90-f298-49ae-9614-6da3ff5a48c0][VP0adS]] / after a long time; sometimes: for a long time

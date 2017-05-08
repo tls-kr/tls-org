@@ -1,0 +1,186 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_021
+#+DATE: 2017-02-08T16:41:09+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 魏王以國與先生	'The king of Wei has given you power over his state
+:PROPERTIES:
+:SRC: ZGC 1.21.1; tr. Crump 1979 no.31, p. 45 Chou Tsui upbraided for his loyalty
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_021:1a02:1::「魏 / 戰國策
+:CHARPOS: 1
+:END:
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-6f3d5aea-0e0e-4bfd-a327-a299f8fbbd12 / OBJECT MARKER
+:SYN-FUNC: uuid-25270f92-78eb-4334-a1b2-61ee030801df
+:CHARPOS: 3
+:END:
+以@yǐ	[[tls:concept:OBJECT MARKER::#uuid-6f3d5aea-0e0e-4bfd-a327-a299f8fbbd12][OBJECT MARKER]]	V [[tls:syn-func::#uuid-25270f92-78eb-4334-a1b2-61ee030801df][vtoN.adVt]] / object marker: 把(這個東西) also: 以。。。而。。。
+*** 先生@xiānshēng
+:PROPERTIES:
+:CONCEPT: uuid-bf4b5f19-fc0a-4173-b9b2-847dd78c3efe / YOU
+:SYN-FUNC: uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4
+:CHARPOS: 6
+:END:
+先生@xiānshēng	[[tls:concept:YOU::#uuid-bf4b5f19-fc0a-4173-b9b2-847dd78c3efe][YOU]]	N [[tls:syn-func::#uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4][NP{post-npro_1.}{post=npro_2}]] / you, master
+** 貴合於秦以伐齊	because he hopes to join forces with Ch'in and attack Ch'i.
+:PROPERTIES:
+:SRC: ZGC 1.21.1; tr. Crump 1979 no.31, p. 45 Chou Tsui upbraided for his loyalty
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_021:1a03:50::貴合 / 戰國策
+:CHARPOS: 50
+:END:
+*** 貴@guì
+:PROPERTIES:
+:CONCEPT: uuid-2dc671ac-1c67-49a9-ba36-4d2d50115038 / HOPE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 50
+:END:
+貴@guì	[[tls:concept:HOPE::#uuid-2dc671ac-1c67-49a9-ba36-4d2d50115038][HOPE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / hope very much to V, really intend to
+** 薛公故主	Now the Duke of Hsyeh was once a ruler
+:PROPERTIES:
+:SRC: ZGC 1.21.1; tr. Crump 1979 no.31, p. 45 Chou Tsui upbraided for his loyalty
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_021:1a04:50::薛公 / 戰國策
+:CHARPOS: 50
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-a85a72b1-8587-4774-9919-3a2e8bdbbe94 / PAST
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 52
+:END:
+故@gù	[[tls:concept:PAST::#uuid-a85a72b1-8587-4774-9919-3a2e8bdbbe94][PAST]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / pre-existing, the earlier, early; former; belonging to a bygone age, old; old-established
+** 輕忘其薛	but he has dismissed thoughts of his city of Hsyeh
+:PROPERTIES:
+:SRC: ZGC 1.21.1; tr. Crump 1979 no.31, p. 45 Chou Tsui upbraided for his loyalty
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_021:1a05:50::輕忘 / 戰國策
+:CHARPOS: 50
+:END:
+*** 輕@qìng / 輕@qīng
+:PROPERTIES:
+:CONCEPT: uuid-aaf3340d-3dd8-4629-8ebb-257bc614d6a8 / FRIVOLOUS
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+輕@qìng / 輕@qīng	[[tls:concept:FRIVOLOUS::#uuid-aaf3340d-3dd8-4629-8ebb-257bc614d6a8][FRIVOLOUS]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / lightly, without proper consideration of a matter
+** 不顧其先君之丘墓	and put aside concern over the graves of his ancestors.37
+:PROPERTIES:
+:SRC: ZGC 1.21.1; tr. Crump 1979 no.31, p. 45 Chou Tsui upbraided for his loyalty
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_021:1a06:50::不顧 / 戰國策
+:CHARPOS: 50
+:END:
+*** 顧@gù
+:PROPERTIES:
+:CONCEPT: uuid-d5972321-f1d5-48ff-bed3-a647f3589894 / ATTENTION
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 51
+:END:
+顧@gù	[[tls:concept:ATTENTION::#uuid-d5972321-f1d5-48ff-bed3-a647f3589894][ATTENTION]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / turn one's attention to; pay proper attention to, take cognizance of, take note of; concentrate on (at the expense of other things); be concerned for, worry about 不顧
+*** 丘墓@qiūmù
+:PROPERTIES:
+:CONCEPT: uuid-f641e6f3-d453-4e3f-ba3c-31fb0370c479 / TOMB
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 56
+:END:
+丘墓@qiūmù	[[tls:concept:TOMB::#uuid-f641e6f3-d453-4e3f-ba3c-31fb0370c479][TOMB]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / tombs
+** 而公獨脩虛信為茂行	You are the only one who clings to an empty loyalty,
+:PROPERTIES:
+:SRC: ZGC 1.21.1; tr. Crump 1979 no.31, p. 45 Chou Tsui upbraided for his loyalty
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_021:1a07:50::而公 / 戰國策
+:CHARPOS: 50
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 51
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / honorific in informal conversation: you; also n - pro: "you my Duke"; used both as subject and as object
+*** 虛@xū
+:PROPERTIES:
+:CONCEPT: uuid-18ccdd50-1313-40f1-b772-2d8420e156ce / EMPTY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 54
+:END:
+虛@xū	[[tls:concept:EMPTY::#uuid-18ccdd50-1313-40f1-b772-2d8420e156ce][EMPTY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / insubstantial, inconsequential; rarified; vacant; also generally: empty; characterised by emptiness 虛月 "months where they are empty"
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-b4888133-d285-4c43-89f4-91971c0799be / FAITHFUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+信@xìn	[[tls:concept:FAITHFUL::#uuid-b4888133-d285-4c43-89f4-91971c0799be][FAITHFUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / credibility; trustworthiness, good faith, dependability, reliability
+** 明群臣據故主	believing it to be a splendid example of proper action between ruler38 and ministe to keep faith with your erstwhile ruler
+:PROPERTIES:
+:SRC: ZGC 1.21.1; tr. Crump 1979 no.31, p. 45 Chou Tsui upbraided for his loyalty
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_021:1a08:50::明群 / 戰國策
+:CHARPOS: 50
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-a85a72b1-8587-4774-9919-3a2e8bdbbe94 / PAST
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 54
+:END:
+故@gù	[[tls:concept:PAST::#uuid-a85a72b1-8587-4774-9919-3a2e8bdbbe94][PAST]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / pre-existing, the earlier, early; former; belonging to a bygone age, old; old-established
+** 請為王入齊	"Let me go to Ch'i for your majesty.
+:PROPERTIES:
+:SRC: ZGC 1.21.1; tr. Crump 1979 no.31, p. 45 Chou Tsui upbraided for his loyalty
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_021:1a13:1::『請 / 戰國策
+:CHARPOS: 1
+:END:
+*** 請@qǐng
+:PROPERTIES:
+:CONCEPT: uuid-22fd8314-2b6b-461b-aa97-2fdafaa95239 / REQUEST
+:SYN-FUNC: uuid-65d93b56-a5a4-48f1-999e-bca54da80015
+:SEM-FEAT: uuid-a40e0575-055f-43e7-ba08-d6aed75b92ba
+:CHARPOS: 1
+:END:
+請@qǐng	[[tls:concept:REQUEST::#uuid-22fd8314-2b6b-461b-aa97-2fdafaa95239][REQUEST]]	V [[tls:syn-func::#uuid-65d93b56-a5a4-48f1-999e-bca54da80015][vt{0}+V{0}]] {[[tls:sem-feat::#uuid-a40e0575-055f-43e7-ba08-d6aed75b92ba][performative]]} / may I ask (for myself ) to V> please let me [short and idiomatic for 臣請]
+** 臣請為救之	I will be able to plead your case to bring Ch'i to the rescue.
+:PROPERTIES:
+:SRC: ZGC 1.21.2; tr. Crump 1979 no.31, p. 45
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_021:1a16:1::臣請 / 戰國策
+:CHARPOS: 1
+:END:
+*** 請@qǐng
+:PROPERTIES:
+:CONCEPT: uuid-9fcb1c4b-d1ee-480e-96e7-42f97a602d67 / REQUEST
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 2
+:END:
+請@qǐng	[[tls:concept:REQUEST::#uuid-9fcb1c4b-d1ee-480e-96e7-42f97a602d67][REQUEST]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / 子犯請擊之"Zǐfàn asked to attack them"ask permission (to do what what one would like to do); [The person whose permission is asked should also be in the structure as being always understood. There are quite a number of such cases. CH]
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-b619667d-8143-4293-8805-54b9b2924809 / YOU
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-aa5d1211-84ca-41d2-b97c-dc48ccff0c1a
+:CHARPOS: 5
+:END:
+之@zhī	[[tls:concept:YOU::#uuid-b619667d-8143-4293-8805-54b9b2924809][YOU]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-aa5d1211-84ca-41d2-b97c-dc48ccff0c1a][2. person singular]]} / you
+** 且臣為齊奴也	I was once a slavè3 to Ch'i.44
+:PROPERTIES:
+:SRC: ZGC 1.21.2; tr. Crump 1979 no.31, p. 45
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_021:1a19:1::且臣 / 戰國策
+:CHARPOS: 1
+:END:
+*** 奴@nú
+:PROPERTIES:
+:CONCEPT: uuid-ef10422f-b586-4509-b618-adf3e1dd308d / SLAVE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+奴@nú	[[tls:concept:SLAVE::#uuid-ef10422f-b586-4509-b618-adf3e1dd308d][SLAVE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / slave (of either sex); enslaved male (often a foreign prisoner or a criminal)

@@ -1,0 +1,55 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_199
+#+DATE: 2017-02-08T16:41:24+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 必進賢人以輔之	must bring worthy men to his king to serve him.
+:PROPERTIES:
+:SRC: ZGC 16.1.1, tr. Crump no 186, ed. Sha4ngha3igu3jí p. 535
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_199:1a09:1::必進 / 戰國策
+:CHARPOS: 1
+:END:
+*** 賢人@xiánrén
+:PROPERTIES:
+:CONCEPT: uuid-01b755ec-66de-4a5b-92e1-adf8b2330822 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 3
+:END:
+賢人@xiánrén	[[tls:concept:HERO::#uuid-01b755ec-66de-4a5b-92e1-adf8b2330822][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a worthy, any worthy; some worthies (with tensed predicate)
+** 賢者用且使己廢	that when the worthy one is employed the recommender is cast aside;
+:PROPERTIES:
+:SRC: ZGC 16.1.4, tr. Crump no 186, ed. Sha4ngha3igu3jí p. 535
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_199:1a39:1::賢者 / 戰國策
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-ade64b9b-f16b-4b7f-851f-d2b6eb60d48d / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 1
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-ade64b9b-f16b-4b7f-851f-d2b6eb60d48d][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a worthy; any worthy; any worthies; worthies of any kind
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-f522f0eb-e4cd-4a2d-9f6f-cfb3f3b779ec / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 6
+:END:
+己@jǐ	[[tls:concept:PRONOUN::#uuid-f522f0eb-e4cd-4a2d-9f6f-cfb3f3b779ec][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / him
+** 貴且使己賤	when the worthy man is held in high esteem the recommender becomes lower than he.
+:PROPERTIES:
+:SRC: ZGC 16.1.4, tr. Crump no 186, ed. Sha4ngha3igu3jí p. 535
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_199:1a40:50::貴且 / 戰國策
+:CHARPOS: 50
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-f522f0eb-e4cd-4a2d-9f6f-cfb3f3b779ec / PRONOUN
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 53
+:END:
+己@jǐ	[[tls:concept:PRONOUN::#uuid-f522f0eb-e4cd-4a2d-9f6f-cfb3f3b779ec][PRONOUN]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / him

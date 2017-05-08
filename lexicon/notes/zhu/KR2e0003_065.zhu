@@ -1,0 +1,62 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_065
+#+DATE: 2017-02-08T16:41:16+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 果使馮章許楚漢中	dispatched Feng Chang to pledge the district of Han-chung to Ch'u,
+:PROPERTIES:
+:SRC: ZGC 4.7.1; tr. Crump 1979 no. 67, p 77, ed. Shanghaiguji p. 153
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_065:1a11:1::果使 / 戰國策
+:CHARPOS: 1
+:END:
+*** 許@xǔ
+:PROPERTIES:
+:CONCEPT: uuid-d4c22c39-ce61-4671-866b-c1cefb909379 / PROMISE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 5
+:END:
+許@xǔ	[[tls:concept:PROMISE::#uuid-d4c22c39-ce61-4671-866b-c1cefb909379][PROMISE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / promise N2 to N1
+** 楚王以其言責漢中於馮章	Ch'u reminded Feng Chang of his words and demanded Han-chung from him.
+:PROPERTIES:
+:SRC: ZGC 4.7.1; tr. Crump 1979 no. 67, p 77, ed. Shanghaiguji p. 153
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_065:1a13:1::楚王 / 戰國策
+:CHARPOS: 1
+:END:
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-795b6bfc-a7bb-419f-811e-52d9badefdad / PROMISE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 5
+:END:
+言@yán	[[tls:concept:PROMISE::#uuid-795b6bfc-a7bb-419f-811e-52d9badefdad][PROMISE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / promise, public commitment
+*** 責@zé
+:PROPERTIES:
+:CONCEPT: uuid-dceab40f-40ea-4c52-8bcf-cf21fa06622a / DEMAND
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 6
+:END:
+責@zé	[[tls:concept:DEMAND::#uuid-dceab40f-40ea-4c52-8bcf-cf21fa06622a][DEMAND]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / demand N1 from N2 責賂於鄭
+** 王遂亡臣	'Your majesty must now banish me
+:PROPERTIES:
+:SRC: ZGC 4.7.1; tr. Crump 1979 no. 67, p 77, ed. Shanghaiguji p. 153
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_065:1a15:1::「王 / 戰國策
+:CHARPOS: 1
+:END:
+*** 亡臣@wángchén
+:PROPERTIES:
+:CONCEPT: uuid-5fc152b4-9c8d-4445-af37-6343bc518af5 / EGO
+:SYN-FUNC: uuid-f1c64bbf-2809-440f-9cbf-cfb1f76067ab
+:CHARPOS: 3
+:END:
+亡臣@wángchén	[[tls:concept:EGO::#uuid-5fc152b4-9c8d-4445-af37-6343bc518af5][EGO]]	N [[tls:syn-func::#uuid-f1c64bbf-2809-440f-9cbf-cfb1f76067ab][NP{post-npro2.}{post=npro1}]] / your doomed humble servant
+*** 亡@wáng
+:PROPERTIES:
+:CONCEPT: uuid-b422f681-95ac-4153-8cad-3db293f428e6 / EXILE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 3
+:END:
+亡@wáng	[[tls:concept:EXILE::#uuid-b422f681-95ac-4153-8cad-3db293f428e6][EXILE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / send into exile

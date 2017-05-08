@@ -1,0 +1,145 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 荀子 KR3a0002_024
+#+DATE: 2017-02-08T16:41:44+0900
+#+PROPERTY: COMMIT ddeec5ec188de85913927f32a208650c789be44e
+** 天子也者	One who is a Son of Heaven
+:PROPERTIES:
+:SRC: XUN 24:1:2, Beida p.404; Knoblock 3:165
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_024:1a15:1::天子 / 荀子
+:CHARPOS: 1
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-e9d7ecdf-283d-4ee4-9dfa-27501092b82e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-e9d7ecdf-283d-4ee4-9dfa-27501092b82e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / an emperor; the emperor generally (with untensed predicate)
+*** 也者@yězhě
+:PROPERTIES:
+:CONCEPT: uuid-67c3ee1e-0493-4f8b-9846-af68c0c53ae9 / TOPIC MARKER
+:SYN-FUNC: uuid-1d598036-8f98-4c26-a4ca-49dd7d0e2e04
+:CHARPOS: 3
+:END:
+也者@yězhě	[[tls:concept:TOPIC MARKER::#uuid-67c3ee1e-0493-4f8b-9846-af68c0c53ae9][TOPIC MARKER]]	P [[tls:syn-func::#uuid-1d598036-8f98-4c26-a4ca-49dd7d0e2e04][PPpost-N]] / marker of topics to be discussed in general abstract terms: as for N as such (Note that the comment is never narrative: one might say that this topic marker, like 夫 has a modal function.)
+** 聖王在上	When a sage king occupies the highest position
+:PROPERTIES:
+:SRC: XUN 24:2:1, Beida p.405; Knoblock 3:165
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_024:2a01:1::聖王 / 荀子
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-9f7467cb-0cea-435a-aae5-38967a283ae6 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 1
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-9f7467cb-0cea-435a-aae5-38967a283ae6][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / one of the sage kings, a (certain) sage king
+** 一人有慶	'The Single man shall enjoy happiness;
+:PROPERTIES:
+:SRC: XUN 24:3:2, Beida p.406; Knoblock 3:166
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_024:3a16:1::「一 / 荀子
+:CHARPOS: 1
+:END:
+*** 慶@qìng
+:PROPERTIES:
+:CONCEPT: uuid-e3060ec5-a1e1-44f2-97e4-7ee0ea532556 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+慶@qìng	[[tls:concept:HAPPY::#uuid-e3060ec5-a1e1-44f2-97e4-7ee0ea532556][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / blissful happiness
+** 論法聖王	If things are assigned to their proper position on the basis of the model of the sage kings,
+:PROPERTIES:
+:SRC: XUN 24:5:1, Beida p.408; Knoblock 3:167
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_024:5a01:1::論法 / 荀子
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+** 貴賢者霸	those who valued the worthy became lords-protector;
+:PROPERTIES:
+:SRC: XUN 24:5:2, Beida p.408; Knoblock 3:167
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_024:5a22:1::貴賢 / 荀子
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-f5feebdb-7213-4906-b1dd-aad778d29afd / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 2
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-f5feebdb-7213-4906-b1dd-aad778d29afd][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / those who are possessed of moral worth and talent (at a certain time or in a certain place)
+** 敬賢者存	those who respected the worthy survived;
+:PROPERTIES:
+:SRC: XUN 24:5:2, Beida p.408; Knoblock 3:167
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_024:5a23:50::敬賢 / 荀子
+:CHARPOS: 50
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-f5feebdb-7213-4906-b1dd-aad778d29afd / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 51
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-f5feebdb-7213-4906-b1dd-aad778d29afd][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / those who are possessed of moral worth and talent (at a certain time or in a certain place)
+** 慢賢者亡	and those that scorned them were destroyed.'
+:PROPERTIES:
+:SRC: XUN 24:5:2, Beida p.408; Knoblock 3:167
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_024:5a24:50::慢賢 / 荀子
+:CHARPOS: 50
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-f5feebdb-7213-4906-b1dd-aad778d29afd / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 51
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-f5feebdb-7213-4906-b1dd-aad778d29afd][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / those who are possessed of moral worth and talent (at a certain time or in a certain place)
+** 故仁者	Hence, one who is humane
+:PROPERTIES:
+:SRC: XUN 24:5:4, Beida p.408; Knoblock 3:168
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_024:5a38:1::故仁 / 荀子
+:CHARPOS: 1
+:END:
+*** 仁者@rénzhě
+:PROPERTIES:
+:CONCEPT: uuid-8cefb61d-78bf-4d33-b0f1-5e3414fa4f06 / BENEVOLENCE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+仁者@rénzhě	[[tls:concept:BENEVOLENCE::#uuid-8cefb61d-78bf-4d33-b0f1-5e3414fa4f06][BENEVOLENCE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: "the benevolent person; the human-hearted person" at any time and in any place
+** 仁此者也	will be humane in regard to these matters;
+:PROPERTIES:
+:SRC: XUN 24:5:4, Beida p.408; Knoblock 3:168
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_024:5a39:50::仁此 / 荀子
+:CHARPOS: 50
+:END:
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-917835e3-495d-4a6e-a582-1ca1df991bda / BENEVOLENCE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+仁@rén	[[tls:concept:BENEVOLENCE::#uuid-917835e3-495d-4a6e-a582-1ca1df991bda][BENEVOLENCE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / show kind-heartedness towards, treat with kindness, be kind to; be lenient towards

@@ -1,0 +1,154 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_067
+#+DATE: 2017-02-08T16:41:16+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 秦死傷者眾	Ch'in's casualties were heavy.
+:PROPERTIES:
+:SRC: ZGC 4.9.1; tr. Crump 1979 no. 69, p 78, ed. Shanghaiguji p. 155 Kan Mao before the walls of Yi-yang is advised against sparing his men
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_067:1a02:1::秦死 / 戰國策
+:CHARPOS: 1
+:END:
+*** 眾@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-b85ed86f-efff-4ecd-8358-cb0f4a4d8dc6 / MANY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 5
+:END:
+眾@zhòng	[[tls:concept:MANY::#uuid-b85ed86f-efff-4ecd-8358-cb0f4a4d8dc6][MANY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be many, be numerous; contain many members; be in the majority 甚眾
+** 甘茂欲息兵	Kan Mao was about to rest the troops
+:PROPERTIES:
+:SRC: ZGC 4.9.1; tr. Crump 1979 no. 69, p 78, ed. Shanghaiguji p. 155 Kan Mao before the walls of Yi-yang is advised against sparing his men
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_067:1a03:50::甘茂 / 戰國策
+:CHARPOS: 50
+:END:
+*** 息@xī
+:PROPERTIES:
+:CONCEPT: uuid-acf790d7-3994-4b4e-bedc-22e94ab9cceb / REST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 53
+:END:
+息@xī	[[tls:concept:REST::#uuid-acf790d7-3994-4b4e-bedc-22e94ab9cceb][REST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to rest, give rest to; reassure; give respite
+*** 兵@bīng
+:PROPERTIES:
+:CONCEPT: uuid-52412632-776f-43da-a2d7-596a55a8b1e8 / ARMY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 54
+:END:
+兵@bīng	[[tls:concept:ARMY::#uuid-52412632-776f-43da-a2d7-596a55a8b1e8][ARMY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / troops, armed forces; military support; military force
+** 公內攻於樗里疾公孫衍	'Sir, you are assailed in Ch'in by Shu-li Chi and Kung-sun Yen.
+:PROPERTIES:
+:SRC: ZGC 4.9.1; tr. Crump 1979 no. 69, p 78, ed. Shanghaiguji p. 155 Kan Mao before the walls of Yi-yang is advised against sparing his men
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_067:1a05:1::「公 / 戰國策
+:CHARPOS: 1
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 1
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / honorific in informal conversation: you; also n - pro: "you my Duke"; used both as subject and as object
+** 今公用兵無功	If at this moment you fail to show skill in battle
+:PROPERTIES:
+:SRC: ZGC 4.9.1; tr. Crump 1979 no. 69, p 78, ed. Shanghaiguji p. 155 Kan Mao before the walls of Yi-yang is advised against sparing his men
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_067:1a07:1::今公 / 戰國策
+:CHARPOS: 1
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 2
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / honorific in informal conversation: you; also n - pro: "you my Duke"; used both as subject and as object
+** 公必窮矣	you will truly be reduced to straits.
+:PROPERTIES:
+:SRC: ZGC 4.9.1; tr. Crump 1979 no. 69, p 78, ed. Shanghaiguji p. 155 Kan Mao before the walls of Yi-yang is advised against sparing his men
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_067:1a08:50::公必 / 戰國策
+:CHARPOS: 50
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 50
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / honorific in informal conversation: you; also n - pro: "you my Duke"; used both as subject and as object
+*** 窮@qióng
+:PROPERTIES:
+:CONCEPT: uuid-a4a7629b-74bb-49c9-a382-548dfb54837a / DISTRESS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+窮@qióng	[[tls:concept:DISTRESS::#uuid-a4a7629b-74bb-49c9-a382-548dfb54837a][DISTRESS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / run into real trouble, get into a tight corner
+** 公不如進兵攻宜陽	Your only recourse is to press the attack on Yi-yang.
+:PROPERTIES:
+:SRC: ZGC 4.9.1; tr. Crump 1979 no. 69, p 78, ed. Shanghaiguji p. 155 Kan Mao before the walls of Yi-yang is advised against sparing his men
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_067:1a09:50::公不 / 戰國策
+:CHARPOS: 50
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 50
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / honorific in informal conversation: you; also n - pro: "you my Duke"; used both as subject and as object
+*** 進@jìn
+:PROPERTIES:
+:CONCEPT: uuid-a1acc1c9-7ac1-41ed-a6e0-8dbc29305f11 / ADVANCE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6dc7fe58-3a31-4e0c-8040-5e550f29b0c4
+:CHARPOS: 53
+:END:
+進@jìn	[[tls:concept:ADVANCE::#uuid-a1acc1c9-7ac1-41ed-a6e0-8dbc29305f11][ADVANCE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6dc7fe58-3a31-4e0c-8040-5e550f29b0c4][iussive]]} / CAUSE TO MOVE FORWARD> send forward
+** 則公之功多矣	your skill will be manifest,
+:PROPERTIES:
+:SRC: ZGC 4.9.1; tr. Crump 1979 no. 69, p 78, ed. Shanghaiguji p. 155 Kan Mao before the walls of Yi-yang is advised against sparing his men
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_067:1a11:1::則公 / 戰國策
+:CHARPOS: 1
+:END:
+*** 功@gōng
+:PROPERTIES:
+:CONCEPT: uuid-5271dad4-2b93-4412-8992-15c4f8b79a50 / MERIT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+功@gōng	[[tls:concept:MERIT::#uuid-5271dad4-2b93-4412-8992-15c4f8b79a50][MERIT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / meritorious political or military achievement, meritorious exploits; contributions; proper ultimate function; effective performance (e.g. in cutting off heads!); intended result; results, success
+** 秦眾盡怨之深矣	The people of Ch'in will then vent their hatred on them.'
+:PROPERTIES:
+:SRC: ZGC 4.9.1; tr. Crump 1979 no. 69, p 78, ed. Shanghaiguji p. 155 Kan Mao before the walls of Yi-yang is advised against sparing his men
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_067:1a12:1::秦眾 / 戰國策
+:CHARPOS: 1
+:END:
+*** 眾@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-b46b89fb-6dc7-4318-90b0-aaa6e47420c4 / PEOPLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-d4180c2b-fab5-47cb-98ae-0655da1c313a
+:CHARPOS: 2
+:END:
+眾@zhòng	[[tls:concept:PEOPLE::#uuid-b46b89fb-6dc7-4318-90b0-aaa6e47420c4][PEOPLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-d4180c2b-fab5-47cb-98ae-0655da1c313a][plur]]} / OBI 3: the royal dependents, the group of royal retainers, service dependents of the king of the Shāng; the masses
+*** 深@shèn / 深@shēn
+:PROPERTIES:
+:CONCEPT: uuid-8dd95de3-d254-4883-92a9-939dfc74f790 / INTENSELY
+:SYN-FUNC: uuid-6bcabe16-89d8-45be-aa0b-57177f67b1f9
+:CHARPOS: 6
+:END:
+深@shèn / 深@shēn	[[tls:concept:INTENSELY::#uuid-8dd95de3-d254-4883-92a9-939dfc74f790][INTENSELY]]	V [[tls:syn-func::#uuid-6bcabe16-89d8-45be-aa0b-57177f67b1f9][vpostadV]] / intensely [perhaps in the end to be taken as vi with sentential subject]

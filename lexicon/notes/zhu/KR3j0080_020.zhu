@@ -1,0 +1,945 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 論衡 KR3j0080_020
+#+DATE: 2017-02-08T16:43:29+0900
+#+PROPERTY: COMMIT 4527326cad354527d529ce18236a9771ae63de14
+** 世論行善者福至	The common people believe that one who does good meets with happiness,
+:PROPERTIES:
+:SRC: LH 20.1.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:1a01:50::世論 / 論衡
+:CHARPOS: 50
+:END:
+*** 福@fú
+:PROPERTIES:
+:CONCEPT: uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 55
+:END:
+福@fú	[[tls:concept:HAPPY::#uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / good fortune and happiness (also in the form of wealth...); blessings
+** 又見善人時遇福	but aslo witnwss that a good man often meet with happiness.
+:PROPERTIES:
+:SRC: LH 20.1.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:2a04:1::又見 / 論衡
+:CHARPOS: 1
+:END:
+*** 福@fú
+:PROPERTIES:
+:CONCEPT: uuid-ad12d4f9-93ea-4d2c-9e93-22b2ed17cc78 / LUCK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 7
+:END:
+福@fú	[[tls:concept:LUCK::#uuid-ad12d4f9-93ea-4d2c-9e93-22b2ed17cc78][LUCK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / fortunate outcome of an undertaking; fortunate turn of events; happy outcome
+** 斯言或時賢聖欲勸人為善	These words maybe means that sages and wisw men wish to encourage people to do good,
+:PROPERTIES:
+:SRC: LH 20.1.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:2a07:1::斯言 / 論衡
+:CHARPOS: 1
+:END:
+*** 斯@sī
+:PROPERTIES:
+:CONCEPT: uuid-fd316a2d-16b5-4057-b3a5-e4fcac39ee3c / THIS
+:SYN-FUNC: uuid-e81e5db1-7207-4450-a18d-27a597c5fd67
+:CHARPOS: 1
+:END:
+斯@sī	[[tls:concept:THIS::#uuid-fd316a2d-16b5-4057-b3a5-e4fcac39ee3c][THIS]]	N [[tls:syn-func::#uuid-e81e5db1-7207-4450-a18d-27a597c5fd67][npro.adNab]] / this (modifying non-concrete objects) 斯文, 斯道
+** 如實論之	If basing judgment on facts,
+:PROPERTIES:
+:SRC: LH 20.1.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:2a11:1::如實 / 論衡
+:CHARPOS: 1
+:END:
+*** 如實@rúshí
+:PROPERTIES:
+:CONCEPT: uuid-b2196ff7-b352-4825-b253-8442afa46fc9 / REALITY
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:CHARPOS: 1
+:END:
+如實@rúshí	[[tls:concept:REALITY::#uuid-b2196ff7-b352-4825-b253-8442afa46fc9][REALITY]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] / in accordance with reality/the facts
+** 安得福祐乎	How can people get a happiness (from Heaven)?
+:PROPERTIES:
+:SRC: LH 20.1.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:2a12:50::安得 / 論衡
+:CHARPOS: 50
+:END:
+*** 福佑@fúyòu
+:PROPERTIES:
+:CONCEPT: uuid-c3f25eb7-8929-4c6c-b072-38792d85096d / HAPPY
+:SYN-FUNC: uuid-9629f093-fa64-4769-9b05-9f49f12c7790
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 50
+:END:
+福佑@fúyòu	[[tls:concept:HAPPY::#uuid-c3f25eb7-8929-4c6c-b072-38792d85096d][HAPPY]]	N [[tls:syn-func::#uuid-9629f093-fa64-4769-9b05-9f49f12c7790][NPab{N1=N2}]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / blessed happiness
+** 因遂吞之	then he had a sick in his stomach, and could not eat food.
+:PROPERTIES:
+:SRC: LH 20.2.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:3a02:1::因遂 / 論衡
+:CHARPOS: 1
+:END:
+*** 吞@tūn
+:PROPERTIES:
+:CONCEPT: uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c / SWALLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+吞@tūn	[[tls:concept:SWALLOW::#uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c][SWALLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gulp down (of liquids); swallow (food, or even a pearl); be large enough to be able to swallow
+** 則庖廚監食者法皆當死	then all the cooks and butlers should be put to death by the law,
+:PROPERTIES:
+:SRC: LH 20.2.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:3a11:1::則庖 / 論衡
+:CHARPOS: 1
+:END:
+*** 庖廚@páochú
+:PROPERTIES:
+:CONCEPT: uuid-8da0e459-4779-4f76-9825-24965c54e0b4 / COOK
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 2
+:END:
+庖廚@páochú	[[tls:concept:COOK::#uuid-8da0e459-4779-4f76-9825-24965c54e0b4][COOK]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / cook
+** 因遂吞之	hence I swallowed it."
+:PROPERTIES:
+:SRC: LH 20.2.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:3a14:1::因遂 / 論衡
+:CHARPOS: 1
+:END:
+*** 吞@tūn
+:PROPERTIES:
+:CONCEPT: uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c / SWALLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+吞@tūn	[[tls:concept:SWALLOW::#uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c][SWALLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gulp down (of liquids); swallow (food, or even a pearl); be large enough to be able to swallow
+** 臣聞天道無親	"I heared of that Heaven is impartial,
+:PROPERTIES:
+:SRC: LH 20.2.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:3a16:1::「臣 / 論衡
+:CHARPOS: 1
+:END:
+*** 天道@tiāndào
+:PROPERTIES:
+:CONCEPT: uuid-39894d34-660f-4c7f-aa51-29badadccabb / LAW OF NATURE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 3
+:END:
+天道@tiāndào	[[tls:concept:LAW OF NATURE::#uuid-39894d34-660f-4c7f-aa51-29badadccabb][LAW OF NATURE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / law-of-Heaven-determined course of events in this world
+** 惠王之後而蛭出	when King Huì went to lavatory, the leech was discharged,
+:PROPERTIES:
+:SRC: LH 20.2.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:3a22:1::惠王 / 論衡
+:CHARPOS: 1
+:END:
+*** 後@hòu
+:PROPERTIES:
+:CONCEPT: uuid-b4bbea36-6726-49d9-81fd-6910823e8943 / ANUS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+後@hòu	[[tls:concept:ANUS::#uuid-b4bbea36-6726-49d9-81fd-6910823e8943][ANUS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / anus
+** 案惠王之吞蛭	According to the case that King Huì ate the leech,
+:PROPERTIES:
+:SRC: LH 20.3.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a01:1::案惠 / 論衡
+:CHARPOS: 1
+:END:
+*** 吞@tūn
+:PROPERTIES:
+:CONCEPT: uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c / SWALLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+吞@tūn	[[tls:concept:SWALLOW::#uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c][SWALLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gulp down (of liquids); swallow (food, or even a pearl); be large enough to be able to swallow
+*** 蛭@zhì
+:PROPERTIES:
+:CONCEPT: uuid-92a91c81-7a3a-4b48-9d0a-16bc0528ee64 / AQUATIC ANIMALS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+蛭@zhì	[[tls:concept:AQUATIC ANIMALS::#uuid-92a91c81-7a3a-4b48-9d0a-16bc0528ee64][AQUATIC ANIMALS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / leech (aquatic????)
+** 恐庖廚監食法皆誅也	fearing that the cooks and the butlers should be put to death by the law.
+:PROPERTIES:
+:SRC: LH 20.3.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a07:1::恐庖 / 論衡
+:CHARPOS: 1
+:END:
+*** 庖廚@páochú
+:PROPERTIES:
+:CONCEPT: uuid-8da0e459-4779-4f76-9825-24965c54e0b4 / COOK
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 2
+:END:
+庖廚@páochú	[[tls:concept:COOK::#uuid-8da0e459-4779-4f76-9825-24965c54e0b4][COOK]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / cook
+*** 監食@jiānshí
+:PROPERTIES:
+:CONCEPT: uuid-9bf520d5-f2bc-4f1c-b5d1-6dae9954cfac / COOK
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:CHARPOS: 4
+:END:
+監食@jiānshí	[[tls:concept:COOK::#uuid-9bf520d5-f2bc-4f1c-b5d1-6dae9954cfac][COOK]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] / chief butler, superintendent of food
+** 而赦	And pardoning
+:PROPERTIES:
+:SRC: LH 20.3.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a10:1::而赦 / 論衡
+:CHARPOS: 1
+:END:
+*** 赦@shè
+:PROPERTIES:
+:CONCEPT: uuid-8f7fcb9d-830d-4b31-94c3-d2f5fa9c91ab / PARDON
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+赦@shè	[[tls:concept:PARDON::#uuid-8f7fcb9d-830d-4b31-94c3-d2f5fa9c91ab][PARDON]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / act of pardoning, pardon
+** 庖廚監食皆當伏法	and the cooks and the butlers should be put to death,
+:PROPERTIES:
+:SRC: LH 20.3.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a13:1::庖廚 / 論衡
+:CHARPOS: 1
+:END:
+*** 庖廚@páochú
+:PROPERTIES:
+:CONCEPT: uuid-8da0e459-4779-4f76-9825-24965c54e0b4 / COOK
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+庖廚@páochú	[[tls:concept:COOK::#uuid-8da0e459-4779-4f76-9825-24965c54e0b4][COOK]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / cook
+*** 監食@jiānshí
+:PROPERTIES:
+:CONCEPT: uuid-9bf520d5-f2bc-4f1c-b5d1-6dae9954cfac / COOK
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:CHARPOS: 3
+:END:
+監食@jiānshí	[[tls:concept:COOK::#uuid-9bf520d5-f2bc-4f1c-b5d1-6dae9954cfac][COOK]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] / chief butler, superintendent of food
+** 赦而不罪	he pardon them without punishment.
+:PROPERTIES:
+:SRC: LH 20.3.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a15:1::赦而 / 論衡
+:CHARPOS: 1
+:END:
+*** 赦@shè
+:PROPERTIES:
+:CONCEPT: uuid-4b242424-b1a5-4452-99d9-ff5ade8999e5 / PARDON
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 1
+:END:
+赦@shè	[[tls:concept:PARDON::#uuid-4b242424-b1a5-4452-99d9-ff5ade8999e5][PARDON]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / pardon the contextually determinate person(s)
+** 惠莫大焉	There was no benevolence greater than this.
+:PROPERTIES:
+:SRC: LH 20.3.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a16:50::惠莫 / 論衡
+:CHARPOS: 50
+:END:
+*** 惠@huì
+:PROPERTIES:
+:CONCEPT: uuid-8c462f3b-aa0e-4e80-a66a-e0262d49d454 / LENIENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 50
+:END:
+惠@huì	[[tls:concept:LENIENT::#uuid-8c462f3b-aa0e-4e80-a66a-e0262d49d454][LENIENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / disposition to punish lightly or to forgive easily
+** 庖廚罪覺而不誅	The cooks'guilties were found out, but they were not put to death,
+:PROPERTIES:
+:SRC: LH 20.3.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a17:50::庖廚 / 論衡
+:CHARPOS: 50
+:END:
+*** 庖廚@páochú
+:PROPERTIES:
+:CONCEPT: uuid-8da0e459-4779-4f76-9825-24965c54e0b4 / COOK
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 50
+:END:
+庖廚@páochú	[[tls:concept:COOK::#uuid-8da0e459-4779-4f76-9825-24965c54e0b4][COOK]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / cook
+** 惠王赦細而活微	King Huì forgave a small error, saved the low men's lives,
+:PROPERTIES:
+:SRC: LH 20.3.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a19:1::惠王 / 論衡
+:CHARPOS: 1
+:END:
+*** 赦@shè
+:PROPERTIES:
+:CONCEPT: uuid-40d633f8-8186-41e1-8160-dd7464557e93 / FORGIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+赦@shè	[[tls:concept:FORGIVE::#uuid-40d633f8-8186-41e1-8160-dd7464557e93][FORGIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / forgive (a person or a crime)
+** 身安不病	and he would feel all right without sickness.
+:PROPERTIES:
+:SRC: LH 20.3.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a20:50::身安 / 論衡
+:CHARPOS: 50
+:END:
+*** 不病@bùbìng
+:PROPERTIES:
+:CONCEPT: uuid-d4f5d537-cc99-4e66-b3a8-b292228485e9 / HEALTHY
+:SYN-FUNC: uuid-67f0a2ac-a678-4098-9c5a-84937065f58c
+:CHARPOS: 52
+:END:
+不病@bùbìng	[[tls:concept:HEALTHY::#uuid-d4f5d537-cc99-4e66-b3a8-b292228485e9][HEALTHY]]	N [[tls:syn-func::#uuid-67f0a2ac-a678-4098-9c5a-84937065f58c][NP{vt{NEG}+V(.adN)}]] / suffer no illness> be in good shape
+** 強食害己之物	He forced himself to eat something being harm to his health,
+:PROPERTIES:
+:SRC: LH 20.3.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a22:1::強食 / 論衡
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-15fe1eb3-e3f9-4f63-81c5-5e17bc09c573 / SELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 4
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-15fe1eb3-e3f9-4f63-81c5-5e17bc09c573][SELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / reflexive and contrastive (or sometimes at least emphatic)
+** 使庖廚監食失甘苦之和	If cooks and butlers do not make a food's taste to be in hormonious proportion.
+:PROPERTIES:
+:SRC: LH 20.3.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a27:1::使庖 / 論衡
+:CHARPOS: 1
+:END:
+*** 庖廚@páochú
+:PROPERTIES:
+:CONCEPT: uuid-8da0e459-4779-4f76-9825-24965c54e0b4 / COOK
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 2
+:END:
+庖廚@páochú	[[tls:concept:COOK::#uuid-8da0e459-4779-4f76-9825-24965c54e0b4][COOK]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / cook
+*** 監食@jiānshí
+:PROPERTIES:
+:CONCEPT: uuid-9bf520d5-f2bc-4f1c-b5d1-6dae9954cfac / COOK
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:CHARPOS: 4
+:END:
+監食@jiānshí	[[tls:concept:COOK::#uuid-9bf520d5-f2bc-4f1c-b5d1-6dae9954cfac][COOK]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] / chief butler, superintendent of food
+** 若塵土落於葅中	Or if a dust falls into the pickles,
+:PROPERTIES:
+:SRC: LH 20.3.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a28:50::若塵 / 論衡
+:CHARPOS: 50
+:END:
+*** 落@luò
+:PROPERTIES:
+:CONCEPT: uuid-298b13b8-8294-4394-b67c-eef3c66cd059 / FALL
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CONCEPT: uuid-ea425969-092e-45b6-93e6-143f109fd77c / SAUCE
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 53
+:END:
+落@luò	[[tls:concept:FALL::#uuid-298b13b8-8294-4394-b67c-eef3c66cd059][FALL]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / fall into
+〓#菹@zū / 菹@zū	[[tls:concept:SAUCE::#uuid-ea425969-092e-45b6-93e6-143f109fd77c][SAUCE]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / minced pickled meat sauce
+** 大如蟣虱	and the dust is just big as a nit or lice,
+:PROPERTIES:
+:SRC: LH 20.3.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a29:50::大如 / 論衡
+:CHARPOS: 50
+:END:
+*** 〓#@ / 蝨@shī
+:PROPERTIES:
+:CONCEPT: uuid-99824017-1386-4655-9052-01829a69503b / FLEA
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+〓#@ / 蝨@shī	[[tls:concept:FLEA::#uuid-99824017-1386-4655-9052-01829a69503b][FLEA]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / flea
+*** 蟣@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-cdf5f12d-ead3-4846-97b4-0653521fbe59 / FLEA
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+蟣@jǐ	[[tls:concept:FLEA::#uuid-cdf5f12d-ead3-4846-97b4-0653521fbe59][FLEA]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / flea's eggs, louse egg
+** 非意所能覽	which cannot be noticed by one's minds,
+:PROPERTIES:
+:SRC: LH 20.3.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a30:50::非意 / 論衡
+:CHARPOS: 50
+:END:
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-f6797d21-9a20-4dc4-adb9-75521afa56d4 / SURVEY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 54
+:END:
+覽@lǎn	[[tls:concept:SURVEY::#uuid-f6797d21-9a20-4dc4-adb9-75521afa56d4][SURVEY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / review intellectually; gain a full intellectual survey of, gain an overview of
+** 擇濯不謹	took no care in choosing and cleaning,
+:PROPERTIES:
+:SRC: LH 20.3.5; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a40:1::擇濯 / 論衡
+:CHARPOS: 1
+:END:
+*** 謹@jǐn
+:PROPERTIES:
+:CONCEPT: uuid-89117f81-9bcd-4f2e-af44-5560d7b1519d / DILIGENT
+:SYN-FUNC: uuid-a366bb8d-8c03-42c8-bfb6-4ee725faa225
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 4
+:END:
+謹@jǐn	[[tls:concept:DILIGENT::#uuid-89117f81-9bcd-4f2e-af44-5560d7b1519d][DILIGENT]]	V [[tls:syn-func::#uuid-a366bb8d-8c03-42c8-bfb6-4ee725faa225][vpostadVtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / diligently; with diligent attention to detail 遇客甚謹
+** 何必食之	Why must he eat it?
+:PROPERTIES:
+:SRC: LH 20.3.7; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a49:1::何必 / 論衡
+:CHARPOS: 1
+:END:
+*** 何必@hébì
+:PROPERTIES:
+:CONCEPT: uuid-3ac41480-fe9a-4dfc-b1e0-61307e3e78b8 / HOW
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 1
+:END:
+何必@hébì	[[tls:concept:HOW::#uuid-3ac41480-fe9a-4dfc-b1e0-61307e3e78b8][HOW]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / What need is there to?
+** 不肖三也	This the the third example of his lacking of intelligence.
+:PROPERTIES:
+:SRC: LH 20.3.7; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a52:9::不肖 / 論衡
+:CHARPOS: 9
+:END:
+*** 不肖@bùxiào
+:PROPERTIES:
+:CONCEPT: uuid-e4239f27-6ed9-4ce5-bc59-66d4a87a6570 / INCOMPETENT
+:SYN-FUNC: uuid-9f1b05ad-93fe-44b9-96e7-41d02fddc173
+:CHARPOS: 9
+:END:
+不肖@bùxiào	[[tls:concept:INCOMPETENT::#uuid-e4239f27-6ed9-4ce5-bc59-66d4a87a6570][INCOMPETENT]]	N [[tls:syn-func::#uuid-9f1b05ad-93fe-44b9-96e7-41d02fddc173][NPab.c]] / incompetence; unworthiness; point of incompetence
+** 有不肖之行	He had this bad act,
+:PROPERTIES:
+:SRC: LH 20.3.7; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:5a53:50::有不 / 論衡
+:CHARPOS: 50
+:END:
+*** 不肖@bùxiào
+:PROPERTIES:
+:CONCEPT: uuid-e2aee915-5c1f-4202-a39a-3363ba12ae51 / INCOMPETENT
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:CHARPOS: 51
+:END:
+不肖@bùxiào	[[tls:concept:INCOMPETENT::#uuid-e2aee915-5c1f-4202-a39a-3363ba12ae51][INCOMPETENT]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] / incompetent; of no moral worth 不肖主
+** 賢者操行	Now there are many persons of virtue
+:PROPERTIES:
+:SRC: LH 20.4.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:6a03:1::賢者 / 論衡
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1 / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: the man of talent and moral worth (at any time and in any place)
+** 多若吞蛭之類	whose conducts are simillar to this kind of swallowing a leech.
+:PROPERTIES:
+:SRC: LH 20.4.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:6a04:50::多若 / 論衡
+:CHARPOS: 50
+:END:
+*** 吞@tūn
+:PROPERTIES:
+:CONCEPT: uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c / SWALLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+吞@tūn	[[tls:concept:SWALLOW::#uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c][SWALLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gulp down (of liquids); swallow (food, or even a pearl); be large enough to be able to swallow
+** 賢者德薄	Persons of virtue may be not worth mentioning,179
+:PROPERTIES:
+:SRC: LH 20.4.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:6a07:1::賢者 / 論衡
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1 / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: the man of talent and moral worth (at any time and in any place)
+** 或時惠王吞蛭	Perhapes after King Huì had swallowed the leech,
+:PROPERTIES:
+:SRC: LH 20.5.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:7a01:1::或時 / 論衡
+:CHARPOS: 1
+:END:
+*** 蛭@zhì
+:PROPERTIES:
+:CONCEPT: uuid-92a91c81-7a3a-4b48-9d0a-16bc0528ee64 / AQUATIC ANIMALS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+蛭@zhì	[[tls:concept:AQUATIC ANIMALS::#uuid-92a91c81-7a3a-4b48-9d0a-16bc0528ee64][AQUATIC ANIMALS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / leech (aquatic????)
+** 腹中熱也	for man's stomach is hot inside.
+:PROPERTIES:
+:SRC: LH 20.5.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:7a04:1::腹中 / 論衡
+:CHARPOS: 1
+:END:
+*** 熱@rè
+:PROPERTIES:
+:CONCEPT: uuid-48483be8-0c1c-4dbe-a790-36c50faa8311 / HOT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+熱@rè	[[tls:concept:HOT::#uuid-48483be8-0c1c-4dbe-a790-36c50faa8311][HOT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be burning hot; be sizzling hot; be extremely warm (of clothes)
+** 初吞蛭時	When the leech was swallowed,
+:PROPERTIES:
+:SRC: LH 20.5.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:7a05:50::初吞 / 論衡
+:CHARPOS: 50
+:END:
+*** 吞@tūn
+:PROPERTIES:
+:CONCEPT: uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c / SWALLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+吞@tūn	[[tls:concept:SWALLOW::#uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c][SWALLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gulp down (of liquids); swallow (food, or even a pearl); be large enough to be able to swallow
+** 須臾蛭死	After a while the leech died,
+:PROPERTIES:
+:SRC: LH 20.5.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:7a09:1::須臾 / 論衡
+:CHARPOS: 1
+:END:
+*** 須臾@xūyú
+:PROPERTIES:
+:CONCEPT: uuid-595a8322-78f6-496d-b840-db3429b6e5fe / THEREUPON
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 1
+:END:
+須臾@xūyú	[[tls:concept:THEREUPON::#uuid-595a8322-78f6-496d-b840-db3429b6e5fe][THEREUPON]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / after a very short time
+** 吞狸自愈	he can be cured by eating a cat.
+:PROPERTIES:
+:SRC: LH 20.5.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:7a17:1::吞狸 / 論衡
+:CHARPOS: 1
+:END:
+*** 吞@tūn
+:PROPERTIES:
+:CONCEPT: uuid-dd4dd7ad-d018-46b9-a413-6cc9dfa47e7c / EAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+吞@tūn	[[tls:concept:EAT::#uuid-dd4dd7ad-d018-46b9-a413-6cc9dfa47e7c][EAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / eat raw, eat uncooked
+** 著己知來之德	He showed his power of knowing the future beforehand
+:PROPERTIES:
+:SRC: LH 20.5.5; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:7a29:1::著己 / 論衡
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-12a1bc24-9a2b-4208-b8d1-26c469dc1384 / SELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 2
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-12a1bc24-9a2b-4208-b8d1-26c469dc1384][SELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / he himself, she herself
+** 此吉祥也	"It is a lucky omen,
+:PROPERTIES:
+:SRC: LH 20.6.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:7a38:1::「此 / 論衡
+:CHARPOS: 1
+:END:
+*** 吉祥@jíxiáng
+:PROPERTIES:
+:CONCEPT: uuid-9a3b20d5-ea55-4348-97bb-80a77176a32d / LUCK
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 2
+:END:
+吉祥@jíxiáng	[[tls:concept:LUCK::#uuid-9a3b20d5-ea55-4348-97bb-80a77176a32d][LUCK]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / lucky omen; lucky thing; auspicious thing
+** 析骸而炊之	and splited bones, and used it to cook.
+:PROPERTIES:
+:SRC: LH 20.6.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:7a55:1::析骸 / 論衡
+:CHARPOS: 1
+:END:
+*** 析@xī
+:PROPERTIES:
+:CONCEPT: uuid-3ac7d288-e7dc-4782-9f85-2b3d22a37f88 / SPLIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+析@xī	[[tls:concept:SPLIT::#uuid-3ac7d288-e7dc-4782-9f85-2b3d22a37f88][SPLIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cut into parts; cut into proper parts
+*** 骸@hái
+:PROPERTIES:
+:CONCEPT: uuid-7f8ea7e6-355f-41a9-92b2-3e5eb2102ad8 / BONE
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 2
+:END:
+骸@hái	[[tls:concept:BONE::#uuid-7f8ea7e6-355f-41a9-92b2-3e5eb2102ad8][BONE]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / human bones in the living body or as part of a skeleton
+*** 炊@chuī
+:PROPERTIES:
+:CONCEPT: uuid-efee76fb-e94b-42bb-83f6-791605f457ca / COOK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+炊@chuī	[[tls:concept:COOK::#uuid-efee76fb-e94b-42bb-83f6-791605f457ca][COOK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / GONGYANG: boil up, cook
+** 此脩善積行神報之效也	This is a proof that the spirits rewarded the people who have done good and have accumulated merit.
+:PROPERTIES:
+:SRC: LH 20.6.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:7a60:1::此脩 / 論衡
+:CHARPOS: 1
+:END:
+*** 效@xiào
+:PROPERTIES:
+:CONCEPT: uuid-b23c1d45-90d1-420e-b2b2-b372bc057c05 / PROVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d
+:CHARPOS: 9
+:END:
+效@xiào	[[tls:concept:PROVE::#uuid-b23c1d45-90d1-420e-b2b2-b372bc057c05][PROVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d][factual]]} / manifest proof, manifest evidence; a fact that can serve as evidence; symptom, indication; visible sign; proof in practice; proof
+** 此虛言也	this was a absurd view.
+:PROPERTIES:
+:SRC: LH 20.6.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:8a02:1::此虛 / 論衡
+:CHARPOS: 1
+:END:
+*** 虛言@xūyán
+:PROPERTIES:
+:CONCEPT: uuid-9719ba89-fbca-4c87-9f20-277a8f7de42a / UNTRUE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 2
+:END:
+虛言@xūyán	[[tls:concept:UNTRUE::#uuid-9719ba89-fbca-4c87-9f20-277a8f7de42a][UNTRUE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / empty speeches, unsubstantiated claim; idle propositions; idle statement; unfounded statement; lies
+** 何必使之先盲後視哉	Why must the spirits make them blind at first, and later on restore their sight?
+:PROPERTIES:
+:SRC: LH 20.7.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:9a03:1::何必 / 論衡
+:CHARPOS: 1
+:END:
+*** 何必@hébì
+:PROPERTIES:
+:CONCEPT: uuid-3ac41480-fe9a-4dfc-b1e0-61307e3e78b8 / HOW
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 1
+:END:
+何必@hébì	[[tls:concept:HOW::#uuid-3ac41480-fe9a-4dfc-b1e0-61307e3e78b8][HOW]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / What need is there to?
+** 死亡不還	or dying never back,
+:PROPERTIES:
+:SRC: LH 20.7.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:9a11:1::死亡 / 論衡
+:CHARPOS: 1
+:END:
+*** 死亡@sǐwáng
+:PROPERTIES:
+:CONCEPT: uuid-feace089-dd64-4532-bb5f-c0e5cb0153d2 / DIE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 1
+:END:
+死亡@sǐwáng	[[tls:concept:DIE::#uuid-feace089-dd64-4532-bb5f-c0e5cb0153d2][DIE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / die in one way or another
+** 無死亡之患	there was not the misfortune of death.
+:PROPERTIES:
+:SRC: LH 20.7.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:9a22:1::無死 / 論衡
+:CHARPOS: 1
+:END:
+*** 死亡@sǐwáng
+:PROPERTIES:
+:CONCEPT: uuid-2231704c-0488-44ea-9bc7-cf915f85dd0b / DIE
+:SYN-FUNC: uuid-9629f093-fa64-4769-9b05-9f49f12c7790
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 2
+:END:
+死亡@sǐwáng	[[tls:concept:DIE::#uuid-2231704c-0488-44ea-9bc7-cf915f85dd0b][DIE]]	N [[tls:syn-func::#uuid-9629f093-fa64-4769-9b05-9f49f12c7790][NPab{N1=N2}]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / death
+** 俱與乘城之家易子析骸	Both the family and the other families which mounted the city wall exchanged their childrer to eat, and splited the bones to cook,
+:PROPERTIES:
+:SRC: LH 20.7.5; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:10a04:1::俱與 / 論衡
+:CHARPOS: 1
+:END:
+*** 骸@hái
+:PROPERTIES:
+:CONCEPT: uuid-7f8ea7e6-355f-41a9-92b2-3e5eb2102ad8 / BONE
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 10
+:END:
+骸@hái	[[tls:concept:BONE::#uuid-7f8ea7e6-355f-41a9-92b2-3e5eb2102ad8][BONE]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / human bones in the living body or as part of a skeleton
+** 殺而埋之	then he killed and buried it.
+:PROPERTIES:
+:SRC: LH 20.8.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:12a03:1::殺而 / 論衡
+:CHARPOS: 1
+:END:
+*** 埋@mái / 霾@mái
+:PROPERTIES:
+:CONCEPT: uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 3
+:END:
+埋@mái / 霾@mái	[[tls:concept:BURY::#uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / dig (something) ritually into the ground (without the use of a coffin)
+** 即殺而埋之	so I have killed and buried it."
+:PROPERTIES:
+:SRC: LH 20.8.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:12a15:1::即殺 / 論衡
+:CHARPOS: 1
+:END:
+*** 埋@mái / 霾@mái
+:PROPERTIES:
+:CONCEPT: uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 4
+:END:
+埋@mái / 霾@mái	[[tls:concept:BURY::#uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / dig (something) ritually into the ground (without the use of a coffin)
+** 天必報之	Heaven will recompense him.
+:PROPERTIES:
+:SRC: LH 20.8.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:12a18:1::天必 / 論衡
+:CHARPOS: 1
+:END:
+*** 報@bào
+:PROPERTIES:
+:CONCEPT: uuid-d2a03697-8064-41d3-80ef-2cb3c881b452 / REWARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-5100e402-4cb5-4b99-929f-be674b3757d4
+:CHARPOS: 3
+:END:
+報@bào	[[tls:concept:REWARD::#uuid-d2a03697-8064-41d3-80ef-2cb3c881b452][REWARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-5100e402-4cb5-4b99-929f-be674b3757d4][N=human]]} / reward somebody; recompense somebody
+** 埋一虵	For burying one snake,
+:PROPERTIES:
+:SRC: LH 20.8.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:12a23:1::埋一 / 論衡
+:CHARPOS: 1
+:END:
+*** 埋@mái / 霾@mái
+:PROPERTIES:
+:CONCEPT: uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 1
+:END:
+埋@mái / 霾@mái	[[tls:concept:BURY::#uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / dig (something) ritually into the ground (without the use of a coffin)
+** 天報善明矣	It is clear that Heaven rewards good action.
+:PROPERTIES:
+:SRC: LH 20.8.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:12a25:1::天報 / 論衡
+:CHARPOS: 1
+:END:
+*** 報@bào
+:PROPERTIES:
+:CONCEPT: uuid-22d51234-48f7-4482-83d6-6fc14948e846 / REWARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-a87a8db3-535b-4085-911c-cb9549d9267e
+:CHARPOS: 2
+:END:
+報@bào	[[tls:concept:REWARD::#uuid-22d51234-48f7-4482-83d6-6fc14948e846][REWARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-a87a8db3-535b-4085-911c-cb9549d9267e][N=act]]} / reward, return (a favour)
+** 此虛言矣	it is idle talk.
+:PROPERTIES:
+:SRC: LH 20.8.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:13a02:1::此虛 / 論衡
+:CHARPOS: 1
+:END:
+*** 虛言@xūyán
+:PROPERTIES:
+:CONCEPT: uuid-9719ba89-fbca-4c87-9f20-277a8f7de42a / UNTRUE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 2
+:END:
+虛言@xūyán	[[tls:concept:UNTRUE::#uuid-9719ba89-fbca-4c87-9f20-277a8f7de42a][UNTRUE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / empty speeches, unsubstantiated claim; idle propositions; idle statement; unfounded statement; lies
+** 俗言也	is a common saying;
+:PROPERTIES:
+:SRC: LH 20.8.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:14a02:1::俗言 / 論衡
+:CHARPOS: 1
+:END:
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-61ff19f0-3ef9-43d6-9028-82c014edbea1 / PROVERB
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 2
+:END:
+言@yán	[[tls:concept:PROVERB::#uuid-61ff19f0-3ef9-43d6-9028-82c014edbea1][PROVERB]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / saying, memorable saying; sometimes: proverbial saying, popular saying; bon-mot, dict-on
+** 叔敖信俗言而埋虵	Shūáo believed the common saying, then buried the snake;
+:PROPERTIES:
+:SRC: LH 20.8.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:14a05:1::叔敖 / 論衡
+:CHARPOS: 1
+:END:
+*** 埋@mái / 霾@mái
+:PROPERTIES:
+:CONCEPT: uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 7
+:END:
+埋@mái / 霾@mái	[[tls:concept:BURY::#uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / dig (something) ritually into the ground (without the use of a coffin)
+** 埋一虵	Interring one snake,
+:PROPERTIES:
+:SRC: LH 20.9.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:15a30:1::埋一 / 論衡
+:CHARPOS: 1
+:END:
+*** 埋@mái / 霾@mái
+:PROPERTIES:
+:CONCEPT: uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 1
+:END:
+埋@mái / 霾@mái	[[tls:concept:BURY::#uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / dig (something) ritually into the ground (without the use of a coffin)
+** 埋虵惡人復見	Sūn Shūáo buried the snake, for feraing others should behold it,
+:PROPERTIES:
+:SRC: LH 20.9.5; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:16a01:1::埋虵 / 論衡
+:CHARPOS: 1
+:END:
+*** 埋@mái / 霾@mái
+:PROPERTIES:
+:CONCEPT: uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 1
+:END:
+埋@mái / 霾@mái	[[tls:concept:BURY::#uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / dig (something) ritually into the ground (without the use of a coffin)
+** 賢者之行	Does the acts of an excellent man
+:PROPERTIES:
+:SRC: LH 20.9.5; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:16a03:1::賢者 / 論衡
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1 / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: the man of talent and moral worth (at any time and in any place)
+** 豈徒埋虵一事哉	mearly consist in burying snakes?
+:PROPERTIES:
+:SRC: LH 20.9.5; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:16a04:50::豈徒 / 論衡
+:CHARPOS: 50
+:END:
+*** 埋@mái / 霾@mái
+:PROPERTIES:
+:CONCEPT: uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 52
+:END:
+埋@mái / 霾@mái	[[tls:concept:BURY::#uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / dig (something) ritually into the ground (without the use of a coffin)
+** 前埋虵之時	Before burying the snake,
+:PROPERTIES:
+:SRC: LH 20.9.5; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:16a05:50::前埋 / 論衡
+:CHARPOS: 50
+:END:
+*** 埋@mái / 霾@mái
+:PROPERTIES:
+:CONCEPT: uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 51
+:END:
+埋@mái / 霾@mái	[[tls:concept:BURY::#uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / dig (something) ritually into the ground (without the use of a coffin)
+** 見其埋虵	but after seeing him burying the snake,
+:PROPERTIES:
+:SRC: LH 20.9.6; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:16a14:1::見其 / 論衡
+:CHARPOS: 1
+:END:
+*** 見@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-4ab73146-a380-491a-bff5-6d5203c1bce2 / SEE
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 1
+:END:
+見@jiàn	[[tls:concept:SEE::#uuid-4ab73146-a380-491a-bff5-6d5203c1bce2][SEE]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / to see that S; to see how S
+*** 埋@mái / 霾@mái
+:PROPERTIES:
+:CONCEPT: uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 3
+:END:
+埋@mái / 霾@mái	[[tls:concept:BURY::#uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / dig (something) ritually into the ground (without the use of a coffin)
+** 如謂叔敖之賢在埋虵之時	If Shūáo's virtue was reagrded to appear at the time when he buried the snake,
+:PROPERTIES:
+:SRC: LH 20.9.7; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:16a19:1::如謂 / 論衡
+:CHARPOS: 1
+:END:
+*** 埋@mái / 霾@mái
+:PROPERTIES:
+:CONCEPT: uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 8
+:END:
+埋@mái / 霾@mái	[[tls:concept:BURY::#uuid-6700bda8-cbdd-443c-ae47-b7d814bdf4fd][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / dig (something) ritually into the ground (without the use of a coffin)
+** 儒家之徒董無心	The Confucianist Dǒng Wúxīn
+:PROPERTIES:
+:SRC: LH 20.10.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:17a01:1::儒家 / 論衡
+:CHARPOS: 1
+:END:
+*** 儒家@rújiā
+:PROPERTIES:
+:CONCEPT: uuid-cda4b055-4b15-4c12-a547-c6a556ba2a4f / PHILOSOPHY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+儒家@rújiā	[[tls:concept:PHILOSOPHY::#uuid-cda4b055-4b15-4c12-a547-c6a556ba2a4f][PHILOSOPHY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / Confucianism
+*** 家@jiā
+:PROPERTIES:
+:CONCEPT: uuid-651d240a-8688-4fcd-81cf-de10b96f50fc / GROUP
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+家@jiā	[[tls:concept:GROUP::#uuid-651d240a-8688-4fcd-81cf-de10b96f50fc][GROUP]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / Han: school of thought; later also: Buddhist sect
+** 墨家之役纏子	and the Mehist Chán Zǐ (P.268)
+:PROPERTIES:
+:SRC: LH 20.10.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:17a02:50::墨家 / 論衡
+:CHARPOS: 50
+:END:
+*** 墨家@mòjiā
+:PROPERTIES:
+:CONCEPT: uuid-d6e2043d-da98-4fdf-8be1-22f35d9d8513 / PHILOSOPHY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 50
+:END:
+墨家@mòjiā	[[tls:concept:PHILOSOPHY::#uuid-d6e2043d-da98-4fdf-8be1-22f35d9d8513][PHILOSOPHY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / Mohism
+*** 家@jiā
+:PROPERTIES:
+:CONCEPT: uuid-651d240a-8688-4fcd-81cf-de10b96f50fc / GROUP
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+家@jiā	[[tls:concept:GROUP::#uuid-651d240a-8688-4fcd-81cf-de10b96f50fc][GROUP]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / Han: school of thought; later also: Buddhist sect
+** 桀紂不夭死	and that Jiē and Zhòu did not die young. (P.269)
+:PROPERTIES:
+:SRC: LH 20.10.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:17a08:1::桀、 / 論衡
+:CHARPOS: 1
+:END:
+*** 夭死@yāosǐ
+:PROPERTIES:
+:CONCEPT: uuid-8bc793dd-d9a2-495b-b477-468ac92d1be5 / DIE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 4
+:END:
+夭死@yāosǐ	[[tls:concept:DIE::#uuid-8bc793dd-d9a2-495b-b477-468ac92d1be5][DIE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / die young
+** 有誤亂之行	If one has an action of error and disorder,
+:PROPERTIES:
+:SRC: LH 20.10.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_020:18a08:1::有誤 / 論衡
+:CHARPOS: 1
+:END:
+*** 誤@wù
+:PROPERTIES:
+:CONCEPT: uuid-afec7b1d-7a42-4dfc-8a87-7a3c04a30cdd / MISTAKE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 2
+:END:
+誤@wù	[[tls:concept:MISTAKE::#uuid-afec7b1d-7a42-4dfc-8a87-7a3c04a30cdd][MISTAKE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / misguided, deluded

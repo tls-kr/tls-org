@@ -1,0 +1,69 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 國語 KR2e0001_001
+#+DATE: 2017-02-08T16:41:07+0900
+#+PROPERTY: COMMIT 32c6bdbfa439f3fb9477c906d5c975f6c52c8a85
+** 穆王將征犬戎
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2e0001_001:2a01:1::穆王 / 國語
+:CHARPOS: 1
+:END:
+*** 征@zhēng
+:PROPERTIES:
+:CONCEPT: uuid-0dc54730-b431-4d3b-bdff-1d6da8497d73 / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+征@zhēng	[[tls:concept:ATTACK::#uuid-0dc54730-b431-4d3b-bdff-1d6da8497d73][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / launch a military campaign against; chastise, go on a punitive expedition against
+*** 犬戎@quǎnróng
+:PROPERTIES:
+:CONCEPT: uuid-8bb57b8d-e222-4eb4-9676-a02893145bee / BARBARIAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 5
+:END:
+犬戎@quǎnróng	[[tls:concept:BARBARIAN::#uuid-8bb57b8d-e222-4eb4-9676-a02893145bee][BARBARIAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / The Quǎn barbarians
+** 先王耀德不觀兵
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2e0001_001:2a04:1::先王 / 國語
+:CHARPOS: 1
+:END:
+*** 先王@xiānwáng
+:PROPERTIES:
+:CONCEPT: uuid-c82dacc9-55fe-4ade-a237-2f153de2aa61 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+先王@xiānwáng	[[tls:concept:RULER::#uuid-c82dacc9-55fe-4ade-a237-2f153de2aa61][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the former kings; one series: 堯舜禹湯文武孝己
+** 是故周文公之頌曰	
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2e0001_001:2a09:1::是故 / 國語
+:CHARPOS: 1
+:END:
+*** 頌@sòng
+:PROPERTIES:
+:CONCEPT: uuid-8820ae93-cd96-4242-adcb-1f4e3daf2987 / SONG
+:SYN-FUNC: uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770
+:CHARPOS: 7
+:END:
+頌@sòng	[[tls:concept:SONG::#uuid-8820ae93-cd96-4242-adcb-1f4e3daf2987][SONG]]	N [[tls:syn-func::#uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770][npr]] / the sòng "Praise" part of the Book of Songs
+** 有文告之辭
+:PROPERTIES:
+:SRC: GY 01.01.03/004
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0001_001:4a32:1::有文 / 國語
+:CHARPOS: 1
+:END:
+*** :陳@chén
+:PROPERTIES:
+:CONCEPT: uuid-2a8df894-f2a5-4874-bc99-031b080c6ad8 / SPEAK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+:陳@chén	[[tls:concept:SPEAK::#uuid-2a8df894-f2a5-4874-bc99-031b080c6ad8][SPEAK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / express (a promise etc), put forward (a statement etc)

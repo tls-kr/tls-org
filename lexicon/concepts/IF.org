@@ -1,0 +1,1295 @@
+# -*- mode: mandoku-tls-view -*-
+#+TITLE: IF
+#+DATE: 2017-03-18T10:35:30.668+09:00        
+#+STARTUP: content
+* =CONCEPT= IF
+:PROPERTIES:
+:CUSTOM_ID: uuid-2d3d0b50-ba72-473d-9cda-a9db0cc81a52
+:TR_ZH: 如果
+:END:
+** DEFINITION
+
+RELATION between sentences S1 and S2 such that it is NOT TRUE that S1 AND NOT S2.
+
+** NOTES
+
+*** Modern Chinese Criteria
+如果
+
+如其
+
+如若
+
+設或
+
+倘或
+
+倘若
+
+要是
+
+若是
+
+倘然
+
+比方
+
+萬一
+
+若
+
+如
+
+要
+
+設
+
+而
+
+苟
+
+倘
+
+使
+
+rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／
+
+*** Old Chinese Contrasts
+BROWN 2005: CONDITIONALS is very good.
+
+** POINTERS
+*** TAXONOMY
+ - [[tls:concept:COUNTERFACTUAL][COUNTERFACTUAL]]
+ - [[tls:concept:EVEN IF][EVEN IF]]
+ - [[tls:concept:IF NOT][IF NOT]]
+ - [[tls:concept:UNLESS][UNLESS]]
+
+*** ANTONYMY
+ - [[tls:concept:THEN][THEN]]
+
+*** KIND OF
+ - [[tls:concept:CONDITION][CONDITION]]
+
+** SOURCE REFERENCES
+*** CASSIN 2004
+ - [[cite:CASSIN-2004][Cassin(2004), Vocabulaire européen des philosophies. Dictionnaire des intraduisibles]], p.583
+
+*** RITTER 1971-2007
+ - [[cite:RITTER-1971-2007][Ritter Gruender Gabriel(1971-2007), Historisches Woerterbuch der Philosophie]], p.12.538
+ (WENN-DANN-SATZ)
+*** GRACE ZHANG 2010
+ - [[cite:GRACE-ZHANG-2010][Zhang(2010), Using Chinese Synonyms]], p.315
+
+*** BORCHERT 2005
+ - [[cite:BORCHERT-2005][Borchert(2005), The Encyclopedia of Philosophy]] (CONDITIONALS)
+*** BROWN 2005
+ - [[cite:BROWN-2005][Brown(2005), Encyclopedia of Language and Linguistics. Second Edition]]
+** WORDS
+   :PROPERTIES:
+   :VISIBILITY: children
+   :END:
+*** 一 yī (OC:qliɡ MC:ʔit )
+:PROPERTIES:
+:CUSTOM_ID: uuid-d36d2429-8cd4-4b16-a9ef-14c195017a1a
+:Char+: 一(1,0/1) 
+:GY_IDS+: uuid-5f124772-cb9c-4140-80c3-f6831d50c8e2
+:PY+: yī     
+:OC+: qliɡ     
+:MC+: ʔit     
+:END: 
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / if only, as long as, when
+:PROPERTIES:
+:CUSTOM_ID: uuid-24cac2a2-71db-418a-a6de-c19f6691601c
+:END:
+****** DEFINITION
+
+if only, as long as, when
+
+****** NOTES
+
+*** 之 zhī (OC:kljɯ MC:tɕɨ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-3378277a-7b1b-4c3f-85ba-87da69602d51
+:Char+: 之(4,3/4) 
+:GY_IDS+: uuid-dd2ad4ab-7266-4ee9-a622-5790a96a6515
+:PY+: zhī     
+:OC+: kljɯ     
+:MC+: tɕɨ     
+:END: 
+**** P [[tls:syn-func::#uuid-58e68d6a-d49c-4c0a-b693-8f8a855c353c][padV{PRED}.postN{SUB}]] / if
+:PROPERTIES:
+:CUSTOM_ID: uuid-4fcba5cc-6d20-4079-b4fb-98bb1ec1af82
+:END:
+****** DEFINITION
+
+if
+
+****** NOTES
+
+*** 也 yě (OC:lalʔ MC:jɣɛ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-8bf938f1-e80b-4bd2-948c-eb867ec19591
+:Char+: 也(5,2/3) 
+:GY_IDS+: uuid-208b48d4-5b38-4edb-8418-80f4dcff11e3
+:PY+: yě     
+:OC+: lalʔ     
+:MC+: jɣɛ     
+:END: 
+**** P [[tls:syn-func::#uuid-acfafcb7-9609-4e1a-8afb-f4be1c254f0a][ppostadS1.adS2]] / if ever S; even if ever
+:PROPERTIES:
+:CUSTOM_ID: uuid-79ed5752-7e1d-46ca-9a51-e9fa9f36fdd8
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+if ever S; even if ever
+
+****** NOTES
+
+*** 今 jīn (OC:krɯm MC:kim )
+:PROPERTIES:
+:CUSTOM_ID: uuid-9f1fb5cf-b07f-4593-a1b3-378bc3223c3b
+:Char+: 今(9,2/4) 
+:GY_IDS+: uuid-dfc93eb5-edb4-49b5-93e7-afe643a085de
+:PY+: jīn     
+:OC+: krɯm     
+:MC+: kim     
+:END: 
+**** N [[tls:syn-func::#uuid-7f44b590-3c95-45ec-8612-a301b021aa7c][nadS1.adS2]] {[[tls:sem-feat::#uuid-33206044-2b20-49c4-87c9-4d29c0e3df04][conditional]]} / now if for example; suppose
+:PROPERTIES:
+:CUSTOM_ID: uuid-e68a7d7b-1187-47eb-9c35-458a560bdb69
+:WARRING-STATES-CURRENCY: 4
+:END:
+****** DEFINITION
+
+now if for example; suppose
+
+****** NOTES
+
+******* Examples
+HF 43.3.27: 今有法曰： Suppose there were a law which says...
+
+*** 令 lìng (OC:ɡ-reŋs MC:liɛŋ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-016c0eea-c6da-450a-ba01-3edac522bdbf
+:Char+: 令(9,3/5) 
+:GY_IDS+: uuid-c688ca7f-20ff-4d59-a1bc-f5e0d3c859f2
+:PY+: lìng     
+:OC+: ɡ-reŋs     
+:MC+: liɛŋ     
+:END: 
+****  [[tls:syn-func::#uuid-c9b9795b-ca74-4870-881e-07bacee5ca12][vt+S1.adS2]] / if, supposing that
+:PROPERTIES:
+:CUSTOM_ID: uuid-33e9cace-90d1-41b1-baf9-9d258fea6b75
+:END:
+****** DEFINITION
+
+if, supposing that
+
+****** NOTES
+
+*** 但 dàn (OC:daanʔ MC:dɑn )
+:PROPERTIES:
+:CUSTOM_ID: uuid-5a3befb4-581d-45ca-b5d4-fd1498b20b70
+:Char+: 但(9,5/7) 
+:GY_IDS+: uuid-41c10702-1f3a-47e5-964c-af859bd6f708
+:PY+: dàn     
+:OC+: daanʔ     
+:MC+: dɑn     
+:END: 
+**** P [[tls:syn-func::#uuid-02ea996e-b723-4e17-bb7c-4956bd4873d9][padV.postN{SUBJ}]] / if you just, as long as you
+:PROPERTIES:
+:CUSTOM_ID: uuid-fd04c80f-dcdf-4dda-a420-fe377b4d2ff3
+:END:
+****** DEFINITION
+
+if you just, as long as you
+
+****** NOTES
+
+*** 使 shǐ (OC:srɯʔ MC:ʂɨ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-4751462e-444c-4db2-ad42-3d85e1cbba37
+:Char+: 使(9,6/8) 
+:GY_IDS+: uuid-028c0020-4d7a-4b04-a6ad-c5386df929f0
+:PY+: shǐ     
+:OC+: srɯʔ     
+:MC+: ʂɨ     
+:END: 
+**** V [[tls:syn-func::#uuid-cf44b197-f172-4bcd-8bc2-b404d02bf71c][vt0oS1.adS2]] / supposing as a purely hypothetical and theoretical, or at least remote, possibility
+:PROPERTIES:
+:CUSTOM_ID: uuid-6e544816-2782-4837-a7e8-e5272c79be48
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+supposing as a purely hypothetical and theoretical, or at least remote, possibility
+
+****** NOTES
+
+*** 倘 tǎng (OC:thaaŋʔ MC:thɑŋ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-5dbefa74-5998-424d-b488-287b9144a063
+:Char+: 倘(9,8/10) 
+:GY_IDS+: uuid-08c81cb0-4a9d-4d9a-af33-d14420ba6b4f
+:PY+: tǎng     
+:OC+: thaaŋʔ     
+:MC+: thɑŋ     
+:END: 
+**** P [[tls:syn-func::#uuid-f7e4a681-1eb1-4597-9ced-921b54f5c3ea][padV.postN{SUBJ}:adS]] / IF
+:PROPERTIES:
+:CUSTOM_ID: uuid-f31e8c9d-9283-4b14-821b-9a0c25b0eb61
+:END:
+****** DEFINITION
+
+IF
+
+****** NOTES
+
+*** 其 qí (OC:ɡɯ MC:gɨ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-4971e5c0-2c2d-4072-8a8f-f084535f8a85
+:Char+: 其(12,6/8) 
+:GY_IDS+: uuid-4d6c7918-4df1-492f-95db-6e81913b1710
+:PY+: qí     
+:OC+: ɡɯ     
+:MC+: gɨ     
+:END: 
+**** N [[tls:syn-func::#uuid-2b4052c6-a2b6-456b-b161-60c10307c4af][npro.adV:adS]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / if someone 其言之不怍， "If in making public commitments one is not shy..."
+:PROPERTIES:
+:CUSTOM_ID: uuid-c7d7a749-c00c-4be6-8d54-ebab9c0aedf2
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+if someone 其言之不怍， "If in making public commitments one is not shy..."
+
+****** NOTES
+
+**** N [[tls:syn-func::#uuid-2b4052c6-a2b6-456b-b161-60c10307c4af][npro.adV:adS]] / OBI 2: if (e.g. it rains)
+:PROPERTIES:
+:CUSTOM_ID: uuid-6af4e0b0-c54c-4fb0-b3eb-bde0781c44b7
+:END:
+****** DEFINITION
+
+OBI 2: if (e.g. it rains)
+
+****** NOTES
+
+*** 即 jí (OC:tsɯɡ MC:tsɨk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-e4bb99eb-2d04-469d-9647-338cc9109ee2
+:Char+: 即(26,5/7) 
+:GY_IDS+: uuid-9c207839-c526-42a5-bbd1-48637a0927c8
+:PY+: jí     
+:OC+: tsɯɡ     
+:MC+: tsɨk     
+:END: 
+*** 唯 wéi (OC:k-lul MC:ji )
+:PROPERTIES:
+:CUSTOM_ID: uuid-2fcb81e4-dbd5-4636-9059-4fb99a7941bb
+:Char+: 唯(30,8/11) 
+:GY_IDS+: uuid-da888da1-0d6e-4d5c-a711-60c1c713d85b
+:PY+: wéi     
+:OC+: k-lul     
+:MC+: ji     
+:END: 
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / only if
+:PROPERTIES:
+:CUSTOM_ID: uuid-54e4d344-06b5-447c-9e40-64f7ca8d7f71
+:END:
+****** DEFINITION
+
+only if
+
+****** NOTES
+
+*** 夫 fú (OC:ba MC:bi̯o )
+:PROPERTIES:
+:CUSTOM_ID: uuid-7a56acb0-fff1-40fc-a1a8-19f2657bda81
+:Char+: 夫(37,1/4) 
+:GY_IDS+: uuid-c21f7a99-de70-44d2-a0e2-4266db4736bd
+:PY+: fú     
+:OC+: ba     
+:MC+: bi̯o     
+:END: 
+**** N [[tls:syn-func::#uuid-7ed78b76-e06b-4365-92bc-b00297839a5a][npro.adS1:adS2]] / now if
+:PROPERTIES:
+:CUSTOM_ID: uuid-7104e4de-7499-4bdc-aa0c-12430fc919c3
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+now if
+
+****** NOTES
+
+*** 如 rú (OC:nja MC:ȵi̯ɤ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-a51d1241-db68-4f00-b078-77c27be706dd
+:Char+: 如(38,3/6) 
+:GY_IDS+: uuid-b70766fd-8fa3-4174-9134-d39d5f504d70
+:PY+: rú     
+:OC+: nja     
+:MC+: ȵi̯ɤ     
+:END: 
+**** V [[tls:syn-func::#uuid-8493d61b-f429-413d-aa90-f3f3c0a94f0f][vadV{PRED}.postN{SUBJ}:adS]] {[[tls:sem-feat::#uuid-759c723e-1141-40ec-91f4-bb9d1dcd4922][irrealis]]} / if (unreal condition)
+:PROPERTIES:
+:CUSTOM_ID: uuid-413a67f4-6442-4490-b2ee-78d1e2320a48
+:END:
+****** DEFINITION
+
+if (unreal condition)
+
+****** NOTES
+
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] {[[tls:sem-feat::#uuid-76a3454c-a084-47af-b1b2-9839a8900995][general]]} / if in general
+:PROPERTIES:
+:CUSTOM_ID: uuid-7a02979c-24df-41b1-b0d3-2e48fdfc4349
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+if in general
+
+****** NOTES
+
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] {[[tls:sem-feat::#uuid-0c4c7a08-9af6-4614-b56f-e6611737cffd][postposed?]]} / only if (subordinated clause comes after the main clause)
+:PROPERTIES:
+:CUSTOM_ID: uuid-73bdc1a2-1dd1-42c7-9cb0-2a3a768901b4
+:END:
+****** DEFINITION
+
+only if (subordinated clause comes after the main clause)
+
+****** NOTES
+
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] {[[tls:sem-feat::#uuid-d3edfbf7-de16-4bdb-9afb-5bdb1515ff80][specific]]} / if by any chance
+:PROPERTIES:
+:CUSTOM_ID: uuid-31a0f676-c709-4828-bb7c-a3fa8aa77902
+:WARRING-STATES-CURRENCY: 4
+:END:
+****** DEFINITION
+
+if by any chance
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-8493d61b-f429-413d-aa90-f3f3c0a94f0f][vadV{PRED}.postN{SUBJ}:adS]] / supposing that it is so; if
+:PROPERTIES:
+:CUSTOM_ID: uuid-28e67f5c-e24e-4ed5-9914-eb131e37cbd8
+:WARRING-STATES-CURRENCY: 5
+:END:
+****** DEFINITION
+
+supposing that it is so; if
+
+****** NOTES
+
+*** 忽 hū (OC:hmɯɯd MC:huot )
+:PROPERTIES:
+:CUSTOM_ID: uuid-dff35d77-b821-4288-9574-00c2ecd00af5
+:Char+: 忽(61,4/8) 
+:GY_IDS+: uuid-b17a37e7-db42-4971-8020-af720f20df6f
+:PY+: hū     
+:OC+: hmɯɯd     
+:MC+: huot     
+:END: 
+**** SOURCE REFERENCES
+***** JIANG/CAO 1997
+ - [[cite:JIANG/CAO-1997][Jiāng 江 Cáo 曹(1997), 唐五代語言詞典 Táng Wǔdài yǔyán cídiǎn A Dictionary of the Language of the Tang and Five Dynasties Periods]], p.162, #2
+ (BIANWEN)
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / Tang: if, in case, assuming
+:PROPERTIES:
+:CUSTOM_ID: uuid-758c3784-1308-402f-ad8d-a0ab3b32f867
+:END:
+****** DEFINITION
+
+Tang: if, in case, assuming
+
+****** NOTES
+
+*** 所 suǒ (OC:sqraʔ MC:ʂi̯ɤ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-9e8641a3-90a9-49e6-8108-c8a66926a2c1
+:Char+: 所(63,4/8) 
+:GY_IDS+: uuid-931a8e61-8ceb-41f9-ba2a-598aebc7a127
+:PY+: suǒ     
+:OC+: sqraʔ     
+:MC+: ʂi̯ɤ     
+:END: 
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / if ever 所不與舅氏同心者， "Uncle, if from now on I fail to be of one heart with you..."
+:PROPERTIES:
+:CUSTOM_ID: uuid-88529939-6824-46eb-8d89-46441309ecd1
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+if ever 所不與舅氏同心者， "Uncle, if from now on I fail to be of one heart with you..."
+
+****** NOTES
+
+**** P [[tls:syn-func::#uuid-c3f35b65-eb1f-4d6f-bb84-717f555909ac][padVi:post.N{SUBJ}+npro{GEN}]] / 人之所忌 "When men are full of fear..."
+:PROPERTIES:
+:CUSTOM_ID: uuid-cff74e65-acee-484c-877c-6419aa2ffcca
+:WARRING-STATES-CURRENCY: 2
+:END:
+****** DEFINITION
+
+人之所忌 "When men are full of fear..."
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-8493d61b-f429-413d-aa90-f3f3c0a94f0f][vadV{PRED}.postN{SUBJ}:adS]] / if ever　予所否者 "If I have have done something wrong..."
+:PROPERTIES:
+:CUSTOM_ID: uuid-f830d9e3-04f0-425f-a34e-70da41c309d1
+:END:
+****** DEFINITION
+
+if ever　予所否者 "If I have have done something wrong..."
+
+****** NOTES
+
+*** 方 fāng (OC:paŋ MC:pi̯ɐŋ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-833f09f9-5577-4618-8194-3ce8dc00f608
+:Char+: 方(70,0/4) 
+:GY_IDS+: uuid-1a4e039c-6a01-4fca-ad4b-baadc33873fc
+:PY+: fāng     
+:OC+: paŋ     
+:MC+: pi̯ɐŋ     
+:END: 
+*** 既 jì (OC:kɯds MC:kɨi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-af20ea51-c11f-4ef7-9d3a-5af0d01a077d
+:Char+: 既(71,5/9) 
+:GY_IDS+: uuid-4b0dbb04-7469-4bc6-b5e4-87ff1afed15e
+:PY+: jì     
+:OC+: kɯds     
+:MC+: kɨi     
+:END: 
+**** V [[tls:syn-func::#uuid-8493d61b-f429-413d-aa90-f3f3c0a94f0f][vadV{PRED}.postN{SUBJ}:adS]] / if
+:PROPERTIES:
+:CUSTOM_ID: uuid-67b77204-05f9-4dfa-a402-c8c6eef1a443
+:END:
+****** DEFINITION
+
+if
+
+****** NOTES
+
+*** 時 shí (OC:ɡljɯ MC:dʑɨ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-76493768-806b-452e-a164-b0092e6e709f
+:Char+: 時(72,6/10) 
+:GY_IDS+: uuid-e2aa15ab-5de1-4aef-9a8e-3d5313867d03
+:PY+: shí     
+:OC+: ɡljɯ     
+:MC+: dʑɨ     
+:END: 
+**** N [[tls:syn-func::#uuid-45408dd4-7cdf-4273-9ce7-17f6ab96b007][npost-S1.adS2]] / as in the formula (若)。。。時
+:PROPERTIES:
+:CUSTOM_ID: uuid-6f9a8c58-a006-4c99-b999-156b1cf4b53c
+:END:
+****** DEFINITION
+
+as in the formula (若)。。。時
+
+****** NOTES
+
+*** 為 wéi (OC:ɢʷal MC:ɦiɛ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-5a498eea-25ab-45ee-8884-8e6a848a647f
+:Char+: 為(86,5/9) 
+:GY_IDS+: uuid-7dd1780c-ee9b-4eaa-af63-c42cb57baf50
+:PY+: wéi     
+:OC+: ɢʷal     
+:MC+: ɦiɛ     
+:END: 
+**** V [[tls:syn-func::#uuid-c60345f1-a3e8-4ac9-b9c5-d8fbd48fd496][vadS1.adS2]] / if
+:PROPERTIES:
+:CUSTOM_ID: uuid-4287c908-bd23-4849-8066-3250139acfe9
+:END:
+****** DEFINITION
+
+if
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-ea3084d7-d6fa-4817-a40b-ca7cd6fdd5f7][vadV.postN:adS]] / if ZGC: 秦為知之，必不救也。
+:PROPERTIES:
+:CUSTOM_ID: uuid-0d96a5d0-c7bc-4c81-a8d6-9fdc79e834c4
+:END:
+****** DEFINITION
+
+if ZGC: 秦為知之，必不救也。
+
+****** NOTES
+
+*** 者 zhě (OC:kljaʔ MC:tɕɣɛ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-e7d41247-d397-42e4-812e-9cbc1ee134d4
+:Char+: 者(125,4/10) 
+:GY_IDS+: uuid-638f5102-6260-4085-891d-9864102bc27c
+:PY+: zhě     
+:OC+: kljaʔ     
+:MC+: tɕɣɛ     
+:END: 
+**** N [[tls:syn-func::#uuid-67e5a1fe-f005-4568-9330-772e0e8781f4][npro.post-NPab/S1/:adS2]] {[[tls:sem-feat::#uuid-759c723e-1141-40ec-91f4-bb9d1dcd4922][irrealis]]} / in case of>if
+:PROPERTIES:
+:CUSTOM_ID: uuid-056876a8-c771-4274-9208-51f1f230f6ac
+:END:
+****** DEFINITION
+
+in case of>if
+
+****** NOTES
+
+**** N [[tls:syn-func::#uuid-5161a11c-d83d-4816-9bb8-b19820a40b27][npro.post-S1:adS2]] / in case of>if; in all cases when
+:PROPERTIES:
+:CUSTOM_ID: uuid-c3b3d0f1-4f74-4165-be15-0ae0c050ba2e
+:END:
+****** DEFINITION
+
+in case of>if; in all cases when
+
+****** NOTES
+
+**** N [[tls:syn-func::#uuid-5161a11c-d83d-4816-9bb8-b19820a40b27][npro.post-S1:adS2]] {[[tls:sem-feat::#uuid-60a4aa74-61ee-4bfb-9b33-a5fb332b45cc][quasi-conditional]]} / if ("if you are hungry there is some yoghurt in the fridge")
+:PROPERTIES:
+:CUSTOM_ID: uuid-2bebd222-e64b-48d5-a3e6-5f1755b038da
+:END:
+****** DEFINITION
+
+if ("if you are hungry there is some yoghurt in the fridge")
+
+****** NOTES
+
+*** 而 ér (OC:njɯ MC:ȵɨ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-c3368701-9817-488a-8f34-5aba09b7483c
+:Char+: 而(126,0/6) 
+:GY_IDS+: uuid-d4f6516f-ad7d-4a23-a222-ee0e2b5082e8
+:PY+: ér     
+:OC+: njɯ     
+:MC+: ȵɨ     
+:END: 
+**** P [[tls:syn-func::#uuid-de56e4a3-4283-4e36-92c2-96df86897260][padV.postN{SUBJ}:postS]] / if (often indistinguishable from AND - relative clause)　GY: 王而飾之
+:PROPERTIES:
+:CUSTOM_ID: uuid-03a7aaba-db5c-423b-bf15-ca055b495237
+:END:
+****** DEFINITION
+
+if (often indistinguishable from AND - relative clause)　GY: 王而飾之
+
+****** NOTES
+
+**** P [[tls:syn-func::#uuid-82a18441-7c30-4b2a-9af9-175e8454038f][padV{PRED}.postN{OBJ}:adS]] / if
+:PROPERTIES:
+:CUSTOM_ID: uuid-55d316b6-e877-4b5b-900b-cbb08e6367ca
+:END:
+****** DEFINITION
+
+if
+
+****** NOTES
+
+*** 與 yǔ (OC:k-laʔ MC:ji̯ɤ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-fbe7996b-01f9-4b84-9ee6-d1623a95d9e6
+:Char+: 與(134,8/14) 
+:GY_IDS+: uuid-4b46759c-5cce-4243-9586-2da74db4dcca
+:PY+: yǔ     
+:OC+: k-laʔ     
+:MC+: ji̯ɤ     
+:END: 
+**** P [[tls:syn-func::#uuid-acfafcb7-9609-4e1a-8afb-f4be1c254f0a][ppostadS1.adS2]] / question particle functioning as a marker of what is in effect a subordinate sentence
+:PROPERTIES:
+:CUSTOM_ID: uuid-a2512531-8b90-4222-bec2-f47016a2482b
+:WARRING-STATES-CURRENCY: 5
+:END:
+****** DEFINITION
+
+question particle functioning as a marker of what is in effect a subordinate sentence
+
+****** NOTES
+
+*** 若 ruò (OC:njaɡ MC:ȵi̯ɐk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-7aca8870-ee2c-443d-aa10-346f49e16748
+:Char+: 若(140,5/11) 
+:GY_IDS+: uuid-e95f9487-c052-417b-88df-0dbffda95fbb
+:PY+: ruò     
+:OC+: njaɡ     
+:MC+: ȵi̯ɐk     
+:END: 
+**** P [[tls:syn-func::#uuid-93372a4b-0d41-4430-a4a6-9560f68a39cd][p1adV1+.p1adV2]] / no matter whether
+:PROPERTIES:
+:CUSTOM_ID: uuid-e5fadd1b-3150-4343-b037-9a09d29328c7
+:END:
+****** DEFINITION
+
+no matter whether
+
+****** NOTES
+
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / if; or if (often with implicit subject and without 則 in main clause, and note 若...是 as in 若晉常先，是楚弱也...
+:PROPERTIES:
+:CUSTOM_ID: uuid-a8a9f0f3-d42c-493f-b9bf-0bbff2ed795f
+:WARRING-STATES-CURRENCY: 5
+:END:
+****** DEFINITION
+
+if; or if (often with implicit subject and without 則 in main clause, and note 若...是 as in 若晉常先，是楚弱也 which has many parallels. Apodosis often )
+
+****** NOTES
+
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] {[[tls:sem-feat::#uuid-27caf138-2056-4de2-9ca9-606c767fc2de][pseudo-conditional]]} / if (as in If you are hungry there are some eggs in the fridge)
+:PROPERTIES:
+:CUSTOM_ID: uuid-62c25c46-49bc-40b5-899a-e613901ca6cd
+:END:
+****** DEFINITION
+
+if (as in If you are hungry there are some eggs in the fridge)
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-8493d61b-f429-413d-aa90-f3f3c0a94f0f][vadV{PRED}.postN{SUBJ}:adS]] / if
+:PROPERTIES:
+:CUSTOM_ID: uuid-f3f9c7cd-f6c0-4d3b-a778-ea5564f9a4fb
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+if
+
+****** NOTES
+
+*** 苟 gǒu (OC:kooʔ MC:ku ) / 茍 jì (OC:kɯɡ MC:kɨk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-7c562ed2-7106-4f39-9c57-22a5e3477a16
+:Char+: 苟(140,5/11) 
+:Char+: 茍(140,5/11) 
+:GY_IDS+: uuid-f5943075-30ec-4b23-a75a-2a7bb28c53c5
+:PY+: gǒu     
+:OC+: kooʔ     
+:MC+: ku     
+:GY_IDS+: uuid-aac06f5b-5ec9-45dd-9b53-195ef9057793
+:PY+: jì     
+:OC+: kɯɡ     
+:MC+: kɨk     
+:END: 
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / THERE IS A MESS-UP WITH THE GRAPHS, READ gǒu: if really; as long as really
+:PROPERTIES:
+:CUSTOM_ID: uuid-dd99868d-a066-4de9-9930-d5de1c541819
+:WARRING-STATES-CURRENCY: 5
+:END:
+****** DEFINITION
+
+THERE IS A MESS-UP WITH THE GRAPHS, READ gǒu: if really; as long as really
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-8493d61b-f429-413d-aa90-f3f3c0a94f0f][vadV{PRED}.postN{SUBJ}:adS]] / THERE IS A MESS-UP WITH THE GRAPHS, READ gǒu: if
+:PROPERTIES:
+:CUSTOM_ID: uuid-f06b4091-5217-4331-b099-ae3e87527752
+:END:
+****** DEFINITION
+
+THERE IS A MESS-UP WITH THE GRAPHS, READ gǒu: if
+
+****** NOTES
+
+*** 藉 jiè (OC:MC:dzɣɛ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-98e59b2f-6f9e-4821-b202-417e0180d111
+:Char+: 藉(140,14/20) 
+:GY_IDS+: uuid-cc201d99-2435-4e58-8b94-9f84f3d9837b
+:PY+: jiè     
+:MC+: dzɣɛ     
+:END: 
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / if
+:PROPERTIES:
+:CUSTOM_ID: uuid-14884694-1fe2-4c03-bc6a-40ea0f37c460
+:END:
+****** DEFINITION
+
+if
+
+****** NOTES
+
+*** 設 shè (OC:qhjed MC:ɕiɛt )
+:PROPERTIES:
+:CUSTOM_ID: uuid-d90ca0d7-41ba-481d-918f-3b501824772c
+:Char+: 設(149,4/11) 
+:GY_IDS+: uuid-731cd1d0-3604-43de-9374-4348e41d32f6
+:PY+: shè     
+:OC+: qhjed     
+:MC+: ɕiɛt     
+:END: 
+**** V [[tls:syn-func::#uuid-cf44b197-f172-4bcd-8bc2-b404d02bf71c][vt0oS1.adS2]] / to suppose hypothetically, let us suppose hypothetically(sometimes correlating with 亦 in S2)
+:PROPERTIES:
+:CUSTOM_ID: uuid-f1707031-31a7-43b1-9abf-9eb98389d4cf
+:END:
+****** DEFINITION
+
+to suppose hypothetically, let us suppose hypothetically
+
+(sometimes correlating with 亦 in S2)
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-cf44b197-f172-4bcd-8bc2-b404d02bf71c][vt0oS1.adS2]] {[[tls:sem-feat::#uuid-b110bae1-02d5-4c66-ad13-7c04b3ee3ad9][mathematical term]]} / CHEMLA 2003:
+:PROPERTIES:
+:CUSTOM_ID: uuid-c4dd77db-f38a-4cba-b0a7-c67bdd82dc45
+:END:
+****** DEFINITION
+
+CHEMLA 2003:
+
+****** NOTES
+
+*** 誠 chéng (OC:djeŋ MC:dʑiɛŋ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-1030817c-ff9c-4664-991e-3e7b13c8ea31
+:Char+: 誠(149,6/14) 
+:GY_IDS+: uuid-4898b8f4-f941-4d66-8821-807f654842a7
+:PY+: chéng     
+:OC+: djeŋ     
+:MC+: dʑiɛŋ     
+:END: 
+**** V [[tls:syn-func::#uuid-c00a4db3-7d89-4b82-80ab-d16a177e3421][vadV.postN{SUBJ}:adS]] {[[tls:sem-feat::#uuid-33206044-2b20-49c4-87c9-4d29c0e3df04][conditional]]} / if really, if truly
+:PROPERTIES:
+:CUSTOM_ID: uuid-5e37713c-9775-42ca-87cc-4dc3e99d4a5c
+:WARRING-STATES-CURRENCY: 4
+:END:
+****** DEFINITION
+
+if really, if truly
+
+****** NOTES
+
+*** 適 shì (OC:qljeɡ MC:ɕiɛk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-db1bb64b-6819-486b-af8c-6c91e2156037
+:Char+: 適(162,11/15) 
+:GY_IDS+: uuid-29018f54-1dad-4704-866c-1e76290c458b
+:PY+: shì     
+:OC+: qljeɡ     
+:MC+: ɕiɛk     
+:END: 
+**** V [[tls:syn-func::#uuid-707ce908-53e6-4945-92c7-cd81402732f9][vt/0/+V/0/.adS]] {[[tls:sem-feat::#uuid-33206044-2b20-49c4-87c9-4d29c0e3df04][conditional]]} / if by any chance
+:PROPERTIES:
+:CUSTOM_ID: uuid-80b1f751-6824-4395-80b3-438f8e42f5b0
+:WARRING-STATES-CURRENCY: 4
+:END:
+****** DEFINITION
+
+if by any chance
+
+****** NOTES
+
+*** 不然 bùrán (OC:pɯʔ njen MC:pi̯ut ȵiɛn )
+:PROPERTIES:
+:CUSTOM_ID: uuid-a85abab9-b9ea-4380-bde9-3ed7fcc74b02
+:Char+: 不(1,3/4) 然(86,8/12) 
+:GY_IDS+: uuid-12896cda-5086-41f3-8aeb-21cd406eec3f uuid-8a15fd91-bd0f-4409-9544-18b3c2ea70d5
+:PY+: bù rán    
+:OC+: pɯʔ njen    
+:MC+: pi̯ut ȵiɛn    
+:END: 
+**** V [[tls:syn-func::#uuid-faaac281-f93d-413a-a822-dcdd6e571aa9][VPi(0)adS1.postS2]] / or else, sinon; otherwise
+:PROPERTIES:
+:CUSTOM_ID: uuid-7202ddf0-2ff7-46d5-ad25-6565ca8fc1dd
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+or else, sinon; otherwise
+
+****** NOTES
+
+*** 今且 jīnqiě (OC:krɯm MC:kim tshɣɛ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-66036dec-f998-49c8-9cb6-6b666073271a
+:Char+: 今(9,2/4) 且(1,4/5) 
+:GY_IDS+: uuid-dfc93eb5-edb4-49b5-93e7-afe643a085de uuid-287e123a-74f0-401a-9327-afadd14e99c5
+:PY+: jīn qiě    
+:OC+: krɯm     
+:MC+: kim tshɣɛ    
+:END: 
+**** P [[tls:syn-func::#uuid-a0b46569-e67d-460c-914c-dddd610aba58][PP]] / Suppose now
+:PROPERTIES:
+:CUSTOM_ID: uuid-da9dfd73-7608-4251-b998-ec7ba4c9ddd9
+:END:
+****** DEFINITION
+
+Suppose now
+
+****** NOTES
+
+*** 今有 jīnyǒu (OC:krɯm ɢʷɯʔ MC:kim ɦɨu )
+:PROPERTIES:
+:CUSTOM_ID: uuid-887b0e41-c2c7-46e5-af19-02d32e2416ba
+:Char+: 今(9,2/4) 有(74,2/6) 
+:GY_IDS+: uuid-dfc93eb5-edb4-49b5-93e7-afe643a085de uuid-5ba72032-5f6c-406d-a1fc-05dc9395e991
+:PY+: jīn yǒu    
+:OC+: krɯm ɢʷɯʔ    
+:MC+: kim ɦɨu    
+:END: 
+**** V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-b110bae1-02d5-4c66-ad13-7c04b3ee3ad9][mathematical term]]} / CHEMLA 2003:
+:PROPERTIES:
+:CUSTOM_ID: uuid-a22667dd-530a-48ba-bb73-0b4a24125203
+:END:
+****** DEFINITION
+
+CHEMLA 2003:
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-c2560eab-8090-475f-9b7a-c80bd21d4938][VPtoS]] / CHEMLA 2003:
+:PROPERTIES:
+:CUSTOM_ID: uuid-e3c3f595-942c-4688-9b98-d297f9f071fa
+:END:
+****** DEFINITION
+
+CHEMLA 2003:
+
+****** NOTES
+
+*** 假令 jiǎlìng (OC:kraaʔ ɡ-reŋ MC:kɣɛ liɛŋ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-c326f229-048e-42fa-b9cf-924de98d5f08
+:Char+: 假(9,9/11) 令(9,3/5) 
+:GY_IDS+: uuid-3c8386f6-1f0d-43a6-9209-ec8d132c60ce uuid-91d38b07-5b06-47cc-88d9-624f7c18a502
+:PY+: jiǎ lìng    
+:OC+: kraaʔ ɡ-reŋ    
+:MC+: kɣɛ liɛŋ    
+:END: 
+**** P [[tls:syn-func::#uuid-71f23c12-b482-4952-833b-02a621579b00][PPadS1.adS2]] {[[tls:sem-feat::#uuid-b110bae1-02d5-4c66-ad13-7c04b3ee3ad9][mathematical term]]} / CHEMLA 2003:
+:PROPERTIES:
+:CUSTOM_ID: uuid-5e0b4de4-e826-428b-a927-f8a7a2371b41
+:END:
+****** DEFINITION
+
+CHEMLA 2003:
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-729965e0-633f-46d5-b017-2a31f4edc0a4][VPt0oS1.adS2]] / suppose S1 then S2
+:PROPERTIES:
+:CUSTOM_ID: uuid-f68c2703-2b38-4fe1-b60a-65d6bbb81126
+:END:
+****** DEFINITION
+
+suppose S1 then S2
+
+****** NOTES
+
+*** 即使 jíshǐ (OC:tsɯɡ srɯʔ MC:tsɨk ʂɨ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-7511eda8-8a6b-4842-91d3-a436ea5875fc
+:Char+: 即(26,5/7) 使(9,6/8) 
+:GY_IDS+: uuid-9c207839-c526-42a5-bbd1-48637a0927c8 uuid-028c0020-4d7a-4b04-a6ad-c5386df929f0
+:PY+: jí shǐ    
+:OC+: tsɯɡ srɯʔ    
+:MC+: tsɨk ʂɨ    
+:END: 
+**** P [[tls:syn-func::#uuid-71f23c12-b482-4952-833b-02a621579b00][PPadS1.adS2]] / if
+:PROPERTIES:
+:CUSTOM_ID: uuid-cc9f789d-cc50-4dfc-87f8-4689bcad9768
+:END:
+****** DEFINITION
+
+if
+
+****** NOTES
+
+*** 唯所 wéisuǒ (OC:k-lul sqraʔ MC:ji ʂi̯ɤ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-22168268-ed7e-4bdf-826a-f1cd33b2f8ac
+:Char+: 唯(30,8/11) 所(63,4/8) 
+:GY_IDS+: uuid-da888da1-0d6e-4d5c-a711-60c1c713d85b uuid-931a8e61-8ceb-41f9-ba2a-598aebc7a127
+:PY+: wéi suǒ    
+:OC+: k-lul sqraʔ    
+:MC+: ji ʂi̯ɤ    
+:END: 
+**** P [[tls:syn-func::#uuid-71f23c12-b482-4952-833b-02a621579b00][PPadS1.adS2]] / if only
+:PROPERTIES:
+:CUSTOM_ID: uuid-096c0a22-4669-4125-888b-734e6b0d0043
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+if only
+
+****** NOTES
+
+*** 如今 rújīn (OC:nja krɯm MC:ȵi̯ɤ kim )
+:PROPERTIES:
+:CUSTOM_ID: uuid-410c3fae-0003-4d5d-835f-bd8a82ca5b7e
+:Char+: 如(38,3/6) 今(9,2/4) 
+:GY_IDS+: uuid-b70766fd-8fa3-4174-9134-d39d5f504d70 uuid-dfc93eb5-edb4-49b5-93e7-afe643a085de
+:PY+: rú jīn    
+:OC+: nja krɯm    
+:MC+: ȵi̯ɤ kim    
+:END: 
+**** V [[tls:syn-func::#uuid-b27e67c1-0911-47ec-a099-a5880bb60396][VPadS1.adS2]] / supposing theoretically that
+:PROPERTIES:
+:CUSTOM_ID: uuid-53d624da-4f2a-4c91-bb88-14295fe045c2
+:END:
+****** DEFINITION
+
+supposing theoretically that
+
+****** NOTES
+
+*** 如或 rúhuò (OC:nja ɡʷɯɯɡ MC:ȵi̯ɤ ɦək )
+:PROPERTIES:
+:CUSTOM_ID: uuid-f2045255-c1d3-4cac-b2b5-b824de7fa922
+:Char+: 如(38,3/6) 或(62,4/8) 
+:GY_IDS+: uuid-b70766fd-8fa3-4174-9134-d39d5f504d70 uuid-7be571ca-f00b-41c6-b5eb-2c0b43e6bcd8
+:PY+: rú huò    
+:OC+: nja ɡʷɯɯɡ    
+:MC+: ȵi̯ɤ ɦək    
+:END: 
+**** P [[tls:syn-func::#uuid-71f23c12-b482-4952-833b-02a621579b00][PPadS1.adS2]] / if by any chance???? (or: if anyone by any chance)
+:PROPERTIES:
+:CUSTOM_ID: uuid-e7944f81-4363-452a-9b76-5d668346d0eb
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+if by any chance???? (or: if anyone by any chance)
+
+****** NOTES
+
+*** 如有 rúyǒu (OC:nja ɢʷɯʔ MC:ȵi̯ɤ ɦɨu )
+:PROPERTIES:
+:CUSTOM_ID: uuid-cea07297-7010-4e2b-b82a-e7519cb5cbc5
+:Char+: 如(38,3/6) 有(74,2/6) 
+:GY_IDS+: uuid-b70766fd-8fa3-4174-9134-d39d5f504d70 uuid-5ba72032-5f6c-406d-a1fc-05dc9395e991
+:PY+: rú yǒu    
+:OC+: nja ɢʷɯʔ    
+:MC+: ȵi̯ɤ ɦɨu    
+:END: 
+**** V [[tls:syn-func::#uuid-64373044-78aa-4a93-a7fd-c5f489fd9dbd][VPtoS1.adS2]] / if
+:PROPERTIES:
+:CUSTOM_ID: uuid-c25219f1-3e79-437c-b16b-0f0985c29cc9
+:END:
+****** DEFINITION
+
+if
+
+****** NOTES
+
+*** 於斯 yúsī (OC:qa sqe MC:ʔi̯ɤ siɛ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-d25d7899-22dc-4527-a705-6697305fbb6b
+:Char+: 於(70,4/8) 斯(69,8/12) 
+:GY_IDS+: uuid-fb67b697-a7f5-4e27-8090-d90ec205fd5c uuid-a87ed6e3-516d-4203-95b3-c61730258970
+:PY+: yú sī    
+:OC+: qa sqe    
+:MC+: ʔi̯ɤ siɛ    
+:END: 
+**** P [[tls:syn-func::#uuid-04c5d26e-838a-4267-a260-5926111fe077][PPpostadS]] {[[tls:sem-feat::#uuid-f4b7c73f-91b5-409c-9bc8-59c32cceff5b][hypothetical]]} / marker of purely hypothetical suppositions
+:PROPERTIES:
+:CUSTOM_ID: uuid-f85f767b-7854-4c3b-9d75-86048e52f3e1
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+marker of purely hypothetical suppositions
+
+****** NOTES
+
+*** 既若 jìruò (OC:kɯds njaɡ MC:kɨi ȵi̯ɐk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-e1519173-bfc0-401f-8442-60770f851646
+:Char+: 既(71,5/9) 若(140,5/11) 
+:GY_IDS+: uuid-4b0dbb04-7469-4bc6-b5e4-87ff1afed15e uuid-e95f9487-c052-417b-88df-0dbffda95fbb
+:PY+: jì ruò    
+:OC+: kɯds njaɡ    
+:MC+: kɨi ȵi̯ɐk    
+:END: 
+**** P [[tls:syn-func::#uuid-71f23c12-b482-4952-833b-02a621579b00][PPadS1.adS2]] / if indeed
+:PROPERTIES:
+:CUSTOM_ID: uuid-fbedc6d9-eeb5-45ee-98a7-e9ccf59dbfc0
+:END:
+****** DEFINITION
+
+if indeed
+
+****** NOTES
+
+**** P [[tls:syn-func::#uuid-4f1a4b20-e290-4bf0-8b31-6d55996076e2][PPadV{PRED}.postN{SUBJ}]] / if N really V-s, then
+:PROPERTIES:
+:CUSTOM_ID: uuid-5f71f1bc-e43c-4df9-acee-a684d5be9345
+:END:
+****** DEFINITION
+
+if N really V-s, then
+
+****** NOTES
+
+*** 若令 ruòlìng (OC:njaɡ ɡ-reŋ MC:ȵi̯ɐk liɛŋ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-54e2e374-2f2b-4d58-a5a7-abedc05267a1
+:Char+: 若(140,5/11) 令(9,3/5) 
+:GY_IDS+: uuid-e95f9487-c052-417b-88df-0dbffda95fbb uuid-91d38b07-5b06-47cc-88d9-624f7c18a502
+:PY+: ruò lìng    
+:OC+: njaɡ ɡ-reŋ    
+:MC+: ȵi̯ɐk liɛŋ    
+:END: 
+**** P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] / if
+:PROPERTIES:
+:CUSTOM_ID: uuid-248b8a9e-2668-47f0-ae86-3bf8a88f4116
+:END:
+****** DEFINITION
+
+if
+
+****** NOTES
+
+*** 若使 ruòshǐ (OC:njaɡ srɯʔ MC:ȵi̯ɐk ʂɨ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-c3812217-8e42-4370-afe1-6db5fd9a1f43
+:Char+: 若(140,5/11) 使(9,6/8) 
+:GY_IDS+: uuid-e95f9487-c052-417b-88df-0dbffda95fbb uuid-028c0020-4d7a-4b04-a6ad-c5386df929f0
+:PY+: ruò shǐ    
+:OC+: njaɡ srɯʔ    
+:MC+: ȵi̯ɐk ʂɨ    
+:END: 
+**** V [[tls:syn-func::#uuid-64373044-78aa-4a93-a7fd-c5f489fd9dbd][VPtoS1.adS2]] / if
+:PROPERTIES:
+:CUSTOM_ID: uuid-0848af7e-cbff-42b0-af52-37c23fcfb6b1
+:END:
+****** DEFINITION
+
+if
+
+****** NOTES
+
+*** 若其 ruòqí (OC:njaɡ ɡɯ MC:ȵi̯ɐk gɨ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-33be033c-7709-4e3b-aa0d-b788e0abef60
+:Char+: 若(140,5/11) 其(12,6/8) 
+:GY_IDS+: uuid-e95f9487-c052-417b-88df-0dbffda95fbb uuid-4d6c7918-4df1-492f-95db-6e81913b1710
+:PY+: ruò qí    
+:OC+: njaɡ ɡɯ    
+:MC+: ȵi̯ɐk gɨ    
+:END: 
+**** P [[tls:syn-func::#uuid-71f23c12-b482-4952-833b-02a621579b00][PPadS1.adS2]] / if by any chance; if on the other hand　GY: 若其予之　　若其有知 "if they have awareness"
+:PROPERTIES:
+:CUSTOM_ID: uuid-de0827b5-e346-4c71-9dc6-11e1def2af19
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+if by any chance; if on the other hand　GY: 若其予之　　若其有知 "if they have awareness"
+
+****** NOTES
+
+*** 若或 ruòhuò (OC:njaɡ ɡʷɯɯɡ MC:ȵi̯ɐk ɦək )
+:PROPERTIES:
+:CUSTOM_ID: uuid-c7539f87-8bde-4d73-ba5d-27b5c581e7e2
+:Char+: 若(140,5/11) 或(62,4/8) 
+:GY_IDS+: uuid-e95f9487-c052-417b-88df-0dbffda95fbb uuid-7be571ca-f00b-41c6-b5eb-2c0b43e6bcd8
+:PY+: ruò huò    
+:OC+: njaɡ ɡʷɯɯɡ    
+:MC+: ȵi̯ɐk ɦək    
+:END: 
+**** P [[tls:syn-func::#uuid-71f23c12-b482-4952-833b-02a621579b00][PPadS1.adS2]] / if by any chance
+:PROPERTIES:
+:CUSTOM_ID: uuid-36b407ac-38a4-4a89-bab6-e35136b367e7
+:END:
+****** DEFINITION
+
+if by any chance
+
+****** NOTES
+
+*** 若果 ruòguǒ (OC:njaɡ kloolʔ MC:ȵi̯ɐk kʷɑ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-d4f00ec5-998c-4fa4-94fd-00cb1f91ef4d
+:Char+: 若(140,5/11) 果(75,4/8) 
+:GY_IDS+: uuid-e95f9487-c052-417b-88df-0dbffda95fbb uuid-14d1eec2-6fcc-4066-86d9-3639b9535c99
+:PY+: ruò guǒ    
+:OC+: njaɡ kloolʔ    
+:MC+: ȵi̯ɐk kʷɑ    
+:END: 
+**** P [[tls:syn-func::#uuid-7e409a3a-2536-4697-8a05-4cdcf5ea5265][PPadS1.adS2]] / ??? predecessor of current 如果？？？
+:PROPERTIES:
+:CUSTOM_ID: uuid-7e58a57a-85b7-423d-b68d-d50b258e4ae9
+:END:
+****** DEFINITION
+
+??? predecessor of current 如果？？？
+
+****** NOTES
+
+*** 若續 ruòxù (OC:njaɡ sɢloɡ MC:ȵi̯ɐk zi̯ok )
+:PROPERTIES:
+:CUSTOM_ID: uuid-6ee9ecce-6a13-47c0-b381-15e824087ad8
+:Char+: 若(140,5/11) 續(120,15/21) 
+:GY_IDS+: uuid-e95f9487-c052-417b-88df-0dbffda95fbb uuid-1924fafa-6cdc-43a5-b3ab-9d760d8b0901
+:PY+: ruò xù    
+:OC+: njaɡ sɢloɡ    
+:MC+: ȵi̯ɐk zi̯ok    
+:END: 
+**** P [[tls:syn-func::#uuid-71f23c12-b482-4952-833b-02a621579b00][PPadS1.adS2]] / if [CHECK OTHER EXAMPLES]
+:PROPERTIES:
+:CUSTOM_ID: uuid-83741d65-19d9-4331-9d7a-de8aeef74ed6
+:END:
+****** DEFINITION
+
+if [CHECK OTHER EXAMPLES]
+
+****** NOTES
+
+*** 若苟 ruògǒu (OC:njaɡ kooʔ MC:ȵi̯ɐk ku )
+:PROPERTIES:
+:CUSTOM_ID: uuid-99f9b585-d934-487a-916e-0c895405a71e
+:Char+: 若(140,5/11) 苟(140,5/11) 
+:GY_IDS+: uuid-e95f9487-c052-417b-88df-0dbffda95fbb uuid-f5943075-30ec-4b23-a75a-2a7bb28c53c5
+:PY+: ruò gǒu    
+:OC+: njaɡ kooʔ    
+:MC+: ȵi̯ɐk ku    
+:END: 
+**** P [[tls:syn-func::#uuid-71f23c12-b482-4952-833b-02a621579b00][PPadS1.adS2]] / if really
+:PROPERTIES:
+:CUSTOM_ID: uuid-f4e555a5-64d3-484a-acd1-03dd99ed5a96
+:END:
+****** DEFINITION
+
+if really
+
+****** NOTES
+
+**** P [[tls:syn-func::#uuid-8f37b363-50ae-49f0-bf9e-0677dc561ee2][PPadV.postN{SUBJ}:adS]] / if
+:PROPERTIES:
+:CUSTOM_ID: uuid-91d2e403-2e97-4391-af05-a43d619af06e
+:END:
+****** DEFINITION
+
+if
+
+****** NOTES
+
+*** 苟為 gǒuwéi (OC:kooʔ ɢʷal MC:ku ɦiɛ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-5ec526e8-eaab-46f2-b831-42b993107d76
+:Char+: 苟(140,5/11) 為(86,5/9) 
+:GY_IDS+: uuid-f5943075-30ec-4b23-a75a-2a7bb28c53c5 uuid-7dd1780c-ee9b-4eaa-af63-c42cb57baf50
+:PY+: gǒu wéi    
+:OC+: kooʔ ɢʷal    
+:MC+: ku ɦiɛ    
+:END: 
+**** P [[tls:syn-func::#uuid-71f23c12-b482-4952-833b-02a621579b00][PPadS1.adS2]] {[[tls:sem-feat::#uuid-33206044-2b20-49c4-87c9-4d29c0e3df04][conditional]]} / if really
+:PROPERTIES:
+:CUSTOM_ID: uuid-f2261d27-0ad4-4b07-aa53-0072855ce9dd
+:WARRING-STATES-CURRENCY: 4
+:END:
+****** DEFINITION
+
+if really
+
+****** NOTES
+
+*** 誠使 chéngshǐ (OC:djeŋ srɯʔ MC:dʑiɛŋ ʂɨ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-2d7f51e8-f31c-496f-ab45-e8156e8ea76a
+:Char+: 誠(149,6/14) 使(9,6/8) 
+:GY_IDS+: uuid-4898b8f4-f941-4d66-8821-807f654842a7 uuid-028c0020-4d7a-4b04-a6ad-c5386df929f0
+:PY+: chéng shǐ    
+:OC+: djeŋ srɯʔ    
+:MC+: dʑiɛŋ ʂɨ    
+:END: 
+**** V [[tls:syn-func::#uuid-729965e0-633f-46d5-b017-2a31f4edc0a4][VPt0oS1.adS2]] / If it were really to happen that...
+:PROPERTIES:
+:CUSTOM_ID: uuid-3e61cf5e-40c7-4b15-a175-d9a9a30f869e
+:END:
+****** DEFINITION
+
+If it were really to happen that...
+
+****** NOTES
+
+*** 則 zé (OC:skɯɯɡ MC:tsək )
+:PROPERTIES:
+:CUSTOM_ID: uuid-f11270ff-4adc-4100-8712-00fcebefd582
+:Char+: 則(18,7/9) 
+:GY_IDS+: uuid-5091e606-89b0-4628-8f27-38ab1d7dacc5
+:PY+: zé     
+:OC+: skɯɯɡ     
+:MC+: tsək     
+:END: 
+**** P [[tls:syn-func::#uuid-de56e4a3-4283-4e36-92c2-96df86897260][padV.postN{SUBJ}:postS]] / if
+:PROPERTIES:
+:CUSTOM_ID: uuid-fb796421-1ca0-4252-8f8c-e9262bb9f71f
+:END:
+****** DEFINITION
+
+if
+
+****** NOTES
+
+*** 自 zì (OC:sblids MC:dzi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-6c503130-34d9-4bcc-8764-ce104a93951a
+:Char+: 自(132,0/6) 
+:GY_IDS+: uuid-27f414fe-6bec-4eef-88d1-0e87a4bfbc33
+:PY+: zì     
+:OC+: sblids     
+:MC+: dzi     
+:END: 
+**** V [[tls:syn-func::#uuid-eae6fe87-4260-4882-ba08-767a9048688f][vadV1.adV2]] / if HS: 自京師不曉，況於遠方 "If this is not known n the capital, how much less in distant parts"
+:PROPERTIES:
+:CUSTOM_ID: uuid-fce74261-3ca8-4368-b751-98ea510143fb
+:END:
+****** DEFINITION
+
+if HS: 自京師不曉，況於遠方 "If this is not known n the capital, how much less in distant parts"
+
+****** NOTES
+
+*** 或 huò (OC:ɡʷɯɯɡ MC:ɦək )
+:PROPERTIES:
+:CUSTOM_ID: uuid-b99198b9-96c1-4103-a9f1-5b52094cab56
+:Char+: 或(62,4/8) 
+:GY_IDS+: uuid-7be571ca-f00b-41c6-b5eb-2c0b43e6bcd8
+:PY+: huò     
+:OC+: ɡʷɯɯɡ     
+:MC+: ɦək     
+:END: 
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / if by any chance, suppose by chance
+:PROPERTIES:
+:CUSTOM_ID: uuid-6fe720bf-a542-43d8-a2e0-c773b748a6ec
+:END:
+****** DEFINITION
+
+if by any chance, suppose by chance
+
+****** NOTES
+
+*** 云 yún (OC:ɢun MC:ɦi̯un )
+:PROPERTIES:
+:CUSTOM_ID: uuid-3fc8f98c-4548-4223-a34b-0d1efeb0a72c
+:Char+: 云(7,2/4) 
+:GY_IDS+: uuid-32021026-3e9b-46d7-967b-a3563b36310b
+:PY+: yún     
+:OC+: ɢun     
+:MC+: ɦi̯un     
+:END: 
+**** P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / 
+:PROPERTIES:
+:CUSTOM_ID: uuid-c8e7e2fd-bc95-494f-9501-677a4938b51f
+:END:
+****** DEFINITION
+
+
+
+****** NOTES
+
+** BIBLIOGRAPHY
+bibliography:../core/tlsbib.bib

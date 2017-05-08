@@ -1,0 +1,506 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_073
+#+DATE: 2017-02-08T16:41:16+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 陘山之事	After the battle at Hsing-shan,
+:PROPERTIES:
+:SRC: ZGC 4.15.1; tr. Crump 1979 no. 88, p 92 Su Tai's letter
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:1a01:50::陘山 / 戰國策
+:CHARPOS: 50
+:END:
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-c406913b-a44f-4f07-96de-7ce25f8bc594 / EVENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 53
+:END:
+事@shì	[[tls:concept:EVENT::#uuid-c406913b-a44f-4f07-96de-7ce25f8bc594][EVENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / affair; (historical) event, historical episode (e.g. a battle); particularly: noteworthy event. Often: noteworty sacrificial event
+** 而以順子為質	and sending Shun-tzu to Chao as hostage.
+:PROPERTIES:
+:SRC: ZGC 4.15.1; tr. Crump 1979 no. 88, p 92 Su Tai's letter
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:1a05:1::而以 / 戰國策
+:CHARPOS: 1
+:END:
+*** 質@zhì
+:PROPERTIES:
+:CONCEPT: uuid-f3852ff1-f149-47b4-a72e-e256c16755a1 / HOSTAGE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+質@zhì	[[tls:concept:HOSTAGE::#uuid-f3852ff1-f149-47b4-a72e-e256c16755a1][HOSTAGE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / hostage
+** 乃案兵告於秦曰	called off his troops and said to the king of Ch'n:
+:PROPERTIES:
+:SRC: ZGC 4.15.1; tr. Crump 1979 no. 88, p 92 Su Tai's letter
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:1a07:1::乃案 / 戰國策
+:CHARPOS: 1
+:END:
+*** 案@àn
+:PROPERTIES:
+:CONCEPT: uuid-dca7ca25-89a8-44cf-a632-1068d00ff08a / STOP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+案@àn	[[tls:concept:STOP::#uuid-dca7ca25-89a8-44cf-a632-1068d00ff08a][STOP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cause to stay put> hold back, stop (army)
+** 齊以陽武賜弊邑	'Ch'i is giving me Yang-wu
+:PROPERTIES:
+:SRC: ZGC 4.15.1; tr. Crump 1979 no. 88, p 92 Su Tai's letter
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:1a08:50::「齊 / 戰國策
+:CHARPOS: 50
+:END:
+*** 賜@cì
+:PROPERTIES:
+:CONCEPT: uuid-1999aa16-3c41-4b5a-b75a-e281408c0f3a / GIVE
+:SYN-FUNC: uuid-b1da1095-72d1-4dc8-bd0c-f66788b53021
+:CHARPOS: 54
+:END:
+賜@cì	[[tls:concept:GIVE::#uuid-1999aa16-3c41-4b5a-b75a-e281408c0f3a][GIVE]]	V [[tls:syn-func::#uuid-b1da1095-72d1-4dc8-bd0c-f66788b53021][vttoN1:postvtoN2]] / give (a disposable item) to (a beneficiary)
+*** 弊邑@bìyì
+:PROPERTIES:
+:CONCEPT: uuid-97bd44a7-b70a-483d-9162-fec15e87166c / EGO
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 55
+:END:
+弊邑@bìyì	[[tls:concept:EGO::#uuid-97bd44a7-b70a-483d-9162-fec15e87166c][EGO]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / my humble (city), i.e. we, our party
+** 而納順子	and sending Shun-tzu as a pledge,
+:PROPERTIES:
+:SRC: ZGC 4.15.1; tr. Crump 1979 no. 88, p 92 Su Tai's letter
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:1a08:50::而納 / 戰國策
+:CHARPOS: 50
+:END:
+*** 納@nà
+:PROPERTIES:
+:CONCEPT: uuid-28458168-c4cb-401a-b148-c9327533c987 / HAND UP
+:SYN-FUNC: uuid-7c17e264-ca77-426f-9d42-84b3dc58f7d0
+:CHARPOS: 51
+:END:
+納@nà	[[tls:concept:HAND UP::#uuid-28458168-c4cb-401a-b148-c9327533c987][HAND UP]]	V [[tls:syn-func::#uuid-7c17e264-ca77-426f-9d42-84b3dc58f7d0][vttoN1(.+prep+N2)]] / submit; hand in; offer up, hand up (bribes etc)
+** 敢告下吏	I have taken the liberty of telling this to my officers.'
+:PROPERTIES:
+:SRC: ZGC 4.15.1; tr. Crump 1979 no. 88, p 92 Su Tai's letter
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:1a10:1::敢告 / 戰國策
+:CHARPOS: 1
+:END:
+*** 下@xià
+:PROPERTIES:
+:CONCEPT: uuid-a0a28415-fe5f-43e2-b1a3-73f4fe71341f / HUMBLE
+:SYN-FUNC: uuid-96118d5b-6adf-432e-ba77-f86d424ffa9f
+:CHARPOS: 3
+:END:
+下@xià	[[tls:concept:HUMBLE::#uuid-a0a28415-fe5f-43e2-b1a3-73f4fe71341f][HUMBLE]]	N [[tls:syn-func::#uuid-96118d5b-6adf-432e-ba77-f86d424ffa9f][n|vadN]] / of low rank; very low in rank; lower in rank, subordinate
+** 齊與大國救魏而倍約	'Once your state and Ch'i went to Wei's rescue together but Ch'i broke her treaty -
+:PROPERTIES:
+:SRC: ZGC 4.15.2; tr. Crump 1979 no. 88, p 92
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:2a03:1::「齊 / 戰國策
+:CHARPOS: 1
+:END:
+*** 大@dà
+:PROPERTIES:
+:CONCEPT: uuid-b69223c1-cadb-47a5-a8f0-730ad7c23ef7 / YOU
+:SYN-FUNC: uuid-3c7d56fa-ebb7-47a7-b21f-5cd8a37855ee
+:CHARPOS: 3
+:END:
+大@dà	[[tls:concept:YOU::#uuid-b69223c1-cadb-47a5-a8f0-730ad7c23ef7][YOU]]	 [[tls:syn-func::#uuid-3c7d56fa-ebb7-47a7-b21f-5cd8a37855ee][vadN{.post-npro2}]] / your distinguished 大國
+*** 倍@bèi
+:PROPERTIES:
+:CONCEPT: uuid-9f3fa6e3-5121-4f67-90e3-e3b2be52393b / OFFEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 8
+:END:
+倍@bèi	[[tls:concept:OFFEND::#uuid-9f3fa6e3-5121-4f67-90e3-e3b2be52393b][OFFEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / go against (persons or arguments); go back on (an agreement)　倍約
+** 大國不義	and your state informed my king
+:PROPERTIES:
+:SRC: ZGC 4.15.2; tr. Crump 1979 no. 88, p 92
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:2a05:1::大國 / 戰國策
+:CHARPOS: 1
+:END:
+*** 不義@bùyì
+:PROPERTIES:
+:CONCEPT: uuid-2b0a5138-7b25-4825-ae72-5442a0ca31eb / UNJUST
+:SYN-FUNC: uuid-050a35e8-fed5-4be4-9854-cddf5fe12a5a
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+不義@bùyì	[[tls:concept:UNJUST::#uuid-2b0a5138-7b25-4825-ae72-5442a0ca31eb][UNJUST]]	N [[tls:syn-func::#uuid-050a35e8-fed5-4be4-9854-cddf5fe12a5a][NPab{vt{NEG}+V(.adN)}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wrongful deed; unjust thing suffered; injustice; failure to act properly
+** 以告弊邑	of this infidelity.
+:PROPERTIES:
+:SRC: ZGC 4.15.2; tr. Crump 1979 no. 88, p 92
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:2a06:50::以告 / 戰國策
+:CHARPOS: 50
+:END:
+*** 弊邑@bìyì
+:PROPERTIES:
+:CONCEPT: uuid-bdcda5bb-763f-462f-ade9-3fd7c148defb / EGO
+:SYN-FUNC: uuid-55506408-602c-445c-82af-bddb183c89ac
+:CHARPOS: 52
+:END:
+弊邑@bìyì	[[tls:concept:EGO::#uuid-bdcda5bb-763f-462f-ade9-3fd7c148defb][EGO]]	N [[tls:syn-func::#uuid-55506408-602c-445c-82af-bddb183c89ac][NP{post-npro1.}postVt]] / us, our party
+** 以奉祭祀	to help Ch'in defray the cost of sacrifices for her aid.
+:PROPERTIES:
+:SRC: ZGC 4.15.2; tr. Crump 1979 no. 88, p 92
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:2a08:1::以奉 / 戰國策
+:CHARPOS: 1
+:END:
+*** 奉@fèng
+:PROPERTIES:
+:CONCEPT: uuid-3765a626-1161-47ef-b44d-3c3a95f5694c / HELP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-a87a8db3-535b-4085-911c-cb9549d9267e
+:CHARPOS: 2
+:END:
+奉@fèng	[[tls:concept:HELP::#uuid-3765a626-1161-47ef-b44d-3c3a95f5694c][HELP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-a87a8db3-535b-4085-911c-cb9549d9267e][N=act]]} / help with (an activity)
+*** 祭祀@jìsì
+:PROPERTIES:
+:CONCEPT: uuid-d90cbcfd-c746-49ef-bf6a-bef63eb235c4 / SACRIFICE
+:SYN-FUNC: uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+祭祀@jìsì	[[tls:concept:SACRIFICE::#uuid-d90cbcfd-c746-49ef-bf6a-bef63eb235c4][SACRIFICE]]	N [[tls:syn-func::#uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54][NPab{N1&N2}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / sacrificing of all kinds; the various required sacrifices
+** 今又案兵	At present you are resting your troops
+:PROPERTIES:
+:SRC: ZGC 4.15.2; tr. Crump 1979 no. 88, p 92
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:2a09:50::今又 / 戰國策
+:CHARPOS: 50
+:END:
+*** 案@àn
+:PROPERTIES:
+:CONCEPT: uuid-dca7ca25-89a8-44cf-a632-1068d00ff08a / STOP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+案@àn	[[tls:concept:STOP::#uuid-dca7ca25-89a8-44cf-a632-1068d00ff08a][STOP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cause to stay put> hold back, stop (army)
+** 非使臣之所知也	But all this is beyond the knowledge of an emissary.
+:PROPERTIES:
+:SRC: ZGC 4.15.2; tr. Crump 1979 no. 88, p 92
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:2a11:1::非使 / 戰國策
+:CHARPOS: 1
+:END:
+*** 使@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-4ba57b7e-baf2-49f1-91e1-2db1d28dc7f7 / SEND
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 2
+:END:
+使@shǐ	[[tls:concept:SEND::#uuid-4ba57b7e-baf2-49f1-91e1-2db1d28dc7f7][SEND]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / sent-out
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-bf6a1211-f6b1-4433-80fc-539643fa7103 / UNDERSTAND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+知@zhī	[[tls:concept:UNDERSTAND::#uuid-bf6a1211-f6b1-4433-80fc-539643fa7103][UNDERSTAND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / understand properly; understand and respect properly; be sure of the workings (of something);
+** 請益甲四萬	I am here merely to offer you forty thousand armed troops.
+:PROPERTIES:
+:SRC: ZGC 4.15.2; tr. Crump 1979 no. 88, p 92
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:2a12:50::請益 / 戰國策
+:CHARPOS: 50
+:END:
+*** 甲@jiǎ
+:PROPERTIES:
+:CONCEPT: uuid-cda9069b-68dc-4090-95aa-ada52351c804 / SOLDIER
+:SYN-FUNC: uuid-20a87134-926d-4be7-8815-246c1f7a9ca7
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 52
+:END:
+甲@jiǎ	[[tls:concept:SOLDIER::#uuid-cda9069b-68dc-4090-95aa-ada52351c804][SOLDIER]]	 [[tls:syn-func::#uuid-20a87134-926d-4be7-8815-246c1f7a9ca7][n{adN}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / ZUO Xuan 2: armoured soldier; heavily armed soldier
+** 蘇代為齊獻書穰侯曰	On Ch'i's behalf Su Tai wrote to Marquis Jang:
+:PROPERTIES:
+:SRC: ZGC 4.15.3; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a01:1::蘇代 / 戰國策
+:CHARPOS: 1
+:END:
+*** 獻@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-7768654c-ccfb-4d46-8388-5cb50f8dbd44 / HAND UP
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 5
+:END:
+獻@xiàn	[[tls:concept:HAND UP::#uuid-7768654c-ccfb-4d46-8388-5cb50f8dbd44][HAND UP]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / hand (something N1) up to (someone N2 of higher status)
+** 臣聞往來之者言曰	'I had heard from persons travelling between Ch'i and Chao
+:PROPERTIES:
+:SRC: ZGC 4.15.3; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a02:50::「臣 / 戰國策
+:CHARPOS: 50
+:END:
+*** 往來@wǎnglái
+:PROPERTIES:
+:CONCEPT: uuid-46f29330-858d-4bc3-9b48-e77cdfb6568e / INTERACT
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 52
+:END:
+往來@wǎnglái	[[tls:concept:INTERACT::#uuid-46f29330-858d-4bc3-9b48-e77cdfb6568e][INTERACT]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / have social intercourse with (one another); go back and forth between (places)
+** 秦且益趙甲四萬人以伐齊	that Ch'in was about to reinforce Chao with forty thousand armoured men for her attack on Ch'i.
+:PROPERTIES:
+:SRC: ZGC 4.15.3; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a03:50::『秦 / 戰國策
+:CHARPOS: 50
+:END:
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-5fab57ea-9f23-4e94-b2c6-e8b4651d11b2 / INTEND
+:SYN-FUNC: uuid-697f41bc-30fe-498c-a714-7cdbcd06d898
+:CHARPOS: 58
+:END:
+以@yǐ	[[tls:concept:INTEND::#uuid-5fab57ea-9f23-4e94-b2c6-e8b4651d11b2][INTEND]]	V [[tls:syn-func::#uuid-697f41bc-30fe-498c-a714-7cdbcd06d898][vt+V1.postadV2]] / intending thereby to, in order to; in order to; so that one can
+** 臣竊必之弊邑之王曰	I convinced my king that this was not so by saying,
+:PROPERTIES:
+:SRC: ZGC 4.15.3; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a04:50::臣竊 / 戰國策
+:CHARPOS: 50
+:END:
+*** 弊邑@bìyì
+:PROPERTIES:
+:CONCEPT: uuid-3af0e87c-d57d-4305-b742-b4aaca5b172b / EGO
+:SYN-FUNC: uuid-9ad03661-3533-4b45-be94-98339dcd69bd
+:CHARPOS: 54
+:END:
+弊邑@bìyì	[[tls:concept:EGO::#uuid-3af0e87c-d57d-4305-b742-b4aaca5b172b][EGO]]	N [[tls:syn-func::#uuid-9ad03661-3533-4b45-be94-98339dcd69bd][NP{post-npro1.}adN]] / our (king etc)
+** 秦王明而熟於計	"The king of Ch'in is enlightened and conversant with strategy
+:PROPERTIES:
+:SRC: ZGC 4.15.3; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a05:50::『秦 / 戰國策
+:CHARPOS: 50
+:END:
+*** 熟@shóu
+:PROPERTIES:
+:CONCEPT: uuid-3f8fe1ea-e2bd-499e-9be1-9ddb01ce9c55 / KNOW
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 54
+:END:
+熟@shóu	[[tls:concept:KNOW::#uuid-3f8fe1ea-e2bd-499e-9be1-9ddb01ce9c55][KNOW]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / be thoroughly familiar
+** 夫三晉相結	In the first place because the only thing that ever united the Three Chin
+:PROPERTIES:
+:SRC: ZGC 4.15.4; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a09:1::夫三 / 戰國策
+:CHARPOS: 1
+:END:
+*** 結@jié
+:PROPERTIES:
+:CONCEPT: uuid-572bebc2-f1fc-4ad1-8bee-f9368dc8366a / COOPERATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+結@jié	[[tls:concept:COOPERATE::#uuid-572bebc2-f1fc-4ad1-8bee-f9368dc8366a][COOPERATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / keep close relations with, collaborate with
+** 秦之深讎也	was a deep enimity towards Ch'in.
+:PROPERTIES:
+:SRC: ZGC 4.15.4; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a10:50::秦之 / 戰國策
+:CHARPOS: 50
+:END:
+*** 深@shèn / 深@shēn
+:PROPERTIES:
+:CONCEPT: uuid-1c0c4ae0-b592-4f1f-8a74-c77ead58bf5e / INTENSELY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 52
+:END:
+深@shèn / 深@shēn	[[tls:concept:INTENSELY::#uuid-1c0c4ae0-b592-4f1f-8a74-c77ead58bf5e][INTENSELY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / profound, intense
+*** 讎@chóu
+:PROPERTIES:
+:CONCEPT: uuid-ad74b63d-27ee-4663-bce2-c41073307ef7 / HATE
+:SYN-FUNC: uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+讎@chóu	[[tls:concept:HATE::#uuid-ad74b63d-27ee-4663-bce2-c41073307ef7][HATE]]	N [[tls:syn-func::#uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1][nab.t]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / hatred for N
+** 三晉百背秦	Why, the three Chin have cheated and tricked Ch'in fully a hundred times,
+:PROPERTIES:
+:SRC: ZGC 4.15.4; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a11:50::三晉 / 戰國策
+:CHARPOS: 50
+:END:
+*** 背@bèi
+:PROPERTIES:
+:CONCEPT: uuid-1b90eb44-9996-4de2-8869-f757095a8358 / OFFEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+背@bèi	[[tls:concept:OFFEND::#uuid-1b90eb44-9996-4de2-8869-f757095a8358][OFFEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / revolt against, turn one's back on; go against; fail to conform to
+** 罷國也	is an exhausted country.
+:PROPERTIES:
+:SRC: ZGC 4.15.5; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a23:1::罷國 / 戰國策
+:CHARPOS: 1
+:END:
+*** 罷@pí / 疲@pí
+:PROPERTIES:
+:CONCEPT: uuid-11a3e882-f544-4f96-96d1-fc0cf47b8574 / TIRED
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+罷@pí / 疲@pí	[[tls:concept:TIRED::#uuid-11a3e882-f544-4f96-96d1-fc0cf47b8574][TIRED]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / worn-out, tired-out
+** 以天下擊之	Using a whole empirē22 to smite her
+:PROPERTIES:
+:SRC: ZGC 4.15.5; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a24:50::以天 / 戰國策
+:CHARPOS: 50
+:END:
+*** 擊@jī
+:PROPERTIES:
+:CONCEPT: uuid-53f00622-dd4e-4774-9eee-cf596def43ca / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+擊@jī	[[tls:concept:ATTACK::#uuid-53f00622-dd4e-4774-9eee-cf596def43ca][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / launch a vigorous attack on; strike out against
+** 譬猶以千鈞之弩潰癰也	would be like using bolts from a heavy crossbow to lance a pimple.
+:PROPERTIES:
+:SRC: ZGC 4.15.5; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a25:50::譬猶 / 戰國策
+:CHARPOS: 50
+:END:
+*** 弩@nǔ
+:PROPERTIES:
+:CONCEPT: uuid-0a9b85fe-f61a-46c4-b5ad-13d1286a4de1 / BOW
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 56
+:END:
+弩@nǔ	[[tls:concept:BOW::#uuid-0a9b85fe-f61a-46c4-b5ad-13d1286a4de1][BOW]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / cross-bow with release mechanism
+*** 潰@kuì
+:PROPERTIES:
+:CONCEPT: uuid-d5945e6d-24cd-4d32-a856-63343d284a15 / FLOOD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 57
+:END:
+潰@kuì	[[tls:concept:FLOOD::#uuid-d5945e6d-24cd-4d32-a856-63343d284a15][FLOOD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to burst out (a carbuncle etc)
+*** 癰@yōng
+:PROPERTIES:
+:CONCEPT: uuid-beb7caff-7a54-4b32-9ca6-f906875bc556 / ULCER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 58
+:END:
+癰@yōng	[[tls:concept:ULCER::#uuid-beb7caff-7a54-4b32-9ca6-f906875bc556][ULCER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / soft-skinned wet ulcer
+** 秦少出兵	If Ch'in were to send out too few troops,
+:PROPERTIES:
+:SRC: ZGC 4.15.6; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a28:1::秦少 / 戰國策
+:CHARPOS: 1
+:END:
+*** 少@shǎo
+:PROPERTIES:
+:CONCEPT: uuid-f99a086f-f506-4f02-812f-308016d017ce / FEW
+:SYN-FUNC: uuid-6c799c2c-5270-4aab-abd9-8b5253865818
+:SEM-FEAT: uuid-c65b2c3d-9d08-4c44-b958-ba9cd849f304
+:CHARPOS: 2
+:END:
+少@shǎo	[[tls:concept:FEW::#uuid-f99a086f-f506-4f02-812f-308016d017ce][FEW]]	V [[tls:syn-func::#uuid-6c799c2c-5270-4aab-abd9-8b5253865818][vad.VtoN]] {[[tls:sem-feat::#uuid-c65b2c3d-9d08-4c44-b958-ba9cd849f304][reference=object]]} / few objects N
+*** 兵@bīng
+:PROPERTIES:
+:CONCEPT: uuid-d9357f79-522b-4d08-b66b-9d428a9837be / SOLDIER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+兵@bīng	[[tls:concept:SOLDIER::#uuid-d9357f79-522b-4d08-b66b-9d428a9837be][SOLDIER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / soldier, a body of soldiers
+** 多出兵	If Ch'in sends too many,
+:PROPERTIES:
+:SRC: ZGC 4.15.6; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a30:1::多出 / 戰國策
+:CHARPOS: 1
+:END:
+*** 多@duō
+:PROPERTIES:
+:CONCEPT: uuid-d1deac79-3cc8-4170-b651-4d76fa344fb9 / MANY
+:SYN-FUNC: uuid-6c799c2c-5270-4aab-abd9-8b5253865818
+:SEM-FEAT: uuid-c65b2c3d-9d08-4c44-b958-ba9cd849f304
+:CHARPOS: 1
+:END:
+多@duō	[[tls:concept:MANY::#uuid-d1deac79-3cc8-4170-b651-4d76fa344fb9][MANY]]	V [[tls:syn-func::#uuid-6c799c2c-5270-4aab-abd9-8b5253865818][vad.VtoN]] {[[tls:sem-feat::#uuid-c65b2c3d-9d08-4c44-b958-ba9cd849f304][reference=object]]} / many of the object N; much of the object stuff
+** 則晉楚為制於秦	Chin and Ch'u would be under her control
+:PROPERTIES:
+:SRC: ZGC 4.15.6; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a31:50::則晉 / 戰國策
+:CHARPOS: 50
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-89268135-86d0-420c-a072-25ac47bf1872 / PASSIVE MARKER
+:SYN-FUNC: uuid-ebbe28ed-bdcc-468c-bc28-51ba2a7f215b
+:CHARPOS: 55
+:END:
+於@yú	[[tls:concept:PASSIVE MARKER::#uuid-89268135-86d0-420c-a072-25ac47bf1872][PASSIVE MARKER]]	V [[tls:syn-func::#uuid-ebbe28ed-bdcc-468c-bc28-51ba2a7f215b][vt{0}oN.postadV{PASS}]] / passivising particle: "by" 殺於人 "literally: was killed (the killing) being from/by someone else> be killed by someone else"
+** 則必不走於秦	will not run to Ch'in to make alliance
+:PROPERTIES:
+:SRC: ZGC 4.15.6; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a33:1::則必 / 戰國策
+:CHARPOS: 1
+:END:
+*** 走@zǒu
+:PROPERTIES:
+:CONCEPT: uuid-c9a4b6f9-9662-4fb9-b9df-a5a4ca4bfda5 / FLEE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 4
+:END:
+走@zǒu	[[tls:concept:FLEE::#uuid-c9a4b6f9-9662-4fb9-b9df-a5a4ca4bfda5][FLEE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / flee to, flee and seek refuge with
+** 且走晉楚	but to Chin and Ch'u instead.124
+:PROPERTIES:
+:SRC: ZGC 4.15.6; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a33:50::且走 / 戰國策
+:CHARPOS: 50
+:END:
+*** 走@zǒu
+:PROPERTIES:
+:CONCEPT: uuid-3388cea0-7ca8-4ee7-9f73-971af10efa3e / FLEE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+走@zǒu	[[tls:concept:FLEE::#uuid-3388cea0-7ca8-4ee7-9f73-971af10efa3e][FLEE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / run away towards; flee to
+** 齊割地以實晉楚	If Ch'i ceded territory to make certain of Chin and Ch'u,
+:PROPERTIES:
+:SRC: ZGC 4.15.7; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a34:1::齊割 / 戰國策
+:CHARPOS: 1
+:END:
+*** 割@gē
+:PROPERTIES:
+:CONCEPT: uuid-c73bf8e9-8e73-442d-b333-0077041fa198 / GIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 2
+:END:
+割@gē	[[tls:concept:GIVE::#uuid-c73bf8e9-8e73-442d-b333-0077041fa198][GIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / cut off (territory etc)> cede (territory to someone else)
+** 與出兵而懼其不反也	seizing the belly and bowels of the Three Chin with ease
+:PROPERTIES:
+:SRC: ZGC 4.15.8; tr. Crump 1979 no. 88, p 92, ed. Shanghaiguji p. 165
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_073:3a47:8::與出 / 戰國策
+:CHARPOS: 8
+:END:
+*** 懼@jù
+:PROPERTIES:
+:CONCEPT: uuid-319b404a-2767-4540-b05a-2845f1f1b60c / FEAR
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 12
+:END:
+懼@jù	[[tls:concept:FEAR::#uuid-319b404a-2767-4540-b05a-2845f1f1b60c][FEAR]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / be afraid that; be scared and worried by the fact that

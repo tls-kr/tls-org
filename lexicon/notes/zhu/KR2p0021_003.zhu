@@ -1,0 +1,85 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 郭店楚簡・五行 KR2p0021_003
+#+DATE: 2017-02-08T16:41:36+0900
+#+PROPERTY: COMMIT 9fcd10cd4fad60bb32ed7e96229a2e9d42f4dd50
+** 士有志於君子道	A freeman whose aspirations are directed towards the Way of the man of noble character
+:PROPERTIES:
+:SRC: WXP 3:1
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_003:00:0::士有 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 志@zhì
+:PROPERTIES:
+:CONCEPT: uuid-c46e9e03-a167-4885-b776-2ce77561ba1b / ASPIRATION
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 2
+:END:
+志@zhì	[[tls:concept:ASPIRATION::#uuid-c46e9e03-a167-4885-b776-2ce77561ba1b][ASPIRATION]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / one's high intent; one's aspirations; one's moral aspiration, one's highest ambition; one's main tendencyBUDDH: religious aspirations
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-6ea78f1e-ce69-4ef6-9ed4-5c5b06101d30 / GOOD
+:SYN-FUNC: uuid-14b56546-32fd-4321-8d73-3e4b18316c15
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 4
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-6ea78f1e-ce69-4ef6-9ed4-5c5b06101d30][GOOD]]	N [[tls:syn-func::#uuid-14b56546-32fd-4321-8d73-3e4b18316c15][NPadN]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / in modifying position 君子之道 [NOT: the Way of gentleman X]
+** 思不清不察	When one's reflections are not purified one will not gain precise insight;
+:PROPERTIES:
+:SRC: WXP 4:1
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_003:00:0::思不 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 精@jīng / 菁@jīng
+:PROPERTIES:
+:CONCEPT: uuid-fe02f8ad-5504-4ca7-a770-adae48c5b081 / EXCELLENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 0
+:END:
+精@jīng / 菁@jīng	[[tls:concept:EXCELLENT::#uuid-fe02f8ad-5504-4ca7-a770-adae48c5b081][EXCELLENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be of exquisite quality, of choice quality
+** 思不長不得	when one's reflections are not far-reaching one will not achieve one's aims;
+:PROPERTIES:
+:SRC: WXP 4:1
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_003:00:0::思不 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-7354003c-da58-44fe-aefd-c5240bd7a0b3 / ACHIEVE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 4
+:END:
+得@dé	[[tls:concept:ACHIEVE::#uuid-7354003c-da58-44fe-aefd-c5240bd7a0b3][ACHIEVE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / obtain [one's ends]> succeed, achieve one's aims; win success
+** 不形不安	if one does not gain one's proper shape one will not find deep stable equilibrium;
+:PROPERTIES:
+:SRC: WXP 4:1
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_003:00:0::不形 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 形@xíng
+:PROPERTIES:
+:CONCEPT: uuid-af7a32cd-3aad-4a01-ba75-791a201817ff / VISIBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 1
+:END:
+形@xíng	[[tls:concept:VISIBLE::#uuid-af7a32cd-3aad-4a01-ba75-791a201817ff][VISIBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become physically manifest, take physical shape
+** 不樂亡德	if one does not attain true joy one will remain without spiritual power.
+:PROPERTIES:
+:SRC: WXP 4:1
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_003:00:0::不樂 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 德@dé
+:PROPERTIES:
+:CONCEPT: uuid-1cdab186-9017-4847-a833-2ab92f47da4a / VIRTUE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 3
+:END:
+德@dé	[[tls:concept:VIRTUE::#uuid-1cdab186-9017-4847-a833-2ab92f47da4a][VIRTUE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / the highest form of virtue, true virtue, true inner power

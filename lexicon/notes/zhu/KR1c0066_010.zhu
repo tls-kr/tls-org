@@ -1,0 +1,2762 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 韓詩外傳 KR1c0066_010
+#+DATE: 2017-02-08T16:36:06+0900
+#+PROPERTY: COMMIT 164f34765d9bf1ce8324ab15491a7ce3600801ac
+** “曰何謂者也	"Who are you?"
+:PROPERTIES:
+:SRC: HSWZ 10.01.01; tr. Hightower 1951, p.317
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a02:8::“曰 / 韓詩外傳
+:CHARPOS: 8
+:END:
+*** 何謂者@héwèizhě
+:PROPERTIES:
+:CONCEPT: uuid-52e4cbd0-1dba-471b-b35e-f95772c5262d / WHO
+:SYN-FUNC: uuid-7d18edf6-8cf7-47e9-a591-158f938748d0
+:CHARPOS: 10
+:END:
+何謂者@héwèizhě	[[tls:concept:WHO::#uuid-52e4cbd0-1dba-471b-b35e-f95772c5262d][WHO]]	N [[tls:syn-func::#uuid-7d18edf6-8cf7-47e9-a591-158f938748d0][NPpro{PRED}]] / who?
+** 叟年幾何	"What is your age, old man?"
+:PROPERTIES:
+:SRC: HSWZ 10.01.01; tr. Hightower 1951, p.317
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a06:1::「叟 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 叟@sǒu
+:PROPERTIES:
+:CONCEPT: uuid-264cad52-6128-48d4-964a-d44de119649c / YOU
+:SYN-FUNC: uuid-14095c56-f732-45e5-81ec-6ca7c914c8d2
+:CHARPOS: 1
+:END:
+叟@sǒu	[[tls:concept:YOU::#uuid-264cad52-6128-48d4-964a-d44de119649c][YOU]]	 [[tls:syn-func::#uuid-14095c56-f732-45e5-81ec-6ca7c914c8d2][n{post=npro}]] / you, venerable Sir
+** 人民是寶	and the people valuable."
+:PROPERTIES:
+:SRC: HSWZ 10.01.03; tr. Hightower 1951, p.317f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a20:1::人民 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 人民@rénmín
+:PROPERTIES:
+:CONCEPT: uuid-24c10756-8e4a-4761-88ca-519a12a2555f / PEOPLE
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+人民@rénmín	[[tls:concept:PEOPLE::#uuid-24c10756-8e4a-4761-88ca-519a12a2555f][PEOPLE]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / population; the population at large; human beings, humankind
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-da1433e1-39dd-46f0-acbc-f731801c654e / PRECIOUS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-da1433e1-39dd-46f0-acbc-f731801c654e][PRECIOUS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be precious
+** 善哉祝乎	"An excellent wish.
+:PROPERTIES:
+:SRC: HSWZ 10.01.03; tr. Hightower 1951, p.317f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a22:1::「善 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 哉@zāi
+:PROPERTIES:
+:CONCEPT: uuid-6eeada50-7cc7-4f05-b5c8-ac30476bd5dd / EXCLAMATORY PARTICLE
+:SYN-FUNC: uuid-cb01e2c5-710e-4334-953c-b72c8a001dd6
+:CHARPOS: 2
+:END:
+哉@zāi	[[tls:concept:EXCLAMATORY PARTICLE::#uuid-6eeada50-7cc7-4f05-b5c8-ac30476bd5dd][EXCLAMATORY PARTICLE]]	P [[tls:syn-func::#uuid-cb01e2c5-710e-4334-953c-b72c8a001dd6][ppostadV.+N{SUBJ}]] / exclamatory particle
+*** 祝@zhù
+:PROPERTIES:
+:CONCEPT: uuid-92172d01-1361-4987-bb75-a0a8cf39e957 / BLESS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+祝@zhù	[[tls:concept:BLESS::#uuid-92172d01-1361-4987-bb75-a0a8cf39e957][BLESS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / blessing
+** 賢者在側	May there be sages by his side,
+:PROPERTIES:
+:SRC: HSWZ 10.01.04; tr. Hightower 1951, p.318
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a28:11::賢者 / 韓詩外傳
+:CHARPOS: 11
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-ade64b9b-f16b-4b7f-851f-d2b6eb60d48d / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 11
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-ade64b9b-f16b-4b7f-851f-d2b6eb60d48d][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a worthy; any worthy; any worthies; worthies of any kind
+*** 側@cè
+:PROPERTIES:
+:CONCEPT: uuid-228f4508-d5f9-4ead-948a-d3f74262cf47 / SIDE
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 14
+:END:
+側@cè	[[tls:concept:SIDE::#uuid-228f4508-d5f9-4ead-948a-d3f74262cf47][SIDE]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / beside the contextually determinate N, =其側
+** 善哉祝乎	"An excellent wish!
+:PROPERTIES:
+:SRC: HSWZ 10.01.04; tr. Hightower 1951, p.318
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a31:1::「善 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 哉@zāi
+:PROPERTIES:
+:CONCEPT: uuid-6eeada50-7cc7-4f05-b5c8-ac30476bd5dd / EXCLAMATORY PARTICLE
+:SYN-FUNC: uuid-cb01e2c5-710e-4334-953c-b72c8a001dd6
+:CHARPOS: 2
+:END:
+哉@zāi	[[tls:concept:EXCLAMATORY PARTICLE::#uuid-6eeada50-7cc7-4f05-b5c8-ac30476bd5dd][EXCLAMATORY PARTICLE]]	P [[tls:syn-func::#uuid-cb01e2c5-710e-4334-953c-b72c8a001dd6][ppostadV.+N{SUBJ}]] / exclamatory particle
+*** 祝@zhù
+:PROPERTIES:
+:CONCEPT: uuid-92172d01-1361-4987-bb75-a0a8cf39e957 / BLESS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+祝@zhù	[[tls:concept:BLESS::#uuid-92172d01-1361-4987-bb75-a0a8cf39e957][BLESS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / blessing
+** 無使群臣百姓得罪於吾君	"May his ministers and people not offend against my Prince,
+:PROPERTIES:
+:SRC: HSWZ 10.01.05; tr. Hightower 1951, p.318
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a37:1::「無 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 得罪@dézuì
+:PROPERTIES:
+:CONCEPT: uuid-f86016e7-658c-48d4-8494-722b6b8cec9e / OFFEND
+:SYN-FUNC: uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c
+:CHARPOS: 7
+:END:
+得罪@dézuì	[[tls:concept:OFFEND::#uuid-f86016e7-658c-48d4-8494-722b6b8cec9e][OFFEND]]	V [[tls:syn-func::#uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c][VPt+prep+N]] / fall foul of, commit a crime against
+** 邦人潸然而涕下	The man burst into tears and said,
+:PROPERTIES:
+:SRC: HSWZ 10.01.06; tr. Hightower 1951, p.318
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a43:1::邦人 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 涕@tì / 涕@tǐ
+:PROPERTIES:
+:CONCEPT: uuid-23d4d506-fa69-4d59-9b99-8e182e12187e / TEARS
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 6
+:END:
+涕@tì / 涕@tǐ	[[tls:concept:TEARS::#uuid-23d4d506-fa69-4d59-9b99-8e182e12187e][TEARS]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / tears (functioning as a subject)
+** 父乃赦之	after which his father will forgive him.
+:PROPERTIES:
+:SRC: HSWZ 10.01.06; tr. Hightower 1951, p.318
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a49:1::父乃 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 赦@shè
+:PROPERTIES:
+:CONCEPT: uuid-40d633f8-8186-41e1-8160-dd7464557e93 / FORGIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+赦@shè	[[tls:concept:FORGIVE::#uuid-40d633f8-8186-41e1-8160-dd7464557e93][FORGIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / forgive (a person or a crime)
+** 臣得罪於君	If a subject offend against his prince
+:PROPERTIES:
+:SRC: HSWZ 10.01.06; tr. Hightower 1951, p.318
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a50:50::臣得 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 得罪@dézuì
+:PROPERTIES:
+:CONCEPT: uuid-f86016e7-658c-48d4-8494-722b6b8cec9e / OFFEND
+:SYN-FUNC: uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c
+:CHARPOS: 51
+:END:
+得罪@dézuì	[[tls:concept:OFFEND::#uuid-f86016e7-658c-48d4-8494-722b6b8cec9e][OFFEND]]	V [[tls:syn-func::#uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c][VPt+prep+N]] / fall foul of, commit a crime against
+** 昔者桀得罪於臣也	These were princes who offended against their] subjects.
+:PROPERTIES:
+:SRC: HSWZ 10.01.07; tr. Hightower 1951, p.318
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a53:1::昔者 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 得罪@dézuì
+:PROPERTIES:
+:CONCEPT: uuid-f86016e7-658c-48d4-8494-722b6b8cec9e / OFFEND
+:SYN-FUNC: uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c
+:CHARPOS: 4
+:END:
+得罪@dézuì	[[tls:concept:OFFEND::#uuid-f86016e7-658c-48d4-8494-722b6b8cec9e][OFFEND]]	V [[tls:syn-func::#uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c][VPt+prep+N]] / fall foul of, commit a crime against
+** 至今未有為謝也	Down to the present [such] have never had anyone to ask pardon on their behalf."
+:PROPERTIES:
+:SRC: HSWZ 10.01.07; tr. Hightower 1951, p.318
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a54:50::至今 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 謝@xiè
+:PROPERTIES:
+:CONCEPT: uuid-e4bb8493-2081-4e0e-99bf-3f118abc0bf6 / APOLOGISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+謝@xiè	[[tls:concept:APOLOGISE::#uuid-e4bb8493-2081-4e0e-99bf-3f118abc0bf6][APOLOGISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / beg pardon; offer one's apologies, apologise; apologise for one's misdeeds
+** 善哉	"Good!
+:PROPERTIES:
+:SRC: HSWZ 10.01.07; tr. Hightower 1951, p.318
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a56:1::「善 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 哉@zāi
+:PROPERTIES:
+:CONCEPT: uuid-17270c3c-1e9d-4b0e-a3a0-107da335c428 / EXCLAMATORY PARTICLE
+:SYN-FUNC: uuid-bffce75b-0056-4cc7-a631-3b0ca1b749f9
+:CHARPOS: 2
+:END:
+哉@zāi	[[tls:concept:EXCLAMATORY PARTICLE::#uuid-17270c3c-1e9d-4b0e-a3a0-107da335c428][EXCLAMATORY PARTICLE]]	P [[tls:syn-func::#uuid-bffce75b-0056-4cc7-a631-3b0ca1b749f9][ppostadV(0)]] / exclamatory particle
+** 社稷之靈	and the spiritual power of the altars to Heaven and Earth
+:PROPERTIES:
+:SRC: HSWZ 10.01.07; tr. Hightower 1951, p.318
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a58:1::社稷 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 靈@líng
+:PROPERTIES:
+:CONCEPT: uuid-c10bcbb7-3315-4ff0-94b7-ec9daf110b9a / DEITY
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 4
+:END:
+靈@líng	[[tls:concept:DEITY::#uuid-c10bcbb7-3315-4ff0-94b7-ec9daf110b9a][DEITY]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / the soul of a deceased person (especially insofar as it is endowed with a supernatural efficacy); spirit; deity
+** 使寡人遇叟於此	that I got to meet you here."
+:PROPERTIES:
+:SRC: HSWZ 10.01.07; tr. Hightower 1951, p.318
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a59:50::使寡 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 於此@yúcǐ
+:PROPERTIES:
+:CONCEPT: uuid-5b7ae464-1b6a-4cce-90e8-c8a51891af84 / HERE
+:SYN-FUNC: uuid-6b54a95e-b366-4406-9a7a-5ba7087de4ab
+:CHARPOS: 55
+:END:
+於此@yúcǐ	[[tls:concept:HERE::#uuid-5b7ae464-1b6a-4cce-90e8-c8a51891af84][HERE]]	V [[tls:syn-func::#uuid-6b54a95e-b366-4406-9a7a-5ba7087de4ab][VPpostV]] / in this place, here
+** 扶而載之	He helped him [into his chariot] and rode off with him,
+:PROPERTIES:
+:SRC: HSWZ 10.01.08; tr. Hightower 1951, p.318f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a60:50::扶而 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 載@zài
+:PROPERTIES:
+:CONCEPT: uuid-e9870c73-54e5-412d-9466-49cc0a2ebe59 / TRANSPORT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+載@zài	[[tls:concept:TRANSPORT::#uuid-e9870c73-54e5-412d-9466-49cc0a2ebe59][TRANSPORT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / load into a vehicle; load up; transport, bring along; take along in a vehicle
+** 自御以歸	driving the chariot himself on the way back.
+:PROPERTIES:
+:SRC: HSWZ 10.01.08; tr. Hightower 1951, p.318f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a61:50::自御 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-f6841059-ed39-40d9-a595-5df634040bd3 / PERSONALLY
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:CHARPOS: 50
+:END:
+自@zì	[[tls:concept:PERSONALLY::#uuid-f6841059-ed39-40d9-a595-5df634040bd3][PERSONALLY]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] / oneself, in person; by oneself (Perhaps this should be npro+V[PRED]. I do not know how one would argue one way or the other.]
+)
+** 亦遇之於是	but also to this meeting.
+:PROPERTIES:
+:SRC: HSWZ 10.01.08; tr. Hightower 1951, p.318f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:1a67:1::亦遇 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 於是@yúshì
+:PROPERTIES:
+:CONCEPT: uuid-f9f844a9-80a5-4f9c-b0bc-a2b8080b3aef / HERE
+:SYN-FUNC: uuid-0b46d59e-9906-4ab8-887b-12a0ee8244ae
+:CHARPOS: 4
+:END:
+於是@yúshì	[[tls:concept:HERE::#uuid-f9f844a9-80a5-4f9c-b0bc-a2b8080b3aef][HERE]]	V [[tls:syn-func::#uuid-0b46d59e-9906-4ab8-887b-12a0ee8244ae][VPpostadV]] / in this place
+** 決獄折中	In deciding lawsuits equitably
+:PROPERTIES:
+:SRC: HSWZ 10.02.01; tr. Hightower 1951, p.319
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:2a09:1::決獄 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 決@jué
+:PROPERTIES:
+:CONCEPT: uuid-21167bca-e426-4d55-9c93-0333b2f03cc1 / DECIDE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+決@jué	[[tls:concept:DECIDE::#uuid-21167bca-e426-4d55-9c93-0333b2f03cc1][DECIDE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / reach a conclusion on, reach a legal decision on[decide on; determine]
+*** 獄@yù
+:PROPERTIES:
+:CONCEPT: uuid-5def6ee2-1b18-4c23-a86d-b127269c97d1 / LITIGATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+獄@yù	[[tls:concept:LITIGATE::#uuid-5def6ee2-1b18-4c23-a86d-b127269c97d1][LITIGATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / litigation; criminal law case; trial; criminal procedure 獄決罪定
+** 於是里鳧須造見曰	Whereupon Li Fu-hsu came to him for an audience, saying,
+:PROPERTIES:
+:SRC: HSWZ 10.03.02; tr. Hightower 1951, p.320
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:3a10:1::於是 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 於是@yúshì
+:PROPERTIES:
+:CONCEPT: uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28 / THEREUPON
+:SYN-FUNC: uuid-fc393db1-993e-431d-9540-bc9fde4945d4
+:CHARPOS: 1
+:END:
+於是@yúshì	[[tls:concept:THEREUPON::#uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28][THEREUPON]]	V [[tls:syn-func::#uuid-fc393db1-993e-431d-9540-bc9fde4945d4][VPadS1.postS2]] / At that point, Whereupon; at that time; at this time (remarkably often after direct speeech: having said this,...; then; at that point, at this juncture; at this stage (in a text); and then; subsequently
+*** 造見@zàojiàn
+:PROPERTIES:
+:CONCEPT: uuid-579f3a88-9648-4fe7-9517-abd227e39a56 / VISIT
+:SYN-FUNC: uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 6
+:END:
+造見@zàojiàn	[[tls:concept:VISIT::#uuid-579f3a88-9648-4fe7-9517-abd227e39a56][VISIT]]	V [[tls:syn-func::#uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d][VPt(oN)]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / go and visit a contextually determinate person
+)
+** 君反國而民皆自危	Now that you have been restored to your state, the people are all afraid for themselves.
+:PROPERTIES:
+:SRC: HSWZ 10.03.04; tr. Hightower 1951, p.320f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:3a28:1::君反 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 危@wēi
+:PROPERTIES:
+:CONCEPT: uuid-cfc45a9d-b5b7-4b43-b5a0-6fea6804877f / DANGER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-a4fecd25-28f7-42ff-9289-a85c54845602
+:CHARPOS: 8
+:END:
+危@wēi	[[tls:concept:DANGER::#uuid-cfc45a9d-b5b7-4b43-b5a0-6fea6804877f][DANGER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-a4fecd25-28f7-42ff-9289-a85c54845602][putative.reflex.自]]} / consider (oneself) to be in danger
+** 避於深山	and fled to the depths of the mountains,
+:PROPERTIES:
+:SRC: HSWZ 10.03.05; tr. Hightower 1951, p.321
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:3a30:1::避於 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 深@shèn / 深@shēn
+:PROPERTIES:
+:CONCEPT: uuid-d68337ab-f776-4433-a9d3-d88d96fa8d2d / DEEP
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 3
+:END:
+深@shèn / 深@shēn	[[tls:concept:DEEP::#uuid-d68337ab-f776-4433-a9d3-d88d96fa8d2d][DEEP]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / unfathomable; endless (mountains etc)
+** 然君誠赦之罪	But if Your Highness were sincerely to forgive my crime
+:PROPERTIES:
+:SRC: HSWZ 10.03.06; tr. Hightower 1951, p.321
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:3a37:1::然君 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 赦@shè
+:PROPERTIES:
+:CONCEPT: uuid-40d633f8-8186-41e1-8160-dd7464557e93 / FORGIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+赦@shè	[[tls:concept:FORGIVE::#uuid-40d633f8-8186-41e1-8160-dd7464557e93][FORGIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / forgive (a person or a crime)
+** 人自安矣	and men would be at ease about themselves."
+:PROPERTIES:
+:SRC: HSWZ 10.03.06; tr. Hightower 1951, p.321
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:3a41:1::人自 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 自安@zìān
+:PROPERTIES:
+:CONCEPT: uuid-9f037765-8d84-4cd6-ad6e-7398e73d353c / HAPPY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 2
+:END:
+自安@zìān	[[tls:concept:HAPPY::#uuid-9f037765-8d84-4cd6-ad6e-7398e73d353c][HAPPY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / be at happily comfortable with oneself
+*** 安@ān
+:PROPERTIES:
+:CONCEPT: uuid-c0a1c685-4fe0-4692-aa18-5ba48ea95023 / COMFORTABLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-a4fecd25-28f7-42ff-9289-a85c54845602
+:CHARPOS: 3
+:END:
+安@ān	[[tls:concept:COMFORTABLE::#uuid-c0a1c685-4fe0-4692-aa18-5ba48ea95023][COMFORTABLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-a4fecd25-28f7-42ff-9289-a85c54845602][putative.reflex.自]]} / feel (oneself) to be at ease
+** 於是文公大悅	Whereupon Duke Wen, being greatly pleased,
+:PROPERTIES:
+:SRC: HSWZ 10.03.06; tr. Hightower 1951, p.321
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:3a42:50::於是 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 於是@yúshì
+:PROPERTIES:
+:CONCEPT: uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28 / THEREUPON
+:SYN-FUNC: uuid-fc393db1-993e-431d-9540-bc9fde4945d4
+:CHARPOS: 50
+:END:
+於是@yúshì	[[tls:concept:THEREUPON::#uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28][THEREUPON]]	V [[tls:syn-func::#uuid-fc393db1-993e-431d-9540-bc9fde4945d4][VPadS1.postS2]] / At that point, Whereupon; at that time; at this time (remarkably often after direct speeech: having said this,...; then; at that point, at this juncture; at this stage (in a text); and then; subsequently
+)
+** 斯素服執策	dressed in plain clothes and holding their tablets,
+:PROPERTIES:
+:SRC: HSWZ 10.04.01; tr. Hightower 1951, p.321f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:4a06:1::斯素 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 斯@sī
+:PROPERTIES:
+:CONCEPT: uuid-e5ac50ab-7bd5-446d-9e1a-1ff5cc72ecf6 / THEN
+:SYN-FUNC: uuid-de56e4a3-4283-4e36-92c2-96df86897260
+:CHARPOS: 1
+:END:
+斯@sī	[[tls:concept:THEN::#uuid-e5ac50ab-7bd5-446d-9e1a-1ff5cc72ecf6][THEN]]	P [[tls:syn-func::#uuid-de56e4a3-4283-4e36-92c2-96df86897260][padV.postN{SUBJ}:postS]] / then (after the subject of the apodosis, like zé 則）
+)
+** 永主天命	May you eternally rule by the Heaven Mandate.
+:PROPERTIES:
+:SRC: HSWZ 10.04.02; tr. Hightower 1951, p.322
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:4a13:1::永主 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 永@yǒng
+:PROPERTIES:
+:CONCEPT: uuid-59079aee-3866-46e6-b2cb-1e5d391e1f2e / ENDURING
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+永@yǒng	[[tls:concept:ENDURING::#uuid-59079aee-3866-46e6-b2cb-1e5d391e1f2e][ENDURING]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / for a fairly long time; all the time CC 永歎; forever
+*** 主@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-264c490c-9baf-4180-842d-84f0f6a2d1ec / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 2
+:END:
+主@zhǔ	[[tls:concept:GOVERN::#uuid-264c490c-9baf-4180-842d-84f0f6a2d1ec][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be in charge of (things not literally governed); preside over
+*** 天命@tiānmìng
+:PROPERTIES:
+:CONCEPT: uuid-e623b5bd-7324-4b8b-a7dd-a81c392a7cf7 / APPOINT
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+天命@tiānmìng	[[tls:concept:APPOINT::#uuid-e623b5bd-7324-4b8b-a7dd-a81c392a7cf7][APPOINT]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / appointment by Heaven, Mandate of Heaven to a ruler
+** 畏之無疆	May you be infinitely in awe of it.
+:PROPERTIES:
+:SRC: HSWZ 10.04.02; tr. Hightower 1951, p.322
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:4a14:50::畏之 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 疆@jiāng
+:PROPERTIES:
+:CONCEPT: uuid-ac23f873-ecf9-4709-a338-70f34745ebff / LIMIT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 53
+:END:
+疆@jiāng	[[tls:concept:LIMIT::#uuid-ac23f873-ecf9-4709-a338-70f34745ebff][LIMIT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / limit, bounds 無疆 "without bounds"
+** 厥躬無敢寧	May your person dare not to rest."
+:PROPERTIES:
+:SRC: HSWZ 10.04.02; tr. Hightower 1951, p.322
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:4a15:50::厥躬 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 躬@gōng
+:PROPERTIES:
+:CONCEPT: uuid-001dc972-c950-463c-b5f1-4c453b232c7d / SELF
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 51
+:END:
+躬@gōng	[[tls:concept:SELF::#uuid-001dc972-c950-463c-b5f1-4c453b232c7d][SELF]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / person; formal or poetic: his person
+** 夙夜伊祝	"May you night and day offer prayers.
+:PROPERTIES:
+:SRC: HSWZ 10.04.03; tr. Hightower 1951, p.322
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:4a19:1::夙夜 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 祝@zhù
+:PROPERTIES:
+:CONCEPT: uuid-2fdd5e96-4dbb-4015-9a5c-cedf7783400f / PRAY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+祝@zhù	[[tls:concept:PRAY::#uuid-2fdd5e96-4dbb-4015-9a5c-cedf7783400f][PRAY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / conduct shamanistic incantations to win favours from the gods and spirits, invoke the spirits; impersonate the dead (on sacrificial or ritual occasions)
+** 厥躬無怠	May your person be not idle.
+:PROPERTIES:
+:SRC: HSWZ 10.04.03; tr. Hightower 1951, p.322
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:4a20:50::厥躬 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 躬@gōng
+:PROPERTIES:
+:CONCEPT: uuid-001dc972-c950-463c-b5f1-4c453b232c7d / SELF
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 51
+:END:
+躬@gōng	[[tls:concept:SELF::#uuid-001dc972-c950-463c-b5f1-4c453b232c7d][SELF]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / person; formal or poetic: his person
+** 萬民望之	May the ten thousand people look to you."
+:PROPERTIES:
+:SRC: HSWZ 10.04.03; tr. Hightower 1951, p.322
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:4a21:50::萬民 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 望@wàng / 望@(wáng)
+:PROPERTIES:
+:CONCEPT: uuid-63b7c332-85b0-4c64-97e5-0c8899fba014 / ADMIRE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+望@wàng / 望@(wáng)	[[tls:concept:ADMIRE::#uuid-63b7c332-85b0-4c64-97e5-0c8899fba014][ADMIRE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / admire from a distance; look up to admiringly from a distance; look up to and place one's hopes in
+** 得之自是	If he succeeds, he feels that he has done right,
+:PROPERTIES:
+:SRC: HSWZ 10.05.01; tr. Hightower 1951, p.322f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:5a03:1::得之 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-6342ace4-357e-448f-b0dd-75df786a6634 / TRUE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-a4fecd25-28f7-42ff-9289-a85c54845602
+:CHARPOS: 4
+:END:
+是@shì	[[tls:concept:TRUE::#uuid-6342ace4-357e-448f-b0dd-75df786a6634][TRUE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-a4fecd25-28f7-42ff-9289-a85c54845602][putative.reflex.自]]} / consider (oneself) as right, consider one's own opinions as true
+** 不得自是	and if he fails, he feels that he has done right.
+:PROPERTIES:
+:SRC: HSWZ 10.05.01; tr. Hightower 1951, p.322f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:5a04:50::不得 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-6342ace4-357e-448f-b0dd-75df786a6634 / TRUE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-a4fecd25-28f7-42ff-9289-a85c54845602
+:CHARPOS: 53
+:END:
+是@shì	[[tls:concept:TRUE::#uuid-6342ace4-357e-448f-b0dd-75df786a6634][TRUE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-a4fecd25-28f7-42ff-9289-a85c54845602][putative.reflex.自]]} / consider (oneself) as right, consider one's own opinions as true
+** 雖不獲年	Though he get no great yield from the year's harvest,
+:PROPERTIES:
+:SRC: HSWZ 10.05.01; tr. Hightower 1951, p.322f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:5a07:1::雖不 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 穫@huò / 獲@huò
+:PROPERTIES:
+:CONCEPT: uuid-40395a60-a196-4ed5-909a-4c889de01eff / REAP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+穫@huò / 獲@huò	[[tls:concept:REAP::#uuid-40395a60-a196-4ed5-909a-4c889de01eff][REAP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to harvest (grain)
+*** 年@nián
+:PROPERTIES:
+:CONCEPT: uuid-597aa7f4-f7e7-465b-8749-66f280c7f287 / HARVEST
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+年@nián	[[tls:concept:HARVEST::#uuid-597aa7f4-f7e7-465b-8749-66f280c7f287][HARVEST]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / OBI 4: in OBI: good harvest; Warring States: yearly harvest (good or bad) 豐年 "bumper harvest"; 2. year with good harvest
+** 載錫之光	And secured to him the glory [of his act].
+:PROPERTIES:
+:SRC: HSWZ 10.05.06; tr. Hightower 1951, p.324
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:5a49:1::載錫 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 錫@xī
+:PROPERTIES:
+:CONCEPT: uuid-07485dc0-12eb-406b-9d3f-d0771ce60fa5 / GIVE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 2
+:END:
+錫@xī	[[tls:concept:GIVE::#uuid-07485dc0-12eb-406b-9d3f-d0771ce60fa5][GIVE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / bestow (something N2) to (somebody N1) GONGYANG Xuan 12.3; ssj: 1642; tr. Malmqvist 1971: 184 錫之不毛之地， presents him with (a territory of) barren land
+** 亦有寶乎	"You certainly must have treasures?"
+:PROPERTIES:
+:SRC: HSWZ 10.06.01; tr. Hightower 1951, p.324
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:6a02:1::「亦 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024 / PRECIOUS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 3
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024][PRECIOUS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / precious possession; precious things; treasure of high personal, monetary, social or moral value 三寶
+** 寡人之所以為寶與王異	"I differ with Your Majesty in what I consider treasures to be.
+:PROPERTIES:
+:SRC: HSWZ 10.06.02; tr. Hightower 1951, p.324f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:6a10:1::「寡 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-0ed89176-fabe-44a0-b5b0-4bc53f21c46c / PRECIOUS
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 7
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-0ed89176-fabe-44a0-b5b0-4bc53f21c46c][PRECIOUS]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / most important thing, objectively most valuable thing 諸侯之寶三
+** 使之備盜賊	I had him oversee robberies, [[guard against bandits]]
+:PROPERTIES:
+:SRC: HSWZ 10.06.03; tr. Hightower 1951, p.325
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:6a24:1::使之 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 盜賊@dàozéi
+:PROPERTIES:
+:CONCEPT: uuid-7841b7a6-af9d-4210-bf92-1cd147515375 / VILLAIN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 4
+:END:
+盜賊@dàozéi	[[tls:concept:VILLAIN::#uuid-7841b7a6-af9d-4210-bf92-1cd147515375][VILLAIN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / bandits
+** 辭之懌矣	If your words were pleasing,
+:PROPERTIES:
+:SRC: HSWZ 10.06.04; tr. Hightower 1951, p.325
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:6a31:1::「辭 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 懌@yì
+:PROPERTIES:
+:CONCEPT: uuid-aab83ca7-0e46-4491-9791-43c6e1f90d12 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+懌@yì	[[tls:concept:HAPPY::#uuid-aab83ca7-0e46-4491-9791-43c6e1f90d12][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be happy, pleased; causing pleasure 不懌 "be displeased"
+** 遇神淵	He was passing through a haunted valley
+:PROPERTIES:
+:SRC: HSWZ 10.07.01; tr. Hightower 1951, p.325
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a04:1::遇神 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 淵@yuān
+:PROPERTIES:
+:CONCEPT: uuid-f7b05a85-e7c7-4f95-8edd-ab6a49d63930 / LAKE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+淵@yuān	[[tls:concept:LAKE::#uuid-f7b05a85-e7c7-4f95-8edd-ab6a49d63930][LAKE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / Northern speech: very deep pool; deep pond
+** 飲馬於此者	"If you let a horse drink here
+:PROPERTIES:
+:SRC: HSWZ 10.07.01; tr. Hightower 1951, p.325
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a08:1::「飲 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 飲@yìn
+:PROPERTIES:
+:CONCEPT: uuid-a6b48df3-c1ba-4035-aa15-5cb62b34d87c / FEED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+飲@yìn	[[tls:concept:FEED::#uuid-a6b48df3-c1ba-4035-aa15-5cb62b34d87c][FEED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / give something to drink (also to horses and dragons)
+*** 於此@yúcǐ
+:PROPERTIES:
+:CONCEPT: uuid-5b7ae464-1b6a-4cce-90e8-c8a51891af84 / HERE
+:SYN-FUNC: uuid-6b54a95e-b366-4406-9a7a-5ba7087de4ab
+:CHARPOS: 3
+:END:
+於此@yúcǐ	[[tls:concept:HERE::#uuid-5b7ae464-1b6a-4cce-90e8-c8a51891af84][HERE]]	V [[tls:syn-func::#uuid-6b54a95e-b366-4406-9a7a-5ba7087de4ab][VPpostV]] / in this place, here
+** 眇其左目	blinding his left eye.
+:PROPERTIES:
+:SRC: HSWZ 10.07.02; tr. Hightower 1951, p.325
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a18:1::眇其 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 眇@miǎo
+:PROPERTIES:
+:CONCEPT: uuid-162aeffe-f65c-4324-8d66-a067be068780 / BLIND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+眇@miǎo	[[tls:concept:BLIND::#uuid-162aeffe-f65c-4324-8d66-a067be068780][BLIND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to be blind; to blind
+** 夫天怨不全日	Now one with a grudge against Heaven does not leave the suns intact,
+:PROPERTIES:
+:SRC: HSWZ 10.07.04; tr. Hightower 1951, p.326
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a29:1::夫天 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 全@quán
+:PROPERTIES:
+:CONCEPT: uuid-1329f2d8-745a-4b24-b746-8bcf2b891f15 / SAFEGUARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 5
+:END:
+全@quán	[[tls:concept:SAFEGUARD::#uuid-1329f2d8-745a-4b24-b746-8bcf2b891f15][SAFEGUARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / (cause to be safe>) keep safe and unharmed, safeguard so as to keep intact
+** 人怨不旋踵	nor does one turn on his heel [and walk away] when he has been wronged by a man.
+:PROPERTIES:
+:SRC: HSWZ 10.07.04; tr. Hightower 1951, p.326
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a30:50::人怨 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 踵@zhǒng
+:PROPERTIES:
+:CONCEPT: uuid-15746bfa-fb46-4b7e-b2e5-029d4c32440f / HEEL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+踵@zhǒng	[[tls:concept:HEEL::#uuid-15746bfa-fb46-4b7e-b2e5-029d4c32440f][HEEL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / heel; also of shoe
+** 墓上振憤者不可勝數	Those giving vent to their grief at the grave were past counting.
+:PROPERTIES:
+:SRC: HSWZ 10.07.04; tr. Hightower 1951, p.326
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a34:1::墓上 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 墓@mù
+:PROPERTIES:
+:CONCEPT: uuid-ad30e0d3-645f-4ed4-aedc-6ea6442d4f9f / TOMB
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+墓@mù	[[tls:concept:TOMB::#uuid-ad30e0d3-645f-4ed4-aedc-6ea6442d4f9f][TOMB]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / grave; specifically: subterranean part of the tomb (on top of which trees may grow)
+*** 憤@fèn
+:PROPERTIES:
+:CONCEPT: uuid-63c04b60-cd60-48a4-8382-8c38079999f9 / ANGUISH
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+憤@fèn	[[tls:concept:ANGUISH::#uuid-63c04b60-cd60-48a4-8382-8c38079999f9][ANGUISH]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / anguish;pent-up anger
+** 今日我辱之人中	Today I put him to shame in the presence of others.
+:PROPERTIES:
+:SRC: HSWZ 10.07.05; tr. Hightower 1951, p.326
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a39:1::今日 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 辱@rǔ
+:PROPERTIES:
+:CONCEPT: uuid-5358c576-8e65-447d-a8ba-802e9dffd939 / HUMILIATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-5100e402-4cb5-4b99-929f-be674b3757d4
+:CHARPOS: 4
+:END:
+辱@rǔ	[[tls:concept:HUMILIATE::#uuid-5358c576-8e65-447d-a8ba-802e9dffd939][HUMILIATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-5100e402-4cb5-4b99-929f-be674b3757d4][N=human]]} / humiliate publicly; humiliate (by my presence)
+** 暮無閉門	This evening do not close the gate,
+:PROPERTIES:
+:SRC: HSWZ 10.07.05; tr. Hightower 1951, p.326
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a41:1::暮無 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 閉@bì
+:PROPERTIES:
+:CONCEPT: uuid-78904fa0-1461-4dba-abc9-785b9946d0c4 / SHUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+閉@bì	[[tls:concept:SHUT::#uuid-78904fa0-1461-4dba-abc9-785b9946d0c4][SHUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / close (door so as to let no one in); lock up, bolt; close (mouth); shut (one's eyes)
+** 寢無閉戶	nor the door [of my chamber] when I have gone to bed."
+:PROPERTIES:
+:SRC: HSWZ 10.07.05; tr. Hightower 1951, p.326
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a42:50::寢無 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 寢@qǐn
+:PROPERTIES:
+:CONCEPT: uuid-1fe02276-4006-4aa4-b74b-0a071da5670b / REST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+寢@qǐn	[[tls:concept:REST::#uuid-1fe02276-4006-4aa4-b74b-0a071da5670b][REST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / take a rest; go to rest; go to sleep
+*** 閉@bì
+:PROPERTIES:
+:CONCEPT: uuid-78904fa0-1461-4dba-abc9-785b9946d0c4 / SHUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+閉@bì	[[tls:concept:SHUT::#uuid-78904fa0-1461-4dba-abc9-785b9946d0c4][SHUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / close (door so as to let no one in); lock up, bolt; close (mouth); shut (one's eyes)
+** 暮不閉門	Not closing your gate [when you knew I would be coming]
+:PROPERTIES:
+:SRC: HSWZ 10.07.06; tr. Hightower 1951, p.326
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a49:1::暮不 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 閉@bì
+:PROPERTIES:
+:CONCEPT: uuid-78904fa0-1461-4dba-abc9-785b9946d0c4 / SHUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+閉@bì	[[tls:concept:SHUT::#uuid-78904fa0-1461-4dba-abc9-785b9946d0c4][SHUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / close (door so as to let no one in); lock up, bolt; close (mouth); shut (one's eyes)
+** 寢不閉戶	Not closing the door when you had gone to bed
+:PROPERTIES:
+:SRC: HSWZ 10.07.06; tr. Hightower 1951, p.326
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a51:1::寢不 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 寢@qǐn
+:PROPERTIES:
+:CONCEPT: uuid-1fe02276-4006-4aa4-b74b-0a071da5670b / REST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+寢@qǐn	[[tls:concept:REST::#uuid-1fe02276-4006-4aa4-b74b-0a071da5670b][REST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / take a rest; go to rest; go to sleep
+*** 閉@bì
+:PROPERTIES:
+:CONCEPT: uuid-78904fa0-1461-4dba-abc9-785b9946d0c4 / SHUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+閉@bì	[[tls:concept:SHUT::#uuid-78904fa0-1461-4dba-abc9-785b9946d0c4][SHUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / close (door so as to let no one in); lock up, bolt; close (mouth); shut (one's eyes)
+** 嘻	"
+:PROPERTIES:
+:SRC: HSWZ 10.07.08; tr. Hightower 1951, p.327
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a64:1::「嘻 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 嘻@xī / 譆@xī
+:PROPERTIES:
+:CONCEPT: uuid-869aa087-8fcb-42a4-aeb3-2291f9060164 / EXCLAMATORY PARTICLE
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:CHARPOS: 1
+:END:
+嘻@xī / 譆@xī	[[tls:concept:EXCLAMATORY PARTICLE::#uuid-869aa087-8fcb-42a4-aeb3-2291f9060164][EXCLAMATORY PARTICLE]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] / ah! exclamatory particle expressing surprise, sometimes mixed with delight
+** 所不若者	There is only this man in the whole empire
+:PROPERTIES:
+:SRC: HSWZ 10.07.08; tr. Hightower 1951, p.327
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a65:50::所不 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 若@ruò
+:PROPERTIES:
+:CONCEPT: uuid-472fa9ea-6457-4b30-9aa2-9c54e8554801 / EQUAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+若@ruò	[[tls:concept:EQUAL::#uuid-472fa9ea-6457-4b30-9aa2-9c54e8554801][EQUAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / come up to the standards of, be as good as
+** 天下惟此子爾	whom I am not equal to."
+:PROPERTIES:
+:SRC: HSWZ 10.07.08; tr. Hightower 1951, p.327
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a66:50::天下 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 惟@wéi / 唯@wéi / 隹@zhuī
+:PROPERTIES:
+:CONCEPT: uuid-2f0af914-4522-4397-bd50-a2da935d4b81 / COPULA
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:CHARPOS: 52
+:END:
+惟@wéi / 唯@wéi / 隹@zhuī	[[tls:concept:COPULA::#uuid-2f0af914-4522-4397-bd50-a2da935d4b81][COPULA]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] / be N; be N (and none/nothing else)
+** 辭之懌矣	If your words were pleasing,
+:PROPERTIES:
+:SRC: HSWZ 10.07.09; tr. Hightower 1951, p.327
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:7a73:1::「辭 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 懌@yì
+:PROPERTIES:
+:CONCEPT: uuid-aab83ca7-0e46-4491-9791-43c6e1f90d12 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+懌@yì	[[tls:concept:HAPPY::#uuid-aab83ca7-0e46-4491-9791-43c6e1f90d12][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be happy, pleased; causing pleasure 不懌 "be displeased"
+** 鴻玃笞潰失	the goose escaped from its basket.
+:PROPERTIES:
+:SRC: HSWZ 10.08.01; tr. Hightower 1951, p.327
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:8a05:1::鴻玃 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 筥@jǔ
+:PROPERTIES:
+:CONCEPT: uuid-8ce5c13d-f26c-4980-a38b-1d805ba34ca0 / FOOD BASKET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+筥@jǔ	[[tls:concept:FOOD BASKET::#uuid-8ce5c13d-f26c-4980-a38b-1d805ba34ca0][FOOD BASKET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / SHI 291: archaic term: round covered bamboo basket for carrying food, larger than the dān 簞
+** 玃笞潰失	but it escaped from the basket.
+:PROPERTIES:
+:SRC: HSWZ 10.08.02; tr. Hightower 1951, p.327f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:8a11:1::玃笞 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 筥@jǔ
+:PROPERTIES:
+:CONCEPT: uuid-8ce5c13d-f26c-4980-a38b-1d805ba34ca0 / FOOD BASKET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+筥@jǔ	[[tls:concept:FOOD BASKET::#uuid-8ce5c13d-f26c-4980-a38b-1d805ba34ca0][FOOD BASKET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / SHI 291: archaic term: round covered bamboo basket for carrying food, larger than the dān 簞
+** 解結申屈	loosen knots and straighten out the crooked.
+:PROPERTIES:
+:SRC: HSWZ 10.08.04; tr. Hightower 1951, p.328
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:8a24:1::解結 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 解@jiě
+:PROPERTIES:
+:CONCEPT: uuid-281cd6fe-158e-487c-8572-0c1c914ef044 / UNTIE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+解@jiě	[[tls:concept:UNTIE::#uuid-281cd6fe-158e-487c-8572-0c1c914ef044][UNTIE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / untie
+*** 結@jié
+:PROPERTIES:
+:CONCEPT: uuid-c48b5793-8642-461b-9c0f-c003d17671b7 / KNOT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 2
+:END:
+結@jié	[[tls:concept:KNOT::#uuid-c48b5793-8642-461b-9c0f-c003d17671b7][KNOT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / what is tied up, a knot
+** 辭之懌矣	If your words were pleasing,
+:PROPERTIES:
+:SRC: HSWZ 10.08.04; tr. Hightower 1951, p.328
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:8a27:1::「辭 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 懌@yì
+:PROPERTIES:
+:CONCEPT: uuid-aab83ca7-0e46-4491-9791-43c6e1f90d12 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+懌@yì	[[tls:concept:HAPPY::#uuid-aab83ca7-0e46-4491-9791-43c6e1f90d12][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be happy, pleased; causing pleasure 不懌 "be displeased"
+** 10.9扁鵲過虢侯	Pien-ch'iao went to see the Marquis of Kuo.
+:PROPERTIES:
+:SRC: HSWZ 10.09.01; tr. Hightower 1951, p.328f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a01:50::10 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 扁鵲@biǎnquè
+:PROPERTIES:
+:CONCEPT: uuid-2bc472c6-e721-4e5a-84c2-6502e849a662 / DOCTORS
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 54
+:END:
+扁鵲@biǎnquè	[[tls:concept:DOCTORS::#uuid-2bc472c6-e721-4e5a-84c2-6502e849a662][DOCTORS]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / mythical doctor of antiquity, on whom there is a biography in SHIJI
+** 扁鵲造宮	Pien-ch'iao went to the palace [gate]
+:PROPERTIES:
+:SRC: HSWZ 10.09.01; tr. Hightower 1951, p.328f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a03:1::扁鵲 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 造@zào
+:PROPERTIES:
+:CONCEPT: uuid-548edbe0-101a-4d2c-99ab-6f64d035ffa4 / GO TO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+造@zào	[[tls:concept:GO TO::#uuid-548edbe0-101a-4d2c-99ab-6f64d035ffa4][GO TO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / MENG: go to a place (often to attend court or pay a visit to a superior); reach (a place)
+** 吾聞上古醫曰弟父	"I have heard that there was a physician of highest antiquity named Ti-fu.
+:PROPERTIES:
+:SRC: HSWZ 10.09.02; tr. Hightower 1951, p.329
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a12:1::「吾 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 醫@yī
+:PROPERTIES:
+:CONCEPT: uuid-e093756d-de7b-4106-a19a-10c5f76deb64 / PHYSICIAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 5
+:END:
+醫@yī	[[tls:concept:PHYSICIAN::#uuid-e093756d-de7b-4106-a19a-10c5f76deb64][PHYSICIAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / medically specialised shaman; medical doctor8
+** 弟父之為醫也	In practicing medicine Ti-fu
+:PROPERTIES:
+:SRC: HSWZ 10.09.02; tr. Hightower 1951, p.329
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a13:50::弟父 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 醫@yī
+:PROPERTIES:
+:CONCEPT: uuid-a9b68d19-fe2d-4226-a240-facd36d027a3 / PHYSICIAN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+醫@yī	[[tls:concept:PHYSICIAN::#uuid-a9b68d19-fe2d-4226-a240-facd36d027a3][PHYSICIAN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / medical practice, medicine wéi yī 為翳practice medicine
+*** 醫@yī
+:PROPERTIES:
+:CONCEPT: uuid-a4963ef9-22c6-479b-ae04-c7d44ccf2b70 / CURE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+醫@yī	[[tls:concept:CURE::#uuid-a4963ef9-22c6-479b-ae04-c7d44ccf2b70][CURE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / medical treatment; medical practice
+** 北面而祝之	then facing north he would pray.
+:PROPERTIES:
+:SRC: HSWZ 10.09.02; tr. Hightower 1951, p.329
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a16:1::北面 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 祝@zhù
+:PROPERTIES:
+:CONCEPT: uuid-e1067ea5-b5ee-449e-b421-d9f36e89de5e / PRAY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+祝@zhù	[[tls:concept:PRAY::#uuid-e1067ea5-b5ee-449e-b421-d9f36e89de5e][PRAY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / say in prayer; pray for
+** 扁鵲曰	Pien-ch'iao said,
+:PROPERTIES:
+:SRC: HSWZ 10.09.03; tr. Hightower 1951, p.329
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a20:1::扁鵲 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 扁鵲@biǎnquè
+:PROPERTIES:
+:CONCEPT: uuid-2bc472c6-e721-4e5a-84c2-6502e849a662 / DOCTORS
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 1
+:END:
+扁鵲@biǎnquè	[[tls:concept:DOCTORS::#uuid-2bc472c6-e721-4e5a-84c2-6502e849a662][DOCTORS]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / mythical doctor of antiquity, on whom there is a biography in SHIJI
+** 吾聞中古之為醫者曰踰跗	"I have heard that there was a physician of middle antiquity named Yu-fu.
+:PROPERTIES:
+:SRC: HSWZ 10.09.03; tr. Hightower 1951, p.329
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a23:1::「吾 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 醫@yī
+:PROPERTIES:
+:CONCEPT: uuid-a4963ef9-22c6-479b-ae04-c7d44ccf2b70 / CURE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 7
+:END:
+醫@yī	[[tls:concept:CURE::#uuid-a4963ef9-22c6-479b-ae04-c7d44ccf2b70][CURE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / medical treatment; medical practice
+** 扁鵲曰	Pien-ch'iao said,
+:PROPERTIES:
+:SRC: HSWZ 10.09.04; tr. Hightower 1951, p.329
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a28:1::扁鵲 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 扁鵲@biǎnquè
+:PROPERTIES:
+:CONCEPT: uuid-2bc472c6-e721-4e5a-84c2-6502e849a662 / DOCTORS
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 1
+:END:
+扁鵲@biǎnquè	[[tls:concept:DOCTORS::#uuid-2bc472c6-e721-4e5a-84c2-6502e849a662][DOCTORS]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / mythical doctor of antiquity, on whom there is a biography in SHIJI
+** 扁鵲曰	Pien-ch'iao said,
+:PROPERTIES:
+:SRC: HSWZ 10.09.06; tr. Hightower 1951, p.330
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a40:1::扁鵲 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 扁鵲@biǎnquè
+:PROPERTIES:
+:CONCEPT: uuid-2bc472c6-e721-4e5a-84c2-6502e849a662 / DOCTORS
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 1
+:END:
+扁鵲@biǎnquè	[[tls:concept:DOCTORS::#uuid-2bc472c6-e721-4e5a-84c2-6502e849a662][DOCTORS]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / mythical doctor of antiquity, on whom there is a biography in SHIJI
+** 事故有昧投而中蟁頭	Serving antiquity is like throwing in the dark to hit a mosquito on the head,
+:PROPERTIES:
+:SRC: HSWZ 10.09.06; tr. Hightower 1951, p.330
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a42:1::事故 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 頭@tóu
+:PROPERTIES:
+:CONCEPT: uuid-db8b6f27-2c69-4229-9416-61a67c524686 / HEAD
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 9
+:END:
+頭@tóu	[[tls:concept:HEAD::#uuid-db8b6f27-2c69-4229-9416-61a67c524686][HEAD]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / head (also of birds etc)
+** 則糞土之息	then this animated dung,
+:PROPERTIES:
+:SRC: HSWZ 10.09.07; tr. Hightower 1951, p.330
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a58:1::則糞 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 糞土@fèntǔ
+:PROPERTIES:
+:CONCEPT: uuid-81efe705-1c5b-49cd-bd39-edd8e264f426 / CLAY
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:CHARPOS: 2
+:END:
+糞土@fèntǔ	[[tls:concept:CLAY::#uuid-81efe705-1c5b-49cd-bd39-edd8e264f426][CLAY]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / dust and dung; dung and mud
+** 先生弗治	If you, Master, are unable to cure him,
+:PROPERTIES:
+:SRC: HSWZ 10.09.08; tr. Hightower 1951, p.330
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a60:1::先生 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 治@chí
+:PROPERTIES:
+:CONCEPT: uuid-0ca7292e-6b0c-4b88-b1f7-d602e0f02486 / CURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+治@chí	[[tls:concept:CURE::#uuid-0ca7292e-6b0c-4b88-b1f7-d602e0f02486][CURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to treat a disease; to treat a disease effectively
+** 則先犬馬填溝壑矣	then [his corpse] might as well be thrown into a ditch along with [those of] dogs and horses."
+:PROPERTIES:
+:SRC: HSWZ 10.09.08; tr. Hightower 1951, p.330
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a61:50::則先 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 溝壑@gōuhè
+:PROPERTIES:
+:CONCEPT: uuid-0d09b0b0-41b6-4cdf-b523-bdc04f7c6b89 / CANAL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 55
+:END:
+溝壑@gōuhè	[[tls:concept:CANAL::#uuid-0d09b0b0-41b6-4cdf-b523-bdc04f7c6b89][CANAL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the ditches, gullies and waterways (into which dead bodies are thrown)
+** 言未卒而涕泣沾襟	Before he had finished speaking his tears were soaking his lapel.
+:PROPERTIES:
+:SRC: HSWZ 10.09.08; tr. Hightower 1951, p.330
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a62:50::言未 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 涕@tì / 涕@tǐ
+:PROPERTIES:
+:CONCEPT: uuid-22f80eb4-bb96-4978-9f10-2d1583278556 / WEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+涕@tì / 涕@tǐ	[[tls:concept:WEEP::#uuid-22f80eb4-bb96-4978-9f10-2d1583278556][WEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / shed tears
+*** 沾@zhān / 霑@zhān
+:PROPERTIES:
+:CONCEPT: uuid-055748c6-e309-4f2c-97ca-b231f68cf438 / MOIST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CONCEPT: uuid-740d8fc0-1f67-495e-ad1f-3b5f92d0183b / COLLAR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 56
+:END:
+沾@zhān / 霑@zhān	[[tls:concept:MOIST::#uuid-055748c6-e309-4f2c-97ca-b231f68cf438][MOIST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / moisten
+衿@jīn / 襟@jīn	[[tls:concept:COLLAR::#uuid-740d8fc0-1f67-495e-ad1f-3b5f92d0183b][COLLAR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / lapel, collar
+** 扁鵲入	Pien-ch'iao went in [to the chamber where the body was].
+:PROPERTIES:
+:SRC: HSWZ 10.09.09; tr. Hightower 1951, p.331
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a63:50::扁鵲 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 扁鵲@biǎnquè
+:PROPERTIES:
+:CONCEPT: uuid-2bc472c6-e721-4e5a-84c2-6502e849a662 / DOCTORS
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 50
+:END:
+扁鵲@biǎnquè	[[tls:concept:DOCTORS::#uuid-2bc472c6-e721-4e5a-84c2-6502e849a662][DOCTORS]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / mythical doctor of antiquity, on whom there is a biography in SHIJI
+** 子同藥	Tzu-t'ung ground the medicine;
+:PROPERTIES:
+:SRC: HSWZ 10.09.09; tr. Hightower 1951, p.331
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a68:1::子同 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 擣@dǎo
+:PROPERTIES:
+:CONCEPT: uuid-f6f70f0d-eaae-4591-9d99-6bbc9316ff71 / GRIND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+擣@dǎo	[[tls:concept:GRIND::#uuid-f6f70f0d-eaae-4591-9d99-6bbc9316ff71][GRIND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / grind; pound
+** 子明灸陽	Tzu-ming applied cautery to the yang;
+:PROPERTIES:
+:SRC: HSWZ 10.09.09; tr. Hightower 1951, p.331
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a68:50::子明 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 灸@jiǔ
+:PROPERTIES:
+:CONCEPT: uuid-69c8a6e2-e436-4095-aa20-2175839a10cb / CURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+灸@jiǔ	[[tls:concept:CURE::#uuid-69c8a6e2-e436-4095-aa20-2175839a10cb][CURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / apply moxibustion to, cauterise
+** 子游按磨	Tzu-yu practiced massage;
+:PROPERTIES:
+:SRC: HSWZ 10.09.09; tr. Hightower 1951, p.331
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a69:50::子游 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 按@àn
+:PROPERTIES:
+:CONCEPT: uuid-a1ca0495-4b4c-4f2e-9f64-a85d43aeb308 / SQUEEZE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+按@àn	[[tls:concept:SQUEEZE::#uuid-a1ca0495-4b4c-4f2e-9f64-a85d43aeb308][SQUEEZE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / press down, squeeze
+*** 按摩@ànmó
+:PROPERTIES:
+:CONCEPT: uuid-a3a9415b-8bbf-40ab-8419-18648960c2bd / SQUEEZE
+:SYN-FUNC: uuid-6fbf1ba0-1013-434e-b795-029e61b40b98
+:CHARPOS: 50
+:END:
+按摩@ànmó	[[tls:concept:SQUEEZE::#uuid-a3a9415b-8bbf-40ab-8419-18648960c2bd][SQUEEZE]]	V [[tls:syn-func::#uuid-6fbf1ba0-1013-434e-b795-029e61b40b98][VPt{oN}]] / practise massage
+** 於是世子復生	Whereupon the Heir Apparent came to life again.
+:PROPERTIES:
+:SRC: HSWZ 10.09.10; tr. Hightower 1951, p.331f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a72:1::於是 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 於是@yúshì
+:PROPERTIES:
+:CONCEPT: uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28 / THEREUPON
+:SYN-FUNC: uuid-fc393db1-993e-431d-9540-bc9fde4945d4
+:CHARPOS: 1
+:END:
+於是@yúshì	[[tls:concept:THEREUPON::#uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28][THEREUPON]]	V [[tls:syn-func::#uuid-fc393db1-993e-431d-9540-bc9fde4945d4][VPadS1.postS2]] / At that point, Whereupon; at that time; at this time (remarkably often after direct speeech: having said this,...; then; at that point, at this juncture; at this stage (in a text); and then; subsequently)
+** 扁鵲曰	Pien-ch'iao said,
+:PROPERTIES:
+:SRC: HSWZ 10.09.10; tr. Hightower 1951, p.331f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:9a75:1::扁鵲 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 扁鵲@biǎnquè
+:PROPERTIES:
+:CONCEPT: uuid-2bc472c6-e721-4e5a-84c2-6502e849a662 / DOCTORS
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 1
+:END:
+扁鵲@biǎnquè	[[tls:concept:DOCTORS::#uuid-2bc472c6-e721-4e5a-84c2-6502e849a662][DOCTORS]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / mythical doctor of antiquity, on whom there is a biography in SHIJI
+** 10.10楚丘先生披蓑帶索	Master Ch'u-ch'iu came dressed in a grass raincoat and wearing a rope for a belt
+:PROPERTIES:
+:SRC: HSWZ 10.10.01; tr. Hightower 1951, p.332
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:10a01:1::10 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 披@pī
+:PROPERTIES:
+:CONCEPT: uuid-1ed23610-6334-4d0e-82ab-ea2efa00e6bd / WEAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 10
+:END:
+披@pī	[[tls:concept:WEAR::#uuid-1ed23610-6334-4d0e-82ab-ea2efa00e6bd][WEAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / throw over the shoulder; wear
+*** 蓑@suō
+:PROPERTIES:
+:CONCEPT: uuid-77d60662-c922-4e62-97fb-8e01cb60f4cb / RAINCOAT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 11
+:END:
+蓑@suō	[[tls:concept:RAINCOAT::#uuid-77d60662-c922-4e62-97fb-8e01cb60f4cb][RAINCOAT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / a wide over-coat made or cape made of reeds or rush (typically worn with a lì 笠"rain-hat")
+** 先生老矣	"Sir, you are old;
+:PROPERTIES:
+:SRC: HSWZ 10.10.01; tr. Hightower 1951, p.332
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:10a04:1::「先 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 先生@xiānshēng
+:PROPERTIES:
+:CONCEPT: uuid-bf4b5f19-fc0a-4173-b9b2-847dd78c3efe / YOU
+:SYN-FUNC: uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4
+:CHARPOS: 1
+:END:
+先生@xiānshēng	[[tls:concept:YOU::#uuid-bf4b5f19-fc0a-4173-b9b2-847dd78c3efe][YOU]]	N [[tls:syn-func::#uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4][NP{post-npro_1.}{post=npro_2}]] / you, master
+*** 老@lǎo
+:PROPERTIES:
+:CONCEPT: uuid-b6f1a4e9-2cb9-469f-b8cf-cdc08e86e540 / OLD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+老@lǎo	[[tls:concept:OLD::#uuid-b6f1a4e9-2cb9-469f-b8cf-cdc08e86e540][OLD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be of great age; be old and frail; be senior
+** 意者將使我投石超距乎	I suppose you are going to have me throw a stone or leap far?
+:PROPERTIES:
+:SRC: HSWZ 10.10.02; tr. Hightower 1951, p.332
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:10a11:1::意者 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 投@tóu
+:PROPERTIES:
+:CONCEPT: uuid-987e6077-4340-4969-9514-71b493935947 / THROW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+投@tóu	[[tls:concept:THROW::#uuid-987e6077-4340-4969-9514-71b493935947][THROW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / throw (often at a certain target); throw (oneself into a river etc); thrust; throw against
+*** 石@shí
+:PROPERTIES:
+:CONCEPT: uuid-04344d7a-7d86-4c27-b2b2-479f2cbc39c2 / STONE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 7
+:END:
+石@shí	[[tls:concept:STONE::#uuid-04344d7a-7d86-4c27-b2b2-479f2cbc39c2][STONE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / stone; rockrocks
+** 追車赴馬乎	Pursue a chariot or run after a horse?
+:PROPERTIES:
+:SRC: HSWZ 10.10.02; tr. Hightower 1951, p.332
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:10a12:50::追車 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 追@zhuī
+:PROPERTIES:
+:CONCEPT: uuid-1611cf2a-0b89-4e51-a15f-9b59b0a24d15 / PURSUE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d8031bb1-a370-4128-a4e6-42b3e0e73aff
+:CHARPOS: 50
+:END:
+追@zhuī	[[tls:concept:PURSUE::#uuid-1611cf2a-0b89-4e51-a15f-9b59b0a24d15][PURSUE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d8031bb1-a370-4128-a4e6-42b3e0e73aff][friendly]]} / pursue with friendly or at least peacefully competitive intentions
+*** 赴@fù
+:PROPERTIES:
+:CONCEPT: uuid-42fd9162-6a33-4bde-bf31-38af4701ebc6 / HURRY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+赴@fù	[[tls:concept:HURRY::#uuid-42fd9162-6a33-4bde-bf31-38af4701ebc6][HURRY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / rush in the direction of; hurry to catch up with
+** 逐麋鹿搏豹虎乎	Chase a deer or capture a panther or tiger?
+:PROPERTIES:
+:SRC: HSWZ 10.10.02; tr. Hightower 1951, p.332
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:10a13:50::逐麋 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 逐@zhú
+:PROPERTIES:
+:CONCEPT: uuid-a4ab9cdf-16bb-4550-9893-68ab92cfa00c / PURSUE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 50
+:END:
+逐@zhú	[[tls:concept:PURSUE::#uuid-a4ab9cdf-16bb-4550-9893-68ab92cfa00c][PURSUE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / go after, chase (deer or fish etc); go in search of (something to eat etc)
+*** 搏@bó
+:PROPERTIES:
+:CONCEPT: uuid-1cbf743a-e172-4fdb-be09-14175416fe62 / TAKE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+搏@bó	[[tls:concept:TAKE::#uuid-1cbf743a-e172-4fdb-be09-14175416fe62][TAKE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / LAO 55; capture by beating with wings in order to immobilise prey; capture (often alive)
+*** 豹@bào
+:PROPERTIES:
+:CONCEPT: uuid-5c2b398a-71ab-4cce-b996-cc3db161d8a4 / FELINE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+豹@bào	[[tls:concept:FELINE::#uuid-5c2b398a-71ab-4cce-b996-cc3db161d8a4][FELINE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / leopard
+** 定猶豫而決嫌疑乎	Settle doubts and decide uncertainties?
+:PROPERTIES:
+:SRC: HSWZ 10.10.03; tr. Hightower 1951, p.332
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:10a17:1::定猶 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 精神@jīngshén
+:PROPERTIES:
+:CONCEPT: uuid-d56fdfcf-1041-415c-8854-31481747938a / SOUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 1
+:END:
+精神@jīngshén	[[tls:concept:SOUL::#uuid-d56fdfcf-1041-415c-8854-31481747938a][SOUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / subtle spirit; subtle spirits [occasionally: essential sprits; vital forces][CA]; soul as seat of thought
+*** 嫌@xián
+:PROPERTIES:
+:CONCEPT: uuid-795e586e-eb04-4c42-985e-bf1c5ec69c21 / DOUBT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 6
+:END:
+嫌@xián	[[tls:concept:DOUBT::#uuid-795e586e-eb04-4c42-985e-bf1c5ec69c21][DOUBT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / what is doubtful; doubt; uncertainty
+*** 嫌疑@xiányí
+:PROPERTIES:
+:CONCEPT: uuid-0b97760c-6fd2-430a-8be1-8aac208e6dea / DOUBT
+:SYN-FUNC: uuid-8a47a2b7-7ed0-4188-9257-2514ad8a6098
+:CHARPOS: 6
+:END:
+嫌疑@xiányí	[[tls:concept:DOUBT::#uuid-0b97760c-6fd2-430a-8be1-8aac208e6dea][DOUBT]]	N [[tls:syn-func::#uuid-8a47a2b7-7ed0-4188-9257-2514ad8a6098][NPab{nab1=nab2}]] / doubt of any kind; doubtful cases of any kind MO, Xiaoqu: 決嫌疑
+*** 疑@yí
+:PROPERTIES:
+:CONCEPT: uuid-664b3a1c-0efd-44a4-9051-6a04c6f181ba / DOUBT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d
+:CHARPOS: 7
+:END:
+疑@yí	[[tls:concept:DOUBT::#uuid-664b3a1c-0efd-44a4-9051-6a04c6f181ba][DOUBT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d][factual]]} / passive: what is doubted; doubtful point; doubtful situation;
+** 吾乃始壯耳	In that case I am just in my prime.
+:PROPERTIES:
+:SRC: HSWZ 10.10.03; tr. Hightower 1951, p.332
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:10a19:1::吾乃 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 壯@zhuàng
+:PROPERTIES:
+:CONCEPT: uuid-2422129e-f40b-4e1d-8610-c9c4f71fa69b / ADULT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332
+:CHARPOS: 4
+:END:
+壯@zhuàng	[[tls:concept:ADULT::#uuid-2422129e-f40b-4e1d-8610-c9c4f71fa69b][ADULT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332][inchoative]]} / become adult
+** 孟嘗君赧然	Prince Meng of Ch'ang blushed
+:PROPERTIES:
+:SRC: HSWZ 10.10.03; tr. Hightower 1951, p.332
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:10a21:1::孟嘗 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 赧然@nǎnrán
+:PROPERTIES:
+:CONCEPT: uuid-139c723a-d4c7-4190-b9ca-d27cb059e4c8 / BLUSH
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 4
+:END:
+赧然@nǎnrán	[[tls:concept:BLUSH::#uuid-139c723a-d4c7-4190-b9ca-d27cb059e4c8][BLUSH]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / blush
+** 汗出至踵	and sweat poured off him to his heels.
+:PROPERTIES:
+:SRC: HSWZ 10.10.03; tr. Hightower 1951, p.332
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:10a22:50::汗出 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 汗@hàn
+:PROPERTIES:
+:CONCEPT: uuid-7e66496a-5ab9-41e1-80f1-96833403c42e / SWEAT
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 50
+:END:
+汗@hàn	[[tls:concept:SWEAT::#uuid-7e66496a-5ab9-41e1-80f1-96833403c42e][SWEAT]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / sweat
+*** 踵@zhǒng
+:PROPERTIES:
+:CONCEPT: uuid-15746bfa-fb46-4b7e-b2e5-029d4c32440f / HEEL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+踵@zhǒng	[[tls:concept:HEEL::#uuid-15746bfa-fb46-4b7e-b2e5-029d4c32440f][HEEL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / heel; also of shoe
+** 老夫灌灌	An old man, [I speak] with entire sincerity.
+:PROPERTIES:
+:SRC: HSWZ 10.10.04; tr. Hightower 1951, p.332
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:10a27:1::「老 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 老夫@lǎofū
+:PROPERTIES:
+:CONCEPT: uuid-a7e80db1-4623-4f9e-b979-1d9cbfa3a68b / EGO
+:SYN-FUNC: uuid-13230028-2ba9-425d-b7a1-2ca77f6db263
+:CHARPOS: 1
+:END:
+老夫@lǎofū	[[tls:concept:EGO::#uuid-a7e80db1-4623-4f9e-b979-1d9cbfa3a68b][EGO]]	N [[tls:syn-func::#uuid-13230028-2ba9-425d-b7a1-2ca77f6db263][NP{post=npro1}]] / I, the old fellow
+** 俯而泣沾襟	And he bowed his head adn wept until [the tears] wet his lapel.
+:PROPERTIES:
+:SRC: HSWZ 10.11.01; tr. Hightower 1951, p.333
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:11a08:1::俯而 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 俯@fǔ
+:PROPERTIES:
+:CONCEPT: uuid-00919278-5649-478f-9b5c-e0160183498b / BOW DOWN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+俯@fǔ	[[tls:concept:BOW DOWN::#uuid-00919278-5649-478f-9b5c-e0160183498b][BOW DOWN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / stoop down; bow down; bow the head 俯而泣, but also ZUO Zhao 7 一命而僂，再命而傴，三命而俯
+*** 泣@qì
+:PROPERTIES:
+:CONCEPT: uuid-ad203be9-d49d-4e8a-989d-1b7e3a8746c0 / TEARS
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CONCEPT: uuid-6cca8a1a-0de5-4089-8bd5-848febf0a062 / FALL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 3
+:END:
+泣@qì	[[tls:concept:TEARS::#uuid-ad203be9-d49d-4e8a-989d-1b7e3a8746c0][TEARS]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / tears 泣下
+下@xià	[[tls:concept:FALL::#uuid-6cca8a1a-0de5-4089-8bd5-848febf0a062][FALL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / move down> fall, come down
+*** 沾@zhān / 霑@zhān
+:PROPERTIES:
+:CONCEPT: uuid-055748c6-e309-4f2c-97ca-b231f68cf438 / MOIST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 4
+:END:
+沾@zhān / 霑@zhān	[[tls:concept:MOIST::#uuid-055748c6-e309-4f2c-97ca-b231f68cf438][MOIST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / moisten
+** 駑馬柴車可得而乘也	and to ride in worn-out carriages [drawn by] broken-down horses,
+:PROPERTIES:
+:SRC: HSWZ 10.11.02; tr. Hightower 1951, p.333
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:11a13:1::駑馬 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 駑@nú
+:PROPERTIES:
+:CONCEPT: uuid-4ceb7730-991a-459a-b6e3-9d5bcd4f60c2 / BAD
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+駑@nú	[[tls:concept:BAD::#uuid-4ceb7730-991a-459a-b6e3-9d5bcd4f60c2][BAD]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / of horses (and sometimes men): weak, of bad quality, not very useful
+** 且猶不欲死	but still we do not wish to die.
+:PROPERTIES:
+:SRC: HSWZ 10.11.02; tr. Hightower 1951, p.333
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:11a14:50::且猶 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 且猶@qiěyóu
+:PROPERTIES:
+:CONCEPT: uuid-55519222-91f0-42d5-b8d4-7685755cdcf1 / NONETHELESS
+:SYN-FUNC: uuid-eb8abafd-05ff-4ae5-9f85-7417d096299a
+:CHARPOS: 50
+:END:
+且猶@qiěyóu	[[tls:concept:NONETHELESS::#uuid-55519222-91f0-42d5-b8d4-7685755cdcf1][NONETHELESS]]	P [[tls:syn-func::#uuid-eb8abafd-05ff-4ae5-9f85-7417d096299a][PPadV]] / emphatic: nonetheless
+** 俯泣	And they too bowed their heads and wept.
+:PROPERTIES:
+:SRC: HSWZ 10.11.02; tr. Hightower 1951, p.333
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:11a16:1::俯泣 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 俯@fǔ
+:PROPERTIES:
+:CONCEPT: uuid-00919278-5649-478f-9b5c-e0160183498b / BOW DOWN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+俯@fǔ	[[tls:concept:BOW DOWN::#uuid-00919278-5649-478f-9b5c-e0160183498b][BOW DOWN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / stoop down; bow down; bow the head 俯而泣, but also ZUO Zhao 7 一命而僂，再命而傴，三命而俯
+** 晏子曰	Yen-tzu laughed and said,
+:PROPERTIES:
+:SRC: HSWZ 10.11.03; tr. Hightower 1951, p.333
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:11a16:50::晏子 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 笑@xiào
+:PROPERTIES:
+:CONCEPT: uuid-9bf13177-f3c0-4775-9a38-f49e218945d5 / SMILE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-08c0b036-c239-43c5-90ea-1ca7259c7d66
+:CHARPOS: 50
+:END:
+笑@xiào	[[tls:concept:SMILE::#uuid-9bf13177-f3c0-4775-9a38-f49e218945d5][SMILE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-08c0b036-c239-43c5-90ea-1ca7259c7d66][amused]]} / with a(n amused or well-pleased) smile 笑曰
+** 見怯君一而諛臣二	I have seen one frightened prince and two flattering ministers.
+:PROPERTIES:
+:SRC: HSWZ 10.11.03; tr. Hightower 1951, p.333
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:11a18:1::見怯 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 諛@yú
+:PROPERTIES:
+:CONCEPT: uuid-6838b8bc-603e-492b-8d7c-5dc390ab7a36 / FLATTER
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 6
+:END:
+諛@yú	[[tls:concept:FLATTER::#uuid-6838b8bc-603e-492b-8d7c-5dc390ab7a36][FLATTER]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / toadying
+** 何暇念死乎	what time would you have to think of death?"
+:PROPERTIES:
+:SRC: HSWZ 10.11.03; tr. Hightower 1951, p.333
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:11a23:1::何暇 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 何暇@héxiá
+:PROPERTIES:
+:CONCEPT: uuid-f4d2b12f-2f88-4085-9741-90280722af05 / WHEN
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 1
+:END:
+何暇@héxiá	[[tls:concept:WHEN::#uuid-f4d2b12f-2f88-4085-9741-90280722af05][WHEN]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / Whenever? At what time? i.e. never
+** 景公慚而舉觴自罰	Duke Ching was ashamed and lifted up a beaker to punish himself,
+:PROPERTIES:
+:SRC: HSWZ 10.11.04; tr. Hightower 1951, p.333
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:11a24:50::景公 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 罰@fá
+:PROPERTIES:
+:CONCEPT: uuid-f7037e9d-6ed8-429e-8e41-63f93cc8bfd4 / PUNISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 57
+:END:
+罰@fá	[[tls:concept:PUNISH::#uuid-f7037e9d-6ed8-429e-8e41-63f93cc8bfd4][PUNISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / punish (oneself)
+** 有鄙夫乃相與食之	Some countrymen had just been sharing [its flesh] among themselves for a meal.
+:PROPERTIES:
+:SRC: HSWZ 10.12.01; tr. Hightower 1951, p.334
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:12a04:1::有鄙 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 鄙夫@bǐfū
+:PROPERTIES:
+:CONCEPT: uuid-ed44e513-a62f-46b3-ad0c-136c4459a6a3 / VULGAR
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 2
+:END:
+鄙夫@bǐfū	[[tls:concept:VULGAR::#uuid-ed44e513-a62f-46b3-ad0c-136c4459a6a3][VULGAR]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a vulgar person; a mean person
+** 甲已墮者六矣	Six [pieces] of his armor had already dropped off [under this onslaught]
+:PROPERTIES:
+:SRC: HSWZ 10.12.02; tr. Hightower 1951, p.334
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:12a12:1::甲已 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 墮@duò
+:PROPERTIES:
+:CONCEPT: uuid-fdc9f6db-b8a4-4d02-bdf5-e4a442176260 / FALL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 3
+:END:
+墮@duò	[[tls:concept:FALL::#uuid-fdc9f6db-b8a4-4d02-bdf5-e4a442176260][FALL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / fall; fall off (a horse); fall out (of teeth)
+** 母無恙時	While his mother was in good health,
+:PROPERTIES:
+:SRC: HSWZ 10.13.01; tr. Hightower 1951, p.334
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a03:1::母無 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 無恙@wúyàng
+:PROPERTIES:
+:CONCEPT: uuid-0f0a9fb2-eada-4a7b-938c-e6ffa0e99936 / HEALTHY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 2
+:END:
+無恙@wúyàng	[[tls:concept:HEALTHY::#uuid-0f0a9fb2-eada-4a7b-938c-e6ffa0e99936][HEALTHY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be without ailments
+*** 恙@yàng
+:PROPERTIES:
+:CONCEPT: uuid-01842242-d2de-49e5-94a7-0eb6e94c835c / ILLNESS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 3
+:END:
+恙@yàng	[[tls:concept:ILLNESS::#uuid-01842242-d2de-49e5-94a7-0eb6e94c835c][ILLNESS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / malady, heaven-sent disease
+** 國君辱之	and the prince of the state heaped shame on him.
+:PROPERTIES:
+:SRC: HSWZ 10.13.01; tr. Hightower 1951, p.334
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a06:1::國君 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 辱@rǔ
+:PROPERTIES:
+:CONCEPT: uuid-5358c576-8e65-447d-a8ba-802e9dffd939 / HUMILIATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-5100e402-4cb5-4b99-929f-be674b3757d4
+:CHARPOS: 3
+:END:
+辱@rǔ	[[tls:concept:HUMILIATE::#uuid-5358c576-8e65-447d-a8ba-802e9dffd939][HUMILIATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-5100e402-4cb5-4b99-929f-be674b3757d4][N=human]]} / humiliate publicly; humiliate (by my presence)
+** 顏色不變	without changing countenance.
+:PROPERTIES:
+:SRC: HSWZ 10.13.01; tr. Hightower 1951, p.334
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a08:1::顏色 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 顏色@yánsè
+:PROPERTIES:
+:CONCEPT: uuid-7bd655d4-7191-469b-88dd-1af4a8d77c42 / FACE
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:CHARPOS: 1
+:END:
+顏色@yánsè	[[tls:concept:FACE::#uuid-7bd655d4-7191-469b-88dd-1af4a8d77c42][FACE]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] / facial expression, countenance; sometimes non-expressive: facial complexion 顏色黯黑 "my facial complexion is all dark".
+** 魯興師	when Lu raised an army,
+:PROPERTIES:
+:SRC: HSWZ 10.13.02; tr. Hightower 1951, p.334f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a10:1::魯興 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 師@shī
+:PROPERTIES:
+:CONCEPT: uuid-2fa21fe2-26a9-40a6-8ec9-e2999a9db4af / ARMY
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 3
+:END:
+師@shī	[[tls:concept:ARMY::#uuid-2fa21fe2-26a9-40a6-8ec9-e2999a9db4af][ARMY]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / the army of the contextually determinate N; army; OBI: military camp, encampment. Troops, armed force, division of the armed forces, regular armed forces; (obsolescent after Qin) HF 1.2: (several hundred thousand) organised armed personnel (should probably be npost-N)
+** 獲甲首而獻之曰	Taking a soldier's head, he [came back and] presented it [saying],
+:PROPERTIES:
+:SRC: HSWZ 10.13.03; tr. Hightower 1951, p.335
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a19:1::獲甲 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 獲@huò
+:PROPERTIES:
+:CONCEPT: uuid-ca1a06ff-8a19-4bba-9108-2ffc95433acb / OBTAIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+獲@huò	[[tls:concept:OBTAIN::#uuid-ca1a06ff-8a19-4bba-9108-2ffc95433acb][OBTAIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / obtain through effort, get hold of
+** 請以此塞一北	"With this I should like to atone for my first flight."
+:PROPERTIES:
+:SRC: HSWZ 10.13.03; tr. Hightower 1951, p.335
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a20:50::「請 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 〓#@
+:PROPERTIES:
+:CONCEPT: uuid-4d585f08-0892-4427-8d21-d8db1f1aa904 / FLEE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+〓#@	[[tls:concept:FLEE::#uuid-4d585f08-0892-4427-8d21-d8db1f1aa904][FLEE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / desertion
+** 請以此塞再北	"With this I should like to atone for my second flight."
+:PROPERTIES:
+:SRC: HSWZ 10.13.03; tr. Hightower 1951, p.335
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a23:1::「請 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 〓#@
+:PROPERTIES:
+:CONCEPT: uuid-4d585f08-0892-4427-8d21-d8db1f1aa904 / FLEE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+〓#@	[[tls:concept:FLEE::#uuid-4d585f08-0892-4427-8d21-d8db1f1aa904][FLEE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / desertion
+*** 再@zài
+:PROPERTIES:
+:CONCEPT: uuid-b3e83c87-7cf6-4315-abbe-e9ad529da851 / TWO
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 5
+:END:
+再@zài	[[tls:concept:TWO::#uuid-b3e83c87-7cf6-4315-abbe-e9ad529da851][TWO]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / the second 再世 "after the second generation"
+** 又獲甲首而獻之	but again took a head and presented it
+:PROPERTIES:
+:SRC: HSWZ 10.13.04; tr. Hightower 1951, p.335
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a28:1::又獲 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 獲@huò
+:PROPERTIES:
+:CONCEPT: uuid-ca1a06ff-8a19-4bba-9108-2ffc95433acb / OBTAIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+獲@huò	[[tls:concept:OBTAIN::#uuid-ca1a06ff-8a19-4bba-9108-2ffc95433acb][OBTAIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / obtain through effort, get hold of
+** 請以此塞三北	"With this I should like to atone for my third flight."
+:PROPERTIES:
+:SRC: HSWZ 10.13.04; tr. Hightower 1951, p.335
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a30:1::「請 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 請@qǐng
+:PROPERTIES:
+:CONCEPT: uuid-22fd8314-2b6b-461b-aa97-2fdafaa95239 / REQUEST
+:SYN-FUNC: uuid-65d93b56-a5a4-48f1-999e-bca54da80015
+:SEM-FEAT: uuid-a40e0575-055f-43e7-ba08-d6aed75b92ba
+:CHARPOS: 1
+:END:
+請@qǐng	[[tls:concept:REQUEST::#uuid-22fd8314-2b6b-461b-aa97-2fdafaa95239][REQUEST]]	V [[tls:syn-func::#uuid-65d93b56-a5a4-48f1-999e-bca54da80015][vt{0}+V{0}]] {[[tls:sem-feat::#uuid-a40e0575-055f-43e7-ba08-d6aed75b92ba][performative]]} / may I ask (for myself ) to V> please let me [short and idiomatic for 臣請]
+** 請為兄弟	I would like to make you my [sworn] brother."
+:PROPERTIES:
+:SRC: HSWZ 10.13.04; tr. Hightower 1951, p.335
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a34:1::請為 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 請@qǐng
+:PROPERTIES:
+:CONCEPT: uuid-22fd8314-2b6b-461b-aa97-2fdafaa95239 / REQUEST
+:SYN-FUNC: uuid-65d93b56-a5a4-48f1-999e-bca54da80015
+:SEM-FEAT: uuid-a40e0575-055f-43e7-ba08-d6aed75b92ba
+:CHARPOS: 1
+:END:
+請@qǐng	[[tls:concept:REQUEST::#uuid-22fd8314-2b6b-461b-aa97-2fdafaa95239][REQUEST]]	V [[tls:syn-func::#uuid-65d93b56-a5a4-48f1-999e-bca54da80015][vt{0}+V{0}]] {[[tls:sem-feat::#uuid-a40e0575-055f-43e7-ba08-d6aed75b92ba][performative]]} / may I ask (for myself ) to V> please let me [short and idiomatic for 臣請]
+** 今母歿矣	Now my mother is dead
+:PROPERTIES:
+:SRC: HSWZ 10.13.05; tr. Hightower 1951, p.335
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a37:1::今母 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 沒@mò / 歿@mò
+:PROPERTIES:
+:CONCEPT: uuid-6d30e624-3ad2-4a45-ad1e-81dc71c8c702 / DIE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 1
+:END:
+沒@mò / 歿@mò	[[tls:concept:DIE::#uuid-6d30e624-3ad2-4a45-ad1e-81dc71c8c702][DIE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / have died, be dead
+** 節士不以辱生	the gentleman of principle does not live in disgrace."
+:PROPERTIES:
+:SRC: HSWZ 10.13.05; tr. Hightower 1951, p.335
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a40:1::節士 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-fcd2f973-9801-4918-8d17-919d16ff5829 / LIVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-1e331347-13e3-42a1-a1a8-8e4404f03509
+:CHARPOS: 6
+:END:
+生@shēng	[[tls:concept:LIVE::#uuid-fcd2f973-9801-4918-8d17-919d16ff5829][LIVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-1e331347-13e3-42a1-a1a8-8e4404f03509][continuous]]} / be alive; remain alive; cf. also shēng qín 生擒 "catch while he is still alive"
+** 又滅世斷宗	but he went on and exterminated his family and put an end to [the sacrifices to] his ancestors.
+:PROPERTIES:
+:SRC: HSWZ 10.13.06; tr. Hightower 1951, p.335
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a45:1::又滅 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 宗@zōng
+:PROPERTIES:
+:CONCEPT: uuid-606bd992-4540-4e51-bd2b-8e11d11bb9b8 / ANCESTOR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 5
+:END:
+宗@zōng	[[tls:concept:ANCESTOR::#uuid-606bd992-4540-4e51-bd2b-8e11d11bb9b8][ANCESTOR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / ancestry; ancestors
+** 靡不有初	All are [good] at first
+:PROPERTIES:
+:SRC: HSWZ 10.13.06; tr. Hightower 1951, p.335
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a49:1::「靡 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 靡不@mǐbù
+:PROPERTIES:
+:CONCEPT: uuid-21878ea6-a397-484c-81e7-c9b9709ed7be / ALL
+:SYN-FUNC: uuid-a0b46569-e67d-460c-914c-dddd610aba58
+:CHARPOS: 1
+:END:
+靡不@mǐbù	[[tls:concept:ALL::#uuid-21878ea6-a397-484c-81e7-c9b9709ed7be][ALL]]	P [[tls:syn-func::#uuid-a0b46569-e67d-460c-914c-dddd610aba58][PP]] / everyone; everything; in every case
+** 鮮克有終	But few prove themselves to be so at the last.
+:PROPERTIES:
+:SRC: HSWZ 10.13.06; tr. Hightower 1951, p.335
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:13a50:50::鮮克 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 鮮@xiǎn
+:PROPERTIES:
+:CONCEPT: uuid-150af0ca-edbe-47c2-8d7b-25133d6dc355 / FEW
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 50
+:END:
+鮮@xiǎn	[[tls:concept:FEW::#uuid-150af0ca-edbe-47c2-8d7b-25133d6dc355][FEW]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / archaic: few (opp 靡不 "all")
+** 至斮朝涉	to the extent of cutting off [the legs of an old man and of a boy] who were crossing the ford in the morning,
+:PROPERTIES:
+:SRC: HSWZ 10.14.01; tr. Hightower 1951, p.335f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:14a06:1::至斮 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 斮@zhuó
+:PROPERTIES:
+:CONCEPT: uuid-bda65819-8061-401e-9d35-c65d043e87bf / CUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+斮@zhuó	[[tls:concept:CUT::#uuid-bda65819-8061-401e-9d35-c65d043e87bf][CUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / behead; also used for the cutting off of feet
+** 刳孕婦	of ripping up pregnant women,
+:PROPERTIES:
+:SRC: HSWZ 10.14.01; tr. Hightower 1951, p.335f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:14a07:50::刳孕 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 刳@kū
+:PROPERTIES:
+:CONCEPT: uuid-3102f3e6-d7a2-42a1-9633-833be5812c79 / CUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+刳@kū	[[tls:concept:CUT::#uuid-3102f3e6-d7a2-42a1-9633-833be5812c79][CUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / slit open; hollow out (entails)
+*** 孕@yùn
+:PROPERTIES:
+:CONCEPT: uuid-1b58985c-61ca-47a7-b116-852df6f7fafb / PREGNANT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 51
+:END:
+孕@yùn	[[tls:concept:PREGNANT::#uuid-1b58985c-61ca-47a7-b116-852df6f7fafb][PREGNANT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / pregnant
+** 脯鬼侯	of making dried meat of the Marquis of Kuei,
+:PROPERTIES:
+:SRC: HSWZ 10.14.01; tr. Hightower 1951, p.335f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:14a08:50::脯鬼 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 脯@fǔ
+:PROPERTIES:
+:CONCEPT: uuid-1cce4cf2-76dc-4afe-97af-d1beb188c909 / EXECUTE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+脯@fǔ	[[tls:concept:EXECUTE::#uuid-1cce4cf2-76dc-4afe-97af-d1beb188c909][EXECUTE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / ZGC: cut into slices
+** 醢梅伯	and of making mincemeat of the Earl of Mei.
+:PROPERTIES:
+:SRC: HSWZ 10.14.01; tr. Hightower 1951, p.335f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:14a09:50::醢梅 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 醢@hǎi
+:PROPERTIES:
+:CONCEPT: uuid-627e936e-e64a-4813-821b-477a88ef4956 / EXECUTE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+醢@hǎi	[[tls:concept:EXECUTE::#uuid-627e936e-e64a-4813-821b-477a88ef4956][EXECUTE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to apply death penalty followed by being cut up into minced meat and then mixed with brine
+** 箕子執囚為奴	Chi-tzu was thrown into prison as a slave,
+:PROPERTIES:
+:SRC: HSWZ 10.14.02; tr. Hightower 1951, p.336
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:14a13:1::箕子 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-c102cc2b-db8d-49de-8c1b-efa5af18412d / BECOME
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:CHARPOS: 5
+:END:
+為@wéi	[[tls:concept:BECOME::#uuid-c102cc2b-db8d-49de-8c1b-efa5af18412d][BECOME]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] / become (ruler etc)
+*** 奴@nú
+:PROPERTIES:
+:CONCEPT: uuid-ef10422f-b586-4509-b618-adf3e1dd308d / SLAVE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+奴@nú	[[tls:concept:SLAVE::#uuid-ef10422f-b586-4509-b618-adf3e1dd308d][SLAVE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / slave (of either sex); enslaved male (often a foreign prisoner or a criminal)
+** 有默默諛臣者其國亡	while the state of one with reticent flattering ministers will be lost."
+:PROPERTIES:
+:SRC: HSWZ 10.14.06; tr. Hightower 1951, p.336
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:14a44:1::有默 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 諛@yú
+:PROPERTIES:
+:CONCEPT: uuid-6838b8bc-603e-492b-8d7c-5dc390ab7a36 / FLATTER
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 4
+:END:
+諛@yú	[[tls:concept:FLATTER::#uuid-6838b8bc-603e-492b-8d7c-5dc390ab7a36][FLATTER]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / toadying
+** 時無背無側	And so you have no [good] men behind you, nor by your side.
+:PROPERTIES:
+:SRC: HSWZ 10.14.07; tr. Hightower 1951, p.336f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:14a47:1::時無 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 陪@péi
+:PROPERTIES:
+:CONCEPT: uuid-2fe84486-ae9d-4d03-8d95-bce77283f52c / ACCOMPANY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 1
+:END:
+陪@péi	[[tls:concept:ACCOMPANY::#uuid-2fe84486-ae9d-4d03-8d95-bce77283f52c][ACCOMPANY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / accompanying person behind one
+*** 側@cè
+:PROPERTIES:
+:CONCEPT: uuid-e0cf1fd1-80eb-4282-aee4-6e76858bf6e0 / ACCOMPANY
+:SYN-FUNC: uuid-20a87134-926d-4be7-8815-246c1f7a9ca7
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 5
+:END:
+側@cè	[[tls:concept:ACCOMPANY::#uuid-e0cf1fd1-80eb-4282-aee4-6e76858bf6e0][ACCOMPANY]]	 [[tls:syn-func::#uuid-20a87134-926d-4be7-8815-246c1f7a9ca7][n{adN}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / accompanying person by the side
+** 丈夫曰	The old man said,
+:PROPERTIES:
+:SRC: HSWZ 10.15.02; tr. Hightower 1951, p.337
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:15a10:1::丈夫 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 丈夫@zhàngfū
+:PROPERTIES:
+:CONCEPT: uuid-690e8a4a-6001-4e29-b3d9-c6fffe0935d6 / OLD MAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+丈夫@zhàngfū	[[tls:concept:OLD MAN::#uuid-690e8a4a-6001-4e29-b3d9-c6fffe0935d6][OLD MAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / old man
+** 與之議國家之務	No one can equal him
+:PROPERTIES:
+:SRC: HSWZ 10.17.02; tr. Hightower 1951, p.338
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:17a09:1::與之 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 議@yì
+:PROPERTIES:
+:CONCEPT: uuid-4631fcc4-dce2-4348-bb18-ed549d28666c / DISCUSS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+議@yì	[[tls:concept:DISCUSS::#uuid-4631fcc4-dce2-4348-bb18-ed549d28666c][DISCUSS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / discuss or bring up in a formal gathering; declare openly; argue that; argue for; put forward for discussion with
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 4
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation
+*** 務@wù
+:PROPERTIES:
+:CONCEPT: uuid-bd9eb16b-1747-4160-b817-6db2e6c7811a / STRIVE FOR
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 7
+:END:
+務@wù	[[tls:concept:STRIVE FOR::#uuid-bd9eb16b-1747-4160-b817-6db2e6c7811a][STRIVE FOR]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / concerns, obligations; task, purpose; main concern
+** 再舉再窮	Over and over he would bring up a topic and exhaust it,
+:PROPERTIES:
+:SRC: HSWZ 10.17.04; tr. Hightower 1951, p.338f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:17a25:1::再舉 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 再@zài
+:PROPERTIES:
+:CONCEPT: uuid-b3dbba75-0c96-4706-b4aa-7cf0178adb1d / AGAIN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+再@zài	[[tls:concept:AGAIN::#uuid-b3dbba75-0c96-4706-b4aa-7cf0178adb1d][AGAIN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / a second time; for the second time 再取 "marry again" 再。。。再 "over and over again..."
+** 王默然無以續語	while the king sat speechless and unable to take up the conversation.
+:PROPERTIES:
+:SRC: HSWZ 10.17.04; tr. Hightower 1951, p.338f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:17a26:50::王默 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 默然@mòrán
+:PROPERTIES:
+:CONCEPT: uuid-040ecc84-670b-4f1c-8a0b-26e68189f106 / SILENCE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+默然@mòrán	[[tls:concept:SILENCE::#uuid-040ecc84-670b-4f1c-8a0b-26e68189f106][SILENCE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / remain silent (not that this is not a state but an action to take), fall silent
+** 居有間	They had been [sitting] there for a while
+:PROPERTIES:
+:SRC: HSWZ 10.17.04; tr. Hightower 1951, p.338f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:17a27:50::居有 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 居有間@jūyǒujiān
+:PROPERTIES:
+:CONCEPT: uuid-4703a7ec-63ce-4d70-8b8e-6c700c90e41a / THEREUPON
+:SYN-FUNC: uuid-efe577d1-de70-4d80-84d0-e92f482f3f3d
+:CHARPOS: 50
+:END:
+居有間@jūyǒujiān	[[tls:concept:THEREUPON::#uuid-4703a7ec-63ce-4d70-8b8e-6c700c90e41a][THEREUPON]]	V [[tls:syn-func::#uuid-efe577d1-de70-4d80-84d0-e92f482f3f3d][VPadS]] / after a while
+** 何為者也	"Who is that?"
+:PROPERTIES:
+:SRC: HSWZ 10.17.04; tr. Hightower 1951, p.338f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:17a30:1::「何 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 何為者@héwéizhě
+:PROPERTIES:
+:CONCEPT: uuid-fffcaf83-a8cd-46ff-9a97-66ab5d2a734e / WHO
+:SYN-FUNC: uuid-7d18edf6-8cf7-47e9-a591-158f938748d0
+:CHARPOS: 1
+:END:
+何為者@héwéizhě	[[tls:concept:WHO::#uuid-fffcaf83-a8cd-46ff-9a97-66ab5d2a734e][WHO]]	N [[tls:syn-func::#uuid-7d18edf6-8cf7-47e9-a591-158f938748d0][NPpro{PRED}]] / be who?
+** 有司對曰	The officer replied,
+:PROPERTIES:
+:SRC: HSWZ 10.17.05; tr. Hightower 1951, p.339
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:17a31:50::有司 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 有司@yǒusī
+:PROPERTIES:
+:CONCEPT: uuid-637097de-2ec6-4cc6-894c-72d69ea4692a / OFFICIAL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 50
+:END:
+有司@yǒusī	[[tls:concept:OFFICIAL::#uuid-637097de-2ec6-4cc6-894c-72d69ea4692a][OFFICIAL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / the official in charge
+** 王欣然大笑曰	The king emitted a loud laugh of pleasure and said,
+:PROPERTIES:
+:SRC: HSWZ 10.17.05; tr. Hightower 1951, p.339
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:17a34:1::王欣 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 欣然@xīnrán
+:PROPERTIES:
+:CONCEPT: uuid-05d3c40a-a1ba-4077-a459-8c0b6321b44b / HAPPY
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:CHARPOS: 2
+:END:
+欣然@xīnrán	[[tls:concept:HAPPY::#uuid-05d3c40a-a1ba-4077-a459-8c0b6321b44b][HAPPY]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] / in one's happiness; joyfully, merrily
+*** 大@dà
+:PROPERTIES:
+:CONCEPT: uuid-a1d643fb-f949-4d4d-a425-0a3f21277189 / INTENSELY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 4
+:END:
+大@dà	[[tls:concept:INTENSELY::#uuid-a1d643fb-f949-4d4d-a425-0a3f21277189][INTENSELY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in a big way; very much, mightily, highly, greatly; on a large scale
+*** 大笑@dàxiào
+:PROPERTIES:
+:CONCEPT: uuid-57885c1e-e59b-4937-bd43-438e4908e1c0 / LAUGH
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+大笑@dàxiào	[[tls:concept:LAUGH::#uuid-57885c1e-e59b-4937-bd43-438e4908e1c0][LAUGH]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / laugh out aloud, break into laughter
+*** 笑@xiào
+:PROPERTIES:
+:CONCEPT: uuid-b3076e91-e467-41c8-81c9-159063b8099d / LAUGH
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-08c0b036-c239-43c5-90ea-1ca7259c7d66
+:CHARPOS: 5
+:END:
+笑@xiào	[[tls:concept:LAUGH::#uuid-b3076e91-e467-41c8-81c9-159063b8099d][LAUGH]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-08c0b036-c239-43c5-90ea-1ca7259c7d66][amused]]} / giggling all the while, with an amused peal of laughter
+** 王不見夫江南之樹乎	Has not Your Majesty seen those trees south of the Chiang
+:PROPERTIES:
+:SRC: HSWZ 10.17.06; tr. Hightower 1951, p.339
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:17a41:1::王不 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 見@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-1e0b1188-4685-4e64-9e64-bfce2dadcf3c / SEE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+見@jiàn	[[tls:concept:SEE::#uuid-1e0b1188-4685-4e64-9e64-bfce2dadcf3c][SEE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / perceive visually; witness, come across; lay one's eyes on; focus and perceive properly; come across; notice; visualise intellectually; occasionally: imagine, have a vision of (ghosts)
+** 則化為枳	they change to chih trees.
+:PROPERTIES:
+:SRC: HSWZ 10.17.06; tr. Hightower 1951, p.339
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:17a44:1::則化 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 化@huà
+:PROPERTIES:
+:CONCEPT: uuid-c3ff3685-3409-4a17-b8fc-a6b9568ce08e / CHANGE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 2
+:END:
+化@huà	[[tls:concept:CHANGE::#uuid-c3ff3685-3409-4a17-b8fc-a6b9568ce08e][CHANGE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / transform oneself into, turn into
+** 呼牧者取之	he called a shepherd to pich it up.
+:PROPERTIES:
+:SRC: HSWZ 10.18.01; tr. Hightower 1951, p.339
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:18a03:1::呼牧 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 呼@hū
+:PROPERTIES:
+:CONCEPT: uuid-21d6d09e-ae89-42b4-aa10-ffc9484954e0 / SUMMON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+呼@hū	[[tls:concept:SUMMON::#uuid-21d6d09e-ae89-42b4-aa10-ffc9484954e0][SUMMON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / YILI: call to come
+** 當暑衣裘	it is like wearing winter furs in the heat of summer.
+:PROPERTIES:
+:SRC: HSWZ 10.18.02; tr. Hightower 1951, p.339f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:18a11:1::當暑 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 暑@shǔ
+:PROPERTIES:
+:CONCEPT: uuid-ae220f41-be33-4921-857f-205a032fc282 / HOT
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 2
+:END:
+暑@shǔ	[[tls:concept:HOT::#uuid-ae220f41-be33-4921-857f-205a032fc282][HOT]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / it is hot
+** 延陵子知其為賢者	Yen-ling-tzu realized that he was a sage
+:PROPERTIES:
+:SRC: HSWZ 10.18.02; tr. Hightower 1951, p.339f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:18a13:1::延陵 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-d23ebf73-2dba-4408-be20-fde242ed8e2c / TALENT
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 7
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-d23ebf73-2dba-4408-be20-fde242ed8e2c][TALENT]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be a worthy, be a person of moral talent; also plural: be persons of moral worth, be worthies
+** 請問姓字	and politely asked his name.
+:PROPERTIES:
+:SRC: HSWZ 10.18.02; tr. Hightower 1951, p.339f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:18a14:50::請問 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 請問@qǐngwèn
+:PROPERTIES:
+:CONCEPT: uuid-e41d134b-ad51-4955-9a40-545a5cae426d / ASK
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 50
+:END:
+請問@qǐngwèn	[[tls:concept:ASK::#uuid-e41d134b-ad51-4955-9a40-545a5cae426d][ASK]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / ask about N
+** 何足語姓字哉	You are not good enough for me to tell you my name."
+:PROPERTIES:
+:SRC: HSWZ 10.18.02; tr. Hightower 1951, p.339f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:18a17:1::何足 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 何@hé
+:PROPERTIES:
+:CONCEPT: uuid-9139b363-7697-4f77-8e18-98f50f3c48e9 / HOW
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 1
+:END:
+何@hé	[[tls:concept:HOW::#uuid-9139b363-7697-4f77-8e18-98f50f3c48e9][HOW]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / how on earth? How on earth could you/he/I? 回何敢死？ 丘何敢乎？何足憂？
+** 與士交通	to enjoy friendly relations with officials,
+:PROPERTIES:
+:SRC: HSWZ 10.19.01; tr. Hightower 1951, p.340
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:19a05:1::與士 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 交通@jiāotōng
+:PROPERTIES:
+:CONCEPT: uuid-ee49ca0b-4df6-4d19-b8e9-55434dea3cb5 / FRIEND
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 3
+:END:
+交通@jiāotōng	[[tls:concept:FRIEND::#uuid-ee49ca0b-4df6-4d19-b8e9-55434dea3cb5][FRIEND]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be on friendly terms
+** 善哉回也	"Excellent, Hui.
+:PROPERTIES:
+:SRC: HSWZ 10.19.02; tr. Hightower 1951, p.340
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:19a09:1::「善 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 哉@zāi
+:PROPERTIES:
+:CONCEPT: uuid-6eeada50-7cc7-4f05-b5c8-ac30476bd5dd / EXCLAMATORY PARTICLE
+:SYN-FUNC: uuid-cb01e2c5-710e-4334-953c-b72c8a001dd6
+:CHARPOS: 2
+:END:
+哉@zāi	[[tls:concept:EXCLAMATORY PARTICLE::#uuid-6eeada50-7cc7-4f05-b5c8-ac30476bd5dd][EXCLAMATORY PARTICLE]]	P [[tls:syn-func::#uuid-cb01e2c5-710e-4334-953c-b72c8a001dd6][ppostadV.+N{SUBJ}]] / exclamatory particle
+** 魚鱉厭深淵而就乾淺	when fish and turtles get tired of the depths and come to the surface
+:PROPERTIES:
+:SRC: HSWZ 10.20.02; tr. Hightower 1951, p.340f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:20a14:1::魚鱉 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 淵@yuān
+:PROPERTIES:
+:CONCEPT: uuid-f7b05a85-e7c7-4f95-8edd-ab6a49d63930 / LAKE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+淵@yuān	[[tls:concept:LAKE::#uuid-f7b05a85-e7c7-4f95-8edd-ab6a49d63930][LAKE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / Northern speech: very deep pool; deep pond
+** 禽獸厭深山而下於都澤	When animals get tired of the wilds and come down to the cities and plains
+:PROPERTIES:
+:SRC: HSWZ 10.20.02; tr. Hightower 1951, p.340f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:20a16:1::禽獸 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 深@shèn / 深@shēn
+:PROPERTIES:
+:CONCEPT: uuid-d68337ab-f776-4433-a9d3-d88d96fa8d2d / DEEP
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+深@shèn / 深@shēn	[[tls:concept:DEEP::#uuid-d68337ab-f776-4433-a9d3-d88d96fa8d2d][DEEP]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / unfathomable; endless (mountains etc)
+** 故得於田獵	the result is that they are taken by hunters.
+:PROPERTIES:
+:SRC: HSWZ 10.20.02; tr. Hightower 1951, p.340f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:20a17:50::故得 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 田獵@tiánliè
+:PROPERTIES:
+:CONCEPT: uuid-0d13d7d0-0cdc-438a-a1bb-2a28cdf18224 / HUNT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 53
+:END:
+田獵@tiánliè	[[tls:concept:HUNT::#uuid-0d13d7d0-0cdc-438a-a1bb-2a28cdf18224][HUNT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / hunters
+** 為獄不中邪	Are there litigations undecided?
+:PROPERTIES:
+:SRC: HSWZ 10.20.04; tr. Hightower 1951, p.341
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:20a26:1::為獄 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 獄@yù
+:PROPERTIES:
+:CONCEPT: uuid-5def6ee2-1b18-4c23-a86d-b127269c97d1 / LITIGATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+獄@yù	[[tls:concept:LITIGATE::#uuid-5def6ee2-1b18-4c23-a86d-b127269c97d1][LITIGATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / litigation; criminal law case; trial; criminal procedure 獄決罪定
+** 為國家有餘不足邪	Is there inequality in distribution in the state?
+:PROPERTIES:
+:SRC: HSWZ 10.20.04; tr. Hightower 1951, p.341
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:20a28:1::為國 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 2
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation
+** 臣聞畏鞭箠之嚴而不敢諫其父	"I have heard that the son who, fearing the severity of a whipping, dare not remonstrate with his father
+:PROPERTIES:
+:SRC: HSWZ 10.21.01; tr. Hightower 1951, p.341
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:21a05:1::「臣 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 鞭箠@biānchuí
+:PROPERTIES:
+:CONCEPT: uuid-759cd13e-e7e8-4ac5-99ee-b0c0f462a506 / WHIP
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 4
+:END:
+鞭箠@biānchuí	[[tls:concept:WHIP::#uuid-759cd13e-e7e8-4ac5-99ee-b0c0f462a506][WHIP]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / whips; a whip
+** 於是遂進諫曰	Whereupon he went ahead and offered a remonstrance:
+:PROPERTIES:
+:SRC: HSWZ 10.21.02; tr. Hightower 1951, p.341f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:21a09:1::於是 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 於是@yúshì
+:PROPERTIES:
+:CONCEPT: uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28 / THEREUPON
+:SYN-FUNC: uuid-fc393db1-993e-431d-9540-bc9fde4945d4
+:CHARPOS: 1
+:END:
+於是@yúshì	[[tls:concept:THEREUPON::#uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28][THEREUPON]]	V [[tls:syn-func::#uuid-fc393db1-993e-431d-9540-bc9fde4945d4][VPadS1.postS2]] / At that point, Whereupon; at that time; at this time (remarkably often after direct speeech: having said this,...; then; at that point, at this juncture; at this stage (in a text); and then; subsequently)
+** 欲啄而食之也	about to peck and eat him.
+:PROPERTIES:
+:SRC: HSWZ 10.21.03; tr. Hightower 1951, p.342
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:21a20:1::欲啄 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 啄@zhuó
+:PROPERTIES:
+:CONCEPT: uuid-b3d108a5-9594-4049-b3fb-6609aedc4979 / BITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+啄@zhuó	[[tls:concept:BITE::#uuid-b3d108a5-9594-4049-b3fb-6609aedc4979][BITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / peck at (in order to eat)
+** 不知童挾彈丸在下	does not know that the boy beneath the elm tree with cross-bow and pellets
+:PROPERTIES:
+:SRC: HSWZ 10.21.03; tr. Hightower 1951, p.342
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:21a22:1::不知 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 丸@wán
+:PROPERTIES:
+:CONCEPT: uuid-b0f09535-a2da-4bc5-8b6d-32f76ba0116d / WEAPON
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 6
+:END:
+丸@wán	[[tls:concept:WEAPON::#uuid-b0f09535-a2da-4bc5-8b6d-32f76ba0116d][WEAPON]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / missile in the form of pellets
+** 童子方欲彈黃雀	The boy, intent on shooting the sparrow,
+:PROPERTIES:
+:SRC: HSWZ 10.21.03; tr. Hightower 1951, p.342
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:21a24:1::童子 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 童子@tóngzǐ
+:PROPERTIES:
+:CONCEPT: uuid-69782280-e843-4dee-a55e-3ba2e193aa17 / BOY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+童子@tóngzǐ	[[tls:concept:BOY::#uuid-69782280-e843-4dee-a55e-3ba2e193aa17][BOY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / mere (uncapped) adolescent, little brat; boy; (but note that the word can also refer to a girl)
+*** 彈@dàn / 彈@tán
+:PROPERTIES:
+:CONCEPT: uuid-06b0425e-9a2f-46db-a4df-1fac3e9e25af / SHOOT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+彈@dàn / 彈@tán	[[tls:concept:SHOOT::#uuid-06b0425e-9a2f-46db-a4df-1fac3e9e25af][SHOOT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / shoot (bullets); shoot bullets at; metaphorical: catapult away
+** 不知前有深坑	does not know that in front of him is a deep pit
+:PROPERTIES:
+:SRC: HSWZ 10.21.03; tr. Hightower 1951, p.342
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:21a25:50::不知 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 坑@kēng
+:PROPERTIES:
+:CONCEPT: uuid-c3092449-5d04-46ae-a164-18e7251e7a2b / PIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 55
+:END:
+坑@kēng	[[tls:concept:PIT::#uuid-c3092449-5d04-46ae-a164-18e7251e7a2b][PIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / deep hole in the ground, deep puddle; cave; cavern
+** 非獨昆蟲眾庶若此也	It is not only animals and common people who behave like this;
+:PROPERTIES:
+:SRC: HSWZ 10.21.04; tr. Hightower 1951, p.342
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:21a29:1::非獨 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 昆蟲@kūnchóng
+:PROPERTIES:
+:CONCEPT: uuid-aa8da01d-1157-48aa-93e5-5d17239ec567 / INSECT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+昆蟲@kūnchóng	[[tls:concept:INSECT::#uuid-aa8da01d-1157-48aa-93e5-5d17239ec567][INSECT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / insects
+** 藏寶之臺燒	the tower in which his valuables were stored caught fire.
+:PROPERTIES:
+:SRC: HSWZ 10.22.01; tr. Hightower 1951, p.342
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:22a02:1::藏寶 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024 / PRECIOUS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 2
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024][PRECIOUS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / precious possession; precious things; treasure of high personal, monetary, social or moral value 三寶
+*** 臺@tái
+:PROPERTIES:
+:CONCEPT: uuid-28eef43e-dc96-483a-9466-27c4aa46e6f7 / TOWER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+臺@tái	[[tls:concept:TOWER::#uuid-28eef43e-dc96-483a-9466-27c4aa46e6f7][TOWER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / terrace; square platform built on an earth-mound, raised platform 高臺
+*** 燒@shāo
+:PROPERTIES:
+:CONCEPT: uuid-7d194c88-ff59-41ed-ba21-81e4e2f7a2ab / BURN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 5
+:END:
+燒@shāo	[[tls:concept:BURN::#uuid-7d194c88-ff59-41ed-ba21-81e4e2f7a2ab][BURN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / burn, catch fire; get burnt
+** 國之重寶也	They were the most important treasures of the state,
+:PROPERTIES:
+:SRC: HSWZ 10.22.02; tr. Hightower 1951, p.343
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:22a12:1::國之 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024 / PRECIOUS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 4
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024][PRECIOUS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / precious possession; precious things; treasure of high personal, monetary, social or moral value 三寶
+** 士大夫皆趨車走馬而救之	Officials and Great Officers all hastened in chariots and on horseback to put out the fire;
+:PROPERTIES:
+:SRC: HSWZ 10.22.02; tr. Hightower 1951, p.343
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:22a14:1::士大 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 走@zǒu
+:PROPERTIES:
+:CONCEPT: uuid-5d7110a2-7b35-4e3d-8d35-8ccc6ac2a289 / QUICK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 7
+:END:
+走@zǒu	[[tls:concept:QUICK::#uuid-5d7110a2-7b35-4e3d-8d35-8ccc6ac2a289][QUICK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / fleet-footed (horses), racing (horses)
+** 何敢無說	"How would I dare not have an explanation?
+:PROPERTIES:
+:SRC: HSWZ 10.22.03; tr. Hightower 1951, p.343
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:22a20:1::「何 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 何@hé
+:PROPERTIES:
+:CONCEPT: uuid-9139b363-7697-4f77-8e18-98f50f3c48e9 / HOW
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 1
+:END:
+何@hé	[[tls:concept:HOW::#uuid-9139b363-7697-4f77-8e18-98f50f3c48e9][HOW]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / how on earth? How on earth could you/he/I? 回何敢死？ 丘何敢乎？何足憂？
+** 王者藏於天下	that the kings has his treasure in the empire,
+:PROPERTIES:
+:SRC: HSWZ 10.22.03; tr. Hightower 1951, p.343
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:22a22:1::王者 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 王者@wàngzhě
+:PROPERTIES:
+:CONCEPT: uuid-538148de-2924-4c89-8401-e2e834b1ac66 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+王者@wàngzhě	[[tls:concept:RULER::#uuid-538148de-2924-4c89-8401-e2e834b1ac66][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a king, kings, the hypothetical king in question 王者之後也 "was a descendent of a king"
+** 農夫藏於囷庾	[the farmers in their granaries],
+:PROPERTIES:
+:SRC: HSWZ 10.22.03; tr. Hightower 1951, p.343
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:22a24:1::農夫 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 農夫@nóngfū
+:PROPERTIES:
+:CONCEPT: uuid-cdbbe11d-68b5-4bd3-a74a-d50d1d7c18d1 / PEASANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+農夫@nóngfū	[[tls:concept:PEASANT::#uuid-cdbbe11d-68b5-4bd3-a74a-d50d1d7c18d1][PEASANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the peasants; any peasant
+** 商賈藏於篋匱	and the merchants in their coffers.
+:PROPERTIES:
+:SRC: HSWZ 10.22.03; tr. Hightower 1951, p.343
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:22a25:50::商賈 / 韓詩外傳
+:CHARPOS: 50
+:END:
+*** 商賈@shānggǔ
+:PROPERTIES:
+:CONCEPT: uuid-3ab72572-90c9-4215-8f46-00931013f008 / MERCHANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 50
+:END:
+商賈@shānggǔ	[[tls:concept:MERCHANT::#uuid-3ab72572-90c9-4215-8f46-00931013f008][MERCHANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / merchants of all kinds 百工商賈
+*** 篋匱@qièguì
+:PROPERTIES:
+:CONCEPT: uuid-b5720e23-33ae-4f0f-8319-6d048c0d2261 / BOX
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 54
+:END:
+篋匱@qièguì	[[tls:concept:BOX::#uuid-b5720e23-33ae-4f0f-8319-6d048c0d2261][BOX]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / boxes and coffers
+** 為天下戮笑	and making him the laughing stock of the empire.
+:PROPERTIES:
+:SRC: HSWZ 10.22.05; tr. Hightower 1951, p.343
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:22a37:1::為天 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 僇@lù / 戮@lù
+:PROPERTIES:
+:CONCEPT: uuid-160e59e4-f587-448b-ad16-634aaf283ce9 / HUMILIATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-29c52a94-4526-436c-932c-f5af98b908d3
+:CHARPOS: 1
+:END:
+僇@lù / 戮@lù	[[tls:concept:HUMILIATE::#uuid-160e59e4-f587-448b-ad16-634aaf283ce9][HUMILIATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-29c52a94-4526-436c-932c-f5af98b908d3][+suo]]} / be humiliated (by the world) [Probably this should be regarded as an active vt, with a 所 understood. This needs reanalysis.CH]
+*** 戮笑@lùxiào
+:PROPERTIES:
+:CONCEPT: uuid-6f79e1ce-e0cd-4fe6-813f-87c056f727f4 / MOCK
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-29c52a94-4526-436c-932c-f5af98b908d3
+:CHARPOS: 4
+:END:
+戮笑@lùxiào	[[tls:concept:MOCK::#uuid-6f79e1ce-e0cd-4fe6-813f-87c056f727f4][MOCK]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-29c52a94-4526-436c-932c-f5af98b908d3][+suo]]} / be humiliated and laughed at> be mocked
+** 稼穡維寶	Their sowing and reaping are precious to them;
+:PROPERTIES:
+:SRC: HSWZ 10.22.06; tr. Hightower 1951, p.343
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:22a47:1::「稼 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 稼穡@jiàsè
+:PROPERTIES:
+:CONCEPT: uuid-ce9fb513-993c-419d-837a-280c3e829f3b / AGRICULTURE
+:SYN-FUNC: uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+稼穡@jiàsè	[[tls:concept:AGRICULTURE::#uuid-ce9fb513-993c-419d-837a-280c3e829f3b][AGRICULTURE]]	N [[tls:syn-func::#uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54][NPab{N1&N2}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (sow and harvest>) husbandry; agricultural production
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-da1433e1-39dd-46f0-acbc-f731801c654e / PRECIOUS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-da1433e1-39dd-46f0-acbc-f731801c654e][PRECIOUS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be precious
+** 吳之亡猶晚矣	the destruction of Wu was overdue even.
+:PROPERTIES:
+:SRC: HSWZ 10.23.02; tr. Hightower 1951, p.344
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:23a14:1::吳之 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 猶@yóu
+:PROPERTIES:
+:CONCEPT: uuid-40e55358-7ccd-42c4-a776-bb28e63c35cc / EVEN
+:SYN-FUNC: uuid-1594f116-777d-4c5d-8687-230c31016cde
+:CHARPOS: 4
+:END:
+猶@yóu	[[tls:concept:EVEN::#uuid-40e55358-7ccd-42c4-a776-bb28e63c35cc][EVEN]]	 [[tls:syn-func::#uuid-1594f116-777d-4c5d-8687-230c31016cde][padV.postN{SUBJ}:adV]] / even also; even (猶。。。何況)
+*** 晚@wǎn
+:PROPERTIES:
+:CONCEPT: uuid-0a20a57e-1757-4466-a296-2131c92011cd / LATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 5
+:END:
+晚@wǎn	[[tls:concept:LATE::#uuid-0a20a57e-1757-4466-a296-2131c92011cd][LATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be too late; be late; [ > be overdue]
+** 汝樂而我不憂矣	you will be happy and I will have no worries.
+:PROPERTIES:
+:SRC: HSWZ 10.24.02; tr. Hightower 1951, p.344f
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:24a14:1::汝樂 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 2
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / find communicative happiness; be communicatively happy (the optative cases have to be moved!)
+** 申鳴流涕而應之曰	Shen Ming replied weeping,
+:PROPERTIES:
+:SRC: HSWZ 10.24.06; tr. Hightower 1951, p.345
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:24a35:1::申鳴 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 流涕@liútì
+:PROPERTIES:
+:CONCEPT: uuid-b0210f9f-16d3-42ff-89cc-e47a663635e9 / WEEP
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+流涕@liútì	[[tls:concept:WEEP::#uuid-b0210f9f-16d3-42ff-89cc-e47a663635e9][WEEP]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / shed tears
+** 援桴鼓之	And seizing a drumstick he beat the signal for attack.
+:PROPERTIES:
+:SRC: HSWZ 10.24.06; tr. Hightower 1951, p.345
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:24a40:1::援桴 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 桴@fú / 枹@fú
+:PROPERTIES:
+:CONCEPT: uuid-3bb8d324-4300-4773-a6f3-677467ffe612 / STICK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+桴@fú / 枹@fú	[[tls:concept:STICK::#uuid-3bb8d324-4300-4773-a6f3-677467ffe612][STICK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / drumstick, baton (contrast chuí 棰 "bell-stick")
+*** 鼓@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-6c256800-854c-44d3-bf09-7fde8c41d821 / DRUM
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+鼓@gǔ	[[tls:concept:DRUM::#uuid-6c256800-854c-44d3-bf09-7fde8c41d821][DRUM]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / beat the drum to send (soldiers) into an attack
+** 行不兩全	In conduct I am not both [loyal and filail],
+:PROPERTIES:
+:SRC: HSWZ 10.24.07; tr. Hightower 1951, p.345
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:24a51:1::行不 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 兩@liǎng
+:PROPERTIES:
+:CONCEPT: uuid-ea457b4f-b1e0-4328-9360-2dffd036edf7 / BOTH
+:SYN-FUNC: uuid-6c799c2c-5270-4aab-abd9-8b5253865818
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 3
+:END:
+兩@liǎng	[[tls:concept:BOTH::#uuid-ea457b4f-b1e0-4328-9360-2dffd036edf7][BOTH]]	V [[tls:syn-func::#uuid-6c799c2c-5270-4aab-abd9-8b5253865818][vad.VtoN]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / both the objects; two objects
+*** 全@quán
+:PROPERTIES:
+:CONCEPT: uuid-5d2f6824-ae1c-4485-9173-0a5afedf3d52 / PERFECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 4
+:END:
+全@quán	[[tls:concept:PERFECT::#uuid-5d2f6824-ae1c-4485-9173-0a5afedf3d52][PERFECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to be perfect, cause to be perfectly developed
+** 遂自刎而死	Whereupon he cut his throat and died.
+:PROPERTIES:
+:SRC: HSWZ 10.24.08; tr. Hightower 1951, p.345
+:DATE: 6230	early Western Han
+:LOCATION: KR1c0066_010:24a56:1::遂自 / 韓詩外傳
+:CHARPOS: 1
+:END:
+*** 自刎@zìwěn
+:PROPERTIES:
+:CONCEPT: uuid-4aef7aa8-6497-4b68-97a5-f51487ffe323 / SUICIDE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 2
+:END:
+自刎@zìwěn	[[tls:concept:SUICIDE::#uuid-4aef7aa8-6497-4b68-97a5-f51487ffe323][SUICIDE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / cut one's own throat
+*** 刎@wěn
+:PROPERTIES:
+:CONCEPT: uuid-5a75f964-f6f9-46f0-bd79-70f7f654beeb / BEHEAD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 3
+:END:
+刎@wěn	[[tls:concept:BEHEAD::#uuid-5a75f964-f6f9-46f0-bd79-70f7f654beeb][BEHEAD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / cut (one's own) throat [=MSC]

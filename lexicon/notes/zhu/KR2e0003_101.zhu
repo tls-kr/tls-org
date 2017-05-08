@@ -1,0 +1,56 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_101
+#+DATE: 2017-02-08T16:41:19+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 此二國者	It was not that these two states
+:PROPERTIES:
+:SRC: ZGC 6.9.8; tr. Crump 1979 no.90, p 97, ed. Shanghaiguji p. 248
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_101:2a18:1::此二 / 戰國策
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-ce240511-8c89-4e53-b8ae-aaff017f6e20 / THIS
+:SYN-FUNC: uuid-bdc00169-c7b5-44a0-8231-e4072f2dc902
+:SEM-FEAT: uuid-40885358-4ad0-489c-b609-df23830eca19
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-ce240511-8c89-4e53-b8ae-aaff017f6e20][THIS]]	N [[tls:syn-func::#uuid-bdc00169-c7b5-44a0-8231-e4072f2dc902][npro1.adV{NUM}+N:adnpro2]] {[[tls:sem-feat::#uuid-40885358-4ad0-489c-b609-df23830eca19][N=concrete]]} / 此二人者
+** 百姓不聊生	the surviving people could not keep themselves alive.
+:PROPERTIES:
+:SRC: ZGC 6.9.14; tr. Crump 1979 no.90, p 98, ed. Shanghaiguji p. 248
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_101:2a68:1::百姓 / 戰國策
+:CHARPOS: 1
+:END:
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-3cd96c28-c477-4520-ae63-9ff7632ca79c / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-b6dffda3-770c-4e82-8329-6903528b1ab9
+:CHARPOS: 1
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-3cd96c28-c477-4520-ae63-9ff7632ca79c][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-b6dffda3-770c-4e82-8329-6903528b1ab9][common]]} / the (taxpaying) people (i.e. the entire population, particularly the common people like the peasants)
+** 王雖有之	Your majesty could possess it
+:PROPERTIES:
+:SRC: ZGC 6.9.15; tr. Crump 1979 no.90, p 98, ed. Shanghaiguji p. 249-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_101:2a88:1::王雖 / 戰國策
+:CHARPOS: 1
+:END:
+*** 王@wáng
+:PROPERTIES:
+:CONCEPT: uuid-1f624662-acac-490e-8400-4fddb2cb4bc8 / YOU
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 1
+:END:
+王@wáng	[[tls:concept:YOU::#uuid-1f624662-acac-490e-8400-4fddb2cb4bc8][YOU]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / your majesty
+*** 有@yǒu
+:PROPERTIES:
+:CONCEPT: uuid-58d9ffbe-8353-48e5-aa99-0dccd1ef93b0 / POSSESS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+有@yǒu	[[tls:concept:POSSESS::#uuid-58d9ffbe-8353-48e5-aa99-0dccd1ef93b0][POSSESS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / have; own by right; have in one's possession or control

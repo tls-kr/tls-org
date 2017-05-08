@@ -1,0 +1,657 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 毛詩 KR1c0001_002
+#+DATE: 2017-02-08T16:35:55+0900
+#+PROPERTY: COMMIT 840f2855d4a197c185b92c4078dc03678ac30333
+** 之子于歸	this young lady goes to her new home,
+:PROPERTIES:
+:SRC: SHI 012.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:4a03:1::之子 / 毛詩
+:CHARPOS: 1
+:END:
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-9fb0b7b5-2983-44f5-80f8-5e1c24208468 / HUMAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-36e8c65a-cee1-4a4b-b2b3-c1f9a3e46df3
+:CHARPOS: 2
+:END:
+子@zǐ	[[tls:concept:HUMAN::#uuid-9fb0b7b5-2983-44f5-80f8-5e1c24208468][HUMAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-36e8c65a-cee1-4a4b-b2b3-c1f9a3e46df3][reference=female]]} / this person (who happens to be female)
+** 百兩將之	a hundred carriages escort her.
+:PROPERTIES:
+:SRC: SHI 012.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:4a04:50::百兩 / 毛詩
+:CHARPOS: 50
+:END:
+*** 〓#輛@liàng / @
+:PROPERTIES:
+:CONCEPT: uuid-116977f0-2d83-4ba7-8eaf-3585c6d923f9 / VEHICLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+〓#輛@liàng / @	[[tls:concept:VEHICLE::#uuid-116977f0-2d83-4ba7-8eaf-3585c6d923f9][VEHICLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / vehicle; carriage
+*** 將@jiàng
+:PROPERTIES:
+:CONCEPT: uuid-a2fa1831-ce25-4171-a3ac-adb8d346374e / LEAD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 52
+:END:
+將@jiàng	[[tls:concept:LEAD::#uuid-a2fa1831-ce25-4171-a3ac-adb8d346374e][LEAD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / lead along > take along with one; guide along a good path; guide along
+** 于沼于沚	by the ponds, on the islets;
+:PROPERTIES:
+:SRC: SHI 012.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:9a01:1::于沼 / 毛詩
+:CHARPOS: 1
+:END:
+*** 沼@zhǎo
+:PROPERTIES:
+:CONCEPT: uuid-2d052d32-7918-41eb-840b-c71ebcbdc543 / LAKE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+沼@zhǎo	[[tls:concept:LAKE::#uuid-2d052d32-7918-41eb-840b-c71ebcbdc543][LAKE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / non-artificial lake; (uninhabitable) marshlands
+** 夙夜在公	morning and evening13 she is in the palace;
+:PROPERTIES:
+:SRC: SHI 013.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:11a02:1::夙夜 / 毛詩
+:CHARPOS: 1
+:END:
+*** 夙@sù
+:PROPERTIES:
+:CONCEPT: uuid-6b2544b2-79e2-45d9-b88a-0dd0d244a8cd / MORNING
+:SYN-FUNC: uuid-85043f3f-f41d-433b-8bea-c49352206a4e
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 1
+:END:
+夙@sù	[[tls:concept:MORNING::#uuid-6b2544b2-79e2-45d9-b88a-0dd0d244a8cd][MORNING]]	N [[tls:syn-func::#uuid-85043f3f-f41d-433b-8bea-c49352206a4e][nadS]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / poetic: early in the morning
+*** 夜@yè
+:PROPERTIES:
+:CONCEPT: uuid-17826b0e-dcca-4366-a67a-9d3598195cd8 / NIGHT
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 2
+:END:
+夜@yè	[[tls:concept:NIGHT::#uuid-17826b0e-dcca-4366-a67a-9d3598195cd8][NIGHT]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / late in the evening, late at night; by night
+** 薄言還歸	and now she returns home.
+:PROPERTIES:
+:SRC: SHI 013.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:11a04:1::薄言 / 毛詩
+:CHARPOS: 1
+:END:
+*** 還歸@huánguī
+:PROPERTIES:
+:CONCEPT: uuid-5814af08-04ea-4c1a-89da-36c906794c5e / RETURN
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+還歸@huánguī	[[tls:concept:RETURN::#uuid-5814af08-04ea-4c1a-89da-36c906794c5e][RETURN]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / return home
+** 喓喓草蟲	1. Yao-yao (sound) the insects in the grass;
+:PROPERTIES:
+:SRC: SHI 014.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:15a00:10::喓喓 / 毛詩
+:CHARPOS: 10
+:END:
+*** 草@cǎo
+:PROPERTIES:
+:CONCEPT: uuid-c0e395b5-5fb8-4f43-890a-7c6d6a7ca88a / GRASS
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:SEM-FEAT: uuid-77c7b90c-a21d-41e3-aa64-45a74d534109
+:CHARPOS: 12
+:END:
+草@cǎo	[[tls:concept:GRASS::#uuid-c0e395b5-5fb8-4f43-890a-7c6d6a7ca88a][GRASS]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] {[[tls:sem-feat::#uuid-77c7b90c-a21d-41e3-aa64-45a74d534109][habitat]]} / living in the grass
+** 未見君子	when I have not yet seen the lord,
+:PROPERTIES:
+:SRC: SHI 014.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:15a02:1::未見 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 憂心忡忡	my grieved heart is agitated14;
+:PROPERTIES:
+:SRC: SHI 014.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:15a03:50::憂心 / 毛詩
+:CHARPOS: 50
+:END:
+*** 憂@yōu
+:PROPERTIES:
+:CONCEPT: uuid-1025ad1c-fe20-43b8-8c71-4b2bed840b90 / WORRY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+憂@yōu	[[tls:concept:WORRY::#uuid-1025ad1c-fe20-43b8-8c71-4b2bed840b90][WORRY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / worried, troubled
+*** 忡@chōng
+:PROPERTIES:
+:CONCEPT: uuid-5feea692-05cd-4b7b-bc42-aebcbe839f6e / YEARN
+:SYN-FUNC: uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 52
+:END:
+忡@chōng	[[tls:concept:YEARN::#uuid-5feea692-05cd-4b7b-bc42-aebcbe839f6e][YEARN]]	V [[tls:syn-func::#uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2][vi.red]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / be full of longing, be full of yearning
+** 亦既覯止	when I have met him,
+:PROPERTIES:
+:SRC: SHI 014.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:15a05:1::亦既 / 毛詩
+:CHARPOS: 1
+:END:
+*** 覯@gòu
+:PROPERTIES:
+:CONCEPT: uuid-994d04a3-ad35-4e4f-aaef-6eea27d856b5 / MEET
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 3
+:END:
+覯@gòu	[[tls:concept:MEET::#uuid-994d04a3-ad35-4e4f-aaef-6eea27d856b5][MEET]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / get together with the contextually determinate person
+** 我心則降	my heart calms down.
+:PROPERTIES:
+:SRC: SHI 014.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:15a06:50::我心 / 毛詩
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / my
+*** 則@zé
+:PROPERTIES:
+:CONCEPT: uuid-f2bb496d-a67b-4edb-aaac-ba2c8c429e22 / THEN
+:SYN-FUNC: uuid-da484bd3-3314-4acf-befc-a46367a68935
+:CHARPOS: 52
+:END:
+則@zé	[[tls:concept:THEN::#uuid-f2bb496d-a67b-4edb-aaac-ba2c8c429e22][THEN]]	P [[tls:syn-func::#uuid-da484bd3-3314-4acf-befc-a46367a68935][padV{PRED}.postN{SUBJ}.post-S]] / then
+*** 降@xiáng
+:PROPERTIES:
+:CONCEPT: uuid-d81e5dc9-99f2-4d29-8f1d-eaafd1578a08 / PEACEFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+降@xiáng	[[tls:concept:PEACEFUL::#uuid-d81e5dc9-99f2-4d29-8f1d-eaafd1578a08][PEACEFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / calm down
+** 未見君子	when I have not yet seen the lord,
+:PROPERTIES:
+:SRC: SHI 014.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:16a03:1::未見 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 憂心惙惙	my grieved heart is sad;
+:PROPERTIES:
+:SRC: SHI 014.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:16a04:50::憂心 / 毛詩
+:CHARPOS: 50
+:END:
+*** 憂@yōu
+:PROPERTIES:
+:CONCEPT: uuid-1025ad1c-fe20-43b8-8c71-4b2bed840b90 / WORRY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+憂@yōu	[[tls:concept:WORRY::#uuid-1025ad1c-fe20-43b8-8c71-4b2bed840b90][WORRY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / worried, troubled
+*** 惙@chuò
+:PROPERTIES:
+:CONCEPT: uuid-e22e3041-a6fd-44c9-bb78-8864b5895bd4 / SAD
+:SYN-FUNC: uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2
+:CHARPOS: 52
+:END:
+惙@chuò	[[tls:concept:SAD::#uuid-e22e3041-a6fd-44c9-bb78-8864b5895bd4][SAD]]	V [[tls:syn-func::#uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2][vi.red]] / be very sad
+** 我心則說	my heart is pleased.
+:PROPERTIES:
+:SRC: SHI 014.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:16a07:1::我心 / 毛詩
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / my
+*** 則@zé
+:PROPERTIES:
+:CONCEPT: uuid-f2bb496d-a67b-4edb-aaac-ba2c8c429e22 / THEN
+:SYN-FUNC: uuid-da484bd3-3314-4acf-befc-a46367a68935
+:CHARPOS: 3
+:END:
+則@zé	[[tls:concept:THEN::#uuid-f2bb496d-a67b-4edb-aaac-ba2c8c429e22][THEN]]	P [[tls:syn-func::#uuid-da484bd3-3314-4acf-befc-a46367a68935][padV{PRED}.postN{SUBJ}.post-S]] / then
+** 未見君子	when I have not yet seen the lord,
+:PROPERTIES:
+:SRC: SHI 14.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:17a03:1::未見 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 我心傷悲	my heart is pained;
+:PROPERTIES:
+:SRC: SHI 14.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:17a04:50::我心 / 毛詩
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / my
+*** 傷悲@shāngbēi
+:PROPERTIES:
+:CONCEPT: uuid-4bd37002-6165-44e8-865e-ab0dc9e87300 / SAD
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 52
+:END:
+傷悲@shāngbēi	[[tls:concept:SAD::#uuid-4bd37002-6165-44e8-865e-ab0dc9e87300][SAD]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be very sad
+** 我心則夷	my heart is at ease.
+:PROPERTIES:
+:SRC: SHI 14.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:17a07:1::我心 / 毛詩
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / my
+** 于彼行潦	in those running pools.
+:PROPERTIES:
+:SRC: SHI 015.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:21a03:1::于彼 / 毛詩
+:CHARPOS: 1
+:END:
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-b1230969-d1e0-464a-a89d-183c6b7187ff / MOVE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+行@xíng	[[tls:concept:MOVE::#uuid-b1230969-d1e0-464a-a89d-183c6b7187ff][MOVE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / moving; flowing along
+*** 潦@lào
+:PROPERTIES:
+:CONCEPT: uuid-4dd42ef2-eb2c-4afc-9182-9e0de9936fc9 / PUDDLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+潦@lào	[[tls:concept:PUDDLE::#uuid-4dd42ef2-eb2c-4afc-9182-9e0de9936fc9][PUDDLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / puddle
+** 維筐及筥	there are baskets square and round;
+:PROPERTIES:
+:SRC: SHI 015.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:22a02:1::維筐 / 毛詩
+:CHARPOS: 1
+:END:
+*** 筐@kuāng
+:PROPERTIES:
+:CONCEPT: uuid-5b01135a-c352-4ee9-884f-6c2232f8beb3 / FOOD BASKET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+筐@kuāng	[[tls:concept:FOOD BASKET::#uuid-5b01135a-c352-4ee9-884f-6c2232f8beb3][FOOD BASKET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / SHI 291: ancient term for square bamboo basket, square in shape, used for carrying food
+*** 筥@jǔ
+:PROPERTIES:
+:CONCEPT: uuid-8ce5c13d-f26c-4980-a38b-1d805ba34ca0 / FOOD BASKET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+筥@jǔ	[[tls:concept:FOOD BASKET::#uuid-8ce5c13d-f26c-4980-a38b-1d805ba34ca0][FOOD BASKET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / SHI 291: archaic term: round covered bamboo basket for carrying food, larger than the dān 簞
+** 于以湘之	she goes to boil them,
+:PROPERTIES:
+:SRC: SHI 015.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:22a03:50::于以 / 毛詩
+:CHARPOS: 50
+:END:
+*** 湘@xiāng
+:PROPERTIES:
+:CONCEPT: uuid-97edaf55-1e81-46ad-a0bc-79126c4fbd5b / BOIL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+湘@xiāng	[[tls:concept:BOIL::#uuid-97edaf55-1e81-46ad-a0bc-79126c4fbd5b][BOIL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / boil
+** 維錡及釜	here are cauldrons and pans.
+:PROPERTIES:
+:SRC: SHI 015.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:22a04:50::維錡 / 毛詩
+:CHARPOS: 50
+:END:
+*** 錡@qí
+:PROPERTIES:
+:CONCEPT: uuid-6515de28-4e92-43d9-8b9b-d6680cf06e93 / COOKING VESSEL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+錡@qí	[[tls:concept:COOKING VESSEL::#uuid-6515de28-4e92-43d9-8b9b-d6680cf06e93][COOKING VESSEL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / cooking pot
+*** 釜@fǔ
+:PROPERTIES:
+:CONCEPT: uuid-712cac12-6dbe-4aad-91c0-ee4018bc72bd / COOKING VESSEL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+釜@fǔ	[[tls:concept:COOKING VESSEL::#uuid-712cac12-6dbe-4aad-91c0-ee4018bc72bd][COOKING VESSEL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / cooking pot
+** 于以奠之	3. She goes to deposit them,
+:PROPERTIES:
+:SRC: SHI 015.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:23a01:1::于以 / 毛詩
+:CHARPOS: 1
+:END:
+*** 奠@diàn
+:PROPERTIES:
+:CONCEPT: uuid-952ac0fb-3bc9-43e2-820d-80604afe452f / CORRECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+奠@diàn	[[tls:concept:CORRECT::#uuid-952ac0fb-3bc9-43e2-820d-80604afe452f][CORRECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / desposit in the ritually correct place
+** 宗室牖下	under the window in the ancestral shrine;
+:PROPERTIES:
+:SRC: SHI 015.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:23a02:50::宗室 / 毛詩
+:CHARPOS: 50
+:END:
+*** 宗室@zōngshì
+:PROPERTIES:
+:CONCEPT: uuid-2d23c398-26f9-4477-a19d-c9c09272f2d0 / TEMPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 50
+:END:
+宗室@zōngshì	[[tls:concept:TEMPLE::#uuid-2d23c398-26f9-4477-a19d-c9c09272f2d0][TEMPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / ancestral shrine
+** 誰其尸之	who sets them forth?
+:PROPERTIES:
+:SRC: SHI 015.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:23a03:50::誰其 / 毛詩
+:CHARPOS: 50
+:END:
+*** 誰其@shuíqí
+:PROPERTIES:
+:CONCEPT: uuid-81e8cc59-3f36-4395-8f09-318f24a6e69a / WHO
+:SYN-FUNC: uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 50
+:END:
+誰其@shuíqí	[[tls:concept:WHO::#uuid-81e8cc59-3f36-4395-8f09-318f24a6e69a][WHO]]	N [[tls:syn-func::#uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd][NPpro]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / who? (but note that the modal force of 其 is mostly present!!)
+** 何以穿我屋	By aid of what else could it break through into my house?
+:PROPERTIES:
+:SRC: SHI 017.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:34a02:1::何以 / 毛詩
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 4
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / my
+** 何以速我獄	By aid of what else could you urge on me a lawsuit?
+:PROPERTIES:
+:SRC: SHI 017.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:34a04:1::何以 / 毛詩
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-38601b54-9867-41c7-a8e2-cce55d74cd46 / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 4
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-38601b54-9867-41c7-a8e2-cce55d74cd46][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / me (non-contrastive)
+** 雖速我獄	But though you urge on me a lawsuit,
+:PROPERTIES:
+:SRC: SHI 017.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:34a05:50::雖速 / 毛詩
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-38601b54-9867-41c7-a8e2-cce55d74cd46 / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 52
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-38601b54-9867-41c7-a8e2-cce55d74cd46][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / me (non-contrastive)
+** 誰謂鼠無牙	3. Who says that the rat has no teeth?
+:PROPERTIES:
+:SRC: SHI 017.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:35a01:1::誰謂 / 毛詩
+:CHARPOS: 1
+:END:
+*** 牙@yá
+:PROPERTIES:
+:CONCEPT: uuid-d584f96d-9564-4b7e-8834-1348db3c1acf / TOOTH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+牙@yá	[[tls:concept:TOOTH::#uuid-d584f96d-9564-4b7e-8834-1348db3c1acf][TOOTH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / fangs; teeth
+** 退食自公	they withdraw for their meal from the court,
+:PROPERTIES:
+:SRC: SHI 018.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:39a02:1::退食 / 毛詩
+:CHARPOS: 1
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-bd64312e-4252-4c64-9b02-c797c9d8d996 / PALACE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+公@gōng	[[tls:concept:PALACE::#uuid-bd64312e-4252-4c64-9b02-c797c9d8d996][PALACE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / the office/palace (scil. of the duke)
+** 振振君子	Oh, my majestic lord,
+:PROPERTIES:
+:SRC: SHI 019.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:45a04:1::振振 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 振振君子	Oh, my majestic lord,
+:PROPERTIES:
+:SRC: SHI 019.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:46a05:1::振振 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 振振君子	Oh, my majestic lord,
+:PROPERTIES:
+:SRC: SHI 019.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:46a10:1::振振 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 振振君子	Oh, my majestic lord,
+:PROPERTIES:
+:SRC: SHI 019.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:47a05:1::振振 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 頃筐塈之	in a slanting basket I take them (the fruits);
+:PROPERTIES:
+:SRC: SHI 020.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:53a02:1::頃筐 / 毛詩
+:CHARPOS: 1
+:END:
+*** 頃筐@qīngkuāng
+:PROPERTIES:
+:CONCEPT: uuid-f0deab05-6217-4a21-9677-b08eb904ee57 / BASKET
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+頃筐@qīngkuāng	[[tls:concept:BASKET::#uuid-f0deab05-6217-4a21-9677-b08eb904ee57][BASKET]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / slanting basket
+*** 筐@kuāng
+:PROPERTIES:
+:CONCEPT: uuid-5b01135a-c352-4ee9-884f-6c2232f8beb3 / FOOD BASKET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+筐@kuāng	[[tls:concept:FOOD BASKET::#uuid-5b01135a-c352-4ee9-884f-6c2232f8beb3][FOOD BASKET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / SHI 291: ancient term for square bamboo basket, square in shape, used for carrying food
+** 寔命不猶	truly our lot is not like (hers).
+:PROPERTIES:
+:SRC: SHI 021.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:58a05:1::寔命 / 毛詩
+:CHARPOS: 1
+:END:
+*** 寔@shí
+:PROPERTIES:
+:CONCEPT: uuid-41a7e7c4-104e-41f1-947c-be157e93e3fd / THIS
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 1
+:END:
+寔@shí	[[tls:concept:THIS::#uuid-41a7e7c4-104e-41f1-947c-be157e93e3fd][THIS]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / this
+** 有女懷春	there is a girl having spring feelings,
+:PROPERTIES:
+:SRC: SHI 023.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:68a02:1::有女 / 毛詩
+:CHARPOS: 1
+:END:
+*** 春@chūn
+:PROPERTIES:
+:CONCEPT: uuid-5950df81-94c7-442c-a0b4-b05521d47ffa / DESIRE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+春@chūn	[[tls:concept:DESIRE::#uuid-5950df81-94c7-442c-a0b4-b05521d47ffa][DESIRE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} /
+** 無使尨也吠	do not make the dog bark!
+:PROPERTIES:
+:SRC: SHI 023.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:70a03:1::無使 / 毛詩
+:CHARPOS: 1
+:END:
+*** 尨@máng
+:PROPERTIES:
+:CONCEPT: uuid-8d34d2c7-32a7-4deb-9ca2-bcb2f5a7f0c7 / DOG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+尨@máng	[[tls:concept:DOG::#uuid-8d34d2c7-32a7-4deb-9ca2-bcb2f5a7f0c7][DOG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / shaggy dog
+** 彼茁者葭	1. Those sprouting reeds!
+:PROPERTIES:
+:SRC: SHI 024.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:80a00:6::彼茁 / 毛詩
+:CHARPOS: 6
+:END:
+*** 茁@zhú
+:PROPERTIES:
+:CONCEPT: uuid-d8c01051-3e2f-42de-a13c-5af63c8a5dd2 / SPROUT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 7
+:END:
+茁@zhú	[[tls:concept:SPROUT::#uuid-d8c01051-3e2f-42de-a13c-5af63c8a5dd2][SPROUT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / sprout forth
+** 壹發五豝	By one discharge five pigs!
+:PROPERTIES:
+:SRC: SHI 024.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:80a01:50::壹發 / 毛詩
+:CHARPOS: 50
+:END:
+*** 壹@yī
+:PROPERTIES:
+:CONCEPT: uuid-8d7161c3-3df7-4703-bdfb-a59eb8ebf3b7 / ONCE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+壹@yī	[[tls:concept:ONCE::#uuid-8d7161c3-3df7-4703-bdfb-a59eb8ebf3b7][ONCE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / once, one time (versus 再 "twice"); at any time; also: 壹陰兮壹陽
+** 壹發五豵	By one discharge five young pigs!
+:PROPERTIES:
+:SRC: SHI 025.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_002:81a02:1::壹發 / 毛詩
+:CHARPOS: 1
+:END:
+*** 壹@yī
+:PROPERTIES:
+:CONCEPT: uuid-8d7161c3-3df7-4703-bdfb-a59eb8ebf3b7 / ONCE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+壹@yī	[[tls:concept:ONCE::#uuid-8d7161c3-3df7-4703-bdfb-a59eb8ebf3b7][ONCE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / once, one time (versus 再 "twice"); at any time; also: 壹陰兮壹陽

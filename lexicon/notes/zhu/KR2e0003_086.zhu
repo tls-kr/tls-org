@@ -1,0 +1,147 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_086
+#+DATE: 2017-02-08T16:41:18+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 圍陘	and surrounded the city of Hsing.
+:PROPERTIES:
+:SRC: ZGC 5.12.1; tr. Crump 1979 no. 99, p 112, ed. Shanghaiguji p. 198 Attacking men and attacking territories
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_086:1a02:1::圍陘 / 戰國策
+:CHARPOS: 1
+:END:
+*** 圍@wéi
+:PROPERTIES:
+:CONCEPT: uuid-b7f3d0a5-fb45-443f-9c46-aad85e7c6409 / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+圍@wéi	[[tls:concept:ATTACK::#uuid-b7f3d0a5-fb45-443f-9c46-aad85e7c6409][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / besiege (typically a city); lay siege to
+** 有攻人者	'There are those who attack territories
+:PROPERTIES:
+:SRC: ZGC 5.12.1; tr. Crump 1979 no. 99, p 112, ed. Shanghaiguji p. 198 Attacking men and attacking territories
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_086:1a04:1::「有 / 戰國策
+:CHARPOS: 1
+:END:
+*** 攻@gōng
+:PROPERTIES:
+:CONCEPT: uuid-59ba3ea0-98e5-47d6-95dd-198de11c360d / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+攻@gōng	[[tls:concept:ATTACK::#uuid-59ba3ea0-98e5-47d6-95dd-198de11c360d][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / launch an attack (which is not necessarily successful) against; direct attack; assault, personally attack (a person); sometimes used very generally: attack (an opponent, in any way) [The examples have to be distributed into the subcategories below.]
+** 有攻地者	and those who attack men.
+:PROPERTIES:
+:SRC: ZGC 5.12.1; tr. Crump 1979 no. 99, p 112, ed. Shanghaiguji p. 198 Attacking men and attacking territories
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_086:1a05:50::有攻 / 戰國策
+:CHARPOS: 50
+:END:
+*** 攻@gōng
+:PROPERTIES:
+:CONCEPT: uuid-59ba3ea0-98e5-47d6-95dd-198de11c360d / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+攻@gōng	[[tls:concept:ATTACK::#uuid-59ba3ea0-98e5-47d6-95dd-198de11c360d][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / launch an attack (which is not necessarily successful) against; direct attack; assault, personally attack (a person); sometimes used very generally: attack (an opponent, in any way) [The examples have to be distributed into the subcategories below.]
+** 人主所甚愛也	are dear to the hearts of rulers.
+:PROPERTIES:
+:SRC: ZGC 5.12.2; tr. Crump 1979 no. 99, p 112, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_086:1a11:1::人主 / 戰國策
+:CHARPOS: 1
+:END:
+*** 人主@rénzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-bec927f5-0304-4575-b245-7634a2099a95 / RULER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+人主@rénzhǔ	[[tls:concept:RULER::#uuid-bec927f5-0304-4575-b245-7634a2099a95][RULER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a ruler of men in general
+** 人主者	Now for a ruler,
+:PROPERTIES:
+:SRC: ZGC 5.12.2; tr. Crump 1979 no. 99, p 112, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_086:1a12:50::人主 / 戰國策
+:CHARPOS: 50
+:END:
+*** 人主@rénzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-bec927f5-0304-4575-b245-7634a2099a95 / RULER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+人主@rénzhǔ	[[tls:concept:RULER::#uuid-bec927f5-0304-4575-b245-7634a2099a95][RULER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a ruler of men in general
+** 人臣之所樂為死也	officers and men will gladly die;
+:PROPERTIES:
+:SRC: ZGC 5.12.2; tr. Crump 1979 no. 99, p 112, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_086:1a13:50::人臣 / 戰國策
+:CHARPOS: 50
+:END:
+*** 人臣@rénchén
+:PROPERTIES:
+:CONCEPT: uuid-ab986d15-df1c-4213-8860-0e26918e4fa6 / MINISTER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+人臣@rénchén	[[tls:concept:MINISTER::#uuid-ab986d15-df1c-4213-8860-0e26918e4fa6][MINISTER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a minister; ministers (non-referential)
+** 臣願王之毋獨攻其地	I would have you attack men
+:PROPERTIES:
+:SRC: ZGC 5.12.3; tr. Crump 1979 no. 99, p 112, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_086:1a18:1::臣願 / 戰國策
+:CHARPOS: 1
+:END:
+*** 願@yuàn
+:PROPERTIES:
+:CONCEPT: uuid-8aa1c1f9-7e60-4d7e-aacd-7af87709b325 / HOPE
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 2
+:END:
+願@yuàn	[[tls:concept:HOPE::#uuid-8aa1c1f9-7e60-4d7e-aacd-7af87709b325][HOPE]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / hope that S 願陛下之幸熟圖之
+** 且削地而以自贖於王	he will cede you territory to buy himself off.
+:PROPERTIES:
+:SRC: ZGC 5.12.3; tr. Crump 1979 no. 99, p 112, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_086:1a23:1::且削 / 戰國策
+:CHARPOS: 1
+:END:
+*** 贖@shú
+:PROPERTIES:
+:CONCEPT: uuid-f0c8dff9-bc62-470a-8bed-75e5b9299f0a / PAY
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 7
+:END:
+贖@shú	[[tls:concept:PAY::#uuid-f0c8dff9-bc62-470a-8bed-75e5b9299f0a][PAY]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / buy one's freedom from, pay for the freedom of N1 from N2
+** 幾割地而韓不盡	But how many times can Han cede its land and survive?
+:PROPERTIES:
+:SRC: ZGC 5.12.4; tr. Crump 1979 no. 99, p 112, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_086:1a24:50::幾割 / 戰國策
+:CHARPOS: 50
+:END:
+*** 割@gē
+:PROPERTIES:
+:CONCEPT: uuid-7d8eb5c2-ee92-4e66-ae58-c47cd499f072 / CUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+割@gē	[[tls:concept:CUT::#uuid-7d8eb5c2-ee92-4e66-ae58-c47cd499f072][CUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cut off; cut into; cut up; metaphorical: carve out and cede (a piece of territory etc); cut out (a piece of meat, a piece of cloth for use in sewing);
+** 則王逐張儀	the king of Han will cast him out and replace him with another
+:PROPERTIES:
+:SRC: ZGC 5.12.4; tr. Crump 1979 no. 99, p 112, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_086:1a26:1::則王 / 戰國策
+:CHARPOS: 1
+:END:
+*** 逐@zhú
+:PROPERTIES:
+:CONCEPT: uuid-7ac4cec0-7cf5-4bbc-9b0e-f002f98888b3 / BANISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+逐@zhú	[[tls:concept:BANISH::#uuid-7ac4cec0-7cf5-4bbc-9b0e-f002f98888b3][BANISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / chase away, drive away; banish from one's presence; oust (a ruler etc)

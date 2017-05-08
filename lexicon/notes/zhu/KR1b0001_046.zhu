@@ -1,0 +1,479 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_046
+#+DATE: 2017-02-08T16:35:52+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 王來自奄	the king came from Yān
+:PROPERTIES:
+:SRC: SHU 38.1, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a02:1::王來 / 尚書
+:CHARPOS: 1
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-a8adabb7-e181-4aa3-af21-821f5a88f48b / FROM
+:SYN-FUNC: uuid-97424691-5023-4a2e-b90f-d60a1e3b5673
+:CHARPOS: 3
+:END:
+自@zì	[[tls:concept:FROM::#uuid-a8adabb7-e181-4aa3-af21-821f5a88f48b][FROM]]	V [[tls:syn-func::#uuid-97424691-5023-4a2e-b90f-d60a1e3b5673][vt{0}oN.postadV]] / OBI 4: from 出自湯谷
+** 我惟大降爾命	I grandly (send down orders to you=) give you my commands.
+:PROPERTIES:
+:SRC: SHU 38.2, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a08:1::我惟 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-051d9548-dba7-4f8f-b9fe-4bb69448f295 / EGO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-051d9548-dba7-4f8f-b9fe-4bb69448f295][EGO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / I (on the other hand), I for my part, I as opposed to others
+** 不克靈承于旅	He could not exellently take care of the multitude.
+:PROPERTIES:
+:SRC: SHU 38.5, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a23:1::不克 / 尚書
+:CHARPOS: 1
+:END:
+*** 靈@líng
+:PROPERTIES:
+:CONCEPT: uuid-1a6c2a2c-633d-416e-9ffe-fad091ee85d6 / SUPERNATURAL
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 3
+:END:
+靈@líng	[[tls:concept:SUPERNATURAL::#uuid-1a6c2a2c-633d-416e-9ffe-fad091ee85d6][SUPERNATURAL]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / with supernatural efficacy
+** 天惟時求民主	Heaven then sought a (new) lord for the people,
+:PROPERTIES:
+:SRC: SHU 38.6, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a28:1::天惟 / 尚書
+:CHARPOS: 1
+:END:
+*** 民主@mínzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-6ea1e3ae-bb96-420d-8263-e380c529642a / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 5
+:END:
+民主@mínzhǔ	[[tls:concept:RULER::#uuid-6ea1e3ae-bb96-420d-8263-e380c529642a][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a lord of men　cf. also 民之主
+*** 主@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-009d5256-0424-43d2-8383-5c8ac38eb623 / RULER
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 6
+:END:
+主@zhǔ	[[tls:concept:RULER::#uuid-009d5256-0424-43d2-8383-5c8ac38eb623][RULER]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / the person in charge (of the contextually determinate N), sometimes used in transferred even more abstract sense: ruling agency, dominant force.
+** 代夏作民主	could supercede Xià and become the lord of the people.
+:PROPERTIES:
+:SRC: SHU 38.8, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a37:1::代夏 / 尚書
+:CHARPOS: 1
+:END:
+*** 民主@mínzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-6a82481c-a657-4aa5-b403-22600d5d400f / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-ff802381-5859-48eb-909a-e937d69218c6
+:CHARPOS: 4
+:END:
+民主@mínzhǔ	[[tls:concept:RULER::#uuid-6a82481c-a657-4aa5-b403-22600d5d400f][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-ff802381-5859-48eb-909a-e937d69218c6][referential]]} / lord of men, ruler
+*** 主@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-009d5256-0424-43d2-8383-5c8ac38eb623 / RULER
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 5
+:END:
+主@zhǔ	[[tls:concept:RULER::#uuid-009d5256-0424-43d2-8383-5c8ac38eb623][RULER]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / the person in charge (of the contextually determinate N), sometimes used in transferred even more abstract sense: ruling agency, dominant force.
+** 誥告爾多方	I inform and tell (you in) your numerous regions,
+:PROPERTIES:
+:SRC: SHU 38.13, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a49:1::『誥 / 尚書
+:CHARPOS: 1
+:END:
+*** 誥告@gàogào
+:PROPERTIES:
+:CONCEPT: uuid-48776300-13f2-42f8-b5c7-e763b1ccbf5f / PUBLICISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+誥告@gàogào	[[tls:concept:PUBLICISE::#uuid-48776300-13f2-42f8-b5c7-e763b1ccbf5f][PUBLICISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / admonish publicly and solemnly
+** 子孫誕作民主	(so that) his sons and grandsons would grandly be the lords of the people,
+:PROPERTIES:
+:SRC: SHU 38.17
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a65:8::子孫 / 尚書
+:CHARPOS: 8
+:END:
+*** 民主@mínzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-6ea1e3ae-bb96-420d-8263-e380c529642a / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 12
+:END:
+民主@mínzhǔ	[[tls:concept:RULER::#uuid-6ea1e3ae-bb96-420d-8263-e380c529642a][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a lord of men　cf. also 民之主
+*** 主@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-009d5256-0424-43d2-8383-5c8ac38eb623 / RULER
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 13
+:END:
+主@zhǔ	[[tls:concept:RULER::#uuid-009d5256-0424-43d2-8383-5c8ac38eb623][RULER]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / the person in charge (of the contextually determinate N), sometimes used in transferred even more abstract sense: ruling agency, dominant force.
+** 惟我周王	But our king of Zhōu
+:PROPERTIES:
+:SRC: SHU 38.19, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a71:1::惟我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 靈承于旅	exellently took care of the people,
+:PROPERTIES:
+:SRC: SHU 38.19, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a71:50::靈承 / 尚書
+:CHARPOS: 50
+:END:
+*** 靈@líng
+:PROPERTIES:
+:CONCEPT: uuid-1a6c2a2c-633d-416e-9ffe-fad091ee85d6 / SUPERNATURAL
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+靈@líng	[[tls:concept:SUPERNATURAL::#uuid-1a6c2a2c-633d-416e-9ffe-fad091ee85d6][SUPERNATURAL]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / with supernatural efficacy
+** 天惟式教我用休	Heaven then instructed us to avail ourselves of its grace,
+:PROPERTIES:
+:SRC: SHU 38.19, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a74:1::天惟 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-8d46e4dd-2aa1-42b7-8f1b-cd5d64aab254 / WE
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 5
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-8d46e4dd-2aa1-42b7-8f1b-cd5d64aab254][WE]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / pivot: I
+** 今我曷敢多誥	Now, how dare I make these many declarations?
+:PROPERTIES:
+:SRC: SHU 38.20, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a77:1::今我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-f6d689f3-eb57-4368-9845-dbb36607be8e / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-f6d689f3-eb57-4368-9845-dbb36607be8e][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (at present, or remembering the personal past)
+*** 誥@gào
+:PROPERTIES:
+:CONCEPT: uuid-4ee26bc8-7aee-4b5a-8779-8bb8b626abe3 / PUBLICISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+誥@gào	[[tls:concept:PUBLICISE::#uuid-4ee26bc8-7aee-4b5a-8779-8bb8b626abe3][PUBLICISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / make announcements, harangue one's audience
+** 我惟大降爾四國民命	I grandly send down orders to the men of your four states.
+:PROPERTIES:
+:SRC: SHU 38.20, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a78:50::我惟 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c7654b87-92ae-4eb3-8658-06b766c96e12 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-c7654b87-92ae-4eb3-8658-06b766c96e12][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c][V=future.action]]} / I (with future predicate)
+** 爾曷不夾介乂我周王	Why do you not support and assist and (direct=) guide our king of Zhōu,
+:PROPERTIES:
+:SRC: SHU 38.21, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a80:1::爾曷 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 7
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 爾乃不大宅天命	You do not greatly (settle=) consolidate Heaven`s mandate.
+:PROPERTIES:
+:SRC: SHU 38.22, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a87:1::爾乃 / 尚書
+:CHARPOS: 1
+:END:
+*** 天命@tiānmìng
+:PROPERTIES:
+:CONCEPT: uuid-533f6496-d740-498f-9ddc-ea03efec1d2c / COMMAND
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:CHARPOS: 6
+:END:
+天命@tiānmìng	[[tls:concept:COMMAND::#uuid-533f6496-d740-498f-9ddc-ea03efec1d2c][COMMAND]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] / command from Heaven, heavenly decree (on any subject)
+** 爾乃自作不典	You yourselves do unlawful things
+:PROPERTIES:
+:SRC: SHU 38.22, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a89:1::爾乃 / 尚書
+:CHARPOS: 1
+:END:
+*** 不典@bùdiǎn
+:PROPERTIES:
+:CONCEPT: uuid-4d0a77ec-f5ae-413f-9896-916545176c83 / CRIME
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+不典@bùdiǎn	[[tls:concept:CRIME::#uuid-4d0a77ec-f5ae-413f-9896-916545176c83][CRIME]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / archaic: crime
+** 我惟時其教告之	I will therefor instruct and tell you.
+:PROPERTIES:
+:SRC: SHU 38.23, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a91:1::我惟 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c7654b87-92ae-4eb3-8658-06b766c96e12 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-c7654b87-92ae-4eb3-8658-06b766c96e12][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c][V=future.action]]} / I (with future predicate)
+** 我惟時其戰要囚之	I will therefore put fear into you and arrest you for trial,
+:PROPERTIES:
+:SRC: SHU 38.23, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a92:50::我惟 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c7654b87-92ae-4eb3-8658-06b766c96e12 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-c7654b87-92ae-4eb3-8658-06b766c96e12][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c][V=future.action]]} / I (with future predicate)
+** 至于再至于三	even twice, even thrice.
+:PROPERTIES:
+:SRC: SHU 38.23, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a93:50::至于 / 尚書
+:CHARPOS: 50
+:END:
+*** 再@zài
+:PROPERTIES:
+:CONCEPT: uuid-9df0487d-cf18-40ed-ad01-52248ddef9f0 / REPEAT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 52
+:END:
+再@zài	[[tls:concept:REPEAT::#uuid-9df0487d-cf18-40ed-ad01-52248ddef9f0][REPEAT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / repetition 有再 "there will be a repetition"
+*** 三@sān
+:PROPERTIES:
+:CONCEPT: uuid-2337adc0-cf95-4c01-b2dd-1e34644376bb / THREE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+三@sān	[[tls:concept:THREE::#uuid-2337adc0-cf95-4c01-b2dd-1e34644376bb][THREE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / the doing something three times
+** 乃有不用我降爾命	If there are those who do not (use=) obey the orders which I have sent down to you,
+:PROPERTIES:
+:SRC: SHU 38.23, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a94:50::乃有 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-916fbed1-2af4-4ca3-ae90-0b92fb1e3757 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-0e767368-e75b-4817-87fa-5ebc3002f3cd
+:CHARPOS: 54
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-916fbed1-2af4-4ca3-ae90-0b92fb1e3757][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-0e767368-e75b-4817-87fa-5ebc3002f3cd][V=past.action]]} / I (subject of authoritative action in the past)
+** 非我有周秉德不康寧	It is not that the (virtue=) character which we Zhōu (hold=) have is unruly,
+:PROPERTIES:
+:SRC: SHU 38.23, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a96:1::非我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 乃惟爾自速辜	it is that you yourselves draw upon yourselves guilt.
+:PROPERTIES:
+:SRC: SHU 38.23, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a97:50::乃惟 / 尚書
+:CHARPOS: 50
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-3db5f2ec-9590-4077-b3d4-614ada24c880 / SELF
+:SYN-FUNC: uuid-980f771f-51fd-4e4c-9e14-addf1b1a814c
+:SEM-FEAT: uuid-15fe9d0c-4851-43f8-a14d-416cefeabf4d
+:CHARPOS: 53
+:END:
+自@zì	[[tls:concept:SELF::#uuid-3db5f2ec-9590-4077-b3d4-614ada24c880][SELF]]	N [[tls:syn-func::#uuid-980f771f-51fd-4e4c-9e14-addf1b1a814c][npro+VtoN]] {[[tls:sem-feat::#uuid-15fe9d0c-4851-43f8-a14d-416cefeabf4d][reflexive.自.ownN]]} / (V) one's own (N) 自為禍 "bring about one's own misfortune"
+** 今爾奔走臣我監五祀	Now you have hastened about and served our inspectors for five years.
+:PROPERTIES:
+:SRC: SHU 38.24, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a101:1::今爾 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 6
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+*** 祀@sì
+:PROPERTIES:
+:CONCEPT: uuid-168fdd32-3985-4d82-8804-59f576cbe886 / YEAR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 9
+:END:
+祀@sì	[[tls:concept:YEAR::#uuid-168fdd32-3985-4d82-8804-59f576cbe886][YEAR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / archaic, rare, SHU: year
+** 爾尚不忌于凶德	The superiors will not have aversion for your evil dispositions.
+:PROPERTIES:
+:SRC: SHU 38.27, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a109:1::爾尚 / 尚書
+:CHARPOS: 1
+:END:
+*** 凶德@xiōngdé
+:PROPERTIES:
+:CONCEPT: uuid-e72a905b-272d-4b28-91e0-1f13efd894e3 / WICKED
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 6
+:END:
+凶德@xiōngdé	[[tls:concept:WICKED::#uuid-e72a905b-272d-4b28-91e0-1f13efd894e3][WICKED]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / vice; viciousness [perhaps also NPab - act]
+*** 德@dé
+:PROPERTIES:
+:CONCEPT: uuid-7ff4696c-f188-496e-b1f1-99f9ba8f4b42 / FEATURE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 7
+:END:
+德@dé	[[tls:concept:FEATURE::#uuid-7ff4696c-f188-496e-b1f1-99f9ba8f4b42][FEATURE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / trait; characteristic feature; characteristic powers (of wine etc)
+** 我有周惟其大介賚爾	We, lords of Zhōu,will greatly help and reward you.
+:PROPERTIES:
+:SRC: SHU 38.28, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a115:1::我有 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 爾不克勸忱我命	if you cannot be (stimulated=) induced (to be faithful to=) faithfully to observe my commands,
+:PROPERTIES:
+:SRC: SHU 38.29, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a121:1::爾不 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 6
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / my
+** 我則致天之罰	I will then apply Heaven`s punishment,
+:PROPERTIES:
+:SRC: SHU 38.29, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a127:1::我則 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c7654b87-92ae-4eb3-8658-06b766c96e12 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-c7654b87-92ae-4eb3-8658-06b766c96e12][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c][V=future.action]]} / I (with future predicate)
+** 我不惟多誥	I do not discourse much,
+:PROPERTIES:
+:SRC: SHU 38.30, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a130:1::『我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c7654b87-92ae-4eb3-8658-06b766c96e12 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-c7654b87-92ae-4eb3-8658-06b766c96e12][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c][V=future.action]]} / I (with future predicate)
+*** 誥@gào
+:PROPERTIES:
+:CONCEPT: uuid-4ee26bc8-7aee-4b5a-8779-8bb8b626abe3 / PUBLICISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+誥@gào	[[tls:concept:PUBLICISE::#uuid-4ee26bc8-7aee-4b5a-8779-8bb8b626abe3][PUBLICISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / make announcements, harangue one's audience
+** 我惟祗告爾命	I make announcement to you about my command.
+:PROPERTIES:
+:SRC: SHU 38.30, tr. Karlgren 62
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_046:2a131:50::我惟 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-c7654b87-92ae-4eb3-8658-06b766c96e12 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-c7654b87-92ae-4eb3-8658-06b766c96e12][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-c5ff114b-e757-4705-aeb6-f0b145bc630c][V=future.action]]} / I (with future predicate)

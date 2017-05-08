@@ -1,0 +1,149 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_071
+#+DATE: 2017-02-08T16:41:16+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 甘茂相秦	While Kan Mao was chief minister of Ch'in,
+:PROPERTIES:
+:SRC: ZGC 4.13.1; tr. Crump 1979 no. 73, p 80 Kan Mao eliminates a rival by craft
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_071:1a01:50::甘茂 / 戰國策
+:CHARPOS: 50
+:END:
+*** 相@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-2f1c211e-24bf-4671-971b-55f8b9ec8369 / MINISTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-30d59aba-58eb-4679-b8e1-d48c62d29bb5
+:CHARPOS: 52
+:END:
+相@xiàng	[[tls:concept:MINISTER::#uuid-2f1c211e-24bf-4671-971b-55f8b9ec8369][MINISTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-30d59aba-58eb-4679-b8e1-d48c62d29bb5][N=state]]} / act as prime minister for (a state); become prime minister of
+** 秦王愛公孫衍	the king became very partial to Kung-sun Yen.
+:PROPERTIES:
+:SRC: ZGC 4.13.1; tr. Crump 1979 no. 73, p 80 Kan Mao eliminates a rival by craft
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_071:1a02:50::秦王 / 戰國策
+:CHARPOS: 50
+:END:
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-ce906a2d-6d9d-4790-a5e2-f63ff40dddfe / LIKE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+愛@ài	[[tls:concept:LIKE::#uuid-ce906a2d-6d9d-4790-a5e2-f63ff40dddfe][LIKE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / have as one's protege, be favourably disposed towards
+** 因自謂之曰	said the king
+:PROPERTIES:
+:SRC: ZGC 4.13.1; tr. Crump 1979 no. 73, p 80 Kan Mao eliminates a rival by craft
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_071:1a04:1::因自 / 戰國策
+:CHARPOS: 1
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-f6841059-ed39-40d9-a595-5df634040bd3 / PERSONALLY
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:CHARPOS: 2
+:END:
+自@zì	[[tls:concept:PERSONALLY::#uuid-f6841059-ed39-40d9-a595-5df634040bd3][PERSONALLY]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] / oneself, in person; by oneself (Perhaps this should be npro+V[PRED]. I do not know how one would argue one way or the other.)
+** 甘茂之吏道而聞之	One of Kan Mao's subalterns passed by,
+:PROPERTIES:
+:SRC: ZGC 4.13.1; tr. Crump 1979 no. 73, p 80 Kan Mao eliminates a rival by craft
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_071:1a06:1::甘茂 / 戰國策
+:CHARPOS: 1
+:END:
+*** 吏@lì
+:PROPERTIES:
+:CONCEPT: uuid-59bf9688-097f-4cd9-badf-bcd478128c72 / MAGISTRATE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+吏@lì	[[tls:concept:MAGISTRATE::#uuid-59bf9688-097f-4cd9-badf-bcd478128c72][MAGISTRATE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / minor law enforcement officer; police officer; magistrate
+*** 道@dào
+:PROPERTIES:
+:CONCEPT: uuid-795aa28e-7392-44f9-829c-bfca3f034e54 / WAY
+:SYN-FUNC: uuid-9f482f91-d3b7-4fdd-9fe5-8a7fe712f174
+:CHARPOS: 5
+:END:
+道@dào	[[tls:concept:WAY::#uuid-795aa28e-7392-44f9-829c-bfca3f034e54][WAY]]	N [[tls:syn-func::#uuid-9f482f91-d3b7-4fdd-9fe5-8a7fe712f174][n{PLACE}adV]] / on the roads; by the wayside; in the streets
+** 甘茂因入見王曰	'May I take the liberty of complimenting your majesty
+:PROPERTIES:
+:SRC: ZGC 4.13.2; tr. Crump 1979 no. 73, p 80 Kan Mao eliminates a rival by craft
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_071:1a08:1::甘茂 / 戰國策
+:CHARPOS: 1
+:END:
+*** 入見@rùjiàn
+:PROPERTIES:
+:CONCEPT: uuid-ba40b595-bf51-48cf-8626-a1b38062e4fd / VISIT
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 4
+:END:
+入見@rùjiàn	[[tls:concept:VISIT::#uuid-ba40b595-bf51-48cf-8626-a1b38062e4fd][VISIT]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / go in to have an audience with
+** 敢再拜賀	said Kan Mao when he had gone in to have audience with the king.
+:PROPERTIES:
+:SRC: ZGC 4.13.2; tr. Crump 1979 no. 73, p 80 Kan Mao eliminates a rival by craft
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_071:1a10:1::敢再 / 戰國策
+:CHARPOS: 1
+:END:
+*** 賀@hè
+:PROPERTIES:
+:CONCEPT: uuid-0ef46a9c-33b4-45c9-9485-1d11d2104eea / CONGRATULATE
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 4
+:END:
+賀@hè	[[tls:concept:CONGRATULATE::#uuid-0ef46a9c-33b4-45c9-9485-1d11d2104eea][CONGRATULATE]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / congratulate a contextually determinate person
+** 寡人託國於子	'I have entrusted my state to you, sir.
+:PROPERTIES:
+:SRC: ZGC 4.13.2; tr. Crump 1979 no. 73, p 80 Kan Mao eliminates a rival by craft
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_071:1a12:1::「寡 / 戰國策
+:CHARPOS: 1
+:END:
+*** 託@tuō
+:PROPERTIES:
+:CONCEPT: uuid-b4f5bc9d-5bc9-492c-9fbd-af0b50ec78d2 / ENTRUST
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 3
+:END:
+託@tuō	[[tls:concept:ENTRUST::#uuid-b4f5bc9d-5bc9-492c-9fbd-af0b50ec78d2][ENTRUST]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / entrust (something or somebody N1) to (somebody N2) 託天下於堯之法
+** 焉更得賢相	What other virtuous minister have I acquired?'
+:PROPERTIES:
+:SRC: ZGC 4.13.2; tr. Crump 1979 no. 73, p 80 Kan Mao eliminates a rival by craft
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_071:1a13:50::焉更 / 戰國策
+:CHARPOS: 50
+:END:
+*** 賢@xián
+:PROPERTIES:
+:CONCEPT: uuid-290e4ca0-6ce7-44ec-affb-8f5a20af0608 / TALENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 53
+:END:
+賢@xián	[[tls:concept:TALENT::#uuid-290e4ca0-6ce7-44ec-affb-8f5a20af0608][TALENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / distinguished, worthy, talented; excellent, remarkable
+** 王且相犀首	'Your majesty is to make the hsi-shoū15 his minister.'
+:PROPERTIES:
+:SRC: ZGC 4.13.2; tr. Crump 1979 no. 73, p 80 Kan Mao eliminates a rival by craft
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_071:1a15:1::「王 / 戰國策
+:CHARPOS: 1
+:END:
+*** 相@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-ae6585d1-a4a8-49eb-be77-c2236886b4db / MINISTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 3
+:END:
+相@xiàng	[[tls:concept:MINISTER::#uuid-ae6585d1-a4a8-49eb-be77-c2236886b4db][MINISTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / make into a prime minister, install as prime minister
+*** 犀首@xīshǒu
+:PROPERTIES:
+:CONCEPT: uuid-f6e37311-71cf-4c41-9226-1733526f840b / MALES OF WEI
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 4
+:END:
+犀首@xīshǒu	[[tls:concept:MALES OF WEI::#uuid-f6e37311-71cf-4c41-9226-1733526f840b][MALES OF WEI]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / See Unger no. 34, and 公孫衍

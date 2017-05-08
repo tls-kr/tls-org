@@ -1,0 +1,71 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_017
+#+DATE: 2017-02-08T16:35:49+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 非天私我有商	It was not that Heaven had any private partiality for the lord of Shang;
+:PROPERTIES:
+:SRC: SHU (LATE) 15.1.3; tr. Legge p. 213ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_017:2a24:1::非天 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 4
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+*** 有商@yǒushāng
+:PROPERTIES:
+:CONCEPT: uuid-9e2b9a0f-e45a-43eb-afb4-8d6fec8e08c1 / RULER
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:CHARPOS: 5
+:END:
+有商@yǒushāng	[[tls:concept:RULER::#uuid-9e2b9a0f-e45a-43eb-afb4-8d6fec8e08c1][RULER]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] / ruler of Shang
+** 今嗣王新服厥命	'Now, O young king, you are newly entering on your (great) appointment,
+:PROPERTIES:
+:SRC: SHU (LATE) 15.1.4; tr. Legge p. 213ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_017:2a34:1::今嗣 / 尚書
+:CHARPOS: 1
+:END:
+*** 今@jīn
+:PROPERTIES:
+:CONCEPT: uuid-b72b6c2b-1f52-4cad-9484-2db4d722841c / NOW
+:SYN-FUNC: uuid-85043f3f-f41d-433b-8bea-c49352206a4e
+:SEM-FEAT: uuid-51f4e8c8-5f69-41d6-a2f5-56f98b62f5ba
+:CHARPOS: 1
+:END:
+今@jīn	[[tls:concept:NOW::#uuid-b72b6c2b-1f52-4cad-9484-2db4d722841c][NOW]]	N [[tls:syn-func::#uuid-85043f3f-f41d-433b-8bea-c49352206a4e][nadS]] {[[tls:sem-feat::#uuid-51f4e8c8-5f69-41d6-a2f5-56f98b62f5ba][narrative]]} / these days, nowadays 今也; now
+** 匹夫匹婦	If ordinary men and women
+:PROPERTIES:
+:SRC: SHU (LATE) 15.1.6; tr. Legge p. 213ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_017:2a62:1::匹夫 / 尚書
+:CHARPOS: 1
+:END:
+*** 匹夫@pǐfū
+:PROPERTIES:
+:CONCEPT: uuid-b91e8c3d-195b-49bb-b0dc-0d00918cd261 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 1
+:END:
+匹夫@pǐfū	[[tls:concept:ORDINARY::#uuid-b91e8c3d-195b-49bb-b0dc-0d00918cd261][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / an ordinary person
+** 民主罔與成厥功	the people's lord will be without the proper aids to complete his merit.'
+:PROPERTIES:
+:SRC: SHU (LATE) 15.1.6; tr. Legge p. 213ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_017:2a64:1::民主 / 尚書
+:CHARPOS: 1
+:END:
+*** 民主@mínzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-6ea1e3ae-bb96-420d-8263-e380c529642a / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+民主@mínzhǔ	[[tls:concept:RULER::#uuid-6ea1e3ae-bb96-420d-8263-e380c529642a][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a lord of men　cf. also 民之主

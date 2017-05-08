@@ -1,0 +1,164 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 黃帝內經素問 KR3e0001_002
+#+DATE: 2017-02-08T16:43:05+0900
+#+PROPERTY: COMMIT 0bcf479b88f098a6091bd508812e3b845f7f56dc
+** 使志安寧	
+:PROPERTIES:
+:SRC: SUWEN 2.1.5; ed. Renminweisheng 19i2, p. 16; tr. Rochat/Larre 1993, p. 48
+:DATE: 6230	early Western Han
+:LOCATION: KR3e0001_002:1a38:1::使志 / 黃帝內經素問
+:CHARPOS: 1
+:END:
+*** 安寧@ānníng
+:PROPERTIES:
+:CONCEPT: uuid-38f3511e-c2aa-4fc3-8927-bbd820fdb8f0 / PEACEFUL
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 3
+:END:
+安寧@ānníng	[[tls:concept:PEACEFUL::#uuid-38f3511e-c2aa-4fc3-8927-bbd820fdb8f0][PEACEFUL]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be in peace
+** 是故聖人不治已病	
+:PROPERTIES:
+:SRC: SUWEN 2.1.16; ed. Renminweisheng 19i2, p. 16; tr. Rochat/Larre 1993, p. 59
+:DATE: 6230	early Western Han
+:LOCATION: KR3e0001_002:3a15:1::是故 / 黃帝內經素問
+:CHARPOS: 1
+:END:
+*** 是故@shìgù
+:PROPERTIES:
+:CONCEPT: uuid-61869114-b72f-4d3f-a14a-52a95bf392fb / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 1
+:END:
+是故@shìgù	[[tls:concept:THEREFORE::#uuid-61869114-b72f-4d3f-a14a-52a95bf392fb][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / for this subjective reason: therefore (non-narrative)
+*** 聖人@shèngrén
+:PROPERTIES:
+:CONCEPT: uuid-39d30f94-36a5-4b5f-8792-a6601a7a9178 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+聖人@shèngrén	[[tls:concept:HERO::#uuid-39d30f94-36a5-4b5f-8792-a6601a7a9178][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the person of extraordinary and creative talent (with untensed predicate)
+*** 已病@yǐbìng
+:PROPERTIES:
+:CONCEPT: uuid-2e62f964-e821-4404-b994-ef962592601c / ILLNESS
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 7
+:END:
+已病@yǐbìng	[[tls:concept:ILLNESS::#uuid-2e62f964-e821-4404-b994-ef962592601c][ILLNESS]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / persons who are already sick
+*** 已@yǐ / 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-1b748b26-cfbe-4f51-90b5-4d99de2f9eb5 / ALREADY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 7
+:END:
+已@yǐ / 以@yǐ	[[tls:concept:ALREADY::#uuid-1b748b26-cfbe-4f51-90b5-4d99de2f9eb5][ALREADY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / an event or a situtation N that has already occurred
+*** 病@bìng
+:PROPERTIES:
+:CONCEPT: uuid-5a165f46-feb7-4c87-9386-f4531ba00cf0 / ILLNESS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 8
+:END:
+病@bìng	[[tls:concept:ILLNESS::#uuid-5a165f46-feb7-4c87-9386-f4531ba00cf0][ILLNESS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / serious lasting disease; sometimes generalised: natural disease, sickness
+** 治未病	
+:PROPERTIES:
+:SRC: SUWEN 2.1.16; ed. Renminweisheng 19i2, p. 16; tr. Rochat/Larre 1993, p. 59
+:DATE: 6230	early Western Han
+:LOCATION: KR3e0001_002:3a16:50::治未 / 黃帝內經素問
+:CHARPOS: 50
+:END:
+*** 未病@wèibìng
+:PROPERTIES:
+:CONCEPT: uuid-28c7b3e4-5c47-4398-8335-15f3c81236ea / ILLNESS
+:SYN-FUNC: uuid-080d3352-c9b3-40b5-8aed-7996007863d9
+:CHARPOS: 51
+:END:
+未病@wèibìng	[[tls:concept:ILLNESS::#uuid-28c7b3e4-5c47-4398-8335-15f3c81236ea][ILLNESS]]	N [[tls:syn-func::#uuid-080d3352-c9b3-40b5-8aed-7996007863d9][NP{adN}]] / persons who are not yet sick
+** 不治已亂	
+:PROPERTIES:
+:SRC: SUWEN 2.1.16; ed. Renminweisheng 19i2, p. 16; tr. Rochat/Larre 1993, p. 59
+:DATE: 6230	early Western Han
+:LOCATION: KR3e0001_002:3a17:50::不治 / 黃帝內經素問
+:CHARPOS: 50
+:END:
+*** 已@yǐ / 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-1b748b26-cfbe-4f51-90b5-4d99de2f9eb5 / ALREADY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 52
+:END:
+已@yǐ / 以@yǐ	[[tls:concept:ALREADY::#uuid-1b748b26-cfbe-4f51-90b5-4d99de2f9eb5][ALREADY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / an event or a situtation N that has already occurred
+** 夫病已成而後藥之	
+:PROPERTIES:
+:SRC: SUWEN 2.1.16; ed. Renminweisheng 19i2, p. 16; tr. Rochat/Larre 1993, p. 59
+:DATE: 6230	early Western Han
+:LOCATION: KR3e0001_002:3a20:1::夫病 / 黃帝內經素問
+:CHARPOS: 1
+:END:
+*** 病@bìng
+:PROPERTIES:
+:CONCEPT: uuid-5a165f46-feb7-4c87-9386-f4531ba00cf0 / ILLNESS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 2
+:END:
+病@bìng	[[tls:concept:ILLNESS::#uuid-5a165f46-feb7-4c87-9386-f4531ba00cf0][ILLNESS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / serious lasting disease; sometimes generalised: natural disease, sickness
+*** 藥@yào
+:PROPERTIES:
+:CONCEPT: uuid-d48fb9fd-140d-4bdf-940e-c8470b1be1b2 / CURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+藥@yào	[[tls:concept:CURE::#uuid-d48fb9fd-140d-4bdf-940e-c8470b1be1b2][CURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cure with medicine
+** 譬猶渴而穿井	
+:PROPERTIES:
+:SRC: SUWEN 2.1.16; ed. Renminweisheng 19i2, p. 16; tr. Rochat/Larre 1993, p. 59
+:DATE: 6230	early Western Han
+:LOCATION: KR3e0001_002:3a22:1::譬猶 / 黃帝內經素問
+:CHARPOS: 1
+:END:
+*** 譬猶@pìyóu
+:PROPERTIES:
+:CONCEPT: uuid-471d03b8-0494-4e73-b5f8-128ce5adca3b / RESEMBLE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 1
+:END:
+譬猶@pìyóu	[[tls:concept:RESEMBLE::#uuid-471d03b8-0494-4e73-b5f8-128ce5adca3b][RESEMBLE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / may be properly compared with
+*** 渴@kě
+:PROPERTIES:
+:CONCEPT: uuid-6f417bc0-1544-4315-8888-90b25e877460 / THIRSTY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 3
+:END:
+渴@kě	[[tls:concept:THIRSTY::#uuid-6f417bc0-1544-4315-8888-90b25e877460][THIRSTY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be thirsty, go thirsty; feel thirsty 極渴
+*** 井@jǐng
+:PROPERTIES:
+:CONCEPT: uuid-d43456f1-7a67-4847-9861-6d1b0e0625a9 / WELL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+井@jǐng	[[tls:concept:WELL::#uuid-d43456f1-7a67-4847-9861-6d1b0e0625a9][WELL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / well
+** 鬭而鑄錐	
+:PROPERTIES:
+:SRC: SUWEN 2.1.16; ed. Renminweisheng 19i2, p. 16; tr. Rochat/Larre 1993, p. 59
+:DATE: 6230	early Western Han
+:LOCATION: KR3e0001_002:3a23:50::鬭而 / 黃帝內經素問
+:CHARPOS: 50
+:END:
+*** 鑄@zhù
+:PROPERTIES:
+:CONCEPT: uuid-7e690eae-a0e9-4cb3-aaf8-1cf557cf5eb7 / FORGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+鑄@zhù	[[tls:concept:FORGE::#uuid-7e690eae-a0e9-4cb3-aaf8-1cf557cf5eb7][FORGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cast metal; cast (a bell etc); mint (coins); produce bys smelting substances
+*** 錐@zhuī
+:PROPERTIES:
+:CONCEPT: uuid-92f8f4f7-d1c5-4d51-9444-c0d8dfcc9bdf / AWL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+錐@zhuī	[[tls:concept:AWL::#uuid-92f8f4f7-d1c5-4d51-9444-c0d8dfcc9bdf][AWL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / awl

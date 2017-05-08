@@ -1,0 +1,206 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_005
+#+DATE: 2017-02-08T16:41:07+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 東周欲為稻	East Chou wished to sow its land to rice
+:PROPERTIES:
+:SRC: ZGC 1.5.1; tr. Crump 1979 no. 24, p. 40 West Chou opens the sluices and Su-tzu takes fees from both sides
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_005:1a01:50::東周 / 戰國策
+:CHARPOS: 50
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-bb74c6c8-28d5-4b35-a9f5-f4e104a847ff / PLANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+為@wéi	[[tls:concept:PLANT::#uuid-bb74c6c8-28d5-4b35-a9f5-f4e104a847ff][PLANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / plant so as to cultivate (rice etc)
+*** 稻@dào
+:PROPERTIES:
+:CONCEPT: uuid-7594e324-ebd6-425c-bd9e-7b86562822c9 / RICE
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 54
+:END:
+稻@dào	[[tls:concept:RICE::#uuid-7594e324-ebd6-425c-bd9e-7b86562822c9][RICE]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / fine rice; high quality rice
+** 西周不下水	but West Chou would not open the river sluices.
+:PROPERTIES:
+:SRC: ZGC 1.5.1; tr. Crump 1979 no. 24, p. 40 West Chou opens the sluices and Su-tzu takes fees from both sides
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_005:1a02:50::西周 / 戰國策
+:CHARPOS: 50
+:END:
+*** 下@xià
+:PROPERTIES:
+:CONCEPT: uuid-3147e372-3273-488d-a6ec-44cbef1f4aca / SEND DOWN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+下@xià	[[tls:concept:SEND DOWN::#uuid-3147e372-3273-488d-a6ec-44cbef1f4aca][SEND DOWN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / send down concretely
+** 東周患之	Chou of the east was troubled over this
+:PROPERTIES:
+:SRC: ZGC 1.5.1; tr. Crump 1979 no. 24, p. 40 West Chou opens the sluices and Su-tzu takes fees from both sides
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_005:1a03:50::東周 / 戰國策
+:CHARPOS: 50
+:END:
+*** 患@huàn
+:PROPERTIES:
+:CONCEPT: uuid-874cd627-174d-4f14-9abb-204dda5176fb / ANGER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+患@huàn	[[tls:concept:ANGER::#uuid-874cd627-174d-4f14-9abb-204dda5176fb][ANGER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / be irritated at, be annoyed at; get annoyed at
+** 臣請使西周下水可乎	and begged permission to treat with West Chou for water.
+:PROPERTIES:
+:SRC: ZGC 1.5.1; tr. Crump 1979 no. 24, p. 40 West Chou opens the sluices and Su-tzu takes fees from both sides
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_005:1a05:1::「臣 / 戰國策
+:CHARPOS: 1
+:END:
+*** 使@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-11b1c91c-9a95-42c3-822e-38661cc04106 / CAUSE TO
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 3
+:END:
+使@shǐ	[[tls:concept:CAUSE TO::#uuid-11b1c91c-9a95-42c3-822e-38661cc04106][CAUSE TO]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / cause N to V, bring it about that N V-s 使之聞之 [NB: the first 之shows that the object of 使 does function as an object and not only as a subject of wén 聞. Thus technically speaking we do not have a sentence after the vt.]
+** 君之謀過矣	'My lord's plans are faulty;
+:PROPERTIES:
+:SRC: ZGC 1.5.1; tr. Crump 1979 no. 24, p. 40 West Chou opens the sluices and Su-tzu takes fees from both sides
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_005:1a07:1::「君 / 戰國策
+:CHARPOS: 1
+:END:
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-6afa7674-d226-4445-9a2d-4f192259eaa3 / YOU
+:SYN-FUNC: uuid-59391678-4287-45d9-bba9-3d6d9b4ecebc
+:SEM-FEAT: uuid-3f00267c-53e4-46a1-90ac-161296fc1817
+:CHARPOS: 1
+:END:
+君@jūn	[[tls:concept:YOU::#uuid-6afa7674-d226-4445-9a2d-4f192259eaa3][YOU]]	 [[tls:syn-func::#uuid-59391678-4287-45d9-bba9-3d6d9b4ecebc][n{post-npro_1.}{post=npro_2:}adN]] {[[tls:sem-feat::#uuid-3f00267c-53e4-46a1-90ac-161296fc1817][honorific]]} / your, my lord, your lordship's
+*** 過@guò
+:PROPERTIES:
+:CONCEPT: uuid-a83d5b73-328f-4422-9f87-8a88b10bef2f / MISTAKE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-0afaf3e3-1928-4000-a3b5-5268309adb0d
+:CHARPOS: 4
+:END:
+過@guò	[[tls:concept:MISTAKE::#uuid-a83d5b73-328f-4422-9f87-8a88b10bef2f][MISTAKE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-0afaf3e3-1928-4000-a3b5-5268309adb0d][subject=nonhuman]]} / be mistaken; constitute a mistake
+** 所以富東周也	he is making her wealthy.
+:PROPERTIES:
+:SRC: ZGC 1.5.1; tr. Crump 1979 no. 24, p. 40 West Chou opens the sluices and Su-tzu takes fees from both sides
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_005:1a09:1::所以 / 戰國策
+:CHARPOS: 1
+:END:
+*** 富@fù
+:PROPERTIES:
+:CONCEPT: uuid-e55366eb-36b3-4e17-bdfb-5b95f51226a8 / RICH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 3
+:END:
+富@fù	[[tls:concept:RICH::#uuid-e55366eb-36b3-4e17-bdfb-5b95f51226a8][RICH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / make rich
+** 今其民皆種麥	It citizens have have all sown to dry grain
+:PROPERTIES:
+:SRC: ZGC 1.5.1; tr. Crump 1979 no. 24, p. 40 West Chou opens the sluices and Su-tzu takes fees from both sides
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_005:1a10:50::今其 / 戰國策
+:CHARPOS: 50
+:END:
+*** 種@zhǒng
+:PROPERTIES:
+:CONCEPT: uuid-836426ad-cdf8-4805-8ac7-ab860ada7065 / SEED
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 54
+:END:
+種@zhǒng	[[tls:concept:SEED::#uuid-836426ad-cdf8-4805-8ac7-ab860ada7065][SEED]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / seeds
+** 無他種矣	and no other!
+:PROPERTIES:
+:SRC: ZGC 1.5.1; tr. Crump 1979 no. 24, p. 40 West Chou opens the sluices and Su-tzu takes fees from both sides
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_005:1a11:50::無他 / 戰國策
+:CHARPOS: 50
+:END:
+*** 他@tā / 它@tā / 他@tā
+:PROPERTIES:
+:CONCEPT: uuid-89df4ef1-2749-43f4-b632-edaaf0affabb / OTHER
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 51
+:END:
+他@tā / 它@tā / 他@tā	[[tls:concept:OTHER::#uuid-89df4ef1-2749-43f4-b632-edaaf0affabb][OTHER]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / other; others'; someone else's
+** 以病其所種	and injure their seeds.
+:PROPERTIES:
+:SRC: ZGC 1.5.2; tr. Crump 1979 no. 24, p. 40
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_005:1a14:1::以病 / 戰國策
+:CHARPOS: 1
+:END:
+*** 病@bìng
+:PROPERTIES:
+:CONCEPT: uuid-9af7895f-6624-4934-8acf-0a2b71c7e6e9 / DAMAGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+病@bìng	[[tls:concept:DAMAGE::#uuid-9af7895f-6624-4934-8acf-0a2b71c7e6e9][DAMAGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cause to be injured, inflict damage on; cause trouble for
+*** 種@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-900a3b47-18b5-4b63-8e43-4fb5df55fe6e / SOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+種@zhòng	[[tls:concept:SOW::#uuid-900a3b47-18b5-4b63-8e43-4fb5df55fe6e][SOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to sow (seeds of a plant); to plant (a tree)
+** 種稻而復奪之	Then when you deny them the waters
+:PROPERTIES:
+:SRC: ZGC 1.5.2; tr. Crump 1979 no. 24, p. 40
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_005:1a17:1::種稻 / 戰國策
+:CHARPOS: 1
+:END:
+*** 稻@dào
+:PROPERTIES:
+:CONCEPT: uuid-7594e324-ebd6-425c-bd9e-7b86562822c9 / RICE
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 2
+:END:
+稻@dào	[[tls:concept:RICE::#uuid-7594e324-ebd6-425c-bd9e-7b86562822c9][RICE]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / fine rice; high quality rice
+** 則東周之民可令一仰西周	they must come to West Chou as suppliants
+:PROPERTIES:
+:SRC: ZGC 1.5.2; tr. Crump 1979 no. 24, p. 40
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_005:1a19:1::則東 / 戰國策
+:CHARPOS: 1
+:END:
+*** 一@yī
+:PROPERTIES:
+:CONCEPT: uuid-47832cc8-e47c-4b61-bd2d-640d3cbda00c / ALL
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 8
+:END:
+一@yī	[[tls:concept:ALL::#uuid-47832cc8-e47c-4b61-bd2d-640d3cbda00c][ALL]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / like one man, all alike; one by one, all; in every case in the same way; in every way, completely
+*** 仰@yǎng
+:PROPERTIES:
+:CONCEPT: uuid-cf533bf5-b4ea-4480-b530-93d5dcfdb5cc / RELY ON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 9
+:END:
+仰@yǎng	[[tls:concept:RELY ON::#uuid-cf533bf5-b4ea-4480-b530-93d5dcfdb5cc][RELY ON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / look up to for sustenance and necessary support; depend on
+** 蘇子亦得兩國之金也	and Su-tzu recieved the gold of both countries.
+:PROPERTIES:
+:SRC: ZGC 1.5.3; tr. Crump 1979 no. 24, p. 40
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_005:1a23:1::蘇子 / 戰國策
+:CHARPOS: 1
+:END:
+*** 兩@liǎng
+:PROPERTIES:
+:CONCEPT: uuid-173dbffc-f4aa-4993-a807-4e38e2ef88b8 / BOTH
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-b652f117-dc2e-421e-a465-f4a7504b3a9e
+:CHARPOS: 5
+:END:
+兩@liǎng	[[tls:concept:BOTH::#uuid-173dbffc-f4aa-4993-a807-4e38e2ef88b8][BOTH]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-b652f117-dc2e-421e-a465-f4a7504b3a9e][pair]]} / the pair of, the two, both 兩手，兩目，兩耳

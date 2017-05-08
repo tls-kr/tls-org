@@ -1,0 +1,513 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 孝經 KR1f0001_012
+#+DATE: 2017-02-08T16:40:11+0900
+#+PROPERTY: COMMIT f2d155e179399ea4b6de200698895be0743588f4
+** 子曰	The Master said:
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a01:50::子曰 / 孝經
+:CHARPOS: 50
+:END:
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-85f74e57-c4d7-4d7f-a330-ae20510026b1 / TEACHER
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 50
+:END:
+子@zǐ	[[tls:concept:TEACHER::#uuid-85f74e57-c4d7-4d7f-a330-ae20510026b1][TEACHER]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / our master; person in authority [Note that the [post-N] can never in fact be made explicit without breaking the rules of the grammar! CH]
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-8fff2d95-8f01-41c6-9344-b798d74d2831 / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8
+:CHARPOS: 51
+:END:
+曰@yuē	[[tls:concept:SPEAK::#uuid-8fff2d95-8f01-41c6-9344-b798d74d2831][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8][direct-speech]]} / say: S
+** 教民親愛	When instructing people in taking care of parents and love to them,
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a02:50::「教 / 孝經
+:CHARPOS: 50
+:END:
+*** 教@jiào
+:PROPERTIES:
+:CONCEPT: uuid-65a21240-d50a-4f57-9bd3-ed8550d86447 / TEACH
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 50
+:END:
+教@jiào	[[tls:concept:TEACH::#uuid-65a21240-d50a-4f57-9bd3-ed8550d86447][TEACH]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / teach (someone N1) (a subject N2)
+*** 民@mín
+:PROPERTIES:
+:CONCEPT: uuid-a5d0b599-5b22-41f7-9b0e-e15003ab8683 / PEOPLE
+:SYN-FUNC: uuid-4f6909aa-6800-4ba6-a332-3e60b7127f68
+:CHARPOS: 51
+:END:
+民@mín	[[tls:concept:PEOPLE::#uuid-a5d0b599-5b22-41f7-9b0e-e15003ab8683][PEOPLE]]	N [[tls:syn-func::#uuid-4f6909aa-6800-4ba6-a332-3e60b7127f68][nm(post-N)]] / the common people of the contextually determinate place, the native people, the permanently resident people
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-f8f790a1-3282-4abe-bf1d-af9a7ea793f8 / LOVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+愛@ài	[[tls:concept:LOVE::#uuid-f8f790a1-3282-4abe-bf1d-af9a7ea793f8][LOVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / loving care; love; feelings of love; sollicitousness; active affection
+** 莫善於孝	there is nothing better than filial piety.
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a03:50::莫善 / 孝經
+:CHARPOS: 50
+:END:
+*** 莫@mò
+:PROPERTIES:
+:CONCEPT: uuid-578ba89a-d7ed-45c1-97b1-93dd6f134345 / NONE
+:SYN-FUNC: uuid-b5551755-1007-4f00-81c0-e2d4ab29508b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 50
+:END:
+莫@mò	[[tls:concept:NONE::#uuid-578ba89a-d7ed-45c1-97b1-93dd6f134345][NONE]]	N [[tls:syn-func::#uuid-b5551755-1007-4f00-81c0-e2d4ab29508b][npro+V(.postN{TOP})]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / nothing within the range of the TOPIC; no one within the range indicated by the TOPIC
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-04245704-2a1e-40ff-9137-ace8910ea25d / EXCELLENT
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 51
+:END:
+善@shàn	[[tls:concept:EXCELLENT::#uuid-04245704-2a1e-40ff-9137-ace8910ea25d][EXCELLENT]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / be better than N
+*** 孝@xiào
+:PROPERTIES:
+:CONCEPT: uuid-40fa35ca-d157-4d1f-bae8-47abdd68a636 / VIRTUE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+孝@xiào	[[tls:concept:VIRTUE::#uuid-40fa35ca-d157-4d1f-bae8-47abdd68a636][VIRTUE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / filial piety, devotion to one's living and dead forbears
+** 教民禮順	When instructing people in rituals and obedience,
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a04:50::教民 / 孝經
+:CHARPOS: 50
+:END:
+*** 教@jiào
+:PROPERTIES:
+:CONCEPT: uuid-65a21240-d50a-4f57-9bd3-ed8550d86447 / TEACH
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 50
+:END:
+教@jiào	[[tls:concept:TEACH::#uuid-65a21240-d50a-4f57-9bd3-ed8550d86447][TEACH]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / teach (someone N1) (a subject N2)
+*** 民@mín
+:PROPERTIES:
+:CONCEPT: uuid-a5d0b599-5b22-41f7-9b0e-e15003ab8683 / PEOPLE
+:SYN-FUNC: uuid-4f6909aa-6800-4ba6-a332-3e60b7127f68
+:CHARPOS: 51
+:END:
+民@mín	[[tls:concept:PEOPLE::#uuid-a5d0b599-5b22-41f7-9b0e-e15003ab8683][PEOPLE]]	N [[tls:syn-func::#uuid-4f6909aa-6800-4ba6-a332-3e60b7127f68][nm(post-N)]] / the common people of the contextually determinate place, the native people, the permanently resident people
+*** 禮@lǐ
+:PROPERTIES:
+:CONCEPT: uuid-a4337779-0f11-42f0-8361-7d31c40351ff / RITUAL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 52
+:END:
+禮@lǐ	[[tls:concept:RITUAL::#uuid-a4337779-0f11-42f0-8361-7d31c40351ff][RITUAL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / ritual propriety, the rules and principles of ritual propriety; the demands of ritual
+*** 順@shùn
+:PROPERTIES:
+:CONCEPT: uuid-9277e2d3-cb0a-428e-9186-2cff3854dfe3 / OBEY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 53
+:END:
+順@shùn	[[tls:concept:OBEY::#uuid-9277e2d3-cb0a-428e-9186-2cff3854dfe3][OBEY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / obedience, proper subordination, subservience
+** 莫善於悌	there is nothing better than fraternal love.
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a05:50::莫善 / 孝經
+:CHARPOS: 50
+:END:
+*** 莫@mò
+:PROPERTIES:
+:CONCEPT: uuid-578ba89a-d7ed-45c1-97b1-93dd6f134345 / NONE
+:SYN-FUNC: uuid-b5551755-1007-4f00-81c0-e2d4ab29508b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 50
+:END:
+莫@mò	[[tls:concept:NONE::#uuid-578ba89a-d7ed-45c1-97b1-93dd6f134345][NONE]]	N [[tls:syn-func::#uuid-b5551755-1007-4f00-81c0-e2d4ab29508b][npro+V(.postN{TOP})]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / nothing within the range of the TOPIC; no one within the range indicated by the TOPIC
+*** 悌@tì / 弟@dì
+:PROPERTIES:
+:CONCEPT: uuid-3aff28da-6bf7-4bdb-a5b7-9048b7d193f2 / VIRTUE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+悌@tì / 弟@dì	[[tls:concept:VIRTUE::#uuid-3aff28da-6bf7-4bdb-a5b7-9048b7d193f2][VIRTUE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / fraternal love, devotion to one's eldest brother
+** 移風易俗	As for changing patterns of behaviour and customs,
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a06:50::移風 / 孝經
+:CHARPOS: 50
+:END:
+*** 移@yí
+:PROPERTIES:
+:CONCEPT: uuid-48b45a5e-48ef-4343-b84e-39bc69f38642 / CHANGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+移@yí	[[tls:concept:CHANGE::#uuid-48b45a5e-48ef-4343-b84e-39bc69f38642][CHANGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cause to change, sway (the ruler's attitude); change the allegiance of (the people), change the ways of (the people)
+*** 風@fēng
+:PROPERTIES:
+:CONCEPT: uuid-f71fa6c9-9156-4ab9-9ed9-973e62312b3b / CUSTOM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+風@fēng	[[tls:concept:CUSTOM::#uuid-f71fa6c9-9156-4ab9-9ed9-973e62312b3b][CUSTOM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / local ways; current habit
+*** 易@yì
+:PROPERTIES:
+:CONCEPT: uuid-ae7e4fa5-3b71-48cd-bd34-75e3edd2bc25 / CHANGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+易@yì	[[tls:concept:CHANGE::#uuid-ae7e4fa5-3b71-48cd-bd34-75e3edd2bc25][CHANGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / change fundamentally, make a fundamental change to
+*** 俗@sú
+:PROPERTIES:
+:CONCEPT: uuid-3485ede2-32e3-455a-b79e-2943dbb7a1a6 / CUSTOM
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+俗@sú	[[tls:concept:CUSTOM::#uuid-3485ede2-32e3-455a-b79e-2943dbb7a1a6][CUSTOM]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / current local custom; temporary habit
+** 莫善於樂	there is nothing better than music.
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a07:50::莫善 / 孝經
+:CHARPOS: 50
+:END:
+*** 莫@mò
+:PROPERTIES:
+:CONCEPT: uuid-578ba89a-d7ed-45c1-97b1-93dd6f134345 / NONE
+:SYN-FUNC: uuid-b5551755-1007-4f00-81c0-e2d4ab29508b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 50
+:END:
+莫@mò	[[tls:concept:NONE::#uuid-578ba89a-d7ed-45c1-97b1-93dd6f134345][NONE]]	N [[tls:syn-func::#uuid-b5551755-1007-4f00-81c0-e2d4ab29508b][npro+V(.postN{TOP})]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / nothing within the range of the TOPIC; no one within the range indicated by the TOPIC
+*** 樂@yuè
+:PROPERTIES:
+:CONCEPT: uuid-8132560b-c269-4861-96d5-642d2c98055c / MUSIC
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 53
+:END:
+樂@yuè	[[tls:concept:MUSIC::#uuid-8132560b-c269-4861-96d5-642d2c98055c][MUSIC]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / musical propriety
+** 安上治民	As for keeping superiors secure and governing common people,
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a08:50::安上 / 孝經
+:CHARPOS: 50
+:END:
+*** 安@ān
+:PROPERTIES:
+:CONCEPT: uuid-19c5bab6-c5e9-4ac0-be77-61fd93d19e66 / PEACEFUL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+安@ān	[[tls:concept:PEACEFUL::#uuid-19c5bab6-c5e9-4ac0-be77-61fd93d19e66][PEACEFUL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / keep politically secure, cause to be secure; cause to be in peace
+*** 上@shàng
+:PROPERTIES:
+:CONCEPT: uuid-6d6565b2-ce28-4510-8856-df27fb770153 / SUPERIOR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+上@shàng	[[tls:concept:SUPERIOR::#uuid-6d6565b2-ce28-4510-8856-df27fb770153][SUPERIOR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the leadership; those who are of superior rank, those in high social or political positions;
+*** 治@chí
+:PROPERTIES:
+:CONCEPT: uuid-e31a89e1-0f05-4892-8858-678d58463f3c / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+治@chí	[[tls:concept:GOVERN::#uuid-e31a89e1-0f05-4892-8858-678d58463f3c][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to reduce to order; to put in order (the administration etc); to be in administrative charge of, to deal with, take care of; to be in charge of, take administrative responsibility for; to regulate, make regular, control (as breath)
+*** 民@mín
+:PROPERTIES:
+:CONCEPT: uuid-a5d0b599-5b22-41f7-9b0e-e15003ab8683 / PEOPLE
+:SYN-FUNC: uuid-4f6909aa-6800-4ba6-a332-3e60b7127f68
+:CHARPOS: 53
+:END:
+民@mín	[[tls:concept:PEOPLE::#uuid-a5d0b599-5b22-41f7-9b0e-e15003ab8683][PEOPLE]]	N [[tls:syn-func::#uuid-4f6909aa-6800-4ba6-a332-3e60b7127f68][nm(post-N)]] / the common people of the contextually determinate place, the native people, the permanently resident people
+** 莫善於禮	there is nothing better than rituals.
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a09:50::莫善 / 孝經
+:CHARPOS: 50
+:END:
+*** 莫@mò
+:PROPERTIES:
+:CONCEPT: uuid-578ba89a-d7ed-45c1-97b1-93dd6f134345 / NONE
+:SYN-FUNC: uuid-b5551755-1007-4f00-81c0-e2d4ab29508b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 50
+:END:
+莫@mò	[[tls:concept:NONE::#uuid-578ba89a-d7ed-45c1-97b1-93dd6f134345][NONE]]	N [[tls:syn-func::#uuid-b5551755-1007-4f00-81c0-e2d4ab29508b][npro+V(.postN{TOP})]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / nothing within the range of the TOPIC; no one within the range indicated by the TOPIC
+*** 禮@lǐ
+:PROPERTIES:
+:CONCEPT: uuid-a4337779-0f11-42f0-8361-7d31c40351ff / RITUAL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 53
+:END:
+禮@lǐ	[[tls:concept:RITUAL::#uuid-a4337779-0f11-42f0-8361-7d31c40351ff][RITUAL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / ritual propriety, the rules and principles of ritual propriety; the demands of ritual
+** 禮者	As for rituals,
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a10:50::禮者 / 孝經
+:CHARPOS: 50
+:END:
+*** 禮@lǐ
+:PROPERTIES:
+:CONCEPT: uuid-a4337779-0f11-42f0-8361-7d31c40351ff / RITUAL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 50
+:END:
+禮@lǐ	[[tls:concept:RITUAL::#uuid-a4337779-0f11-42f0-8361-7d31c40351ff][RITUAL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / ritual propriety, the rules and principles of ritual propriety; the demands of ritual
+** 敬而已矣	it is only proper respect and that is all.
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a11:50::敬而 / 孝經
+:CHARPOS: 50
+:END:
+*** 敬@jìng
+:PROPERTIES:
+:CONCEPT: uuid-47b029a8-65ad-4039-aee7-86bb528bc6b3 / RESPECT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+敬@jìng	[[tls:concept:RESPECT::#uuid-47b029a8-65ad-4039-aee7-86bb528bc6b3][RESPECT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / earnest and respectful diligence; respectful devotion
+*** 敬@jìng
+:PROPERTIES:
+:CONCEPT: uuid-8892ee23-281a-452c-9f03-1623839cb262 / RESPECT
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 50
+:END:
+敬@jìng	[[tls:concept:RESPECT::#uuid-8892ee23-281a-452c-9f03-1623839cb262][RESPECT]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / show respect where respect is due
+*** 而已矣@éryǐyǐ
+:PROPERTIES:
+:CONCEPT: uuid-eecd31f7-e496-4fcb-a77a-705a5b1c2ef8 / ONLY
+:SYN-FUNC: uuid-093446fa-1d1f-4145-9ef0-789ff06dc986
+:CHARPOS: 51
+:END:
+而已矣@éryǐyǐ	[[tls:concept:ONLY::#uuid-eecd31f7-e496-4fcb-a77a-705a5b1c2ef8][ONLY]]	V [[tls:syn-func::#uuid-093446fa-1d1f-4145-9ef0-789ff06dc986][VPi{0}postadS]] / ..., and that is all. [Note the immensely complex problems of scope of this phrase.]
+** 故敬其父	Therefore if a son shows respect for his father,
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a12:50::故敬 / 孝經
+:CHARPOS: 50
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-4788bc76-7c4a-4616-b928-2a8edec67db4 / THEREFORE
+:SYN-FUNC: uuid-9846fcc7-7fe2-437f-8163-5564343b7ee2
+:CHARPOS: 50
+:END:
+故@gù	[[tls:concept:THEREFORE::#uuid-4788bc76-7c4a-4616-b928-2a8edec67db4][THEREFORE]]	N [[tls:syn-func::#uuid-9846fcc7-7fe2-437f-8163-5564343b7ee2][nadV.postN{SUBJ}:postS]] / therefore; thus; and similarly [new paragraph]; the point is thusNOTE: the syntax is nadV.postS
+*** 敬@jìng
+:PROPERTIES:
+:CONCEPT: uuid-38b2db34-b414-4b93-a291-0d863c8ea9bc / RESPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+敬@jìng	[[tls:concept:RESPECT::#uuid-38b2db34-b414-4b93-a291-0d863c8ea9bc][RESPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / show respect for; show obedient unquestioning respect for
+** 則子悅	he feels pleased.
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a12:50::則子 / 孝經
+:CHARPOS: 50
+:END:
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-a0c1bacf-8b11-4523-868d-5140c194914f / CHILD
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:SEM-FEAT: uuid-420fbe78-6b7c-49ca-8927-d60349fa4f3a
+:CHARPOS: 51
+:END:
+子@zǐ	[[tls:concept:CHILD::#uuid-a0c1bacf-8b11-4523-868d-5140c194914f][CHILD]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] {[[tls:sem-feat::#uuid-420fbe78-6b7c-49ca-8927-d60349fa4f3a][male?]]} / son
+*** 悅@yuè / 說@yuè
+:PROPERTIES:
+:CONCEPT: uuid-6915c464-8b40-4a0d-a8d1-d71d94af88d5 / DELIGHT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+悅@yuè / 說@yuè	[[tls:concept:DELIGHT::#uuid-6915c464-8b40-4a0d-a8d1-d71d94af88d5][DELIGHT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / (of persons) feel pleased, feel that one's needs are fully satisfied; (of things) be felt to be pleasant
+** 敬其兄	If a younger brother shows respect for the eldest brother,
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a13:50::敬其 / 孝經
+:CHARPOS: 50
+:END:
+*** 敬@jìng
+:PROPERTIES:
+:CONCEPT: uuid-38b2db34-b414-4b93-a291-0d863c8ea9bc / RESPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+敬@jìng	[[tls:concept:RESPECT::#uuid-38b2db34-b414-4b93-a291-0d863c8ea9bc][RESPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / show respect for; show obedient unquestioning respect for
+*** 兄@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-aee05893-7842-49e1-892e-7541218b2a53 / BROTHER
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 52
+:END:
+兄@xiōng	[[tls:concept:BROTHER::#uuid-aee05893-7842-49e1-892e-7541218b2a53][BROTHER]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / elder brother; the eldest brother
+** 則弟悅	he feels pleased.
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a13:50::則弟 / 孝經
+:CHARPOS: 50
+:END:
+*** 弟@dì
+:PROPERTIES:
+:CONCEPT: uuid-bd343ecf-252b-46bd-a130-1190ebfa97ed / BROTHER
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 51
+:END:
+弟@dì	[[tls:concept:BROTHER::#uuid-bd343ecf-252b-46bd-a130-1190ebfa97ed][BROTHER]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / younger brother; younger brothers
+*** 悅@yuè / 說@yuè
+:PROPERTIES:
+:CONCEPT: uuid-6915c464-8b40-4a0d-a8d1-d71d94af88d5 / DELIGHT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+悅@yuè / 說@yuè	[[tls:concept:DELIGHT::#uuid-6915c464-8b40-4a0d-a8d1-d71d94af88d5][DELIGHT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / (of persons) feel pleased, feel that one's needs are fully satisfied; (of things) be felt to be pleasant
+** 敬其君	If a minister shows respect for his ruler,
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a14:50::敬其 / 孝經
+:CHARPOS: 50
+:END:
+*** 敬@jìng
+:PROPERTIES:
+:CONCEPT: uuid-38b2db34-b414-4b93-a291-0d863c8ea9bc / RESPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+敬@jìng	[[tls:concept:RESPECT::#uuid-38b2db34-b414-4b93-a291-0d863c8ea9bc][RESPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / show respect for; show obedient unquestioning respect for
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-0967dfdc-5db9-42db-9be8-8600bfcdb00d / RULER
+:SYN-FUNC: uuid-3473071e-1407-4804-a185-2db288ee8726
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 52
+:END:
+君@jūn	[[tls:concept:RULER::#uuid-0967dfdc-5db9-42db-9be8-8600bfcdb00d][RULER]]	N [[tls:syn-func::#uuid-3473071e-1407-4804-a185-2db288ee8726][nt]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the ruler (of a state)
+** 則臣悅	he feels pleased.
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a14:50::則臣 / 孝經
+:CHARPOS: 50
+:END:
+*** 臣@chén
+:PROPERTIES:
+:CONCEPT: uuid-ed47481b-3d22-4e99-87e4-8cfcac72d8e0 / MINISTER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+臣@chén	[[tls:concept:MINISTER::#uuid-ed47481b-3d22-4e99-87e4-8cfcac72d8e0][MINISTER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / servant, public servant; minister
+*** 悅@yuè / 說@yuè
+:PROPERTIES:
+:CONCEPT: uuid-6915c464-8b40-4a0d-a8d1-d71d94af88d5 / DELIGHT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+悅@yuè / 說@yuè	[[tls:concept:DELIGHT::#uuid-6915c464-8b40-4a0d-a8d1-d71d94af88d5][DELIGHT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / (of persons) feel pleased, feel that one's needs are fully satisfied; (of things) be felt to be pleasant
+** 敬一人而千萬人悅	One shows respect for One man and thousands of ten thousand of people feel pleased.
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a15:50::敬一 / 孝經
+:CHARPOS: 50
+:END:
+*** 敬@jìng
+:PROPERTIES:
+:CONCEPT: uuid-38b2db34-b414-4b93-a291-0d863c8ea9bc / RESPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+敬@jìng	[[tls:concept:RESPECT::#uuid-38b2db34-b414-4b93-a291-0d863c8ea9bc][RESPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / show respect for; show obedient unquestioning respect for
+*** 一人@yīrén
+:PROPERTIES:
+:CONCEPT: uuid-6a7c7552-a7df-4954-ae2a-d8eb30289006 / RULER
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:CHARPOS: 51
+:END:
+一人@yīrén	[[tls:concept:RULER::#uuid-6a7c7552-a7df-4954-ae2a-d8eb30289006][RULER]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] / the ruler
+*** 萬@wàn
+:PROPERTIES:
+:CONCEPT: uuid-2d536af2-dfbe-4f2b-ab6a-fee04d9a0abc / NUMBER
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-b9ab3d43-7185-4009-a096-329b5ccea73b
+:CHARPOS: 55
+:END:
+萬@wàn	[[tls:concept:NUMBER::#uuid-2d536af2-dfbe-4f2b-ab6a-fee04d9a0abc][NUMBER]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-b9ab3d43-7185-4009-a096-329b5ccea73b][number]]} / ten thousand; 10 000
+*** 悅@yuè / 說@yuè
+:PROPERTIES:
+:CONCEPT: uuid-6915c464-8b40-4a0d-a8d1-d71d94af88d5 / DELIGHT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 57
+:END:
+悅@yuè / 說@yuè	[[tls:concept:DELIGHT::#uuid-6915c464-8b40-4a0d-a8d1-d71d94af88d5][DELIGHT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / (of persons) feel pleased, feel that one's needs are fully satisfied; (of things) be felt to be pleasant
+** 此之謂要道也	this is called the crucial Way.
+:PROPERTIES:
+:SRC: XIAOJING 12, ed. SSJZS p. 0113
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_012:1a16:1::此之 / 孝經
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-3b41c1e0-410d-4e5b-ac86-a970e38afc08 / THIS
+:SYN-FUNC: uuid-01bd99b2-aedc-4d28-af4c-c6ef93e733d7
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-3b41c1e0-410d-4e5b-ac86-a970e38afc08][THIS]]	N [[tls:syn-func::#uuid-01bd99b2-aedc-4d28-af4c-c6ef93e733d7][npro1+.Vttonpro2.+N]] / 此謂之x
+*** 謂@wèi
+:PROPERTIES:
+:CONCEPT: uuid-1c9ed2e2-d827-4da2-aee8-d14444ec3347 / NAME
+:SYN-FUNC: uuid-5c4b8c42-2898-4d12-b732-4c6169e3e08b
+:CHARPOS: 3
+:END:
+謂@wèi	[[tls:concept:NAME::#uuid-1c9ed2e2-d827-4da2-aee8-d14444ec3347][NAME]]	V [[tls:syn-func::#uuid-5c4b8c42-2898-4d12-b732-4c6169e3e08b][vtt{0}oN1pro.+N2:postN1]] / A 謂之B: A is called B
+*** 要@yào
+:PROPERTIES:
+:CONCEPT: uuid-1cb51ed8-a467-4d9a-a016-076262e2975b / IMPORTANT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 4
+:END:
+要@yào	[[tls:concept:IMPORTANT::#uuid-1cb51ed8-a467-4d9a-a016-076262e2975b][IMPORTANT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / important, crucial; essential
+*** 道@dào
+:PROPERTIES:
+:CONCEPT: uuid-00ac15c8-5efa-4bd0-bc88-44b2cf55d5b4 / JUSTICE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-62a630be-58ae-44f4-b858-a7540b2de8d3
+:CHARPOS: 5
+:END:
+道@dào	[[tls:concept:JUSTICE::#uuid-00ac15c8-5efa-4bd0-bc88-44b2cf55d5b4][JUSTICE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-62a630be-58ae-44f4-b858-a7540b2de8d3][moral]]} / the proper recommended way; teaching

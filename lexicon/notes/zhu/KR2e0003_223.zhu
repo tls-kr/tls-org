@@ -1,0 +1,111 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_223
+#+DATE: 2017-02-08T16:41:25+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 夫知伯之為人也	Earl Chih is a cruel and obstinate man
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2e0003_223:1a08:1::夫知 / 戰國策
+:CHARPOS: 1
+:END:
+*** 為人@wéirén
+:PROPERTIES:
+:CONCEPT: uuid-7318648a-cef1-4f52-bef4-85c161ee7df0 / CHARACTER
+:SYN-FUNC: uuid-de1bb867-4b23-4723-86ac-5e2634f2ed11
+:CHARPOS: 5
+:END:
+為人@wéirén	[[tls:concept:CHARACTER::#uuid-7318648a-cef1-4f52-bef4-85c161ee7df0][CHARACTER]]	N [[tls:syn-func::#uuid-de1bb867-4b23-4723-86ac-5e2634f2ed11][NPab.post-Npr]] / natural disposition; personality, personal nature (not countable)趙歧2B6:孟子不悅其為人.
+** 夫知伯之為人	'Earl Chih is by nature one
+:PROPERTIES:
+:SRC: ZGC 18. 2. 5,tr. Crump no 229, ed. Sha4ngha3igu3jí p. 587
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_223:2a02:1::「夫 / 戰國策
+:CHARPOS: 1
+:END:
+*** 為人@wéirén
+:PROPERTIES:
+:CONCEPT: uuid-7318648a-cef1-4f52-bef4-85c161ee7df0 / CHARACTER
+:SYN-FUNC: uuid-de1bb867-4b23-4723-86ac-5e2634f2ed11
+:CHARPOS: 5
+:END:
+為人@wéirén	[[tls:concept:CHARACTER::#uuid-7318648a-cef1-4f52-bef4-85c161ee7df0][CHARACTER]]	N [[tls:syn-func::#uuid-de1bb867-4b23-4723-86ac-5e2634f2ed11][NPab.post-Npr]] / natural disposition; personality, personal nature (not countable)趙歧2B6:孟子不悅其為人.
+** 陽親而陰疏	who pretends friendship while in fact he is heedless of it.
+:PROPERTIES:
+:SRC: ZGC 18. 2. 5,tr. Crump no 229, ed. Sha4ngha3igu3jí p. 587
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_223:2a03:50::陽親 / 戰國策
+:CHARPOS: 50
+:END:
+*** 陽@yáng
+:PROPERTIES:
+:CONCEPT: uuid-fda131c3-724b-416b-bda7-e506b3f159e9 / SHOW
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+陽@yáng	[[tls:concept:SHOW::#uuid-fda131c3-724b-416b-bda7-e506b3f159e9][SHOW]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / openly, in appearance; overtly; on the surface
+*** 陰@yīn
+:PROPERTIES:
+:CONCEPT: uuid-2c1c3866-fd7a-4211-8ca0-100d3b2d0917 / SECRET
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 53
+:END:
+陰@yīn	[[tls:concept:SECRET::#uuid-2c1c3866-fd7a-4211-8ca0-100d3b2d0917][SECRET]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / secretly; in an indirect way; in hidden ways
+** 城中巢居而處	The inhabitation had to roost in high places
+:PROPERTIES:
+:SRC: ZGC 18. 2. 9, tr. Crump no 229, ed. Sha4ngha3igu3jí p. 589
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_223:3a07:1::城中 / 戰國策
+:CHARPOS: 1
+:END:
+*** 巢@cháo
+:PROPERTIES:
+:CONCEPT: uuid-31214eac-bdb4-4f6d-9702-6324fd4ceb9e / NEST
+:SYN-FUNC: uuid-9f482f91-d3b7-4fdd-9fe5-8a7fe712f174
+:CHARPOS: 3
+:END:
+巢@cháo	[[tls:concept:NEST::#uuid-31214eac-bdb4-4f6d-9702-6324fd4ceb9e][NEST]]	N [[tls:syn-func::#uuid-9f482f91-d3b7-4fdd-9fe5-8a7fe712f174][n{PLACE}adV]] / in nests
+** 知過入見知伯曰	When Chih Kuo entered and saw Earl Chih he said,
+:PROPERTIES:
+:SRC: ZGC 18. 2. 14, tr. Crump no 229, ed. Sha4ngha3igu3jí p. 591
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_223:5a03:1::知過 / 戰國策
+:CHARPOS: 1
+:END:
+*** 入見@rùjiàn
+:PROPERTIES:
+:CONCEPT: uuid-ba40b595-bf51-48cf-8626-a1b38062e4fd / VISIT
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+入見@rùjiàn	[[tls:concept:VISIT::#uuid-ba40b595-bf51-48cf-8626-a1b38062e4fd][VISIT]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / go in to have an audience with
+** 入見知伯	Chih Kuo then had audience with Earl Chih
+:PROPERTIES:
+:SRC: ZGC 18. 2. 18, tr. Crump no 229, ed. Sha4ngha3igu3jí p. 591
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_223:6a05:1::入見 / 戰國策
+:CHARPOS: 1
+:END:
+*** 入見@rùjiàn
+:PROPERTIES:
+:CONCEPT: uuid-60aa76f0-2d47-419d-85a5-77341105f193 / VISIT
+:SYN-FUNC: uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 1
+:END:
+入見@rùjiàn	[[tls:concept:VISIT::#uuid-60aa76f0-2d47-419d-85a5-77341105f193][VISIT]]	V [[tls:syn-func::#uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d][VPt(oN)]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / go in to have an audience with N
+** 此貪欲無厭也	and he became a laughing stock.
+:PROPERTIES:
+:SRC: ZGC 18. 2. 20, tr. Crump no 229, ed. Sha4ngha3igu3jí p. 592
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_223:7a04:1::此貪 / 戰國策
+:CHARPOS: 1
+:END:
+*** 無厭@wúyàn
+:PROPERTIES:
+:CONCEPT: uuid-f594eecd-738b-48a3-bb2e-fa83d41a3c63 / GREEDY
+:SYN-FUNC: uuid-0b46d59e-9906-4ab8-887b-12a0ee8244ae
+:CHARPOS: 4
+:END:
+無厭@wúyàn	[[tls:concept:GREEDY::#uuid-f594eecd-738b-48a3-bb2e-fa83d41a3c63][GREEDY]]	V [[tls:syn-func::#uuid-0b46d59e-9906-4ab8-887b-12a0ee8244ae][VPpostadV]] / insatiably

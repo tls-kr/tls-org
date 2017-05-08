@@ -1,0 +1,72 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_072
+#+DATE: 2017-02-08T16:43:47+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 無厭其所生	do not make them weary of their means of livelihood.
+:PROPERTIES:
+:SRC: LAO 72.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_072:1a04:1::無厭 / 老子
+:CHARPOS: 1
+:END:
+*** 厭@yàn
+:PROPERTIES:
+:CONCEPT: uuid-000a41b0-1b79-4573-80ba-521a471edc19 / BOREDOM
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+厭@yàn	[[tls:concept:BOREDOM::#uuid-000a41b0-1b79-4573-80ba-521a471edc19][BOREDOM]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / get bored with; lose interest in
+** 夫唯弗厭	If they are not wearied,
+:PROPERTIES:
+:SRC: LAO 72.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_072:1a05:50::夫唯 / 老子
+:CHARPOS: 50
+:END:
+*** 厭@yàn
+:PROPERTIES:
+:CONCEPT: uuid-cbda076d-ff1e-4c77-9057-c0bba696efc3 / BOREDOM
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 53
+:END:
+厭@yàn	[[tls:concept:BOREDOM::#uuid-cbda076d-ff1e-4c77-9057-c0bba696efc3][BOREDOM]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / be bored or become bored with something contextually determinate
+** 是以聖人自知	Therefore the Sage knows himself
+:PROPERTIES:
+:SRC: LAO 72.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_072:1a07:1::是以 / 老子
+:CHARPOS: 1
+:END:
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-18d7d042-6fbb-41ba-92f1-2639ba177d70 / UNDERSTAND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 6
+:END:
+知@zhī	[[tls:concept:UNDERSTAND::#uuid-18d7d042-6fbb-41ba-92f1-2639ba177d70][UNDERSTAND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / understand (oneself); know where one is;
+** 而不自見也	but he does not show himself off,
+:PROPERTIES:
+:SRC: LAO 72.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_072:1a07:50::而不 / 老子
+:CHARPOS: 50
+:END:
+*** 現@xiàn / 見@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-9bea5acd-afdb-459f-ae87-4b7cdd3a6bf3 / SHOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 50
+:END:
+現@xiàn / 見@xiàn	[[tls:concept:SHOW::#uuid-9bea5acd-afdb-459f-ae87-4b7cdd3a6bf3][SHOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / make a display of (oneself)
+** 自愛	he loves himself
+:PROPERTIES:
+:SRC: LAO 72.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_072:1a08:50::自愛 / 老子
+:CHARPOS: 50
+:END:
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-f4af0f13-a928-4e27-a8de-c8a0e87ab403 / LOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 51
+:END:
+愛@ài	[[tls:concept:LOVE::#uuid-f4af0f13-a928-4e27-a8de-c8a0e87ab403][LOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / love (oneself)

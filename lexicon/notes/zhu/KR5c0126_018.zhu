@@ -1,0 +1,861 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 莊子 KR5c0126_018
+#+DATE: 2017-02-08T16:43:57+0900
+#+PROPERTY: COMMIT 8727f50dad81dc01cae1cea0a0b0cd5bea1ad693
+** 天下有至樂无有哉	IS THERE SUCH A THING as perfect happiness in the world or isn't there?
+:PROPERTIES:
+:SRC: ZHUANG 18.1.1 Guo Qingfan 608; Wang Shumin 639; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:1a01:50::天下 / 莊子
+:CHARPOS: 50
+:END:
+*** 至樂@zhìlè
+:PROPERTIES:
+:CONCEPT: uuid-5cd4abb0-3ea6-49a8-900f-96dec56a79eb / HAPPY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+至樂@zhìlè	[[tls:concept:HAPPY::#uuid-5cd4abb0-3ea6-49a8-900f-96dec56a79eb][HAPPY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / perfect happiness
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-7e4bda96-08a9-4597-ac0b-77e3c6c5ad73 / DELIGHT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 54
+:END:
+樂@lè	[[tls:concept:DELIGHT::#uuid-7e4bda96-08a9-4597-ac0b-77e3c6c5ad73][DELIGHT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / (degree noun:) (level of) delight/joy
+** 所樂者	This is what the world finds happiness in:
+:PROPERTIES:
+:SRC: ZHUANG 18.1.2 Guo Qingfan 609; Wang Shumin 639; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:1a09:1::所樂 / 莊子
+:CHARPOS: 1
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-9739ecf3-7c90-4849-8e26-c79bfe029925 / HAPPY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-9739ecf3-7c90-4849-8e26-c79bfe029925][HAPPY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / feel deeply communictively happy with or in
+** 身安厚味美服好色音聲也	a life of ease, rich food, fine clothes, beautiful sights, sweet sounds.
+:PROPERTIES:
+:SRC: ZHUANG 18.1.2 Guo Qingfan 609; Wang Shumin 639; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:1a10:50::身安 / 莊子
+:CHARPOS: 50
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-3a9dd862-1011-47c8-ba30-b84a1b4a98a0 / BODY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+身@shēn	[[tls:concept:BODY::#uuid-3a9dd862-1011-47c8-ba30-b84a1b4a98a0][BODY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / body as a whole; especially the main trunk as opposed to the head; body as embodying the person
+*** 好@hǎo
+:PROPERTIES:
+:CONCEPT: uuid-1a357980-0477-4afa-afe0-0e92353f1ce4 / BEAUTIFUL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 56
+:END:
+好@hǎo	[[tls:concept:BEAUTIFUL::#uuid-1a357980-0477-4afa-afe0-0e92353f1ce4][BEAUTIFUL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / comely, handsome; good to look at
+** 苦身疾作	wear themselves out rushing around on business,
+:PROPERTIES:
+:SRC: ZHUANG 18.1.4 Guo Qingfan 609; Wang Shumin 639; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:2a02:1::苦身 / 莊子
+:CHARPOS: 1
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-3a9dd862-1011-47c8-ba30-b84a1b4a98a0 / BODY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+身@shēn	[[tls:concept:BODY::#uuid-3a9dd862-1011-47c8-ba30-b84a1b4a98a0][BODY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / body as a whole; especially the main trunk as opposed to the head; body as embodying the person
+** 未足以活身	but their goodness doesn't succeed in keeping them alive.
+:PROPERTIES:
+:SRC: ZHUANG 18.1.5 Guo Qingfan 609; Wang Shumin 639; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:2a16:1::未足 / 莊子
+:CHARPOS: 1
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-3a9dd862-1011-47c8-ba30-b84a1b4a98a0 / BODY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+身@shēn	[[tls:concept:BODY::#uuid-3a9dd862-1011-47c8-ba30-b84a1b4a98a0][BODY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / body as a whole; especially the main trunk as opposed to the head; body as embodying the person
+** 不足活身	but not good enough to save their lives.
+:PROPERTIES:
+:SRC: ZHUANG 18.1.6 Guo Qingfan 610; Wang Shumin 639; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:2a19:1::不足 / 莊子
+:CHARPOS: 1
+:END:
+*** 活@huó
+:PROPERTIES:
+:CONCEPT: uuid-179bfa74-9044-430b-ae19-b116c45b3fc8 / LIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 3
+:END:
+活@huó	[[tls:concept:LIVE::#uuid-179bfa74-9044-430b-ae19-b116c45b3fc8][LIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / keep (oneself) alive
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-1e1e962a-e970-41ef-9eb5-657ebc66b251 / SELF
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+身@shēn	[[tls:concept:SELF::#uuid-1e1e962a-e970-41ef-9eb5-657ebc66b251][SELF]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / contrastive: one's own person; oneself; himself
+** 故夫子胥爭之以殘其形	Tzu-hsu wrangled and lost his body.2
+:PROPERTIES:
+:SRC: ZHUANG 18.1.6 Guo Qingfan 610; Wang Shumin 639; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:2a25:1::故夫 / 莊子
+:CHARPOS: 1
+:END:
+*** 殘@cán
+:PROPERTIES:
+:CONCEPT: uuid-9bc7aa45-8de6-4470-9bb8-8fb29ea25bab / DESTROY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 8
+:END:
+殘@cán	[[tls:concept:DESTROY::#uuid-9bc7aa45-8de6-4470-9bb8-8fb29ea25bab][DESTROY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / destroy recklessly or cruelly, rout completely; ruin, spoil (crops)
+*** 形@xíng
+:PROPERTIES:
+:CONCEPT: uuid-ee8a2f43-9166-4562-a07d-f54176d769f4 / BODY
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 10
+:END:
+形@xíng	[[tls:concept:BODY::#uuid-ee8a2f43-9166-4562-a07d-f54176d769f4][BODY]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / body; physical appearance (mostly n(post-N))
+** 今俗之所為與其所樂	What ordinary people do and what they find happiness in -
+:PROPERTIES:
+:SRC: ZHUANG 18.1.7 Guo Qingfan 611; Wang Shumin 642; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:3a01:1::今俗 / 莊子
+:CHARPOS: 1
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-9739ecf3-7c90-4849-8e26-c79bfe029925 / HAPPY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 9
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-9739ecf3-7c90-4849-8e26-c79bfe029925][HAPPY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / feel deeply communictively happy with or in
+** 吾又未知樂之果樂邪	I don't know whether such happiness is in the end really happiness
+:PROPERTIES:
+:SRC: ZHUANG 18.1.7 Guo Qingfan 611; Wang Shumin 642; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:3a02:50::吾又 / 莊子
+:CHARPOS: 50
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 54
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / find communicative happiness; be communicatively happy (the optative cases have to be moved!)
+** 而皆曰樂者	they all say they're happy with it.
+:PROPERTIES:
+:SRC: ZHUANG 18.1.7 Guo Qingfan 611; Wang Shumin 642; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:3a07:1::而皆 / 莊子
+:CHARPOS: 1
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / find communicative happiness; be communicatively happy (the optative cases have to be moved!)
+** 吾未之樂也	I'm not happy with it and I'm not unhappy with it.
+:PROPERTIES:
+:SRC: ZHUANG 18.1.7 Guo Qingfan 611; Wang Shumin 642; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:3a08:50::吾未 / 莊子
+:CHARPOS: 50
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-41a24a34-43c9-4d15-8675-cfc129809c73 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-902cb315-cb41-4746-bb0d-aa081c412a95
+:CHARPOS: 53
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-41a24a34-43c9-4d15-8675-cfc129809c73][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-902cb315-cb41-4746-bb0d-aa081c412a95][optative]]} / may he be communicatively happy, the N
+** 亦未之不樂也	In the end is there really happiness or isn't there?
+:PROPERTIES:
+:SRC: ZHUANG 18.1.7 Guo Qingfan 611; Wang Shumin 642; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:3a09:50::亦未 / 莊子
+:CHARPOS: 50
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-9739ecf3-7c90-4849-8e26-c79bfe029925 / HAPPY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-9739ecf3-7c90-4849-8e26-c79bfe029925][HAPPY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / feel deeply communictively happy with or in
+** 果有樂无有哉	In the end is there really happiness or isn't there?
+:PROPERTIES:
+:SRC: ZHUANG 18.1.8
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:3a10:50::果有 / 莊子
+:CHARPOS: 50
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-d5d5549b-d891-487a-9e10-ae007c269209 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-d5d5549b-d891-487a-9e10-ae007c269209][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / deep communicative happiness 熱鬧的快樂
+** 至樂无樂	perfect happiness knows no happiness,
+:PROPERTIES:
+:SRC: ZHUANG 18.1.8
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:3a14:1::「至 / 莊子
+:CHARPOS: 1
+:END:
+*** 至樂@zhìlè
+:PROPERTIES:
+:CONCEPT: uuid-5cd4abb0-3ea6-49a8-900f-96dec56a79eb / HAPPY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 1
+:END:
+至樂@zhìlè	[[tls:concept:HAPPY::#uuid-5cd4abb0-3ea6-49a8-900f-96dec56a79eb][HAPPY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / perfect happiness
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-6b70a976-0466-4fa2-97d0-8ae9af47df33 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 2
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-6b70a976-0466-4fa2-97d0-8ae9af47df33][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / deep communicative happiness 至樂
+** 至樂活身	Perfect happiness, keeping alive -
+:PROPERTIES:
+:SRC: ZHUANG 18.1.9 Guo Qingfan 612; Wang Shumin 642; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:4a04:1::至樂 / 莊子
+:CHARPOS: 1
+:END:
+*** 至樂@zhìlè
+:PROPERTIES:
+:CONCEPT: uuid-5cd4abb0-3ea6-49a8-900f-96dec56a79eb / HAPPY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 1
+:END:
+至樂@zhìlè	[[tls:concept:HAPPY::#uuid-5cd4abb0-3ea6-49a8-900f-96dec56a79eb][HAPPY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / perfect happiness
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-6b70a976-0466-4fa2-97d0-8ae9af47df33 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 2
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-6b70a976-0466-4fa2-97d0-8ae9af47df33][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / deep communicative happiness 至樂
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-44ff94fc-643c-4e92-8ccb-12b1c91554a3 / PERSON
+:SYN-FUNC: uuid-f0b2b11d-142f-4669-900c-24fd2d712fd3
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+身@shēn	[[tls:concept:PERSON::#uuid-44ff94fc-643c-4e92-8ccb-12b1c91554a3][PERSON]]	N [[tls:syn-func::#uuid-f0b2b11d-142f-4669-900c-24fd2d712fd3][nab{.post-N}]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / often reflexive: one's (own) person; one's (own) person and character; the Self; personality (as something cultivated by the gentleman); the character
+** 請嘗試言之	Let me try putting it this way.
+:PROPERTIES:
+:SRC: ZHUANG 18.1.9 Guo Qingfan 612; Wang Shumin 642; Fang Yong 464; Chen Guying 446
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:4a06:1::請嘗 / 莊子
+:CHARPOS: 1
+:END:
+*** 請@qǐng
+:PROPERTIES:
+:CONCEPT: uuid-22fd8314-2b6b-461b-aa97-2fdafaa95239 / REQUEST
+:SYN-FUNC: uuid-65d93b56-a5a4-48f1-999e-bca54da80015
+:SEM-FEAT: uuid-a40e0575-055f-43e7-ba08-d6aed75b92ba
+:CHARPOS: 1
+:END:
+請@qǐng	[[tls:concept:REQUEST::#uuid-22fd8314-2b6b-461b-aa97-2fdafaa95239][REQUEST]]	V [[tls:syn-func::#uuid-65d93b56-a5a4-48f1-999e-bca54da80015][vt{0}+V{0}]] {[[tls:sem-feat::#uuid-a40e0575-055f-43e7-ba08-d6aed75b92ba][performative]]} / may I ask (for myself ) to V> please let me [short and idiomatic for 臣請]
+** 莊子妻死	Chuang Tzu's wife died.
+:PROPERTIES:
+:SRC: ZHUANG 18.2.1 Guo Qingfan 614; Wang Shumin 645; Fang Yong 468; Chen Guying 450
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:5a01:1::莊子 / 莊子
+:CHARPOS: 1
+:END:
+*** 妻@qī
+:PROPERTIES:
+:CONCEPT: uuid-a864f0bf-fe31-4ba7-9fdd-d103cbb89993 / WIFE
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:CHARPOS: 3
+:END:
+妻@qī	[[tls:concept:WIFE::#uuid-a864f0bf-fe31-4ba7-9fdd-d103cbb89993][WIFE]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] / main wife of N
+** 惠子弔之	When Hui Tzu went to convey his condolences,
+:PROPERTIES:
+:SRC: ZHUANG 18.2.1 Guo Qingfan 614; Wang Shumin 645; Fang Yong 468; Chen Guying 450
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:5a02:50::惠子 / 莊子
+:CHARPOS: 50
+:END:
+*** 弔@diào / @
+:PROPERTIES:
+:CONCEPT: uuid-b72df793-9471-41de-8f73-bc2ddc39d838 / CONSOLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+弔@diào / @	[[tls:concept:CONSOLE::#uuid-b72df793-9471-41de-8f73-bc2ddc39d838][CONSOLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / offer condolences to
+** 莊子則方箕踞鼓盆而歌	he found Chuang Tzu sitting with his legs sprawled out, pounding on a tub and singing.
+:PROPERTIES:
+:SRC: ZHUANG 18.2.1 Guo Qingfan 614; Wang Shumin 645; Fang Yong 468; Chen Guying 450
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:5a03:50::莊子 / 莊子
+:CHARPOS: 50
+:END:
+*** 踞@jù
+:PROPERTIES:
+:CONCEPT: uuid-0683db14-788f-49ba-a80f-da0b52f91ac8 / SIT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+踞@jù	[[tls:concept:SIT::#uuid-0683db14-788f-49ba-a80f-da0b52f91ac8][SIT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / sit informally with one's bottom on the floor and with one's legs spread out to the sides
+*** 鼓@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-92ca0c9f-6ffb-4f9d-a785-1fcae55d5273 / KNOCK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 56
+:END:
+鼓@gǔ	[[tls:concept:KNOCK::#uuid-92ca0c9f-6ffb-4f9d-a785-1fcae55d5273][KNOCK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / knock (bell etc); strike (a note on a drum)
+*** 盆@pén
+:PROPERTIES:
+:CONCEPT: uuid-2ccbb52c-1af4-4cbd-a02a-ae5c58e11ae3 / WATER VESSEL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 57
+:END:
+盆@pén	[[tls:concept:WATER VESSEL::#uuid-2ccbb52c-1af4-4cbd-a02a-ae5c58e11ae3][WATER VESSEL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / basin, tub
+*** 歌@gē
+:PROPERTIES:
+:CONCEPT: uuid-7dbe148e-0247-4d2c-8ea3-6769d3aea774 / SING
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 59
+:END:
+歌@gē	[[tls:concept:SING::#uuid-7dbe148e-0247-4d2c-8ea3-6769d3aea774][SING]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / sing a melody, sing a song, sing along (should this be vt[oN]???) often to accompaniment on the lute
+** 又鼓盆而歌	But pounding on a tub and singing -
+:PROPERTIES:
+:SRC: ZHUANG 18.2.2 Guo Qingfan 614; Wang Shumin 645; Fang Yong 468; Chen Guying 450
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:5a07:1::又鼓 / 莊子
+:CHARPOS: 1
+:END:
+*** 鼓@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-92ca0c9f-6ffb-4f9d-a785-1fcae55d5273 / KNOCK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+鼓@gǔ	[[tls:concept:KNOCK::#uuid-92ca0c9f-6ffb-4f9d-a785-1fcae55d5273][KNOCK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / knock (bell etc); strike (a note on a drum)
+*** 歌@gē
+:PROPERTIES:
+:CONCEPT: uuid-7dbe148e-0247-4d2c-8ea3-6769d3aea774 / SING
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 5
+:END:
+歌@gē	[[tls:concept:SING::#uuid-7dbe148e-0247-4d2c-8ea3-6769d3aea774][SING]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / sing a melody, sing a song, sing along (should this be vt[oN]???) often to accompaniment on the lute
+** 俄而柳生其左肘	Suddenly a willow sprouted out of Uncle Lame-Gait's left elbow.4
+:PROPERTIES:
+:SRC: ZHUANG 18.3.1 Guo Qingfan 615; Wang Shumin 647; Fang Yong 469; Chen Guying 452
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:6a04:1::俄而 / 莊子
+:CHARPOS: 1
+:END:
+*** 俄而@éér
+:PROPERTIES:
+:CONCEPT: uuid-b363abcb-973a-4a28-8826-3e455f211186 / THEREUPON
+:SYN-FUNC: uuid-eb8abafd-05ff-4ae5-9f85-7417d096299a
+:CHARPOS: 1
+:END:
+俄而@éér	[[tls:concept:THEREUPON::#uuid-b363abcb-973a-4a28-8826-3e455f211186][THEREUPON]]	P [[tls:syn-func::#uuid-eb8abafd-05ff-4ae5-9f85-7417d096299a][PPadV]] / after a while, unpredictably, suddenly; then suddenly
+*** 肘@zhǒu
+:PROPERTIES:
+:CONCEPT: uuid-9b64af81-4143-49e6-8a2c-ed2273b4daaa / ELBOW
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 7
+:END:
+肘@zhǒu	[[tls:concept:ELBOW::#uuid-9b64af81-4143-49e6-8a2c-ed2273b4daaa][ELBOW]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / elbow
+** 滑介叔曰亡予何惡	"No-what is there to resent?" said Uncle Lame-Gait.
+:PROPERTIES:
+:SRC: ZHUANG 18.3.2 Guo Qingfan 616; Wang Shumin 647; Fang Yong 469; Chen Guying 452
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:6a08:1::滑介 / 莊子
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-7dd7f6b0-d1f7-4a72-81f2-6ec166e32ca5 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 6
+:END:
+予@yú	[[tls:concept:EGO::#uuid-7dd7f6b0-d1f7-4a72-81f2-6ec166e32ca5][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / I (personally); I personally; I, as a matter of personal experience or sensibility 予欲 "I wish..."
+** 生者假借也	"To live is to borrow.
+:PROPERTIES:
+:SRC: ZHUANG 18.3.2 Guo Qingfan 616; Wang Shumin 647; Fang Yong 469; Chen Guying 452
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:6a10:50::生者 / 莊子
+:CHARPOS: 50
+:END:
+*** 假借@jiǎjiè
+:PROPERTIES:
+:CONCEPT: uuid-4201d7c8-b811-4684-8a3f-1d56203d5615 / BORROW
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+假借@jiǎjiè	[[tls:concept:BORROW::#uuid-4201d7c8-b811-4684-8a3f-1d56203d5615][BORROW]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / borrowing
+** 塵垢也	then life must be a pile of trash.
+:PROPERTIES:
+:SRC: ZHUANG 18.3.2 Guo Qingfan 616; Wang Shumin 647; Fang Yong 469; Chen Guying 452
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:6a12:1::塵垢 / 莊子
+:CHARPOS: 1
+:END:
+*** 塵@chén
+:PROPERTIES:
+:CONCEPT: uuid-95493dcb-1c0b-4cbd-9f2f-fbc021dd4a3f / DUST
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 1
+:END:
+塵@chén	[[tls:concept:DUST::#uuid-95493dcb-1c0b-4cbd-9f2f-fbc021dd4a3f][DUST]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / dust; sand; (also abstractly in a transferred sense: defilement)
+*** 塵垢@chéngòu
+:PROPERTIES:
+:CONCEPT: uuid-030257de-177b-406e-9a3b-d13999283995 / DUST
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+塵垢@chéngòu	[[tls:concept:DUST::#uuid-030257de-177b-406e-9a3b-d13999283995][DUST]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / defilements
+*** 垢@gòu
+:PROPERTIES:
+:CONCEPT: uuid-53301a7a-f93e-40b9-91b3-b5cb22cc38c8 / DUST
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 2
+:END:
+垢@gòu	[[tls:concept:DUST::#uuid-53301a7a-f93e-40b9-91b3-b5cb22cc38c8][DUST]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / dirt, dust
+** 死生為晝夜	Life and death are day and night.
+:PROPERTIES:
+:SRC: ZHUANG 18.3.2 Guo Qingfan 616; Wang Shumin 647; Fang Yong 469; Chen Guying 452
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:6a13:50::死生 / 莊子
+:CHARPOS: 50
+:END:
+*** 晝夜@zhòuyè
+:PROPERTIES:
+:CONCEPT: uuid-5a5a2698-3af4-4649-9a30-f9d5188a6980 / DAY
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 53
+:END:
+晝夜@zhòuyè	[[tls:concept:DAY::#uuid-5a5a2698-3af4-4649-9a30-f9d5188a6980][DAY]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / generally: day and night
+** 且吾與子觀化	You and I came to watch the process of change,
+:PROPERTIES:
+:SRC: ZHUANG 18.3.2 Guo Qingfan 616; Wang Shumin 647; Fang Yong 469; Chen Guying 452
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:6a14:50::且吾 / 莊子
+:CHARPOS: 50
+:END:
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-97ce5abf-b0dd-42fa-af50-900a2e216311 / AND
+:SYN-FUNC: uuid-fe27076f-d09c-4389-a1c3-c36bcf975082
+:CHARPOS: 52
+:END:
+與@yǔ	[[tls:concept:AND::#uuid-97ce5abf-b0dd-42fa-af50-900a2e216311][AND]]	V [[tls:syn-func::#uuid-fe27076f-d09c-4389-a1c3-c36bcf975082][vtoN1.postN2:+V]] / and 吾與汝俱不如也
+** 而化及我	and now change has caught up with me.
+:PROPERTIES:
+:SRC: ZHUANG 18.3.2 Guo Qingfan 616; Wang Shumin 647; Fang Yong 469; Chen Guying 452
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:6a14:50::而化 / 莊子
+:CHARPOS: 50
+:END:
+*** 化@huà
+:PROPERTIES:
+:CONCEPT: uuid-dc4e385f-97d7-4784-8b9f-769365ce3e57 / CHANGE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 51
+:END:
+化@huà	[[tls:concept:CHANGE::#uuid-dc4e385f-97d7-4784-8b9f-769365ce3e57][CHANGE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / substantial and typically irreversible transformation into something new; natural transformation
+** 見空髑髏	he saw an old skull,
+:PROPERTIES:
+:SRC: ZHUANG 18.4.1 Guo Qingfan 617; Wang Shumin 649; Fang Yong 471; Chen Guying 453
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:7a02:1::見空 / 莊子
+:CHARPOS: 1
+:END:
+*** 空@kōng
+:PROPERTIES:
+:CONCEPT: uuid-af545197-cbc0-47bc-8815-f5e31501ff5f / EMPTY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 2
+:END:
+空@kōng	[[tls:concept:EMPTY::#uuid-af545197-cbc0-47bc-8815-f5e31501ff5f][EMPTY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / empty; empty of relevant content (an empty pond, for example, may be just empty of fish etc)
+*** 髑髏@dúlóu
+:PROPERTIES:
+:CONCEPT: uuid-1fa8824a-cde1-4372-b4dd-a33b286b64b0 / SKULL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 3
+:END:
+髑髏@dúlóu	[[tls:concept:SKULL::#uuid-1fa8824a-cde1-4372-b4dd-a33b286b64b0][SKULL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / ZHUANG: skull [note the assonance in this name: repetition of "oo"]
+** 將子有不善之行	Did you do some evil deed
+:PROPERTIES:
+:SRC: ZHUANG 18.4.2 Guo Qingfan 617; Wang Shumin 649; Fang Yong 471; Chen Guying 454
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:7a12:1::將子 / 莊子
+:CHARPOS: 1
+:END:
+*** 將@jiāng
+:PROPERTIES:
+:CONCEPT: uuid-0077b350-8878-46dc-bb72-7ccad05db1c7 / OR
+:SYN-FUNC: uuid-24957678-0999-4596-8e51-3945e1a7a59a
+:CHARPOS: 1
+:END:
+將@jiāng	[[tls:concept:OR::#uuid-0077b350-8878-46dc-bb72-7ccad05db1c7][OR]]	V [[tls:syn-func::#uuid-24957678-0999-4596-8e51-3945e1a7a59a][vadS1.post-S2]] / or else
+** 愧遺父母妻子之醜	and were you ashamed to bring disgrace upon your parents and family,
+:PROPERTIES:
+:SRC: ZHUANG 18.4.2 Guo Qingfan 617; Wang Shumin 649; Fang Yong 471; Chen Guying 454
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:7a13:50::愧遺 / 莊子
+:CHARPOS: 50
+:END:
+*** 愧@kuì / 愧@kuì
+:PROPERTIES:
+:CONCEPT: uuid-8e5f4281-b183-4a59-9f1c-416de916188e / SHAME
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 50
+:END:
+愧@kuì / 愧@kuì	[[tls:concept:SHAME::#uuid-8e5f4281-b183-4a59-9f1c-416de916188e][SHAME]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / feel ashamed/embarrassed vis-a-vis; feel embarrassed about 甚愧之
+** 於是語卒	When he had finished speaking,
+:PROPERTIES:
+:SRC: ZHUANG 18.4.3 Guo Qingfan 618; Wang Shumin 649; Fang Yong 471; Chen Guying 454
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:7a18:1::於是 / 莊子
+:CHARPOS: 1
+:END:
+*** 於是@yúshì
+:PROPERTIES:
+:CONCEPT: uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28 / THEREUPON
+:SYN-FUNC: uuid-fc393db1-993e-431d-9540-bc9fde4945d4
+:CHARPOS: 1
+:END:
+於是@yúshì	[[tls:concept:THEREUPON::#uuid-6aa92ada-4644-4100-9d75-d44daa2d7d28][THEREUPON]]	V [[tls:syn-func::#uuid-fc393db1-993e-431d-9540-bc9fde4945d4][VPadS1.postS2]] / At that point, Whereupon; at that time; at this time (remarkably often after direct speeech: having said this,...; then; at that point, at this juncture; at this stage (in a text); and then; subsequently)
+** 枕而臥	using it for a pillow, lay down to sleep.
+:PROPERTIES:
+:SRC: ZHUANG 18.4.3 Guo Qingfan 618; Wang Shumin 649; Fang Yong 471; Chen Guying 454
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:7a20:1::枕而 / 莊子
+:CHARPOS: 1
+:END:
+*** 臥@wò / @
+:PROPERTIES:
+:CONCEPT: uuid-d412fae3-0311-4a7a-8472-5aaaeb461dcb / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332
+:CHARPOS: 3
+:END:
+臥@wò / @	[[tls:concept:SLEEP::#uuid-d412fae3-0311-4a7a-8472-5aaaeb461dcb][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332][inchoative]]} / nodd off; rest (as on a table before one), take a nap; doze off 醉而臥; often: take a nap during the day
+** 子之談者似辯士	"You chatter like a rhetorician
+:PROPERTIES:
+:SRC: ZHUANG 18.4.3 Guo Qingfan 618; Wang Shumin 649; Fang Yong 471; Chen Guying 454
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:7a23:1::「子 / 莊子
+:CHARPOS: 1
+:END:
+*** 談@tán
+:PROPERTIES:
+:CONCEPT: uuid-139ab8be-b539-4460-a7a5-cc96b72ed3af / SPEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+談@tán	[[tls:concept:SPEAK::#uuid-139ab8be-b539-4460-a7a5-cc96b72ed3af][SPEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / chattering, chatter; holding forth
+** 髑髏曰	The skull said,
+:PROPERTIES:
+:SRC: ZHUANG 18.4.5 Guo Qingfan 619; Wang Shumin 649; Fang Yong 471; Chen Guying 454
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:7a30:1::髑髏 / 莊子
+:CHARPOS: 1
+:END:
+*** 髑髏@dúlóu
+:PROPERTIES:
+:CONCEPT: uuid-1fa8824a-cde1-4372-b4dd-a33b286b64b0 / SKULL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+髑髏@dúlóu	[[tls:concept:SKULL::#uuid-1fa8824a-cde1-4372-b4dd-a33b286b64b0][SKULL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / ZHUANG: skull [note the assonance in this name: repetition of "oo"]
+** 雖南面王樂	A king facing south on his throne
+:PROPERTIES:
+:SRC: ZHUANG 18.4.5 Guo Qingfan 619; Wang Shumin 649; Fang Yong 471; Chen Guying 454
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:7a36:1::雖南 / 莊子
+:CHARPOS: 1
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-d5d5549b-d891-487a-9e10-ae007c269209 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 5
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-d5d5549b-d891-487a-9e10-ae007c269209][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / deep communicative happiness 熱鬧的快樂
+** 為子骨肉肌膚	make you some bones and flesh,
+:PROPERTIES:
+:SRC: ZHUANG 18.4.6 Guo Qingfan 619; Wang Shumin 649; Fang Yong 471; Chen Guying 454
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:7a41:1::為子 / 莊子
+:CHARPOS: 1
+:END:
+*** 肌膚@jīfū
+:PROPERTIES:
+:CONCEPT: uuid-71cbb0f2-894f-4d5c-825f-309bfee37399 / SKIN
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:CHARPOS: 5
+:END:
+肌膚@jīfū	[[tls:concept:SKIN::#uuid-71cbb0f2-894f-4d5c-825f-309bfee37399][SKIN]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / skin tissue (versus the surface of the skin itself)
+** 反子父母妻子閭里知識	return you to your parents and family and your old home and friends,
+:PROPERTIES:
+:SRC: ZHUANG 18.4.6 Guo Qingfan 619; Wang Shumin 649; Fang Yong 471; Chen Guying 454
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:7a42:50::反子 / 莊子
+:CHARPOS: 50
+:END:
+*** 知識@zhīshí
+:PROPERTIES:
+:CONCEPT: uuid-fb76fcaf-63ef-4cf7-8414-5eb85486beca / FRIEND
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:CHARPOS: 58
+:END:
+知識@zhīshí	[[tls:concept:FRIEND::#uuid-fb76fcaf-63ef-4cf7-8414-5eb85486beca][FRIEND]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] / acquaintances (GUAN)
+** 髑髏深矉蹙頞曰	The skull frowned severely, wrinkling up its brow.
+:PROPERTIES:
+:SRC: ZHUANG 18.4.7 Guo Qingfan 619; Wang Shumin 649; Fang Yong 471; Chen Guying 454
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:7a44:1::髑髏 / 莊子
+:CHARPOS: 1
+:END:
+*** 蹙@cù
+:PROPERTIES:
+:CONCEPT: uuid-cd20e745-e0c2-4474-92c5-19d1e84db8df / FROWN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+蹙@cù	[[tls:concept:FROWN::#uuid-cd20e745-e0c2-4474-92c5-19d1e84db8df][FROWN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / German: (die Nase) rympfen
+** 吾安能棄南面王樂	"Why would I throw away more happiness than that of a king on a throne
+:PROPERTIES:
+:SRC: ZHUANG 18.4.7 Guo Qingfan 619; Wang Shumin 649; Fang Yong 471; Chen Guying 454
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:7a45:50::「吾 / 莊子
+:CHARPOS: 50
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-d5d5549b-d891-487a-9e10-ae007c269209 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 57
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-d5d5549b-d891-487a-9e10-ae007c269209][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / deep communicative happiness 熱鬧的快樂
+** 綆短者不可以汲深	short well ropes won't dip up deep water.'
+:PROPERTIES:
+:SRC: ZHUANG 18.5.2 Guo Qingfan 620; Wang Shumin 652; Fang Yong 473; Chen Guying 456
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:9a07:1::綆短 / 莊子
+:CHARPOS: 1
+:END:
+*** 汲@jí
+:PROPERTIES:
+:CONCEPT: uuid-8a49d493-ece2-4352-8689-6143b86dddf6 / FETCH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+汲@jí	[[tls:concept:FETCH::#uuid-8a49d493-ece2-4352-8689-6143b86dddf6][FETCH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / draw water from
+** 且女獨不聞邪	"Haven't you heard this story?
+:PROPERTIES:
+:SRC: ZHUANG 18.5.4 Guo Qingfan 621; Wang Shumin 652; Fang Yong 473; Chen Guying 456
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:9a17:1::且女 / 莊子
+:CHARPOS: 1
+:END:
+*** 獨@dú
+:PROPERTIES:
+:CONCEPT: uuid-217514ea-45b1-43a7-b054-e97f3fbdad8c / MODAL PARTICLES
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 3
+:END:
+獨@dú	[[tls:concept:MODAL PARTICLES::#uuid-217514ea-45b1-43a7-b054-e97f3fbdad8c][MODAL PARTICLES]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / marker of rhetorical questions inviting or suggesting/presupposing a negative answer, derived from the meaning "as the only person"
+*** 邪@yé / 邪@yé
+:PROPERTIES:
+:CONCEPT: uuid-47ec3a50-d29e-419e-a1d2-de85e3174794 / FINAL PARTICLES
+:SYN-FUNC: uuid-c086c9bd-8ec5-463f-9803-c938c8b0d4d9
+:CHARPOS: 6
+:END:
+邪@yé / 邪@yé	[[tls:concept:FINAL PARTICLES::#uuid-47ec3a50-d29e-419e-a1d2-de85e3174794][FINAL PARTICLES]]	P [[tls:syn-func::#uuid-c086c9bd-8ec5-463f-9803-c938c8b0d4d9][ppostadS]] / question particle
+** 魯侯御而觴之于廟	The marquis of Lu escorted it to the ancestral temple,
+:PROPERTIES:
+:SRC: ZHUANG 18.5.4 Guo Qingfan 621; Wang Shumin 652; Fang Yong 473; Chen Guying 456
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:9a19:1::魯侯 / 莊子
+:CHARPOS: 1
+:END:
+*** 侯@hóu
+:PROPERTIES:
+:CONCEPT: uuid-afb1d0d3-a034-478f-b2a8-79c76657d8d8 / RULER
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:CHARPOS: 2
+:END:
+侯@hóu	[[tls:concept:RULER::#uuid-afb1d0d3-a034-478f-b2a8-79c76657d8d8][RULER]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] / Marquis of N 齊侯
+** 不敢食一臠	refusing to eat a single slice of meat
+:PROPERTIES:
+:SRC: ZHUANG 18.5.4 Guo Qingfan 621; Wang Shumin 652; Fang Yong 473; Chen Guying 456
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:9a23:1::不敢 / 莊子
+:CHARPOS: 1
+:END:
+*** 臠@luán
+:PROPERTIES:
+:CONCEPT: uuid-2cf3ef94-d7a7-4c2a-88d9-69135f008391 / SLICED MEAT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+臠@luán	[[tls:concept:SLICED MEAT::#uuid-2cf3ef94-d7a7-4c2a-88d9-69135f008391][SLICED MEAT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / HUAINAN, shuolin: large chunk of meat or fish
+** 不敢飲一杯	or drink a cup of wine,
+:PROPERTIES:
+:SRC: ZHUANG 18.5.4 Guo Qingfan 621; Wang Shumin 652; Fang Yong 473; Chen Guying 456
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:9a24:50::不敢 / 莊子
+:CHARPOS: 50
+:END:
+*** 杯@bēi
+:PROPERTIES:
+:CONCEPT: uuid-26d9380a-0077-4c4c-b92d-0bc5758ed47a / CUP
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+杯@bēi	[[tls:concept:CUP::#uuid-26d9380a-0077-4c4c-b92d-0bc5758ed47a][CUP]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / beaker on a high foot; mostly: flat plain bowl with ears used for broth or for wine etc
+*** 杯@bēi
+:PROPERTIES:
+:CONCEPT: uuid-7db9d042-9cda-4c2e-8d3a-fe4bfe434aa1 / BOWL
+:SYN-FUNC: uuid-9496fd1b-6971-4740-a3d8-efe3f93c9722
+:SEM-FEAT: uuid-14056dfd-9bb3-49e4-93d1-93de5283e702
+:CHARPOS: 54
+:END:
+杯@bēi	[[tls:concept:BOWL::#uuid-7db9d042-9cda-4c2e-8d3a-fe4bfe434aa1][BOWL]]	N [[tls:syn-func::#uuid-9496fd1b-6971-4740-a3d8-efe3f93c9722][ncpost-V{NUM}(.+N)]] {[[tls:sem-feat::#uuid-14056dfd-9bb3-49e4-93d1-93de5283e702][classifier]]} / cups of the contextually determinate substance N
+** 故先聖不一其能	Therefore the former sages never required the same ability from all creatures
+:PROPERTIES:
+:SRC: ZHUANG 18.5.7 Guo Qingfan 621; Wang Shumin 652; Fang Yong 473; Chen Guying 456
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:9a47:1::故先 / 莊子
+:CHARPOS: 1
+:END:
+*** 先聖@xiānshèng
+:PROPERTIES:
+:CONCEPT: uuid-52718f1a-db25-49a3-820c-b35062232211 / HERO
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 2
+:END:
+先聖@xiānshèng	[[tls:concept:HERO::#uuid-52718f1a-db25-49a3-820c-b35062232211][HERO]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the former sages
+** 唯予與女知而未嘗死	"Only you and I know that you have never died
+:PROPERTIES:
+:SRC: ZHUANG 18.6.1 Guo Qingfan 623; Wang Shumin 652; Fang Yong 476; Chen Guying 459
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:10a04:1::「唯 / 莊子
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-7dd7f6b0-d1f7-4a72-81f2-6ec166e32ca5 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-7dd7f6b0-d1f7-4a72-81f2-6ec166e32ca5][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / I (personally); I personally; I, as a matter of personal experience or sensibility 予欲 "I wish..."
+** 予果歡乎	Am I really enjoying myself?"
+:PROPERTIES:
+:SRC: ZHUANG 18.6.1 Guo Qingfan 623; Wang Shumin 652; Fang Yong 476; Chen Guying 459
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:10a07:1::予果 / 莊子
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-7dd7f6b0-d1f7-4a72-81f2-6ec166e32ca5 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-7dd7f6b0-d1f7-4a72-81f2-6ec166e32ca5][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / I (personally); I personally; I, as a matter of personal experience or sensibility 予欲 "I wish..."
+** 種有幾	The seeds of things have mysterious workings.
+:PROPERTIES:
+:SRC: ZHUANG 18.7.1 Guo Qingfan 624; Wang Shumin 657; Fang Yong 476; Chen Guying 460
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:10a08:50::種有 / 莊子
+:CHARPOS: 50
+:END:
+*** 種@zhǒng
+:PROPERTIES:
+:CONCEPT: uuid-836426ad-cdf8-4805-8ac7-ab860ada7065 / SEED
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 50
+:END:
+種@zhǒng	[[tls:concept:SEED::#uuid-836426ad-cdf8-4805-8ac7-ab860ada7065][SEED]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / seeds
+** 得水土之際則為鼃蠙之衣	on the edges of the water they become Frog's Robe.
+:PROPERTIES:
+:SRC: ZHUANG 18.7.1 Guo Qingfan 624; Wang Shumin 657; Fang Yong 476; Chen Guying 460
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:10a10:1::得水 / 莊子
+:CHARPOS: 1
+:END:
+*** 際@jì
+:PROPERTIES:
+:CONCEPT: uuid-6f6afb94-3907-47bd-bf30-418f490966a7 / LIMIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+際@jì	[[tls:concept:LIMIT::#uuid-6f6afb94-3907-47bd-bf30-418f490966a7][LIMIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / outer edge, outer limit, extremity, border-line, limits (often between abstract things like periods of time)
+** 胡蝶胥也化而為蟲	Before long the butterflies are transformed and turn into insects
+:PROPERTIES:
+:SRC: ZHUANG 18.7.1 Guo Qingfan 624; Wang Shumin 657; Fang Yong 476; Chen Guying 460
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:10a15:1::胡蝶 / 莊子
+:CHARPOS: 1
+:END:
+*** 胡蝶@húdié
+:PROPERTIES:
+:CONCEPT: uuid-c61240db-cb85-443f-bf63-f40f2a6f11ae / INSECTS
+:SYN-FUNC: uuid-81b5275d-0f2f-4adb-bb8c-91ea0371bc12
+:CHARPOS: 1
+:END:
+胡蝶@húdié	[[tls:concept:INSECTS::#uuid-c61240db-cb85-443f-bf63-f40f2a6f11ae][INSECTS]]	N [[tls:syn-func::#uuid-81b5275d-0f2f-4adb-bb8c-91ea0371bc12][nn]] / butterfly
+** 人又反入於機	Men in time return again to the mysterious workings.
+:PROPERTIES:
+:SRC: ZHUANG 18.7.3 Guo Qingfan 625; Wang Shumin 657; Fang Yong 476; Chen Guying 460
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_018:10a31:1::人又 / 莊子
+:CHARPOS: 1
+:END:
+*** 機@jī
+:PROPERTIES:
+:CONCEPT: uuid-6cf84202-87aa-4f71-82ed-a528471fc326 / CAUSE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 6
+:END:
+機@jī	[[tls:concept:CAUSE::#uuid-6cf84202-87aa-4f71-82ed-a528471fc326][CAUSE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / causal mechanism; crucial mechanism; underlying mechanism

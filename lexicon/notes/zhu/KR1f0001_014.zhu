@@ -1,0 +1,322 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 孝經 KR1f0001_014
+#+DATE: 2017-02-08T16:40:11+0900
+#+PROPERTY: COMMIT f2d155e179399ea4b6de200698895be0743588f4
+** 子曰	The Master said:
+:PROPERTIES:
+:SRC: XIAOJING 14, ed. SSJZS p. 0120
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_014:1a01:50::子曰 / 孝經
+:CHARPOS: 50
+:END:
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-85f74e57-c4d7-4d7f-a330-ae20510026b1 / TEACHER
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 50
+:END:
+子@zǐ	[[tls:concept:TEACHER::#uuid-85f74e57-c4d7-4d7f-a330-ae20510026b1][TEACHER]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / our master; person in authority [Note that the [post-N] can never in fact be made explicit without breaking the rules of the grammar! CH]
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-8fff2d95-8f01-41c6-9344-b798d74d2831 / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8
+:CHARPOS: 51
+:END:
+曰@yuē	[[tls:concept:SPEAK::#uuid-8fff2d95-8f01-41c6-9344-b798d74d2831][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8][direct-speech]]} / say: S
+** 君子之事親孝	a gentleman serves his parents with filial piety,
+:PROPERTIES:
+:SRC: XIAOJING 14, ed. SSJZS p. 0120
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_014:1a02:50::「君 / 孝經
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-1b3a8086-8850-4725-a462-7234e9901467 / SERVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+事@shì	[[tls:concept:SERVE::#uuid-1b3a8086-8850-4725-a462-7234e9901467][SERVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / serve (as minister or aide, as one state another etc.), be in the service of; enter the services of; side with; specifically: serve and cultivate through gifts; attend to
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-1cfb1034-c8e6-4e0f-9412-30268bc6c3e9 / PARENT
+:SYN-FUNC: uuid-f688791d-a18c-4bab-854f-b17a9f193cc5
+:CHARPOS: 54
+:END:
+親@qīn	[[tls:concept:PARENT::#uuid-1cfb1034-c8e6-4e0f-9412-30268bc6c3e9][PARENT]]	N [[tls:syn-func::#uuid-f688791d-a18c-4bab-854f-b17a9f193cc5][nt(post-N)]] / parents, one's parents
+*** 孝@xiào
+:PROPERTIES:
+:CONCEPT: uuid-c4bb8925-991c-46ce-92fe-c89c5d7cf9dc / VIRTUE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+孝@xiào	[[tls:concept:VIRTUE::#uuid-c4bb8925-991c-46ce-92fe-c89c5d7cf9dc][VIRTUE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / be filial; show filial piety
+** 故忠可移於君	therefore loyalty can be moved on the ruler.
+:PROPERTIES:
+:SRC: XIAOJING 14, ed. SSJZS p. 0120
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_014:1a03:50::故忠 / 孝經
+:CHARPOS: 50
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-d7dc8585-46ce-4a8a-8419-4a58085ea044 / THEREFORE
+:SYN-FUNC: uuid-ffe8b29b-2e3a-4821-b3c9-9bdf54cfec5e
+:SEM-FEAT: uuid-027383f8-28e7-4e9a-8569-e94874397e03
+:CHARPOS: 50
+:END:
+故@gù	[[tls:concept:THEREFORE::#uuid-d7dc8585-46ce-4a8a-8419-4a58085ea044][THEREFORE]]	N [[tls:syn-func::#uuid-ffe8b29b-2e3a-4821-b3c9-9bdf54cfec5e][nadS1.postS2]] {[[tls:sem-feat::#uuid-027383f8-28e7-4e9a-8569-e94874397e03][subjective reason]]} / therefore, consequently
+*** 忠@zhōng
+:PROPERTIES:
+:CONCEPT: uuid-e6c770b9-5796-4ee8-bf2d-4d4d66b109d9 / FAITHFUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+忠@zhōng	[[tls:concept:FAITHFUL::#uuid-e6c770b9-5796-4ee8-bf2d-4d4d66b109d9][FAITHFUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / commitment; devoted effort, duty of loyal devotion; trustiness; the doing of one's loyal best 臣德也。
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-96e50595-869b-4ae2-8657-6dafb8cfe759 / ABLE
+:SYN-FUNC: uuid-52110676-c76e-45d3-858e-d11b23d8f7b4
+:CHARPOS: 52
+:END:
+可@kě	[[tls:concept:ABLE::#uuid-96e50595-869b-4ae2-8657-6dafb8cfe759][ABLE]]	V [[tls:syn-func::#uuid-52110676-c76e-45d3-858e-d11b23d8f7b4][vt+V{0}{PASS}]] / transitive verb which takes passive objects as verb: be VERBable
+*** 移@yí
+:PROPERTIES:
+:CONCEPT: uuid-1445a170-fba7-4468-bcab-161603606653 / DISPLACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+移@yí	[[tls:concept:DISPLACE::#uuid-1445a170-fba7-4468-bcab-161603606653][DISPLACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be (easily) moved (e.g. by talk); be moved to (a new position)
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-112bd8f2-c456-4f12-88ee-8dcb66409625 / RULER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 55
+:END:
+君@jūn	[[tls:concept:RULER::#uuid-112bd8f2-c456-4f12-88ee-8dcb66409625][RULER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the ruler as being primarily administratively in charge of people
+** 事兄悌	In serving his eldest brother he shows fraternal love,
+:PROPERTIES:
+:SRC: XIAOJING 14, ed. SSJZS p. 0120
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_014:1a04:50::事兄 / 孝經
+:CHARPOS: 50
+:END:
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-1b3a8086-8850-4725-a462-7234e9901467 / SERVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+事@shì	[[tls:concept:SERVE::#uuid-1b3a8086-8850-4725-a462-7234e9901467][SERVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / serve (as minister or aide, as one state another etc.), be in the service of; enter the services of; side with; specifically: serve and cultivate through gifts; attend to
+*** 兄@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-d5ed415b-450f-4127-b4bf-5d6a83dff3a7 / BROTHER
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 51
+:END:
+兄@xiōng	[[tls:concept:BROTHER::#uuid-d5ed415b-450f-4127-b4bf-5d6a83dff3a7][BROTHER]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / eldest brother, male of the eldest brother's status (note that 其兄 is "his elder brother" and not specifically "his eldest brother".)
+*** 悌@tì / 弟@dì
+:PROPERTIES:
+:CONCEPT: uuid-473659dc-a9b0-4406-b7f2-51c1782d420b / VIRTUE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+悌@tì / 弟@dì	[[tls:concept:VIRTUE::#uuid-473659dc-a9b0-4406-b7f2-51c1782d420b][VIRTUE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / show devotion to one's eldest brother; more generally: show proper humility towards seniors in general
+** 故順可移於長	therefore obedience can be moved on seniors.
+:PROPERTIES:
+:SRC: XIAOJING 14, ed. SSJZS p. 0120
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_014:1a05:50::故順 / 孝經
+:CHARPOS: 50
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-d7dc8585-46ce-4a8a-8419-4a58085ea044 / THEREFORE
+:SYN-FUNC: uuid-ffe8b29b-2e3a-4821-b3c9-9bdf54cfec5e
+:SEM-FEAT: uuid-027383f8-28e7-4e9a-8569-e94874397e03
+:CHARPOS: 50
+:END:
+故@gù	[[tls:concept:THEREFORE::#uuid-d7dc8585-46ce-4a8a-8419-4a58085ea044][THEREFORE]]	N [[tls:syn-func::#uuid-ffe8b29b-2e3a-4821-b3c9-9bdf54cfec5e][nadS1.postS2]] {[[tls:sem-feat::#uuid-027383f8-28e7-4e9a-8569-e94874397e03][subjective reason]]} / therefore, consequently
+*** 順@shùn
+:PROPERTIES:
+:CONCEPT: uuid-9277e2d3-cb0a-428e-9186-2cff3854dfe3 / OBEY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 51
+:END:
+順@shùn	[[tls:concept:OBEY::#uuid-9277e2d3-cb0a-428e-9186-2cff3854dfe3][OBEY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / obedience, proper subordination, subservience
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-96e50595-869b-4ae2-8657-6dafb8cfe759 / ABLE
+:SYN-FUNC: uuid-52110676-c76e-45d3-858e-d11b23d8f7b4
+:CHARPOS: 52
+:END:
+可@kě	[[tls:concept:ABLE::#uuid-96e50595-869b-4ae2-8657-6dafb8cfe759][ABLE]]	V [[tls:syn-func::#uuid-52110676-c76e-45d3-858e-d11b23d8f7b4][vt+V{0}{PASS}]] / transitive verb which takes passive objects as verb: be VERBable
+*** 移@yí
+:PROPERTIES:
+:CONCEPT: uuid-1445a170-fba7-4468-bcab-161603606653 / DISPLACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+移@yí	[[tls:concept:DISPLACE::#uuid-1445a170-fba7-4468-bcab-161603606653][DISPLACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be (easily) moved (e.g. by talk); be moved to (a new position)
+*** 長@zhǎng
+:PROPERTIES:
+:CONCEPT: uuid-1d5d39aa-34b2-4789-be82-449f09e42d84 / SENIOR
+:SYN-FUNC: uuid-3473071e-1407-4804-a185-2db288ee8726
+:CHARPOS: 55
+:END:
+長@zhǎng	[[tls:concept:SENIOR::#uuid-1d5d39aa-34b2-4789-be82-449f09e42d84][SENIOR]]	N [[tls:syn-func::#uuid-3473071e-1407-4804-a185-2db288ee8726][nt]] / elder, senior; leader
+** 居家理	His clan is in ordered in accordance with natural principles,
+:PROPERTIES:
+:SRC: XIAOJING 14, ed. SSJZS p. 0120
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_014:1a06:50::居家 / 孝經
+:CHARPOS: 50
+:END:
+*** 居@jū
+:PROPERTIES:
+:CONCEPT: uuid-cf5174b9-2400-449e-a0f4-66d5326aa1a2 / DWELL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 50
+:END:
+居@jū	[[tls:concept:DWELL::#uuid-cf5174b9-2400-449e-a0f4-66d5326aa1a2][DWELL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / be situated in; have one's (permanent, or at least lasting) abode in; spend one's time (with someone); transferred: be in (such-and-such a condition)
+*** 理@lǐ
+:PROPERTIES:
+:CONCEPT: uuid-b73c9fd3-ea81-4e02-b56c-1ea38e373f31 / PRINCIPLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 52
+:END:
+理@lǐ	[[tls:concept:PRINCIPLE::#uuid-b73c9fd3-ea81-4e02-b56c-1ea38e373f31][PRINCIPLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be in accordance with natural principles
+** 故治可移於官	therefore order can be moved on officials.
+:PROPERTIES:
+:SRC: XIAOJING 14, ed. SSJZS p. 0120
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_014:1a07:50::故治 / 孝經
+:CHARPOS: 50
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-d7dc8585-46ce-4a8a-8419-4a58085ea044 / THEREFORE
+:SYN-FUNC: uuid-ffe8b29b-2e3a-4821-b3c9-9bdf54cfec5e
+:SEM-FEAT: uuid-027383f8-28e7-4e9a-8569-e94874397e03
+:CHARPOS: 50
+:END:
+故@gù	[[tls:concept:THEREFORE::#uuid-d7dc8585-46ce-4a8a-8419-4a58085ea044][THEREFORE]]	N [[tls:syn-func::#uuid-ffe8b29b-2e3a-4821-b3c9-9bdf54cfec5e][nadS1.postS2]] {[[tls:sem-feat::#uuid-027383f8-28e7-4e9a-8569-e94874397e03][subjective reason]]} / therefore, consequently
+*** 治@chí
+:PROPERTIES:
+:CONCEPT: uuid-ae86abdf-4e22-4ca7-81e6-7755c8ef4122 / GOVERN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+治@chí	[[tls:concept:GOVERN::#uuid-ae86abdf-4e22-4ca7-81e6-7755c8ef4122][GOVERN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / good government; governing; matters of proper government
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-96e50595-869b-4ae2-8657-6dafb8cfe759 / ABLE
+:SYN-FUNC: uuid-52110676-c76e-45d3-858e-d11b23d8f7b4
+:CHARPOS: 52
+:END:
+可@kě	[[tls:concept:ABLE::#uuid-96e50595-869b-4ae2-8657-6dafb8cfe759][ABLE]]	V [[tls:syn-func::#uuid-52110676-c76e-45d3-858e-d11b23d8f7b4][vt+V{0}{PASS}]] / transitive verb which takes passive objects as verb: be VERBable
+*** 移@yí
+:PROPERTIES:
+:CONCEPT: uuid-1445a170-fba7-4468-bcab-161603606653 / DISPLACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+移@yí	[[tls:concept:DISPLACE::#uuid-1445a170-fba7-4468-bcab-161603606653][DISPLACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be (easily) moved (e.g. by talk); be moved to (a new position)
+*** 官@guān
+:PROPERTIES:
+:CONCEPT: uuid-9a11d1b9-9e93-4bf5-bba0-3fade5404e6b / OFFICIAL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 55
+:END:
+官@guān	[[tls:concept:OFFICIAL::#uuid-9a11d1b9-9e93-4bf5-bba0-3fade5404e6b][OFFICIAL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / office-holder, officer, official
+** 是以行成於內	Thus proper conduct is accomplished within his clan
+:PROPERTIES:
+:SRC: XIAOJING 14, ed. SSJZS p. 0120
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_014:1a08:50::是以 / 孝經
+:CHARPOS: 50
+:END:
+*** 是以@shìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-72ee70b6-a77d-4b41-8a70-5ac5ddb8935b / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 50
+:END:
+是以@shìyǐ	[[tls:concept:THEREFORE::#uuid-72ee70b6-a77d-4b41-8a70-5ac5ddb8935b][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / subjective motivation: for that subjective reason; that is why, thus
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-71ac6108-1a66-4c9c-82c1-f9e790fbbf5d / ACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-71ac6108-1a66-4c9c-82c1-f9e790fbbf5d][ACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / proper conduct, moral behaviour; ideal of behaviour; proper conduct
+*** 成@chéng
+:PROPERTIES:
+:CONCEPT: uuid-14f90c10-372f-4a18-8224-9582753f1447 / ACHIEVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+成@chéng	[[tls:concept:ACHIEVE::#uuid-14f90c10-372f-4a18-8224-9582753f1447][ACHIEVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be brought to completion; be fully achieved
+*** 內@nèi
+:PROPERTIES:
+:CONCEPT: uuid-5f59ba94-a707-4ac8-9a48-88c7896e590a / INSIDE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-d4180c2b-fab5-47cb-98ae-0655da1c313a
+:CHARPOS: 55
+:END:
+內@nèi	[[tls:concept:INSIDE::#uuid-5f59ba94-a707-4ac8-9a48-88c7896e590a][INSIDE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-d4180c2b-fab5-47cb-98ae-0655da1c313a][plur]]} / those on the inside; those inside one's clan
+** 而名立於後世矣	and reputation is established for future generations.
+:PROPERTIES:
+:SRC: XIAOJING 14, ed. SSJZS p. 0120
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_014:1a08:50::而名 / 孝經
+:CHARPOS: 50
+:END:
+*** 名@míng
+:PROPERTIES:
+:CONCEPT: uuid-3119541c-9b85-45ab-b525-70441f29c2e9 / WELL-KNOWN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 51
+:END:
+名@míng	[[tls:concept:WELL-KNOWN::#uuid-3119541c-9b85-45ab-b525-70441f29c2e9][WELL-KNOWN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / reputation; (good or bad) name;
+*** 立@lì
+:PROPERTIES:
+:CONCEPT: uuid-a4b4d195-6878-4180-9bda-b2261467791b / ESTABLISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+立@lì	[[tls:concept:ESTABLISH::#uuid-a4b4d195-6878-4180-9bda-b2261467791b][ESTABLISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be brought into existence and solidly established
+*** 後世@hòushì
+:PROPERTIES:
+:CONCEPT: uuid-33b31612-9d61-4aab-ba17-4716359d7928 / FUTURE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 54
+:END:
+後世@hòushì	[[tls:concept:FUTURE::#uuid-33b31612-9d61-4aab-ba17-4716359d7928][FUTURE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / future generations, posterity

@@ -1,0 +1,70 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_045
+#+DATE: 2017-02-08T16:35:52+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 小子胡	"My little child, Hu,
+:PROPERTIES:
+:SRC: SHU 37.2, tr. Legge p. 487
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_045:2a14:1::小子 / 尚書
+:CHARPOS: 1
+:END:
+*** 小子@xiǎozǐ
+:PROPERTIES:
+:CONCEPT: uuid-afaa13a7-5c40-4494-ac93-bf071e44980a / YOU
+:SYN-FUNC: uuid-f485773d-bb54-47af-9b79-4a7ae55906c0
+:SEM-FEAT: uuid-3903ed14-2d1f-4023-af77-5fb0374501a2
+:CHARPOS: 1
+:END:
+小子@xiǎozǐ	[[tls:concept:YOU::#uuid-afaa13a7-5c40-4494-ac93-bf071e44980a][YOU]]	N [[tls:syn-func::#uuid-f485773d-bb54-47af-9b79-4a7ae55906c0][NP{post=npro_2}]] {[[tls:sem-feat::#uuid-3903ed14-2d1f-4023-af77-5fb0374501a2][vocative]]} / You little man!
+** 肆予命爾侯于東土	I therefore appoint you to be a marquis in the east.
+:PROPERTIES:
+:SRC: SHU 37.2, tr. Legge p. 487
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_045:2a17:1::肆予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-e01096db-36f9-4548-8a67-85f0a8529d01 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-e01096db-36f9-4548-8a67-85f0a8529d01][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / I (as a responsible agent)
+** 則予一人汝嘉	Then I, the One Man, will praise you.
+:PROPERTIES:
+:SRC: SHU 37.6, tr. Legge p. 487
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_045:2a48:1::則予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+*** 汝@rǔ / 女@nǚ
+:PROPERTIES:
+:CONCEPT: uuid-5eaff496-0d0f-43c7-a208-1c5c8192f19c / YOU
+:SYN-FUNC: uuid-dcde337f-dbf8-4ce2-b262-60b74f99a17b
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 5
+:END:
+汝@rǔ / 女@nǚ	[[tls:concept:YOU::#uuid-5eaff496-0d0f-43c7-a208-1c5c8192f19c][YOU]]	 [[tls:syn-func::#uuid-dcde337f-dbf8-4ce2-b262-60b74f99a17b][npro+Vt]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / preposed object: you
+** 無荒棄朕命	and do not idly throw away my charge."
+:PROPERTIES:
+:SRC: SHU 37.6, tr. Legge p. 487
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_045:2a53:1::「無 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 4
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my

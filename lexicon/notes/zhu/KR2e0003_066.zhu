@@ -1,0 +1,205 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_066
+#+DATE: 2017-02-08T16:41:16+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 秦之右將有尉對曰	A lieutenant under Ch'in's General of the Right spoke to him:
+:PROPERTIES:
+:SRC: ZGC 4.8.1; tr. Crump 1979 no. 68, p 77 Kan Mao procures valour with gold and takes the town of Yi-yang
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_066:1a03:1::秦之 / 戰國策
+:CHARPOS: 1
+:END:
+*** 尉@wèi
+:PROPERTIES:
+:CONCEPT: uuid-29171548-acf9-427f-8de4-64ed604386ea / OFFICER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+尉@wèi	[[tls:concept:OFFICER::#uuid-29171548-acf9-427f-8de4-64ed604386ea][OFFICER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / lieutenant; adjutant
+** 公不論兵	'Sir, no matter how strong our arms are,
+:PROPERTIES:
+:SRC: ZGC 4.8.1; tr. Crump 1979 no. 68, p 77 Kan Mao procures valour with gold and takes the town of Yi-yang
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_066:1a04:50::「公 / 戰國策
+:CHARPOS: 50
+:END:
+*** 不論@bùlùn
+:PROPERTIES:
+:CONCEPT: uuid-c6eb4559-cf1d-431f-99e3-77a6772bfbfd / DISREGARD
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 51
+:END:
+不論@bùlùn	[[tls:concept:DISREGARD::#uuid-c6eb4559-cf1d-431f-99e3-77a6772bfbfd][DISREGARD]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / disregarding N; irrespective of
+** 必大困	there will still be numerous casualties.'
+:PROPERTIES:
+:SRC: ZGC 4.8.1; tr. Crump 1979 no. 68, p 77 Kan Mao procures valour with gold and takes the town of Yi-yang
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_066:1a05:50::必大 / 戰國策
+:CHARPOS: 50
+:END:
+*** 困@kùn
+:PROPERTIES:
+:CONCEPT: uuid-c92595ab-1afa-4630-af2e-cf70975e9520 / DISTRESS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 52
+:END:
+困@kùn	[[tls:concept:DISTRESS::#uuid-c92595ab-1afa-4630-af2e-cf70975e9520][DISTRESS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be in desperate state; be in straights;
+*** 困@kùn
+:PROPERTIES:
+:CONCEPT: uuid-9a7016e5-7c3e-49a8-86ae-49e0ac618d94 / DISTRESS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+困@kùn	[[tls:concept:DISTRESS::#uuid-9a7016e5-7c3e-49a8-86ae-49e0ac618d94][DISTRESS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / get into trouble, have a hard time 大困
+** 我羈旅而得相秦者	'I am minister of Ch'in
+:PROPERTIES:
+:SRC: ZGC 4.8.1; tr. Crump 1979 no. 68, p 77 Kan Mao procures valour with gold and takes the town of Yi-yang
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_066:1a07:1::「我 / 戰國策
+:CHARPOS: 1
+:END:
+*** 羈旅@jīlǚ
+:PROPERTIES:
+:CONCEPT: uuid-29e946fa-f361-415d-a5b9-03316879bcb1 / TRAVEL
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 2
+:END:
+羈旅@jīlǚ	[[tls:concept:TRAVEL::#uuid-29e946fa-f361-415d-a5b9-03316879bcb1][TRAVEL]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be a traveller/migrant in a certain place
+*** 相@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-2f1c211e-24bf-4671-971b-55f8b9ec8369 / MINISTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-30d59aba-58eb-4679-b8e1-d48c62d29bb5
+:CHARPOS: 6
+:END:
+相@xiàng	[[tls:concept:MINISTER::#uuid-2f1c211e-24bf-4671-971b-55f8b9ec8369][MINISTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-30d59aba-58eb-4679-b8e1-d48c62d29bb5][N=state]]} / act as prime minister for (a state); become prime minister of
+** 我以宜陽餌王	because I held up Yi-yang as a bait for the king.
+:PROPERTIES:
+:SRC: ZGC 4.8.1; tr. Crump 1979 no. 68, p 77 Kan Mao procures valour with gold and takes the town of Yi-yang
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_066:1a08:50::我以 / 戰國策
+:CHARPOS: 50
+:END:
+*** 餌@ěr
+:PROPERTIES:
+:CONCEPT: uuid-5c946e7a-3f1f-48a1-8eb1-05b1166c65e1 / BAIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+餌@ěr	[[tls:concept:BAIT::#uuid-5c946e7a-3f1f-48a1-8eb1-05b1166c65e1][BAIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to bait; to hold out as bait to somebody
+** 公孫衍樗里疾挫我於內	Kung-sun Yen and Shu-li Chi will destroy me within Ch'in,
+:PROPERTIES:
+:SRC: ZGC 4.8.2; tr. Crump 1979 no. 68, p 77
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_066:1a10:1::公孫 / 戰國策
+:CHARPOS: 1
+:END:
+*** 挫@cuò
+:PROPERTIES:
+:CONCEPT: uuid-e41a3223-0a85-4307-bd9e-37cd4bca530b / INJURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+挫@cuò	[[tls:concept:INJURE::#uuid-e41a3223-0a85-4307-bd9e-37cd4bca530b][INJURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / maltreat, injure; try to harm
+** 而公中以韓窮我於外	Han Ch'ih will use his state to crush me outside Ch'in,
+:PROPERTIES:
+:SRC: ZGC 4.8.2; tr. Crump 1979 no. 68, p 77
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_066:1a11:50::而公 / 戰國策
+:CHARPOS: 50
+:END:
+*** 窮@qióng
+:PROPERTIES:
+:CONCEPT: uuid-1ebb55d4-42d4-4535-b254-78309d0f01ba / DISTRESS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 55
+:END:
+窮@qióng	[[tls:concept:DISTRESS::#uuid-1ebb55d4-42d4-4535-b254-78309d0f01ba][DISTRESS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / drive to exhaustion, wear out completely; put in a tight spot
+** 是無伐之日已	and I will have seen my last day in battle anywhere!
+:PROPERTIES:
+:SRC: ZGC 4.8.2; tr. Crump 1979 no. 68, p 77
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_066:1a12:50::是無 / 戰國策
+:CHARPOS: 50
+:END:
+*** 伐@fá
+:PROPERTIES:
+:CONCEPT: uuid-8684b829-8239-44fa-98f5-3ca822f7740a / ATTACK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+伐@fá	[[tls:concept:ATTACK::#uuid-8684b829-8239-44fa-98f5-3ca822f7740a][ATTACK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / military campaign against an enemy construed as being of inferior political status
+** 因以宜陽之郭為墓	its suburbs will be my tomb.'
+:PROPERTIES:
+:SRC: ZGC 4.8.2; tr. Crump 1979 no. 68, p 77
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_066:1a14:1::因以 / 戰國策
+:CHARPOS: 1
+:END:
+*** 郭@guō
+:PROPERTIES:
+:CONCEPT: uuid-228e9366-99bf-44ea-828e-cf83d2d9ef14 / CITY WALL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+郭@guō	[[tls:concept:CITY WALL::#uuid-228e9366-99bf-44ea-828e-cf83d2d9ef14][CITY WALL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / outer city wall; area around the outer city wall
+*** 墓@mù
+:PROPERTIES:
+:CONCEPT: uuid-ad30e0d3-645f-4ed4-aedc-6ea6442d4f9f / TOMB
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 8
+:END:
+墓@mù	[[tls:concept:TOMB::#uuid-ad30e0d3-645f-4ed4-aedc-6ea6442d4f9f][TOMB]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / grave; specifically: subterranean part of the tomb (on top of which trees may grow)
+** 於是出私金	Kan Mao then distributed his own gold
+:PROPERTIES:
+:SRC: ZGC 4.8.2; tr. Crump 1979 no. 68, p 77
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_066:1a15:50::於是 / 戰國策
+:CHARPOS: 50
+:END:
+*** 私@sī
+:PROPERTIES:
+:CONCEPT: uuid-67e4b41c-1131-4354-a3a1-25c8a54e2584 / PRIVATE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-5924d17a-9c39-4105-b350-8a2501eea07f
+:CHARPOS: 53
+:END:
+私@sī	[[tls:concept:PRIVATE::#uuid-67e4b41c-1131-4354-a3a1-25c8a54e2584][PRIVATE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-5924d17a-9c39-4105-b350-8a2501eea07f][personal]]} / personal (preference, room), private, non-official
+** 以益公賞	to be added to the prize money.
+:PROPERTIES:
+:SRC: ZGC 4.8.2; tr. Crump 1979 no. 68, p 77
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_066:1a15:50::以益 / 戰國策
+:CHARPOS: 50
+:END:
+*** 賞@shǎng
+:PROPERTIES:
+:CONCEPT: uuid-10a643d6-7025-4439-bb3b-a847bc365d04 / REWARD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 53
+:END:
+賞@shǎng	[[tls:concept:REWARD::#uuid-10a643d6-7025-4439-bb3b-a847bc365d04][REWARD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / (what one rewards with>) rewards
+** 明日鼓之	On the morrow the drums again sounded the advance
+:PROPERTIES:
+:SRC: ZGC 4.8.2; tr. Crump 1979 no. 68, p 77
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_066:1a16:50::明日 / 戰國策
+:CHARPOS: 50
+:END:
+*** 明@míng
+:PROPERTIES:
+:CONCEPT: uuid-24984cf2-6bda-494a-bbaf-0acd4d70322b / NEXT
+:SYN-FUNC: uuid-32ad3da0-3fd0-4fd9-a569-c054b78964a0
+:CHARPOS: 50
+:END:
+明@míng	[[tls:concept:NEXT::#uuid-24984cf2-6bda-494a-bbaf-0acd4d70322b][NEXT]]	V [[tls:syn-func::#uuid-32ad3da0-3fd0-4fd9-a569-c054b78964a0][vadN.adV]] / next; the next several; the ensuing (day)
+*** 鼓@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-477ef360-abf9-4ce8-83ed-c4864bf3dfe9 / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+鼓@gǔ	[[tls:concept:ATTACK::#uuid-477ef360-abf9-4ce8-83ed-c4864bf3dfe9][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / beat the drums to attack (the enemy); attack

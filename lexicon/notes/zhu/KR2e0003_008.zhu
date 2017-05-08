@@ -1,0 +1,174 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_008
+#+DATE: 2017-02-08T16:41:08+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 周粻秦韓	and Chou was provisioning Han and Ch'in in the battle.
+:PROPERTIES:
+:SRC: ZGC 1.8; tr. Crump 1979 no. 27, p. 42 Chou provisions Ch'u's enemies but appeases her resentment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_008:1a02:1::周粻 / 戰國策
+:CHARPOS: 1
+:END:
+*** 粻@zhāng
+:PROPERTIES:
+:CONCEPT: uuid-eb95dbaf-914a-487c-bb4b-732aa55e84fb / FEED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+粻@zhāng	[[tls:concept:FEED::#uuid-eb95dbaf-914a-487c-bb4b-732aa55e84fb][FEED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / provide food provisions for
+** 楚王怒周	The king of Ch'u grew angry at Chou for this.
+:PROPERTIES:
+:SRC: ZGC 1.8; tr. Crump 1979 no. 27, p. 42 Chou provisions Ch'u's enemies but appeases her resentment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_008:1a02:50::楚王 / 戰國策
+:CHARPOS: 50
+:END:
+*** 怒@nù
+:PROPERTIES:
+:CONCEPT: uuid-8cee0467-32a1-4e96-bd90-4d9e4cce36f8 / ANGER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+怒@nù	[[tls:concept:ANGER::#uuid-8cee0467-32a1-4e96-bd90-4d9e4cce36f8][ANGER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / be agry at
+** 以王之強而怒周	'If a sovereign of your majesty's power shows anger at Chou,' said he,
+:PROPERTIES:
+:SRC: ZGC 1.8; tr. Crump 1979 no. 27, p. 42 Chou provisions Ch'u's enemies but appeases her resentment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_008:1a05:1::「以 / 戰國策
+:CHARPOS: 1
+:END:
+*** 王@wáng
+:PROPERTIES:
+:CONCEPT: uuid-b07a94b3-8f71-4202-bee3-55bacd91adb9 / YOU
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:SEM-FEAT: uuid-aa5d1211-84ca-41d2-b97c-dc48ccff0c1a
+:CHARPOS: 2
+:END:
+王@wáng	[[tls:concept:YOU::#uuid-b07a94b3-8f71-4202-bee3-55bacd91adb9][YOU]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] {[[tls:sem-feat::#uuid-aa5d1211-84ca-41d2-b97c-dc48ccff0c1a][2. person singular]]} / your majesty's
+*** 強@qiáng / 強@qiáng
+:PROPERTIES:
+:CONCEPT: uuid-d4ee694d-e571-4f1d-aacd-4e192be7c253 / STRONG
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 4
+:END:
+強@qiáng / 強@qiáng	[[tls:concept:STRONG::#uuid-d4ee694d-e571-4f1d-aacd-4e192be7c253][STRONG]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / political clout; superior strength. supremacy, preponderance of strength; power-play
+*** 怒@nù
+:PROPERTIES:
+:CONCEPT: uuid-8cee0467-32a1-4e96-bd90-4d9e4cce36f8 / ANGER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 6
+:END:
+怒@nù	[[tls:concept:ANGER::#uuid-8cee0467-32a1-4e96-bd90-4d9e4cce36f8][ANGER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / be agry at
+** 周恐	'Chou, in fear,
+:PROPERTIES:
+:SRC: ZGC 1.8; tr. Crump 1979 no. 27, p. 42 Chou provisions Ch'u's enemies but appeases her resentment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_008:1a06:50::周恐 / 戰國策
+:CHARPOS: 50
+:END:
+*** 恐@kǒng
+:PROPERTIES:
+:CONCEPT: uuid-0216a598-fa2e-4973-9396-d7c29daf6fed / FEAR
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 51
+:END:
+恐@kǒng	[[tls:concept:FEAR::#uuid-0216a598-fa2e-4973-9396-d7c29daf6fed][FEAR]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / get very scared; get terrified
+** 必以國合於所與粟之國	will certainly ally herself with those whom now she only provisions.
+:PROPERTIES:
+:SRC: ZGC 1.8; tr. Crump 1979 no. 27, p. 42 Chou provisions Ch'u's enemies but appeases her resentment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_008:1a07:50::必以 / 戰國策
+:CHARPOS: 50
+:END:
+*** 粟@sù
+:PROPERTIES:
+:CONCEPT: uuid-1c2401ce-0be5-40e0-8708-670752d57961 / MILLET
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 57
+:END:
+粟@sù	[[tls:concept:MILLET::#uuid-1c2401ce-0be5-40e0-8708-670752d57961][MILLET]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / unhusked millet; generally: what is kept in the lín 廩 or cāng 倉 'granaries', grain, cereal
+** 則是勁王之敵也	This will provide your majesty with a stiffer foe.
+:PROPERTIES:
+:SRC: ZGC 1.8; tr. Crump 1979 no. 27, p. 42 Chou provisions Ch'u's enemies but appeases her resentment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_008:1a08:50::則是 / 戰國策
+:CHARPOS: 50
+:END:
+*** 則是@zéshì
+:PROPERTIES:
+:CONCEPT: uuid-cace0ec3-9987-4020-991b-6c7a2868bd80 / THIS
+:SYN-FUNC: uuid-c01f61cb-4895-4a13-a871-a6d8e2351e78
+:CHARPOS: 50
+:END:
+則是@zéshì	[[tls:concept:THIS::#uuid-cace0ec3-9987-4020-991b-6c7a2868bd80][THIS]]	P [[tls:syn-func::#uuid-c01f61cb-4895-4a13-a871-a6d8e2351e78][PP+Nab{PRED}.postS]] / And this (is of the Nab type)
+*** 勁@jìng
+:PROPERTIES:
+:CONCEPT: uuid-a83450d3-478b-4f76-9c48-7ff65eda5deb / STRONG
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 52
+:END:
+勁@jìng	[[tls:concept:STRONG::#uuid-a83450d3-478b-4f76-9c48-7ff65eda5deb][STRONG]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / strengthen; give added force to; "stiffen (someone's) spine
+*** 王@wáng
+:PROPERTIES:
+:CONCEPT: uuid-b07a94b3-8f71-4202-bee3-55bacd91adb9 / YOU
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:SEM-FEAT: uuid-aa5d1211-84ca-41d2-b97c-dc48ccff0c1a
+:CHARPOS: 53
+:END:
+王@wáng	[[tls:concept:YOU::#uuid-b07a94b3-8f71-4202-bee3-55bacd91adb9][YOU]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] {[[tls:sem-feat::#uuid-aa5d1211-84ca-41d2-b97c-dc48ccff0c1a][2. person singular]]} / your majesty's
+** 故王不如速解周恐	You should rather allay Chou's fears quickly.
+:PROPERTIES:
+:SRC: ZGC 1.8; tr. Crump 1979 no. 27, p. 42 Chou provisions Ch'u's enemies but appeases her resentment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_008:1a09:50::故王 / 戰國策
+:CHARPOS: 50
+:END:
+*** 解@jiě
+:PROPERTIES:
+:CONCEPT: uuid-6cfe1d7e-038e-437a-b24a-55c1e7a67150 / RELEASE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 55
+:END:
+解@jiě	[[tls:concept:RELEASE::#uuid-6cfe1d7e-038e-437a-b24a-55c1e7a67150][RELEASE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / get released
+*** 解@jiě
+:PROPERTIES:
+:CONCEPT: uuid-81005bc1-ca9e-4cc7-b535-bbac1bdb905c / FORGIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 55
+:END:
+解@jiě	[[tls:concept:FORGIVE::#uuid-81005bc1-ca9e-4cc7-b535-bbac1bdb905c][FORGIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be let off, be forgiven
+** 彼前得罪而後得解	One who has offended in the past and lately been forgiven
+:PROPERTIES:
+:SRC: ZGC 1.8; tr. Crump 1979 no. 27, p. 42 Chou provisions Ch'u's enemies but appeases her resentment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_008:1a10:50::彼前 / 戰國策
+:CHARPOS: 50
+:END:
+*** 得罪@dézuì
+:PROPERTIES:
+:CONCEPT: uuid-d14fffd1-5170-465e-9c8f-91d6f3c6c40b / OFFEND
+:SYN-FUNC: uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d
+:CHARPOS: 52
+:END:
+得罪@dézuì	[[tls:concept:OFFEND::#uuid-d14fffd1-5170-465e-9c8f-91d6f3c6c40b][OFFEND]]	V [[tls:syn-func::#uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d][VPt(oN)]] / commit an offence against a contextually determinate N
+** 必厚事王矣	will surely serve your majesty with gratitude.'
+:PROPERTIES:
+:SRC: ZGC 1.8; tr. Crump 1979 no. 27, p. 42 Chou provisions Ch'u's enemies but appeases her resentment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_008:1a10:50::必厚 / 戰國策
+:CHARPOS: 50
+:END:
+*** 厚@hòu
+:PROPERTIES:
+:CONCEPT: uuid-0e8f7586-afd1-4f6a-8b64-281773a6084d / INTENSELY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+厚@hòu	[[tls:concept:INTENSELY::#uuid-0e8f7586-afd1-4f6a-8b64-281773a6084d][INTENSELY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / severely, seriously; on a serious scale

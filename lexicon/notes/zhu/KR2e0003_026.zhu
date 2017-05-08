@@ -1,0 +1,207 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_026
+#+DATE: 2017-02-08T16:41:10+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 昌他亡西周	Ch'ang T'o50 defected from West Chou
+:PROPERTIES:
+:SRC: ZGC 1.26.1; tr. Crump 1979 no.35, p. 47 A forged letter procures a traitor's death
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_026:1a01:50::昌他 / 戰國策
+:CHARPOS: 50
+:END:
+*** 亡@wáng
+:PROPERTIES:
+:CONCEPT: uuid-eb69ec05-b5d5-4b2f-ac17-c313bb887d2a / FLEE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+亡@wáng	[[tls:concept:FLEE::#uuid-eb69ec05-b5d5-4b2f-ac17-c313bb887d2a][FLEE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / flee from
+** 之東周	and went to East Chou
+:PROPERTIES:
+:SRC: ZGC 1.26.1; tr. Crump 1979 no.35, p. 47 A forged letter procures a traitor's death
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_026:1a02:50::之東 / 戰國策
+:CHARPOS: 50
+:END:
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a / GO TO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+之@zhī	[[tls:concept:GO TO::#uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a][GO TO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / go to (so as to stay there for a considerable time, or for some business); move towards; of things: be moved to
+** 盡輸西周之情於東周	where he revealed all of West Chou's affairs.
+:PROPERTIES:
+:SRC: ZGC 1.26.1; tr. Crump 1979 no.35, p. 47 A forged letter procures a traitor's death
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_026:1a03:50::盡輸 / 戰國策
+:CHARPOS: 50
+:END:
+*** 輸@shū
+:PROPERTIES:
+:CONCEPT: uuid-90319795-85c2-49d8-9bf4-69d4b15494d8 / TRANSMIT
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 51
+:END:
+輸@shū	[[tls:concept:TRANSMIT::#uuid-90319795-85c2-49d8-9bf4-69d4b15494d8][TRANSMIT]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / transmit N1 to N2
+*** 情@qíng
+:PROPERTIES:
+:CONCEPT: uuid-4f2112cc-582f-4746-9ba4-8b75dda8e78e / REALITY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 55
+:END:
+情@qíng	[[tls:concept:REALITY::#uuid-4f2112cc-582f-4746-9ba4-8b75dda8e78e][REALITY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / real facts of a matter, real state of affairs; real facts of a case
+** 君予金三十斤	if your highness will give me thirty catties of gold.'
+:PROPERTIES:
+:SRC: ZGC 1.26.1; tr. Crump 1979 no.35, p. 47 A forged letter procures a traitor's death
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_026:1a08:1::君予 / 戰國策
+:CHARPOS: 1
+:END:
+*** 與@yǔ / 予@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-b99f9413-21d9-482b-8996-187b7302d687 / GIVE
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:CHARPOS: 1
+:END:
+與@yǔ / 予@yǔ	[[tls:concept:GIVE::#uuid-b99f9413-21d9-482b-8996-187b7302d687][GIVE]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] / give N2 to the contextually determinate N1
+*** 金@jīn
+:PROPERTIES:
+:CONCEPT: uuid-5f74133c-5805-402e-ad85-f5212494f763 / GOLD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 3
+:END:
+金@jīn	[[tls:concept:GOLD::#uuid-5f74133c-5805-402e-ad85-f5212494f763][GOLD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / gold =黃金
+*** 斤@jīn
+:PROPERTIES:
+:CONCEPT: uuid-d13fc5a7-1afe-4c43-a372-8336e09b58ae / WEIGHT MEASURES
+:SYN-FUNC: uuid-1045a7a4-cbbc-445a-a976-14a787864971
+:SEM-FEAT: uuid-14056dfd-9bb3-49e4-93d1-93de5283e702
+:CHARPOS: 6
+:END:
+斤@jīn	[[tls:concept:WEIGHT MEASURES::#uuid-d13fc5a7-1afe-4c43-a372-8336e09b58ae][WEIGHT MEASURES]]	N [[tls:syn-func::#uuid-1045a7a4-cbbc-445a-a976-14a787864971][ncpost-V{NUM}.post-N]] {[[tls:sem-feat::#uuid-14056dfd-9bb3-49e4-93d1-93de5283e702][classifier]]} / "pound" 16 liǎng 兩
+** 馮旦使人操金與書	Feng Chy sent off an agent carrying the gold and a letter
+:PROPERTIES:
+:SRC: ZGC 1.26.1; tr. Crump 1979 no.35, p. 47 A forged letter procures a traitor's death
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_026:1a09:50::馮旦 / 戰國策
+:CHARPOS: 50
+:END:
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-fd745f99-fb4f-42a1-b6a2-950963484d1d / AND
+:SYN-FUNC: uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 56
+:END:
+與@yǔ	[[tls:concept:AND::#uuid-fd745f99-fb4f-42a1-b6a2-950963484d1d][AND]]	V [[tls:syn-func::#uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e][vtoN1.postN2:postVt]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / and 衛侯逐公叔戍與其黨，
+** 事可成	that if the thing can be done
+:PROPERTIES:
+:SRC: ZGC 1.26.2; tr. Crump 1979 no.35, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_026:1a12:1::事可 / 戰國策
+:CHARPOS: 1
+:END:
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-2b5855c6-f1c8-470c-af26-6bfb17b16836 / WORK
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+事@shì	[[tls:concept:WORK::#uuid-2b5855c6-f1c8-470c-af26-6bfb17b16836][WORK]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (especially official) matter, especially: public task, official business; public event; public project, (military) undertaking, task; one's professional concern 五事
+*** 成@chéng
+:PROPERTIES:
+:CONCEPT: uuid-14f90c10-372f-4a18-8224-9582753f1447 / ACHIEVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 3
+:END:
+成@chéng	[[tls:concept:ACHIEVE::#uuid-14f90c10-372f-4a18-8224-9582753f1447][ACHIEVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be brought to completion; be fully achieved
+** 勉成之	it must be done at any cost;
+:PROPERTIES:
+:SRC: ZGC 1.26.2; tr. Crump 1979 no.35, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_026:1a13:50::勉成 / 戰國策
+:CHARPOS: 50
+:END:
+*** 勉@miǎn
+:PROPERTIES:
+:CONCEPT: uuid-e6cb5661-20ef-484f-9a23-151f01e122cc / EFFORT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+勉@miǎn	[[tls:concept:EFFORT::#uuid-e6cb5661-20ef-484f-9a23-151f01e122cc][EFFORT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / with every effort, using all one's strength
+** 事久且泄	The longer the delay the more will leak out
+:PROPERTIES:
+:SRC: ZGC 1.26.2; tr. Crump 1979 no.35, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_026:1a16:1::事久 / 戰國策
+:CHARPOS: 1
+:END:
+*** 泄@xiè
+:PROPERTIES:
+:CONCEPT: uuid-5558d95c-cff6-4753-9b81-db361205be63 / LEAK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 4
+:END:
+泄@xiè	[[tls:concept:LEAK::#uuid-5558d95c-cff6-4753-9b81-db361205be63][LEAK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / leak out
+** 自令身死	and it will mean your life.'
+:PROPERTIES:
+:SRC: ZGC 1.26.2; tr. Crump 1979 no.35, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_026:1a17:50::自令 / 戰國策
+:CHARPOS: 50
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-a23822c9-5902-4bb1-8ca3-d005d269108b / SELF
+:SYN-FUNC: uuid-4116a89a-30e8-46af-97f6-68cce5467d18
+:SEM-FEAT: uuid-90f4bdd5-c3e2-4dce-8fcd-08f9341329b2
+:CHARPOS: 50
+:END:
+自@zì	[[tls:concept:SELF::#uuid-a23822c9-5902-4bb1-8ca3-d005d269108b][SELF]]	N [[tls:syn-func::#uuid-4116a89a-30e8-46af-97f6-68cce5467d18][npro+:vtt+N.+V{0}]] {[[tls:sem-feat::#uuid-90f4bdd5-c3e2-4dce-8fcd-08f9341329b2][N=own]]} / one's own N 自令身死
+** 今夕有姦人當入者矣	'There is a spy coming over tonight.'
+:PROPERTIES:
+:SRC: ZGC 1.26.2; tr. Crump 1979 no.35, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_026:1a19:1::「今 / 戰國策
+:CHARPOS: 1
+:END:
+*** 今@jīn
+:PROPERTIES:
+:CONCEPT: uuid-29b14b26-79e8-4914-8219-871398ab4f34 / NOW
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 1
+:END:
+今@jīn	[[tls:concept:NOW::#uuid-29b14b26-79e8-4914-8219-871398ab4f34][NOW]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / OBI: present, contemporary; in the present sequence of days/months
+*** 夕@xī
+:PROPERTIES:
+:CONCEPT: uuid-e7e65e39-6131-43f2-8aad-605b412ac344 / EVENING
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+夕@xī	[[tls:concept:EVENING::#uuid-e7e65e39-6131-43f2-8aad-605b412ac344][EVENING]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / dusk, very late afternoon and evening before one goes to sleep
+*** 姦人@jiānrén
+:PROPERTIES:
+:CONCEPT: uuid-491f668a-12e5-471d-8f24-716d65e24158 / ESPIONAGE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 4
+:END:
+姦人@jiānrén	[[tls:concept:ESPIONAGE::#uuid-491f668a-12e5-471d-8f24-716d65e24158][ESPIONAGE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / spy
+** 東周立殺昌他	Immediately afterwards Ch'ang T'o was executed.
+:PROPERTIES:
+:SRC: ZGC 1.26.2; tr. Crump 1979 no.35, p. 47
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_026:1a20:1::東周 / 戰國策
+:CHARPOS: 1
+:END:
+*** 立@lì
+:PROPERTIES:
+:CONCEPT: uuid-5611e92c-47fa-4b8f-994a-d8aaadeb65e4 / IMMEDIATELY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 3
+:END:
+立@lì	[[tls:concept:IMMEDIATELY::#uuid-5611e92c-47fa-4b8f-994a-d8aaadeb65e4][IMMEDIATELY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / stante pede > without delay, in no time; immediately; on the spot

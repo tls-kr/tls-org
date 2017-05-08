@@ -1,0 +1,284 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 長短經 KR3j0015_004
+#+DATE: 2017-02-08T16:43:23+0900
+#+PROPERTY: COMMIT e819a19a0184e7fd2fc54bbb9ab486082fc2777c
+** 臣聞三代之亡	I have heard/learnt that the annihilation of the Three Dynasties
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0015_004:1a02:6::臣聞 / 長短經
+:CHARPOS: 6
+:END:
+*** 聞@wén
+:PROPERTIES:
+:CONCEPT: uuid-3d7a87d8-29fc-47ce-94fb-046bd81fc7f1 / LEARN
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-c20ca0b7-7f5f-439c-914a-f7ba1e2096b4
+:CHARPOS: 7
+:END:
+聞@wén	[[tls:concept:LEARN::#uuid-3d7a87d8-29fc-47ce-94fb-046bd81fc7f1][LEARN]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-c20ca0b7-7f5f-439c-914a-f7ba1e2096b4][object=fact]]} / learn that S, hear that S
+*** 亡@wáng
+:PROPERTIES:
+:CONCEPT: uuid-42aa80d2-9112-46b6-9252-f31ac4566542 / DISAPPEAR
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 11
+:END:
+亡@wáng	[[tls:concept:DISAPPEAR::#uuid-42aa80d2-9112-46b6-9252-f31ac4566542][DISAPPEAR]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / disappearance
+** 非法亡也	was not a matter of the laws being annihilated,
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0015_004:1a03:50::非法 / 長短經
+:CHARPOS: 50
+:END:
+*** 非@fēi
+:PROPERTIES:
+:CONCEPT: uuid-0b60a730-cc68-455d-813a-d97095660a46 / NOT
+:SYN-FUNC: uuid-d9d2c78f-79f2-4c5f-9c7a-0fb2c5a2147e
+:CHARPOS: 50
+:END:
+非@fēi	[[tls:concept:NOT::#uuid-0b60a730-cc68-455d-813a-d97095660a46][NOT]]	V [[tls:syn-func::#uuid-d9d2c78f-79f2-4c5f-9c7a-0fb2c5a2147e][vt0+S]] / it is not that S, it is not as if S
+*** 亡@wáng
+:PROPERTIES:
+:CONCEPT: uuid-801be789-79e6-4073-ab29-26a58f079a72 / DISAPPEAR
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+亡@wáng	[[tls:concept:DISAPPEAR::#uuid-801be789-79e6-4073-ab29-26a58f079a72][DISAPPEAR]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / cease to exist
+** 御法者非其人矣	it was a matter of the the controllers of the law not being the right kind of people.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0015_004:1a04:50::御法 / 長短經
+:CHARPOS: 50
+:END:
+*** 御@yù
+:PROPERTIES:
+:CONCEPT: uuid-8930c837-1fc4-4d47-87c6-c05406c299c8 / CONTROL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+御@yù	[[tls:concept:CONTROL::#uuid-8930c837-1fc4-4d47-87c6-c05406c299c8][CONTROL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / control (others); have control over (things)
+*** 其@qí
+:PROPERTIES:
+:CONCEPT: uuid-2d20637a-a14e-4308-a35b-5f70e7994a97 / APPROPRIATE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 54
+:END:
+其@qí	[[tls:concept:APPROPRIATE::#uuid-2d20637a-a14e-4308-a35b-5f70e7994a97][APPROPRIATE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / the right kind of, the appropriate, the relevant, the suitable 其人
+** 故知法也者	Therefore, when it comes the proper understanding of law
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0015_004:1a05:50::故知 / 長短經
+:CHARPOS: 50
+:END:
+*** 也者@yězhě
+:PROPERTIES:
+:CONCEPT: uuid-67c3ee1e-0493-4f8b-9846-af68c0c53ae9 / TOPIC MARKER
+:SYN-FUNC: uuid-1d598036-8f98-4c26-a4ca-49dd7d0e2e04
+:CHARPOS: 53
+:END:
+也者@yězhě	[[tls:concept:TOPIC MARKER::#uuid-67c3ee1e-0493-4f8b-9846-af68c0c53ae9][TOPIC MARKER]]	P [[tls:syn-func::#uuid-1d598036-8f98-4c26-a4ca-49dd7d0e2e04][PPpost-N]] / marker of topics to be discussed in general abstract terms: as for N as such (Note that the comment is never narrative: one might say that this topic marker, like 夫 has a modal function.)
+** 先王之陳迹	and to what we know of the actions of the Former Kings,
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0015_004:1a06:50::先王 / 長短經
+:CHARPOS: 50
+:END:
+*** 先王@xiānwáng
+:PROPERTIES:
+:CONCEPT: uuid-c82dacc9-55fe-4ade-a237-2f153de2aa61 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 50
+:END:
+先王@xiānwáng	[[tls:concept:RULER::#uuid-c82dacc9-55fe-4ade-a237-2f153de2aa61][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the former kings; one series: 堯舜禹湯文武孝己
+*** 陳跡@chénjì,jī / 陳蹟@chénjì
+:PROPERTIES:
+:CONCEPT: uuid-676ef57a-ff0d-47af-80dd-736ec5a0f13a / ACT
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+陳跡@chénjì,jī / 陳蹟@chénjì	[[tls:concept:ACT::#uuid-676ef57a-ff0d-47af-80dd-736ec5a0f13a][ACT]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / recorded performance (the traces of which remain visible after the actions are past)
+** 苟非其人	then, if they had not been the right sort of people
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0015_004:1a07:50::苟非 / 長短經
+:CHARPOS: 50
+:END:
+*** 苟@gǒu
+:PROPERTIES:
+:CONCEPT: uuid-36319ffe-7a65-467c-a55d-d3beeee6c188 / COUNTERFACTUAL
+:SYN-FUNC: uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37
+:CHARPOS: 50
+:END:
+苟@gǒu	[[tls:concept:COUNTERFACTUAL::#uuid-36319ffe-7a65-467c-a55d-d3beeee6c188][COUNTERFACTUAL]]	P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / if really (contrary to fact) S1, then S2
+** 道不虛行	(their) Way would not all by itself have got implemented.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0015_004:1a08:50::道不 / 長短經
+:CHARPOS: 50
+:END:
+*** 道@dào
+:PROPERTIES:
+:CONCEPT: uuid-4962e5de-1d55-461d-bade-2a850587a059 / METHOD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 50
+:END:
+道@dào	[[tls:concept:METHOD::#uuid-4962e5de-1d55-461d-bade-2a850587a059][METHOD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / the (morally correct) Way; the proper non-substance-like abstract metaphysical principle ensuring that all is well in the world
+*** 虛@xū
+:PROPERTIES:
+:CONCEPT: uuid-06fc1408-727f-4479-abd1-565913677cce / NATURALLY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+虛@xū	[[tls:concept:NATURALLY::#uuid-06fc1408-727f-4479-abd1-565913677cce][NATURALLY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / without any particular agent or reason being involved: naturally
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-33bf90bc-03b1-440a-be11-f54e7a9aa9fd / ACT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-33bf90bc-03b1-440a-be11-f54e7a9aa9fd][ACT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be implemented; be acted on; be put into practice (ant. 廢 "be abandoned")
+** 故仁者	Now then: as for kind-heartedness
+:PROPERTIES:
+:SRC: CHANGDUAN 13.1.3
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3j0015_004:1a13:1::故仁 / 長短經
+:CHARPOS: 1
+:END:
+*** 仁者@rénzhě
+:PROPERTIES:
+:CONCEPT: uuid-712180e0-b05b-4eea-9b2f-520f73d1b6d1 / BENEVOLENCE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 2
+:END:
+仁者@rénzhě	[[tls:concept:BENEVOLENCE::#uuid-712180e0-b05b-4eea-9b2f-520f73d1b6d1][BENEVOLENCE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / the concept of human-heartedness
+** 所以立節行	it is a means by which to realise proper demeanour,
+:PROPERTIES:
+:SRC: CHANGDUAN 13.2.1
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3j0015_004:1a28:1::所以 / 長短經
+:CHARPOS: 1
+:END:
+*** 節@jié
+:PROPERTIES:
+:CONCEPT: uuid-b7eea69f-0ff5-49d8-a0d3-7569cbc2cbcb / RESTRAIN
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 4
+:END:
+節@jié	[[tls:concept:RESTRAIN::#uuid-b7eea69f-0ff5-49d8-a0d3-7569cbc2cbcb][RESTRAIN]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / restrained
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-3153abac-5d72-44c0-ae8b-2d6f444d2c1d / ACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-3153abac-5d72-44c0-ae8b-2d6f444d2c1d][ACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / xìng: professional conduct, public demeanour, public conduct; personal conduct, behaviour
+** 亦所以成華偽	but it is also a means by which to realise demonstrative pretense.
+:PROPERTIES:
+:SRC: CHANGDUAN 13.2.1
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3j0015_004:1a29:50::亦所 / 長短經
+:CHARPOS: 50
+:END:
+*** 偽@wěi / 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-248b74be-698a-4e74-99b5-6f0eeb282cd3 / PRETEND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+偽@wěi / 為@wéi	[[tls:concept:PRETEND::#uuid-248b74be-698a-4e74-99b5-6f0eeb282cd3][PRETEND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / dissimulation, artifice, pretense
+** 以赴平原之急	in order to come to the aid of [the Lord of] Píngyuán who was in trouble.
+:PROPERTIES:
+:SRC: CHANGDUAN 13.2.2
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3j0015_004:1a40:1::以赴 / 長短經
+:CHARPOS: 1
+:END:
+*** 急@jí
+:PROPERTIES:
+:CONCEPT: uuid-edd3d66d-1a07-45d8-bd3a-fbe29197a6ef / NEED
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 6
+:END:
+急@jí	[[tls:concept:NEED::#uuid-edd3d66d-1a07-45d8-bd3a-fbe29197a6ef][NEED]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / exigencies, urgent needs; urgent concerns
+** 凡此之類	All cases of this sort
+:PROPERTIES:
+:SRC: 13.2.3
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3j0015_004:1a45:1::凡此 / 長短經
+:CHARPOS: 1
+:END:
+*** 凡@fán
+:PROPERTIES:
+:CONCEPT: uuid-5d72a2fe-52bc-4a25-a318-cecf7bc9200a / MODAL PARTICLES
+:SYN-FUNC: uuid-a7466fc7-fc8b-46a9-9e70-65b38ce433c0
+:SEM-FEAT: uuid-e1ab4451-8fe1-4dd6-af69-3cddf5e39540
+:CHARPOS: 1
+:END:
+凡@fán	[[tls:concept:MODAL PARTICLES::#uuid-5d72a2fe-52bc-4a25-a318-cecf7bc9200a][MODAL PARTICLES]]	P [[tls:syn-func::#uuid-a7466fc7-fc8b-46a9-9e70-65b38ce433c0][padN.adV]] {[[tls:sem-feat::#uuid-e1ab4451-8fe1-4dd6-af69-3cddf5e39540][V=non-narrative]]} / speaking of N in principle, V can be said of it (where V is generally or typically untensed and a non-narrative generic characterisation, often of all members of a group)
+*** 類@lèi
+:PROPERTIES:
+:CONCEPT: uuid-191e95dc-525a-407c-b30f-d884003c370c / CATEGORY
+:SYN-FUNC: uuid-48670316-2952-4035-aeaa-6665f5329cb9
+:CHARPOS: 4
+:END:
+類@lèi	[[tls:concept:CATEGORY::#uuid-191e95dc-525a-407c-b30f-d884003c370c][CATEGORY]]	N [[tls:syn-func::#uuid-48670316-2952-4035-aeaa-6665f5329cb9][nab.t:post.-N+zhi]] / the category of items like N
+** 皆華偽者	are cases of moral demonstrative pretense.)
+:PROPERTIES:
+:SRC: 13.2.3
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3j0015_004:1a46:50::皆華 / 長短經
+:CHARPOS: 50
+:END:
+*** 偽@wěi / 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-248b74be-698a-4e74-99b5-6f0eeb282cd3 / PRETEND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+偽@wěi / 為@wéi	[[tls:concept:PRETEND::#uuid-248b74be-698a-4e74-99b5-6f0eeb282cd3][PRETEND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / dissimulation, artifice, pretense
+** 聖人其作書也	
+:PROPERTIES:
+:SRC: 13.10
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3j0015_004:1a115:1::「聖 / 長短經
+:CHARPOS: 1
+:END:
+*** 書@shū
+:PROPERTIES:
+:CONCEPT: uuid-85128af1-d991-4add-ac4d-f0d9a73417f4 / WRITE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 5
+:END:
+書@shū	[[tls:concept:WRITE::#uuid-85128af1-d991-4add-ac4d-f0d9a73417f4][WRITE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / the art of writing; the writing system
+** 以解有罪而殺不辜	
+:PROPERTIES:
+:SRC: 13.10
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3j0015_004:1a121:1::以解 / 長短經
+:CHARPOS: 1
+:END:
+*** 不辜@bùgū
+:PROPERTIES:
+:CONCEPT: uuid-1e6c9ae0-1377-4437-b7e9-a979a89d73a5 / INNOCENT
+:SYN-FUNC: uuid-d79e637d-2954-4daa-91c6-3cf730571a43
+:CHARPOS: 7
+:END:
+不辜@bùgū	[[tls:concept:INNOCENT::#uuid-1e6c9ae0-1377-4437-b7e9-a979a89d73a5][INNOCENT]]	V [[tls:syn-func::#uuid-d79e637d-2954-4daa-91c6-3cf730571a43][VP{adN.}postVt]] / innocent person 殺三不辜, 一不辜

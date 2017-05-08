@@ -1,0 +1,56 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 史記 KR2a0001_208
+#+DATE: 2017-02-08T16:40:49+0900
+#+PROPERTY: COMMIT c5f1950cc5ba00d0302093e6232d41346fb4cdd8
+** 何者	For do we not read in the Odes and Documents how the men of the Three Dynasties
+:PROPERTIES:
+:SRC: SHIJI 20.02 , ed. Zhonghuashuju p. 1027; Wang Liqi 727; tr. Watson 1961, Vol 2, p217
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_208:1a10:1::何者 / 史記
+:CHARPOS: 1
+:END:
+*** 何者@hézhě
+:PROPERTIES:
+:CONCEPT: uuid-90ca10d9-59d9-430c-a9bc-63cca571a529 / WHY
+:SYN-FUNC: uuid-7d18edf6-8cf7-47e9-a591-158f938748d0
+:CHARPOS: 1
+:END:
+何者@hézhě	[[tls:concept:WHY::#uuid-90ca10d9-59d9-430c-a9bc-63cca571a529][WHY]]	N [[tls:syn-func::#uuid-7d18edf6-8cf7-47e9-a591-158f938748d0][NPpro{PRED}]] / why? why so?
+** 況乃以中國一統	How much more so now, therefore, when all China is united
+:PROPERTIES:
+:SRC: SHIJI 20.03 , ed. Zhonghuashuju p. 1027; Wang Liqi 727; tr. Watson 1961, Vol 2, p217f
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_208:1a19:1::況乃 / 史記
+:CHARPOS: 1
+:END:
+*** 中國@zhōngguó
+:PROPERTIES:
+:CONCEPT: uuid-c3756a69-deb9-49c5-bd89-e64709b8bf9d / CHINA
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 4
+:END:
+中國@zhōngguó	[[tls:concept:CHINA::#uuid-c3756a69-deb9-49c5-bd89-e64709b8bf9d][CHINA]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / central states (sometimes, but not always excluding states like Chu and Qin)
+*** 一統@yītǒng
+:PROPERTIES:
+:CONCEPT: uuid-8c23b0eb-b4b5-4f95-94b6-e48807dda5a8 / CONTROL
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 6
+:END:
+一統@yītǒng	[[tls:concept:CONTROL::#uuid-8c23b0eb-b4b5-4f95-94b6-e48807dda5a8][CONTROL]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be uniquely controlled, be controlled single-handedly
+** 席卷四海	who has rolled up the land within the four seas
+:PROPERTIES:
+:SRC: SHIJI 20.03 , ed. Zhonghuashuju p. 1027; Wang Liqi 727; tr. Watson 1961, Vol 2, p217f
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_208:1a22:1::席卷 / 史記
+:CHARPOS: 1
+:END:
+*** 席@xí
+:PROPERTIES:
+:CONCEPT: uuid-228d2e48-2838-408f-995b-6624a63680c1 / MAT
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-c65b2c3d-9d08-4c44-b958-ba9cd849f304
+:CHARPOS: 1
+:END:
+席@xí	[[tls:concept:MAT::#uuid-228d2e48-2838-408f-995b-6624a63680c1][MAT]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-c65b2c3d-9d08-4c44-b958-ba9cd849f304][reference=object]]} / like a mat

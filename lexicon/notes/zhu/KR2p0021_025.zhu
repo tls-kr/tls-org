@@ -1,0 +1,109 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 郭店楚簡・五行 KR2p0021_025
+#+DATE: 2017-02-08T16:41:37+0900
+#+PROPERTY: COMMIT 9fcd10cd4fad60bb32ed7e96229a2e9d42f4dd50
+** 耳目鼻口手足六者	Ears, eyes, nose, mouth, hands, feet
+:PROPERTIES:
+:SRC: WXP 22:01
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_025:00:0::耳目 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 鼻@bí
+:PROPERTIES:
+:CONCEPT: uuid-b2bd75d3-6048-48a3-b4d4-b490b327ff08 / NOSE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+鼻@bí	[[tls:concept:NOSE::#uuid-b2bd75d3-6048-48a3-b4d4-b490b327ff08][NOSE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / nose
+** 心曰唯	The mind-heart having-said Yes
+:PROPERTIES:
+:SRC: WXP 22:01
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_025:00:0::心曰 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-b3d74679-c521-4f26-bc37-2051c2321ac4 / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+曰@yuē	[[tls:concept:SPEAK::#uuid-b3d74679-c521-4f26-bc37-2051c2321ac4][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / say S (as of the mind)
+** 諾	the-mind-Heart having-said All-right,
+:PROPERTIES:
+:SRC: WXP 22:01
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_025:00:0::諾， / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-b3d74679-c521-4f26-bc37-2051c2321ac4 / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 0
+:END:
+曰@yuē	[[tls:concept:SPEAK::#uuid-b3d74679-c521-4f26-bc37-2051c2321ac4][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / say S (as of the mind)
+** 進	The mind-heart having-said, Go,
+:PROPERTIES:
+:SRC: WXP 22:01
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_025:00:0::進， / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-b3d74679-c521-4f26-bc37-2051c2321ac4 / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 0
+:END:
+曰@yuē	[[tls:concept:SPEAK::#uuid-b3d74679-c521-4f26-bc37-2051c2321ac4][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / say S (as of the mind)
+** 	If one brings to complete fruition the attitude of not acceding to sighs and pleas,
+:PROPERTIES:
+:SRC: WXP 21:06 Shuo
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_025:00:0::	I / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 吁@xū
+:PROPERTIES:
+:CONCEPT: uuid-6d903db2-932f-41aa-8952-ff1a10c93989 / SIGH
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CONCEPT: uuid-f5f1239b-39de-44d3-89eb-1ff3b80d978f / SIGH
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 0
+:END:
+吁@xū	[[tls:concept:SIGH::#uuid-6d903db2-932f-41aa-8952-ff1a10c93989][SIGH]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / sighing
+嗟@jiē	[[tls:concept:SIGH::#uuid-f5f1239b-39de-44d3-89eb-1ff3b80d978f][SIGH]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / sighing; or: causing one to sigh
+** 	and this truly is carried out from the core of one's heart,
+:PROPERTIES:
+:SRC: WXP 21:06 Shuo
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_025:00:0::	a / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 中心@zhōngxīn
+:PROPERTIES:
+:CONCEPT: uuid-ede7ca2d-13c5-4940-94cb-ffca4448dcad / MIND
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 0
+:END:
+中心@zhōngxīn	[[tls:concept:MIND::#uuid-ede7ca2d-13c5-4940-94cb-ffca4448dcad][MIND]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / what lies at the bottom of one's heart, one's innermost sensibilities
+** 	If one EARNESTLY SEEKS???? one reaches the way of the man of noble character,
+:PROPERTIES:
+:SRC: WXP 21:09 Shuo
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_025:00:0::「	 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-6ea78f1e-ce69-4ef6-9ed4-5c5b06101d30 / GOOD
+:SYN-FUNC: uuid-14b56546-32fd-4321-8d73-3e4b18316c15
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 0
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-6ea78f1e-ce69-4ef6-9ed4-5c5b06101d30][GOOD]]	N [[tls:syn-func::#uuid-14b56546-32fd-4321-8d73-3e4b18316c15][NPadN]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / in modifying position 君子之道 [NOT: the Way of gentleman X]

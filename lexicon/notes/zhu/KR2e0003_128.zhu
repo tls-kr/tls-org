@@ -1,0 +1,40 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_128
+#+DATE: 2017-02-08T16:41:21+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 子噲與子之國	King Tzu-k'uai has given his minister Tzu-chih the throne of Yen
+:PROPERTIES:
+:SRC: ZGC 9.1.1; tr. Crump 1979 no.141 p. 173, ed. Shanghaiguji p. 347 Ch'i prefers attacking an internally weakened Yen to aiding her ally Han
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_128:1a12:1::子噲 / 戰國策
+:CHARPOS: 1
+:END:
+*** 與@yǔ / 予@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-3a798fd6-388d-4429-87b4-21de50a7ae0a / GIVE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 3
+:END:
+與@yǔ / 予@yǔ	[[tls:concept:GIVE::#uuid-3a798fd6-388d-4429-87b4-21de50a7ae0a][GIVE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / hand over (something N2) to (someone N1), typically as demanded; give (as appropriate under the circumstances, but without having to)
+** 百姓不戴	but the people of that state have not accepted him
+:PROPERTIES:
+:SRC: ZGC 9.1.1; tr. Crump 1979 no.141 p. 173, ed. Shanghaiguji p. 347 Ch'i prefers attacking an internally weakened Yen to aiding her ally Han
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_128:1a13:50::百姓 / 戰國策
+:CHARPOS: 50
+:END:
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-0a408d86-5e51-431b-a45d-efba8d88333f / PEOPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 50
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-0a408d86-5e51-431b-a45d-efba8d88333f][PEOPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / the people
+*** 戴@dài
+:PROPERTIES:
+:CONCEPT: uuid-a971ed37-01b7-4a5b-b446-35eb6ce05540 / SUPPORT
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 53
+:END:
+戴@dài	[[tls:concept:SUPPORT::#uuid-a971ed37-01b7-4a5b-b446-35eb6ce05540][SUPPORT]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / support a contextually determinate person

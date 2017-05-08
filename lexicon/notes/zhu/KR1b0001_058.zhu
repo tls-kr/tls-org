@@ -1,0 +1,322 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_058
+#+DATE: 2017-02-08T16:35:54+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 嗟我士	Oh, my officers,
+:PROPERTIES:
+:SRC: SHU 50.1, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a02:1::「嗟 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 聽無譁	listen and do not shout,
+:PROPERTIES:
+:SRC: SHU 50.1, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a03:50::聽無 / 尚書
+:CHARPOS: 50
+:END:
+*** 譁@huá / 嘩@huá
+:PROPERTIES:
+:CONCEPT: uuid-f2c296ff-7124-4687-acfe-7f7d710dff68 / CLAMOUR
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+譁@huá / 嘩@huá	[[tls:concept:CLAMOUR::#uuid-f2c296ff-7124-4687-acfe-7f7d710dff68][CLAMOUR]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / informal: shout and make a lot of noise, bawl
+** 予誓告汝群言之首	I solemnly decleare and tell you the foremost of all sayings.
+:PROPERTIES:
+:SRC: SHU 50.1, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a04:50::予誓 / 尚書
+:CHARPOS: 50
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-e01096db-36f9-4548-8a67-85f0a8529d01 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 50
+:END:
+予@yú	[[tls:concept:EGO::#uuid-e01096db-36f9-4548-8a67-85f0a8529d01][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / I (as a responsible agent)
+*** 誓@shì
+:PROPERTIES:
+:CONCEPT: uuid-6b651e60-2057-4ffe-a804-22af017fe947 / PUBLICISE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 51
+:END:
+誓@shì	[[tls:concept:PUBLICISE::#uuid-6b651e60-2057-4ffe-a804-22af017fe947][PUBLICISE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / solemnly announce (something N2) to (somebody N1)
+*** 誓告@shìgào
+:PROPERTIES:
+:CONCEPT: uuid-786c75c6-97ec-40a2-a00b-340240cb9dd2 / PUBLICISE
+:SYN-FUNC: uuid-2538cdc2-3913-4660-9c79-75bd1ce13b78
+:CHARPOS: 51
+:END:
+誓告@shìgào	[[tls:concept:PUBLICISE::#uuid-786c75c6-97ec-40a2-a00b-340240cb9dd2][PUBLICISE]]	V [[tls:syn-func::#uuid-2538cdc2-3913-4660-9c79-75bd1ce13b78][VPttoN1.+N2]] / announce solemnly
+** 古人有言曰	The ancient men had a saying:
+:PROPERTIES:
+:SRC: SHU 50.2, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a05:50::古人 / 尚書
+:CHARPOS: 50
+:END:
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-61ff19f0-3ef9-43d6-9028-82c014edbea1 / PROVERB
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 53
+:END:
+言@yán	[[tls:concept:PROVERB::#uuid-61ff19f0-3ef9-43d6-9028-82c014edbea1][PROVERB]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / saying, memorable saying; sometimes: proverbial saying, popular saying; bon-mot, dict-on
+** 民訖自若	people only (follow themselves=) follow their own wishes,
+:PROPERTIES:
+:SRC: SHU 50.2, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a06:50::『民 / 尚書
+:CHARPOS: 50
+:END:
+*** 若@ruò
+:PROPERTIES:
+:CONCEPT: uuid-fbb0e4f5-0fbe-418a-a66b-389b00f7e54c / CONFORM
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+若@ruò	[[tls:concept:CONFORM::#uuid-fbb0e4f5-0fbe-418a-a66b-389b00f7e54c][CONFORM]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / conform to (one's own) wishes
+** 是惟艱哉	that is difficult.
+:PROPERTIES:
+:SRC: SHU 50.2, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a09:1::是惟 / 尚書
+:CHARPOS: 1
+:END:
+*** 艱@jiān
+:PROPERTIES:
+:CONCEPT: uuid-24b628a4-272a-4e1d-95fb-50acf5d1c4e5 / DISTRESS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e1f5c806-95f2-48a8-ac47-1016f7ee5801
+:CHARPOS: 3
+:END:
+艱@jiān	[[tls:concept:DISTRESS::#uuid-24b628a4-272a-4e1d-95fb-50acf5d1c4e5][DISTRESS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e1f5c806-95f2-48a8-ac47-1016f7ee5801][subject=action]]} / archaic: be troublesome, be fraught with difficulties
+** 我心之憂	My heart`s sorrow
+:PROPERTIES:
+:SRC: SHU 50.3, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a10:50::我心 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-38601b54-9867-41c7-a8e2-cce55d74cd46 / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 50
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-38601b54-9867-41c7-a8e2-cce55d74cd46][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / me (non-contrastive)
+** 則曰未就予忌	I (said=) considered that they did not accommodate themselves to me;
+:PROPERTIES:
+:SRC: SHU 50.4, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a13:1::則曰 / 尚書
+:CHARPOS: 1
+:END:
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-fdfcecd9-a9b7-483f-a2eb-01fd56ab4563 / THINK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:CHARPOS: 2
+:END:
+曰@yuē	[[tls:concept:THINK::#uuid-fdfcecd9-a9b7-483f-a2eb-01fd56ab4563][THINK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] / (inner monologue:) say to oneself that S; think that S 謀曰
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-fedf00e9-f341-454b-9c73-e89bb323f75e / EGO
+:SYN-FUNC: uuid-dcde337f-dbf8-4ce2-b262-60b74f99a17b
+:CHARPOS: 5
+:END:
+予@yú	[[tls:concept:EGO::#uuid-fedf00e9-f341-454b-9c73-e89bb323f75e][EGO]]	 [[tls:syn-func::#uuid-dcde337f-dbf8-4ce2-b262-60b74f99a17b][npro+Vt]] / me (as preposed object)
+** 尚猷詢茲黃髮	may I (now) consult these (men with) (yellow=) fading hair (i.e. old ones),
+:PROPERTIES:
+:SRC: SHU 50.4, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a17:1::尚猷 / 尚書
+:CHARPOS: 1
+:END:
+*** 詢@xún
+:PROPERTIES:
+:CONCEPT: uuid-c345dd61-1f93-48fa-b66d-2ce7bb22a576 / ASK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+詢@xún	[[tls:concept:ASK::#uuid-c345dd61-1f93-48fa-b66d-2ce7bb22a576][ASK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / seek or survey the opinions of (so as to consult with)
+** 我尚有之	I rather will have them.
+:PROPERTIES:
+:SRC: SHU 50.5, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a21:1::我尚 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-38601b54-9867-41c7-a8e2-cce55d74cd46 / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-38601b54-9867-41c7-a8e2-cce55d74cd46][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / me (non-contrastive)
+** 俾君子易辭	
+:PROPERTIES:
+:SRC: SHU 50.5, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a26:1::俾君 / 尚書
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 2
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 昧昧我思之	Very (obscured=) bewildered I ponder it.
+:PROPERTIES:
+:SRC: SHU 50.6.1, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a28:1::昧昧 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-f6d689f3-eb57-4368-9845-dbb36607be8e / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 3
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-f6d689f3-eb57-4368-9845-dbb36607be8e][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (at present, or remembering the personal past)
+** 不啻若自其口出	it will not be only as it comes out of his mouth.
+:PROPERTIES:
+:SRC: SHU 50.6.2, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a37:1::不啻 / 尚書
+:CHARPOS: 1
+:END:
+*** 啻@chì
+:PROPERTIES:
+:CONCEPT: uuid-c2b9cc6f-0f8f-47a8-8244-efa2a8060c09 / ONLY
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 2
+:END:
+啻@chì	[[tls:concept:ONLY::#uuid-c2b9cc6f-0f8f-47a8-8244-efa2a8060c09][ONLY]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / only
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-c30c565b-fa66-4868-b92d-e74cab24465d / FROM
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 4
+:END:
+自@zì	[[tls:concept:FROM::#uuid-c30c565b-fa66-4868-b92d-e74cab24465d][FROM]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / OBI 5: from; starting out from a place; 自楚之滕 "went from Chu3 to Te2ng" also a time: 所自生 "that wherefrom something is born"
+*** 口@kǒu
+:PROPERTIES:
+:CONCEPT: uuid-0557943c-b341-4eeb-80ee-1e0b6572aa22 / MOUTH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+口@kǒu	[[tls:concept:MOUTH::#uuid-0557943c-b341-4eeb-80ee-1e0b6572aa22][MOUTH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / mouth
+** 是能容之	He truly is able to be (indulgent=) generous.
+:PROPERTIES:
+:SRC: SHU 50.6.2, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a38:50::是能 / 尚書
+:CHARPOS: 50
+:END:
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-9b94b935-e39a-412c-be8b-c6177933825e / ABLE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CONCEPT: uuid-fc096cb1-86ad-4792-b42c-eb7f9a663198 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 51
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-9b94b935-e39a-412c-be8b-c6177933825e][ABLE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / have the capacity to VERB properly, be constitutionally able to VERB; be physically capable of, be actually able to
+寔@shí	[[tls:concept:THIS::#uuid-fc096cb1-86ad-4792-b42c-eb7f9a663198][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / this same item
+** 以保我子孫	And so he will safeguard my sons and grandsons;
+:PROPERTIES:
+:SRC: SHU 50.6.2, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a39:50::以保 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 52
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-45b21f02-40fa-452c-8b5a-e5a46fa5be9d][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / my
+** 冒疾以惡之	if he is jealous and resentful and hates them,
+:PROPERTIES:
+:SRC: SHU 50.7, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a41:1::冒疾 / 尚書
+:CHARPOS: 1
+:END:
+*** 媢疾@màojí
+:PROPERTIES:
+:CONCEPT: uuid-51588010-389b-483d-9252-37f19523cca6 / JEALOUS
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 1
+:END:
+媢疾@màojí	[[tls:concept:JEALOUS::#uuid-51588010-389b-483d-9252-37f19523cca6][JEALOUS]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / be jealously resentful of
+** 以不能保我子孫	He thus cannot safeguard my sons and grandsons,
+:PROPERTIES:
+:SRC: SHU 50.7, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a45:1::以不 / 尚書
+:CHARPOS: 1
+:END:
+*** 保@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-1f091f6e-f0a0-4ef8-862f-7533053da872 / SAFEGUARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+保@bǎo	[[tls:concept:SAFEGUARD::#uuid-1f091f6e-f0a0-4ef8-862f-7533053da872][SAFEGUARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / safeguard, keep secure; keep to oneself; protect properly; HF 5.2.20: keep (one purposes) secure and secret
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 5
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+*** 子孫@zǐsūn
+:PROPERTIES:
+:CONCEPT: uuid-9aaf71b1-0e51-401b-a2c1-c44467c24893 / DESCENDANT
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 6
+:END:
+子孫@zǐsūn	[[tls:concept:DESCENDANT::#uuid-9aaf71b1-0e51-401b-a2c1-c44467c24893][DESCENDANT]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the descendents; posterity
+** 黎民亦曰殆哉	and the numerous people will also be endangered.
+:PROPERTIES:
+:SRC: SHU 50.7, tr. Karlgren 81
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_058:2a45:50::黎民 / 尚書
+:CHARPOS: 50
+:END:
+*** 黎民@límín
+:PROPERTIES:
+:CONCEPT: uuid-8936866b-1fbe-4e2c-8886-792cdc17139c / PEOPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 50
+:END:
+黎民@límín	[[tls:concept:PEOPLE::#uuid-8936866b-1fbe-4e2c-8886-792cdc17139c][PEOPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / SHI: the sun-tanned (common) people

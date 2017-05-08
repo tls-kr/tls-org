@@ -1,0 +1,76 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 史記 KR2a0001_203
+#+DATE: 2017-02-08T16:40:49+0900
+#+PROPERTY: COMMIT c5f1950cc5ba00d0302093e6232d41346fb4cdd8
+** 矯稱蠭出	False titles sprang up like bees,
+:PROPERTIES:
+:SRC: SHIJI 15.06 , ed. Zhonghuashuju p. 0685; Wang Liqi 477; tr. Watson 1993, p86
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_203:1a36:1::矯稱 / 史記
+:CHARPOS: 1
+:END:
+*** 蜂@fēng
+:PROPERTIES:
+:CONCEPT: uuid-7a63d1a0-dd66-43db-9ede-553782ce4fcc / BEE
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-bedce81f-bac5-4537-8e1f-191c7ff90bdb
+:CHARPOS: 1
+:END:
+蜂@fēng	[[tls:concept:BEE::#uuid-7a63d1a0-dd66-43db-9ede-553782ce4fcc][BEE]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-bedce81f-bac5-4537-8e1f-191c7ff90bdb][analogy]]} / like a bee, like bees
+** 諸夏賓之	shunned by the Xia lineage states
+:PROPERTIES:
+:SRC: SHIJI 15.07 , ed. Zhonghuashuju p. 0685; Wang Liqi 477; tr. Watson 1993, p86
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_203:1a40:1::諸夏 / 史記
+:CHARPOS: 1
+:END:
+*** 諸夏@zhūxià
+:PROPERTIES:
+:CONCEPT: uuid-6e06b8b8-9b2f-466d-98d1-7f97776f4d99 / CHINA
+:SYN-FUNC: uuid-0e451eec-1e26-4135-baa1-821e7a42fafe
+:CHARPOS: 1
+:END:
+諸夏@zhūxià	[[tls:concept:CHINA::#uuid-6e06b8b8-9b2f-466d-98d1-7f97776f4d99][CHINA]]	N [[tls:syn-func::#uuid-0e451eec-1e26-4135-baa1-821e7a42fafe][NP{PadN}]] / the various states originally under Xià influence
+** 然卒并天下	Yet in the end it united the whole world under its rule.
+:PROPERTIES:
+:SRC: SHIJI 15.07 , ed. Zhonghuashuju p. 0685; Wang Liqi 477; tr. Watson 1993, p86
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_203:1a45:1::然卒 / 史記
+:CHARPOS: 1
+:END:
+*** 并@bìng
+:PROPERTIES:
+:CONCEPT: uuid-71c7ac96-0078-4076-a9fd-51f598efe16b / ANNEX
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+并@bìng	[[tls:concept:ANNEX::#uuid-71c7ac96-0078-4076-a9fd-51f598efe16b][ANNEX]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / bring equally under one's control; annex; add to what one has;
+** 夫作事者必於東南	The beginning of an undertaking invariably occurs in the southeast,
+:PROPERTIES:
+:SRC: SHIJI 15.08 , ed. Zhonghuashuju p. 0686#1; Wang Liqi 478; tr. Watson 1993, p86
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_203:2a03:1::夫作 / 史記
+:CHARPOS: 1
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-0a757f0e-6f6f-4e9d-b231-e6f9ac17f3ff / BE IN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+於@yú	[[tls:concept:BE IN::#uuid-0a757f0e-6f6f-4e9d-b231-e6f9ac17f3ff][BE IN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to be in; to be at; be conducted in/at (place or time)
+** 以其近己而俗變相類	Because they were closer to us, their customs and the happenings of their times resemble ours,
+:PROPERTIES:
+:SRC: SHIJI 15.12 , ed. Zhonghuashuju p. 0685#2; Wang Liqi 478; tr. Watson 1993, p87
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_203:3a21:1::以其 / 史記
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-a6fa820d-9a32-4a93-8d8f-3cb50f92d948 / SELF
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 4
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-a6fa820d-9a32-4a93-8d8f-3cb50f92d948][SELF]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / him/her/them (referring to highest subject in the sentence)

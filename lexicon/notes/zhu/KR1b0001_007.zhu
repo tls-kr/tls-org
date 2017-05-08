@@ -1,0 +1,56 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_007
+#+DATE: 2017-02-08T16:35:47+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 作甘誓	
+:PROPERTIES:
+:SRC: SHU7.0 書序; ed. SUN XINGYAN 1989 p. 560
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_007:1a02:1::作《 / 尚書
+:CHARPOS: 1
+:END:
+*** 誓@shì
+:PROPERTIES:
+:CONCEPT: uuid-7ec7222a-6054-4e76-bf1a-a382c709a1ec / PUBLICISE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+誓@shì	[[tls:concept:PUBLICISE::#uuid-7ec7222a-6054-4e76-bf1a-a382c709a1ec][PUBLICISE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / military proclamation in front of soldiers or crowds; formal solemn harangue by ruler (not general) in front of his army
+** 予誓告汝	I solemnly declare and tell you.
+:PROPERTIES:
+:SRC: SHU 7.2; tr. Karlgren p. 18ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_007:2a05:1::予誓 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-e01096db-36f9-4548-8a67-85f0a8529d01 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-e01096db-36f9-4548-8a67-85f0a8529d01][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / I (as a responsible agent)
+*** 誓告@shìgào
+:PROPERTIES:
+:CONCEPT: uuid-786c75c6-97ec-40a2-a00b-340240cb9dd2 / PUBLICISE
+:SYN-FUNC: uuid-2538cdc2-3913-4660-9c79-75bd1ce13b78
+:CHARPOS: 2
+:END:
+誓告@shìgào	[[tls:concept:PUBLICISE::#uuid-786c75c6-97ec-40a2-a00b-340240cb9dd2][PUBLICISE]]	V [[tls:syn-func::#uuid-2538cdc2-3913-4660-9c79-75bd1ce13b78][VPttoN1.+N2]] / announce solemnly
+** 予則孥戮汝	then I will kill you with your wives and children.
+:PROPERTIES:
+:SRC: SHU 7.5; tr. Karlgren p. 18ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_007:2a16:1::予則 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-e01096db-36f9-4548-8a67-85f0a8529d01 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-e01096db-36f9-4548-8a67-85f0a8529d01][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / I (as a responsible agent)

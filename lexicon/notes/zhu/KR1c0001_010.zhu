@@ -1,0 +1,557 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 毛詩 KR1c0001_010
+#+DATE: 2017-02-08T16:35:56+0900
+#+PROPERTY: COMMIT 840f2855d4a197c185b92c4078dc03678ac30333
+** 蟋蟀在堂	1. The cricket is in the hall,
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR1c0001_010:3a00:8::蟋蟀 / 毛詩
+:CHARPOS: 8
+:END:
+*** 蟋蟀@xīshuài
+:PROPERTIES:
+:CONCEPT: uuid-56fb3f76-267f-4a70-bdc3-92f94c113dfc / INSECTS
+:SYN-FUNC: uuid-81b5275d-0f2f-4adb-bb8c-91ea0371bc12
+:CHARPOS: 8
+:END:
+蟋蟀@xīshuài	[[tls:concept:INSECTS::#uuid-56fb3f76-267f-4a70-bdc3-92f94c113dfc][INSECTS]]	N [[tls:syn-func::#uuid-81b5275d-0f2f-4adb-bb8c-91ea0371bc12][nn]] / locusts, cicadas; cricket
+*** 堂@táng
+:PROPERTIES:
+:CONCEPT: uuid-93328e83-6b26-45ad-9003-3a043db86c94 / COURT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 11
+:END:
+堂@táng	[[tls:concept:COURT::#uuid-93328e83-6b26-45ad-9003-3a043db86c94][COURT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / elevated ceremonial hall
+** 他人是保	and other men will (preserve:) keep them.
+:PROPERTIES:
+:SRC: SHI 115.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:10a08:1::他人 / 毛詩
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-4f8ce4f8-3e09-4d48-941e-7198ed46010e / THIS
+:SYN-FUNC: uuid-970d99db-7968-486c-af64-54e70f75c7f0
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 3
+:END:
+是@shì	[[tls:concept:THIS::#uuid-4f8ce4f8-3e09-4d48-941e-7198ed46010e][THIS]]	N [[tls:syn-func::#uuid-970d99db-7968-486c-af64-54e70f75c7f0][npro+V{PRED}.postN{SUBJ}]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / it is N that PREDs (very much like 實)
+** 既見君子	when I have seen my lord,
+:PROPERTIES:
+:SRC: SHI 116.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:15a04:1::既見 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 云何不樂	how should I not be happy?
+:PROPERTIES:
+:SRC: SHI 116.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:15a05:50::云何 / 毛詩
+:CHARPOS: 50
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / find communicative happiness; be communicatively happy (the optative cases have to be moved!)
+** 白石皓皓	the white stones are purely whitē46;
+:PROPERTIES:
+:SRC: SHI 116.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:16a02:1::白石 / 毛詩
+:CHARPOS: 1
+:END:
+*** 白@bái
+:PROPERTIES:
+:CONCEPT: uuid-d18a3cef-032a-4905-bd62-0a1552fcf76e / WHITE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+白@bái	[[tls:concept:WHITE::#uuid-d18a3cef-032a-4905-bd62-0a1552fcf76e][WHITE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / white; of swords: blank, i.e. drawn; derived nominal usage
+*** 皓@hào
+:PROPERTIES:
+:CONCEPT: uuid-df01bbbf-e479-4ce0-808c-713ed81477b8 / WHITE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+皓@hào	[[tls:concept:WHITE::#uuid-df01bbbf-e479-4ce0-808c-713ed81477b8][WHITE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be flashing white
+** 素衣朱繡	with white robe and red embroidery (on the collar)
+:PROPERTIES:
+:SRC: SHI 116.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:16a03:50::素衣 / 毛詩
+:CHARPOS: 50
+:END:
+*** 素@sù
+:PROPERTIES:
+:CONCEPT: uuid-037e8d52-00e1-4a9b-ac99-ebb0c6e4822c / WHITE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+素@sù	[[tls:concept:WHITE::#uuid-037e8d52-00e1-4a9b-ac99-ebb0c6e4822c][WHITE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / pale white; pristine off-white, unadorned plain white; clad in unadorned plain white
+*** 朱@zhū
+:PROPERTIES:
+:CONCEPT: uuid-27a4f47e-4894-48dc-b94c-2821cdc922be / RED
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 52
+:END:
+朱@zhū	[[tls:concept:RED::#uuid-27a4f47e-4894-48dc-b94c-2821cdc922be][RED]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / bright and lively red
+** 既見君子	when I have seen my lord,
+:PROPERTIES:
+:SRC: SHI 116.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:16a05:1::既見 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 蕃衍盈升	rich and (spreading =) growing over a large areā48 they will fill a pint;
+:PROPERTIES:
+:SRC: SHI 117.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:21a01:1::蕃衍 / 毛詩
+:CHARPOS: 1
+:END:
+*** 盈@yíng
+:PROPERTIES:
+:CONCEPT: uuid-98ab29ab-fdeb-40ad-bed4-852f3e3a878e / FILL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+盈@yíng	[[tls:concept:FILL::#uuid-98ab29ab-fdeb-40ad-bed4-852f3e3a878e][FILL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / fill (primarily a container or a depression in the earth)
+** 碩大無朋	he is very great and without peer;
+:PROPERTIES:
+:SRC: SHI 117.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:21a03:1::碩大 / 毛詩
+:CHARPOS: 1
+:END:
+*** 碩@shuò
+:PROPERTIES:
+:CONCEPT: uuid-80068dc3-618f-4cb6-98f7-0a0b4b628a09 / BIG
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 1
+:END:
+碩@shuò	[[tls:concept:BIG::#uuid-80068dc3-618f-4cb6-98f7-0a0b4b628a09][BIG]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be great; large; big
+** 椒聊且	oh, the pepper plants!
+:PROPERTIES:
+:SRC: SHI 117.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:21a04:50::椒聊 / 毛詩
+:CHARPOS: 50
+:END:
+*** 椒@jiāo
+:PROPERTIES:
+:CONCEPT: uuid-1fb79a16-bd71-4c1e-a5f4-de9fca5b6db6 / PEPPER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+椒@jiāo	[[tls:concept:PEPPER::#uuid-1fb79a16-bd71-4c1e-a5f4-de9fca5b6db6][PEPPER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / pepper plant; spice (from any plant)
+** 見此邂逅	that I see these happy ones;
+:PROPERTIES:
+:SRC: SHI 118.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:27a04:1::見此 / 毛詩
+:CHARPOS: 1
+:END:
+*** 邂逅@xièhòu
+:PROPERTIES:
+:CONCEPT: uuid-c6390687-6466-4415-bea3-a4ce67bd1d92 / HAPPY
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:CHARPOS: 3
+:END:
+邂逅@xièhòu	[[tls:concept:HAPPY::#uuid-c6390687-6466-4415-bea3-a4ce67bd1d92][HAPPY]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] / happy ones
+** 如此邂逅何	What shall I say of these happy ones!
+:PROPERTIES:
+:SRC: SHI 118.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:27a06:1::如此 / 毛詩
+:CHARPOS: 1
+:END:
+*** 邂逅@xièhòu
+:PROPERTIES:
+:CONCEPT: uuid-c6390687-6466-4415-bea3-a4ce67bd1d92 / HAPPY
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:CHARPOS: 3
+:END:
+邂逅@xièhòu	[[tls:concept:HAPPY::#uuid-c6390687-6466-4415-bea3-a4ce67bd1d92][HAPPY]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] / happy ones
+** 肅肅鴇羽	1. Flapping are the plumes of the bustards,
+:PROPERTIES:
+:SRC: SHI 121.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:42a00:6::肅肅 / 毛詩
+:CHARPOS: 6
+:END:
+*** 鴇@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-7894001c-53f6-4f3e-b7e9-1ff7e2b8a584 / BIRDS OF PREY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 8
+:END:
+鴇@bǎo	[[tls:concept:BIRDS OF PREY::#uuid-7894001c-53f6-4f3e-b7e9-1ff7e2b8a584][BIRDS OF PREY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / bustard; Otis dybowskii
+** 集于苞栩	they settle on the bushy oak151;
+:PROPERTIES:
+:SRC: SHI 121.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:42a01:50::集于 / 毛詩
+:CHARPOS: 50
+:END:
+*** 苞@bāo
+:PROPERTIES:
+:CONCEPT: uuid-616f8efa-0ced-407a-a41c-833045ee00a8 / GROW
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 52
+:END:
+苞@bāo	[[tls:concept:GROW::#uuid-616f8efa-0ced-407a-a41c-833045ee00a8][GROW]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / growing in clusters
+*** 栩@xǔ
+:PROPERTIES:
+:CONCEPT: uuid-f98fbfd9-1c64-4bf1-99d3-1daaaa0a650b / OAK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+栩@xǔ	[[tls:concept:OAK::#uuid-f98fbfd9-1c64-4bf1-99d3-1daaaa0a650b][OAK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / kind of oaktree; Quercus serrata
+** 不能蓺稷黍	I cannot plant my panicled millet and my glutinous millet;
+:PROPERTIES:
+:SRC: SHI 121.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:42a03:1::不能 / 毛詩
+:CHARPOS: 1
+:END:
+*** 蓺@yì
+:PROPERTIES:
+:CONCEPT: uuid-59dabb28-e0ff-4aa1-83c4-d93424f79501 / SOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+蓺@yì	[[tls:concept:SOW::#uuid-59dabb28-e0ff-4aa1-83c4-d93424f79501][SOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / sow; plant
+*** 黍@shǔ
+:PROPERTIES:
+:CONCEPT: uuid-5a751858-0a70-453d-a046-4b8b392aeb20 / MILLET
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 5
+:END:
+黍@shǔ	[[tls:concept:MILLET::#uuid-5a751858-0a70-453d-a046-4b8b392aeb20][MILLET]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / broomcorn millet
+** 父母何怙	what shall father and mother rely on?
+:PROPERTIES:
+:SRC: SHI 121.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:42a04:50::父母 / 毛詩
+:CHARPOS: 50
+:END:
+*** 怙@hù
+:PROPERTIES:
+:CONCEPT: uuid-5f5300ce-123d-41af-9166-d29db33005d8 / RELY ON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+怙@hù	[[tls:concept:RELY ON::#uuid-5f5300ce-123d-41af-9166-d29db33005d8][RELY ON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / depend on, rely on; make opportunistic use of
+** 悠悠蒼天	Oh, you distant blue Heaven,
+:PROPERTIES:
+:SRC: SHI 121.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:42a05:50::悠悠 / 毛詩
+:CHARPOS: 50
+:END:
+*** 悠@yōu
+:PROPERTIES:
+:CONCEPT: uuid-d83c8b61-bae5-43c1-bf8a-afe35343b119 / DISTANT
+:SYN-FUNC: uuid-f50ec52d-56fb-4eed-89fe-d1f071a1b8f3
+:CHARPOS: 50
+:END:
+悠@yōu	[[tls:concept:DISTANT::#uuid-d83c8b61-bae5-43c1-bf8a-afe35343b119][DISTANT]]	V [[tls:syn-func::#uuid-f50ec52d-56fb-4eed-89fe-d1f071a1b8f3][v.red:adN]] / very distant
+** 曷其有所	when will there be a settlement152?
+:PROPERTIES:
+:SRC: SHI 121.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:42a06:50::曷其 / 毛詩
+:CHARPOS: 50
+:END:
+*** 曷@hé
+:PROPERTIES:
+:CONCEPT: uuid-dd172155-95f1-486a-a7bf-a57ca081b12e / HOW
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 50
+:END:
+曷@hé	[[tls:concept:HOW::#uuid-dd172155-95f1-486a-a7bf-a57ca081b12e][HOW]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how
+** 集于苞棘	they settle on the bushy jujube trees;
+:PROPERTIES:
+:SRC: SHI 121.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:43a02:1::集于 / 毛詩
+:CHARPOS: 1
+:END:
+*** 棘@jí
+:PROPERTIES:
+:CONCEPT: uuid-35ebea12-42a2-46bf-be84-55ee0ba33faf / TREE, KINDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+棘@jí	[[tls:concept:TREE, KINDS::#uuid-35ebea12-42a2-46bf-be84-55ee0ba33faf][TREE, KINDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / jujube tree; bramble; contrast zǎo 棗 "date".
+** 悠悠蒼天	Oh, you distant blue Heaven,
+:PROPERTIES:
+:SRC: SHI 121.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:43a06:1::悠悠 / 毛詩
+:CHARPOS: 1
+:END:
+*** 悠@yōu
+:PROPERTIES:
+:CONCEPT: uuid-d83c8b61-bae5-43c1-bf8a-afe35343b119 / DISTANT
+:SYN-FUNC: uuid-f50ec52d-56fb-4eed-89fe-d1f071a1b8f3
+:CHARPOS: 1
+:END:
+悠@yōu	[[tls:concept:DISTANT::#uuid-d83c8b61-bae5-43c1-bf8a-afe35343b119][DISTANT]]	V [[tls:syn-func::#uuid-f50ec52d-56fb-4eed-89fe-d1f071a1b8f3][v.red:adN]] / very distant
+*** 蒼@cāng
+:PROPERTIES:
+:CONCEPT: uuid-99871edd-0be4-46cd-9e2b-69a792321e9a / BLUE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+蒼@cāng	[[tls:concept:BLUE::#uuid-99871edd-0be4-46cd-9e2b-69a792321e9a][BLUE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / azure blue (sky)
+** 曷其有極	when will there be an end?
+:PROPERTIES:
+:SRC: SHI 121.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:43a07:50::曷其 / 毛詩
+:CHARPOS: 50
+:END:
+*** 極@jí
+:PROPERTIES:
+:CONCEPT: uuid-6cd9cad0-a543-4079-8c07-5823b4cae61e / LIMIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+極@jí	[[tls:concept:LIMIT::#uuid-6cd9cad0-a543-4079-8c07-5823b4cae61e][LIMIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / extreme limit; ultimate point
+** 集于苞桑	they settle on the bushy mulberry tree;
+:PROPERTIES:
+:SRC: SHI 121.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:44a02:1::集于 / 毛詩
+:CHARPOS: 1
+:END:
+*** 桑@sāng
+:PROPERTIES:
+:CONCEPT: uuid-3e6c1234-046e-4da4-b1a1-9f1e2380b923 / TREE, KINDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+桑@sāng	[[tls:concept:TREE, KINDS::#uuid-3e6c1234-046e-4da4-b1a1-9f1e2380b923][TREE, KINDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / mulberry tree
+** 不能蓺稻粱	I cannot plant my rice and my spiked millet;
+:PROPERTIES:
+:SRC: SHI 121.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:44a04:1::不能 / 毛詩
+:CHARPOS: 1
+:END:
+*** 稻@dào
+:PROPERTIES:
+:CONCEPT: uuid-7594e324-ebd6-425c-bd9e-7b86562822c9 / RICE
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+稻@dào	[[tls:concept:RICE::#uuid-7594e324-ebd6-425c-bd9e-7b86562822c9][RICE]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / fine rice; high quality rice
+*** 粱@liáng
+:PROPERTIES:
+:CONCEPT: uuid-7a7a9c98-c379-4c63-a92f-146e10fda4db / MILLET
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 5
+:END:
+粱@liáng	[[tls:concept:MILLET::#uuid-7a7a9c98-c379-4c63-a92f-146e10fda4db][MILLET]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / fine millet, high grade millet
+** 父母何嘗	what shall father and mother have for food?
+:PROPERTIES:
+:SRC: SHI 121.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:44a05:50::父母 / 毛詩
+:CHARPOS: 50
+:END:
+*** 嘗@cháng / @
+:PROPERTIES:
+:CONCEPT: uuid-ea2a8e8f-9867-4cd1-80ee-d9fa8d189856 / EAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+嘗@cháng / @	[[tls:concept:EAT::#uuid-ea2a8e8f-9867-4cd1-80ee-d9fa8d189856][EAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / TASTE> have as food, have to eat, take as food
+** 悠悠蒼天	Oh, you distant blue Heaven,
+:PROPERTIES:
+:SRC: SHI 121.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:44a06:50::悠悠 / 毛詩
+:CHARPOS: 50
+:END:
+*** 悠@yōu
+:PROPERTIES:
+:CONCEPT: uuid-d83c8b61-bae5-43c1-bf8a-afe35343b119 / DISTANT
+:SYN-FUNC: uuid-f50ec52d-56fb-4eed-89fe-d1f071a1b8f3
+:CHARPOS: 50
+:END:
+悠@yōu	[[tls:concept:DISTANT::#uuid-d83c8b61-bae5-43c1-bf8a-afe35343b119][DISTANT]]	V [[tls:syn-func::#uuid-f50ec52d-56fb-4eed-89fe-d1f071a1b8f3][v.red:adN]] / very distant
+** 彼君子兮	that nobleman,
+:PROPERTIES:
+:SRC: SHI 123.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:53a02:1::彼君 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 2
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 噬肯適我	it has come so far that he is willing to come to me;
+:PROPERTIES:
+:SRC: SHI 123.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:53a03:50::噬肯 / 毛詩
+:CHARPOS: 50
+:END:
+*** 噬@shì
+:PROPERTIES:
+:CONCEPT: uuid-315a8664-6dc4-41ef-a7dc-acff0da3bf60 / ARRIVE
+:SYN-FUNC: uuid-889f28b9-a520-4605-8ba6-fa2ba2d11be3
+:CHARPOS: 50
+:END:
+噬@shì	[[tls:concept:ARRIVE::#uuid-315a8664-6dc4-41ef-a7dc-acff0da3bf60][ARRIVE]]	V [[tls:syn-func::#uuid-889f28b9-a520-4605-8ba6-fa2ba2d11be3][vt0oS]] / reach; come to (according to Karlgren this is a loan character) ????
+** 中心好之	in the core of my heart I love him;
+:PROPERTIES:
+:SRC: SHI 123.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:53a04:50::中心 / 毛詩
+:CHARPOS: 50
+:END:
+*** 中心@zhōngxīn
+:PROPERTIES:
+:CONCEPT: uuid-9846dd53-6510-4c86-870c-cef3eb850529 / MIND
+:SYN-FUNC: uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a
+:CHARPOS: 50
+:END:
+中心@zhōngxīn	[[tls:concept:MIND::#uuid-9846dd53-6510-4c86-870c-cef3eb850529][MIND]]	N [[tls:syn-func::#uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a][NPadV]] / in the bottom of heart, from the bottom of one's heart; sincerely
+*** 好@hào
+:PROPERTIES:
+:CONCEPT: uuid-d1d2af15-8680-469a-8675-8922278304e8 / LOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+好@hào	[[tls:concept:LOVE::#uuid-d1d2af15-8680-469a-8675-8922278304e8][LOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / be especially fond of; find especially attractive
+** 彼君子兮	that nobleman,
+:PROPERTIES:
+:SRC: SHI 123.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:54a03:1::彼君 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 2
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 噬肯來遊	it has come so far that he is willing to come and play (with me);
+:PROPERTIES:
+:SRC: SHI 123.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:54a04:50::噬肯 / 毛詩
+:CHARPOS: 50
+:END:
+*** 噬@shì
+:PROPERTIES:
+:CONCEPT: uuid-315a8664-6dc4-41ef-a7dc-acff0da3bf60 / ARRIVE
+:SYN-FUNC: uuid-889f28b9-a520-4605-8ba6-fa2ba2d11be3
+:CHARPOS: 50
+:END:
+噬@shì	[[tls:concept:ARRIVE::#uuid-315a8664-6dc4-41ef-a7dc-acff0da3bf60][ARRIVE]]	V [[tls:syn-func::#uuid-889f28b9-a520-4605-8ba6-fa2ba2d11be3][vt0oS]] / reach; come to (according to Karlgren this is a loan character) ????
+** 中心好之	in the core of my heart I love him;
+:PROPERTIES:
+:SRC: SHI 123.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:54a05:50::中心 / 毛詩
+:CHARPOS: 50
+:END:
+*** 中心@zhōngxīn
+:PROPERTIES:
+:CONCEPT: uuid-9846dd53-6510-4c86-870c-cef3eb850529 / MIND
+:SYN-FUNC: uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a
+:CHARPOS: 50
+:END:
+中心@zhōngxīn	[[tls:concept:MIND::#uuid-9846dd53-6510-4c86-870c-cef3eb850529][MIND]]	N [[tls:syn-func::#uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a][NPadV]] / in the bottom of heart, from the bottom of one's heart; sincerely
+** 予美亡此	my beautiful one has gone away from here;
+:PROPERTIES:
+:SRC: SHI 124.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:59a03:1::予美 / 毛詩
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-644aaf28-0023-4ce5-97b7-80e0903909d0 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-644aaf28-0023-4ce5-97b7-80e0903909d0][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / belonging to me (personally), my (often marked by the genitive particle 之)
+** 予美亡此	my beautiful one has gone away from here;
+:PROPERTIES:
+:SRC: SHI 124.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:60a03:1::予美 / 毛詩
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-644aaf28-0023-4ce5-97b7-80e0903909d0 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-644aaf28-0023-4ce5-97b7-80e0903909d0][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / belonging to me (personally), my (often marked by the genitive particle 之)
+** 苟亦無然	really you should not think them true;
+:PROPERTIES:
+:SRC: SHI 125.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:66a05:1::苟亦 / 毛詩
+:CHARPOS: 1
+:END:
+*** 無然@wúrán
+:PROPERTIES:
+:CONCEPT: uuid-4351b3a2-56b7-4810-b53f-9d51e2449022 / SHOULD
+:SYN-FUNC: uuid-79de72c0-6045-4bc2-8292-c4c7f935d1b6
+:CHARPOS: 3
+:END:
+無然@wúrán	[[tls:concept:SHOULD::#uuid-4351b3a2-56b7-4810-b53f-9d51e2449022][SHOULD]]	V [[tls:syn-func::#uuid-79de72c0-6045-4bc2-8292-c4c7f935d1b6][VPt(+V{0})]] / should not do the contextually determinate thing
+** 苟亦無然	really you should not think them true;
+:PROPERTIES:
+:SRC: SHI 125.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_010:67a06:1::苟亦 / 毛詩
+:CHARPOS: 1
+:END:
+*** 無然@wúrán
+:PROPERTIES:
+:CONCEPT: uuid-4351b3a2-56b7-4810-b53f-9d51e2449022 / SHOULD
+:SYN-FUNC: uuid-79de72c0-6045-4bc2-8292-c4c7f935d1b6
+:CHARPOS: 3
+:END:
+無然@wúrán	[[tls:concept:SHOULD::#uuid-4351b3a2-56b7-4810-b53f-9d51e2449022][SHOULD]]	V [[tls:syn-func::#uuid-79de72c0-6045-4bc2-8292-c4c7f935d1b6][VPt(+V{0})]] / should not do the contextually determinate thing

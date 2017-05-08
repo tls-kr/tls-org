@@ -1,0 +1,162 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_009
+#+DATE: 2017-02-08T16:43:42+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 揣而銳之	If you test [a weapon] and sharpen it
+:PROPERTIES:
+:SRC: LAO 9.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_009:1a03:1::揣而 / 老子
+:CHARPOS: 1
+:END:
+*** 銳@ruì
+:PROPERTIES:
+:CONCEPT: uuid-fbf57267-8180-4536-8109-21e522b34da1 / SHARP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 3
+:END:
+銳@ruì	[[tls:concept:SHARP::#uuid-fbf57267-8180-4536-8109-21e522b34da1][SHARP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to be sharp> sharpen
+** 不可長保	you cannot for long preserve [its sharpness], cf. LC 215;
+:PROPERTIES:
+:SRC: LAO 9.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_009:1a04:50::不可 / 老子
+:CHARPOS: 50
+:END:
+*** 長@cháng
+:PROPERTIES:
+:CONCEPT: uuid-ca250259-09a1-48d4-bcc2-b90cf4796a81 / ENDURING
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+長@cháng	[[tls:concept:ENDURING::#uuid-ca250259-09a1-48d4-bcc2-b90cf4796a81][ENDURING]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / for a long time, for any length of time; forever; in the long run
+*** 保@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-57fa40c2-c954-42cc-9358-90427158118d / SAFEGUARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+保@bǎo	[[tls:concept:SAFEGUARD::#uuid-57fa40c2-c954-42cc-9358-90427158118d][SAFEGUARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be kept safe and secure
+** 金玉盈堂	when bronze and jade fill the hall
+:PROPERTIES:
+:SRC: LAO 9.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_009:1a05:50::金玉 / 老子
+:CHARPOS: 50
+:END:
+*** 金@jīn
+:PROPERTIES:
+:CONCEPT: uuid-5f74133c-5805-402e-ad85-f5212494f763 / GOLD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 50
+:END:
+金@jīn	[[tls:concept:GOLD::#uuid-5f74133c-5805-402e-ad85-f5212494f763][GOLD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / gold =黃金
+*** 玉@yù
+:PROPERTIES:
+:CONCEPT: uuid-c9554999-0b7b-41b6-ae25-74618a6a63ad / JADE
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CONCEPT: uuid-d3d88a7d-6fbf-4c01-bdf9-fa3b9e7f1495 / FILL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+玉@yù	[[tls:concept:JADE::#uuid-c9554999-0b7b-41b6-ae25-74618a6a63ad][JADE]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / jade
+滿@mǎn	[[tls:concept:FILL::#uuid-d3d88a7d-6fbf-4c01-bdf9-fa3b9e7f1495][FILL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / fill out; fill out everywhere 滿於
+** 莫之能守	nobody can preserve it;
+:PROPERTIES:
+:SRC: LAO 9.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_009:1a06:50::莫之 / 老子
+:CHARPOS: 50
+:END:
+*** 守@shǒu
+:PROPERTIES:
+:CONCEPT: uuid-a942e8ff-221a-4ec7-8bca-985265111857 / SAFEGUARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+守@shǒu	[[tls:concept:SAFEGUARD::#uuid-a942e8ff-221a-4ec7-8bca-985265111857][SAFEGUARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / keep to and ensure that one does not lose; hold in reserve
+** 富貴而驕	having wealth and honour and then being proud,
+:PROPERTIES:
+:SRC: LAO 9.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_009:1a07:50::富貴 / 老子
+:CHARPOS: 50
+:END:
+*** 富@fù
+:PROPERTIES:
+:CONCEPT: uuid-e8a0dd8b-250e-461c-b9b1-54adeccfbbbd / RICH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 50
+:END:
+富@fù	[[tls:concept:RICH::#uuid-e8a0dd8b-250e-461c-b9b1-54adeccfbbbd][RICH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / (of a clan etc) be wealthy
+*** 貴@guì
+:PROPERTIES:
+:CONCEPT: uuid-2f2ea2ee-d668-4a72-ae9d-1d782b9af3b4 / NOBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 51
+:END:
+貴@guì	[[tls:concept:NOBLE::#uuid-2f2ea2ee-d668-4a72-ae9d-1d782b9af3b4][NOBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be noble; enjoy high status; hold a high position 最為貴,最貴,至貴
+*** 驕@jiāo
+:PROPERTIES:
+:CONCEPT: uuid-c9e3e62f-c7f2-42f1-892e-27939ee8a3c7 / ARROGANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+驕@jiāo	[[tls:concept:ARROGANT::#uuid-c9e3e62f-c7f2-42f1-892e-27939ee8a3c7][ARROGANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / be arrogant in behaviour, be overconfident
+** 自遺其咎	oneself brings disaster on oneself, see LC 2050
+:PROPERTIES:
+:SRC: LAO 9.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_009:1a08:50::自遺 / 老子
+:CHARPOS: 50
+:END:
+*** 遺@wèi
+:PROPERTIES:
+:CONCEPT: uuid-fa4365f5-6b8e-4222-9b82-474dcb1373ec / SEND
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:SEM-FEAT: uuid-92ae8363-92d9-4b96-80a4-b07bc6788113
+:CHARPOS: 51
+:END:
+遺@wèi	[[tls:concept:SEND::#uuid-fa4365f5-6b8e-4222-9b82-474dcb1373ec][SEND]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] {[[tls:sem-feat::#uuid-92ae8363-92d9-4b96-80a4-b07bc6788113][reflexive.自]]} / send (oneself) N2, bring upon (oneself) N2
+*** 咎@jiù
+:PROPERTIES:
+:CONCEPT: uuid-7dab8bbe-f850-4f98-b952-3cfff6bee02f / DISASTER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 53
+:END:
+咎@jiù	[[tls:concept:DISASTER::#uuid-7dab8bbe-f850-4f98-b952-3cfff6bee02f][DISASTER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / (deserved) bad fortune; (deserved) disaster; (deserved) calamity
+** 功遂身退	When the work is achieved to withdraw (the person:) oneself,
+:PROPERTIES:
+:SRC: LAO 9.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_009:1a09:50::功遂 / 老子
+:CHARPOS: 50
+:END:
+*** 遂@suì
+:PROPERTIES:
+:CONCEPT: uuid-82706c37-05f5-491a-a955-d9817b067f26 / ACHIEVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 51
+:END:
+遂@suì	[[tls:concept:ACHIEVE::#uuid-82706c37-05f5-491a-a955-d9817b067f26][ACHIEVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be achieved; be accomplished 可遂
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-dbf27e25-044b-4288-ae44-c2280c322ac1 / SELF
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:CHARPOS: 52
+:END:
+身@shēn	[[tls:concept:SELF::#uuid-dbf27e25-044b-4288-ae44-c2280c322ac1][SELF]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] / contrastive: himself; oneself; the person him/herself (also: 身雖無能)
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-45eb6e74-7da4-457f-a4b9-5b16e1e6dc1e / PERSONALLY
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:CHARPOS: 52
+:END:
+身@shēn	[[tls:concept:PERSONALLY::#uuid-45eb6e74-7da4-457f-a4b9-5b16e1e6dc1e][PERSONALLY]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] / in person, himself
+*** 退@tuì
+:PROPERTIES:
+:CONCEPT: uuid-0347d22a-1665-4b77-a718-a127c0b08044 / WITHDRAW
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 53
+:END:
+退@tuì	[[tls:concept:WITHDRAW::#uuid-0347d22a-1665-4b77-a718-a127c0b08044][WITHDRAW]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / move backward, (typically decide to) withdraw (usually to the point where one came from); leave, leave the room; withdraw from court; imp: out of my sight!

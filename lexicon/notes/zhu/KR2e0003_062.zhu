@@ -1,0 +1,155 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_062
+#+DATE: 2017-02-08T16:41:15+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 請謁事情	Allow me, then, to tell you how matters stand.'
+:PROPERTIES:
+:SRC: ZGC 4.4.1; tr. Crump 1979 no. 56, p 65, ed. Shanghaiguji p. 144 The ruler of the Yi-ch'ü
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_062:1a05:1::請謁 / 戰國策
+:CHARPOS: 1
+:END:
+*** 謁@yè
+:PROPERTIES:
+:CONCEPT: uuid-f7c3baf7-ea13-46fa-821f-3c1bae79c19b / REPORT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+謁@yè	[[tls:concept:REPORT::#uuid-f7c3baf7-ea13-46fa-821f-3c1bae79c19b][REPORT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / transmit (a message), announce; report
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-c5597df9-ec49-458c-b88b-de11a4f04feb / SITUATION
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 3
+:END:
+事@shì	[[tls:concept:SITUATION::#uuid-c5597df9-ec49-458c-b88b-de11a4f04feb][SITUATION]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / situation, what is really going on; developments
+*** 情@qíng
+:PROPERTIES:
+:CONCEPT: uuid-4f2112cc-582f-4746-9ba4-8b75dda8e78e / REALITY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 4
+:END:
+情@qíng	[[tls:concept:REALITY::#uuid-4f2112cc-582f-4746-9ba4-8b75dda8e78e][REALITY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / real facts of a matter, real state of affairs; real facts of a case
+** 蠻夷之賢君	is a worthy ruler among the barbarians;
+:PROPERTIES:
+:SRC: ZGC 4.4.2; tr. Crump 1979 no. 56, p 65, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_062:2a05:1::蠻夷 / 戰國策
+:CHARPOS: 1
+:END:
+*** 蠻夷@mányí
+:PROPERTIES:
+:CONCEPT: uuid-fa381d57-6e62-4680-a3c0-4aec549630c7 / BARBARIAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+蠻夷@mányí	[[tls:concept:BARBARIAN::#uuid-fa381d57-6e62-4680-a3c0-4aec549630c7][BARBARIAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / barbarians
+*** 賢@xián
+:PROPERTIES:
+:CONCEPT: uuid-d5038d57-c7d7-495e-af5f-afbc6ac675b3 / EXCELLENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 4
+:END:
+賢@xián	[[tls:concept:EXCELLENT::#uuid-d5038d57-c7d7-495e-af5f-afbc6ac675b3][EXCELLENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / excellent
+** 王不如賂之以撫其心	your majesty should bribe him to mollify him.'
+:PROPERTIES:
+:SRC: ZGC 4.4.2; tr. Crump 1979 no. 56, p 65, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_062:2a06:50::王不 / 戰國策
+:CHARPOS: 50
+:END:
+*** 賂@lù
+:PROPERTIES:
+:CONCEPT: uuid-f92e8b59-b4cd-4ebb-aafb-e31dcdec373a / BRIBE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+賂@lù	[[tls:concept:BRIBE::#uuid-f92e8b59-b4cd-4ebb-aafb-e31dcdec373a][BRIBE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / bribe; bribe (e.g. yǐ 以 "with" precious objects, workers, or fine horses); give bribes to
+*** 撫@fǔ
+:PROPERTIES:
+:CONCEPT: uuid-acfb48d7-983c-4ba1-ba09-484bbdc84a4d / CONSOLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 56
+:END:
+撫@fǔ	[[tls:concept:CONSOLE::#uuid-acfb48d7-983c-4ba1-ba09-484bbdc84a4d][CONSOLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / pacify, console
+** 遺義渠君	to the ruler of the Yi-ch'y.
+:PROPERTIES:
+:SRC: ZGC 4.4.2; tr. Crump 1979 no. 56, p 65, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_062:2a11:1::遺義 / 戰國策
+:CHARPOS: 1
+:END:
+*** 遺@wèi
+:PROPERTIES:
+:CONCEPT: uuid-37df03f8-0a89-4423-88cb-613c9ce269ad / GIVE
+:SYN-FUNC: uuid-cbb92823-4092-4552-8cbd-4883113a5422
+:CHARPOS: 1
+:END:
+遺@wèi	[[tls:concept:GIVE::#uuid-37df03f8-0a89-4423-88cb-613c9ce269ad][GIVE]]	V [[tls:syn-func::#uuid-cbb92823-4092-4552-8cbd-4883113a5422][vttoN1+.vtoN2]] / give (something) to (someone)
+** 義渠君致群臣而謀曰	Yi-ch'y in turn called together his ministers and gave them his plan.
+:PROPERTIES:
+:SRC: ZGC 4.4.3; tr. Crump 1979 no. 56, p 65, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_062:3a01:1::義渠 / 戰國策
+:CHARPOS: 1
+:END:
+*** 致@zhì
+:PROPERTIES:
+:CONCEPT: uuid-de6f3733-0066-4e75-a6ef-5806c14fce12 / SUMMON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 4
+:END:
+致@zhì	[[tls:concept:SUMMON::#uuid-de6f3733-0066-4e75-a6ef-5806c14fce12][SUMMON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / CAUSE TO COME> cause to come; cause to rally; summon
+** 此乃公孫衍之所謂也	'This is what Kung-sun Yen spoke of, he said,
+:PROPERTIES:
+:SRC: ZGC 4.4.3; tr. Crump 1979 no. 56, p 65, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_062:3a02:50::「此 / 戰國策
+:CHARPOS: 50
+:END:
+*** 謂@wèi
+:PROPERTIES:
+:CONCEPT: uuid-d58b6f2b-d4c5-46a6-9ac0-89c87231c787 / MEAN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 57
+:END:
+謂@wèi	[[tls:concept:MEAN::#uuid-d58b6f2b-d4c5-46a6-9ac0-89c87231c787][MEAN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / refer to; apply to; (of a person or a text) mean [We need to separate out the cases where the word refers to an action, that of referring to something, meaning something, having something in mind", and the stative meaning as in "this word X means/refers to Y".]
+** 因起兵襲秦	and raising his troops he attacked Ch'in
+:PROPERTIES:
+:SRC: ZGC 4.4.3; tr. Crump 1979 no. 56, p 65, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_062:3a03:50::因起 / 戰國策
+:CHARPOS: 50
+:END:
+*** 起@qǐ
+:PROPERTIES:
+:CONCEPT: uuid-375549e6-7a06-4fca-9bd4-c66c12be4048 / MOBILISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+起@qǐ	[[tls:concept:MOBILISE::#uuid-375549e6-7a06-4fca-9bd4-c66c12be4048][MOBILISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / raise (an army); mobilise (the people); bring about (an uprising)
+*** 襲@xí
+:PROPERTIES:
+:CONCEPT: uuid-7219a556-fdd3-4cb7-969d-473f477c7d22 / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+襲@xí	[[tls:concept:ATTACK::#uuid-7219a556-fdd3-4cb7-969d-473f477c7d22][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lauch a surprise invasion, launch a surprise attack; launch a stealthy attack
+** 大敗秦人於李帛之下	and heavily defeated her below Li-mien.
+:PROPERTIES:
+:SRC: ZGC 4.4.3; tr. Crump 1979 no. 56, p 65, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_062:3a03:50::大敗 / 戰國策
+:CHARPOS: 50
+:END:
+*** 敗@bài
+:PROPERTIES:
+:CONCEPT: uuid-cd4209dd-e516-4273-b1cf-b56cec8150fc / DEFEAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+敗@bài	[[tls:concept:DEFEAT::#uuid-cd4209dd-e516-4273-b1cf-b56cec8150fc][DEFEAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / read praads: inflict defeat on

@@ -1,0 +1,288 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 論衡 KR3j0080_060
+#+DATE: 2017-02-08T16:43:35+0900
+#+PROPERTY: COMMIT 4527326cad354527d529ce18236a9771ae63de14
+** 上書於國	When submitting a document to the State Authorities
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_060:9a20:5::上書 / 論衡
+:CHARPOS: 5
+:END:
+*** 上@shàng
+:PROPERTIES:
+:CONCEPT: uuid-e1ac634b-4c9c-43a7-b7b2-1ad18840584b / HAND UP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+上@shàng	[[tls:concept:HAND UP::#uuid-e1ac634b-4c9c-43a7-b7b2-1ad18840584b][HAND UP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / submit
+*** 書@shū
+:PROPERTIES:
+:CONCEPT: uuid-b74ac6db-5193-4245-af40-24c6e65f5075 / DOCUMENT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+書@shū	[[tls:concept:DOCUMENT::#uuid-b74ac6db-5193-4245-af40-24c6e65f5075][DOCUMENT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / writings; written document of any kind; often specifically: official document; book; stationary
+** 奏記於郡	and when submitting a report to the Provincial Authorities
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_060:9a21:50::奏記 / 論衡
+:CHARPOS: 50
+:END:
+*** 記@jì
+:PROPERTIES:
+:CONCEPT: uuid-80ab41cb-7652-4266-9a44-bf169216580f / DOCUMENT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+記@jì	[[tls:concept:DOCUMENT::#uuid-80ab41cb-7652-4266-9a44-bf169216580f][DOCUMENT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (that which is recorded>) a record; ordered record to aid memory; a written notice
+*** 奏@zòu
+:PROPERTIES:
+:CONCEPT: uuid-0284088c-a2e4-4ad8-841f-02fa70544167 / HAND UP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+奏@zòu	[[tls:concept:HAND UP::#uuid-0284088c-a2e4-4ad8-841f-02fa70544167][HAND UP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / submit (text or memorial) formally to the highest authorities; submit to the emperor
+*** 郡@jùn
+:PROPERTIES:
+:CONCEPT: uuid-91f1db35-3984-41d3-ba19-3442801189c2 / REGION
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+郡@jùn	[[tls:concept:REGION::#uuid-91f1db35-3984-41d3-ba19-3442801189c2][REGION]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / province as instituted by the Qín
+** 譽薦士吏	one recommends minor officials,
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_060:9a22:50::譽薦 / 論衡
+:CHARPOS: 50
+:END:
+*** 譽薦@yùjiàn
+:PROPERTIES:
+:CONCEPT: uuid-cd741d4b-fd59-4166-9000-ab4aa0e5bd20 / RECOMMEND
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 50
+:END:
+譽薦@yùjiàn	[[tls:concept:RECOMMEND::#uuid-cd741d4b-fd59-4166-9000-ab4aa0e5bd20][RECOMMEND]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / LH: recommend
+*** 士吏@shìlì
+:PROPERTIES:
+:CONCEPT: uuid-8694b159-53ce-482a-a19c-48f81d7f4737 / OFFICIAL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+士吏@shìlì	[[tls:concept:OFFICIAL::#uuid-8694b159-53ce-482a-a19c-48f81d7f4737][OFFICIAL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / officials
+** 稱術行能	and praises (professional or moral) conduct and qualifications
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_060:9a23:50::稱術 / 論衡
+:CHARPOS: 50
+:END:
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-71ac6108-1a66-4c9c-82c1-f9e790fbbf5d / ACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-71ac6108-1a66-4c9c-82c1-f9e790fbbf5d][ACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / proper conduct, moral behaviour; ideal of behaviour; proper conduct
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-0846d8fa-b414-4ab9-8f66-3ad7236ea6fc / ABLE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:SEM-FEAT: uuid-4693e72c-79c4-49f4-a4d9-a4e23dc8805e
+:CHARPOS: 53
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-0846d8fa-b414-4ab9-8f66-3ad7236ea6fc][ABLE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] {[[tls:sem-feat::#uuid-4693e72c-79c4-49f4-a4d9-a4e23dc8805e][temporary]]} / be (temporarily) able to
+*** 稱述@chēngshù
+:PROPERTIES:
+:CONCEPT: uuid-296a4ac4-7af0-472c-8266-b9302cfb0056 / PRAISE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 50
+:END:
+稱述@chēngshù	[[tls:concept:PRAISE::#uuid-296a4ac4-7af0-472c-8266-b9302cfb0056][PRAISE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / praise
+** 章下記出	when official pronouncements are promulgated and reports are issued,
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_060:9a24:50::章下 / 論衡
+:CHARPOS: 50
+:END:
+*** 章@zhāng
+:PROPERTIES:
+:CONCEPT: uuid-c0ae3305-3ac1-445c-9f7b-fe2360d66910 / DOCUMENT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+章@zhāng	[[tls:concept:DOCUMENT::#uuid-c0ae3305-3ac1-445c-9f7b-fe2360d66910][DOCUMENT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / officially sanctioned (and stamped?) document
+*** 下@xià
+:PROPERTIES:
+:CONCEPT: uuid-8e404cf3-7464-431e-a316-f0ab7a0d0d4b / SEND DOWN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 51
+:END:
+下@xià	[[tls:concept:SEND DOWN::#uuid-8e404cf3-7464-431e-a316-f0ab7a0d0d4b][SEND DOWN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be issued, be promulgated
+*** 記@jì
+:PROPERTIES:
+:CONCEPT: uuid-80ab41cb-7652-4266-9a44-bf169216580f / DOCUMENT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+記@jì	[[tls:concept:DOCUMENT::#uuid-80ab41cb-7652-4266-9a44-bf169216580f][DOCUMENT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (that which is recorded>) a record; ordered record to aid memory; a written notice
+*** 出@chū
+:PROPERTIES:
+:CONCEPT: uuid-39dfed9c-4cde-43d5-88cb-550c3e8b5568 / ISSUE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 53
+:END:
+出@chū	[[tls:concept:ISSUE::#uuid-39dfed9c-4cde-43d5-88cb-550c3e8b5568][ISSUE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / be sent out, get sent out
+** 士吏賢妙	then minor officials will turn out talented and outstanding.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_060:9a25:50::士吏 / 論衡
+:CHARPOS: 50
+:END:
+*** 士吏@shìlì
+:PROPERTIES:
+:CONCEPT: uuid-8694b159-53ce-482a-a19c-48f81d7f4737 / OFFICIAL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+士吏@shìlì	[[tls:concept:OFFICIAL::#uuid-8694b159-53ce-482a-a19c-48f81d7f4737][OFFICIAL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / officials
+*** 妙@miào
+:PROPERTIES:
+:CONCEPT: uuid-64cd8f38-8f09-47a6-b5af-b83cb6dad7d2 / EXCELLENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 53
+:END:
+妙@miào	[[tls:concept:EXCELLENT::#uuid-64cd8f38-8f09-47a6-b5af-b83cb6dad7d2][EXCELLENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be outstanding
+** 何則	Why is this?
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_060:9a26:50::何則 / 論衡
+:CHARPOS: 50
+:END:
+*** 何則@hézé
+:PROPERTIES:
+:CONCEPT: uuid-8ab61eef-5cdf-4ee3-af50-356153cebbc5 / WHY
+:SYN-FUNC: uuid-bca11f6d-5883-404f-8931-ca1b70d420a6
+:CHARPOS: 50
+:END:
+何則@hézé	[[tls:concept:WHY::#uuid-8ab61eef-5cdf-4ee3-af50-356153cebbc5][WHY]]	P [[tls:syn-func::#uuid-bca11f6d-5883-404f-8931-ca1b70d420a6][PPpostS]] / Why is this?
+** 章表其行	It is because the formal documents make public their proper conduct
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_060:9a27:50::章表 / 論衡
+:CHARPOS: 50
+:END:
+*** 表@biǎo
+:PROPERTIES:
+:CONCEPT: uuid-5db4a1d0-667e-42b9-8070-da4a5f167d93 / SHOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+表@biǎo	[[tls:concept:SHOW::#uuid-5db4a1d0-667e-42b9-8070-da4a5f167d93][SHOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / make public, make widely known, advertise openly; mark out
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-71ac6108-1a66-4c9c-82c1-f9e790fbbf5d / ACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-71ac6108-1a66-4c9c-82c1-f9e790fbbf5d][ACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / proper conduct, moral behaviour; ideal of behaviour; proper conduct
+** 記明其才也	and because the records commend their talent.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_060:9a28:50::記明 / 論衡
+:CHARPOS: 50
+:END:
+*** 明@míng
+:PROPERTIES:
+:CONCEPT: uuid-6d8a9af6-bf85-4f70-ba38-d60138c5e295 / SHOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+明@míng	[[tls:concept:SHOW::#uuid-6d8a9af6-bf85-4f70-ba38-d60138c5e295][SHOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / show up, make clear; show up in a positive light, show up the virtues of
+*** 才@cái / 材@cái
+:PROPERTIES:
+:CONCEPT: uuid-93714ceb-987b-4544-807c-718f8017b360 / TALENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 53
+:END:
+才@cái / 材@cái	[[tls:concept:TALENT::#uuid-93714ceb-987b-4544-807c-718f8017b360][TALENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / promising faculties, promising talents
+** 莫有宣褒	and no one will (need to) promote or praise it
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_060:9a30:1::莫有 / 論衡
+:CHARPOS: 1
+:END:
+*** 宣褒@xuānbāo
+:PROPERTIES:
+:CONCEPT: uuid-a2a48985-6091-445f-9b4d-f109cb24f2b6 / PRAISE
+:SYN-FUNC: uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d
+:CHARPOS: 3
+:END:
+宣褒@xuānbāo	[[tls:concept:PRAISE::#uuid-a2a48985-6091-445f-9b4d-f109cb24f2b6][PRAISE]]	V [[tls:syn-func::#uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d][VPt(oN)]] / heap public praise on
+** 使聖國大漢有庸庸之名	which would bring it about that the Holy State of our Great Hàn has a highly mediocre reputation.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_060:9a31:50::使聖 / 論衡
+:CHARPOS: 50
+:END:
+*** 聖國@shèngguó
+:PROPERTIES:
+:CONCEPT: uuid-5d539cb6-9266-4f20-8e0c-c353385a883d / CHINA
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 51
+:END:
+聖國@shèngguó	[[tls:concept:CHINA::#uuid-5d539cb6-9266-4f20-8e0c-c353385a883d][CHINA]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / the "Holy" Country
+*** 大漢@dàhàn
+:PROPERTIES:
+:CONCEPT: uuid-0b3ed1d6-9125-4a62-8fc7-0216d4cbcd0c / CHINA
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 53
+:END:
+大漢@dàhàn	[[tls:concept:CHINA::#uuid-0b3ed1d6-9125-4a62-8fc7-0216d4cbcd0c][CHINA]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / China (during Han dynasty AND AFTERWARDS)
+** 咎在俗儒不實論也	The fault is in the fact that vulgar scholars do not cultivate a discourse based on realities.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_060:9a32:50::咎在 / 論衡
+:CHARPOS: 50
+:END:
+*** 咎@jiù
+:PROPERTIES:
+:CONCEPT: uuid-9081ba23-1360-4776-aa30-20ec69a0f32f / CRIME
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+咎@jiù	[[tls:concept:CRIME::#uuid-9081ba23-1360-4776-aa30-20ec69a0f32f][CRIME]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / fault, moral responsibility for an unfortunate state of affairs
+** 古今聖王不絕	If in ancient and modern times there had been an uninterrupted series of Sage Kings
+:PROPERTIES:
+:SRC: LH 885
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_060:10a01:1::古今 / 論衡
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-13edc240-b5f7-45b5-bcab-8a830a825085 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-13edc240-b5f7-45b5-bcab-8a830a825085][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the sage king (with untensed predicate)

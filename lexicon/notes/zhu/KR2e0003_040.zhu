@@ -1,0 +1,154 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_040
+#+DATE: 2017-02-08T16:41:11+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 韓魏易地	Han and Wei exchanged territories
+:PROPERTIES:
+:SRC: ZGC 2.12.1; tr. Crump 1979 no.9, p. 29, ed. Shanghaiguji p. 66 A dangerous exchange of territories is prevented
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_040:1a01:50::韓、 / 戰國策
+:CHARPOS: 50
+:END:
+*** 易@yì
+:PROPERTIES:
+:CONCEPT: uuid-0d632a12-22af-4c59-9fe7-81ff3f60454d / EXCHANGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+易@yì	[[tls:concept:EXCHANGE::#uuid-0d632a12-22af-4c59-9fe7-81ff3f60454d][EXCHANGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to exchange one thing for another, swap; possibly with the underlying implication that there are only two possibilities in question
+** 西周弗利	and West Chou did not gain by it.
+:PROPERTIES:
+:SRC: ZGC 2.12.1; tr. Crump 1979 no.9, p. 29, ed. Shanghaiguji p. 66 A dangerous exchange of territories is prevented
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_040:1a03:50::西周 / 戰國策
+:CHARPOS: 50
+:END:
+*** 弗@fú
+:PROPERTIES:
+:CONCEPT: uuid-d0ca0a35-62b1-41dc-8574-399ac4ed9fb5 / NOT
+:SYN-FUNC: uuid-c1df882b-f314-4c7e-bf6d-fac302c88017
+:SEM-FEAT: uuid-1e7c0f54-9909-4265-b68b-c4b8f3a6d9b7
+:CHARPOS: 52
+:END:
+弗@fú	[[tls:concept:NOT::#uuid-d0ca0a35-62b1-41dc-8574-399ac4ed9fb5][NOT]]	V [[tls:syn-func::#uuid-c1df882b-f314-4c7e-bf6d-fac302c88017][vt{NEG}+.Vt(oN)]] {[[tls:sem-feat::#uuid-1e7c0f54-9909-4265-b68b-c4b8f3a6d9b7][unable]]} / could not, cannot, fail to; be unable to
+** 韓得二縣	Han gains two districts
+:PROPERTIES:
+:SRC: ZGC 2.12.1; tr. Crump 1979 no.9, p. 29, ed. Shanghaiguji p. 66 A dangerous exchange of territories is prevented
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_040:1a07:1::韓得 / 戰國策
+:CHARPOS: 1
+:END:
+*** 縣@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-18a06524-3324-4bc6-8bd1-f9a1878eaa9d / REGION
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+縣@xiàn	[[tls:concept:REGION::#uuid-18a06524-3324-4bc6-8bd1-f9a1878eaa9d][REGION]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / administrative district
+** 魏亡二縣	and Wei loses two.68
+:PROPERTIES:
+:SRC: ZGC 2.12.1; tr. Crump 1979 no.9, p. 29, ed. Shanghaiguji p. 66 A dangerous exchange of territories is prevented
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_040:1a08:50::魏亡 / 戰國策
+:CHARPOS: 50
+:END:
+*** 亡@wáng
+:PROPERTIES:
+:CONCEPT: uuid-ada4f0c1-a447-456f-a756-0090427daa7e / LOSE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+亡@wáng	[[tls:concept:LOSE::#uuid-ada4f0c1-a447-456f-a756-0090427daa7e][LOSE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lose (e.g. a fingernail); ZGC: have run away from one, lose from one's herd (a goat)
+*** 縣@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-18a06524-3324-4bc6-8bd1-f9a1878eaa9d / REGION
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+縣@xiàn	[[tls:concept:REGION::#uuid-18a06524-3324-4bc6-8bd1-f9a1878eaa9d][REGION]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / administrative district
+** 盡包二周	is to encircle the two Chou.
+:PROPERTIES:
+:SRC: ZGC 2.12.1; tr. Crump 1979 no.9, p. 29, ed. Shanghaiguji p. 66 A dangerous exchange of territories is prevented
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_040:1a10:1::盡包 / 戰國策
+:CHARPOS: 1
+:END:
+*** 包@bāo
+:PROPERTIES:
+:CONCEPT: uuid-ad23e0b7-8f9f-401b-8268-923feb2adb28 / SURROUND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+包@bāo	[[tls:concept:SURROUND::#uuid-ad23e0b7-8f9f-401b-8268-923feb2adb28][SURROUND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / surround, encircle so as to attack
+** 且魏有南陽鄭地三川而包二周	When Wei holds Nan-yang, the lands of Cheng, and Three Rivers, thus encircling Chou,
+:PROPERTIES:
+:SRC: ZGC 2.12.2; tr. Crump 1979 no.9, p. 29, ed. Shanghaiguji p. 66
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_040:1a13:1::且魏 / 戰國策
+:CHARPOS: 1
+:END:
+*** 包@bāo
+:PROPERTIES:
+:CONCEPT: uuid-ad23e0b7-8f9f-401b-8268-923feb2adb28 / SURROUND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 11
+:END:
+包@bāo	[[tls:concept:SURROUND::#uuid-ad23e0b7-8f9f-401b-8268-923feb2adb28][SURROUND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / surround, encircle so as to attack
+** 則楚方城之外危	then Ch'u's holdings beyond Fang-ch'eng Mountain will be in peril.
+:PROPERTIES:
+:SRC: ZGC 2.12.2; tr. Crump 1979 no.9, p. 29, ed. Shanghaiguji p. 66
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_040:1a14:50::則楚 / 戰國策
+:CHARPOS: 50
+:END:
+*** 危@wēi
+:PROPERTIES:
+:CONCEPT: uuid-79f9bcee-10de-4900-991b-41da3b6e456e / DANGER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 56
+:END:
+危@wēi	[[tls:concept:DANGER::#uuid-79f9bcee-10de-4900-991b-41da3b6e456e][DANGER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be in a precarious state; be fraught with danger, be doomed to imminent disaster; be endangered; to risk danger
+** 即趙羊腸以上危	the area above Sheepgut Canyons in Chao will be in danger.
+:PROPERTIES:
+:SRC: ZGC 2.12.2; tr. Crump 1979 no.9, p. 29, ed. Shanghaiguji p. 66
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_040:1a16:1::即趙 / 戰國策
+:CHARPOS: 1
+:END:
+*** 危@wēi
+:PROPERTIES:
+:CONCEPT: uuid-79f9bcee-10de-4900-991b-41da3b6e456e / DANGER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 7
+:END:
+危@wēi	[[tls:concept:DANGER::#uuid-79f9bcee-10de-4900-991b-41da3b6e456e][DANGER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be in a precarious state; be fraught with danger, be doomed to imminent disaster; be endangered; to risk danger
+** 楚趙皆輕	Ch'u and Chao will become unimportant.'
+:PROPERTIES:
+:SRC: ZGC 2.12.2; tr. Crump 1979 no.9, p. 29, ed. Shanghaiguji p. 66
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_040:1a18:1::楚、 / 戰國策
+:CHARPOS: 1
+:END:
+*** 輕@qìng / 輕@qīng
+:PROPERTIES:
+:CONCEPT: uuid-cb8872e3-f1e8-47db-b6e2-efddc9359035 / WEAK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 4
+:END:
+輕@qìng / 輕@qīng	[[tls:concept:WEAK::#uuid-cb8872e3-f1e8-47db-b6e2-efddc9359035][WEAK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become weaker, we weakened
+** 因趙以止易也	and joined Chao in halting the exchange.
+:PROPERTIES:
+:SRC: ZGC 2.12.2; tr. Crump 1979 no.9, p. 29, ed. Shanghaiguji p. 66
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_040:1a19:1::因趙 / 戰國策
+:CHARPOS: 1
+:END:
+*** 止@zhǐ
+:PROPERTIES:
+:CONCEPT: uuid-ecf800df-b9f0-4e13-b027-1d9b0919ae34 / STOP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 4
+:END:
+止@zhǐ	[[tls:concept:STOP::#uuid-ecf800df-b9f0-4e13-b027-1d9b0919ae34][STOP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to stop; put a stop to

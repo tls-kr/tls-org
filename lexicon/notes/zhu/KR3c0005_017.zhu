@@ -1,0 +1,2965 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 韓非子 KR3c0005_017
+#+DATE: 2017-02-08T16:42:22+0900
+#+PROPERTY: COMMIT 552e5d7e1af1b01207e4ed2bbb3c34cb2afb733e
+** 人主之患在於信人	Disaster for the ruler comes from placing one's faith in others. 
+:PROPERTIES:
+:SRC: HF 17.01:01; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a01:50::人主 / 韓非子
+:CHARPOS: 50
+:END:
+*** 人主@rénzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-bec927f5-0304-4575-b245-7634a2099a95 / RULER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+人主@rénzhǔ	[[tls:concept:RULER::#uuid-bec927f5-0304-4575-b245-7634a2099a95][RULER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a ruler of men in general
+*** 患@huàn
+:PROPERTIES:
+:CONCEPT: uuid-39eae0f6-7f95-45e6-a52d-22c45da0ca38 / DISASTER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 53
+:END:
+患@huàn	[[tls:concept:DISASTER::#uuid-39eae0f6-7f95-45e6-a52d-22c45da0ca38][DISASTER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / serious trouble, misfortune; resulting trouble (from one's actions) 三患"three kinds of disaster"
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-93053bd5-398f-4809-b4d0-5fffd662e77a / TRUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 56
+:END:
+信@xìn	[[tls:concept:TRUST::#uuid-93053bd5-398f-4809-b4d0-5fffd662e77a][TRUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / have or show trust in (someone or something)
+** 則制於人	then one will be controlled by those others. 
+:PROPERTIES:
+:SRC: HF 17.01:01; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a03:1::則制 / 韓非子
+:CHARPOS: 1
+:END:
+*** 制@zhì
+:PROPERTIES:
+:CONCEPT: uuid-f2b5086b-6fb3-4e8a-bd0a-18787f8fd672 / CONTROL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 2
+:END:
+制@zhì	[[tls:concept:CONTROL::#uuid-f2b5086b-6fb3-4e8a-bd0a-18787f8fd672][CONTROL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be controlled by 制於
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-89268135-86d0-420c-a072-25ac47bf1872 / PASSIVE MARKER
+:SYN-FUNC: uuid-ebbe28ed-bdcc-468c-bc28-51ba2a7f215b
+:CHARPOS: 3
+:END:
+於@yú	[[tls:concept:PASSIVE MARKER::#uuid-89268135-86d0-420c-a072-25ac47bf1872][PASSIVE MARKER]]	V [[tls:syn-func::#uuid-ebbe28ed-bdcc-468c-bc28-51ba2a7f215b][vt{0}oN.postadV{PASS}]] / passivising particle: "by" 殺於人 "literally: was killed (the killing) being from/by someone else> be killed by someone else"
+** 人臣之於其君	The relation of a minister to his ruler 
+:PROPERTIES:
+:SRC: HF 17.01:01; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a04:50::人臣 / 韓非子
+:CHARPOS: 50
+:END:
+*** 人臣@rénchén
+:PROPERTIES:
+:CONCEPT: uuid-ab986d15-df1c-4213-8860-0e26918e4fa6 / MINISTER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+人臣@rénchén	[[tls:concept:MINISTER::#uuid-ab986d15-df1c-4213-8860-0e26918e4fa6][MINISTER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a minister; ministers (non-referential)
+** 非有骨肉之親也	is not as close as the one of between blood-relations: 
+:PROPERTIES:
+:SRC: HF 17.01:01; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a05:50::非有 / 韓非子
+:CHARPOS: 50
+:END:
+*** 骨肉@gǔròu
+:PROPERTIES:
+:CONCEPT: uuid-c5fa44ab-88bc-49d2-84ee-d9d2574bec4e / RELATIVES
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 52
+:END:
+骨肉@gǔròu	[[tls:concept:RELATIVES::#uuid-c5fa44ab-88bc-49d2-84ee-d9d2574bec4e][RELATIVES]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / kinship (relations), (closeness) of relatives
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-ca59d76b-ced5-476a-83c1-810c2601a46c / INTIMATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 55
+:END:
+親@qīn	[[tls:concept:INTIMATE::#uuid-ca59d76b-ced5-476a-83c1-810c2601a46c][INTIMATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / proper intimacy of social relations; close and intimate relations; closeness of a relationship
+** 縛於勢而不得不事也	one is tied by a constellation of power and cannot but serve the ruler. 
+:PROPERTIES:
+:SRC: HF 17.01:01; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a06:50::縛於 / 韓非子
+:CHARPOS: 50
+:END:
+*** 縛@fù
+:PROPERTIES:
+:CONCEPT: uuid-bc3bcef5-87c8-46dc-a798-de318d10144e / BIND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 50
+:END:
+縛@fù	[[tls:concept:BIND::#uuid-bc3bcef5-87c8-46dc-a798-de318d10144e][BIND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be put in fetters by; be tied up by
+*** 勢@shì
+:PROPERTIES:
+:CONCEPT: uuid-588e5630-5f92-4c93-b544-72075e714dc4 / SITUATION
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+勢@shì	[[tls:concept:SITUATION::#uuid-588e5630-5f92-4c93-b544-72075e714dc4][SITUATION]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / constellation of power; propensity of things; natural tendency; strategic constellation or structure
+*** 不得不@bùdébù
+:PROPERTIES:
+:CONCEPT: uuid-569b9476-f1e3-4530-bddc-9c68c56a347f / CERTAIN
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 54
+:END:
+不得不@bùdébù	[[tls:concept:CERTAIN::#uuid-569b9476-f1e3-4530-bddc-9c68c56a347f][CERTAIN]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / will certainly; willy nilly have to; inevitably will; certainly would have
+** 故為人臣者	Therefore a minister 
+:PROPERTIES:
+:SRC: HF 17.01:02; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a07:50::故為 / 韓非子
+:CHARPOS: 50
+:END:
+*** 為人臣者@wéirénchénzhě
+:PROPERTIES:
+:CONCEPT: uuid-6756bbd0-8095-425d-bf1b-bff2e051e0e0 / MINISTER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+為人臣者@wéirénchénzhě	[[tls:concept:MINISTER::#uuid-6756bbd0-8095-425d-bf1b-bff2e051e0e0][MINISTER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a minister
+** 窺覘其君心也無須臾之休	will not for a moment cease to observe his ruler's attitudes, 
+:PROPERTIES:
+:SRC: HF 17.01:02; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a08:50::窺覘 / 韓非子
+:CHARPOS: 50
+:END:
+*** 〓#闚@kuī
+:PROPERTIES:
+:CONCEPT: uuid-7e6547ec-25d5-4812-ac8c-288cb4df4291 / PEEP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+〓#闚@kuī	[[tls:concept:PEEP::#uuid-7e6547ec-25d5-4812-ac8c-288cb4df4291][PEEP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / get a glimpse of; peer out; spy on; observe
+*** 窺覘@kuīchān
+:PROPERTIES:
+:CONCEPT: uuid-f80901f1-86fd-4c7f-879d-d3f766dae0fc / PEEP
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 50
+:END:
+窺覘@kuīchān	[[tls:concept:PEEP::#uuid-f80901f1-86fd-4c7f-879d-d3f766dae0fc][PEEP]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / peep at, spie out
+*** 覘@chān
+:PROPERTIES:
+:CONCEPT: uuid-bb43ee61-3b6b-4f62-8d85-8bd4bd547bac / PEEP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+覘@chān	[[tls:concept:PEEP::#uuid-bb43ee61-3b6b-4f62-8d85-8bd4bd547bac][PEEP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / observe closely, but in secret
+*** 須臾@xūyú
+:PROPERTIES:
+:CONCEPT: uuid-fde2507b-9117-4add-a390-87b22121ac89 / MOMENT
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 57
+:END:
+須臾@xūyú	[[tls:concept:MOMENT::#uuid-fde2507b-9117-4add-a390-87b22121ac89][MOMENT]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / short-lived, lasting only a moment
+*** 休@xiū
+:PROPERTIES:
+:CONCEPT: uuid-8be2a783-6b70-4e2a-8927-2f47883cf723 / REST
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 60
+:END:
+休@xiū	[[tls:concept:REST::#uuid-8be2a783-6b70-4e2a-8927-2f47883cf723][REST]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / stop, rest
+** 而人主怠慠處其上	and when the ruler is lazy and arrogant on top 
+:PROPERTIES:
+:SRC: HF 17.01:02; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a09:50::而人 / 韓非子
+:CHARPOS: 50
+:END:
+*** 人主@rénzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-bec927f5-0304-4575-b245-7634a2099a95 / RULER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+人主@rénzhǔ	[[tls:concept:RULER::#uuid-bec927f5-0304-4575-b245-7634a2099a95][RULER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a ruler of men in general
+*** 上@shàng
+:PROPERTIES:
+:CONCEPT: uuid-8aefa4e5-06b3-4ffc-b598-fef0cc79e0cf / NOBLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 57
+:END:
+上@shàng	[[tls:concept:NOBLE::#uuid-8aefa4e5-06b3-4ffc-b598-fef0cc79e0cf][NOBLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / leading position; also nab.t: superior social position, higher social position
+** 此世所以有劫君	this is the reason why in our time the power of rulers is arrogated 
+:PROPERTIES:
+:SRC: HF 17.01:02; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a10:50::此世 / 韓非子
+:CHARPOS: 50
+:END:
+*** 劫@jié
+:PROPERTIES:
+:CONCEPT: uuid-5aab1b6a-e985-4181-a005-5d560d4eab1b / ARROGATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 55
+:END:
+劫@jié	[[tls:concept:ARROGATE::#uuid-5aab1b6a-e985-4181-a005-5d560d4eab1b][ARROGATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / arrogate/usurp the powers of (a ruler), wrest power from; kidnap
+** 弒主也	and why rulers are assassinated. 
+:PROPERTIES:
+:SRC: HF 17.01:02; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a10:50::弒主 / 韓非子
+:CHARPOS: 50
+:END:
+*** 弒@shì
+:PROPERTIES:
+:CONCEPT: uuid-0ef346aa-4581-479e-b095-3074061831eb / MURDER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+弒@shì	[[tls:concept:MURDER::#uuid-0ef346aa-4581-479e-b095-3074061831eb][MURDER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / assassinate (a superior), whether one's ruler, parent, or elder sibling. Sometimes incirectly through a hired assassin
+** 為人主而大信其子	If as a ruler one places too great faith in one's sons 
+:PROPERTIES:
+:SRC: HF 17.01:03; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a11:50::為人 / 韓非子
+:CHARPOS: 50
+:END:
+*** 〓#太@tài / 泰@tài
+:PROPERTIES:
+:CONCEPT: uuid-41ee5a92-3ca1-4a6a-a539-186a7e56036b / EXCESSIVE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+〓#太@tài / 泰@tài	[[tls:concept:EXCESSIVE::#uuid-41ee5a92-3ca1-4a6a-a539-186a7e56036b][EXCESSIVE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / too much; excessively
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-93053bd5-398f-4809-b4d0-5fffd662e77a / TRUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 55
+:END:
+信@xìn	[[tls:concept:TRUST::#uuid-93053bd5-398f-4809-b4d0-5fffd662e77a][TRUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / have or show trust in (someone or something)
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-a0c1bacf-8b11-4523-868d-5140c194914f / CHILD
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:SEM-FEAT: uuid-420fbe78-6b7c-49ca-8927-d60349fa4f3a
+:CHARPOS: 57
+:END:
+子@zǐ	[[tls:concept:CHILD::#uuid-a0c1bacf-8b11-4523-868d-5140c194914f][CHILD]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] {[[tls:sem-feat::#uuid-420fbe78-6b7c-49ca-8927-d60349fa4f3a][male?]]} / son
+** 則姦臣得乘於子	then wicked ministers will avail themselves of the sons 
+:PROPERTIES:
+:SRC: HF 17.01:03; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a12:50::則姦 / 韓非子
+:CHARPOS: 50
+:END:
+*** 姦@jiān
+:PROPERTIES:
+:CONCEPT: uuid-55559224-c61d-43f8-897d-0d0bbb433e9e / WICKED
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 51
+:END:
+姦@jiān	[[tls:concept:WICKED::#uuid-55559224-c61d-43f8-897d-0d0bbb433e9e][WICKED]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / wicked, depraved; morally incompetent
+*** 乘@chéng
+:PROPERTIES:
+:CONCEPT: uuid-58fde1a6-e350-4c9e-82f8-50d8f824b5fe / CONTROL
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 54
+:END:
+乘@chéng	[[tls:concept:CONTROL::#uuid-58fde1a6-e350-4c9e-82f8-50d8f824b5fe][CONTROL]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / impose control on
+** 以成其私	to achieve their private aims: 
+:PROPERTIES:
+:SRC: HF 17.01:03; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a12:50::以成 / 韓非子
+:CHARPOS: 50
+:END:
+*** 成@chéng
+:PROPERTIES:
+:CONCEPT: uuid-248a5768-0d0a-442c-89bb-3581d166e19b / ACHIEVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+成@chéng	[[tls:concept:ACHIEVE::#uuid-248a5768-0d0a-442c-89bb-3581d166e19b][ACHIEVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to achieve, to form (an alliance)
+*** 私@sī
+:PROPERTIES:
+:CONCEPT: uuid-9b86191d-dc42-4a65-aaba-fe3aba0b43ef / SELFISH
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+私@sī	[[tls:concept:SELFISH::#uuid-9b86191d-dc42-4a65-aaba-fe3aba0b43ef][SELFISH]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / pursuit of private interests, private aims; selfish purposes; private selfishness; egotism
+** 故李兌傅趙王	and so Lǐ Duì acted as tutor to the King of Zhàò 
+:PROPERTIES:
+:SRC: HF 17.01:03; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a13:50::故李 / 韓非子
+:CHARPOS: 50
+:END:
+*** 傅@fù
+:PROPERTIES:
+:CONCEPT: uuid-91084557-d1cd-44a5-94ac-d87db4ad0ef2 / TEACHER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+傅@fù	[[tls:concept:TEACHER::#uuid-91084557-d1cd-44a5-94ac-d87db4ad0ef2][TEACHER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / act as tutor for
+** 而餓主父	and starved the ruler's father to death. 
+:PROPERTIES:
+:SRC: HF 17.01:03; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a13:50::而餓 / 韓非子
+:CHARPOS: 50
+:END:
+*** 餓@è
+:PROPERTIES:
+:CONCEPT: uuid-32b15492-fa6d-4cc7-956c-59008877c3d4 / KILL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 51
+:END:
+餓@è	[[tls:concept:KILL::#uuid-32b15492-fa6d-4cc7-956c-59008877c3d4][KILL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / (cause to starve>) starve (someone); to starve (someone) to death
+** 則姦臣得乘於妻	then wicked ministers will avail themselves of the wife 
+:PROPERTIES:
+:SRC: HF 17.01:04; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a15:1::則姦 / 韓非子
+:CHARPOS: 1
+:END:
+*** 姦@jiān
+:PROPERTIES:
+:CONCEPT: uuid-55559224-c61d-43f8-897d-0d0bbb433e9e / WICKED
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 2
+:END:
+姦@jiān	[[tls:concept:WICKED::#uuid-55559224-c61d-43f8-897d-0d0bbb433e9e][WICKED]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / wicked, depraved; morally incompetent
+*** 乘@chéng
+:PROPERTIES:
+:CONCEPT: uuid-58fde1a6-e350-4c9e-82f8-50d8f824b5fe / CONTROL
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 5
+:END:
+乘@chéng	[[tls:concept:CONTROL::#uuid-58fde1a6-e350-4c9e-82f8-50d8f824b5fe][CONTROL]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / impose control on
+** 以成其私	to achieve their private aims: 
+:PROPERTIES:
+:SRC: HF 17.01:04; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a15:50::以成 / 韓非子
+:CHARPOS: 50
+:END:
+*** 私@sī
+:PROPERTIES:
+:CONCEPT: uuid-9b86191d-dc42-4a65-aaba-fe3aba0b43ef / SELFISH
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+私@sī	[[tls:concept:SELFISH::#uuid-9b86191d-dc42-4a65-aaba-fe3aba0b43ef][SELFISH]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / pursuit of private interests, private aims; selfish purposes; private selfishness; egotism
+** 故優施傅麗姬	and so Yōu Shī acted as tutor to Lìjī 
+:PROPERTIES:
+:SRC: HF 17.01:04; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a16:50::故優 / 韓非子
+:CHARPOS: 50
+:END:
+*** 傅@fù
+:PROPERTIES:
+:CONCEPT: uuid-91084557-d1cd-44a5-94ac-d87db4ad0ef2 / TEACHER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+傅@fù	[[tls:concept:TEACHER::#uuid-91084557-d1cd-44a5-94ac-d87db4ad0ef2][TEACHER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / act as tutor for
+** 殺申生而立奚齊	and he killed Shēn Shēng and established Xī Qí on the throne. 
+:PROPERTIES:
+:SRC: HF 17.01:04; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a16:50::殺申 / 韓非子
+:CHARPOS: 50
+:END:
+*** 立@lì
+:PROPERTIES:
+:CONCEPT: uuid-97bad699-f323-4ab2-851d-a9a55462b4b8 / INSTALL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+立@lì	[[tls:concept:INSTALL::#uuid-97bad699-f323-4ab2-851d-a9a55462b4b8][INSTALL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / instate, establish formally in a position (as ruler or official)
+** 夫以妻之近與子之親	Now if even in the case of close relations like a wife and a son 
+:PROPERTIES:
+:SRC: HF 17.01:05; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a17:50::夫以 / 韓非子
+:CHARPOS: 50
+:END:
+*** 近@jìn
+:PROPERTIES:
+:CONCEPT: uuid-0a371884-5239-45ae-a304-d28cd5c66094 / NEAR
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 54
+:END:
+近@jìn	[[tls:concept:NEAR::#uuid-0a371884-5239-45ae-a304-d28cd5c66094][NEAR]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / closeness of relationship
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-ca59d76b-ced5-476a-83c1-810c2601a46c / INTIMATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 58
+:END:
+親@qīn	[[tls:concept:INTIMATE::#uuid-ca59d76b-ced5-476a-83c1-810c2601a46c][INTIMATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / proper intimacy of social relations; close and intimate relations; closeness of a relationship
+** 而猶不可信	one still cannot place one's faith in people, 
+:PROPERTIES:
+:SRC: HF 17.01:05; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a18:50::而猶 / 韓非子
+:CHARPOS: 50
+:END:
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-dde9e597-66d8-4976-b9e4-ad0afe74b9c7 / TRUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 54
+:END:
+信@xìn	[[tls:concept:TRUST::#uuid-dde9e597-66d8-4976-b9e4-ad0afe74b9c7][TRUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be trusted
+** 則其餘無可信者矣	then one should put one's faith in none of the others. 
+:PROPERTIES:
+:SRC: HF 17.01:05; jiaoshi 195; jishi 289; jiaozhu 155; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:1a19:50::則其 / 韓非子
+:CHARPOS: 50
+:END:
+*** 其餘@qíyú
+:PROPERTIES:
+:CONCEPT: uuid-c8c0ab85-9833-44e8-95b0-b5dfa2668ff7 / OTHER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-2e377e0e-02e8-437f-86ce-f041186bc7aa
+:CHARPOS: 51
+:END:
+其餘@qíyú	[[tls:concept:OTHER::#uuid-c8c0ab85-9833-44e8-95b0-b5dfa2668ff7][OTHER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-2e377e0e-02e8-437f-86ce-f041186bc7aa][human]]} / the others
+*** 餘@yú
+:PROPERTIES:
+:CONCEPT: uuid-09b835ae-1252-4ee6-84b8-5644a6024bef / OTHER
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:CHARPOS: 52
+:END:
+餘@yú	[[tls:concept:OTHER::#uuid-09b835ae-1252-4ee6-84b8-5644a6024bef][OTHER]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] / others, other things
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-dde9e597-66d8-4976-b9e4-ad0afe74b9c7 / TRUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 55
+:END:
+信@xìn	[[tls:concept:TRUST::#uuid-dde9e597-66d8-4976-b9e4-ad0afe74b9c7][TRUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be trusted
+** 且萬乘之主	Moreover, in the case of a ruler with ten thousand war chariots 
+:PROPERTIES:
+:SRC: HF 17.02:01; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a01:50::且萬 / 韓非子
+:CHARPOS: 50
+:END:
+*** 萬乘@wànshèng
+:PROPERTIES:
+:CONCEPT: uuid-77a8f152-d1b9-4a29-a492-0b40fa507f19 / STATE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+萬乘@wànshèng	[[tls:concept:STATE::#uuid-77a8f152-d1b9-4a29-a492-0b40fa507f19][STATE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / large state commanding 10 000 war chariots
+*** 主@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-495cc540-b0a6-434d-8b4c-15e561c047eb / RULER
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 54
+:END:
+主@zhǔ	[[tls:concept:RULER::#uuid-495cc540-b0a6-434d-8b4c-15e561c047eb][RULER]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / ruler; host; lord/ruler, owner (as being primarily in charge of territories and/or things)
+** 千乘之君	or a leader with one thousand war chariots 
+:PROPERTIES:
+:SRC: HF 17.02:01; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a02:50::千乘 / 韓非子
+:CHARPOS: 50
+:END:
+*** 千乘@qiānshèng
+:PROPERTIES:
+:CONCEPT: uuid-550ebe5c-7aba-4691-a1d7-836387cfdec8 / STATE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+千乘@qiānshèng	[[tls:concept:STATE::#uuid-550ebe5c-7aba-4691-a1d7-836387cfdec8][STATE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a state with an army of a thousand war chariots
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-112bd8f2-c456-4f12-88ee-8dcb66409625 / RULER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 53
+:END:
+君@jūn	[[tls:concept:RULER::#uuid-112bd8f2-c456-4f12-88ee-8dcb66409625][RULER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the ruler as being primarily administratively in charge of people
+** 或有欲其君之蚤死者	there will probably be those who hope that the ruler will die early. 
+:PROPERTIES:
+:SRC: HF 17.02:01; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a04:1::或有 / 韓非子
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-78768844-2056-4e7c-97a9-067f70ffeb94 / PROBABLE
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PROBABLE::#uuid-78768844-2056-4e7c-97a9-067f70ffeb94][PROBABLE]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / conceivably; probably, quite possibly, in all likelihood; "before you know it"; by any chance
+*** 欲@yù / 慾@yù
+:PROPERTIES:
+:CONCEPT: uuid-52facd1a-a59c-485b-96e2-218d210d3823 / DESIRE
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CONCEPT: uuid-0a9451be-e0da-4211-b1f1-c92b1f72b3a9 / TIMELY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 3
+:END:
+欲@yù / 慾@yù	[[tls:concept:DESIRE::#uuid-52facd1a-a59c-485b-96e2-218d210d3823][DESIRE]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / desire that S
+早@zǎo / 蚤@zǎo	[[tls:concept:TIMELY::#uuid-0a9451be-e0da-4211-b1f1-c92b1f72b3a9][TIMELY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in good time, at an early stage; at an earlier stage, at a sufficiently early stage
+** 夫妻者	As for a wife, 
+:PROPERTIES:
+:SRC: HF 17.02:02; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a06:1::夫妻 / 韓非子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 非有骨肉之恩也	she does not have the emotional links that go with blood relations, 
+:PROPERTIES:
+:SRC: HF 17.02:02; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a07:50::非有 / 韓非子
+:CHARPOS: 50
+:END:
+*** 骨肉@gǔròu
+:PROPERTIES:
+:CONCEPT: uuid-c5fa44ab-88bc-49d2-84ee-d9d2574bec4e / RELATIVES
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 52
+:END:
+骨肉@gǔròu	[[tls:concept:RELATIVES::#uuid-c5fa44ab-88bc-49d2-84ee-d9d2574bec4e][RELATIVES]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / kinship (relations), (closeness) of relatives
+*** 恩@ēn
+:PROPERTIES:
+:CONCEPT: uuid-c06c49ef-c3d5-45a2-9dd0-60765a13ffba / GENEROUS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 55
+:END:
+恩@ēn	[[tls:concept:GENEROUS::#uuid-c06c49ef-c3d5-45a2-9dd0-60765a13ffba][GENEROUS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / gracious generosity by superiors, primarily as an attitude, but occasionally also as manifested in action: generous gratuitous favours; emotional good-will, emotional ties; Hanfei: gratuitous kindness
+** 愛則親	if one loves her she is close, 
+:PROPERTIES:
+:SRC: HF 17.02:02; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a08:50::愛則 / 韓非子
+:CHARPOS: 50
+:END:
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-c4d8b893-0a44-40c8-9056-7b020611962e / LOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-29889333-8016-43fa-9919-1cf8c4f74919
+:CHARPOS: 50
+:END:
+愛@ài	[[tls:concept:LOVE::#uuid-c4d8b893-0a44-40c8-9056-7b020611962e][LOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-29889333-8016-43fa-9919-1cf8c4f74919][erotic]]} / be in love with; love dearly; be very fond of; have very fond feelings for; be emotionally attached to
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-f46e107f-cba2-4382-ba1f-4f42a72fd0d3 / INTIMATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 52
+:END:
+親@qīn	[[tls:concept:INTIMATE::#uuid-f46e107f-cba2-4382-ba1f-4f42a72fd0d3][INTIMATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be close to one; be close to each other; be on harmonious terms; have intimate releations with one another; be on close terms
+** 不愛則䟽	if one does not love her she is distant. 
+:PROPERTIES:
+:SRC: HF 17.02:02; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a09:50::不愛 / 韓非子
+:CHARPOS: 50
+:END:
+*** 疏@shū
+:PROPERTIES:
+:CONCEPT: uuid-f5a32b7d-8ad6-42a4-8856-9febb939be7f / DISTANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+疏@shū	[[tls:concept:DISTANT::#uuid-f5a32b7d-8ad6-42a4-8856-9febb939be7f][DISTANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be removed, be separated, estranged; have distant relations; have no direct access to the ruler;
+** 語曰	As the saying goes: 
+:PROPERTIES:
+:SRC: HF 17.02:02; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a10:50::語曰 / 韓非子
+:CHARPOS: 50
+:END:
+*** 語@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-d5a6d195-6fba-4829-8f2e-3f62837171da / PROVERB
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 50
+:END:
+語@yǔ	[[tls:concept:PROVERB::#uuid-d5a6d195-6fba-4829-8f2e-3f62837171da][PROVERB]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / proverb; sometimes also attributed to a place 宋人語曰
+** 其母好者其子抱	"When the mother is handsome the son gets hugged." 
+:PROPERTIES:
+:SRC: HF 17.02:02; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a11:50::「其 / 韓非子
+:CHARPOS: 50
+:END:
+*** 好@hǎo
+:PROPERTIES:
+:CONCEPT: uuid-10b0624e-6095-493e-b692-028d6b0059b9 / BEAUTIFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+好@hǎo	[[tls:concept:BEAUTIFUL::#uuid-10b0624e-6095-493e-b692-028d6b0059b9][BEAUTIFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be beautiful to look at, be attractive 甚好LIEXIANZHUAN 姿貌好而性良
+*** 抱@bào
+:PROPERTIES:
+:CONCEPT: uuid-c03e0231-1521-49f0-b27f-1d045d335cd3 / EMBRACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 56
+:END:
+抱@bào	[[tls:concept:EMBRACE::#uuid-c03e0231-1521-49f0-b27f-1d045d335cd3][EMBRACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / get hugged
+** 然則其為之反也	And so, what one does is the inverse: 
+:PROPERTIES:
+:SRC: HF 17.02:03; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a12:50::然則 / 韓非子
+:CHARPOS: 50
+:END:
+*** 反@fǎn
+:PROPERTIES:
+:CONCEPT: uuid-091e31fe-863f-45b7-b7bf-caf7a86d3e22 / CONTRARY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 55
+:END:
+反@fǎn	[[tls:concept:CONTRARY::#uuid-091e31fe-863f-45b7-b7bf-caf7a86d3e22][CONTRARY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / the opposite, the reverse, the contrary; contradiction
+** 其母惡者其子釋	"When the mother is ugly her son will get dismissed." 
+:PROPERTIES:
+:SRC: HF 17.02:03; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a13:50::其母 / 韓非子
+:CHARPOS: 50
+:END:
+*** 惡@è
+:PROPERTIES:
+:CONCEPT: uuid-e5c5ebdf-0408-49d0-bcad-bb784f078d9b / UGLY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 52
+:END:
+惡@è	[[tls:concept:UGLY::#uuid-e5c5ebdf-0408-49d0-bcad-bb784f078d9b][UGLY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be ugly; be in terribly bad shape
+*** 釋@shì
+:PROPERTIES:
+:CONCEPT: uuid-19d4c4a4-c944-4d63-83ef-b70cb74d8159 / DISCARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 56
+:END:
+釋@shì	[[tls:concept:DISCARD::#uuid-19d4c4a4-c944-4d63-83ef-b70cb74d8159][DISCARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / get discarded
+** 丈夫年五十	When a man has reached fifty 
+:PROPERTIES:
+:SRC: HF 17.02:03; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a14:50::丈夫 / 韓非子
+:CHARPOS: 50
+:END:
+*** 丈夫@zhàngfū
+:PROPERTIES:
+:CONCEPT: uuid-61c51f00-da4f-40c4-9922-9d344c6da2ea / MALE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f4e97457-afe2-413e-8537-d023e93d6605
+:CHARPOS: 50
+:END:
+丈夫@zhàngfū	[[tls:concept:MALE::#uuid-61c51f00-da4f-40c4-9922-9d344c6da2ea][MALE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f4e97457-afe2-413e-8537-d023e93d6605][adult]]} / adult male
+** 而好色未解也	his taste for beauty has not yet dissolved, 
+:PROPERTIES:
+:SRC: HF 17.02:03; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a14:50::而好 / 韓非子
+:CHARPOS: 50
+:END:
+*** 好@hào
+:PROPERTIES:
+:CONCEPT: uuid-adf06a4b-1144-4c0d-80ec-a7d8cfa15d53 / DESIRE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 51
+:END:
+好@hào	[[tls:concept:DESIRE::#uuid-adf06a4b-1144-4c0d-80ec-a7d8cfa15d53][DESIRE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / like (something); be fond of (something); LY 4.6: be truly fond of (goodness)
+*** 色@sè
+:PROPERTIES:
+:CONCEPT: uuid-4124cfc0-6f47-4f60-b9c1-04b11f81421b / SEXY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e19bbc53-0285-4574-a5ac-75a2aa48c36a
+:CHARPOS: 52
+:END:
+色@sè	[[tls:concept:SEXY::#uuid-4124cfc0-6f47-4f60-b9c1-04b11f81421b][SEXY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e19bbc53-0285-4574-a5ac-75a2aa48c36a][aesthetic]]} / female beauty; male or female good looks; sex; sexy looks; female charms
+*** 解@jiě
+:PROPERTIES:
+:CONCEPT: uuid-b71b3dc3-a1a3-4975-95dc-13938678f1ce / STOP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 54
+:END:
+解@jiě	[[tls:concept:STOP::#uuid-b71b3dc3-a1a3-4975-95dc-13938678f1ce][STOP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / discontinue, cease
+** 婦人年三十而美色衰矣	but when a woman is thirty her beauty has declined. 
+:PROPERTIES:
+:SRC: HF 17.02:03; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a15:50::婦人 / 韓非子
+:CHARPOS: 50
+:END:
+*** 婦人@fùrén
+:PROPERTIES:
+:CONCEPT: uuid-3fc7ad78-be0b-48ea-9798-8622900250bd / WOMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 50
+:END:
+婦人@fùrén	[[tls:concept:WOMAN::#uuid-3fc7ad78-be0b-48ea-9798-8622900250bd][WOMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a woman (married or definitely of marriagable age i.e. above 15)
+*** 美色@měisè
+:PROPERTIES:
+:CONCEPT: uuid-361652c2-dd8a-4514-b74c-e59cf94a1bb9 / BEAUTIFUL
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 56
+:END:
+美色@měisè	[[tls:concept:BEAUTIFUL::#uuid-361652c2-dd8a-4514-b74c-e59cf94a1bb9][BEAUTIFUL]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / beauty
+*** 衰@shuāi
+:PROPERTIES:
+:CONCEPT: uuid-e94d16c9-6a8c-46db-b4bc-529844781dd9 / DECLINE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 58
+:END:
+衰@shuāi	[[tls:concept:DECLINE::#uuid-e94d16c9-6a8c-46db-b4bc-529844781dd9][DECLINE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / get weaker, decay, decline
+** 以衰美之婦人事好色之丈夫	If as a woman of declining beauty one serves a husband who is fond of beauty 
+:PROPERTIES:
+:SRC: HF 17.02:04; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a16:50::以衰 / 韓非子
+:CHARPOS: 50
+:END:
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-bc7c069d-7645-4439-b35b-b00b7d7895a0 / AS
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 50
+:END:
+以@yǐ	[[tls:concept:AS::#uuid-bc7c069d-7645-4439-b35b-b00b7d7895a0][AS]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / as, in one's capacity as 以編戶之民 "as a simple person from an ordinary home"
+*** 衰@shuāi
+:PROPERTIES:
+:CONCEPT: uuid-a36d256d-efba-4896-8adf-45f1d796cda7 / WEAK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 51
+:END:
+衰@shuāi	[[tls:concept:WEAK::#uuid-a36d256d-efba-4896-8adf-45f1d796cda7][WEAK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / declining (LOOK FOR EXPLICITLY INCHOATIVE EXAMPLES WHERE THE GLOSS "DECLINED" IS CLEARLY IMPOSSIBLE)
+*** 美@měi / 媄@měi / 媺@měi
+:PROPERTIES:
+:CONCEPT: uuid-c1985871-3644-47ef-a536-1f4ab9b00549 / BEAUTIFUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 52
+:END:
+美@měi / 媄@měi / 媺@měi	[[tls:concept:BEAUTIFUL::#uuid-c1985871-3644-47ef-a536-1f4ab9b00549][BEAUTIFUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / physical beauty; handsomeness; splendour; good looks
+*** 婦人@fùrén
+:PROPERTIES:
+:CONCEPT: uuid-f3840bc1-fc4e-4fb0-973c-72b237306791 / WIFE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 54
+:END:
+婦人@fùrén	[[tls:concept:WIFE::#uuid-f3840bc1-fc4e-4fb0-973c-72b237306791][WIFE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / wife
+*** 好@hào
+:PROPERTIES:
+:CONCEPT: uuid-adf06a4b-1144-4c0d-80ec-a7d8cfa15d53 / DESIRE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 57
+:END:
+好@hào	[[tls:concept:DESIRE::#uuid-adf06a4b-1144-4c0d-80ec-a7d8cfa15d53][DESIRE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / like (something); be fond of (something); LY 4.6: be truly fond of (goodness)
+*** 色@sè
+:PROPERTIES:
+:CONCEPT: uuid-4124cfc0-6f47-4f60-b9c1-04b11f81421b / SEXY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e19bbc53-0285-4574-a5ac-75a2aa48c36a
+:CHARPOS: 58
+:END:
+色@sè	[[tls:concept:SEXY::#uuid-4124cfc0-6f47-4f60-b9c1-04b11f81421b][SEXY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e19bbc53-0285-4574-a5ac-75a2aa48c36a][aesthetic]]} / female beauty; male or female good looks; sex; sexy looks; female charms
+*** 丈夫@zhàngfū
+:PROPERTIES:
+:CONCEPT: uuid-e417c6b1-772e-4495-b226-155136b8e2f6 / HUSBAND
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 60
+:END:
+丈夫@zhàngfū	[[tls:concept:HUSBAND::#uuid-e417c6b1-772e-4495-b226-155136b8e2f6][HUSBAND]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / husband
+** 則身見䟽賤	then her person will be kept at a distance and she will be held in low esteem 
+:PROPERTIES:
+:SRC: HF 17.02:04; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a17:50::則身 / 韓非子
+:CHARPOS: 50
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-44ff94fc-643c-4e92-8ccb-12b1c91554a3 / PERSON
+:SYN-FUNC: uuid-f0b2b11d-142f-4669-900c-24fd2d712fd3
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 51
+:END:
+身@shēn	[[tls:concept:PERSON::#uuid-44ff94fc-643c-4e92-8ccb-12b1c91554a3][PERSON]]	N [[tls:syn-func::#uuid-f0b2b11d-142f-4669-900c-24fd2d712fd3][nab{.post-N}]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / often reflexive: one's (own) person; one's (own) person and character; the Self; personality (as something cultivated by the gentleman); the character
+*** 見@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-cced399b-a0f8-466b-a2ba-e181178e0bf5 / PASSIVE MARKER
+:SYN-FUNC: uuid-52110676-c76e-45d3-858e-d11b23d8f7b4
+:SEM-FEAT: uuid-99ef2933-a158-4247-b598-40acd2e411fa
+:CONCEPT: uuid-d1f89f61-d026-420f-b03f-1133df70495e / DISTANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 52
+:END:
+見@jiàn	[[tls:concept:PASSIVE MARKER::#uuid-cced399b-a0f8-466b-a2ba-e181178e0bf5][PASSIVE MARKER]]	V [[tls:syn-func::#uuid-52110676-c76e-45d3-858e-d11b23d8f7b4][vt+V{0}{PASS}]] {[[tls:sem-feat::#uuid-99ef2933-a158-4247-b598-40acd2e411fa][V=undesirable]]} / passivising grammaticalised particle derived from a transitive verb
+疏@shū	[[tls:concept:DISTANT::#uuid-d1f89f61-d026-420f-b03f-1133df70495e][DISTANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / be treated as distant
+*** 賤@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-c45d290f-d6ac-413d-8c16-821fb9c3c004 / HUMBLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 54
+:END:
+賤@jiàn	[[tls:concept:HUMBLE::#uuid-c45d290f-d6ac-413d-8c16-821fb9c3c004][HUMBLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / be treated as a person of low status
+** 而子疑不為後	and her offspring will held in suspicion and will not be made successors. 
+:PROPERTIES:
+:SRC: HF 17.02:04; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a18:50::而子 / 韓非子
+:CHARPOS: 50
+:END:
+*** 疑@yí
+:PROPERTIES:
+:CONCEPT: uuid-d6f01491-e8de-401e-8418-4000c685eca6 / SUSPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+疑@yí	[[tls:concept:SUSPECT::#uuid-d6f01491-e8de-401e-8418-4000c685eca6][SUSPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be held in suspicion; be distrusted; incur suspicion 見疑
+*** 後@hòu
+:PROPERTIES:
+:CONCEPT: uuid-de4d8387-952e-49f5-82df-fe1c8c4b6c94 / HEIR
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 55
+:END:
+後@hòu	[[tls:concept:HEIR::#uuid-de4d8387-952e-49f5-82df-fe1c8c4b6c94][HEIR]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / HF 14.6.28 sucessor
+** 夫人之所以冀其君之死者也	This is why empresses and wives will hope that their masters/husbands die. 
+:PROPERTIES:
+:SRC: HF 17.02:04; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a20:1::夫人 / 韓非子
+:CHARPOS: 1
+:END:
+*** 冀@jì
+:PROPERTIES:
+:CONCEPT: uuid-11049654-e36a-473e-a3ed-bf395da0dcf3 / HOPE
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 6
+:END:
+冀@jì	[[tls:concept:HOPE::#uuid-11049654-e36a-473e-a3ed-bf395da0dcf3][HOPE]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / hope that
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-034d3c84-f29c-4df6-933d-b574e56e50b6 / HUSBAND
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 8
+:END:
+君@jūn	[[tls:concept:HUSBAND::#uuid-034d3c84-f29c-4df6-933d-b574e56e50b6][HUSBAND]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / master and husband
+** 唯母為后而子為主	First when the mother has become dowager and her son is ruler 
+:PROPERTIES:
+:SRC: HF 17.02:05; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a21:50::唯母 / 韓非子
+:CHARPOS: 50
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-c102cc2b-db8d-49de-8c1b-efa5af18412d / BECOME
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:CHARPOS: 52
+:END:
+為@wéi	[[tls:concept:BECOME::#uuid-c102cc2b-db8d-49de-8c1b-efa5af18412d][BECOME]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] / become (ruler etc)
+*** 后@hòu
+:PROPERTIES:
+:CONCEPT: uuid-035857c8-d962-4c62-8ca5-d12b74b48283 / QUEEN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+后@hòu	[[tls:concept:QUEEN::#uuid-035857c8-d962-4c62-8ca5-d12b74b48283][QUEEN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / queen; later: empress
+** 則令無不行	then her orders are invariably carried out 
+:PROPERTIES:
+:SRC: HF 17.02:05; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a22:50::則令 / 韓非子
+:CHARPOS: 50
+:END:
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-33bf90bc-03b1-440a-be11-f54e7a9aa9fd / ACT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 54
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-33bf90bc-03b1-440a-be11-f54e7a9aa9fd][ACT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be implemented; be acted on; be put into practice (ant. 廢 "be abandoned")
+** 禁無不止	and her prohibitions are invariably followed. 
+:PROPERTIES:
+:SRC: HF 17.02:05; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a23:50::禁無 / 韓非子
+:CHARPOS: 50
+:END:
+*** 無不@wúbù
+:PROPERTIES:
+:CONCEPT: uuid-fa5ba337-f78f-4963-b702-7e162aab67e8 / ALL
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:SEM-FEAT: uuid-d579c8ae-df31-4e0c-941f-27b2e0b784f9
+:CHARPOS: 51
+:END:
+無不@wúbù	[[tls:concept:ALL::#uuid-fa5ba337-f78f-4963-b702-7e162aab67e8][ALL]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] {[[tls:sem-feat::#uuid-d579c8ae-df31-4e0c-941f-27b2e0b784f9][reference=subject]]} / all of the subjects
+** 男女之樂不減於先君	Her sexual appetites will be no less than with the former master, 
+:PROPERTIES:
+:SRC: HF 17.02:05; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a24:50::男女 / 韓非子
+:CHARPOS: 50
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-e210f3ab-f74b-4968-ad6d-d8d8dec5e1d7 / DELIGHT
+:SYN-FUNC: uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+樂@lè	[[tls:concept:DELIGHT::#uuid-e210f3ab-f74b-4968-ad6d-d8d8dec5e1d7][DELIGHT]]	N [[tls:syn-func::#uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1][nab.t]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / delight in (something N, sex etc), passionate interest in N; the joys one takes in N
+*** 減@jiǎn
+:PROPERTIES:
+:CONCEPT: uuid-7542fb40-407c-4d9f-9a9c-e3ec7dd286c6 / REDUCE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 55
+:END:
+減@jiǎn	[[tls:concept:REDUCE::#uuid-7542fb40-407c-4d9f-9a9c-e3ec7dd286c6][REDUCE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / decrease (sometimes "in relation to")
+*** 先君@xiānjūn
+:PROPERTIES:
+:CONCEPT: uuid-af93802d-8e95-4045-b17f-a48dd5d1d783 / RULER
+:SYN-FUNC: uuid-0c513944-f90e-42df-a8ad-65300f05c945
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 57
+:END:
+先君@xiānjūn	[[tls:concept:RULER::#uuid-af93802d-8e95-4045-b17f-a48dd5d1d783][RULER]]	N [[tls:syn-func::#uuid-0c513944-f90e-42df-a8ad-65300f05c945][NP{post-N}]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / the former ruler; the deceased ruler (can occasionally be used in the plural in ZUO)
+** 而擅萬乘不疑	but there will be no doubt that she will arrogate to herself control over the chariots 
+:PROPERTIES:
+:SRC: HF 17.02:05; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a25:50::而擅 / 韓非子
+:CHARPOS: 50
+:END:
+*** 擅@shàn
+:PROPERTIES:
+:CONCEPT: uuid-b9590acb-89d4-400e-b8c9-37567181f2fa / ARROGATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+擅@shàn	[[tls:concept:ARROGATE::#uuid-b9590acb-89d4-400e-b8c9-37567181f2fa][ARROGATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / usurp (power); take illegitimate sole control of; gain control over (also: over a ruler etc)
+*** 萬乘@wànshèng
+:PROPERTIES:
+:CONCEPT: uuid-77a8f152-d1b9-4a29-a492-0b40fa507f19 / STATE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+萬乘@wànshèng	[[tls:concept:STATE::#uuid-77a8f152-d1b9-4a29-a492-0b40fa507f19][STATE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / large state commanding 10 000 war chariots
+*** 疑@yí
+:PROPERTIES:
+:CONCEPT: uuid-537035b0-0492-4cb2-bcb7-6f32d14b33b5 / CONFUSED
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd
+:CHARPOS: 55
+:END:
+疑@yí	[[tls:concept:CONFUSED::#uuid-537035b0-0492-4cb2-bcb7-6f32d14b33b5][CONFUSED]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd][subj=nonhuman]]} / be doubtful (of situations) (Contrast DOUBT)
+** 此鴆毒扼昧之所以用也	and that is why poison, strangulation and murder get used by her. 
+:PROPERTIES:
+:SRC: HF 17.02:05; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a26:50::此鴆 / 韓非子
+:CHARPOS: 50
+:END:
+*** 鴆毒@zhèndú
+:PROPERTIES:
+:CONCEPT: uuid-901e3bbd-c052-4395-8523-478caf757c2d / KILL
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+鴆毒@zhèndú	[[tls:concept:KILL::#uuid-901e3bbd-c052-4395-8523-478caf757c2d][KILL]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / poisoning
+*** 鴆@zhèn / 酖@dān
+:PROPERTIES:
+:CONCEPT: uuid-a33e674b-9541-4904-b623-2c63b2419b80 / POISON
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 51
+:END:
+鴆@zhèn / 酖@dān	[[tls:concept:POISON::#uuid-a33e674b-9541-4904-b623-2c63b2419b80][POISON]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / wine with bird-poison added to it; poisoned wine
+*** 扼昧@èmèi
+:PROPERTIES:
+:CONCEPT: uuid-c91fee05-468a-403c-970b-d9d38cfe9660 / KILL
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+扼昧@èmèi	[[tls:concept:KILL::#uuid-c91fee05-468a-403c-970b-d9d38cfe9660][KILL]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / murder by strangulation
+*** 扼@è
+:PROPERTIES:
+:CONCEPT: uuid-e05ff547-f42e-4d5b-8aab-6c145f19c7ba / STRANGLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+扼@è	[[tls:concept:STRANGLE::#uuid-e05ff547-f42e-4d5b-8aab-6c145f19c7ba][STRANGLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / strangulation????
+*** 用@yòng
+:PROPERTIES:
+:CONCEPT: uuid-36be624a-6db0-4177-b712-885de9984ea2 / ACT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 58
+:END:
+用@yòng	[[tls:concept:ACT::#uuid-36be624a-6db0-4177-b712-885de9984ea2][ACT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be deployed in practice
+** 故桃左春秋曰	That is why the "Táo Zuǒ Commentary on the Chūnqiū" says: 
+:PROPERTIES:
+:SRC: HF 17.02:05; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a27:50::故《 / 韓非子
+:CHARPOS: 50
+:END:
+*** 春秋@chūnqiū
+:PROPERTIES:
+:CONCEPT: uuid-9c662a0d-1918-4907-8daf-ceaf4af15e3c / DOCUMENT
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 53
+:END:
+春秋@chūnqiū	[[tls:concept:DOCUMENT::#uuid-9c662a0d-1918-4907-8daf-ceaf4af15e3c][DOCUMENT]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / Annals; often specifically: the Annals attributed to Confucius
+** 人主之疾死者不能處半	"As for the rulers who die of natural diseases, they cannot make up fifty percent (of rulers dying while in office)." 
+:PROPERTIES:
+:SRC: HF 17.02:05; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a28:50::「人 / 韓非子
+:CHARPOS: 50
+:END:
+*** 人主@rénzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-2e1d90bc-f9cf-4684-8297-008847d8fc55 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 50
+:END:
+人主@rénzhǔ	[[tls:concept:RULER::#uuid-2e1d90bc-f9cf-4684-8297-008847d8fc55][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / the ruler of men, a ruler of men (in a hypothetical case, non-referential)
+*** 疾@jí
+:PROPERTIES:
+:CONCEPT: uuid-d7ef53e3-47d0-4158-8599-b64e9bb9b5b3 / ILLNESS
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 53
+:END:
+疾@jí	[[tls:concept:ILLNESS::#uuid-d7ef53e3-47d0-4158-8599-b64e9bb9b5b3][ILLNESS]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / of an (unspecified) acute disease; sometimes generally: of a natural disease
+** 人主弗知	If the ruler refuses to understand this 
+:PROPERTIES:
+:SRC: HF 17.02:06; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a29:50::人主 / 韓非子
+:CHARPOS: 50
+:END:
+*** 人主@rénzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-bec927f5-0304-4575-b245-7634a2099a95 / RULER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+人主@rénzhǔ	[[tls:concept:RULER::#uuid-bec927f5-0304-4575-b245-7634a2099a95][RULER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a ruler of men in general
+** 則亂多資	then political chaos has many supporters. 
+:PROPERTIES:
+:SRC: HF 17.02:06; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a30:50::則亂 / 韓非子
+:CHARPOS: 50
+:END:
+*** 亂@luàn
+:PROPERTIES:
+:CONCEPT: uuid-67483346-0ec2-4adb-a4c1-e27cf550fed4 / REVOLT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 51
+:END:
+亂@luàn	[[tls:concept:REVOLT::#uuid-67483346-0ec2-4adb-a4c1-e27cf550fed4][REVOLT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / political chaos; political disarray, political disorder
+*** 多@duō
+:PROPERTIES:
+:CONCEPT: uuid-3a82ee48-07a8-433c-9bb8-ada3df7b7b28 / HAVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+多@duō	[[tls:concept:HAVE::#uuid-3a82ee48-07a8-433c-9bb8-ada3df7b7b28][HAVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / have much; have many; contain many 多金
+*** 資@zī
+:PROPERTIES:
+:CONCEPT: uuid-8782c739-a579-4e6c-93fc-9c597cdbda5b / HELP
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+資@zī	[[tls:concept:HELP::#uuid-8782c739-a579-4e6c-93fc-9c597cdbda5b][HELP]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / support, help; also: helpful abstract elements
+** 利君死者眾	"If those who profit from the ruler's death are many 
+:PROPERTIES:
+:SRC: HF 17.02:06; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a32:1::利君 / 韓非子
+:CHARPOS: 1
+:END:
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-f3554251-7560-4a8e-a167-2245f5b01791 / PROFIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21
+:CHARPOS: 1
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-f3554251-7560-4a8e-a167-2245f5b01791][PROFIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / regard as beneficial to one's interests; see one's advantage in; profit from; see the benefit in
+*** 眾@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-b85ed86f-efff-4ecd-8358-cb0f4a4d8dc6 / MANY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 5
+:END:
+眾@zhòng	[[tls:concept:MANY::#uuid-b85ed86f-efff-4ecd-8358-cb0f4a4d8dc6][MANY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be many, be numerous; contain many members; be in the majority 甚眾
+** 則人主危	then the ruler is in a precarious position." 
+:PROPERTIES:
+:SRC: HF 17.02:06; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a33:50::則人 / 韓非子
+:CHARPOS: 50
+:END:
+*** 人主@rénzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-bec927f5-0304-4575-b245-7634a2099a95 / RULER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+人主@rénzhǔ	[[tls:concept:RULER::#uuid-bec927f5-0304-4575-b245-7634a2099a95][RULER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a ruler of men in general
+*** 危@wēi
+:PROPERTIES:
+:CONCEPT: uuid-79f9bcee-10de-4900-991b-41da3b6e456e / DANGER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+危@wēi	[[tls:concept:DANGER::#uuid-79f9bcee-10de-4900-991b-41da3b6e456e][DANGER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be in a precarious state; be fraught with danger, be doomed to imminent disaster; be endangered; to risk danger
+** 故王良愛馬	Wáng Liáng loved horses 
+:PROPERTIES:
+:SRC: HF 17.02:07; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a34:50::故王 / 韓非子
+:CHARPOS: 50
+:END:
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-51641f98-1d8f-451b-9e22-5d9cd05ca727 / LIKE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+愛@ài	[[tls:concept:LIKE::#uuid-51641f98-1d8f-451b-9e22-5d9cd05ca727][LIKE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / be especially fond of; appreciate more; like, show an emotional preference for; be psychologically more attached to (something, compared to others); sometimes specifically: have as a protegé
+** 越王勾踐愛人	and King Gōu Jiàn of Yuè loved people: 
+:PROPERTIES:
+:SRC: HF 17.02:07; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a35:50::越王 / 韓非子
+:CHARPOS: 50
+:END:
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-51641f98-1d8f-451b-9e22-5d9cd05ca727 / LIKE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 54
+:END:
+愛@ài	[[tls:concept:LIKE::#uuid-51641f98-1d8f-451b-9e22-5d9cd05ca727][LIKE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / be especially fond of; appreciate more; like, show an emotional preference for; be psychologically more attached to (something, compared to others); sometimes specifically: have as a protegé
+** 為戰與馳	this was for the sake, respectively, of waging war and for travelling fast. 
+:PROPERTIES:
+:SRC: HF 17.02:07; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a36:50::為戰 / 韓非子
+:CHARPOS: 50
+:END:
+*** 為@wèi
+:PROPERTIES:
+:CONCEPT: uuid-f0ee390d-45f9-48ad-9ac8-8c68164f67ba / FOR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 50
+:END:
+為@wèi	[[tls:concept:FOR::#uuid-f0ee390d-45f9-48ad-9ac8-8c68164f67ba][FOR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / work for; be on the side of; work for the benefit of; work towards; aim for; act in the spirit of 為公甚
+*** 戰@zhàn
+:PROPERTIES:
+:CONCEPT: uuid-f4035bed-0065-404e-a766-56c3a4d8fdb8 / BATTLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+戰@zhàn	[[tls:concept:BATTLE::#uuid-f4035bed-0065-404e-a766-56c3a4d8fdb8][BATTLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / warfare
+*** 馳@chí
+:PROPERTIES:
+:CONCEPT: uuid-be843057-0411-4209-80e1-4200bdfd9667 / HURRY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+馳@chí	[[tls:concept:HURRY::#uuid-be843057-0411-4209-80e1-4200bdfd9667][HURRY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / travelling fast (on horseback)
+** 醫善吮人之傷	If a doctor is good at sucking the wounds of the injured 
+:PROPERTIES:
+:SRC: HF 17.02:07; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a37:50::醫善 / 韓非子
+:CHARPOS: 50
+:END:
+*** 醫@yī
+:PROPERTIES:
+:CONCEPT: uuid-e093756d-de7b-4106-a19a-10c5f76deb64 / PHYSICIAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 50
+:END:
+醫@yī	[[tls:concept:PHYSICIAN::#uuid-e093756d-de7b-4106-a19a-10c5f76deb64][PHYSICIAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / medically specialised shaman; medical doctor8
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-ef2009c7-53eb-431f-8176-9c67049fc61f / EXCELLENT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+善@shàn	[[tls:concept:EXCELLENT::#uuid-ef2009c7-53eb-431f-8176-9c67049fc61f][EXCELLENT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / excel at, be good at
+*** 吮@shǔn
+:PROPERTIES:
+:CONCEPT: uuid-c8caf80b-1b81-4257-a540-9697c9d2ab9d / LICK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+吮@shǔn	[[tls:concept:LICK::#uuid-c8caf80b-1b81-4257-a540-9697c9d2ab9d][LICK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to lick and suck
+*** 傷@shāng
+:PROPERTIES:
+:CONCEPT: uuid-78a99126-15e4-44fb-bbbf-f8d703bb861f / INJURY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 55
+:END:
+傷@shāng	[[tls:concept:INJURY::#uuid-78a99126-15e4-44fb-bbbf-f8d703bb861f][INJURY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / wound, injury
+** 含人之血	and if he takes people's blood into his mouth, 
+:PROPERTIES:
+:SRC: HF 17.02:07; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a38:50::含人 / 韓非子
+:CHARPOS: 50
+:END:
+*** 含@hán
+:PROPERTIES:
+:CONCEPT: uuid-11de347c-e02a-41b7-8b8f-96de18d833bd / HOLD IN MOUTH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+含@hán	[[tls:concept:HOLD IN MOUTH::#uuid-11de347c-e02a-41b7-8b8f-96de18d833bd][HOLD IN MOUTH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / hold (any object) completely hidden in the mouth
+*** 血@xuè
+:PROPERTIES:
+:CONCEPT: uuid-9a7b5ee7-4a26-489f-82a3-d51d8e264adf / BLOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 53
+:END:
+血@xuè	[[tls:concept:BLOOD::#uuid-9a7b5ee7-4a26-489f-82a3-d51d8e264adf][BLOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / blood
+** 非骨肉之親也	this is not because they have a blood relationship with their patients, 
+:PROPERTIES:
+:SRC: HF 17.02:07; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a39:50::非骨 / 韓非子
+:CHARPOS: 50
+:END:
+*** 骨肉@gǔròu
+:PROPERTIES:
+:CONCEPT: uuid-c5fa44ab-88bc-49d2-84ee-d9d2574bec4e / RELATIVES
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 51
+:END:
+骨肉@gǔròu	[[tls:concept:RELATIVES::#uuid-c5fa44ab-88bc-49d2-84ee-d9d2574bec4e][RELATIVES]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / kinship (relations), (closeness) of relatives
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-ca59d76b-ced5-476a-83c1-810c2601a46c / INTIMATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 54
+:END:
+親@qīn	[[tls:concept:INTIMATE::#uuid-ca59d76b-ced5-476a-83c1-810c2601a46c][INTIMATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / proper intimacy of social relations; close and intimate relations; closeness of a relationship
+** 故輿人成輿	Thus when a cartwright make carts 
+:PROPERTIES:
+:SRC: HF 17.02:08; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a41:1::故輿 / 韓非子
+:CHARPOS: 1
+:END:
+*** 輿@yú
+:PROPERTIES:
+:CONCEPT: uuid-d9f9244b-e266-4e4a-8345-21d0d2cd782e / VEHICLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+輿@yú	[[tls:concept:VEHICLE::#uuid-d9f9244b-e266-4e4a-8345-21d0d2cd782e][VEHICLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / luxury carriage, coach for the transport of persons or things (originally refers to compartment on the carriage)
+*** 輿人@yúrén
+:PROPERTIES:
+:CONCEPT: uuid-cc3c44a7-7992-4dc2-b6e1-4dc8448faac9 / ARTISAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 2
+:END:
+輿人@yúrén	[[tls:concept:ARTISAN::#uuid-cc3c44a7-7992-4dc2-b6e1-4dc8448faac9][ARTISAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / cart-man; also: cartwright
+*** 成@chéng
+:PROPERTIES:
+:CONCEPT: uuid-4f06da8c-7520-4822-b256-54f38a6a7c7e / PRODUCE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+成@chéng	[[tls:concept:PRODUCE::#uuid-4f06da8c-7520-4822-b256-54f38a6a7c7e][PRODUCE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / finish the making of> make, produce, bring about
+** 則欲人之富貴	he hopes that people get rich and noble; 
+:PROPERTIES:
+:SRC: HF 17.02:08; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a42:50::則欲 / 韓非子
+:CHARPOS: 50
+:END:
+*** 欲@yù / 慾@yù
+:PROPERTIES:
+:CONCEPT: uuid-52facd1a-a59c-485b-96e2-218d210d3823 / DESIRE
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 51
+:END:
+欲@yù / 慾@yù	[[tls:concept:DESIRE::#uuid-52facd1a-a59c-485b-96e2-218d210d3823][DESIRE]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / desire that S
+** 匠人成棺	and when the carpenter makes coffins 
+:PROPERTIES:
+:SRC: HF 17.02:08; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a43:50::匠人 / 韓非子
+:CHARPOS: 50
+:END:
+*** 匠人@jiàngrén
+:PROPERTIES:
+:CONCEPT: uuid-ce964cd7-beff-4812-befc-e853ec2edde2 / CARPENTER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 50
+:END:
+匠人@jiàngrén	[[tls:concept:CARPENTER::#uuid-ce964cd7-beff-4812-befc-e853ec2edde2][CARPENTER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / carpenter
+*** 棺@guān
+:PROPERTIES:
+:CONCEPT: uuid-dd725ca7-59f1-4266-b6d5-b2a805bff679 / COFFIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+棺@guān	[[tls:concept:COFFIN::#uuid-dd725ca7-59f1-4266-b6d5-b2a805bff679][COFFIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / coffin; inner coffin
+** 則欲人之夭死也	he hopes that people die early. 
+:PROPERTIES:
+:SRC: HF 17.02:08; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a44:50::則欲 / 韓非子
+:CHARPOS: 50
+:END:
+*** 欲@yù / 慾@yù
+:PROPERTIES:
+:CONCEPT: uuid-52facd1a-a59c-485b-96e2-218d210d3823 / DESIRE
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 51
+:END:
+欲@yù / 慾@yù	[[tls:concept:DESIRE::#uuid-52facd1a-a59c-485b-96e2-218d210d3823][DESIRE]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / desire that S
+*** 夭死@yāosǐ
+:PROPERTIES:
+:CONCEPT: uuid-8bc793dd-d9a2-495b-b477-468ac92d1be5 / DIE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 54
+:END:
+夭死@yāosǐ	[[tls:concept:DIE::#uuid-8bc793dd-d9a2-495b-b477-468ac92d1be5][DIE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / die young
+*** 夭@yāo
+:PROPERTIES:
+:CONCEPT: uuid-9e665457-36d7-40dd-ac40-4f84e2554e49 / EARLY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 54
+:END:
+夭@yāo	[[tls:concept:EARLY::#uuid-9e665457-36d7-40dd-ac40-4f84e2554e49][EARLY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / (die) early in one's life
+** 非輿人仁而匠人賊也	This is not because the cartwright is kind-hearted and the carpenter is a villain, 
+:PROPERTIES:
+:SRC: HF 17.02:08; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a45:50::非輿 / 韓非子
+:CHARPOS: 50
+:END:
+*** 輿人@yúrén
+:PROPERTIES:
+:CONCEPT: uuid-cc3c44a7-7992-4dc2-b6e1-4dc8448faac9 / ARTISAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 51
+:END:
+輿人@yúrén	[[tls:concept:ARTISAN::#uuid-cc3c44a7-7992-4dc2-b6e1-4dc8448faac9][ARTISAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / cart-man; also: cartwright
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-bd3fae79-8610-4236-a1db-d1b0941a2a75 / BENEVOLENCE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+仁@rén	[[tls:concept:BENEVOLENCE::#uuid-bd3fae79-8610-4236-a1db-d1b0941a2a75][BENEVOLENCE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be good in disposition, be humane in disposition, be of kindly disposition
+*** 匠人@jiàngrén
+:PROPERTIES:
+:CONCEPT: uuid-ce964cd7-beff-4812-befc-e853ec2edde2 / CARPENTER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 55
+:END:
+匠人@jiàngrén	[[tls:concept:CARPENTER::#uuid-ce964cd7-beff-4812-befc-e853ec2edde2][CARPENTER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / carpenter
+*** 賊@zéi
+:PROPERTIES:
+:CONCEPT: uuid-695a3fc2-a91e-4e68-9210-f2dd9ad6be5c / VILLAIN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 57
+:END:
+賊@zéi	[[tls:concept:VILLAIN::#uuid-695a3fc2-a91e-4e68-9210-f2dd9ad6be5c][VILLAIN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / be villainous, commit acts of villainy
+** 則輿不售	then elaborate carriages are not going to be sold; 
+:PROPERTIES:
+:SRC: HF 17.02:08; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a46:50::則輿 / 韓非子
+:CHARPOS: 50
+:END:
+*** 售@shòu / 讎@chóu
+:PROPERTIES:
+:CONCEPT: uuid-cecea6fb-8764-4a5e-9005-98040a6aec93 / SELL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+售@shòu / 讎@chóu	[[tls:concept:SELL::#uuid-cecea6fb-8764-4a5e-9005-98040a6aec93][SELL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / get sold off
+** 則棺不買	then coffins will not be bought. 
+:PROPERTIES:
+:SRC: HF 17.02:08; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a47:50::則棺 / 韓非子
+:CHARPOS: 50
+:END:
+*** 買@mǎi
+:PROPERTIES:
+:CONCEPT: uuid-01fed6ae-6320-4ee5-8b41-f2afde1ff48f / BUY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+買@mǎi	[[tls:concept:BUY::#uuid-01fed6ae-6320-4ee5-8b41-f2afde1ff48f][BUY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / get bought
+** 利在人之死也	but his profit is in people's death. 
+:PROPERTIES:
+:SRC: HF 17.02:08; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a49:1::利在 / 韓非子
+:CHARPOS: 1
+:END:
+*** 在@zài / 才@cái
+:PROPERTIES:
+:CONCEPT: uuid-f9dc180b-f99f-4f1c-a077-604e1fe83cc3 / BE IN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 2
+:END:
+在@zài / 才@cái	[[tls:concept:BE IN::#uuid-f9dc180b-f99f-4f1c-a077-604e1fe83cc3][BE IN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be in; hold (an office etc.)
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-ac12b3dd-546e-4612-924f-57fead4d71b4 / PROFIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 1
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-ac12b3dd-546e-4612-924f-57fead4d71b4][PROFIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / assets; what is profitable, what profits; what is in one's interest, benefit; objective interest; what one can aim for as profit
+** 夫人太子之黨成	When the factions of dowagers, wives and heirs apparent are formed 
+:PROPERTIES:
+:SRC: HF 17.02:09; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a51:1::夫人 / 韓非子
+:CHARPOS: 1
+:END:
+*** 黨@dǎng
+:PROPERTIES:
+:CONCEPT: uuid-d3b99a59-96ac-4db8-b3e7-148065a502bf / FACTION
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 6
+:END:
+黨@dǎng	[[tls:concept:FACTION::#uuid-d3b99a59-96ac-4db8-b3e7-148065a502bf][FACTION]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / group; faction, gang
+** 而欲君之死也	and they hope for the ruler's death, 
+:PROPERTIES:
+:SRC: HF 17.02:09; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a51:50::而欲 / 韓非子
+:CHARPOS: 50
+:END:
+*** 欲@yù / 慾@yù
+:PROPERTIES:
+:CONCEPT: uuid-52facd1a-a59c-485b-96e2-218d210d3823 / DESIRE
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 51
+:END:
+欲@yù / 慾@yù	[[tls:concept:DESIRE::#uuid-52facd1a-a59c-485b-96e2-218d210d3823][DESIRE]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / desire that S
+** 則勢不重	then their political position is not powerful. 
+:PROPERTIES:
+:SRC: HF 17.02:09; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a52:50::則勢 / 韓非子
+:CHARPOS: 50
+:END:
+*** 勢@shì
+:PROPERTIES:
+:CONCEPT: uuid-d22f242f-2b40-4608-81a6-ae7c46416473 / POWER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 51
+:END:
+勢@shì	[[tls:concept:POWER::#uuid-d22f242f-2b40-4608-81a6-ae7c46416473][POWER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / position of power; strategic advantage; power; clout
+** 情非憎君也	Their real feelings are not of hate for the ruler 
+:PROPERTIES:
+:SRC: HF 17.02:09; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a53:50::情非 / 韓非子
+:CHARPOS: 50
+:END:
+*** 情@qíng
+:PROPERTIES:
+:CONCEPT: uuid-bffda197-c6bb-4a87-80d9-6ce0b8512123 / FEELING
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 50
+:END:
+情@qíng	[[tls:concept:FEELING::#uuid-bffda197-c6bb-4a87-80d9-6ce0b8512123][FEELING]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / real inner state; innermost feelings; real inner feelings; basic feelings; basic loyalties; sentiment
+*** 憎@zēng
+:PROPERTIES:
+:CONCEPT: uuid-1a4b246c-8f8e-45fa-801d-f52b51af3097 / HATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+憎@zēng	[[tls:concept:HATE::#uuid-1a4b246c-8f8e-45fa-801d-f52b51af3097][HATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / show comparative dislike for 甚憎
+** 利在君之死也	but their advantage is in the ruler's death. 
+:PROPERTIES:
+:SRC: HF 17.02:09; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a54:50::利在 / 韓非子
+:CHARPOS: 50
+:END:
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-ac12b3dd-546e-4612-924f-57fead4d71b4 / PROFIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 50
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-ac12b3dd-546e-4612-924f-57fead4d71b4][PROFIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / assets; what is profitable, what profits; what is in one's interest, benefit; objective interest; what one can aim for as profit
+** 故人主不可以不加心於利己死者	Therefore the ruler of men must think about those who would profit from his death. 
+:PROPERTIES:
+:SRC: HF 17.02:10; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a55:50::故人 / 韓非子
+:CHARPOS: 50
+:END:
+*** 加@jiā
+:PROPERTIES:
+:CONCEPT: uuid-77fd208e-aad5-42e8-943e-74840ce7424c / USE
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:CHARPOS: 57
+:END:
+加@jiā	[[tls:concept:USE::#uuid-77fd208e-aad5-42e8-943e-74840ce7424c][USE]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] / use (something N1) on (a goal N2) 加兵於齊 HN: 不能將加誅於子
+*** 加心@jiāxīn
+:PROPERTIES:
+:CONCEPT: uuid-50b48c82-9ef1-4fea-ae5c-7960222c6194 / THINK
+:SYN-FUNC: uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c
+:CHARPOS: 57
+:END:
+加心@jiāxīn	[[tls:concept:THINK::#uuid-50b48c82-9ef1-4fea-ae5c-7960222c6194][THINK]]	V [[tls:syn-func::#uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c][VPt+prep+N]] / think about N
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-f3554251-7560-4a8e-a167-2245f5b01791 / PROFIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21
+:CHARPOS: 60
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-f3554251-7560-4a8e-a167-2245f5b01791][PROFIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / regard as beneficial to one's interests; see one's advantage in; profit from; see the benefit in
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-8cb1f513-e355-4bfd-b52c-aa2b4dcd934c / SELF
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 61
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-8cb1f513-e355-4bfd-b52c-aa2b4dcd934c][SELF]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / emphatic or contrastive form of 其； (often but not always contrastive:) one's his/her/its own N; all of one's own (and special)
+*** 死@sǐ
+:PROPERTIES:
+:CONCEPT: uuid-2ebad24c-43d3-49fa-a7fd-64cb258fbf16 / DIE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 62
+:END:
+死@sǐ	[[tls:concept:DIE::#uuid-2ebad24c-43d3-49fa-a7fd-64cb258fbf16][DIE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / death, also abstract: the fact of dying; mode of dying
+** 故日月暈圍於外	Sun and moon are surrounded by haloes, 
+:PROPERTIES:
+:SRC: HF 17.02:10; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a56:50::故日 / 韓非子
+:CHARPOS: 50
+:END:
+*** 暈@yùn
+:PROPERTIES:
+:CONCEPT: uuid-623757aa-bb8c-4aab-a81c-87bb0eb3bcce / CLOUD
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+暈@yùn	[[tls:concept:CLOUD::#uuid-623757aa-bb8c-4aab-a81c-87bb0eb3bcce][CLOUD]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / vapour, halo (round sun or moon) LSCQ
+** 其賊在內	but their villain is within. 
+:PROPERTIES:
+:SRC: HF 17.02:10; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a57:50::其賊 / 韓非子
+:CHARPOS: 50
+:END:
+*** 賊@zéi
+:PROPERTIES:
+:CONCEPT: uuid-f8bb655f-67e1-4f9f-82d7-e97ddcfed5e7 / VILLAIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+賊@zéi	[[tls:concept:VILLAIN::#uuid-f8bb655f-67e1-4f9f-82d7-e97ddcfed5e7][VILLAIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / bandit; villain, thief, thug, malefactor; bandit; guilty person, culprit
+** 備其所憎	People are well prepared against those they hate, 
+:PROPERTIES:
+:SRC: HF 17.02:10; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a58:50::備其 / 韓非子
+:CHARPOS: 50
+:END:
+*** 備@bèi
+:PROPERTIES:
+:CONCEPT: uuid-26328d5e-9754-4b7c-92e5-b1a5ca8eb150 / DEFEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+備@bèi	[[tls:concept:DEFEND::#uuid-26328d5e-9754-4b7c-92e5-b1a5ca8eb150][DEFEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / guard against; guard properly against; prepare against, put up defences against
+*** 憎@zēng
+:PROPERTIES:
+:CONCEPT: uuid-67e3c536-13de-4ee7-8371-464aec09a688 / HATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+憎@zēng	[[tls:concept:HATE::#uuid-67e3c536-13de-4ee7-8371-464aec09a688][HATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / detest; harbour strong dislike
+** 禍在所愛	but their misfortune comes from those whom they love. 
+:PROPERTIES:
+:SRC: HF 17.02:10; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a59:50::禍在 / 韓非子
+:CHARPOS: 50
+:END:
+*** 禍@huò
+:PROPERTIES:
+:CONCEPT: uuid-ce028b85-92d3-4813-9249-712c401e5ffb / DISASTER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 50
+:END:
+禍@huò	[[tls:concept:DISASTER::#uuid-ce028b85-92d3-4813-9249-712c401e5ffb][DISASTER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / disaster; disastrous fate, unhappy outcome; bad luck; sad fate
+*** 愛@ài
+:PROPERTIES:
+:CONCEPT: uuid-c4d8b893-0a44-40c8-9056-7b020611962e / LOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-29889333-8016-43fa-9919-1cf8c4f74919
+:CHARPOS: 53
+:END:
+愛@ài	[[tls:concept:LOVE::#uuid-c4d8b893-0a44-40c8-9056-7b020611962e][LOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-29889333-8016-43fa-9919-1cf8c4f74919][erotic]]} / be in love with; love dearly; be very fond of; have very fond feelings for; be emotionally attached to
+** 是故明王	Therefore the enlightened ruler 
+:PROPERTIES:
+:SRC: HF 17.02:11; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a60:50::是故 / 韓非子
+:CHARPOS: 50
+:END:
+*** 是故@shìgù
+:PROPERTIES:
+:CONCEPT: uuid-ce6ec2ab-110e-4aac-b0bd-8044b100fa50 / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-2e959f8a-db74-4130-98f4-38026d957374
+:CHARPOS: 50
+:END:
+是故@shìgù	[[tls:concept:THEREFORE::#uuid-ce6ec2ab-110e-4aac-b0bd-8044b100fa50][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-2e959f8a-db74-4130-98f4-38026d957374][objective reason]]} / for this objective reason: therefore
+*** 明王@míngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f29172e3-e64b-4fd9-83d5-e66d2f015c12 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 52
+:END:
+明王@míngwáng	[[tls:concept:RULER::#uuid-f29172e3-e64b-4fd9-83d5-e66d2f015c12][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / the entlightened king
+** 不舉不參之事	will not undertake uninvestigated tasks, 
+:PROPERTIES:
+:SRC: HF 17.02:11; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a60:50::不舉 / 韓非子
+:CHARPOS: 50
+:END:
+*** 舉@jǔ
+:PROPERTIES:
+:CONCEPT: uuid-9fc5a01f-ee3c-4076-a07b-860ef7cd79a0 / ACT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+舉@jǔ	[[tls:concept:ACT::#uuid-9fc5a01f-ee3c-4076-a07b-860ef7cd79a0][ACT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / undertake, carry out, do; to stage 舉事
+*** 參@cān
+:PROPERTIES:
+:CONCEPT: uuid-5836b518-af8c-47e2-8299-6959edf8f381 / CHECK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 53
+:END:
+參@cān	[[tls:concept:CHECK::#uuid-5836b518-af8c-47e2-8299-6959edf8f381][CHECK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / cross-checked 不參之事
+** 不食非常之食	and he will not eat extraordinary foods. 
+:PROPERTIES:
+:SRC: HF 17.02:11; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a61:50::不食 / 韓非子
+:CHARPOS: 50
+:END:
+*** 食@shí
+:PROPERTIES:
+:CONCEPT: uuid-cd902983-7a39-4205-b48c-0394ac183b08 / FOOD
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 51
+:END:
+食@shí	[[tls:concept:FOOD::#uuid-cd902983-7a39-4205-b48c-0394ac183b08][FOOD]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / Note that Lù Démíng reads this meaning as sì in several places of 經典釋文: provisions; food supply; staple food; food for general sustenance while at home; (e.g. beg for) something to eat; food supplies; fodder (e.g. for horses)
+** 以審內外之失	so that he may investigate errors inside and outside the court; 
+:PROPERTIES:
+:SRC: HF 17.02:11; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a62:50::以審 / 韓非子
+:CHARPOS: 50
+:END:
+*** 失@shī
+:PROPERTIES:
+:CONCEPT: uuid-42891b88-ed72-4a4b-8dea-66bad1fc5164 / MISTAKE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+失@shī	[[tls:concept:MISTAKE::#uuid-42891b88-ed72-4a4b-8dea-66bad1fc5164][MISTAKE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / inadvertent mistake or transgression; inadvertent mistake (of a superior), insouciance; transgression; faulty point
+** 省同異之言	he looks closely into variations between proposals 
+:PROPERTIES:
+:SRC: HF 17.02:11; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a63:50::省同 / 韓非子
+:CHARPOS: 50
+:END:
+*** 省@xǐng
+:PROPERTIES:
+:CONCEPT: uuid-3a0f1374-9f22-42d1-ae81-9b2ac36edf73 / INVESTIGATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 50
+:END:
+省@xǐng	[[tls:concept:INVESTIGATE::#uuid-3a0f1374-9f22-42d1-ae81-9b2ac36edf73][INVESTIGATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / examine (oneself in three respects etc)
+** 以知朋黨之分	in order to understand the divisions between different cliques; 
+:PROPERTIES:
+:SRC: HF 17.02:11; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a63:50::以知 / 韓非子
+:CHARPOS: 50
+:END:
+*** 朋黨@péngdǎng
+:PROPERTIES:
+:CONCEPT: uuid-4c055a94-4aed-433d-8a8f-d137886730bf / FACTION
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 52
+:END:
+朋黨@péngdǎng	[[tls:concept:FACTION::#uuid-4c055a94-4aed-433d-8a8f-d137886730bf][FACTION]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / friendship group, association of friends; friends
+** 偶參伍之驗	he conducts unexpected multiple checks 
+:PROPERTIES:
+:SRC: HF 17.02:11; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a64:50::偶參 / 韓非子
+:CHARPOS: 50
+:END:
+*** 偶@ǒu
+:PROPERTIES:
+:CONCEPT: uuid-7866e1d8-7f94-4f89-8e05-4a24a5aff1e3 / TWO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+偶@ǒu	[[tls:concept:TWO::#uuid-7866e1d8-7f94-4f89-8e05-4a24a5aff1e3][TWO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to redouble??; to pair up??
+*** 驗@yàn
+:PROPERTIES:
+:CONCEPT: uuid-f709a315-62b1-46f2-876e-2bca2c786d71 / PROVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d
+:CHARPOS: 54
+:END:
+驗@yàn	[[tls:concept:PROVE::#uuid-f709a315-62b1-46f2-876e-2bca2c786d71][PROVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d][factual]]} / clear evidence for the truth of a proposition
+** 以責陳言之實	in order to take people to task for the performance of their proposals. 
+:PROPERTIES:
+:SRC: HF 17.02:11; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a64:50::以責 / 韓非子
+:CHARPOS: 50
+:END:
+*** 責@zé
+:PROPERTIES:
+:CONCEPT: uuid-d0be035d-8fd3-4e26-b16e-71f1c1daafbd / RESPONSIBILITY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21
+:CHARPOS: 51
+:END:
+責@zé	[[tls:concept:RESPONSIBILITY::#uuid-d0be035d-8fd3-4e26-b16e-71f1c1daafbd][RESPONSIBILITY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / hold responsible for (one's proposals); hold (someone) responsible for the execution of his duties
+*** 陳@chén
+:PROPERTIES:
+:CONCEPT: uuid-2b82cb78-2203-4f37-94fc-b975779bce74 / SPEAK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+陳@chén	[[tls:concept:SPEAK::#uuid-2b82cb78-2203-4f37-94fc-b975779bce74][SPEAK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / putr forward, uttered
+*** 實@shí
+:PROPERTIES:
+:CONCEPT: uuid-59cdd908-d57d-4f07-8eae-3a16a5f673c4 / REALITY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 55
+:END:
+實@shí	[[tls:concept:REALITY::#uuid-59cdd908-d57d-4f07-8eae-3a16a5f673c4][REALITY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / feature of being real, feature of corresponding to the truth 言之實 "the truth contained in words"
+** 執後以應前	He takes final results as a basis for response to first proposals, 
+:PROPERTIES:
+:SRC: HF 17.02:12; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a65:50::執後 / 韓非子
+:CHARPOS: 50
+:END:
+*** 後@hòu
+:PROPERTIES:
+:CONCEPT: uuid-7678d9b2-a3b1-45a0-bc2a-b62b9f1f1a86 / THEREUPON
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 51
+:END:
+後@hòu	[[tls:concept:THEREUPON::#uuid-7678d9b2-a3b1-45a0-bc2a-b62b9f1f1a86][THEREUPON]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / the later ones (i.e. words); what comes later (the results)
+*** 前@qián
+:PROPERTIES:
+:CONCEPT: uuid-5e3ccb3a-349b-4472-a7c7-704ba288e3cd / PAST
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 54
+:END:
+前@qián	[[tls:concept:PAST::#uuid-5e3ccb3a-349b-4472-a7c7-704ba288e3cd][PAST]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / the earlier ones (e.g. words, deeds)
+** 按法以治眾	he takes the law as a basis to govern the masses, 
+:PROPERTIES:
+:SRC: HF 17.02:12; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a66:50::按法 / 韓非子
+:CHARPOS: 50
+:END:
+*** 按@àn
+:PROPERTIES:
+:CONCEPT: uuid-f7e8298f-ef6a-4896-b16d-3244313c2b4d / CONFORM
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 50
+:END:
+按@àn	[[tls:concept:CONFORM::#uuid-f7e8298f-ef6a-4896-b16d-3244313c2b4d][CONFORM]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / in accordance with, basing oneself on
+*** 眾@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-816ca893-96df-40bb-90ba-5b92b5d057e7 / PEOPLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 54
+:END:
+眾@zhòng	[[tls:concept:PEOPLE::#uuid-816ca893-96df-40bb-90ba-5b92b5d057e7][PEOPLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a crowd; the masses; the multitides; the population (as something quantifiable)
+** 士無幸賞	When freemen do not get rewards by good luck 
+:PROPERTIES:
+:SRC: HF 17.02:13; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a68:1::士無 / 韓非子
+:CHARPOS: 1
+:END:
+*** 幸@xìng
+:PROPERTIES:
+:CONCEPT: uuid-d70a6fa5-9cda-4dca-804e-841c8b2c669f / LUCK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+幸@xìng	[[tls:concept:LUCK::#uuid-d70a6fa5-9cda-4dca-804e-841c8b2c669f][LUCK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / lucky, what is a matter of luck only
+*** 賞@shǎng
+:PROPERTIES:
+:CONCEPT: uuid-2aee0b14-4418-4256-8345-331c6b5ba40c / REWARD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+賞@shǎng	[[tls:concept:REWARD::#uuid-2aee0b14-4418-4256-8345-331c6b5ba40c][REWARD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / rewards
+** 無踰行	they will not transgress; 
+:PROPERTIES:
+:SRC: HF 17.02:13; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a69:50::無踰 / 韓非子
+:CHARPOS: 50
+:END:
+*** 〓#逾@yú
+:PROPERTIES:
+:CONCEPT: uuid-52d2e8b6-28d2-4e6c-9eac-aae012b7205e / ARROGATE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+〓#逾@yú	[[tls:concept:ARROGATE::#uuid-52d2e8b6-28d2-4e6c-9eac-aae012b7205e][ARROGATE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / transgressing, inappropriate, illicit
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-3153abac-5d72-44c0-ae8b-2d6f444d2c1d / ACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-3153abac-5d72-44c0-ae8b-2d6f444d2c1d][ACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / xìng: professional conduct, public demeanour, public conduct; personal conduct, behaviour
+** 殺必當	when executions are unfailingly in accordance to acts committed 
+:PROPERTIES:
+:SRC: HF 17.02:13; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a70:50::殺必 / 韓非子
+:CHARPOS: 50
+:END:
+*** 殺@shā
+:PROPERTIES:
+:CONCEPT: uuid-afe5b1a5-f013-4295-957c-e56a020db928 / EXECUTE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+殺@shā	[[tls:concept:EXECUTE::#uuid-afe5b1a5-f013-4295-957c-e56a020db928][EXECUTE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / executions
+*** 當@dāng
+:PROPERTIES:
+:CONCEPT: uuid-e87a2e41-cd9f-440e-ae18-cfe0a2c6141e / APPROPRIATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 52
+:END:
+當@dāng	[[tls:concept:APPROPRIATE::#uuid-e87a2e41-cd9f-440e-ae18-cfe0a2c6141e][APPROPRIATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be appropriate; be to the point; be the right thing in the right place
+** 罪不赦	and crimes are not forgiven 
+:PROPERTIES:
+:SRC: HF 17.02:13; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a71:50::罪不 / 韓非子
+:CHARPOS: 50
+:END:
+*** 罪@zuì
+:PROPERTIES:
+:CONCEPT: uuid-bb791507-5aa4-4b1b-bca3-31530b4861b2 / CRIME
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+罪@zuì	[[tls:concept:CRIME::#uuid-bb791507-5aa4-4b1b-bca3-31530b4861b2][CRIME]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / criminal offence, deliberate illegal act; punishable crime; grave fault
+*** 赦@shè
+:PROPERTIES:
+:CONCEPT: uuid-1a31857e-e2bd-4266-b49a-8c0209fc77e8 / FORGIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+赦@shè	[[tls:concept:FORGIVE::#uuid-1a31857e-e2bd-4266-b49a-8c0209fc77e8][FORGIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / go unprosecuted; be forgiven in the sense of not being punished
+*** 赦@shè
+:PROPERTIES:
+:CONCEPT: uuid-1f0feae4-5ce3-4ee0-8e6f-49e2a6eaee8f / PARDON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 52
+:END:
+赦@shè	[[tls:concept:PARDON::#uuid-1f0feae4-5ce3-4ee0-8e6f-49e2a6eaee8f][PARDON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be forgiven, be pardoned; also: be aquited because not guilty
+** 則姦邪無所容其私	then the wicked find no place for their selfish pursuits. 
+:PROPERTIES:
+:SRC: HF 17.02:13; jiaoshi 195; jishi 289; jiaozhu 156; shiping 540
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:2a72:50::則姦 / 韓非子
+:CHARPOS: 50
+:END:
+*** 姦邪@jiānxié
+:PROPERTIES:
+:CONCEPT: uuid-25074cb8-b737-4b91-86cb-d01a93e2f4e6 / WICKED
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+姦邪@jiānxié	[[tls:concept:WICKED::#uuid-25074cb8-b737-4b91-86cb-d01a93e2f4e6][WICKED]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the wicked and depraved
+*** 容@róng
+:PROPERTIES:
+:CONCEPT: uuid-8d3a8377-dfac-4609-aaf4-f3fd96d3bd6a / CONTAIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 55
+:END:
+容@róng	[[tls:concept:CONTAIN::#uuid-8d3a8377-dfac-4609-aaf4-f3fd96d3bd6a][CONTAIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / have room for, be able to accomodate
+*** 私@sī
+:PROPERTIES:
+:CONCEPT: uuid-9b86191d-dc42-4a65-aaba-fe3aba0b43ef / SELFISH
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 57
+:END:
+私@sī	[[tls:concept:SELFISH::#uuid-9b86191d-dc42-4a65-aaba-fe3aba0b43ef][SELFISH]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / pursuit of private interests, private aims; selfish purposes; private selfishness; egotism
+** 徭役多則民苦	When there is a lot of corvee labour then the people suffer hardship, 
+:PROPERTIES:
+:SRC: HF 17.03:01; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a01:50::徭役 / 韓非子
+:CHARPOS: 50
+:END:
+*** 徭役@yáoyì
+:PROPERTIES:
+:CONCEPT: uuid-163a1a00-0a7d-45d9-bed2-d4ded2a29e50 / SLAVE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+徭役@yáoyì	[[tls:concept:SLAVE::#uuid-163a1a00-0a7d-45d9-bed2-d4ded2a29e50][SLAVE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / corvee labour force
+*** 多@duō
+:PROPERTIES:
+:CONCEPT: uuid-cf97e9fd-99e0-4c4a-9af2-538dc33680b1 / MANY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+多@duō	[[tls:concept:MANY::#uuid-cf97e9fd-99e0-4c4a-9af2-538dc33680b1][MANY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be many; be abundant, be much; be more than enough; be in a majority
+*** 苦@kǔ
+:PROPERTIES:
+:CONCEPT: uuid-d2b0639d-f480-4951-999d-ed95c298adfe / SUFFER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 55
+:END:
+苦@kǔ	[[tls:concept:SUFFER::#uuid-d2b0639d-f480-4951-999d-ed95c298adfe][SUFFER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / suffer hardship
+** 民苦則權勢起	when the people suffer hardship then political power-play will increase; 
+:PROPERTIES:
+:SRC: HF 17.03:01; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a02:50::民苦 / 韓非子
+:CHARPOS: 50
+:END:
+*** 苦@kǔ
+:PROPERTIES:
+:CONCEPT: uuid-d2b0639d-f480-4951-999d-ed95c298adfe / SUFFER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 51
+:END:
+苦@kǔ	[[tls:concept:SUFFER::#uuid-d2b0639d-f480-4951-999d-ed95c298adfe][SUFFER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / suffer hardship
+*** 起@qǐ
+:PROPERTIES:
+:CONCEPT: uuid-522631c6-ec38-42ec-a09a-0d7e88205140 / ARISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 55
+:END:
+起@qǐ	[[tls:concept:ARISE::#uuid-522631c6-ec38-42ec-a09a-0d7e88205140][ARISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / arise
+** 權勢起則復除重	when political power-play will increase, then one will exempt the powerful from taxes; 
+:PROPERTIES:
+:SRC: HF 17.03:01; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a03:50::權勢 / 韓非子
+:CHARPOS: 50
+:END:
+*** 復@fù
+:PROPERTIES:
+:CONCEPT: uuid-933d3a61-1dd8-48a1-b20c-085cd3efe78a / RELEASE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+復@fù	[[tls:concept:RELEASE::#uuid-933d3a61-1dd8-48a1-b20c-085cd3efe78a][RELEASE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / exempt from taxes (see Zhang Jue on HF 17.3.1ff)
+*** 除@chú
+:PROPERTIES:
+:CONCEPT: uuid-34c34d6e-1b0a-4965-a0f8-463b550bdcb4 / RELEASE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+除@chú	[[tls:concept:RELEASE::#uuid-34c34d6e-1b0a-4965-a0f8-463b550bdcb4][RELEASE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / exempt from taxes
+** 復除重則貴人富	when the powerful are exempted from taxes then the noble become rich. 
+:PROPERTIES:
+:SRC: HF 17.03:01; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a04:50::復除 / 韓非子
+:CHARPOS: 50
+:END:
+*** 富@fù
+:PROPERTIES:
+:CONCEPT: uuid-b3058e4f-33b7-4a5c-a4af-945b91710ef8 / RICH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 56
+:END:
+富@fù	[[tls:concept:RICH::#uuid-b3058e4f-33b7-4a5c-a4af-945b91710ef8][RICH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / get rich; get richer; try to get richer
+** 苦民以富貴人	If one brings hardship to the people and riches to the noble 
+:PROPERTIES:
+:SRC: HF 17.03:02; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a05:50::苦民 / 韓非子
+:CHARPOS: 50
+:END:
+*** 苦@kǔ
+:PROPERTIES:
+:CONCEPT: uuid-3dc59312-e5a9-40f1-b51f-4b0b1262a98f / DISTRESS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+苦@kǔ	[[tls:concept:DISTRESS::#uuid-3dc59312-e5a9-40f1-b51f-4b0b1262a98f][DISTRESS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause distress to; embitter
+*** 富@fù
+:PROPERTIES:
+:CONCEPT: uuid-e55366eb-36b3-4e17-bdfb-5b95f51226a8 / RICH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 53
+:END:
+富@fù	[[tls:concept:RICH::#uuid-e55366eb-36b3-4e17-bdfb-5b95f51226a8][RICH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / make rich
+** 起勢以藉人臣	if one increases the possibilities for political influence and relies on ministers 
+:PROPERTIES:
+:SRC: HF 17.03:02; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a06:50::起勢 / 韓非子
+:CHARPOS: 50
+:END:
+*** 勢@shì
+:PROPERTIES:
+:CONCEPT: uuid-d22f242f-2b40-4608-81a6-ae7c46416473 / POWER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 51
+:END:
+勢@shì	[[tls:concept:POWER::#uuid-d22f242f-2b40-4608-81a6-ae7c46416473][POWER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / position of power; strategic advantage; power; clout
+*** 藉@jiè
+:PROPERTIES:
+:CONCEPT: uuid-a347b739-efee-4e41-8660-f74722325757 / RELY ON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+藉@jiè	[[tls:concept:RELY ON::#uuid-a347b739-efee-4e41-8660-f74722325757][RELY ON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / rely on; appeal to (as an authority)
+** 非天下長利也	that is not to the long-term benefit of the world. 
+:PROPERTIES:
+:SRC: HF 17.03:02; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a07:50::非天 / 韓非子
+:CHARPOS: 50
+:END:
+*** 長@cháng
+:PROPERTIES:
+:CONCEPT: uuid-14427b46-21c1-41f1-a414-24c4d4f2b768 / ENDURING
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 53
+:END:
+長@cháng	[[tls:concept:ENDURING::#uuid-14427b46-21c1-41f1-a414-24c4d4f2b768][ENDURING]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / lasting, enduring; long-term; long
+** 徭役少則民安	When forced labour is little then the people are in peace, 
+:PROPERTIES:
+:SRC: HF 17.03:02; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a09:1::徭役 / 韓非子
+:CHARPOS: 1
+:END:
+*** 徭役@yáoyì
+:PROPERTIES:
+:CONCEPT: uuid-163a1a00-0a7d-45d9-bed2-d4ded2a29e50 / SLAVE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+徭役@yáoyì	[[tls:concept:SLAVE::#uuid-163a1a00-0a7d-45d9-bed2-d4ded2a29e50][SLAVE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / corvee labour force
+*** 少@shǎo
+:PROPERTIES:
+:CONCEPT: uuid-5b5aa3d2-3402-459e-b668-a8ea5aff2679 / FEW
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+少@shǎo	[[tls:concept:FEW::#uuid-5b5aa3d2-3402-459e-b668-a8ea5aff2679][FEW]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be few in number; be few things
+** 下無重權	when subordinates have not political influence 
+:PROPERTIES:
+:SRC: HF 17.03:02; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a11:1::下無 / 韓非子
+:CHARPOS: 1
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-d54113e1-0e89-4a74-89df-da682c49c9f4 / POWER
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+重@zhòng	[[tls:concept:POWER::#uuid-d54113e1-0e89-4a74-89df-da682c49c9f4][POWER]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / influential; powerful
+** 則權勢滅	then political power-play will be eroded, 
+:PROPERTIES:
+:SRC: HF 17.03:02; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a11:50::則權 / 韓非子
+:CHARPOS: 50
+:END:
+*** 權勢@quánshì
+:PROPERTIES:
+:CONCEPT: uuid-37a3054c-1203-4440-a604-15ccb5cfcaca / POWER
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 51
+:END:
+權勢@quánshì	[[tls:concept:POWER::#uuid-37a3054c-1203-4440-a604-15ccb5cfcaca][POWER]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / position of power
+*** 滅@miè
+:PROPERTIES:
+:CONCEPT: uuid-3cbf6774-78a8-40c4-a5e5-f046d01c00e0 / DESTROY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+滅@miè	[[tls:concept:DESTROY::#uuid-3cbf6774-78a8-40c4-a5e5-f046d01c00e0][DESTROY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be destroyed, be eroded; be annihilated
+** 權勢滅則德在上矣	and when political power-play is eroded then charismatic power is on top. 
+:PROPERTIES:
+:SRC: HF 17.03:02; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a12:50::權勢 / 韓非子
+:CHARPOS: 50
+:END:
+*** 權勢@quánshì
+:PROPERTIES:
+:CONCEPT: uuid-37a3054c-1203-4440-a604-15ccb5cfcaca / POWER
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 50
+:END:
+權勢@quánshì	[[tls:concept:POWER::#uuid-37a3054c-1203-4440-a604-15ccb5cfcaca][POWER]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / position of power
+** 今夫水之勝火亦明矣	Now it is surely evident that water wins against fire. 
+:PROPERTIES:
+:SRC: HF 17.03:03; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a13:50::今夫 / 韓非子
+:CHARPOS: 50
+:END:
+*** 今夫@jīnfú
+:PROPERTIES:
+:CONCEPT: uuid-a74baf11-c14b-4712-98b2-7590f1d81827 / THEREFORE
+:SYN-FUNC: uuid-0f498b7c-a31d-4e08-b8d2-252c22903ea8
+:CHARPOS: 50
+:END:
+今夫@jīnfú	[[tls:concept:THEREFORE::#uuid-a74baf11-c14b-4712-98b2-7590f1d81827][THEREFORE]]	P [[tls:syn-func::#uuid-0f498b7c-a31d-4e08-b8d2-252c22903ea8][PPadSS]] / now generally speaking
+*** 勝@shèng
+:PROPERTIES:
+:CONCEPT: uuid-74db4d78-7f4a-4bbb-a05d-bd9626db99a1 / WIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+勝@shèng	[[tls:concept:WIN::#uuid-74db4d78-7f4a-4bbb-a05d-bd9626db99a1][WIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / overcome, win against; compete successfully with; be superior to; overpower
+*** 亦@yì
+:PROPERTIES:
+:CONCEPT: uuid-3493aa28-6f02-4120-94a9-8e715b613632 / CERTAIN
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 56
+:END:
+亦@yì	[[tls:concept:CERTAIN::#uuid-3493aa28-6f02-4120-94a9-8e715b613632][CERTAIN]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / surely！ surely, like everyone else
+*** 明@míng
+:PROPERTIES:
+:CONCEPT: uuid-ef3205d1-e071-472b-aa82-659e58560d96 / CLEAR
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 57
+:END:
+明@míng	[[tls:concept:CLEAR::#uuid-ef3205d1-e071-472b-aa82-659e58560d96][CLEAR]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be evident; be transparent; be clearly visible
+** 然而釜鬵間之	However, if one puts pots and pans between the two 
+:PROPERTIES:
+:SRC: HF 17.03:03; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a14:50::然而 / 韓非子
+:CHARPOS: 50
+:END:
+*** 然而@ránér
+:PROPERTIES:
+:CONCEPT: uuid-38122fd6-3ed2-47f5-b484-dab032a8c81b / NONETHELESS
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:CHARPOS: 50
+:END:
+然而@ránér	[[tls:concept:NONETHELESS::#uuid-38122fd6-3ed2-47f5-b484-dab032a8c81b][NONETHELESS]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] / however
+*** 釜@fǔ
+:PROPERTIES:
+:CONCEPT: uuid-712cac12-6dbe-4aad-91c0-ee4018bc72bd / COOKING VESSEL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+釜@fǔ	[[tls:concept:COOKING VESSEL::#uuid-712cac12-6dbe-4aad-91c0-ee4018bc72bd][COOKING VESSEL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / cooking pot
+*** 鬵@qín
+:PROPERTIES:
+:CONCEPT: uuid-5101d726-d20f-4109-8bd8-8fe8ada856a6 / COOKING VESSEL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+鬵@qín	[[tls:concept:COOKING VESSEL::#uuid-5101d726-d20f-4109-8bd8-8fe8ada856a6][COOKING VESSEL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / cooking pot
+** 水煎沸竭盡其上	then the water is boiled dry on top 
+:PROPERTIES:
+:SRC: HF 17.03:03; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a15:50::水煎 / 韓非子
+:CHARPOS: 50
+:END:
+*** 煎@jiān
+:PROPERTIES:
+:CONCEPT: uuid-51229348-67ad-438a-af9e-b68b54f1b619 / BOIL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 51
+:END:
+煎@jiān	[[tls:concept:BOIL::#uuid-51229348-67ad-438a-af9e-b68b54f1b619][BOIL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / ZHUANG: to boil, to get to boiling point or be at boiling point
+*** 沸@fèi
+:PROPERTIES:
+:CONCEPT: uuid-10e19e04-e6b5-45fb-a4fe-0c9eb2f4d479 / BUBBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 52
+:END:
+沸@fèi	[[tls:concept:BUBBLE::#uuid-10e19e04-e6b5-45fb-a4fe-0c9eb2f4d479][BUBBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / to bubble; to boil; also: to foam
+** 而火得熾盛焚其下	and the fire gets to burn abundantly below: 
+:PROPERTIES:
+:SRC: HF 17.03:03; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a16:50::而火 / 韓非子
+:CHARPOS: 50
+:END:
+*** 火@huǒ
+:PROPERTIES:
+:CONCEPT: uuid-dcd6caa5-dfe1-45ff-a618-78d25df8d282 / FIRE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 51
+:END:
+火@huǒ	[[tls:concept:FIRE::#uuid-dcd6caa5-dfe1-45ff-a618-78d25df8d282][FIRE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / fire
+*** 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-d25c6f75-ef2b-4874-9c5d-0e53008e362f / ACHIEVE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:SEM-FEAT: uuid-229a701e-1341-4719-9af8-a0b4e69c6c71
+:CHARPOS: 52
+:END:
+得@dé	[[tls:concept:ACHIEVE::#uuid-d25c6f75-ef2b-4874-9c5d-0e53008e362f][ACHIEVE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] {[[tls:sem-feat::#uuid-229a701e-1341-4719-9af8-a0b4e69c6c71][perfective]]} / have a chance to; be able to, manage to
+*** 熾@chì
+:PROPERTIES:
+:CONCEPT: uuid-f90acfab-51ae-413b-a585-d27f83926d0f / BURN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+熾@chì	[[tls:concept:BURN::#uuid-f90acfab-51ae-413b-a585-d27f83926d0f][BURN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / burn intensely, blaze away
+*** 盛@chéng
+:PROPERTIES:
+:CONCEPT: uuid-72d7e4aa-8333-4e8e-a435-4f134c731b9d / ABUNDANT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 54
+:END:
+盛@chéng	[[tls:concept:ABUNDANT::#uuid-72d7e4aa-8333-4e8e-a435-4f134c731b9d][ABUNDANT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / abundantly, richly
+*** 焚@fén
+:PROPERTIES:
+:CONCEPT: uuid-54519d32-3174-41d1-a8f6-97c59c6a36c8 / BURN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 55
+:END:
+焚@fén	[[tls:concept:BURN::#uuid-54519d32-3174-41d1-a8f6-97c59c6a36c8][BURN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / burn down; burn; catch fire
+** 水失其所以勝者矣	the water has lost that by which it conquers. 
+:PROPERTIES:
+:SRC: HF 17.03:03; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a17:50::水失 / 韓非子
+:CHARPOS: 50
+:END:
+*** 失@shī
+:PROPERTIES:
+:CONCEPT: uuid-e35b6cc7-3576-43ab-947b-40dfd33ca153 / LOSE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 51
+:END:
+失@shī	[[tls:concept:LOSE::#uuid-e35b6cc7-3576-43ab-947b-40dfd33ca153][LOSE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / lose control of; lose the allegiance of (the people etc); come to lose what one used to abstractly have (like knowledge, control etc)
+*** 勝@shèng
+:PROPERTIES:
+:CONCEPT: uuid-74db4d78-7f4a-4bbb-a05d-bd9626db99a1 / WIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+勝@shèng	[[tls:concept:WIN::#uuid-74db4d78-7f4a-4bbb-a05d-bd9626db99a1][WIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / overcome, win against; compete successfully with; be superior to; overpower
+** 今夫治之禁姦又明於此	Now that the law prevents wickedness is even clearer than this, 
+:PROPERTIES:
+:SRC: HF 17.03:04; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a18:50::今夫 / 韓非子
+:CHARPOS: 50
+:END:
+*** 今夫@jīnfú
+:PROPERTIES:
+:CONCEPT: uuid-a74baf11-c14b-4712-98b2-7590f1d81827 / THEREFORE
+:SYN-FUNC: uuid-0f498b7c-a31d-4e08-b8d2-252c22903ea8
+:CHARPOS: 50
+:END:
+今夫@jīnfú	[[tls:concept:THEREFORE::#uuid-a74baf11-c14b-4712-98b2-7590f1d81827][THEREFORE]]	P [[tls:syn-func::#uuid-0f498b7c-a31d-4e08-b8d2-252c22903ea8][PPadSS]] / now generally speaking
+*** 又@yòu
+:PROPERTIES:
+:CONCEPT: uuid-60264292-3510-4ba7-a50a-e11438e8fa9f / MORE
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 56
+:END:
+又@yòu	[[tls:concept:MORE::#uuid-60264292-3510-4ba7-a50a-e11438e8fa9f][MORE]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / even more
+*** 明@míng
+:PROPERTIES:
+:CONCEPT: uuid-ad341e2b-fa8d-4253-8b32-4143467bdc53 / CLEAR
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 57
+:END:
+明@míng	[[tls:concept:CLEAR::#uuid-ad341e2b-fa8d-4253-8b32-4143467bdc53][CLEAR]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be clearer than
+** 然守法之臣為釜鬵之行	but if the ministers in charge of keeping the law act like the pots and pans 
+:PROPERTIES:
+:SRC: HF 17.03:04; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a19:50::然守 / 韓非子
+:CHARPOS: 50
+:END:
+*** 守@shǒu
+:PROPERTIES:
+:CONCEPT: uuid-6e57d5f8-a20d-4695-b8a5-67a341218652 / CONFORM
+:SYN-FUNC: uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5
+:CHARPOS: 51
+:END:
+守@shǒu	[[tls:concept:CONFORM::#uuid-6e57d5f8-a20d-4695-b8a5-67a341218652][CONFORM]]	V [[tls:syn-func::#uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5][vtoNab]] / keep in conformity with (Nature, the Way); observe carefully (duties etc); devote oneself carefully to the demands of
+** 則法獨明於胸中	then the laws are only clear in one's chest 
+:PROPERTIES:
+:SRC: HF 17.03:04; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a20:50::則法 / 韓非子
+:CHARPOS: 50
+:END:
+*** 胸@xiōng / 匈@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-c460c943-ce04-4b6a-8a17-49e8817d24e8 / CHEST
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 55
+:END:
+胸@xiōng / 匈@xiōng	[[tls:concept:CHEST::#uuid-c460c943-ce04-4b6a-8a17-49e8817d24e8][CHEST]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / chest; the seat of thoughts
+** 而已失其所以禁姦者矣	and they have already lost that by means of which they prevent wickedness. 
+:PROPERTIES:
+:SRC: HF 17.03:04; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a21:50::而已 / 韓非子
+:CHARPOS: 50
+:END:
+*** 姦@jiān
+:PROPERTIES:
+:CONCEPT: uuid-27ebe5a4-7a97-4f01-aab9-513e0b62244c / WICKED
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 57
+:END:
+姦@jiān	[[tls:concept:WICKED::#uuid-27ebe5a4-7a97-4f01-aab9-513e0b62244c][WICKED]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wickedness, villainy, villainous behaviour; moral incompetence
+** 上古之傳言	According to the oldest traditional accounts, 
+:PROPERTIES:
+:SRC: HF 17.03:05; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a22:50::上古 / 韓非子
+:CHARPOS: 50
+:END:
+*** 上古@shànggǔ
+:PROPERTIES:
+:CONCEPT: uuid-4cac6370-e655-4040-ae4f-7a110b812495 / PAST
+:SYN-FUNC: uuid-14b56546-32fd-4321-8d73-3e4b18316c15
+:CHARPOS: 50
+:END:
+上古@shànggǔ	[[tls:concept:PAST::#uuid-4cac6370-e655-4040-ae4f-7a110b812495][PAST]]	N [[tls:syn-func::#uuid-14b56546-32fd-4321-8d73-3e4b18316c15][NPadN]] / of high antiquity
+*** 傳@chuán
+:PROPERTIES:
+:CONCEPT: uuid-7fa126ce-cc22-402e-890b-6b83596378f8 / TRANSMIT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 53
+:END:
+傳@chuán	[[tls:concept:TRANSMIT::#uuid-7fa126ce-cc22-402e-890b-6b83596378f8][TRANSMIT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / transmitted
+** 犯法為逆以成大姦者	those who broke the law, committed crimes and perpetrated great wickedness 
+:PROPERTIES:
+:SRC: HF 17.03:05; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a24:1::犯法 / 韓非子
+:CHARPOS: 1
+:END:
+*** 犯@fàn
+:PROPERTIES:
+:CONCEPT: uuid-39d569aa-b41d-4d13-ad04-16e52b3fd85f / OFFEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-27c25f52-900b-48a9-8ca9-715cb9000e48
+:CHARPOS: 1
+:END:
+犯@fàn	[[tls:concept:OFFEND::#uuid-39d569aa-b41d-4d13-ad04-16e52b3fd85f][OFFEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-27c25f52-900b-48a9-8ca9-715cb9000e48][N=nonhu]]} / offend against, fail to obey; infringe, violate (laws etc) 民不敢犯法
+*** 逆@nì
+:PROPERTIES:
+:CONCEPT: uuid-3c1cf636-7158-4f28-9e09-7db39606a425 / OFFEND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+逆@nì	[[tls:concept:OFFEND::#uuid-3c1cf636-7158-4f28-9e09-7db39606a425][OFFEND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / act of offending the law, act of lawlessness
+*** 姦@jiān
+:PROPERTIES:
+:CONCEPT: uuid-27ebe5a4-7a97-4f01-aab9-513e0b62244c / WICKED
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 8
+:END:
+姦@jiān	[[tls:concept:WICKED::#uuid-27ebe5a4-7a97-4f01-aab9-513e0b62244c][WICKED]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wickedness, villainy, villainous behaviour; moral incompetence
+** 未嘗不從尊貴之臣也	invariably are on the side of from noble ministers. 
+:PROPERTIES:
+:SRC: HF 17.03:05; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a25:50::未嘗 / 韓非子
+:CHARPOS: 50
+:END:
+*** 未嘗不@wèichángbù
+:PROPERTIES:
+:CONCEPT: uuid-dc209827-8f84-4038-9f0b-6293d45f4eba / ENDURING
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 50
+:END:
+未嘗不@wèichángbù	[[tls:concept:ENDURING::#uuid-dc209827-8f84-4038-9f0b-6293d45f4eba][ENDURING]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / always; would always; never fail to
+*** 尊貴@zūnguì
+:PROPERTIES:
+:CONCEPT: uuid-51de0ac2-ee0c-4ae2-86bd-b65d6fe4e7b4 / NOBLE
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:CHARPOS: 54
+:END:
+尊貴@zūnguì	[[tls:concept:NOBLE::#uuid-51de0ac2-ee0c-4ae2-86bd-b65d6fe4e7b4][NOBLE]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] / distinguished
+*** 尊@zūn
+:PROPERTIES:
+:CONCEPT: uuid-4c3f428c-7a43-4615-b3b0-d05dfe0e1515 / NOBLE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 54
+:END:
+尊@zūn	[[tls:concept:NOBLE::#uuid-4c3f428c-7a43-4615-b3b0-d05dfe0e1515][NOBLE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / distinguished, of elevated status (both of persons and of th ranks they occupy)
+*** 貴@guì
+:PROPERTIES:
+:CONCEPT: uuid-f25a0e67-964c-4b0b-8b42-85b44642bdac / NOBLE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 55
+:END:
+貴@guì	[[tls:concept:NOBLE::#uuid-f25a0e67-964c-4b0b-8b42-85b44642bdac][NOBLE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / of high status, elevanted; noble
+** 常於卑賤	is invariably in order to bring them to bear on the humble and base. 
+:PROPERTIES:
+:SRC: HF 17.03:05; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a28:1::常於 / 韓非子
+:CHARPOS: 1
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-22ff920e-67b4-432e-83b0-2a28e2b510ca / RELATION
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 2
+:END:
+於@yú	[[tls:concept:RELATION::#uuid-22ff920e-67b4-432e-83b0-2a28e2b510ca][RELATION]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / relate to; be directed towards
+*** 卑賤@bēijiàn
+:PROPERTIES:
+:CONCEPT: uuid-2a7d5b38-5df8-4141-b5f5-2836ddf9ee61 / HUMBLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+卑賤@bēijiàn	[[tls:concept:HUMBLE::#uuid-2a7d5b38-5df8-4141-b5f5-2836ddf9ee61][HUMBLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / humble persons LSCQ
+*** 卑@bēi
+:PROPERTIES:
+:CONCEPT: uuid-7ee451b0-01e5-40c7-a207-fcda528434dd / HUMBLE
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+卑@bēi	[[tls:concept:HUMBLE::#uuid-7ee451b0-01e5-40c7-a207-fcda528434dd][HUMBLE]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / one who is of humble or low status
+** 是以其民絕望	This is why the people have no hope 
+:PROPERTIES:
+:SRC: HF 17.03:05; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a29:50::是以 / 韓非子
+:CHARPOS: 50
+:END:
+*** 是以@shìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-3a92c172-e577-45a8-a29a-c252711b03d5 / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f
+:CHARPOS: 50
+:END:
+是以@shìyǐ	[[tls:concept:THEREFORE::#uuid-3a92c172-e577-45a8-a29a-c252711b03d5][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f][objective]]} / for this objective reason
+*** 絕望@juéwàng
+:PROPERTIES:
+:CONCEPT: uuid-95f64d7f-ef68-41b3-bc5a-dcc724c666dd / DISAPPOINTED
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 54
+:END:
+絕望@juéwàng	[[tls:concept:DISAPPOINTED::#uuid-95f64d7f-ef68-41b3-bc5a-dcc724c666dd][DISAPPOINTED]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become disappointed; lose all hope
+*** 絕@jué
+:PROPERTIES:
+:CONCEPT: uuid-d85b2071-758e-4d30-81d9-43c7531d610a / STOP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 54
+:END:
+絕@jué	[[tls:concept:STOP::#uuid-d85b2071-758e-4d30-81d9-43c7531d610a][STOP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to be discontinued, discontinue, cut off; put a stop to
+*** 望@wàng / 望@(wáng)
+:PROPERTIES:
+:CONCEPT: uuid-ee15f1eb-0e2d-4402-ba53-867952bdccd0 / HOPE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 55
+:END:
+望@wàng / 望@(wáng)	[[tls:concept:HOPE::#uuid-ee15f1eb-0e2d-4402-ba53-867952bdccd0][HOPE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / hope 絕望"discontinue hopes, cut off hopes"; 失望 "lose one's hope"
+** 無所告愬	and they have no one to turn to to seek redress. 
+:PROPERTIES:
+:SRC: HF 17.03:05; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a30:50::無所 / 韓非子
+:CHARPOS: 50
+:END:
+*** 告愬@gàosù
+:PROPERTIES:
+:CONCEPT: uuid-fb5c76c3-b6a1-4719-b884-d7bc99369ee6 / ACCUSE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CONCEPT: uuid-58eeb63a-2222-4277-ab7f-f7a45b16dd9c / ACCUSE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+告愬@gàosù	[[tls:concept:ACCUSE::#uuid-fb5c76c3-b6a1-4719-b884-d7bc99369ee6][ACCUSE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / accuse and seek redress from
+訴@sù / 愬@sù	[[tls:concept:ACCUSE::#uuid-58eeb63a-2222-4277-ab7f-f7a45b16dd9c][ACCUSE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / make a complaint against someone concerning an injustice one has suffered from that person
+** 大臣比周	When the senior ministers form their gangs 
+:PROPERTIES:
+:SRC: HF 17.03:06; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a31:50::大臣 / 韓非子
+:CHARPOS: 50
+:END:
+*** 比周@bìzhōu
+:PROPERTIES:
+:CONCEPT: uuid-c00be2f3-d7f6-4af6-b082-47c88eb102ec / FACTION
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+比周@bìzhōu	[[tls:concept:FACTION::#uuid-c00be2f3-d7f6-4af6-b082-47c88eb102ec][FACTION]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / form factions 相與比周
+** 蔽上為一	they are united in keeping their superior in the dark. 
+:PROPERTIES:
+:SRC: HF 17.03:06; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a32:50::蔽上 / 韓非子
+:CHARPOS: 50
+:END:
+*** 蔽@bì / 弊@bì
+:PROPERTIES:
+:CONCEPT: uuid-d38c01e9-e93c-4bb8-aad4-4167541b8d22 / STUPID
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-5100e402-4cb5-4b99-929f-be674b3757d4
+:CHARPOS: 50
+:END:
+蔽@bì / 弊@bì	[[tls:concept:STUPID::#uuid-d38c01e9-e93c-4bb8-aad4-4167541b8d22][STUPID]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-5100e402-4cb5-4b99-929f-be674b3757d4][N=human]]} / block of the view of (a person), deliberately keep someone in the dark on something, isolate someone from information
+** 陰相善而陽相惡	Secretly they are on the best of terms but openly they display hatred 
+:PROPERTIES:
+:SRC: HF 17.03:06; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a33:50::陰相 / 韓非子
+:CHARPOS: 50
+:END:
+*** 陰@yīn
+:PROPERTIES:
+:CONCEPT: uuid-2c1c3866-fd7a-4211-8ca0-100d3b2d0917 / SECRET
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+陰@yīn	[[tls:concept:SECRET::#uuid-2c1c3866-fd7a-4211-8ca0-100d3b2d0917][SECRET]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / secretly; in an indirect way; in hidden ways
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-83577f2f-323f-45bc-8fb1-57b25a74b79b / FRIEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 52
+:END:
+善@shàn	[[tls:concept:FRIEND::#uuid-83577f2f-323f-45bc-8fb1-57b25a74b79b][FRIEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / treat well; be on good terms with; have good polivical relations with
+*** 陽@yáng
+:PROPERTIES:
+:CONCEPT: uuid-fda131c3-724b-416b-bda7-e506b3f159e9 / SHOW
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 54
+:END:
+陽@yáng	[[tls:concept:SHOW::#uuid-fda131c3-724b-416b-bda7-e506b3f159e9][SHOW]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / openly, in appearance; overtly; on the surface
+*** 惡@wù
+:PROPERTIES:
+:CONCEPT: uuid-b36b940f-a106-4d53-be2d-41de7a18530c / HATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 56
+:END:
+惡@wù	[[tls:concept:HATE::#uuid-b36b940f-a106-4d53-be2d-41de7a18530c][HATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / hate openly, detest, dislike strongly; LY 4.3: truly and properly dislike　甚惡"strongly dislike"
+** 以示無私	in order to show that they do not cultivate private interests. 
+:PROPERTIES:
+:SRC: HF 17.03:06; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a34:50::以示 / 韓非子
+:CHARPOS: 50
+:END:
+*** 示@shì
+:PROPERTIES:
+:CONCEPT: uuid-df8b9f3d-01eb-409e-ab3f-5e9987c840a7 / PRETEND
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+示@shì	[[tls:concept:PRETEND::#uuid-df8b9f3d-01eb-409e-ab3f-5e9987c840a7][PRETEND]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / pretend that
+*** 私@sī
+:PROPERTIES:
+:CONCEPT: uuid-9b86191d-dc42-4a65-aaba-fe3aba0b43ef / SELFISH
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+私@sī	[[tls:concept:SELFISH::#uuid-9b86191d-dc42-4a65-aaba-fe3aba0b43ef][SELFISH]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / pursuit of private interests, private aims; selfish purposes; private selfishness; egotism
+** 相為耳目	They act as spies for each other 
+:PROPERTIES:
+:SRC: HF 17.03:06; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a35:50::相為 / 韓非子
+:CHARPOS: 50
+:END:
+*** 為@wèi
+:PROPERTIES:
+:CONCEPT: uuid-b8a767f9-58c0-4d0a-98ea-90a8f1643346 / FOR
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 51
+:END:
+為@wèi	[[tls:concept:FOR::#uuid-b8a767f9-58c0-4d0a-98ea-90a8f1643346][FOR]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / acting for > for something; on someone's behalf; in someone's favour; for the sake of
+*** 耳目@ěrmù
+:PROPERTIES:
+:CONCEPT: uuid-51a6a96a-6861-444a-a245-a7a96fc2cd3e / ESPIONAGE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 52
+:END:
+耳目@ěrmù	[[tls:concept:ESPIONAGE::#uuid-51a6a96a-6861-444a-a245-a7a96fc2cd3e][ESPIONAGE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / act as spies
+** 以候主隙	and spy out rifts/weaknesses in the ruler on which to set to work. 
+:PROPERTIES:
+:SRC: HF 17.03:06; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a36:50::以候 / 韓非子
+:CHARPOS: 50
+:END:
+*** 候@hòu
+:PROPERTIES:
+:CONCEPT: uuid-60003a94-4738-46a0-b303-5f0b1ed3da11 / WAIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+候@hòu	[[tls:concept:WAIT::#uuid-60003a94-4738-46a0-b303-5f0b1ed3da11][WAIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / spy out; lie in waiting for
+*** 隙@xì
+:PROPERTIES:
+:CONCEPT: uuid-b2d4a1bf-5c42-4ed8-a6d3-733b936287f5 / WEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 53
+:END:
+隙@xì	[[tls:concept:WEAK::#uuid-b2d4a1bf-5c42-4ed8-a6d3-733b936287f5][WEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / weak point or state of weakness
+** 人主掩蔽	When the ruler is kept in the dark and blocked from information 
+:PROPERTIES:
+:SRC: HF 17.03:07; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a37:50::人主 / 韓非子
+:CHARPOS: 50
+:END:
+*** 人主@rénzhǔ
+:PROPERTIES:
+:CONCEPT: uuid-bec927f5-0304-4575-b245-7634a2099a95 / RULER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CONCEPT: uuid-6dbb5934-14dc-458f-ab56-667cb3aa017a / BLOCK
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CONCEPT: uuid-9e775219-2b31-4be1-987b-5b3250774660 / BLOCK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 50
+:END:
+人主@rénzhǔ	[[tls:concept:RULER::#uuid-bec927f5-0304-4575-b245-7634a2099a95][RULER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a ruler of men in general
+揜蔽@yǎnbì	[[tls:concept:BLOCK::#uuid-6dbb5934-14dc-458f-ab56-667cb3aa017a][BLOCK]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / get blocked
+揜@yǎn / 掩@yǎn	[[tls:concept:BLOCK::#uuid-9e775219-2b31-4be1-987b-5b3250774660][BLOCK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / have one's sight blocked
+*** 蔽@bì / 弊@bì
+:PROPERTIES:
+:CONCEPT: uuid-825b9cc9-ba5c-4ca4-b6c5-e3f8ff567439 / STUPID
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 53
+:END:
+蔽@bì / 弊@bì	[[tls:concept:STUPID::#uuid-825b9cc9-ba5c-4ca4-b6c5-e3f8ff567439][STUPID]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / be kept in the dark
+** 無道得聞	he has no way of hearing about things. 
+:PROPERTIES:
+:SRC: HF 17.03:07; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a38:50::無道 / 韓非子
+:CHARPOS: 50
+:END:
+*** 〓#導@dǎo / @
+:PROPERTIES:
+:CONCEPT: uuid-5a159734-53e5-4d7a-a87a-1186e413482c / FROM
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 50
+:END:
+〓#導@dǎo / @	[[tls:concept:FROM::#uuid-5a159734-53e5-4d7a-a87a-1186e413482c][FROM]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / dǎo?? by way of, through; by means of
+*** 得聞@déwén
+:PROPERTIES:
+:CONCEPT: uuid-a109c935-0556-4835-8483-406f6bba26a5 / LEARN
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332
+:CHARPOS: 52
+:END:
+得聞@déwén	[[tls:concept:LEARN::#uuid-a109c935-0556-4835-8483-406f6bba26a5][LEARN]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-229b7720-3cfd-45ff-9b2b-df9c733e6332][inchoative]]} / get to hear about, come to learn about
+*** end:
+有主名而無實，¶
+:PROPERTIES:
+
+:CHARPOS: 50
+:END:
+end:
+有主名而無實，¶	He is ruler in name but not in reality.
+*** :zhu:
+名@míng
+:PROPERTIES:
+:CONCEPT: uuid-c8b1990d-fdf2-43b6-8ed8-bda435ec73d4 / TITLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CONCEPT: uuid-1492e230-fec2-4503-bffb-918ff38baf9a / REALITY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 50
+:END:
+:zhu:
+名@míng	[[tls:concept:TITLE::#uuid-c8b1990d-fdf2-43b6-8ed8-bda435ec73d4][TITLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / title; mere title; job assignment NB: WRONG SYNONYM GROUP!
+實@shí	[[tls:concept:REALITY::#uuid-1492e230-fec2-4503-bffb-918ff38baf9a][REALITY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / concrete reality (versus mere name or title); real facts of a matter; material conditions
+** 臣專法而行之	Then the ministers monopolise the law and practise it. 
+:PROPERTIES:
+:SRC: HF 17.03:07; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a40:50::臣專 / 韓非子
+:CHARPOS: 50
+:END:
+*** 臣@chén
+:PROPERTIES:
+:CONCEPT: uuid-aed10223-80f7-4442-b223-8350e948060e / MINISTER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+臣@chén	[[tls:concept:MINISTER::#uuid-aed10223-80f7-4442-b223-8350e948060e][MINISTER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the minister in general, ministers in general
+*** 專@zhuān
+:PROPERTIES:
+:CONCEPT: uuid-8d4c4bc9-15dd-4773-aedb-39123b614497 / MONOPOLISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+專@zhuān	[[tls:concept:MONOPOLISE::#uuid-8d4c4bc9-15dd-4773-aedb-39123b614497][MONOPOLISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / monopolise, keep a monopoly for, control to the exclusion of others
+** 周天子是也	The Sons of Heaven of the Zhōu were of this sort. 
+:PROPERTIES:
+:SRC: HF 17.03:07; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a41:50::周天 / 韓非子
+:CHARPOS: 50
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-996d3d9d-982c-4531-966f-c169d20a0767 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 51
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-996d3d9d-982c-4531-966f-c169d20a0767][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the Sons of Heaven (of the Zhou dynasty, of a given time)
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-360710ac-befe-4876-9049-5978a7651960 / SUCH
+:SYN-FUNC: uuid-57ce2afe-2539-46f3-abe4-7f85130914ca
+:CHARPOS: 53
+:END:
+是@shì	[[tls:concept:SUCH::#uuid-360710ac-befe-4876-9049-5978a7651960][SUCH]]	N [[tls:syn-func::#uuid-57ce2afe-2539-46f3-abe4-7f85130914ca][npro{PRED}]] / be such; be a paradigmatic example; be a typical case in point; be a relevant example; be a paradigm case
+** 則上下易位矣	then superordinates and subordinates change places. 
+:PROPERTIES:
+:SRC: HF 17.03:07; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a43:1::則上 / 韓非子
+:CHARPOS: 1
+:END:
+*** 下@xià
+:PROPERTIES:
+:CONCEPT: uuid-d99cf243-a29d-4098-8b4b-fd165c840ddc / SUBJECT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-d4180c2b-fab5-47cb-98ae-0655da1c313a
+:CHARPOS: 3
+:END:
+下@xià	[[tls:concept:SUBJECT::#uuid-d99cf243-a29d-4098-8b4b-fd165c840ddc][SUBJECT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-d4180c2b-fab5-47cb-98ae-0655da1c313a][plur]]} / a subordinate, a (public) servant; those below, the subjects; people of low status
+*** 易@yì
+:PROPERTIES:
+:CONCEPT: uuid-0d632a12-22af-4c59-9fe7-81ff3f60454d / EXCHANGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+易@yì	[[tls:concept:EXCHANGE::#uuid-0d632a12-22af-4c59-9fe7-81ff3f60454d][EXCHANGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to exchange one thing for another, swap; possibly with the underlying implication that there are only two possibilities in question
+** 此言人臣之不可借權勢也	This means that the ministers should not borrow political authority. 
+:PROPERTIES:
+:SRC: HF 17.03:07; jiaoshi 198; jishi 290; jiaozhu 158; shiping 547
+:DATE: 8110	late Warring States
+:LOCATION: KR3c0005_017:3a43:50::此言 / 韓非子
+:CHARPOS: 50
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-19a38464-f28d-4fe4-9054-51113a807df9 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675
+:CHARPOS: 50
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-19a38464-f28d-4fe4-9054-51113a807df9][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-45e5fae0-910d-45d4-8353-3a1b0d97b675][reference=text]]} / this (aforementioned utterance, or quotation)
+*** 人臣@rénchén
+:PROPERTIES:
+:CONCEPT: uuid-ab986d15-df1c-4213-8860-0e26918e4fa6 / MINISTER
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+人臣@rénchén	[[tls:concept:MINISTER::#uuid-ab986d15-df1c-4213-8860-0e26918e4fa6][MINISTER]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a minister; ministers (non-referential)
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-4cf109ea-e1ef-489a-b1ae-0c62067b1184 / SHOULD
+:SYN-FUNC: uuid-52110676-c76e-45d3-858e-d11b23d8f7b4
+:CHARPOS: 56
+:END:
+可@kě	[[tls:concept:SHOULD::#uuid-4cf109ea-e1ef-489a-b1ae-0c62067b1184][SHOULD]]	V [[tls:syn-func::#uuid-52110676-c76e-45d3-858e-d11b23d8f7b4][vt+V{0}{PASS}]] / may properly be VERBED, should in effect be VERBED

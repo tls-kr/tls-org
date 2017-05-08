@@ -1,0 +1,1001 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 論衡 KR3j0080_038
+#+DATE: 2017-02-08T16:43:33+0900
+#+PROPERTY: COMMIT 4527326cad354527d529ce18236a9771ae63de14
+** 柙匱所贏	and what are stored in boxes and trunks
+:PROPERTIES:
+:SRC: LH 38.1.1; Liu 590;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:1a04:1::柙匱 / 論衡
+:CHARPOS: 1
+:END:
+*** 匣@xiá / 柙@xiá
+:PROPERTIES:
+:CONCEPT: uuid-d177ae65-6736-4b18-b37d-d93b01269f75 / BOX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+匣@xiá / 柙@xiá	[[tls:concept:BOX::#uuid-d177ae65-6736-4b18-b37d-d93b01269f75][BOX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / SJ: small box (to put a map into)
+*** 匱@guì
+:PROPERTIES:
+:CONCEPT: uuid-344e28e6-5737-4842-b0a3-2b2e54c1b576 / BOX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+匱@guì	[[tls:concept:BOX::#uuid-344e28e6-5737-4842-b0a3-2b2e54c1b576][BOX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / large wooden box with doors, a mini cupboard
+** 羞貧不賤不賢	and feel ashamed of being poor, but do not despise the unwise,
+:PROPERTIES:
+:SRC: LH 38.1.3; Liu 590;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:1a19:1::羞貧 / 論衡
+:CHARPOS: 1
+:END:
+*** 羞@xiū
+:PROPERTIES:
+:CONCEPT: uuid-2eeced7a-105a-4fdc-a9b0-d3bd63394d8a / SHAME
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 1
+:END:
+羞@xiū	[[tls:concept:SHAME::#uuid-2eeced7a-105a-4fdc-a9b0-d3bd63394d8a][SHAME]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / feel personally ashamed to V
+*** 貧@pín
+:PROPERTIES:
+:CONCEPT: uuid-8d73b50d-de2a-4046-9993-92e8b4b72da2 / POOR
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 2
+:END:
+貧@pín	[[tls:concept:POOR::#uuid-8d73b50d-de2a-4046-9993-92e8b4b72da2][POOR]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / (of families or states etc.) have very little to live on; (of persons or of states) be poor 甚貧
+** 聖人之言	the words of the sages,
+:PROPERTIES:
+:SRC: LH 38.1.4; Liu 590;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:2a07:1::聖人 / 論衡
+:CHARPOS: 1
+:END:
+*** 聖人@shèngrén
+:PROPERTIES:
+:CONCEPT: uuid-39d30f94-36a5-4b5f-8792-a6601a7a9178 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+聖人@shèngrén	[[tls:concept:HERO::#uuid-39d30f94-36a5-4b5f-8792-a6601a7a9178][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the person of extraordinary and creative talent (with untensed predicate)
+** 賢者之語	the utterances of the worthies,
+:PROPERTIES:
+:SRC: LH 38.1.4; Liu 590;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:2a08:50::賢者 / 論衡
+:CHARPOS: 50
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1 / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: the man of talent and moral worth (at any time and in any place)
+** 漢所以能制九州者	It was by the contribution of these official documents that
+:PROPERTIES:
+:SRC: LH 38.1.5; Liu 591;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:2a16:1::漢所 / 論衡
+:CHARPOS: 1
+:END:
+*** 九州@jiǔzhōu
+:PROPERTIES:
+:CONCEPT: uuid-3f88ea1a-9e88-4be9-9528-ebfd8e605659 / CHINA
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 6
+:END:
+九州@jiǔzhōu	[[tls:concept:CHINA::#uuid-3f88ea1a-9e88-4be9-9528-ebfd8e605659][CHINA]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / the Nine Provinces (of China) [This is pervasively difficult to distinguish from the more universal and almost cosmographic notion of the Nine Continents.)
+** 人不博覽者	A man without reading widely,
+:PROPERTIES:
+:SRC: LH 38.2.1; Liu 591;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:3a06:1::人不 / 論衡
+:CHARPOS: 1
+:END:
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-d6cdb975-959f-4601-b7c7-5b85ba172aa5 / READ
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+覽@lǎn	[[tls:concept:READ::#uuid-d6cdb975-959f-4601-b7c7-5b85ba172aa5][READ]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in reading
+** 儒生不博覽	Even scholars who do not study
+:PROPERTIES:
+:SRC: LH 38.2.2; Liu 591;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:3a12:1::儒生 / 論衡
+:CHARPOS: 1
+:END:
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-8589e587-da63-4270-9e24-601daa38e40a / SURVEY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+覽@lǎn	[[tls:concept:SURVEY::#uuid-8589e587-da63-4270-9e24-601daa38e40a][SURVEY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / look around one appreciatingly
+** 涉淺水者見蝦	Those who wade through shallow water can find crabs,
+:PROPERTIES:
+:SRC: LH 38.2.2; Liu 591;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:3a20:1::涉淺 / 論衡
+:CHARPOS: 1
+:END:
+*** 蝦@xiā
+:PROPERTIES:
+:CONCEPT: uuid-31447d88-7a2e-4668-ba07-909fa58294f6 / CRAB
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+蝦@xiā	[[tls:concept:CRAB::#uuid-31447d88-7a2e-4668-ba07-909fa58294f6][CRAB]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / shrimp, crab
+** 其頗深者察魚鱉	those who are in greater depth can discover fish and turtles,
+:PROPERTIES:
+:SRC: LH 38.2.2; Liu 591;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:3a21:50::其頗 / 論衡
+:CHARPOS: 50
+:END:
+*** 鱉@biē
+:PROPERTIES:
+:CONCEPT: uuid-313d20e4-3022-418c-bf31-124310826ad7 / TURTLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 56
+:END:
+鱉@biē	[[tls:concept:TURTLE::#uuid-313d20e4-3022-418c-bf31-124310826ad7][TURTLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / river turtle; sea turtle
+** 入道淺深	People making more or less progress in doctrines
+:PROPERTIES:
+:SRC: LH 38.2.3; Liu 591;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:3a25:1::入道 / 論衡
+:CHARPOS: 1
+:END:
+*** 淺深@qiǎnshēn
+:PROPERTIES:
+:CONCEPT: uuid-8c3b4da9-e109-40b7-9902-e50ce87621cc / DEEP
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:CHARPOS: 3
+:END:
+淺深@qiǎnshēn	[[tls:concept:DEEP::#uuid-8c3b4da9-e109-40b7-9902-e50ce87621cc][DEEP]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] / deeply
+** 深者入聖室觀祕書	while a deep man enters into the library of holy court, and reads profound books
+:PROPERTIES:
+:SRC: LH 38.2.3; Liu 591;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:3a28:1::深者 / 論衡
+:CHARPOS: 1
+:END:
+*** 祕@mì / 祕@mì / 密@mì
+:PROPERTIES:
+:CONCEPT: uuid-5edee72c-e2c3-48ae-aace-8a0ad488fc1b / SECRET
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 7
+:END:
+祕@mì / 祕@mì / 密@mì	[[tls:concept:SECRET::#uuid-5edee72c-e2c3-48ae-aace-8a0ad488fc1b][SECRET]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / secret, being strenuously kept secret from all outsiders
+** 大川旱不枯者	Big rivers do not dry up in the times of drought
+:PROPERTIES:
+:SRC: LH 38.3.1; Liu 592;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:4a01:1::大川 / 論衡
+:CHARPOS: 1
+:END:
+*** 枯@kū / @
+:PROPERTIES:
+:CONCEPT: uuid-749b765e-dfb6-43fa-9a44-a95d78174347 / DRY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 5
+:END:
+枯@kū / @	[[tls:concept:DRY::#uuid-749b765e-dfb6-43fa-9a44-a95d78174347][DRY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / wither; become all parched; dry up completely
+** 安得巨大之名	how could it be termed immense?
+:PROPERTIES:
+:SRC: LH 38.3.2; Liu 592;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:4a11:1::安得 / 論衡
+:CHARPOS: 1
+:END:
+*** 巨大@jùdà
+:PROPERTIES:
+:CONCEPT: uuid-ecca63d1-7135-447b-b935-d7e6ffc610bb / BIG
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:CHARPOS: 3
+:END:
+巨大@jùdà	[[tls:concept:BIG::#uuid-ecca63d1-7135-447b-b935-d7e6ffc610bb][BIG]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] / huge
+** 章句之生	and if the scholars who study clauses and paragraphs of Classics
+:PROPERTIES:
+:SRC: LH 38.3.4; Liu 592;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:4a35:1::章句 / 論衡
+:CHARPOS: 1
+:END:
+*** 章句@zhāngjù
+:PROPERTIES:
+:CONCEPT: uuid-7b10b376-63b4-4d42-87ff-f36b6307e09e / SENTENCE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 1
+:END:
+章句@zhāngjù	[[tls:concept:SENTENCE::#uuid-7b10b376-63b4-4d42-87ff-f36b6307e09e][SENTENCE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / paragraph and clause; sentence; phrase
+** 不覽古今	do not know the events of ancient and modern times, [read ancient and contemporary texts]
+:PROPERTIES:
+:SRC: LH 38.3.4; Liu 592;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:4a36:50::不覽 / 論衡
+:CHARPOS: 50
+:END:
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-7411e31e-dec9-415d-b658-19953d9322ab / READ
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+覽@lǎn	[[tls:concept:READ::#uuid-7411e31e-dec9-415d-b658-19953d9322ab][READ]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / To survey from above, synoptically and without attention to detail, taking in a scene in a sweep> to peruse a text in a cursory manner.
+** 何須博覽	need not read widely.
+:PROPERTIES:
+:SRC: LH 38.4.1; Liu 592;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:5a02:1::何須 / 論衡
+:CHARPOS: 1
+:END:
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-d6cdb975-959f-4601-b7c7-5b85ba172aa5 / READ
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+覽@lǎn	[[tls:concept:READ::#uuid-d6cdb975-959f-4601-b7c7-5b85ba172aa5][READ]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in reading
+** 而有守愚不覽之闇	but is ignorant for his keeping up his stupidity without learning.
+:PROPERTIES:
+:SRC: LH 38.4.2; Liu 592;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:6a16:1::而有 / 論衡
+:CHARPOS: 1
+:END:
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-d6cdb975-959f-4601-b7c7-5b85ba172aa5 / READ
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+覽@lǎn	[[tls:concept:READ::#uuid-d6cdb975-959f-4601-b7c7-5b85ba172aa5][READ]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in reading
+** 日光不能照幽	but since the sunlight cannot suffice to illuminate all the dark places,
+:PROPERTIES:
+:SRC: LH 38.4.3; Liu 593;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:6a19:1::日光 / 論衡
+:CHARPOS: 1
+:END:
+*** 幽@yōu
+:PROPERTIES:
+:CONCEPT: uuid-d0992c79-6057-481a-adc3-79f877a99325 / DARK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 6
+:END:
+幽@yōu	[[tls:concept:DARK::#uuid-d0992c79-6057-481a-adc3-79f877a99325][DARK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / dark place, secluded place
+** 鑿窗啟牖	they dig a window on the wall or on the roof,
+:PROPERTIES:
+:SRC: LH 38.4.3; Liu 593;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:6a20:50::鑿窗 / 論衡
+:CHARPOS: 50
+:END:
+*** 啟@qǐ
+:PROPERTIES:
+:CONCEPT: uuid-a38452f7-3a99-43c1-a4e5-ba62b7fa2129 / OPEN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+啟@qǐ	[[tls:concept:OPEN::#uuid-a38452f7-3a99-43c1-a4e5-ba62b7fa2129][OPEN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / open (so that it will be permanently unlocked or visible) YILI: 啟會"open the lid"
+** 閉戶幽坐	To shut the door and sit in obscurity,
+:PROPERTIES:
+:SRC: LH 38.4.5; Liu 593;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:6a35:1::閉戶 / 論衡
+:CHARPOS: 1
+:END:
+*** 幽@yōu
+:PROPERTIES:
+:CONCEPT: uuid-e4c29ecf-6967-4ddf-ae28-5644120daece / CONCEAL
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 3
+:END:
+幽@yōu	[[tls:concept:CONCEAL::#uuid-e4c29ecf-6967-4ddf-ae28-5644120daece][CONCEAL]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in hiding, hidden away, all hidden away; in hidden confinement 幽死
+** 穿壙穴臥	or dig a cave and lay in there,
+:PROPERTIES:
+:SRC: LH 38.4.5; Liu 593;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:6a37:1::穿壙 / 論衡
+:CHARPOS: 1
+:END:
+*** 臥@wò / @
+:PROPERTIES:
+:CONCEPT: uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1 / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-516a7b20-3abd-49d2-a05c-65dace0c5337
+:CHARPOS: 4
+:END:
+臥@wò / @	[[tls:concept:SLEEP::#uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-516a7b20-3abd-49d2-a05c-65dace0c5337][continuative]]} / sleep; find rest; be in bed; also of dogs: lie down to sleep
+** 造黃泉之際	as if arriving the vicinity of the Yellow Spring,
+:PROPERTIES:
+:SRC: LH 38.4.5; Liu 593;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:6a38:50::造黃 / 論衡
+:CHARPOS: 50
+:END:
+*** 黃泉@huángquán
+:PROPERTIES:
+:CONCEPT: uuid-bbeb26bf-4cf9-420a-9ef5-d827d38a6b07 / HELL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 51
+:END:
+黃泉@huángquán	[[tls:concept:HELL::#uuid-bbeb26bf-4cf9-420a-9ef5-d827d38a6b07][HELL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / the Yellow Springs, the Underworld
+*** 際@jì
+:PROPERTIES:
+:CONCEPT: uuid-6f6afb94-3907-47bd-bf30-418f490966a7 / LIMIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+際@jì	[[tls:concept:LIMIT::#uuid-6f6afb94-3907-47bd-bf30-418f490966a7][LIMIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / outer edge, outer limit, extremity, border-line, limits (often between abstract things like periods of time)
+** 不高瞻覽者	and do not take a broad view
+:PROPERTIES:
+:SRC: LH 38.4.5; Liu 593;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:6a41:1::不高 / 論衡
+:CHARPOS: 1
+:END:
+*** 瞻@zhān
+:PROPERTIES:
+:CONCEPT: uuid-a3460235-f4c3-441c-ab44-5658c101ccfd / LOOK
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 3
+:END:
+瞻@zhān	[[tls:concept:LOOK::#uuid-a3460235-f4c3-441c-ab44-5658c101ccfd][LOOK]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / look up; look into the distance
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-8589e587-da63-4270-9e24-601daa38e40a / SURVEY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+覽@lǎn	[[tls:concept:SURVEY::#uuid-8589e587-da63-4270-9e24-601daa38e40a][SURVEY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / look around one appreciatingly
+** 欲入所臥處	wished to go to his bedroom,
+:PROPERTIES:
+:SRC: LH 38.5.1; Liu 593;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:7a03:1::欲入 / 論衡
+:CHARPOS: 1
+:END:
+*** 臥@wò / @
+:PROPERTIES:
+:CONCEPT: uuid-377a1330-9c9e-47fd-ba82-db3b810225d9 / SLEEP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+臥@wò / @	[[tls:concept:SLEEP::#uuid-377a1330-9c9e-47fd-ba82-db3b810225d9][SLEEP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / sleep in (a place)
+** 凶事也	is a misfortune,
+:PROPERTIES:
+:SRC: LH 38.5.2; Liu 593;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:7a11:1::凶事 / 論衡
+:CHARPOS: 1
+:END:
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-c1b667b1-bfbc-4283-86d1-20aba3b67f68 / INAUSPICIOUS
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+凶@xiōng	[[tls:concept:INAUSPICIOUS::#uuid-c1b667b1-bfbc-4283-86d1-20aba3b67f68][INAUSPICIOUS]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / ominous, baleful, ill-omened, inauspicious,
+** 人當覽之	people should read them,
+:PROPERTIES:
+:SRC: LH 38.5.4; Liu 594;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:7a24:1::人當 / 論衡
+:CHARPOS: 1
+:END:
+*** 當@dāng
+:PROPERTIES:
+:CONCEPT: uuid-15d068ba-45ac-4b4a-8178-a80beec6d9b1 / SHOULD
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 2
+:END:
+當@dāng	[[tls:concept:SHOULD::#uuid-15d068ba-45ac-4b4a-8178-a80beec6d9b1][SHOULD]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / should appropriately; be due to, be supposed to; be bound to; must; HANSHU 65: ought to (be caned); deserve to; shouldNOTE THAT MANY OF THESE ATTRIBUTIONS HAVE TO BE MOVED TO vt[0]+V[0]
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-7411e31e-dec9-415d-b658-19953d9322ab / READ
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+覽@lǎn	[[tls:concept:READ::#uuid-7411e31e-dec9-415d-b658-19953d9322ab][READ]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / To survey from above, synoptically and without attention to detail, taking in a scene in a sweep> to peruse a text in a cursory manner.
+** 榮華之物枯	and luxuriant plants wither.
+:PROPERTIES:
+:SRC: LH 38.5.4; Liu 594;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:7a30:1::榮華 / 論衡
+:CHARPOS: 1
+:END:
+*** 枯@kū
+:PROPERTIES:
+:CONCEPT: uuid-1b091ccc-1cef-4e16-911d-158a9a0430a6 / WITHER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 5
+:END:
+枯@kū	[[tls:concept:WITHER::#uuid-1b091ccc-1cef-4e16-911d-158a9a0430a6][WITHER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / of trees: wither and die
+** 故夫大人之胸懷非一	Thus what the great men harbours in his bosom are not only one doctrine,
+:PROPERTIES:
+:SRC: LH 38.6.1; Liu 594;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:8a07:1::故夫 / 論衡
+:CHARPOS: 1
+:END:
+*** 大人@dàrén
+:PROPERTIES:
+:CONCEPT: uuid-18acbac2-efe6-479a-8ad0-f99b3c777b7a / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+大人@dàrén	[[tls:concept:HERO::#uuid-18acbac2-efe6-479a-8ad0-f99b3c777b7a][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / great man
+** 才高知大	they have high talents and great wisdoms,
+:PROPERTIES:
+:SRC: LH 38.6.1; Liu 594;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:8a08:50::才高 / 論衡
+:CHARPOS: 50
+:END:
+*** 才@cái / 材@cái
+:PROPERTIES:
+:CONCEPT: uuid-93714ceb-987b-4544-807c-718f8017b360 / TALENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 50
+:END:
+才@cái / 材@cái	[[tls:concept:TALENT::#uuid-93714ceb-987b-4544-807c-718f8017b360][TALENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / promising faculties, promising talents
+** 故其於道術無所不包	therefore for them there is no learning that is not embraced in their minds.
+:PROPERTIES:
+:SRC: LH 38.6.1; Liu 594;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:8a09:50::故其 / 論衡
+:CHARPOS: 50
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-3d5394ba-b258-4c08-be6b-9a09dbb289fc / RELATION
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+於@yú	[[tls:concept:RELATION::#uuid-3d5394ba-b258-4c08-be6b-9a09dbb289fc][RELATION]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / relate to, deal with
+** 夫古今之事	Now, is the deepth and scope for the intelligent having known the things of the past and the present
+:PROPERTIES:
+:SRC: LH 38.6.2; Liu 595;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:8a15:1::夫古 / 論衡
+:CHARPOS: 1
+:END:
+*** 古今之事@gǔjīnzhīshì
+:PROPERTIES:
+:CONCEPT: uuid-cc80a225-4773-4341-ad48-6ca73c465cbe / HISTORY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 2
+:END:
+古今之事@gǔjīnzhīshì	[[tls:concept:HISTORY::#uuid-cc80a225-4773-4341-ad48-6ca73c465cbe][HISTORY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / history
+** 甘酒醴不酟飴蜜	Merely knowing wine's sweet, but not feeling honey's sweet,
+:PROPERTIES:
+:SRC: LH 38.6.3; Liu 595;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:9a01:1::甘酒 / 論衡
+:CHARPOS: 1
+:END:
+*** 飴@yí
+:PROPERTIES:
+:CONCEPT: uuid-abe452fd-76ff-4090-818a-23188f917c9f / SUGAR
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 6
+:END:
+飴@yí	[[tls:concept:SUGAR::#uuid-abe452fd-76ff-4090-818a-23188f917c9f][SUGAR]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / sweetener made of rice and wheat sprouts (???get details)
+*** 蜜@mì
+:PROPERTIES:
+:CONCEPT: uuid-a85428c3-a0e8-45f0-86f2-ea1d94721581 / HONEY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 7
+:END:
+蜜@mì	[[tls:concept:HONEY::#uuid-a85428c3-a0e8-45f0-86f2-ea1d94721581][HONEY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / honeyskr. madhu (also transcribed with módù 摩度 )
+** 能博學問	but those able to grasp a vast amount of knowledge
+:PROPERTIES:
+:SRC: LH 38.6.4; Liu 595;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:9a11:1::能博 / 論衡
+:CHARPOS: 1
+:END:
+*** 學問@xuéwèn
+:PROPERTIES:
+:CONCEPT: uuid-c4db41a9-6fcd-4c5a-9f0a-89ed42408742 / STUDY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+學問@xuéwèn	[[tls:concept:STUDY::#uuid-c4db41a9-6fcd-4c5a-9f0a-89ed42408742][STUDY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in study
+** 是故盜賊宿於穢草	As a result, robbers always hide in rank grass,
+:PROPERTIES:
+:SRC: LH 38.7.2; Liu 595;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:10a10:1::是故 / 論衡
+:CHARPOS: 1
+:END:
+*** 盜賊@dàozéi
+:PROPERTIES:
+:CONCEPT: uuid-7841b7a6-af9d-4210-bf92-1cd147515375 / VILLAIN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 3
+:END:
+盜賊@dàozéi	[[tls:concept:VILLAIN::#uuid-7841b7a6-af9d-4210-bf92-1cd147515375][VILLAIN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / bandits
+*** 穢@huì
+:PROPERTIES:
+:CONCEPT: uuid-bb7bb1c3-c82e-42e0-b15c-b48dc9aa7f39 / DIRTY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 7
+:END:
+穢@huì	[[tls:concept:DIRTY::#uuid-bb7bb1c3-c82e-42e0-b15c-b48dc9aa7f39][DIRTY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / dirty, defiled
+** 醫能治一病謂之巧	A physician qualified to cure one disease is considered clever,
+:PROPERTIES:
+:SRC: LH 38.7.2; Liu 595;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:10a14:1::醫能 / 論衡
+:CHARPOS: 1
+:END:
+*** 醫@yī
+:PROPERTIES:
+:CONCEPT: uuid-e093756d-de7b-4106-a19a-10c5f76deb64 / PHYSICIAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 1
+:END:
+醫@yī	[[tls:concept:PHYSICIAN::#uuid-e093756d-de7b-4106-a19a-10c5f76deb64][PHYSICIAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / medically specialised shaman; medical doctor8
+** 是故良醫服百病之方	Therefore, a excellent physician has prescriptions for a hundred diseases,
+:PROPERTIES:
+:SRC: LH 38.7.3; Liu 595;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:10a16:1::是故 / 論衡
+:CHARPOS: 1
+:END:
+*** 良@liáng
+:PROPERTIES:
+:CONCEPT: uuid-891597e9-a1bb-41e7-bbb4-1813e0a335bb / EXCELLENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+良@liáng	[[tls:concept:EXCELLENT::#uuid-891597e9-a1bb-41e7-bbb4-1813e0a335bb][EXCELLENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / fine; competent; efficient; excellent; preferred
+*** 醫@yī
+:PROPERTIES:
+:CONCEPT: uuid-e093756d-de7b-4106-a19a-10c5f76deb64 / PHYSICIAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 4
+:END:
+醫@yī	[[tls:concept:PHYSICIAN::#uuid-e093756d-de7b-4106-a19a-10c5f76deb64][PHYSICIAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / medically specialised shaman; medical doctor8
+** 大才懷百家之言	and a man with great talents embraces the doctrines of the divers schools of thought,
+:PROPERTIES:
+:SRC: LH 38.7.3; Liu 595;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:10a18:1::大才 / 論衡
+:CHARPOS: 1
+:END:
+*** 大才@dàcái
+:PROPERTIES:
+:CONCEPT: uuid-d9c450e3-4eb4-4880-872c-1e63e815abd7 / EXCELLENT
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 1
+:END:
+大才@dàcái	[[tls:concept:EXCELLENT::#uuid-d9c450e3-4eb4-4880-872c-1e63e815abd7][EXCELLENT]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / men of great talent, highly qualified persons
+** 扁鵲之眾方	How about the numerous prescriptions of Biǎn Què,
+:PROPERTIES:
+:SRC: LH 38.7.3; Liu 595;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:10a20:1::扁鵲 / 論衡
+:CHARPOS: 1
+:END:
+*** 扁鵲@biǎnquè
+:PROPERTIES:
+:CONCEPT: uuid-2bc472c6-e721-4e5a-84c2-6502e849a662 / DOCTORS
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 1
+:END:
+扁鵲@biǎnquè	[[tls:concept:DOCTORS::#uuid-2bc472c6-e721-4e5a-84c2-6502e849a662][DOCTORS]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / mythical doctor of antiquity, on whom there is a biography in SHIJI
+** 無淺闇之毀也	then one will ont be charged with narrowess of mind.
+:PROPERTIES:
+:SRC: LH 38.8.2; Liu 596;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:11a15:1::無淺 / 論衡
+:CHARPOS: 1
+:END:
+*** 淺@qiǎn
+:PROPERTIES:
+:CONCEPT: uuid-c18ed8e9-bf83-4c3f-9828-ed8ac9ca7927 / STUPID
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 2
+:END:
+淺@qiǎn	[[tls:concept:STUPID::#uuid-c18ed8e9-bf83-4c3f-9828-ed8ac9ca7927][STUPID]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / stupidity
+*** 毀@huǐ / 譭@huǐ
+:PROPERTIES:
+:CONCEPT: uuid-d15e7277-0423-4a3b-b015-cd5c6d38db52 / CRITICISE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+毀@huǐ / 譭@huǐ	[[tls:concept:CRITICISE::#uuid-d15e7277-0423-4a3b-b015-cd5c6d38db52][CRITICISE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / being criticised> criticism/slander
+** 形容具存	both their shapes and figures are there,
+:PROPERTIES:
+:SRC: LH 38.8.3; Liu 596;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:12a07:1::形容 / 論衡
+:CHARPOS: 1
+:END:
+*** 形@xíng
+:PROPERTIES:
+:CONCEPT: uuid-ee8a2f43-9166-4562-a07d-f54176d769f4 / BODY
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 1
+:END:
+形@xíng	[[tls:concept:BODY::#uuid-ee8a2f43-9166-4562-a07d-f54176d769f4][BODY]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / body; physical appearance (mostly n(post-N))
+*** 容@róng
+:PROPERTIES:
+:CONCEPT: uuid-c97c4175-fbc2-4eec-84c9-69b2caa5f9a5 / APPEARANCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+容@róng	[[tls:concept:APPEARANCE::#uuid-c97c4175-fbc2-4eec-84c9-69b2caa5f9a5][APPEARANCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / characteristic appearance; physiognomy (also of things generally) bodily comportment, physical expression; especially as expressive of inner mood or personality
+** 空器在廚	If an empty vessel in the kitchen,
+:PROPERTIES:
+:SRC: LH 38.8.4; Liu 597;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:12a13:1::空器 / 論衡
+:CHARPOS: 1
+:END:
+*** 廚@chú
+:PROPERTIES:
+:CONCEPT: uuid-be2930d9-2c82-4467-97cb-ab22eaed6403 / KITCHEN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+廚@chú	[[tls:concept:KITCHEN::#uuid-be2930d9-2c82-4467-97cb-ab22eaed6403][KITCHEN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / kitchen; larder
+** 將相覺悟	and provided the governors became aware of this,
+:PROPERTIES:
+:SRC: LH 38.9.3; Liu 597;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:13a22:1::將相 / 論衡
+:CHARPOS: 1
+:END:
+*** 覺悟@juéwù
+:PROPERTIES:
+:CONCEPT: uuid-316a59da-fbb0-483f-a4d2-a97923c17257 / UNDERSTAND
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+覺悟@juéwù	[[tls:concept:UNDERSTAND::#uuid-316a59da-fbb0-483f-a4d2-a97923c17257][UNDERSTAND]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / get to understand
+** 董仲舒睹重常之鳥	Dǒng Zhòngshū knew the Chóngcháng bird,
+:PROPERTIES:
+:SRC: LH 38.10.2; Liu 598;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:14a12:1::董仲 / 論衡
+:CHARPOS: 1
+:END:
+*** 睹@dǔ / 睹@dǔ
+:PROPERTIES:
+:CONCEPT: uuid-7e92c23e-0a88-4d5d-88c9-b0eec2054645 / SEE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+睹@dǔ / 睹@dǔ	[[tls:concept:SEE::#uuid-7e92c23e-0a88-4d5d-88c9-b0eec2054645][SEE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / see clearly, make out, catch sight of; notice, perceive; be able to recognise
+** 劉子政曉貳負之尸	and Liú Zǐzhèng knew the body of Tèfù,
+:PROPERTIES:
+:SRC: LH 38.10.2; Liu 598;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:14a13:50::劉子 / 論衡
+:CHARPOS: 50
+:END:
+*** 曉@xiǎo
+:PROPERTIES:
+:CONCEPT: uuid-242b10b6-892e-42f9-b005-f12f4fe6f569 / AWARE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+曉@xiǎo	[[tls:concept:AWARE::#uuid-242b10b6-892e-42f9-b005-f12f4fe6f569][AWARE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be aware of; be able to recognise
+** 子弟賢者求索觀讀	worthy sons and brothers will search to read it,
+:PROPERTIES:
+:SRC: LH 38.10.4; Liu 599;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:14a29:1::子弟 / 論衡
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-86b6d76d-5d20-4668-90b1-b6509f2d874b / TALENT
+:SYN-FUNC: uuid-7ff85022-daa6-4ec8-892f-23641dce0f0f
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-86b6d76d-5d20-4668-90b1-b6509f2d874b][TALENT]]	N [[tls:syn-func::#uuid-7ff85022-daa6-4ec8-892f-23641dce0f0f][NPpost-N]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / be the worthiest in N; be a worthy on the scale of N, be a worthy of N-class (but contrast 古之賢者)
+** 服臆不舍	and remember it in their hearts, never dismiss it.
+:PROPERTIES:
+:SRC: LH 38.10.4; Liu 599;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:14a30:50::服臆 / 論衡
+:CHARPOS: 50
+:END:
+*** 臆@yì
+:PROPERTIES:
+:CONCEPT: uuid-3847f628-0b3c-4973-9ac3-fe12cdc6fff6 / MIND
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+臆@yì	[[tls:concept:MIND::#uuid-3847f628-0b3c-4973-9ac3-fe12cdc6fff6][MIND]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / mind???
+** 古聖先賢遺後人文字	The words of old sages and former worthies, left to prosperity,
+:PROPERTIES:
+:SRC: LH 38.10.5; Liu 599;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:14a35:1::古聖 / 論衡
+:CHARPOS: 1
+:END:
+*** 文字@wénzì
+:PROPERTIES:
+:CONCEPT: uuid-16b659ee-55c4-46e7-b07f-fad164fb18e9 / WRITTEN CHARACTER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 8
+:END:
+文字@wénzì	[[tls:concept:WRITTEN CHARACTER::#uuid-16b659ee-55c4-46e7-b07f-fad164fb18e9][WRITTEN CHARACTER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / characters; the Chinese characters in general (>the written word)
+** 或觀讀采取	Some read and accept them,
+:PROPERTIES:
+:SRC: LH 38.10.5; Liu 599;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:14a37:1::或觀 / 論衡
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 或棄捐不錄	but some throw them away and do not accept them.
+:PROPERTIES:
+:SRC: LH 38.10.5; Liu 599;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:14a38:50::或棄 / 論衡
+:CHARPOS: 50
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 50
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 二者之相高下也	On the difference between the two courses,
+:PROPERTIES:
+:SRC: LH 38.10.5; Liu 599;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:14a39:50::二者 / 論衡
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-b928f487-e573-422d-bb0c-0a5d651a2070 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-b94db793-02ce-4893-89a0-d595bc919083
+:CHARPOS: 51
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-b928f487-e573-422d-bb0c-0a5d651a2070][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-b94db793-02ce-4893-89a0-d595bc919083][npro.post-V{NUM}]] / 二者 "the two"
+** 自孔子以下至漢之際	From the time of Confucius down to the time of the Hàn,
+:PROPERTIES:
+:SRC: LH 38.11.2; Liu 600;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:15a12:1::自孔 / 論衡
+:CHARPOS: 1
+:END:
+*** 際@jì
+:PROPERTIES:
+:CONCEPT: uuid-6f6afb94-3907-47bd-bf30-418f490966a7 / LIMIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 9
+:END:
+際@jì	[[tls:concept:LIMIT::#uuid-6f6afb94-3907-47bd-bf30-418f490966a7][LIMIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / outer edge, outer limit, extremity, border-line, limits (often between abstract things like periods of time)
+** 慮深求臥	and consider and desire to sleep, 79
+:PROPERTIES:
+:SRC: LH 38.12.1; Liu 600;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:16a06:1::慮深 / 論衡
+:CHARPOS: 1
+:END:
+*** 臥@wò / @
+:PROPERTIES:
+:CONCEPT: uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1 / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-516a7b20-3abd-49d2-a05c-65dace0c5337
+:CHARPOS: 4
+:END:
+臥@wò / @	[[tls:concept:SLEEP::#uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-516a7b20-3abd-49d2-a05c-65dace0c5337][continuative]]} / sleep; find rest; be in bed; also of dogs: lie down to sleep
+** 腹為飯坑	their bellies are larders,
+:PROPERTIES:
+:SRC: LH 38.12.1; Liu 600;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:16a07:50::腹為 / 論衡
+:CHARPOS: 50
+:END:
+*** 坑@kēng
+:PROPERTIES:
+:CONCEPT: uuid-1486efba-7671-4328-b457-d7bb2efc0fea / STOREHOUSE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+坑@kēng	[[tls:concept:STOREHOUSE::#uuid-1486efba-7671-4328-b457-d7bb2efc0fea][STOREHOUSE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / storage pit 飯坑
+** 諸夏之人所以貴於夷狄者	That the people of China are superior to theYí and Dí [two countries of savages]
+:PROPERTIES:
+:SRC: LH 38.13.1; Liu 600;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:17a01:1::諸夏 / 論衡
+:CHARPOS: 1
+:END:
+*** 諸夏@zhūxià
+:PROPERTIES:
+:CONCEPT: uuid-6e06b8b8-9b2f-466d-98d1-7f97776f4d99 / CHINA
+:SYN-FUNC: uuid-0e451eec-1e26-4135-baa1-821e7a42fafe
+:CHARPOS: 1
+:END:
+諸夏@zhūxià	[[tls:concept:CHINA::#uuid-6e06b8b8-9b2f-466d-98d1-7f97776f4d99][CHINA]]	N [[tls:syn-func::#uuid-0e451eec-1e26-4135-baa1-821e7a42fafe][NP{PadN}]] / the various states originally under Xià influence
+*** 夷狄@yídí
+:PROPERTIES:
+:CONCEPT: uuid-1b693fea-c46f-4f92-8091-1fd38a19d98a / BARBARIAN
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 9
+:END:
+夷狄@yídí	[[tls:concept:BARBARIAN::#uuid-1b693fea-c46f-4f92-8091-1fd38a19d98a][BARBARIAN]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / the barbarians
+** 舞權利之詐	they work out their power and profit schemes
+:PROPERTIES:
+:SRC: LH 38.13.2; Liu 601;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:17a12:1::舞權 / 論衡
+:CHARPOS: 1
+:END:
+*** 權利@quánlì
+:PROPERTIES:
+:CONCEPT: uuid-ad9b5193-666f-4647-b16a-f1a0dc051359 / PROFIT
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:CHARPOS: 2
+:END:
+權利@quánlì	[[tls:concept:PROFIT::#uuid-ad9b5193-666f-4647-b16a-f1a0dc051359][PROFIT]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] / personal profit and advantage
+** 覽達古今	and understood the past as well as the present,
+:PROPERTIES:
+:SRC: LH 38.14.3; Liu 601;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:18a19:1::覽達 / 論衡
+:CHARPOS: 1
+:END:
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-97e85b6f-926f-4360-900e-6f400db49df1 / UNDERSTAND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+覽@lǎn	[[tls:concept:UNDERSTAND::#uuid-97e85b6f-926f-4360-900e-6f400db49df1][UNDERSTAND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / understand comprehensively;
+** 自武帝以至今朝	From Emperor Wǔ down to our emperor,í
+:PROPERTIES:
+:SRC: LH 38.15.1; Liu 602;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:19a01:1::自武 / 論衡
+:CHARPOS: 1
+:END:
+*** 以至@yǐzhì
+:PROPERTIES:
+:CONCEPT: uuid-0c67fcec-e750-4366-87a6-dee478d4cb56 / UNTIL
+:SYN-FUNC: uuid-aeb80333-359d-487d-b0c3-c38c2aa4772e
+:CHARPOS: 4
+:END:
+以至@yǐzhì	[[tls:concept:UNTIL::#uuid-0c67fcec-e750-4366-87a6-dee478d4cb56][UNTIL]]	 [[tls:syn-func::#uuid-aeb80333-359d-487d-b0c3-c38c2aa4772e][VPt0oN1.post-:Vt0oN2:.adS]] / from N1 until N2 自從。。。至於
+** 博覽膏腴之所生也	this was the result of their extensive reading.???
+:PROPERTIES:
+:SRC: LH 38.15.1; Liu 602;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:19a08:1::博覽 / 論衡
+:CHARPOS: 1
+:END:
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-d6cdb975-959f-4601-b7c7-5b85ba172aa5 / READ
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+覽@lǎn	[[tls:concept:READ::#uuid-d6cdb975-959f-4601-b7c7-5b85ba172aa5][READ]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in reading
+** 筆徒能記䟽	only could write documents using their pen,
+:PROPERTIES:
+:SRC: LH 38.15.2; Liu 603;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:19a10:1::筆徒 / 論衡
+:CHARPOS: 1
+:END:
+*** 筆@bǐ
+:PROPERTIES:
+:CONCEPT: uuid-a4902265-5c1a-4e55-be6e-7a5d5c894035 / WRITE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+筆@bǐ	[[tls:concept:WRITE::#uuid-a4902265-5c1a-4e55-be6e-7a5d5c894035][WRITE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / activity of writing
+** 安能建美善於聖王之庭乎	how could they establish excellent achivements in their court of the holy emperor?
+:PROPERTIES:
+:SRC: LH 38.15.2; Liu 603;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:19a12:1::安能 / 論衡
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 7
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+** 文字備具	all characters are included in it.
+:PROPERTIES:
+:SRC: LH 38.15.3; Liu 603;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:19a20:1::文字 / 論衡
+:CHARPOS: 1
+:END:
+*** 文字@wénzì
+:PROPERTIES:
+:CONCEPT: uuid-7c2401fc-7e46-4625-a505-663356bab6fe / WRITTEN CHARACTER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 1
+:END:
+文字@wénzì	[[tls:concept:WRITTEN CHARACTER::#uuid-7c2401fc-7e46-4625-a505-663356bab6fe][WRITTEN CHARACTER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / script; the Chinese characters; Chinese characters
+** 木旁多文字	Even the charater that combined with “多”at the side of “木”
+:PROPERTIES:
+:SRC: LH 38.15.3; Liu 603;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:19a23:1::「木 / 論衡
+:CHARPOS: 1
+:END:
+*** 文字@wénzì
+:PROPERTIES:
+:CONCEPT: uuid-fae7d31f-b2a5-45aa-b455-742c5d68b0a6 / WRITTEN CHARACTER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 4
+:END:
+文字@wénzì	[[tls:concept:WRITTEN CHARACTER::#uuid-fae7d31f-b2a5-45aa-b455-742c5d68b0a6][WRITTEN CHARACTER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the (definite, identified) character
+** 周世通覽之人	In the Zhōu period, these person who had read widely,
+:PROPERTIES:
+:SRC: LH 38.16.3; Liu 604;
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_038:20a17:1::周世 / 論衡
+:CHARPOS: 1
+:END:
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-d6cdb975-959f-4601-b7c7-5b85ba172aa5 / READ
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+覽@lǎn	[[tls:concept:READ::#uuid-d6cdb975-959f-4601-b7c7-5b85ba172aa5][READ]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in reading

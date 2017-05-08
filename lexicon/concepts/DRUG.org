@@ -1,0 +1,277 @@
+# -*- mode: mandoku-tls-view -*-
+#+TITLE: DRUG
+#+DATE: 2017-03-18T10:35:30.668+09:00        
+#+STARTUP: content
+* =CONCEPT= DRUG
+:PROPERTIES:
+:CUSTOM_ID: uuid-6f428244-f5ad-4f76-b75c-a630dfefe5ff
+:SYNONYM+:  MEDICINE
+:TR_ZH: 藥
+:END:
+** DEFINITION
+
+SUBSTANCE USED FOR CURING OR PREVENTING DISEASES.
+
+** NOTES
+
+*** Old Chinese Criteria
+1. The general word for medicine is yào 藥, but originally this word referred specifically to herbal medicine.
+
+2. Yuē 葯 is a specific word for the leaves of the bái zhǐ 白芷 aromatic herb.
+
+3. Fāng 方 refers to a medical prescription.
+
+*** Modern Chinese Criteria
+藥
+
+藥草
+
+藥材
+
+中草藥
+
+藥品
+
+藥物
+
+藥
+
+藥味
+
+藥石
+
+中藥
+
+國藥
+
+丸
+
+丸藥
+
+藥丸
+
+丸劑
+
+散
+
+藥末
+
+藥粉
+
+藥面
+
+散劑
+
+rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／
+
+** POINTERS
+*** TAXONOMY
+ - [[tls:concept:PILL][PILL]]
+
+*** SEE ALSO
+ - [[tls:concept:ILLNESS][ILLNESS]]
+ - [[tls:concept:PHYSICIAN][PHYSICIAN]]
+ - [[tls:concept:MEDICINE][MEDICINE]]
+
+*** KIND OF
+ - [[tls:concept:SUBSTANCE][SUBSTANCE]]
+
+** SOURCE REFERENCES
+*** BUCK 1988
+ - [[cite:BUCK-1988][BUCK(1988), A Dictionary of Selected Synonyms in the Principal Indo-European Languages]], p.4.88
+
+*** DOEDERLEIN 1840
+ - [[cite:DOEDERLEIN-1840][Doederlein(1840), Lateinische Synonyme und Etymologien]]
+
+MEDICINE
+
+medicamentum  refers to a remedy with reference to its material substance, is it is prepared by the apothecary.
+
+medicina refers to a remedy with referenc3e to its healing virtues, as ordered by a physician.
+
+remedium refers to any remedy for evils other than illnesses as well as for illnesses.
+
+*** FINSTERBUSCH 1966
+ - [[cite:FINSTERBUSCH-1966][Finsterbusch(1966), Verzeichnis und Motivindex der Han-Darstellungen]], p.246
+
+
+Unsterblichkeitskraut:
+
+*** FINSTERBUSCH 2000
+ - [[cite:FINSTERBUSCH-2000][Finsterbusch(2000), Verzeichnis und Motivindex der Han-Darstellungen]], p.821
+
+
+Unsterblichkeitskraut:
+
+*** LANGIUS 1631
+ - [[cite:LANGIUS-1631][Langius(1631), Anthologia sive Florilegium rerum et materiarum selectarum]] (MEDICINA)
+*** UNGER SACH
+ - [[cite:UNGER-SACH][Unger(ca. 1990), "Sachwoerterbuch zum Alten China"]] (ARZEIMITTELMEDIZIN)
+** WORDS
+   :PROPERTIES:
+   :VISIBILITY: children
+   :END:
+*** 丸 wán (OC:ɢoon MC:ɦʷɑn )
+:PROPERTIES:
+:CUSTOM_ID: uuid-27c9fe94-ad78-4617-abeb-6601ccd131da
+:Char+: 丸(3,2/3) 
+:GY_IDS+: uuid-3879cdce-e44b-494a-bfde-4815f43eebf4
+:PY+: wán     
+:OC+: ɢoon     
+:MC+: ɦʷɑn     
+:END: 
+**** N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / pill
+:PROPERTIES:
+:CUSTOM_ID: uuid-c9d8ee8f-356d-4ab0-b60f-24c2d5822785
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+pill
+
+****** NOTES
+
+*** 劑 jì (OC:dziils MC:dzei )
+:PROPERTIES:
+:CUSTOM_ID: uuid-c1a1e3a7-6ff9-4998-bf01-51b23aae4adb
+:Char+: 劑(18,14/16) 
+:GY_IDS+: uuid-b46df863-d38f-4103-9e08-b81f7139648f
+:PY+: jì     
+:OC+: dziils     
+:MC+: dzei     
+:END: 
+**** N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / post-Han?: dose of medicine
+:PROPERTIES:
+:CUSTOM_ID: uuid-0945c5ec-c0dd-47fd-afc4-8edccf1b31da
+:END:
+****** DEFINITION
+
+post-Han?: dose of medicine
+
+****** NOTES
+
+*** 方 fāng (OC:paŋ MC:pi̯ɐŋ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-4be5ef54-69b7-45ea-b45d-d5a65f5370b0
+:Char+: 方(70,0/4) 
+:GY_IDS+: uuid-1a4e039c-6a01-4fca-ad4b-baadc33873fc
+:PY+: fāng     
+:OC+: paŋ     
+:MC+: pi̯ɐŋ     
+:END: 
+**** N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / prescription, medical recipe
+:PROPERTIES:
+:CUSTOM_ID: uuid-1dc2cf2a-9ebc-477a-af89-871fb36da360
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+prescription, medical recipe
+
+****** NOTES
+
+*** 葯 yuè (OC:qplewɡ MC:ʔi̯ɐk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-e114c105-cc40-498e-adf7-626bd04a14c1
+:Char+: 葯(140,9/15) 
+:GY_IDS+: uuid-739e8c6a-875c-4db8-8607-a1dcd91d9b92
+:PY+: yuè     
+:OC+: qplewɡ     
+:MC+: ʔi̯ɐk     
+:END: 
+**** N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / angelica anomala, aromatic herb also used in medicine
+:PROPERTIES:
+:CUSTOM_ID: uuid-bed70e6b-82df-40aa-bce4-87c5edca37ab
+:END:
+****** DEFINITION
+
+angelica anomala, aromatic herb also used in medicine
+
+****** NOTES
+
+*** 藥 yào (OC:k-lawɡ MC:ji̯ɐk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-a7cc995b-aefc-4bc2-b4cc-e6186b192d0b
+:Char+: 藥(140,15/21) 
+:GY_IDS+: uuid-1104fc6a-2020-4bfd-8341-fabcd4ecb826
+:PY+: yào     
+:OC+: k-lawɡ     
+:MC+: ji̯ɐk     
+:END: 
+**** N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / medicine, medication; (dig for) medicinal roots, herbs or mushrooms
+:PROPERTIES:
+:CUSTOM_ID: uuid-232eaefe-1ba3-4658-bfc0-c12218941dbd
+:WARRING-STATES-CURRENCY: 5
+:END:
+****** DEFINITION
+
+medicine, medication; (dig for) medicinal roots, herbs or mushrooms
+
+****** NOTES
+
+******* Examples
+LY 10.16; tr. CH
+
+ 康子饋藥， When Ka1ngzi3 sent a gift of medicine
+
+ 拜而受之。 he accepted this with a bow, [CA]
+
+*** 毒藥 dúyào (OC:duuɡ k-lawɡ MC:duok ji̯ɐk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-db993ff5-7462-4b12-8876-253623cf0b05
+:Char+: 毒(80,4/8) 藥(140,15/21) 
+:GY_IDS+: uuid-9c8ab241-6d21-4754-b6e0-c59fb0b7683f uuid-1104fc6a-2020-4bfd-8341-fabcd4ecb826
+:PY+: dú yào    
+:OC+: duuɡ k-lawɡ    
+:MC+: duok ji̯ɐk    
+:END: 
+**** N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / bitter medicine
+:PROPERTIES:
+:CUSTOM_ID: uuid-a770971d-8004-4431-b31c-3b66dc350642
+:END:
+****** DEFINITION
+
+bitter medicine
+
+****** NOTES
+
+*** 法藥 fǎyào (OC:pab k-lawɡ MC:pi̯ɐp ji̯ɐk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-cc2594e3-aa3e-46c8-984e-fa7ec8d1fc08
+:Char+: 法(85,5/8) 藥(140,15/21) 
+:GY_IDS+: uuid-bcc31133-8ffb-45d4-aeeb-442e8943f17e uuid-1104fc6a-2020-4bfd-8341-fabcd4ecb826
+:PY+: fǎ yào    
+:OC+: pab k-lawɡ    
+:MC+: pi̯ɐp ji̯ɐk    
+:END: 
+**** N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2e7204ae-4771-435b-82ff-310068296b6d][buddhist]]} / BUDDH: dharma-medicine (in Buddhist scriptures the Buddha-dharma is occasionally metaphorically des...
+:PROPERTIES:
+:CUSTOM_ID: uuid-b5ddeebf-f0e1-4f41-8c31-86f11476fc09
+:END:
+****** DEFINITION
+
+BUDDH: dharma-medicine (in Buddhist scriptures the Buddha-dharma is occasionally metaphorically described as 'medicine' since it saves people from suffering; see for example Guàndǐng jīng 灌頂經, T.21: 532c21-23; the section in this scripture deals with the Buddha Yàoshī Liúlíguāng Rúlái 藥師琉璃光如來 who, at the time when he was practicing as Bodhisattva, made twelve vows. The term fǎ-yào appears in the seventh vow: 第七願者。[...]若有苦惱無救護者。我為此等攝大法藥。令諸疾病皆得除愈。無復苦患至得佛道.('The seventh vow: '[...] if there are any [beings] who are afflicted by suffering, not saved and protected, I will apply the great dharma-medicine for them and cause all sicknesses to be healed, so that they will not be suffering again until they attain the Way of the Buddha.')
+
+****** NOTES
+
+*** 湯藥 tāngyào (OC:kh-laaŋ k-lawɡ MC:thɑŋ ji̯ɐk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-c1c421ef-f64a-4b8d-8549-96e85f6b2028
+:Char+: 湯(85,9/12) 藥(140,15/21) 
+:GY_IDS+: uuid-7d069442-b3c1-4957-980b-3f51b76ece0c uuid-1104fc6a-2020-4bfd-8341-fabcd4ecb826
+:PY+: tāng yào    
+:OC+: kh-laaŋ k-lawɡ    
+:MC+: thɑŋ ji̯ɐk    
+:END: 
+**** N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / medical potions
+:PROPERTIES:
+:CUSTOM_ID: uuid-e42a037d-6ece-48d5-9265-340647f9f859
+:END:
+****** DEFINITION
+
+medical potions
+
+****** NOTES
+
+** BIBLIOGRAPHY
+bibliography:../core/tlsbib.bib

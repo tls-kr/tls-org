@@ -1,0 +1,77 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_016
+#+DATE: 2017-02-08T16:41:09+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 聽祝弗	listened to Chu Fú3
+:PROPERTIES:
+:SRC: ZGC 1.16.1; tr. Crump 1979 no. 38, p. 49 The Duke of Hsüeh advised to support Chou Tsui
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_016:1a03:1::聽祝 / 戰國策
+:CHARPOS: 1
+:END:
+*** 聽@tīng
+:PROPERTIES:
+:CONCEPT: uuid-8859e0e5-925e-4624-996f-bd8f35e0e676 / FOLLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+聽@tīng	[[tls:concept:FOLLOW::#uuid-8859e0e5-925e-4624-996f-bd8f35e0e676][FOLLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / follow someone's advice
+** 相呂禮者	and made Ly Li his minister
+:PROPERTIES:
+:SRC: ZGC 1.16.1; tr. Crump 1979 no. 38, p. 49 The Duke of Hsüeh advised to support Chou Tsui
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_016:1a04:50::相呂 / 戰國策
+:CHARPOS: 50
+:END:
+*** 相@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-ac311821-4880-4b6f-85bc-64411189fbac / APPOINT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+相@xiàng	[[tls:concept:APPOINT::#uuid-ac311821-4880-4b6f-85bc-64411189fbac][APPOINT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / appoint as prime minister
+** 弗與禮重矣	Chu Fu and Ly Li will be important indeed!
+:PROPERTIES:
+:SRC: ZGC 1.16.1; tr. Crump 1979 no. 38, p. 49 The Duke of Hsüeh advised to support Chou Tsui
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_016:1a07:1::弗與 / 戰國策
+:CHARPOS: 1
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-c7c71757-df9d-4f99-b107-c6beee1fe597 / IMPORTANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 4
+:END:
+重@zhòng	[[tls:concept:IMPORTANT::#uuid-c7c71757-df9d-4f99-b107-c6beee1fe597][IMPORTANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be powerful, significant, striking; be in a strong position: be of great (political) weight 最重
+** 又禁天下之率	in order to prevent the empire from following her.
+:PROPERTIES:
+:SRC: ZGC 1.16.2; tr. Crump 1979 no. 38, p. 49
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_016:1a12:1::又禁 / 戰國策
+:CHARPOS: 1
+:END:
+*** 帥@shuài / 率@shuài
+:PROPERTIES:
+:CONCEPT: uuid-0f4cb064-2139-478b-93be-889520daf4c0 / FOLLOW
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+帥@shuài / 率@shuài	[[tls:concept:FOLLOW::#uuid-0f4cb064-2139-478b-93be-889520daf4c0][FOLLOW]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / followership; following
+** 齊王誰與為其國	and who then will manage the country for the king of Ch'i?
+:PROPERTIES:
+:SRC: ZGC 1.16.2; tr. Crump 1979 no. 38, p. 49
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_016:1a15:1::齊王 / 戰國策
+:CHARPOS: 1
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-3d62569e-3632-4031-ba8c-4097294365fd / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+為@wéi	[[tls:concept:GOVERN::#uuid-3d62569e-3632-4031-ba8c-4097294365fd][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / take charge of; be in charge of, run (a state; a government)

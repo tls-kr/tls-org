@@ -1,0 +1,33 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_140
+#+DATE: 2017-02-08T16:41:22+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 遇之甚懽	and treated him with great affection.
+:PROPERTIES:
+:SRC: ZGC 10.5.1; tr. Crump 1979 no.149 p.184, ed. Shanghaiguji p. 377 Lord Meng-ch'ang's faults
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_140:1a02:1::遇之 / 戰國策
+:CHARPOS: 1
+:END:
+*** 〓#歡@huān / 驩@huān
+:PROPERTIES:
+:CONCEPT: uuid-137ca4c8-6697-4308-9edb-d1d378787331 / FRIEND
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 1
+:END:
+〓#歡@huān / 驩@huān	[[tls:concept:FRIEND::#uuid-137ca4c8-6697-4308-9edb-d1d378787331][FRIEND]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be on good terms, be on friendly terms 甚懽
+** 孟嘗君重非諸侯也	'Lord Meng-ch'ang's income is not as great as that of a Feudal Lord,
+:PROPERTIES:
+:SRC: ZGC 10.5.2; tr. Crump 1979 no.149 p.184, ed. Shanghaiguji p. 377
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_140:1a11:1::「孟 / 戰國策
+:CHARPOS: 1
+:END:
+*** 諸侯@zhūhóu
+:PROPERTIES:
+:CONCEPT: uuid-ef7c49d5-e2ee-458b-8054-e32c5d62884e / RULER
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 6
+:END:
+諸侯@zhūhóu	[[tls:concept:RULER::#uuid-ef7c49d5-e2ee-458b-8054-e32c5d62884e][RULER]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / be a feudal lord

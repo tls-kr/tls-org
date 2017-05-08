@@ -1,0 +1,120 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_036
+#+DATE: 2017-02-08T16:35:51+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 予嘉乃德	I admire your virtue,
+:PROPERTIES:
+:SRC: SHU (LATE) 28.1.3; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_036:2a21:1::「予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (as a non-agential experiencer participant)
+** 上帝時歆	God will always enjoy your offerings;
+:PROPERTIES:
+:SRC: SHU (LATE) 28.1.3; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_036:2a23:1::「上 / 尚書
+:CHARPOS: 1
+:END:
+*** 欣@xīn / 歆@xīn
+:PROPERTIES:
+:CONCEPT: uuid-3827a904-6235-4fbf-a05f-3f039aa07347 / DELIGHT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+欣@xīn / 歆@xīn	[[tls:concept:DELIGHT::#uuid-3827a904-6235-4fbf-a05f-3f039aa07347][DELIGHT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / delight in
+** 下民祗協	the people will be reverently harmonious (under your sway).
+:PROPERTIES:
+:SRC: SHU (LATE) 28.1.3; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_036:2a24:50::下民 / 尚書
+:CHARPOS: 50
+:END:
+*** 下民@xiàmín
+:PROPERTIES:
+:CONCEPT: uuid-fcf326b1-92de-4773-8719-b4ebc810ac18 / PEOPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 50
+:END:
+下民@xiàmín	[[tls:concept:PEOPLE::#uuid-fcf326b1-92de-4773-8719-b4ebc810ac18][PEOPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / SHI: the lowly people, the common people
+*** 祗@zhī
+:PROPERTIES:
+:CONCEPT: uuid-ed1b5a63-128f-48fc-b08d-438df45824c4 / RESPECT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+祗@zhī	[[tls:concept:RESPECT::#uuid-ed1b5a63-128f-48fc-b08d-438df45824c4][RESPECT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / respectfully
+** 毗予一人	(So also) shall you be a help to me,
+:PROPERTIES:
+:SRC: SHU (LATE) 28.1.4; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_036:2a35:1::毗予 / 尚書
+:CHARPOS: 1
+:END:
+*** 毗@pí
+:PROPERTIES:
+:CONCEPT: uuid-922e3a39-ca22-45ad-bf8e-cecbf3a48dbf / HELP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+毗@pí	[[tls:concept:HELP::#uuid-922e3a39-ca22-45ad-bf8e-cecbf3a48dbf][HELP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to help; assist; support; strengthen
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+*** 予一人@yúyīrén
+:PROPERTIES:
+:CONCEPT: uuid-e318a8c1-90d2-4b59-adb8-1d76b8403b3c / EGO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 2
+:END:
+予一人@yúyīrén	[[tls:concept:EGO::#uuid-e318a8c1-90d2-4b59-adb8-1d76b8403b3c][EGO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / I, the one person (the king)
+** 俾我有周無斁	and thus you will make our dynasty of Zhou never weary of you.
+:PROPERTIES:
+:SRC: SHU (LATE) 28.1.4; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_036:2a38:1::俾我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 往哉惟休	go, and be prosperous.
+:PROPERTIES:
+:SRC: SHU (LATE) 28.1.4; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_036:2a40:1::往哉 / 尚書
+:CHARPOS: 1
+:END:
+*** 往@wǎng
+:PROPERTIES:
+:CONCEPT: uuid-a525c213-6f55-495b-b50e-d93f8f93db7b / LEAVE
+:SYN-FUNC: uuid-86831e53-f9ce-4379-bfb9-df4a545d4ce8
+:SEM-FEAT: uuid-b8276c57-c108-44c8-8c01-ad92679a9163
+:CHARPOS: 1
+:END:
+往@wǎng	[[tls:concept:LEAVE::#uuid-a525c213-6f55-495b-b50e-d93f8f93db7b][LEAVE]]	V [[tls:syn-func::#uuid-86831e53-f9ce-4379-bfb9-df4a545d4ce8][vt{0}{oN}]] {[[tls:sem-feat::#uuid-b8276c57-c108-44c8-8c01-ad92679a9163][imperative]]} / [you] should leave [this place]; go away!
+*** 休@xiū
+:PROPERTIES:
+:CONCEPT: uuid-a814809f-cea7-4db2-a4e2-2d729845de35 / LUCK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+休@xiū	[[tls:concept:LUCK::#uuid-a814809f-cea7-4db2-a4e2-2d729845de35][LUCK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / enjoy good fortune

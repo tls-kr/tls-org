@@ -1,0 +1,282 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 荀子 KR3a0002_013
+#+DATE: 2017-02-08T16:41:41+0900
+#+PROPERTY: COMMIT ddeec5ec188de85913927f32a208650c789be44e
+** 百姓不親	The Hundred Clans feel no kinship with them.
+:PROPERTIES:
+:SRC: XUN 13:1:2, Beida p.211; Knoblock 2:197f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:1a08:1::百姓 / 荀子
+:CHARPOS: 1
+:END:
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-89d90399-8b58-43c2-a3fb-3d78a5e5d274 / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-268274cc-d7e0-43e9-97e3-20e7f564f277
+:CHARPOS: 1
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-89d90399-8b58-43c2-a3fb-3d78a5e5d274][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-268274cc-d7e0-43e9-97e3-20e7f564f277][wellborn]]} / the people who count; the gentry (i.e. primarily the wellborn people)
+** 下愛百姓而不倦	love the Hundred Clans, and are tireless in their exertions.
+:PROPERTIES:
+:SRC: XUN 13:1:4, Beida p.211; Knoblock 2:198
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:1a24:1::下愛 / 荀子
+:CHARPOS: 1
+:END:
+*** 不倦@bùjuàn
+:PROPERTIES:
+:CONCEPT: uuid-a4bf18e7-d1c2-45a4-9852-e3afe0bdb739 / TIRELESS
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 6
+:END:
+不倦@bùjuàn	[[tls:concept:TIRELESS::#uuid-a4bf18e7-d1c2-45a4-9852-e3afe0bdb739][TIRELESS]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be indefatigable; be unexhausted
+** 是功臣者也	Such are the meritorious ministers.
+:PROPERTIES:
+:SRC: XUN 13:1:4, Beida p.211; Knoblock 2:198
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:1a25:50::是功 / 荀子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-e1f543ef-a32d-4bdf-9ac9-9832f3d82a43 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:SEM-FEAT: uuid-4a664f44-976b-4454-bd5d-8db23c156096
+:CHARPOS: 53
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-e1f543ef-a32d-4bdf-9ac9-9832f3d82a43][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] {[[tls:sem-feat::#uuid-4a664f44-976b-4454-bd5d-8db23c156096][predicate]]} / postnominal particle forming a predicative noun phrase
+** 闇主妬賢畏能而滅其功	The benighted ruler is jealous of the worthy, fears the able, and would hide their accomplishments.
+:PROPERTIES:
+:SRC: XUN 13:2:8, Beida p.215; Knoblock 2:200
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:3a11:1::闇主 / 荀子
+:CHARPOS: 1
+:END:
+*** 暗@àn / 闇@àn
+:PROPERTIES:
+:CONCEPT: uuid-45d8da54-756d-4ee9-b94d-64d81cfeed82 / STUPID
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CONCEPT: uuid-c4f84ab3-b2e6-4dc9-bd61-07440861e947 / JEALOUS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+暗@àn / 闇@àn	[[tls:concept:STUPID::#uuid-45d8da54-756d-4ee9-b94d-64d81cfeed82][STUPID]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / benighted, unenlightened, ignorant
+〓#妒@dù	[[tls:concept:JEALOUS::#uuid-c4f84ab3-b2e6-4dc9-bd61-07440861e947][JEALOUS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be jealous of (erotically or politically) 妒功　妒而惡之
+** 夫是之謂至闇	may indeed be called "benighted to the ultimate degree."
+:PROPERTIES:
+:SRC: XUN 13:2:8, Beida p.215; Knoblock 2:200
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:3a14:1::夫是 / 荀子
+:CHARPOS: 1
+:END:
+*** 至@zhì
+:PROPERTIES:
+:CONCEPT: uuid-10d9c16e-aa15-42c9-a036-4d31712e1255 / PERFECT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CONCEPT: uuid-b57018a7-005b-484b-b0fd-d43a2c488950 / STUPID
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 5
+:END:
+至@zhì	[[tls:concept:PERFECT::#uuid-10d9c16e-aa15-42c9-a036-4d31712e1255][PERFECT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / perfect, consummate
+暗@àn / 闇@àn	[[tls:concept:STUPID::#uuid-b57018a7-005b-484b-b0fd-d43a2c488950][STUPID]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / dumbness of mind; stupidity; state of obfuscation
+** 事聖君者	In the service of a sage lord,
+:PROPERTIES:
+:SRC: XUN 13:3:1, Beida p.215; Knoblock 2:200
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:4a01:1::事聖 / 荀子
+:CHARPOS: 1
+:END:
+*** 聖君@shèngjūn
+:PROPERTIES:
+:CONCEPT: uuid-e9e023e1-2f9d-47f0-bb2f-e6367dca85cc / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+聖君@shèngjūn	[[tls:concept:RULER::#uuid-e9e023e1-2f9d-47f0-bb2f-e6367dca85cc][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / ideal ruler
+** 有諫爭無諂諛	there is need to remonstrate and wrangle, but none to flatter or toady after his wishes.
+:PROPERTIES:
+:SRC: XUN 13:3:1, Beida p.215; Knoblock 2:200
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:4a04:1::有諫 / 荀子
+:CHARPOS: 1
+:END:
+*** 諂諛@chǎnyú
+:PROPERTIES:
+:CONCEPT: uuid-d1ec02af-c28c-4717-a682-db40d5c3aacc / FLATTER
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+諂諛@chǎnyú	[[tls:concept:FLATTER::#uuid-d1ec02af-c28c-4717-a682-db40d5c3aacc][FLATTER]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / flattery, sycophancy
+** 事暴君者	In the service of a cruel and violent lord,
+:PROPERTIES:
+:SRC: XUN 13:3:1, Beida p.215; Knoblock 2:200
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:4a05:50::事暴 / 荀子
+:CHARPOS: 50
+:END:
+*** 暴君@bàojūn
+:PROPERTIES:
+:CONCEPT: uuid-575bab16-5558-455a-a3e5-c87df756a2b0 / TYRANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 51
+:END:
+暴君@bàojūn	[[tls:concept:TYRANT::#uuid-575bab16-5558-455a-a3e5-c87df756a2b0][TYRANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / violent ruler, tyrant
+** 防其躬身	for one must guard one's own body. //
+:PROPERTIES:
+:SRC: XUN 13:3:3, Beida p.215f; Knoblock 2:200
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:4a20:1::防其 / 荀子
+:CHARPOS: 1
+:END:
+*** 躬身@gōngshēn
+:PROPERTIES:
+:CONCEPT: uuid-95956123-41b3-4f7a-8404-300b7ca143d7 / BODY
+:SYN-FUNC: uuid-7ff85022-daa6-4ec8-892f-23641dce0f0f
+:CHARPOS: 3
+:END:
+躬身@gōngshēn	[[tls:concept:BODY::#uuid-95956123-41b3-4f7a-8404-300b7ca143d7][BODY]]	N [[tls:syn-func::#uuid-7ff85022-daa6-4ec8-892f-23641dce0f0f][NPpost-N]] / body
+** 是事聖君之義也	such are one's moral obligations in the service of a sage lord.
+:PROPERTIES:
+:SRC: XUN 13:4:1, Beida p.216; Knoblock 2:201
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:5a06:1::是事 / 荀子
+:CHARPOS: 1
+:END:
+*** 義@yì
+:PROPERTIES:
+:CONCEPT: uuid-92b0ce09-6925-4702-a94d-cb8bdf9d352b / JUSTICE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 6
+:END:
+義@yì	[[tls:concept:JUSTICE::#uuid-92b0ce09-6925-4702-a94d-cb8bdf9d352b][JUSTICE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / rectitude; moral principle; moral principles; moral duty, moral rectitude; proper moral duties
+** 是事中君之義也	such are one's moral obligations in the service of a mediocre lord.
+:PROPERTIES:
+:SRC: XUN 13:4:2, Beida p.216; Knoblock 2:201
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:5a12:1::是事 / 荀子
+:CHARPOS: 1
+:END:
+*** 義@yì
+:PROPERTIES:
+:CONCEPT: uuid-92b0ce09-6925-4702-a94d-cb8bdf9d352b / JUSTICE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 6
+:END:
+義@yì	[[tls:concept:JUSTICE::#uuid-92b0ce09-6925-4702-a94d-cb8bdf9d352b][JUSTICE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / rectitude; moral principle; moral principles; moral duty, moral rectitude; proper moral duties
+** 是事暴君之義也	such are one's moral abligations in the service of a cruel and violent lord.
+:PROPERTIES:
+:SRC: XUN 13:4:3, Beida p.216; Knoblock 2:201
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:5a19:1::是事 / 荀子
+:CHARPOS: 1
+:END:
+*** 暴君@bàojūn
+:PROPERTIES:
+:CONCEPT: uuid-575bab16-5558-455a-a3e5-c87df756a2b0 / TYRANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 3
+:END:
+暴君@bàojūn	[[tls:concept:TYRANT::#uuid-575bab16-5558-455a-a3e5-c87df756a2b0][TYRANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / violent ruler, tyrant
+*** 義@yì
+:PROPERTIES:
+:CONCEPT: uuid-92b0ce09-6925-4702-a94d-cb8bdf9d352b / JUSTICE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 6
+:END:
+義@yì	[[tls:concept:JUSTICE::#uuid-92b0ce09-6925-4702-a94d-cb8bdf9d352b][JUSTICE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / rectitude; moral principle; moral principles; moral duty, moral rectitude; proper moral duties
+** 微諫而不倦	Remonstrate in detail unceasingly.
+:PROPERTIES:
+:SRC: XUN 13:4:5, Beida p.216; Knoblock 2:201
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:5a30:1::微諫 / 荀子
+:CHARPOS: 1
+:END:
+*** 不倦@bùjuàn
+:PROPERTIES:
+:CONCEPT: uuid-a4bf18e7-d1c2-45a4-9852-e3afe0bdb739 / TIRELESS
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 4
+:END:
+不倦@bùjuàn	[[tls:concept:TIRELESS::#uuid-a4bf18e7-d1c2-45a4-9852-e3afe0bdb739][TIRELESS]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be indefatigable; be unexhausted
+** 仁者必敬人	A humane man always takes strict reverent care in dealing with others.
+:PROPERTIES:
+:SRC: XUN 13:7:1, Beida p.218; Knoblock 2:202
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:7a22:6::<p / 荀子
+:CHARPOS: 6
+:END:
+*** 仁者@rénzhě
+:PROPERTIES:
+:CONCEPT: uuid-8cefb61d-78bf-4d33-b0f1-5e3414fa4f06 / BENEVOLENCE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 6
+:END:
+仁者@rénzhě	[[tls:concept:BENEVOLENCE::#uuid-8cefb61d-78bf-4d33-b0f1-5e3414fa4f06][BENEVOLENCE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: "the benevolent person; the human-hearted person" at any time and in any place
+*** 敬@jìng
+:PROPERTIES:
+:CONCEPT: uuid-79324cd0-58b9-4f1d-acaa-57f9e136dd9d / RESPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 9
+:END:
+敬@jìng	[[tls:concept:RESPECT::#uuid-79324cd0-58b9-4f1d-acaa-57f9e136dd9d][RESPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / feel respect for and act earnestly on the basis of this
+** 故仁者必敬人	Hence, one who is humane is always respectful of others.
+:PROPERTIES:
+:SRC: XUN 13:7:2, Beida p.218; Knoblock 2:202f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:8a18:1::故仁 / 荀子
+:CHARPOS: 1
+:END:
+*** 仁者@rénzhě
+:PROPERTIES:
+:CONCEPT: uuid-8cefb61d-78bf-4d33-b0f1-5e3414fa4f06 / BENEVOLENCE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+仁者@rénzhě	[[tls:concept:BENEVOLENCE::#uuid-8cefb61d-78bf-4d33-b0f1-5e3414fa4f06][BENEVOLENCE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: "the benevolent person; the human-hearted person" at any time and in any place
+*** 敬@jìng
+:PROPERTIES:
+:CONCEPT: uuid-79324cd0-58b9-4f1d-acaa-57f9e136dd9d / RESPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 5
+:END:
+敬@jìng	[[tls:concept:RESPECT::#uuid-79324cd0-58b9-4f1d-acaa-57f9e136dd9d][RESPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / feel respect for and act earnestly on the basis of this
+** ──小人反是	The petty man is the opposite of this.
+:PROPERTIES:
+:SRC: XUN 13:8:1, Beida p.219; Knoblock 2:203
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:9a08:1::── / 荀子
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-86710c17-18a5-4621-866f-eac5b8c9422e / BAD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+小人@xiǎorén	[[tls:concept:BAD::#uuid-86710c17-18a5-4621-866f-eac5b8c9422e][BAD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / petty person
+** 夫是之謂通忠之順	-this may indeed be described as "obedience achieved through a comprehensive understanding of loyalty."
+:PROPERTIES:
+:SRC: XUN 13:9:2, Beida p.220; Knoblock 2:203f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_013:10a09:1::夫是 / 荀子
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-360710ac-befe-4876-9049-5978a7651960 / SUCH
+:SYN-FUNC: uuid-57ce2afe-2539-46f3-abe4-7f85130914ca
+:CHARPOS: 2
+:END:
+是@shì	[[tls:concept:SUCH::#uuid-360710ac-befe-4876-9049-5978a7651960][SUCH]]	N [[tls:syn-func::#uuid-57ce2afe-2539-46f3-abe4-7f85130914ca][npro{PRED}]] / be such; be a paradigmatic example; be a typical case in point; be a relevant example; be a paradigm case

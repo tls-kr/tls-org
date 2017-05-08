@@ -1,0 +1,192 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 文選 KR4h0001_028
+#+DATE: 2017-02-08T16:43:41+0900
+#+PROPERTY: COMMIT 8ccd7462ea97f0ec7b6955d13f865df090173b30
+** 主人且勿諠	My host, cease your noise a while,
+:PROPERTIES:
+:SRC: Lu Qinli 1261; 文選 28; Yuefu shiji 41; Lu, p.1261; Bao canjun jizhu, p.159; ziliao p.493; cidian, p.771. Tr. Owen
+:DATE: 4100	Middle Chinese
+:LOCATION: KR4h0001_028:20a01:10::主人 / 文選
+:CHARPOS: 10
+:END:
+*** 主人@zhǔrén
+:PROPERTIES:
+:CONCEPT: uuid-defd9cc1-ee74-4be8-8d23-9c085bff2588 / YOU
+:SYN-FUNC: uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4
+:CHARPOS: 10
+:END:
+主人@zhǔrén	[[tls:concept:YOU::#uuid-defd9cc1-ee74-4be8-8d23-9c085bff2588][YOU]]	N [[tls:syn-func::#uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4][NP{post-npro_1.}{post=npro_2}]] / you, my host
+*** 且@qiě
+:PROPERTIES:
+:CONCEPT: uuid-15a1472c-225d-44f6-a895-22a75c92a3f4 / IMPERATIVE MARKER
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CONCEPT: uuid-57395fd6-39e5-4c84-9273-9000f5517398 / CLAMOUR
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 12
+:END:
+且@qiě	[[tls:concept:IMPERATIVE MARKER::#uuid-15a1472c-225d-44f6-a895-22a75c92a3f4][IMPERATIVE MARKER]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / go and V!
+喧@xuān	[[tls:concept:CLAMOUR::#uuid-57395fd6-39e5-4c84-9273-9000f5517398][CLAMOUR]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (of humans, animals, carts) shriek, make lot of noise; wail loudly
+** 賤子歌一言	let me sing a bit for you.
+:PROPERTIES:
+:SRC: Lu Qinli 1261; 文選 28; Yuefu shiji 41; Lu, p.1261; Bao canjun jizhu, p.159; ziliao p.493; cidian, p.771. Tr. Owen
+:DATE: 4100	Middle Chinese
+:LOCATION: KR4h0001_028:20a02:50::賤子 / 文選
+:CHARPOS: 50
+:END:
+*** 賤子@jiànzǐ
+:PROPERTIES:
+:CONCEPT: uuid-780a6788-444d-4373-883c-dc4faee56ffa / EGO
+:SYN-FUNC: uuid-13230028-2ba9-425d-b7a1-2ca77f6db263
+:CHARPOS: 50
+:END:
+賤子@jiànzǐ	[[tls:concept:EGO::#uuid-780a6788-444d-4373-883c-dc4faee56ffa][EGO]]	N [[tls:syn-func::#uuid-13230028-2ba9-425d-b7a1-2ca77f6db263][NP{post=npro1}]] / I, the vulgar fellow
+** 僕本寒鄉士	I was a gentleman from a poor land
+:PROPERTIES:
+:SRC: Lu Qinli 1261; 文選 28; Yuefu shiji 41; Lu, p.1261; Bao canjun jizhu, p.159; ziliao p.493; cidian, p.771. Tr. Owen
+:DATE: 4100	Middle Chinese
+:LOCATION: KR4h0001_028:20a03:50::僕本 / 文選
+:CHARPOS: 50
+:END:
+*** 僕@pú
+:PROPERTIES:
+:CONCEPT: uuid-3d817204-5d43-4ec5-9d6c-b1f88423cc93 / EGO
+:SYN-FUNC: uuid-e3361bbb-5371-45f3-b7d3-1ead29fbe2c5
+:CHARPOS: 50
+:END:
+僕@pú	[[tls:concept:EGO::#uuid-3d817204-5d43-4ec5-9d6c-b1f88423cc93][EGO]]	 [[tls:syn-func::#uuid-e3361bbb-5371-45f3-b7d3-1ead29fbe2c5][n{post-npro2.}{post=npro1}]] / I, mere servant 《史記·滑稽列傳》：“使 張儀 、 蘇秦 與僕並生於今之世，
+*** 寒@hán
+:PROPERTIES:
+:CONCEPT: uuid-0f6ea69a-f2f9-446b-b13e-9da0346861dc / POOR
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 52
+:END:
+寒@hán	[[tls:concept:POOR::#uuid-0f6ea69a-f2f9-446b-b13e-9da0346861dc][POOR]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / poor 寒士 "poor scholar; poor gentleman"
+*** 鄉@xiāng
+:PROPERTIES:
+:CONCEPT: uuid-054694ba-f815-4c87-b149-f799da8b4551 / VILLAGE
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 53
+:END:
+鄉@xiāng	[[tls:concept:VILLAGE::#uuid-054694ba-f815-4c87-b149-f799da8b4551][VILLAGE]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / from a village; from an insignificant place
+** 出身蒙漢恩	entering service I received the grace of Han.
+:PROPERTIES:
+:SRC: Lu Qinli 1261; 文選 28; Yuefu shiji 41; Lu, p.1261; Bao canjun jizhu, p.159; ziliao p.493; cidian, p.771. Tr. Owen
+:DATE: 4100	Middle Chinese
+:LOCATION: KR4h0001_028:20a04:50::出身 / 文選
+:CHARPOS: 50
+:END:
+*** 蒙@méng
+:PROPERTIES:
+:CONCEPT: uuid-74c955a0-7d78-4bda-aee3-5f857e9ccfb7 / RECEIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+蒙@méng	[[tls:concept:RECEIVE::#uuid-74c955a0-7d78-4bda-aee3-5f857e9ccfb7][RECEIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to receive (benefits)
+*** 漢@hàn
+:PROPERTIES:
+:CONCEPT: uuid-c7a220f5-0a88-4342-bc87-00cd5042826b / CHINA
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 53
+:END:
+漢@hàn	[[tls:concept:CHINA::#uuid-c7a220f5-0a88-4342-bc87-00cd5042826b][CHINA]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / Chinese
+*** 恩@ēn
+:PROPERTIES:
+:CONCEPT: uuid-158bad9e-bc77-4251-8b2d-74b94788cf38 / GENEROUS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+恩@ēn	[[tls:concept:GENEROUS::#uuid-158bad9e-bc77-4251-8b2d-74b94788cf38][GENEROUS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / a significant generous action by a benefactor 恩不甚
+** 始隨張校尉	At first I went with Colonel Zhang (Qian),
+:PROPERTIES:
+:SRC: Lu Qinli 1261; 文選 28; Yuefu shiji 41; Lu, p.1261; Bao canjun jizhu, p.159; ziliao p.493; cidian, p.771. Tr. Owen
+:DATE: 4100	Middle Chinese
+:LOCATION: KR4h0001_028:20a05:50::始隨 / 文選
+:CHARPOS: 50
+:END:
+*** 始@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-a8886067-c9f4-4d96-a6db-511dca626b03 / BEGIN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CONCEPT: uuid-80e13b19-8395-477a-8367-a827fcafa4f6 / FOLLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+始@shǐ	[[tls:concept:BEGIN::#uuid-a8886067-c9f4-4d96-a6db-511dca626b03][BEGIN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / for the first time, from the very beginning; to begin with; in the beginning
+@	[[tls:concept:FOLLOW::#uuid-80e13b19-8395-477a-8367-a827fcafa4f6][FOLLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / ensue; follow behind (rather than go in front); trail behind and follow
+** 占募到河源	and enlisted to go to the Yellow River's source.
+:PROPERTIES:
+:SRC: Lu Qinli 1261; 文選 28; Yuefu shiji 41; Lu, p.1261; Bao canjun jizhu, p.159; ziliao p.493; cidian, p.771. Tr. Owen
+:DATE: 4100	Middle Chinese
+:LOCATION: KR4h0001_028:20a06:50::占募 / 文選
+:CHARPOS: 50
+:END:
+*** 原@yuán / 源@yuán
+:PROPERTIES:
+:CONCEPT: uuid-c72b23ab-73e6-43d4-a8ed-42ddb31a6226 / SOURCE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CONCEPT: uuid-c72b23ab-73e6-43d4-a8ed-42ddb31a6226 / SOURCE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+原@yuán / 源@yuán	[[tls:concept:SOURCE::#uuid-c72b23ab-73e6-43d4-a8ed-42ddb31a6226][SOURCE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / source
+〓:原@yuán / 源@yuán	[[tls:concept:SOURCE::#uuid-c72b23ab-73e6-43d4-a8ed-42ddb31a6226][SOURCE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / source
+** 後逐李輕車	Later I served with Light-chariot Li (Cai),
+:PROPERTIES:
+:SRC: Lu Qinli 1261; 文選 28; Yuefu shiji 41; Lu, p.1261; Bao canjun jizhu, p.159; ziliao p.493; cidian, p.771. Tr. Owen
+:DATE: 4100	Middle Chinese
+:LOCATION: KR4h0001_028:20a07:50::後逐 / 文選
+:CHARPOS: 50
+:END:
+*** 逐@zhú
+:PROPERTIES:
+:CONCEPT: uuid-b6ef4ecd-cc7e-46c5-916f-b3f69703c0fb / FOLLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+逐@zhú	[[tls:concept:FOLLOW::#uuid-b6ef4ecd-cc7e-46c5-916f-b3f69703c0fb][FOLLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / follow
+*** 輕車@qīngchē / 輕車@qīngjū
+:PROPERTIES:
+:CONCEPT: uuid-ffc5bbc7-70f5-4d37-87d8-32bf745eb6d7 / CHARIOT
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:CHARPOS: 53
+:END:
+輕車@qīngchē / 輕車@qīngjū	[[tls:concept:CHARIOT::#uuid-ffc5bbc7-70f5-4d37-87d8-32bf745eb6d7][CHARIOT]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] / light military chariots
+** 追虜窮塞垣	chasing nomads to the limits of the border fortifications.
+:PROPERTIES:
+:SRC: Lu Qinli 1261; 文選 28; Yuefu shiji 41; Lu, p.1261; Bao canjun jizhu, p.159; ziliao p.493; cidian, p.771. Tr. Owen
+:DATE: 4100	Middle Chinese
+:LOCATION: KR4h0001_028:20a08:50::追虜 / 文選
+:CHARPOS: 50
+:END:
+*** 追@zhuī
+:PROPERTIES:
+:CONCEPT: uuid-5d262ab4-caba-4552-a933-523f8264ea52 / PURSUE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-679ff478-b721-42eb-aca2-f0e2c2c402c3
+:CHARPOS: 50
+:END:
+追@zhuī	[[tls:concept:PURSUE::#uuid-5d262ab4-caba-4552-a933-523f8264ea52][PURSUE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-679ff478-b721-42eb-aca2-f0e2c2c402c3][hostile]]} / go after, pursue, try to catch up with (and perhaps catch)
+*** 虜@lǔ
+:PROPERTIES:
+:CONCEPT: uuid-bd057bf9-d422-4ecf-b188-251c8aa7876a / BARBARIAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 51
+:END:
+虜@lǔ	[[tls:concept:BARBARIAN::#uuid-bd057bf9-d422-4ecf-b188-251c8aa7876a][BARBARIAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the barbarians; barbarians
+*** 塞@sài
+:PROPERTIES:
+:CONCEPT: uuid-7cac54e8-ff6a-4130-8140-df8feb26aaa6 / BOUNDARY
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 53
+:END:
+塞@sài	[[tls:concept:BOUNDARY::#uuid-7cac54e8-ff6a-4130-8140-df8feb26aaa6][BOUNDARY]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / borderland-
+*** 垣@yuán
+:PROPERTIES:
+:CONCEPT: uuid-dfc179ed-9e18-4878-81a7-680fe9a85bba / WALL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+垣@yuán	[[tls:concept:WALL::#uuid-dfc179ed-9e18-4878-81a7-680fe9a85bba][WALL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / little wall surrounding a garden, field or large dwelling, enclosure

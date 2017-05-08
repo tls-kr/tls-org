@@ -1,0 +1,168 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 春秋穀梁傳 KR1e0008_009
+#+DATE: 2017-02-08T16:40:09+0900
+#+PROPERTY: COMMIT b100194fc5197cc79411d9b329a0918f345716e1
+** 廷道不除	that the roads within the court precinct be left unattended;
+:PROPERTIES:
+:SRC: CQ GULIANG Xiang 08.08; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_009:229a11:1::廷道 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 廷@tíng / 庭@tíng
+:PROPERTIES:
+:CONCEPT: uuid-38dc6330-05d0-4168-a783-a855f3a348be / COURT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+廷@tíng / 庭@tíng	[[tls:concept:COURT::#uuid-38dc6330-05d0-4168-a783-a855f3a348be][COURT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / court, royal court
+** 9.27.4衛侯之弟專出奔晉	Joan, the younger brother of the marquis of Wei. left (his state) and fled to Jinn.
+:PROPERTIES:
+:SRC: CQ GULIANG Xiang 08.11; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_009:254a11:5::<p / 春秋穀梁傳
+:CHARPOS: 5
+:END:
+*** 出奔@chūbēn
+:PROPERTIES:
+:CONCEPT: uuid-752c9972-44ce-498a-801b-2be0a73f178f / FLEE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 16
+:END:
+出奔@chūbēn	[[tls:concept:FLEE::#uuid-752c9972-44ce-498a-801b-2be0a73f178f][FLEE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / leave so as to flee to
+** 閽	The term huen
+:PROPERTIES:
+:SRC: CQ GULIANG Xiang 08.13; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_009:272a01:1::閽、 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 閽@hūn
+:PROPERTIES:
+:CONCEPT: uuid-1f365446-5323-4c01-8bd2-df5b463ec9c6 / EUNUCH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+閽@hūn	[[tls:concept:EUNUCH::#uuid-1f365446-5323-4c01-8bd2-df5b463ec9c6][EUNUCH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / eunuch gatekeeper
+** 寺人也	and eunuchs.
+:PROPERTIES:
+:SRC: CQ GULIANG Xiang 08.13; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_009:272a02:1::寺人 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 寺人@sìrén
+:PROPERTIES:
+:CONCEPT: uuid-a41aa429-962b-4959-9e9a-5728c31c303a / EUNUCH
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+寺人@sìrén	[[tls:concept:EUNUCH::#uuid-a41aa429-962b-4959-9e9a-5728c31c303a][EUNUCH]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / eunuch
+** 君不使無恥	a ruler must not employ shameless persons,
+:PROPERTIES:
+:SRC: CQ GULIANG Xiang 08.14; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_009:272a07:2::君不 / 春秋穀梁傳
+:CHARPOS: 2
+:END:
+*** 無恥@wúchǐ
+:PROPERTIES:
+:CONCEPT: uuid-7049bf24-11ab-42c7-8f8c-f5d713a9eb5a / WICKED
+:SYN-FUNC: uuid-080d3352-c9b3-40b5-8aed-7996007863d9
+:CHARPOS: 5
+:END:
+無恥@wúchǐ	[[tls:concept:WICKED::#uuid-7049bf24-11ab-42c7-8f8c-f5d713a9eb5a][WICKED]]	N [[tls:syn-func::#uuid-080d3352-c9b3-40b5-8aed-7996007863d9][NP{adN}]] / those who have no sense of shame (non-ref)
+*** 恥@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-8dc38649-9103-4b5b-8dfc-1e4a928500bd / SHAME
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 6
+:END:
+恥@chǐ	[[tls:concept:SHAME::#uuid-8dc38649-9103-4b5b-8dfc-1e4a928500bd][SHAME]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / the (proper) sense of what is publicly disgraceful, moral integrity
+** 不狎敵	show contempt for the enemy,
+:PROPERTIES:
+:SRC: CQ GULIANG Xiang 08.14; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_009:272a09:1::不狎 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 狎@xiá
+:PROPERTIES:
+:CONCEPT: uuid-68ced2ba-d1bf-47fe-ade6-514252240cac / DESPISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa
+:CHARPOS: 2
+:END:
+狎@xiá	[[tls:concept:DESPISE::#uuid-68ced2ba-d1bf-47fe-ade6-514252240cac][DESPISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9f39c671-0a8c-4564-b0ad-af7185eed7aa][attitudinal]]} / treat with contempt; treat without special respect
+** 仇之也	siginifies that the gate-keeper resented him.
+:PROPERTIES:
+:SRC: CQ GULIANG Xiang 08.15; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_009:272a17:1::仇之 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 仇@qiú
+:PROPERTIES:
+:CONCEPT: uuid-b74a8781-456a-473c-8ffd-7bd5ef96f88a / HATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21
+:CHARPOS: 1
+:END:
+仇@qiú	[[tls:concept:HATE::#uuid-b74a8781-456a-473c-8ffd-7bd5ef96f88a][HATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / regard as an enemy, hate
+** 身賢	A man may be considered worthy
+:PROPERTIES:
+:SRC: CQ GULIANG Xiang 08.18; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_009:276a04:1::身賢 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-45eb6e74-7da4-457f-a4b9-5b16e1e6dc1e / PERSONALLY
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:CHARPOS: 1
+:END:
+身@shēn	[[tls:concept:PERSONALLY::#uuid-45eb6e74-7da4-457f-a4b9-5b16e1e6dc1e][PERSONALLY]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] / in person, himself
+*** 賢@xián
+:PROPERTIES:
+:CONCEPT: uuid-0315a79a-1faf-4c6b-ae67-28053cf1aff5 / TALENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 2
+:END:
+賢@xián	[[tls:concept:TALENT::#uuid-0315a79a-1faf-4c6b-ae67-28053cf1aff5][TALENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / of persons: be (the more) worthy; be distinguished; be morally distinguished, be a worthy, be talented; be excellent (sometimes also of actions) 甚賢，最賢
+** 使賢	he may also be considered worthy for the fact
+:PROPERTIES:
+:SRC: CQ GULIANG Xiang 08.18; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_009:276a06:1::使賢 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 使@shǐ
+:PROPERTIES:
+:CONCEPT: uuid-8a47346f-e41f-4239-ba91-a8a76839f852 / CAUSE TO
+:SYN-FUNC: uuid-7de00196-12aa-43e2-9843-72079143c05b
+:CHARPOS: 1
+:END:
+使@shǐ	[[tls:concept:CAUSE TO::#uuid-8a47346f-e41f-4239-ba91-a8a76839f852][CAUSE TO]]	V [[tls:syn-func::#uuid-7de00196-12aa-43e2-9843-72079143c05b][vtt(oN.)+V{0}]] / cause somebody contextually determinate N to V, make somebody N get into a certain situation, make somebody or something obtain a quality
+** 尊君也	in that he honoured his lord.
+:PROPERTIES:
+:SRC: CQ GULIANG Xiang 08.18; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_009:276a09:1::尊君 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 尊@zūn
+:PROPERTIES:
+:CONCEPT: uuid-00ec9c02-53aa-48ad-80be-769dd457245e / NOBLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+尊@zūn	[[tls:concept:NOBLE::#uuid-00ec9c02-53aa-48ad-80be-769dd457245e][NOBLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to be noble, elevate the status of; cause to be dignified
+** 成尊於上也	(the Chuenchiou) represents Jih-tzyy's superior as having a share of his worthiness.
+:PROPERTIES:
+:SRC: CQ GULIANG Xiang 08.18; ssj:DATE: 6200	Western Han
+:LOCATION: KR1e0008_009:276a11:1::成尊 / 春秋穀梁傳
+:CHARPOS: 1
+:END:
+*** 尊@zūn
+:PROPERTIES:
+:CONCEPT: uuid-e14de82b-c2b5-459a-9e2e-1f5cdda31d29 / NOBLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 2
+:END:
+尊@zūn	[[tls:concept:NOBLE::#uuid-e14de82b-c2b5-459a-9e2e-1f5cdda31d29][NOBLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / elevated social status; venerable position

@@ -1,0 +1,960 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_064
+#+DATE: 2017-02-08T16:41:15+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 秦武王謂甘茂曰	'If I could but drive my state carriage through Han's land of Three Rivers
+:PROPERTIES:
+:SRC: ZGC 4.6.1; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144 Tseng-tzu 's mother drops the shuttle
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:1a01:50::秦武 / 戰國策
+:CHARPOS: 50
+:END:
+*** 甘茂@gānmào
+:PROPERTIES:
+:CONCEPT: uuid-5d1caa9a-805f-4d00-ab53-6e5ac21094a9 / MALES OF QIN
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CONCEPT: uuid-f0ed686d-f722-4a55-b7b6-160ef6959bc9 / RULERS OF QIN
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:SEM-FEAT: uuid-2e377e0e-02e8-437f-86ce-f041186bc7aa
+:CHARPOS: 54
+:END:
+甘茂@gānmào	[[tls:concept:MALES OF QIN::#uuid-5d1caa9a-805f-4d00-ab53-6e5ac21094a9][MALES OF QIN]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / Standard Name: Gān Mào 甘茂 (Floruit until 309) Unger no. 266
+〓#秦武公@qínwǔgōng	[[tls:concept:RULERS OF QIN::#uuid-f0ed686d-f722-4a55-b7b6-160ef6959bc9][RULERS OF QIN]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] {[[tls:sem-feat::#uuid-2e377e0e-02e8-437f-86ce-f041186bc7aa][human]]} / STANDARD NAME: Duke Wǔ of Qín (reigned 698 - 678)ALTERNATIVE NAMES: referred to in ZGC as 秦武王.PARENTS: Son > Qín Níng gōng 秦寧公 WIVES: ?CHILDREN: -
+** 寡人欲車通三川	and look upon the palaces of Chou,'
+:PROPERTIES:
+:SRC: ZGC 4.6.1; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144 Tseng-tzu 's mother drops the shuttle
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:1a02:50::「寡 / 戰國策
+:CHARPOS: 50
+:END:
+*** 寡人@guǎrén
+:PROPERTIES:
+:CONCEPT: uuid-515d6a00-bc55-44f0-889e-5dc95384e15f / EGO
+:SYN-FUNC: uuid-13230028-2ba9-425d-b7a1-2ca77f6db263
+:CHARPOS: 50
+:END:
+寡人@guǎrén	[[tls:concept:EGO::#uuid-515d6a00-bc55-44f0-889e-5dc95384e15f][EGO]]	N [[tls:syn-func::#uuid-13230028-2ba9-425d-b7a1-2ca77f6db263][NP{post=npro1}]] / we (as used by the ruler to refer to himself)
+** 以闚周室	said King Wu of Ch'in to Kan Mao,
+:PROPERTIES:
+:SRC: ZGC 4.6.1; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144 Tseng-tzu 's mother drops the shuttle
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:1a03:50::以闚 / 戰國策
+:CHARPOS: 50
+:END:
+*** 闚@kuī
+:PROPERTIES:
+:CONCEPT: uuid-7e6547ec-25d5-4812-ac8c-288cb4df4291 / PEEP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+闚@kuī	[[tls:concept:PEEP::#uuid-7e6547ec-25d5-4812-ac8c-288cb4df4291][PEEP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / get a glimpse of; peer out; spy on; observe
+*** 室@shì
+:PROPERTIES:
+:CONCEPT: uuid-ed30925d-424f-4751-831a-0afb25f47395 / PALACE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 53
+:END:
+室@shì	[[tls:concept:PALACE::#uuid-ed30925d-424f-4751-831a-0afb25f47395][PALACE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / distinguished buildings> palaces
+** 而寡人死不杇乎	'then I might perish but my deeds would survive me!'
+:PROPERTIES:
+:SRC: ZGC 4.6.1; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144 Tseng-tzu 's mother drops the shuttle
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:1a04:50::而寡 / 戰國策
+:CHARPOS: 50
+:END:
+*** 寡人@guǎrén
+:PROPERTIES:
+:CONCEPT: uuid-515d6a00-bc55-44f0-889e-5dc95384e15f / EGO
+:SYN-FUNC: uuid-13230028-2ba9-425d-b7a1-2ca77f6db263
+:CHARPOS: 51
+:END:
+寡人@guǎrén	[[tls:concept:EGO::#uuid-515d6a00-bc55-44f0-889e-5dc95384e15f][EGO]]	N [[tls:syn-func::#uuid-13230028-2ba9-425d-b7a1-2ca77f6db263][NP{post=npro1}]] / we (as used by the ruler to refer to himself)
+*** 不朽@bùxiǔ
+:PROPERTIES:
+:CONCEPT: uuid-d60fa8bf-850c-4cf2-90d1-4fed2d78bac5 / ENDURING
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CONCEPT: uuid-4466e26e-770d-4c9d-9752-6b0b63e05a2a / ROTTEN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 50
+:END:
+不朽@bùxiǔ	[[tls:concept:ENDURING::#uuid-d60fa8bf-850c-4cf2-90d1-4fed2d78bac5][ENDURING]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be everlasting; continue and not be forgotten; be "immortal"
+朽@xiǔ	[[tls:concept:ROTTEN::#uuid-4466e26e-770d-4c9d-9752-6b0b63e05a2a][ROTTEN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / rot away, enter decay
+** 甘茂對曰	'Then I beg your majesty's leave to make an alliance with Wei
+:PROPERTIES:
+:SRC: ZGC 4.6.1; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144 Tseng-tzu 's mother drops the shuttle
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:1a05:50::甘茂 / 戰國策
+:CHARPOS: 50
+:END:
+*** 對@duì
+:PROPERTIES:
+:CONCEPT: uuid-f0c8960f-edf4-4b81-a11c-0beedca68a3a / ANSWER
+:SYN-FUNC: uuid-8247b91f-96e1-420b-91db-861ac6c3e5e2
+:CHARPOS: 52
+:END:
+對@duì	[[tls:concept:ANSWER::#uuid-f0c8960f-edf4-4b81-a11c-0beedca68a3a][ANSWER]]	V [[tls:syn-func::#uuid-8247b91f-96e1-420b-91db-861ac6c3e5e2][vt(oN.)+V]] / respond politely to what has been said; reply politely (typically to a superior)
+** 約伐韓	replied Kan Mao.
+:PROPERTIES:
+:SRC: ZGC 4.6.1; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144 Tseng-tzu 's mother drops the shuttle
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:1a07:1::約伐 / 戰國策
+:CHARPOS: 1
+:END:
+*** 約@yuē
+:PROPERTIES:
+:CONCEPT: uuid-a27f357f-ccdf-4b9d-9d59-52acd4f3b3b1 / AGREE TO
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 1
+:END:
+約@yuē	[[tls:concept:AGREE TO::#uuid-a27f357f-ccdf-4b9d-9d59-52acd4f3b3b1][AGREE TO]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / make an agreement to V
+** 王令向壽輔行	He was given permission, and King Wu's relative Hsiang Shou was sent as his aide.
+:PROPERTIES:
+:SRC: ZGC 4.6.1; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144 Tseng-tzu 's mother drops the shuttle
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:1a08:50::王令 / 戰國策
+:CHARPOS: 50
+:END:
+*** 令@lìng
+:PROPERTIES:
+:CONCEPT: uuid-940ac8dd-7363-4734-bb68-d3463719fa30 / COMMAND
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 51
+:END:
+令@lìng	[[tls:concept:COMMAND::#uuid-940ac8dd-7363-4734-bb68-d3463719fa30][COMMAND]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / comand (the SUBJECT to PREDICATE, on a level inferior to lìng 令)
+** 甘茂至魏	When they reached Wei,
+:PROPERTIES:
+:SRC: ZGC 4.6.2; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:2a01:1::甘茂 / 戰國策
+:CHARPOS: 1
+:END:
+*** 至@zhì
+:PROPERTIES:
+:CONCEPT: uuid-bd602adb-a72f-49ce-b025-96fee97b46fb / ARRIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-229a701e-1341-4719-9af8-a0b4e69c6c71
+:CHARPOS: 3
+:END:
+至@zhì	[[tls:concept:ARRIVE::#uuid-bd602adb-a72f-49ce-b025-96fee97b46fb][ARRIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-229a701e-1341-4719-9af8-a0b4e69c6c71][perfective]]} / arrive at, turn up at; get to (a place); abstract: advance to the position of; attain to
+** 子歸告王曰	'If you, sir, will return now to the king and tell him
+:PROPERTIES:
+:SRC: ZGC 4.6.2; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:2a03:1::「子 / 戰國策
+:CHARPOS: 1
+:END:
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-4d5dabba-7b00-4726-a9bc-72cada4f347e / YOU
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-aa5d1211-84ca-41d2-b97c-dc48ccff0c1a
+:CHARPOS: 1
+:END:
+子@zǐ	[[tls:concept:YOU::#uuid-4d5dabba-7b00-4726-a9bc-72cada4f347e][YOU]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-aa5d1211-84ca-41d2-b97c-dc48ccff0c1a][2. person singular]]} / you, sir; you, madam
+** 魏聽臣矣	Wei is willing to do as we wish
+:PROPERTIES:
+:SRC: ZGC 4.6.2; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:2a04:50::『魏 / 戰國策
+:CHARPOS: 50
+:END:
+*** 聽@tīng
+:PROPERTIES:
+:CONCEPT: uuid-25aaca38-1541-4516-a098-40d40949f6d6 / CONFORM
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+聽@tīng	[[tls:concept:CONFORM::#uuid-25aaca38-1541-4516-a098-40d40949f6d6][CONFORM]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / concur with; be agreeable to; heed, follow the advice of; Danish: ta til efterretning; lend an ear to
+** 然願王勿攻也	but caution him not to attack yet,
+:PROPERTIES:
+:SRC: ZGC 4.6.2; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:2a05:50::然願 / 戰國策
+:CHARPOS: 50
+:END:
+*** 然@rán
+:PROPERTIES:
+:CONCEPT: uuid-638b8edc-c74e-48ec-b3f1-fffa27a9e000 / NONETHELESS
+:SYN-FUNC: uuid-24957678-0999-4596-8e51-3945e1a7a59a
+:CHARPOS: 50
+:END:
+然@rán	[[tls:concept:NONETHELESS::#uuid-638b8edc-c74e-48ec-b3f1-fffa27a9e000][NONETHELESS]]	V [[tls:syn-func::#uuid-24957678-0999-4596-8e51-3945e1a7a59a][vadS1.post-S2]] / however; but
+*** 願@yuàn
+:PROPERTIES:
+:CONCEPT: uuid-29223840-8326-45a0-8de1-de6249d33d69 / HOPE
+:SYN-FUNC: uuid-bbf33c5b-7ac6-4543-a948-20280bdc964e
+:CHARPOS: 51
+:END:
+願@yuàn	[[tls:concept:HOPE::#uuid-29223840-8326-45a0-8de1-de6249d33d69][HOPE]]	V [[tls:syn-func::#uuid-bbf33c5b-7ac6-4543-a948-20280bdc964e][vt{0}oS]] / (I) hope that S 願君熟圖之; also contrafactual wishes: Latin: utinam, I wish I could
+** 事成	then whatever success we have
+:PROPERTIES:
+:SRC: ZGC 4.6.2; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:2a06:50::事成 / 戰國策
+:CHARPOS: 50
+:END:
+*** 成@chéng
+:PROPERTIES:
+:CONCEPT: uuid-0564b8c6-7de7-4f71-9937-85a97016bb9c / ACHIEVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 51
+:END:
+成@chéng	[[tls:concept:ACHIEVE::#uuid-0564b8c6-7de7-4f71-9937-85a97016bb9c][ACHIEVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / have come to completion, have been brought to completion
+** 盡以為子功	shall be to your credit.'
+:PROPERTIES:
+:SRC: ZGC 4.6.2; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:2a07:50::盡以 / 戰國策
+:CHARPOS: 50
+:END:
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-295b05f6-616d-4117-b32f-16d7222ae8c1 / YOU
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 53
+:END:
+子@zǐ	[[tls:concept:YOU::#uuid-295b05f6-616d-4117-b32f-16d7222ae8c1][YOU]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / polite: your 子之足
+*** 功@gōng
+:PROPERTIES:
+:CONCEPT: uuid-443a356c-e8a8-4def-92a5-9b6a2134beaf / ACHIEVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+功@gōng	[[tls:concept:ACHIEVE::#uuid-443a356c-e8a8-4def-92a5-9b6a2134beaf][ACHIEVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / objective effects achieved, achievements, results, work results
+** 向壽歸以告王	Hsiang Shou did as he was asked
+:PROPERTIES:
+:SRC: ZGC 4.6.2; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:2a08:50::向壽 / 戰國策
+:CHARPOS: 50
+:END:
+*** 告@gào
+:PROPERTIES:
+:CONCEPT: uuid-35948638-421b-4c71-a216-78d4220e7cc3 / REPORT
+:SYN-FUNC: uuid-f61ce0f3-6443-41fd-b221-244fb9b98322
+:CHARPOS: 54
+:END:
+告@gào	[[tls:concept:REPORT::#uuid-35948638-421b-4c71-a216-78d4220e7cc3][REPORT]]	V [[tls:syn-func::#uuid-f61ce0f3-6443-41fd-b221-244fb9b98322][vttoN1.post-vt(oN2)]] / inform (somebody N1) about a contextually determinate matter N2 以告x
+** 王迎甘茂於息壤	and the king awaited Kan Mao's return at Hsi-jang
+:PROPERTIES:
+:SRC: ZGC 4.6.2; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:2a09:50::王迎 / 戰國策
+:CHARPOS: 50
+:END:
+*** 迎@yíng
+:PROPERTIES:
+:CONCEPT: uuid-ae45022f-d335-4901-96ca-024c943830ad / WELCOME
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+迎@yíng	[[tls:concept:WELCOME::#uuid-ae45022f-d335-4901-96ca-024c943830ad][WELCOME]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / go out to meet (in a hostile or friendly way); specifically: to welcome, come out to welcome (also seasons like spring)
+** 王問其故	'
+:PROPERTIES:
+:SRC: ZGC 4.6.3; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a02:1::王問 / 戰國策
+:CHARPOS: 1
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-0352c276-71f6-4bf2-adf9-e15ee0a19233 / CAUSE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 4
+:END:
+故@gù	[[tls:concept:CAUSE::#uuid-0352c276-71f6-4bf2-adf9-e15ee0a19233][CAUSE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / precedent, antecedent; what is behind something, background, cause; reasons behind; basic features SHUOWEN: 使為之也。
+** 名為縣	It is called a district
+:PROPERTIES:
+:SRC: ZGC 4.6.3; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a07:1::名為 / 戰國策
+:CHARPOS: 1
+:END:
+*** 縣@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-18a06524-3324-4bc6-8bd1-f9a1878eaa9d / REGION
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+縣@xiàn	[[tls:concept:REGION::#uuid-18a06524-3324-4bc6-8bd1-f9a1878eaa9d][REGION]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / administrative district
+** 其實郡也	but it might better be narned a commandery!
+:PROPERTIES:
+:SRC: ZGC 4.6.3; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a08:50::其實 / 戰國策
+:CHARPOS: 50
+:END:
+*** 郡@jùn
+:PROPERTIES:
+:CONCEPT: uuid-91f1db35-3984-41d3-ba19-3442801189c2 / REGION
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+郡@jùn	[[tls:concept:REGION::#uuid-91f1db35-3984-41d3-ba19-3442801189c2][REGION]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / province as instituted by the Qín
+** 今王倍數險	Your majesty will have the craggy mountains at his back
+:PROPERTIES:
+:SRC: ZGC 4.6.3; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a09:50::今王 / 戰國策
+:CHARPOS: 50
+:END:
+*** 險@xiǎn
+:PROPERTIES:
+:CONCEPT: uuid-6a3c926a-7ae3-4ffe-b6dc-11463dd94e02 / HIGH
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 54
+:END:
+險@xiǎn	[[tls:concept:HIGH::#uuid-6a3c926a-7ae3-4ffe-b6dc-11463dd94e02][HIGH]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / precariously high and inaccessible terrain, or mountains
+** 難矣	Here will be difficulty indeed.'
+:PROPERTIES:
+:SRC: ZGC 4.6.3; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a11:1::難矣 / 戰國策
+:CHARPOS: 1
+:END:
+*** 難@nán
+:PROPERTIES:
+:CONCEPT: uuid-b69c41fb-7537-4d27-ba9c-899fabc9428b / DIFFICULT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 1
+:END:
+難@nán	[[tls:concept:DIFFICULT::#uuid-b69c41fb-7537-4d27-ba9c-899fabc9428b][DIFFICULT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be difficult; have difficulty to get anywhere 甚難
+** 臣聞張儀西并巴蜀之地	'Your servant recalls that Chang Yi annexed Pa and Shu for Ch'in in the west,
+:PROPERTIES:
+:SRC: ZGC 4.6.4; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a12:50::臣聞 / 戰國策
+:CHARPOS: 50
+:END:
+*** 并@bìng
+:PROPERTIES:
+:CONCEPT: uuid-71c7ac96-0078-4076-a9fd-51f598efe16b / ANNEX
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+并@bìng	[[tls:concept:ANNEX::#uuid-71c7ac96-0078-4076-a9fd-51f598efe16b][ANNEX]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / bring equally under one's control; annex; add to what one has;
+** 北取西河之外	took Hsi-ho where the Yellow River loops in the north,
+:PROPERTIES:
+:SRC: ZGC 4.6.4; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a13:50::北取 / 戰國策
+:CHARPOS: 50
+:END:
+*** 取@qǔ
+:PROPERTIES:
+:CONCEPT: uuid-97aeeb73-e955-4368-8946-0550a1128329 / ANNEX
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+取@qǔ	[[tls:concept:ANNEX::#uuid-97aeeb73-e955-4368-8946-0550a1128329][ANNEX]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / take possession of (a place); annex a state or city; confiscate
+** 天下不以為多張儀而賢先王	But the empire did not think more of Chang Yi; it praised the virtue of his ruler, your ancestor.
+:PROPERTIES:
+:SRC: ZGC 4.6.4; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a15:1::天下 / 戰國策
+:CHARPOS: 1
+:END:
+*** 賢@xián
+:PROPERTIES:
+:CONCEPT: uuid-9427791f-8aed-46ce-901d-82b78cfdaa1b / TALENT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21
+:CHARPOS: 10
+:END:
+賢@xián	[[tls:concept:TALENT::#uuid-9427791f-8aed-46ce-901d-82b78cfdaa1b][TALENT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / regard as distinguished or talented, regard as worthy
+*** 先王@xiānwáng
+:PROPERTIES:
+:CONCEPT: uuid-71e602ac-e928-41c2-8b62-faca5e4620d1 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 11
+:END:
+先王@xiānwáng	[[tls:concept:RULER::#uuid-71e602ac-e928-41c2-8b62-faca5e4620d1][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the former king; the first king
+** 樂羊反而語功	and returned to claim his honour.
+:PROPERTIES:
+:SRC: ZGC 4.6.5; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a19:1::樂羊 / 戰國策
+:CHARPOS: 1
+:END:
+*** 語@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-c1cf5679-3a56-4d8a-a374-c805ffdefb70 / SPEAK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 5
+:END:
+語@yǔ	[[tls:concept:SPEAK::#uuid-c1cf5679-3a56-4d8a-a374-c805ffdefb70][SPEAK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / talk loosely about (pejorative); speak informally in favour of
+** 文侯示之謗書一篋	Marquis Wen showed him a chest full of defaming letters
+:PROPERTIES:
+:SRC: ZGC 4.6.5; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a20:50::文侯 / 戰國策
+:CHARPOS: 50
+:END:
+*** 謗@bàng
+:PROPERTIES:
+:CONCEPT: uuid-b4788cdf-d0d4-4e8d-baf9-ec297f15076b / SLANDER
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 54
+:END:
+謗@bàng	[[tls:concept:SLANDER::#uuid-b4788cdf-d0d4-4e8d-baf9-ec297f15076b][SLANDER]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / vilifying, slanderous
+*** 書@shū
+:PROPERTIES:
+:CONCEPT: uuid-fb4ab325-2f46-40fd-a023-fb25b20a77be / LETTER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 55
+:END:
+書@shū	[[tls:concept:LETTER::#uuid-fb4ab325-2f46-40fd-a023-fb25b20a77be][LETTER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / letter
+*** 篋@qiè
+:PROPERTIES:
+:CONCEPT: uuid-ca13bc09-a0e3-4ad4-84d5-ee0fdd266c3f / BOX
+:SYN-FUNC: uuid-1045a7a4-cbbc-445a-a976-14a787864971
+:SEM-FEAT: uuid-14056dfd-9bb3-49e4-93d1-93de5283e702
+:CHARPOS: 57
+:END:
+篋@qiè	[[tls:concept:BOX::#uuid-ca13bc09-a0e3-4ad4-84d5-ee0fdd266c3f][BOX]]	N [[tls:syn-func::#uuid-1045a7a4-cbbc-445a-a976-14a787864971][ncpost-V{NUM}.post-N]] {[[tls:sem-feat::#uuid-14056dfd-9bb3-49e4-93d1-93de5283e702][classifier]]} / box of N
+** 樂羊再拜稽首曰	and Yyeh Yang bowed down his head to the ground saying
+:PROPERTIES:
+:SRC: ZGC 4.6.5; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a21:50::樂羊 / 戰國策
+:CHARPOS: 50
+:END:
+*** 再@zài
+:PROPERTIES:
+:CONCEPT: uuid-b68f49fd-cefd-4ddb-80a1-749f94a17f83 / TWO
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+再@zài	[[tls:concept:TWO::#uuid-b68f49fd-cefd-4ddb-80a1-749f94a17f83][TWO]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / twice 再拜
+*** 稽首@qǐshǒu
+:PROPERTIES:
+:CONCEPT: uuid-9ca0b027-c785-44af-a49e-291c3308dfa3 / BOW DOWN
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+稽首@qǐshǒu	[[tls:concept:BOW DOWN::#uuid-9ca0b027-c785-44af-a49e-291c3308dfa3][BOW DOWN]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / kneel and bow so as to knock the floor with one's head
+** 此非臣之功	"Your servant gains no honour in this victory,
+:PROPERTIES:
+:SRC: ZGC 4.6.5; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a22:50::『此 / 戰國策
+:CHARPOS: 50
+:END:
+*** 功@gōng
+:PROPERTIES:
+:CONCEPT: uuid-5271dad4-2b93-4412-8992-15c4f8b79a50 / MERIT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+功@gōng	[[tls:concept:MERIT::#uuid-5271dad4-2b93-4412-8992-15c4f8b79a50][MERIT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / meritorious political or military achievement, meritorious exploits; contributions; proper ultimate function; effective performance (e.g. in cutting off heads!); intended result; results, success
+** 主君之力也	it was accomplished through the power of his master."
+:PROPERTIES:
+:SRC: ZGC 4.6.5; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a23:50::主君 / 戰國策
+:CHARPOS: 50
+:END:
+*** 主君@zhǔjūn
+:PROPERTIES:
+:CONCEPT: uuid-d6a81f75-b4b6-43cf-a6f3-87db5eba8b54 / YOU
+:SYN-FUNC: uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4
+:CHARPOS: 50
+:END:
+主君@zhǔjūn	[[tls:concept:YOU::#uuid-d6a81f75-b4b6-43cf-a6f3-87db5eba8b54][YOU]]	N [[tls:syn-func::#uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4][NP{post-npro_1.}{post=npro_2}]] / you mylord
+** 挾韓而議	have the country of Han nestling in their arm pits; when they come and speak before your majesty
+:PROPERTIES:
+:SRC: ZGC 4.6.5; tr. Crump 1979 no. 66, p 75, ed. Shanghaiguji p. 144
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a26:1::挾韓 / 戰國策
+:CHARPOS: 1
+:END:
+*** 挾@xié
+:PROPERTIES:
+:CONCEPT: uuid-7e90a66a-c356-4aaf-a433-487b2cc76ab8 / CONTROL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+挾@xié	[[tls:concept:CONTROL::#uuid-7e90a66a-c356-4aaf-a433-487b2cc76ab8][CONTROL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / have easy control of; have gained easy control of
+*** 議@yì
+:PROPERTIES:
+:CONCEPT: uuid-6c8b059c-0229-42f6-b6f0-d55318026485 / DISCUSS
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 4
+:END:
+議@yì	[[tls:concept:DISCUSS::#uuid-6c8b059c-0229-42f6-b6f0-d55318026485][DISCUSS]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / engage in public discussion, engage in disputation; express public dissent; make a remark; express one's opinion
+** 是王欺魏	and be tempted to cheat your ally, Wei,
+:PROPERTIES:
+:SRC: ZGC 4.6.6; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a28:1::是王 / 戰國策
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-62ed03a6-d8d4-4954-bc44-a40dbe72740e / THEN
+:SYN-FUNC: uuid-be65b5bf-77c6-4abc-9b0b-03d67cf89975
+:SEM-FEAT: uuid-33206044-2b20-49c4-87c9-4d29c0e3df04
+:CHARPOS: 1
+:END:
+是@shì	[[tls:concept:THEN::#uuid-62ed03a6-d8d4-4954-bc44-a40dbe72740e][THEN]]	N [[tls:syn-func::#uuid-be65b5bf-77c6-4abc-9b0b-03d67cf89975][npro.adS1:postS2]] {[[tls:sem-feat::#uuid-33206044-2b20-49c4-87c9-4d29c0e3df04][conditional]]} / thus under such circumstances, then under such circumstances
+** 而臣受公仲侈之怨也	and I will be left to face the wrath of Kung-chung Ch'ih.
+:PROPERTIES:
+:SRC: ZGC 4.6.6; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a29:50::而臣 / 戰國策
+:CHARPOS: 50
+:END:
+*** 受@shòu
+:PROPERTIES:
+:CONCEPT: uuid-ca1aab5f-dc56-473b-be22-533baf388c10 / PASSIVE MARKER
+:SYN-FUNC: uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5
+:CHARPOS: 52
+:END:
+受@shòu	[[tls:concept:PASSIVE MARKER::#uuid-ca1aab5f-dc56-473b-be22-533baf388c10][PASSIVE MARKER]]	V [[tls:syn-func::#uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5][vtoNab]] / (receive>) be on the receiving end of Nab-ing 受公仲侈之怨也(!)
+*** 怨@yuàn
+:PROPERTIES:
+:CONCEPT: uuid-c38e2177-1988-43d9-ab17-ef604a691c9a / HATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 57
+:END:
+怨@yuàn	[[tls:concept:HATE::#uuid-c38e2177-1988-43d9-ab17-ef604a691c9a][HATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / intense resentment; relations of mutual resentment
+** 昔者曾子處費	'Once, when the saintly Tseng-tzu lived in the country of Pi,
+:PROPERTIES:
+:SRC: ZGC 4.6.6; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a30:50::昔者 / 戰國策
+:CHARPOS: 50
+:END:
+*** 處@chǔ
+:PROPERTIES:
+:CONCEPT: uuid-68717770-f25d-486d-a118-a3bc088b6c7f / DWELL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+處@chǔ	[[tls:concept:DWELL::#uuid-68717770-f25d-486d-a118-a3bc088b6c7f][DWELL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be in (a place), stay in (a place); stay among (the barbarians etc); choose to dwell in, choose as one's abode; take up private residence in
+** 人告曾子母曰	and a neighbour called out to Tseng-tzu's mother,
+:PROPERTIES:
+:SRC: ZGC 4.6.6; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a32:1::人告 / 戰國策
+:CHARPOS: 1
+:END:
+*** 曾參@zēngshēn / 曾子@zēngzǐ
+:PROPERTIES:
+:CONCEPT: uuid-afa4d38d-f524-4363-9777-ead02a12a019 / CONFUCIANS
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 1
+:END:
+曾參@zēngshēn / 曾子@zēngzǐ	[[tls:concept:CONFUCIANS::#uuid-afa4d38d-f524-4363-9777-ead02a12a019][CONFUCIANS]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / Unger no. 792
+** 吾子不殺人	'My son is no murderer."
+:PROPERTIES:
+:SRC: ZGC 4.6.6; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a35:1::『吾 / 戰國策
+:CHARPOS: 1
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-0bd019d4-a479-471a-8841-535a6c2e35c9 / OTHER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 5
+:END:
+人@rén	[[tls:concept:OTHER::#uuid-0bd019d4-a479-471a-8841-535a6c2e35c9][OTHER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / another person, someone else
+** 有頃焉	In a while
+:PROPERTIES:
+:SRC: ZGC 4.6.7; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a37:1::有頃 / 戰國策
+:CHARPOS: 1
+:END:
+*** 有頃@yǒuqǐng
+:PROPERTIES:
+:CONCEPT: uuid-d3834b2d-cc68-4630-acea-f319c8d59af5 / THEREUPON
+:SYN-FUNC: uuid-efe577d1-de70-4d80-84d0-e92f482f3f3d
+:CHARPOS: 1
+:END:
+有頃@yǒuqǐng	[[tls:concept:THEREUPON::#uuid-d3834b2d-cc68-4630-acea-f319c8d59af5][THEREUPON]]	V [[tls:syn-func::#uuid-efe577d1-de70-4d80-84d0-e92f482f3f3d][VPadS]] / current from HAN times onwards: after a while
+** 其母尚織自若也	but she continued to weave as before.
+:PROPERTIES:
+:SRC: ZGC 4.6.7; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a40:1::其母 / 戰國策
+:CHARPOS: 1
+:END:
+*** 尚@shàng
+:PROPERTIES:
+:CONCEPT: uuid-0013a996-bccf-415a-b9d2-c9bb9eabab94 / STILL
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-4f4d14c8-c938-4b7e-bd27-e752d00e897b
+:CHARPOS: 3
+:END:
+尚@shàng	[[tls:concept:STILL::#uuid-0013a996-bccf-415a-b9d2-c9bb9eabab94][STILL]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-4f4d14c8-c938-4b7e-bd27-e752d00e897b][present]]} / still
+*** 自若@zìruò
+:PROPERTIES:
+:CONCEPT: uuid-9f667bd9-79a0-4e29-8278-bb4690c39400 / PEACEFUL
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 5
+:END:
+自若@zìruò	[[tls:concept:PEACEFUL::#uuid-9f667bd9-79a0-4e29-8278-bb4690c39400][PEACEFUL]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be at one's ease; pretend that nothing has happened
+** 頃之	The third time
+:PROPERTIES:
+:SRC: ZGC 4.6.7; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a41:50::頃之 / 戰國策
+:CHARPOS: 50
+:END:
+*** 頃之@qǐngzhī
+:PROPERTIES:
+:CONCEPT: uuid-5992c33c-defd-4e55-88ce-8d45e1f059fa / MOMENT
+:SYN-FUNC: uuid-02c38bc6-493a-4bef-8b5e-2c5b3d623908
+:CHARPOS: 50
+:END:
+頃之@qǐngzhī	[[tls:concept:MOMENT::#uuid-5992c33c-defd-4e55-88ce-8d45e1f059fa][MOMENT]]	N [[tls:syn-func::#uuid-02c38bc6-493a-4bef-8b5e-2c5b3d623908][NPadS]] / after a short while
+** 其母懼	she dropped her shuttle in fear,
+:PROPERTIES:
+:SRC: ZGC 4.6.7; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a44:1::其母 / 戰國策
+:CHARPOS: 1
+:END:
+*** 懼@jù
+:PROPERTIES:
+:CONCEPT: uuid-2fdd309c-09f0-49f1-a150-0a4bfbe0d82f / FEAR
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 3
+:END:
+懼@jù	[[tls:concept:FEAR::#uuid-2fdd309c-09f0-49f1-a150-0a4bfbe0d82f][FEAR]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become frightened; become scared
+** 投杼踰牆而走	leaped her threshold and fled.
+:PROPERTIES:
+:SRC: ZGC 4.6.7; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a45:50::投杼 / 戰國策
+:CHARPOS: 50
+:END:
+*** 投@tóu
+:PROPERTIES:
+:CONCEPT: uuid-ef04d555-96d7-459e-a6d2-59360c5d9632 / DISCARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+投@tóu	[[tls:concept:DISCARD::#uuid-ef04d555-96d7-459e-a6d2-59360c5d9632][DISCARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / discard, throw to the ground
+*** 杼@zhù
+:PROPERTIES:
+:CONCEPT: uuid-0223d25e-f0ed-408e-b1ed-efc81af6e208 / SHUTTLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+杼@zhù	[[tls:concept:SHUTTLE::#uuid-0223d25e-f0ed-408e-b1ed-efc81af6e208][SHUTTLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / shuttle (for use on a loom)
+*** 牆@qiáng / 牆@qiáng
+:PROPERTIES:
+:CONCEPT: uuid-7ea03030-6c93-44c2-be38-d0b6ba1f0087 / WALL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 53
+:END:
+牆@qiáng / 牆@qiáng	[[tls:concept:WALL::#uuid-7ea03030-6c93-44c2-be38-d0b6ba1f0087][WALL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / any wall of any kind
+*** 走@zǒu
+:PROPERTIES:
+:CONCEPT: uuid-7096208e-47de-4d6b-ab61-b78625abce02 / FLEE
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CONCEPT: uuid-c904e43d-3fa6-4e81-9f5d-28097ed9491c / LEAP OVER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+走@zǒu	[[tls:concept:FLEE::#uuid-7096208e-47de-4d6b-ab61-b78625abce02][FLEE]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / run away, flee; leave quickly[CHECK YOUR LEX ATTRIB][CA]
+〓#逾@yú / 逾@yú	[[tls:concept:LEAP OVER::#uuid-c904e43d-3fa6-4e81-9f5d-28097ed9491c][LEAP OVER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / leap across (a wall etc), get across
+** 與母之信也	and his mother's faith in him,
+:PROPERTIES:
+:SRC: ZGC 4.6.7; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a47:1::與母 / 戰國策
+:CHARPOS: 1
+:END:
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-fd745f99-fb4f-42a1-b6a2-950963484d1d / AND
+:SYN-FUNC: uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 1
+:END:
+與@yǔ	[[tls:concept:AND::#uuid-fd745f99-fb4f-42a1-b6a2-950963484d1d][AND]]	V [[tls:syn-func::#uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e][vtoN1.postN2:postVt]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / and 衛侯逐公叔戍與其黨，
+*** 母@mǔ
+:PROPERTIES:
+:CONCEPT: uuid-1b554738-0f17-4890-bd75-473c82126392 / MOTHER
+:SYN-FUNC: uuid-f688791d-a18c-4bab-854f-b17a9f193cc5
+:CHARPOS: 2
+:END:
+母@mǔ	[[tls:concept:MOTHER::#uuid-1b554738-0f17-4890-bd75-473c82126392][MOTHER]]	N [[tls:syn-func::#uuid-f688791d-a18c-4bab-854f-b17a9f193cc5][nt(post-N)]] / the mother of the contextually determinate N
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-c0ea87e3-35b4-487c-a87a-643d969f4f7d / FAITHFUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 4
+:END:
+信@xìn	[[tls:concept:FAITHFUL::#uuid-c0ea87e3-35b4-487c-a87a-643d969f4f7d][FAITHFUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / truthfulness; reliability of one's attitude; credibiliy; trustiness as a psychological virtue involving action in good faith; faithful allegiance
+** 而三人疑之	when three others had shaken her confidence
+:PROPERTIES:
+:SRC: ZGC 4.6.7; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a48:50::而三 / 戰國策
+:CHARPOS: 50
+:END:
+*** 疑@yí
+:PROPERTIES:
+:CONCEPT: uuid-e0ae50bd-ad27-4abb-926f-bdf14c5fa756 / SUSPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+疑@yí	[[tls:concept:SUSPECT::#uuid-e0ae50bd-ad27-4abb-926f-bdf14c5fa756][SUSPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be suspicious of; distrust; hold in suspicion
+** 則慈母不能信也	she too misbelieved her son.
+:PROPERTIES:
+:SRC: ZGC 4.6.7; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a49:50::則慈 / 戰國策
+:CHARPOS: 50
+:END:
+*** 慈@cí
+:PROPERTIES:
+:CONCEPT: uuid-4fdb8e4c-3d6b-4713-94b7-c4afdfb73627 / LOVE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-eb362e25-99fd-4526-a3ea-428eccf6c681
+:CHARPOS: 51
+:END:
+慈@cí	[[tls:concept:LOVE::#uuid-4fdb8e4c-3d6b-4713-94b7-c4afdfb73627][LOVE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-eb362e25-99fd-4526-a3ea-428eccf6c681][non-restrictive]]} / loving, caring 慈母, benevolent, kin
+*** 母@mǔ
+:PROPERTIES:
+:CONCEPT: uuid-1b554738-0f17-4890-bd75-473c82126392 / MOTHER
+:SYN-FUNC: uuid-f688791d-a18c-4bab-854f-b17a9f193cc5
+:CHARPOS: 52
+:END:
+母@mǔ	[[tls:concept:MOTHER::#uuid-1b554738-0f17-4890-bd75-473c82126392][MOTHER]]	N [[tls:syn-func::#uuid-f688791d-a18c-4bab-854f-b17a9f193cc5][nt(post-N)]] / the mother of the contextually determinate N
+** 今臣之賢不及曾子	'Your servant's nobility being somewhat less than that of Tsen Shen,
+:PROPERTIES:
+:SRC: ZGC 4.6.8; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a50:50::今臣 / 戰國策
+:CHARPOS: 50
+:END:
+*** 賢@xián
+:PROPERTIES:
+:CONCEPT: uuid-c9727391-9411-4e01-84a3-556af710594d / TALENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-62a630be-58ae-44f4-b858-a7540b2de8d3
+:CHARPOS: 53
+:END:
+賢@xián	[[tls:concept:TALENT::#uuid-c9727391-9411-4e01-84a3-556af710594d][TALENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-62a630be-58ae-44f4-b858-a7540b2de8d3][moral]]} / moral distinction; moral worthiness; talent; moral excellence, moral talent
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-6be1585c-ff14-434b-9637-b1c4cae97ade / CATCH UP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 55
+:END:
+及@jí	[[tls:concept:CATCH UP::#uuid-6be1585c-ff14-434b-9637-b1c4cae97ade][CATCH UP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / catch up with, reach the same level as, be as strong/good as
+** 而王之信臣	your majesty's faith in me
+:PROPERTIES:
+:SRC: ZGC 4.6.8; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a51:50::而王 / 戰國策
+:CHARPOS: 50
+:END:
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-93053bd5-398f-4809-b4d0-5fffd662e77a / TRUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 53
+:END:
+信@xìn	[[tls:concept:TRUST::#uuid-93053bd5-398f-4809-b4d0-5fffd662e77a][TRUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / have or show trust in (someone or something)
+** 又未若曾子之母也	being less firm than Tseng's mother's,
+:PROPERTIES:
+:SRC: ZGC 4.6.8; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a51:50::又未 / 戰國策
+:CHARPOS: 50
+:END:
+*** 若@ruò
+:PROPERTIES:
+:CONCEPT: uuid-472fa9ea-6457-4b30-9aa2-9c54e8554801 / EQUAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+若@ruò	[[tls:concept:EQUAL::#uuid-472fa9ea-6457-4b30-9aa2-9c54e8554801][EQUAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / come up to the standards of, be as good as
+** 不適三人	being more numerous than three,
+:PROPERTIES:
+:SRC: ZGC 4.6.8; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a52:50::不適 / 戰國策
+:CHARPOS: 50
+:END:
+*** 適@shì
+:PROPERTIES:
+:CONCEPT: uuid-39da30cc-f18d-4905-9a4f-a674406e5753 / ONLY
+:SYN-FUNC: uuid-1d4f9536-14e1-4030-af04-f11628f02826
+:CHARPOS: 51
+:END:
+適@shì	[[tls:concept:ONLY::#uuid-39da30cc-f18d-4905-9a4f-a674406e5753][ONLY]]	P [[tls:syn-func::#uuid-1d4f9536-14e1-4030-af04-f11628f02826][padN{PRED}]] / not only be as many as N
+** 臣恐王為臣之投杼也	I fear your majesty will drop the shuttle while I am gone.'
+:PROPERTIES:
+:SRC: ZGC 4.6.8; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:3a53:50::臣恐 / 戰國策
+:CHARPOS: 50
+:END:
+*** 投@tóu
+:PROPERTIES:
+:CONCEPT: uuid-ef04d555-96d7-459e-a6d2-59360c5d9632 / DISCARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 56
+:END:
+投@tóu	[[tls:concept:DISCARD::#uuid-ef04d555-96d7-459e-a6d2-59360c5d9632][DISCARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / discard, throw to the ground
+*** 杼@zhù
+:PROPERTIES:
+:CONCEPT: uuid-0223d25e-f0ed-408e-b1ed-efc81af6e208 / SHUTTLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 57
+:END:
+杼@zhù	[[tls:concept:SHUTTLE::#uuid-0223d25e-f0ed-408e-b1ed-efc81af6e208][SHUTTLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / shuttle (for use on a loom)
+** 果攻宜陽	Yi-yang was laid under siege
+:PROPERTIES:
+:SRC: ZGC 4.6.9; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 153
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:4a01:1::果攻 / 戰國策
+:CHARPOS: 1
+:END:
+*** 果@guǒ
+:PROPERTIES:
+:CONCEPT: uuid-28a722b0-e98d-45ac-96a9-b3f9b98b33da / REALITY
+:SYN-FUNC: uuid-9e261ad1-59c5-4818-90e7-cc726a717900
+:CHARPOS: 1
+:END:
+果@guǒ	[[tls:concept:REALITY::#uuid-28a722b0-e98d-45ac-96a9-b3f9b98b33da][REALITY]]	N [[tls:syn-func::#uuid-9e261ad1-59c5-4818-90e7-cc726a717900][nab.adV]] / as a fruit> eventually; i n the event, as predicted, as one suspected, really, indeed; as it happened
+** 爭之王	did argue before the king
+:PROPERTIES:
+:SRC: ZGC 4.6.9; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 153
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:4a04:1::爭之 / 戰國策
+:CHARPOS: 1
+:END:
+*** 爭@zhēng
+:PROPERTIES:
+:CONCEPT: uuid-80afc19b-6fa9-470f-b451-6464c3343122 / DISCUSS
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 1
+:END:
+爭@zhēng	[[tls:concept:DISCUSS::#uuid-80afc19b-6fa9-470f-b451-6464c3343122][DISCUSS]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / discuss N1 before a person N2
+** 王將聽之	who believed them
+:PROPERTIES:
+:SRC: ZGC 4.6.9; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 153
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:4a05:50::王將 / 戰國策
+:CHARPOS: 50
+:END:
+*** 聽@tīng
+:PROPERTIES:
+:CONCEPT: uuid-25aaca38-1541-4516-a098-40d40949f6d6 / CONFORM
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+聽@tīng	[[tls:concept:CONFORM::#uuid-25aaca38-1541-4516-a098-40d40949f6d6][CONFORM]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / concur with; be agreeable to; heed, follow the advice of; Danish: ta til efterretning; lend an ear to
+** 召甘茂而告之	and recalled Kan Mao to accuse him.
+:PROPERTIES:
+:SRC: ZGC 4.6.9; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 153
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:4a06:50::召甘 / 戰國策
+:CHARPOS: 50
+:END:
+*** 召@zhào
+:PROPERTIES:
+:CONCEPT: uuid-4ad4033c-22a9-4d03-aa6d-27dc3ca86fe8 / SUMMON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+召@zhào	[[tls:concept:SUMMON::#uuid-4ad4033c-22a9-4d03-aa6d-27dc3ca86fe8][SUMMON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / summon officially; summon in; call in; deliver a summons (on behalf of a ruler), call in (on behalf of someone else); occasionally with abstract objects 召恥
+** 甘茂對曰	'Was there not a covenant at Hsi-jang'
+:PROPERTIES:
+:SRC: ZGC 4.6.9; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 153
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:4a07:50::甘茂 / 戰國策
+:CHARPOS: 50
+:END:
+*** 對@duì
+:PROPERTIES:
+:CONCEPT: uuid-f0c8960f-edf4-4b81-a11c-0beedca68a3a / ANSWER
+:SYN-FUNC: uuid-8247b91f-96e1-420b-91db-861ac6c3e5e2
+:CHARPOS: 52
+:END:
+對@duì	[[tls:concept:ANSWER::#uuid-f0c8960f-edf4-4b81-a11c-0beedca68a3a][ANSWER]]	V [[tls:syn-func::#uuid-8247b91f-96e1-420b-91db-861ac6c3e5e2][vt(oN.)+V]] / respond politely to what has been said; reply politely (typically to a superior)
+** 息壤在彼	asked Kan Mao.
+:PROPERTIES:
+:SRC: ZGC 4.6.9; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 153
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:4a08:50::「息 / 戰國策
+:CHARPOS: 50
+:END:
+*** 彼@bǐ
+:PROPERTIES:
+:CONCEPT: uuid-b64e0a87-c918-4f90-bf98-47b85a976f7c / THERE
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:CHARPOS: 53
+:END:
+彼@bǐ	[[tls:concept:THERE::#uuid-b64e0a87-c918-4f90-bf98-47b85a976f7c][THERE]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] / that place, there
+** 因悉起兵	Then he mustered all his forces,
+:PROPERTIES:
+:SRC: ZGC 4.6.9; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 153
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:4a11:1::因悉 / 戰國策
+:CHARPOS: 1
+:END:
+*** 悉@xī
+:PROPERTIES:
+:CONCEPT: uuid-62585f56-7b93-45db-8746-8246f0dff92b / ALL
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 2
+:END:
+悉@xī	[[tls:concept:ALL::#uuid-62585f56-7b93-45db-8746-8246f0dff92b][ALL]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / all objects; all objects completely
+** 復使甘茂攻之	ordered Kan Mao to lead them against Yi-yang once more,
+:PROPERTIES:
+:SRC: ZGC 4.6.9; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 153
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:4a12:50::復使 / 戰國策
+:CHARPOS: 50
+:END:
+*** 復@fù
+:PROPERTIES:
+:CONCEPT: uuid-a7cef44b-cc5c-4e84-b7e8-4a1743584f73 / AGAIN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+復@fù	[[tls:concept:AGAIN::#uuid-a7cef44b-cc5c-4e84-b7e8-4a1743584f73][AGAIN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / again (as in 復戰 "fight again, renew battle".(often of reverting to an original state:) again (失而復得"lose but regain again") occasionally and rarely adversative: on the contrary; (with negatives, not) any more, not any longer; but again)
+** 遂拔宜陽	and shortly thereafter the city fell.
+:PROPERTIES:
+:SRC: ZGC 4.6.9; tr. Crump 1979 no. 66, p 76, ed. Shanghaiguji p. 153
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_064:4a12:50::遂拔 / 戰國策
+:CHARPOS: 50
+:END:
+*** 遂@suì
+:PROPERTIES:
+:CONCEPT: uuid-84a4e41f-25cb-4fb9-8ece-1354c11f2ceb / THEREFORE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+遂@suì	[[tls:concept:THEREFORE::#uuid-84a4e41f-25cb-4fb9-8ece-1354c11f2ceb][THEREFORE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / eventually; and so in the end, and in the event; and then, thereupon, subsequently; eventually, in the event

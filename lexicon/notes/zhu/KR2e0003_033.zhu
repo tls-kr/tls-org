@@ -1,0 +1,48 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_033
+#+DATE: 2017-02-08T16:41:11+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 不如譽秦王之孝也	'It will be best if you praise the filial actions of the king of Ch'in
+:PROPERTIES:
+:SRC: ZGC 2.5.1; tr. Crump 1979 no.17, p. 35, ed. Shanghaiguji p. 54 Chou Tsui adviced on personal relations in the Ch'in court
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_033:1a03:1::「不 / 戰國策
+:CHARPOS: 1
+:END:
+*** 譽@yù
+:PROPERTIES:
+:CONCEPT: uuid-16f8f92c-bb18-46d6-b1ee-76a9198a85af / PRAISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+譽@yù	[[tls:concept:PRAISE::#uuid-16f8f92c-bb18-46d6-b1ee-76a9198a85af][PRAISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to commend as outstanding; commend for (a good quality); express approval
+*** 孝@xiào
+:PROPERTIES:
+:CONCEPT: uuid-8ac21d7b-a007-4784-9337-70ec009ff267 / LOVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 7
+:END:
+孝@xiào	[[tls:concept:LOVE::#uuid-8ac21d7b-a007-4784-9337-70ec009ff267][LOVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / loving respect for one's parents and ancestors (see also VIRTUE)
+** 是公有秦也	and you will have Ch'in on your side.
+:PROPERTIES:
+:SRC: ZGC 2.5.1; tr. Crump 1979 no.17, p. 35, ed. Shanghaiguji p. 54 Chou Tsui adviced on personal relations in the Ch'in court
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_033:1a06:1::是公 / 戰國策
+:CHARPOS: 1
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 2
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / honorific in informal conversation: you; also n - pro: "you my Duke"; used both as subject and as object
+*** 有@yǒu
+:PROPERTIES:
+:CONCEPT: uuid-e62fae85-b07f-4765-adee-d17bae55fc14 / COOPERATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+有@yǒu	[[tls:concept:COOPERATE::#uuid-e62fae85-b07f-4765-adee-d17bae55fc14][COOPERATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / have the cooperation and support of

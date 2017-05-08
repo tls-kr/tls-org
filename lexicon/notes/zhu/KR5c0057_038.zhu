@@ -1,0 +1,45 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_038
+#+DATE: 2017-02-08T16:43:45+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 夫禮者	The rites (decorum)
+:PROPERTIES:
+:SRC: LAO 38.3; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_038:1a15:1::夫禮 / 老子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 前識者	fore-knowledge [may seem to be]
+:PROPERTIES:
+:SRC: LAO 38.3; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_038:1a18:1::前識 / 老子
+:CHARPOS: 1
+:END:
+*** 識@shí
+:PROPERTIES:
+:CONCEPT: uuid-fe5f5d81-e56f-43b6-9b9e-4e4c7c8c21f2 / INTELLIGENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 2
+:END:
+識@shí	[[tls:concept:INTELLIGENT::#uuid-fe5f5d81-e56f-43b6-9b9e-4e4c7c8c21f2][INTELLIGENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / intelligent perception or awareness of things
+** 是以大丈夫	Hence a great man
+:PROPERTIES:
+:SRC: LAO 38.4; tr. D.C. Lau 1982:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_038:1a21:1::是以 / 老子
+:CHARPOS: 1
+:END:
+*** 丈夫@zhàngfū
+:PROPERTIES:
+:CONCEPT: uuid-61c51f00-da4f-40c4-9922-9d344c6da2ea / MALE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f4e97457-afe2-413e-8537-d023e93d6605
+:CHARPOS: 4
+:END:
+丈夫@zhàngfū	[[tls:concept:MALE::#uuid-61c51f00-da4f-40c4-9922-9d344c6da2ea][MALE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f4e97457-afe2-413e-8537-d023e93d6605][adult]]} / adult male

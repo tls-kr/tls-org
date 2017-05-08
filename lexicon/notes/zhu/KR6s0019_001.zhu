@@ -1,0 +1,721 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 翻譯名義集 KR6s0019_001
+#+DATE: 2017-02-08T16:45:26+0900
+#+PROPERTY: COMMIT fd81b38d72340e6af07be9d8a26fef208116eceb
+** 余閱大藏	When I looked over the Great Repository
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::余閱 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 〓#示@shì / 視@shì
+:PROPERTIES:
+:CONCEPT: uuid-0e376dec-b4fc-44e6-a13d-860a60473b1a / SHOW
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 0
+:END:
+〓#示@shì / 視@shì	[[tls:concept:SHOW::#uuid-0e376dec-b4fc-44e6-a13d-860a60473b1a][SHOW]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / demonstrate (something N2) to (someone N1), make (something N2) clear to (an audience N1); make a demonstration of N2 to N1
+** 撮取諸經要義	to select from the various classics the main ideas
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::撮取 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 撮取@cuōqǔ
+:PROPERTIES:
+:CONCEPT: uuid-2d58c088-dec2-4d5b-893e-24b4e86eab69 / CHOOSE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 0
+:END:
+撮取@cuōqǔ	[[tls:concept:CHOOSE::#uuid-2d58c088-dec2-4d5b-893e-24b4e86eab69][CHOOSE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / choose
+*** 要義@yàoyì
+:PROPERTIES:
+:CONCEPT: uuid-0dc4203a-175a-4dd3-960a-36af74d0df9b / MEAN
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-b9ac8ad9-68b3-47e7-bd5d-759b78a7adfe
+:CHARPOS: 4
+:END:
+要義@yàoyì	[[tls:concept:MEAN::#uuid-0dc4203a-175a-4dd3-960a-36af74d0df9b][MEAN]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-b9ac8ad9-68b3-47e7-bd5d-759b78a7adfe][semantic]]} / main meanings involved(contrast 旨); main ideas
+** 示余平江景德寺普潤大師法雲所編翻譯名義	showed me the Fānyìmíngyì by the Great Master Pǔrùn from Jǐngdé Monastery in Píngjiāng.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::示余 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 寺@sì
+:PROPERTIES:
+:CONCEPT: uuid-60ee77da-31d7-44f1-8aab-f2f03263bd1f / TEMPLE
+:SYN-FUNC: uuid-4b4d25a0-d4e1-46c8-b211-5def72c3bfee
+:CHARPOS: 6
+:END:
+寺@sì	[[tls:concept:TEMPLE::#uuid-60ee77da-31d7-44f1-8aab-f2f03263bd1f][TEMPLE]]	N [[tls:syn-func::#uuid-4b4d25a0-d4e1-46c8-b211-5def72c3bfee][npost=Npr]] / the monastery Npr; the temple Npr
+*** 編@biān
+:PROPERTIES:
+:CONCEPT: uuid-8accbf99-7f96-4787-9cb2-045a7bd1dbfb / WRITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 14
+:END:
+編@biān	[[tls:concept:WRITE::#uuid-8accbf99-7f96-4787-9cb2-045a7bd1dbfb][WRITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / arrange writing strips in proper order; edit, compile
+*** 名義@míngyì
+:PROPERTIES:
+:CONCEPT: uuid-42cb673a-1847-45c9-975e-18dda84026e4 / MEAN
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-b9ac8ad9-68b3-47e7-bd5d-759b78a7adfe
+:CHARPOS: 17
+:END:
+名義@míngyì	[[tls:concept:MEAN::#uuid-42cb673a-1847-45c9-975e-18dda84026e4][MEAN]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-b9ac8ad9-68b3-47e7-bd5d-759b78a7adfe][semantic]]} / designation and meaning> semantics
+** 余一見而喜曰	As soon as I saw this I exclaimed in delight:
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.2 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::余一 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 見@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-c324a0cd-f60e-4b36-88c3-ad4770be15ee / UNDERSTAND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+見@jiàn	[[tls:concept:UNDERSTAND::#uuid-c324a0cd-f60e-4b36-88c3-ad4770be15ee][UNDERSTAND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / realise, be able to understand what is not immediately visible; see through, recognise the true nature of
+*** 喜@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-40694202-e33b-47cd-8c13-99a43acaf258 / DELIGHT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 4
+:END:
+喜@xǐ	[[tls:concept:DELIGHT::#uuid-40694202-e33b-47cd-8c13-99a43acaf258][DELIGHT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / with delight, in a delighted tone of voice
+** 他日總目成	When some day my Comprehensive Catalogue will be finished
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.2 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::他日 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 他日@tārì
+:PROPERTIES:
+:CONCEPT: uuid-aec3f1f7-0d89-4a03-9e39-1f2e62390ee7 / FUTURE
+:SYN-FUNC: uuid-02c38bc6-493a-4bef-8b5e-2c5b3d623908
+:CHARPOS: 0
+:END:
+他日@tārì	[[tls:concept:FUTURE::#uuid-aec3f1f7-0d89-4a03-9e39-1f2e62390ee7][FUTURE]]	N [[tls:syn-func::#uuid-02c38bc6-493a-4bef-8b5e-2c5b3d623908][NPadS]] / in the near future; soon afterwards; another time in the future
+** 已而過平江	After some time I passe by Píngjiāng
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.2 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::已。 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 過@guō
+:PROPERTIES:
+:CONCEPT: uuid-e2dd1341-d070-4401-a1e1-8f49b7244d6b / GO TO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+過@guō	[[tls:concept:GO TO::#uuid-e2dd1341-d070-4401-a1e1-8f49b7244d6b][GO TO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / pass by; make a passing visit to; visit on an informal basis, visit en passant; go to; pass through, pass by
+** 願求敘引	He was hoping to ask me for an introduction.
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.2 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::願求 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 願求@yuànqiú
+:PROPERTIES:
+:CONCEPT: uuid-798644d8-0a3f-4fa9-9946-c1f1be169743 / REQUEST
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 0
+:END:
+願求@yuànqiú	[[tls:concept:REQUEST::#uuid-798644d8-0a3f-4fa9-9946-c1f1be169743][REQUEST]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / request hopefully
+*** 敘引@xùyǐn
+:PROPERTIES:
+:CONCEPT: uuid-90a5a379-b8d8-4597-811b-14781a5f3e87 / PREFACE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 2
+:END:
+敘引@xùyǐn	[[tls:concept:PREFACE::#uuid-90a5a379-b8d8-4597-811b-14781a5f3e87][PREFACE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / preface
+** 余謂此書不惟有功於讀佛經者	I considered this book was not only useful for the reading of Buddhist classics
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.2 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::余謂 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 謂@wèi
+:PROPERTIES:
+:CONCEPT: uuid-3bfc04e4-a363-4808-b455-aeb3157cd89a / BELIEVE
+:SYN-FUNC: uuid-25b356b8-b8b3-45bd-8689-04894567deb5
+:SEM-FEAT: uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003
+:CHARPOS: 1
+:END:
+謂@wèi	[[tls:concept:BELIEVE::#uuid-3bfc04e4-a363-4808-b455-aeb3157cd89a][BELIEVE]]	V [[tls:syn-func::#uuid-25b356b8-b8b3-45bd-8689-04894567deb5][vttoN.+V{0}]] {[[tls:sem-feat::#uuid-cdc662a3-e2c9-4d1a-b58e-6442c74ee003][pivot]]} / (typically wrongly:) think of N that he/she/it Vs; think that N will V
+*** 功@gōng
+:PROPERTIES:
+:CONCEPT: uuid-5271dad4-2b93-4412-8992-15c4f8b79a50 / MERIT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 7
+:END:
+功@gōng	[[tls:concept:MERIT::#uuid-5271dad4-2b93-4412-8992-15c4f8b79a50][MERIT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / meritorious political or military achievement, meritorious exploits; contributions; proper ultimate function; effective performance (e.g. in cutting off heads!); intended result; results, success
+** 一祕密故	1. Because of secrecy,
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.3 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::一祕 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 祕密@mìmì
+:PROPERTIES:
+:CONCEPT: uuid-a7161593-1d26-4f09-91b3-c065156f824a / SECRET
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 1
+:END:
+祕密@mìmì	[[tls:concept:SECRET::#uuid-a7161593-1d26-4f09-91b3-c065156f824a][SECRET]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be strictly secret
+** 如陀羅尼	as in the case of the (relevant) dhārani.
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.3 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::如陀 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 陀羅尼@tuóluóní
+:PROPERTIES:
+:CONCEPT: uuid-5ef0d6aa-8596-46b2-913f-c30efa6f2f0f / LITERATURE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-2e7204ae-4771-435b-82ff-310068296b6d
+:CHARPOS: 1
+:END:
+陀羅尼@tuóluóní	[[tls:concept:LITERATURE::#uuid-5ef0d6aa-8596-46b2-913f-c30efa6f2f0f][LITERATURE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2e7204ae-4771-435b-82ff-310068296b6d][buddhist]]} / BUDDH: genre, skr. dhāraṇī (總持)
+** 二含多義故	2. Because of ambiguity
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.3 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::二含 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 含多義@hánduōyì
+:PROPERTIES:
+:CONCEPT: uuid-7b730f28-e496-4606-bd45-b1db3d1a54ed / AMBIGUOUS
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 1
+:END:
+含多義@hánduōyì	[[tls:concept:AMBIGUOUS::#uuid-7b730f28-e496-4606-bd45-b1db3d1a54ed][AMBIGUOUS]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / have many meaning; be ambiguous
+*** 義@yì
+:PROPERTIES:
+:CONCEPT: uuid-21adf8f6-97b6-4b3c-b9ba-0f5ebf15503b / MEAN
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-b9ac8ad9-68b3-47e7-bd5d-759b78a7adfe
+:CHARPOS: 3
+:END:
+義@yì	[[tls:concept:MEAN::#uuid-21adf8f6-97b6-4b3c-b9ba-0f5ebf15503b][MEAN]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-b9ac8ad9-68b3-47e7-bd5d-759b78a7adfe][semantic]]} / meanings
+** 三此無故	3. Because the thing in question does not exist (in the target country).
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.3 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::三此 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-98b3914d-9b17-4e35-b882-edf587617ccc / HERE
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:HERE::#uuid-98b3914d-9b17-4e35-b882-edf587617ccc][HERE]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] / here
+** 中夏實無此木	In China there is in fact no such tree.
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.3 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::中¶ / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 中夏@zhōngxià
+:PROPERTIES:
+:CONCEPT: uuid-376b03ae-b691-4097-887b-5c3b64c44ed1 / CHINA
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 0
+:END:
+中夏@zhōngxià	[[tls:concept:CHINA::#uuid-376b03ae-b691-4097-887b-5c3b64c44ed1][CHINA]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / China BAN GU, 西京賦 T50n2059_p0326c12(02)║ 還歸中夏。 自燉煌至長安。 沿路傳譯寫為晉文。
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-fac2c6bf-373c-44f2-8e2c-f2db358fd14e / THIS
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-76a3454c-a084-47af-b1b2-9839a8900995
+:CHARPOS: 4
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-fac2c6bf-373c-44f2-8e2c-f2db358fd14e][THIS]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-76a3454c-a084-47af-b1b2-9839a8900995][general]]} / this kind of
+** 非不可翻	It is not that this cannot be translated,
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.3 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::非不 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 翻@fān
+:PROPERTIES:
+:CONCEPT: uuid-3a066710-8469-48c2-8ed8-f86691287f10 / TRANSLATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 3
+:END:
+翻@fān	[[tls:concept:TRANSLATE::#uuid-3a066710-8469-48c2-8ed8-f86691287f10][TRANSLATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be translated
+** 而摩騰以來常存梵音	but since the time of Mātanga (died 73) there has always been used the Sanskrit sound.
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.3 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::而摩 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 摩騰@móténg
+:PROPERTIES:
+:CONCEPT: uuid-048154d2-50d2-4122-9857-6165838abb9a / BUDDHIST MONKS
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CONCEPT: uuid-497d242e-79c5-4d02-b9ae-fdd04b79486a / SINCE
+:SYN-FUNC: uuid-dd6fd161-6975-49b6-ac92-01fe3fc95092
+:CHARPOS: 1
+:END:
+摩騰@móténg	[[tls:concept:BUDDHIST MONKS::#uuid-048154d2-50d2-4122-9857-6165838abb9a][BUDDHIST MONKS]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / Mātanga (died AD 93)
+已來@yǐlái / 以來@yǐlái	[[tls:concept:SINCE::#uuid-497d242e-79c5-4d02-b9ae-fdd04b79486a][SINCE]]	V [[tls:syn-func::#uuid-dd6fd161-6975-49b6-ac92-01fe3fc95092][VPpostN.adS]] / since the time of N...
+** 如般若尊重智慧輕淺	as when prajnā has great weight whereas (the Chinese) zhìhuì "mundane wisdom" has little weight and is superficial.
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.3 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::如般 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 智慧@zhìhuì
+:PROPERTIES:
+:CONCEPT: uuid-e74db401-47f0-4a8c-92d7-fa23e8ad5196 / WISE
+:SYN-FUNC: uuid-9629f093-fa64-4769-9b05-9f49f12c7790
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 5
+:END:
+智慧@zhìhuì	[[tls:concept:WISE::#uuid-e74db401-47f0-4a8c-92d7-fa23e8ad5196][WISE]]	N [[tls:syn-func::#uuid-9629f093-fa64-4769-9b05-9f49f12c7790][NPab{N1=N2}]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / intellectual competence; mundane versus higher Buddhist wisdom
+** 乃謂釋迦牟尼此名能仁	that the name Shakyamuni refers to "being capable of humaneness".
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.4 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::乃謂 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-dae7b9cd-e5c9-4095-96a4-931aa5cf4d45 / THIS
+:SYN-FUNC: uuid-23fb19de-b2c4-428b-b7bc-e8eb499efc50
+:CHARPOS: 6
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-dae7b9cd-e5c9-4095-96a4-931aa5cf4d45][THIS]]	 [[tls:syn-func::#uuid-23fb19de-b2c4-428b-b7bc-e8eb499efc50][npro.post=N]] / this
+** 位卑周孔	then the Buddha's rank would be lower than that of the Duke of Zhōu and of Confucius.
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.4 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::位卑 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 位@wèi
+:PROPERTIES:
+:CONCEPT: uuid-356d858c-6fc2-4d25-b352-00033ee15c5f / RANK
+:SYN-FUNC: uuid-9e261ad1-59c5-4818-90e7-cc726a717900
+:CHARPOS: 0
+:END:
+位@wèi	[[tls:concept:RANK::#uuid-356d858c-6fc2-4d25-b352-00033ee15c5f][RANK]]	N [[tls:syn-func::#uuid-9e261ad1-59c5-4818-90e7-cc726a717900][nab.adV]] / in rank
+*** 卑@bēi
+:PROPERTIES:
+:CONCEPT: uuid-79b8192e-25dc-413e-bb17-ccff29a487ac / HUMBLE
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 1
+:END:
+卑@bēi	[[tls:concept:HUMBLE::#uuid-79b8192e-25dc-413e-bb17-ccff29a487ac][HUMBLE]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be humble/low in status as compared to
+** 此土老子之教先有	In this land the teaching of Lǎozǐ was there first.
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.4 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::此土 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 此土@cǐtǔ
+:PROPERTIES:
+:CONCEPT: uuid-24b23458-2220-44a7-8afa-345e736faa73 / CHINA
+:SYN-FUNC: uuid-02c38bc6-493a-4bef-8b5e-2c5b3d623908
+:CHARPOS: 0
+:END:
+此土@cǐtǔ	[[tls:concept:CHINA::#uuid-24b23458-2220-44a7-8afa-345e736faa73][CHINA]]	N [[tls:syn-func::#uuid-02c38bc6-493a-4bef-8b5e-2c5b3d623908][NPadS]] / in this land> China
+** 無上正真之道	The supreme true Way (of the Taoists) would then be no different (from the Way of the Buddha).
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.4 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::無上 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 無上@wúshàng / 无上@wúshàng
+:PROPERTIES:
+:CONCEPT: uuid-64aa0da0-0639-4387-a252-a46b0366f661 / PERFECT
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 0
+:END:
+無上@wúshàng / 无上@wúshàng	[[tls:concept:PERFECT::#uuid-64aa0da0-0639-4387-a252-a46b0366f661][PERFECT]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / BUDDH: unsurpassed > supreme [SK]
+*** 正真@zhèngzhēn
+:PROPERTIES:
+:CONCEPT: uuid-f9971f75-551d-4d4d-ac06-14062835f9bb / GENUINE
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:CHARPOS: 2
+:END:
+正真@zhèngzhēn	[[tls:concept:GENUINE::#uuid-f9971f75-551d-4d4d-ac06-14062835f9bb][GENUINE]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] / correct and genuine [note the tonal caccophony of this binome! One would expect 真正.]
+** 名大道心眾生	would be called a living being with a mind bent on the great way.
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.4 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::名大 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 眾生@zhòngshēng
+:PROPERTIES:
+:CONCEPT: uuid-ae86ba45-cc60-4b2e-beff-c76cc6fa3589 / CREATURE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 4
+:END:
+眾生@zhòngshēng	[[tls:concept:CREATURE::#uuid-ae86ba45-cc60-4b2e-beff-c76cc6fa3589][CREATURE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / a sentient being; any sentient being; just an ordinary sentient being
+*** 眾生@zhòngshēng
+:PROPERTIES:
+:CONCEPT: uuid-133fcdb6-bce9-437d-a7fb-5e377dc8f31f / CREATURE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 4
+:END:
+眾生@zhòngshēng	[[tls:concept:CREATURE::#uuid-133fcdb6-bce9-437d-a7fb-5e377dc8f31f][CREATURE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / any sentient living creature; a sentient creature
+** 尚多有不入藏者	there are still many texts that have not made it into the Repository.
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.6 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::尚多 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 多有@duōyǒu
+:PROPERTIES:
+:CONCEPT: uuid-87a5d949-81b5-401c-911c-906990f80797 / MANY
+:SYN-FUNC: uuid-68d6c2e0-b86b-4720-9453-c1c41bd0d622
+:CHARPOS: 1
+:END:
+多有@duōyǒu	[[tls:concept:MANY::#uuid-87a5d949-81b5-401c-911c-906990f80797][MANY]]	V [[tls:syn-func::#uuid-68d6c2e0-b86b-4720-9453-c1c41bd0d622][VPt0oN{SUBJ}]] / there are many
+** 我國家嘗命宰輔為譯經潤文使	In our state they die order imperial counselors to become Delegated Sutra Translators and Text Polishers.
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.6 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:00:0::我國 / 翻譯名義集
+:CHARPOS: 0
+:END:
+*** 我國家@wǒguójiā
+:PROPERTIES:
+:CONCEPT: uuid-04daae36-066c-4144-a165-372772fda28c / CHINA
+:SYN-FUNC: uuid-02c38bc6-493a-4bef-8b5e-2c5b3d623908
+:CHARPOS: 0
+:END:
+我國家@wǒguójiā	[[tls:concept:CHINA::#uuid-04daae36-066c-4144-a165-372772fda28c][CHINA]]	N [[tls:syn-func::#uuid-02c38bc6-493a-4bef-8b5e-2c5b3d623908][NPadS]] / in China
+** 真贋相乘	The genuine and the were intermixed
+:PROPERTIES:
+:SRC: 翻譯名義序.周敦義述 0.1.7 [1055a06]
+:DATE: --
+:LOCATION: KR6s0019_001:1055b02:11::真贋 / 翻譯名義集
+:CHARPOS: 11
+:END:
+*** 〓#@
+:PROPERTIES:
+:CONCEPT: uuid-515c90be-37b1-42f8-8c9d-b9859dc5129f / FAKE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd
+:CHARPOS: 11
+:END:
+〓#@	[[tls:concept:FAKE::#uuid-515c90be-37b1-42f8-8c9d-b9859dc5129f][FAKE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd][subj=nonhuman]]} / read yàn (not in Guǎngyùn) fake
+** 神鋒發硎	The sharpness of his spirit was as if it came from the whetstone.
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.2 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055b18:12::神鋒 / 翻譯名義集
+:CHARPOS: 12
+:END:
+*** 硎@xíng
+:PROPERTIES:
+:CONCEPT: uuid-3d48fc44-aeca-4a1a-8780-8ddaf875c4ab / WHETSTONE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 15
+:END:
+硎@xíng	[[tls:concept:WHETSTONE::#uuid-3d48fc44-aeca-4a1a-8780-8ddaf875c4ab][WHETSTONE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / whetstone
+** 學習天台大教	and studied as well as familiarised himself with the practice of the Tiāntái great teaching.
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.3 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055b21:10::學習 / 翻譯名義集
+:CHARPOS: 10
+:END:
+*** 學習@xuéxí
+:PROPERTIES:
+:CONCEPT: uuid-9e676f6f-5dca-4c90-be71-caeef2c69e2f / STUDY
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 10
+:END:
+學習@xuéxí	[[tls:concept:STUDY::#uuid-9e676f6f-5dca-4c90-be71-caeef2c69e2f][STUDY]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / study and familiarise oneself with the practice of
+** 諦受玄談	and he duly received the obscure discourse of this man.
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.3 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055b22:8::諦受 / 翻譯名義集
+:CHARPOS: 8
+:END:
+*** 諦@dì
+:PROPERTIES:
+:CONCEPT: uuid-c4253eb3-7209-47f0-adfc-e9228bbaee4c / DILIGENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 8
+:END:
+諦@dì	[[tls:concept:DILIGENT::#uuid-c4253eb3-7209-47f0-adfc-e9228bbaee4c][DILIGENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / paying diligent attention to all details
+** 為眾敷揚	and he held forth for the assembly.
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.3 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055b23:15::為眾 / 翻譯名義集
+:CHARPOS: 15
+:END:
+*** 敷揚@fūyáng
+:PROPERTIES:
+:CONCEPT: uuid-2a31e186-e543-4bfb-8a7f-12ea6bd8ed2a / PREACH
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 17
+:END:
+敷揚@fūyáng	[[tls:concept:PREACH::#uuid-2a31e186-e543-4bfb-8a7f-12ea6bd8ed2a][PREACH]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / hold forth for; preach for
+*** 敷揚@fūyáng
+:PROPERTIES:
+:CONCEPT: uuid-08823e5c-7d07-4bda-acf5-a6e5a971b237 / PREACH
+:SYN-FUNC: uuid-6fbf1ba0-1013-434e-b795-029e61b40b98
+:CHARPOS: 17
+:END:
+敷揚@fūyáng	[[tls:concept:PREACH::#uuid-08823e5c-7d07-4bda-acf5-a6e5a971b237][PREACH]]	V [[tls:syn-func::#uuid-6fbf1ba0-1013-434e-b795-029e61b40b98][VPt{oN}]] / hold forth on the Buddhist Way
+** 慈霔洋洋	and the shower of generous love poured forth from him.
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.4 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055b28:11::慈霔 / 翻譯名義集
+:CHARPOS: 11
+:END:
+*** 霔@zhù
+:PROPERTIES:
+:CONCEPT: uuid-c3aec003-a50c-44d5-8e37-9832b7e19df2 / RAIN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 12
+:END:
+霔@zhù	[[tls:concept:RAIN::#uuid-c3aec003-a50c-44d5-8e37-9832b7e19df2][RAIN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / rain forth
+** 思念報親之恩	he thought about paying back the generosity of his parents,
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.5 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055c01:5::思念 / 翻譯名義集
+:CHARPOS: 5
+:END:
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-37602684-0f26-492b-ac4c-3ed0a7f512d6 / PARENT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-01121fa6-00da-46e3-a10e-1c304d7bce01
+:CHARPOS: 8
+:END:
+親@qīn	[[tls:concept:PARENT::#uuid-37602684-0f26-492b-ac4c-3ed0a7f512d6][PARENT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-01121fa6-00da-46e3-a10e-1c304d7bce01][dualis]]} / parents: father and mother
+** 廬于祖墳	He lived in a hut by the tomb of his ancestors
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.5 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055c01:50::廬于 / 翻譯名義集
+:CHARPOS: 50
+:END:
+*** 廬@lú
+:PROPERTIES:
+:CONCEPT: uuid-9028c4a9-ab7e-4850-ac03-740726eb046e / DWELL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+廬@lú	[[tls:concept:DWELL::#uuid-9028c4a9-ab7e-4850-ac03-740726eb046e][DWELL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / live in the mourning shed
+** 臨終怡然	As she approached death she was perfectly contented.
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.6 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055c06:2::臨終 / 翻譯名義集
+:CHARPOS: 2
+:END:
+*** 怡然@yírán
+:PROPERTIES:
+:CONCEPT: uuid-0ff92dd6-ba24-456f-80cd-32ca9eeb7b6f / HAPPY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 4
+:END:
+怡然@yírán	[[tls:concept:HAPPY::#uuid-0ff92dd6-ba24-456f-80cd-32ca9eeb7b6f][HAPPY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be perfectly happily contented (often in spite of adversities)
+** 火餘舍利	The fiery beam left Buddha-relics behind
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.6 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055c06:50::火餘 / 翻譯名義集
+:CHARPOS: 50
+:END:
+*** 舍利@shělì
+:PROPERTIES:
+:CONCEPT: uuid-e2e1e667-68f5-4a78-8183-33a6a9aa5254 / ASH
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:CHARPOS: 52
+:END:
+舍利@shělì	[[tls:concept:ASH::#uuid-e2e1e667-68f5-4a78-8183-33a6a9aa5254][ASH]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / BUDDH: relics of the Buddha or occasionally of another famous Buddhist monk; relic pellets (referring to the crystalline remains left over after cremation) SANSKRIT Śarīra
+** 現蓮華跡二莖	two dried stems of lotos flowers.
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.7 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055c07:1::現蓮 / 翻譯名義集
+:CHARPOS: 1
+:END:
+*** 現@xiàn / 見@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-fd8c4fa7-8bcf-43dd-8839-4371ba983a99 / VISIBLE
+:SYN-FUNC: uuid-a25aba9d-46f5-4932-a1d7-48af11e04f61
+:CHARPOS: 1
+:END:
+現@xiàn / 見@xiàn	[[tls:concept:VISIBLE::#uuid-fd8c4fa7-8bcf-43dd-8839-4371ba983a99][VISIBLE]]	V [[tls:syn-func::#uuid-a25aba9d-46f5-4932-a1d7-48af11e04f61][vt0oN{SUBJ}]] / appear
+** 上昇忉利	rose up to the Buddhist Heaven.
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.7 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055c09:8::上昇 / 翻譯名義集
+:CHARPOS: 8
+:END:
+*** 上昇@shàngshēng
+:PROPERTIES:
+:CONCEPT: uuid-3c9c55e4-db2a-4a79-8093-3f98a5c344a2 / ASCEND
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CONCEPT: uuid-3ea203b2-5fe3-4791-ae7d-a27916e531ab / BUDDHIST REGIONS
+:SYN-FUNC: uuid-37c81914-a5f2-4c6c-a69c-d61831609e97
+:SEM-FEAT: uuid-2e7204ae-4771-435b-82ff-310068296b6d
+:CHARPOS: 8
+:END:
+上昇@shàngshēng	[[tls:concept:ASCEND::#uuid-3c9c55e4-db2a-4a79-8093-3f98a5c344a2][ASCEND]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / ascend
+〓#忉利天@dāolìtiān	[[tls:concept:BUDDHIST REGIONS::#uuid-3ea203b2-5fe3-4791-ae7d-a27916e531ab][BUDDHIST REGIONS]]	N [[tls:syn-func::#uuid-37c81914-a5f2-4c6c-a69c-d61831609e97][NP{PL}]] {[[tls:sem-feat::#uuid-2e7204ae-4771-435b-82ff-310068296b6d][buddhist]]} / BUDDH: Buddhist heaven; skr. trāyastriṃśa, pali tāvatṃsa (In Buddhist cosmology this heaven is the second heaven among the six heavens of the realm of desire ( 欲界 ); at this place the god 係帝釋 is residing. It is situated at the top of Mt. Sumeru and in the four directions there are eight heavenly cities each.; the city where the above god resides is called 善見城 or 喜見城. All in all there are 33 places in this heaven, called 三十三天. These places are mentioned and described in 正法念處經, fasc. 25. The description of this heaven is quite popular in Indian sūtra literature since the mother of Buddha was said to have been reborn there after her death, and Buddha ascended to this heaven in order to preach the dharma for his mother for 3 months. ( 雜阿含經, fasc. 19, 23, 45; 中阿含經, fasc. 1; 長阿含經, fasc. 3; 增一阿含經, fasc. 28, 33, 37; 正法念處經 fasc. 26-35; 大智度論 fasc. 9, 56.))
+*** 忉利@dāolì
+:PROPERTIES:
+:CONCEPT: uuid-9bf6f431-eb17-44d9-a711-d9fb43a8cf4a / BUDDHIST REGIONS
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 10
+:END:
+忉利@dāolì	[[tls:concept:BUDDHIST REGIONS::#uuid-9bf6f431-eb17-44d9-a711-d9fb43a8cf4a][BUDDHIST REGIONS]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / Buddhist Heaven=忉利天
+** 召門弟子曰	summoned his disciples and said:
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.12 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055c23:16::召門 / 翻譯名義集
+:CHARPOS: 16
+:END:
+*** 門弟子@méndìzǐ
+:PROPERTIES:
+:CONCEPT: uuid-f54c87b7-6b37-4022-8a88-db5e199ef3eb / STUDENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 17
+:END:
+門弟子@méndìzǐ	[[tls:concept:STUDENT::#uuid-f54c87b7-6b37-4022-8a88-db5e199ef3eb][STUDENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / disciples
+** 汝等各	You
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.12 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055c24:50::汝等 / 翻譯名義集
+:CHARPOS: 50
+:END:
+*** 汝等各@rǔděnggè
+:PROPERTIES:
+:CONCEPT: uuid-782b640e-81be-4567-9c5c-46bf72e2b5d9 / YOU/PLUR
+:SYN-FUNC: uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 50
+:END:
+汝等各@rǔděnggè	[[tls:concept:YOU-PLUR::#uuid-782b640e-81be-4567-9c5c-46bf72e2b5d9][YOU/PLUR]]	N [[tls:syn-func::#uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd][NPpro]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / each of you!
+** 早求自度	you should seek to save yourself and quick as you can.
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.12 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055c24:50::早求 / 翻譯名義集
+:CHARPOS: 50
+:END:
+*** 早@zǎo
+:PROPERTIES:
+:CONCEPT: uuid-70df28d0-1345-4164-bc00-358a41f25e5d / IMPERATIVE MARKER
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+早@zǎo	[[tls:concept:IMPERATIVE MARKER::#uuid-70df28d0-1345-4164-bc00-358a41f25e5d][IMPERATIVE MARKER]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / V before it is too late!
+*** 度@dù
+:PROPERTIES:
+:CONCEPT: uuid-1e6bf5b6-89ba-4213-9f2e-8f5c2b838cec / SALVATION
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 53
+:END:
+度@dù	[[tls:concept:SALVATION::#uuid-1e6bf5b6-89ba-4213-9f2e-8f5c2b838cec][SALVATION]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause one's own salvation> save oneself
+** 我之最後為請	My last request is
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.13 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1055c27:10::我之 / 翻譯名義集
+:CHARPOS: 10
+:END:
+*** 為請@wéiqǐng
+:PROPERTIES:
+:CONCEPT: uuid-71fd1d28-75f7-431a-8d7d-d2ef33349d23 / REQUEST
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 14
+:END:
+為請@wéiqǐng	[[tls:concept:REQUEST::#uuid-71fd1d28-75f7-431a-8d7d-d2ef33349d23][REQUEST]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / request
+** 住世七十一年	He dwelt in this world for 71 years
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.14 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1056a02:13::住世 / 翻譯名義集
+:CHARPOS: 13
+:END:
+*** 住世@zhùshì
+:PROPERTIES:
+:CONCEPT: uuid-0a7ca39e-2f54-4fe4-bf3e-ec373ef2391c / LIVE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 13
+:END:
+住世@zhùshì	[[tls:concept:LIVE::#uuid-0a7ca39e-2f54-4fe4-bf3e-ec373ef2391c][LIVE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / dwell in this world> remain alive
+** 以標熾之者	so as to display it and burn incense near it.
+:PROPERTIES:
+:SRC: 普潤大師行業記 0.2.15 [1055b15ff]; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1056a09:2::以標 / 翻譯名義集
+:CHARPOS: 2
+:END:
+*** 熾@chì
+:PROPERTIES:
+:CONCEPT: uuid-29ab9a6a-eec7-4808-8c0d-b56d165ea2f0 / BURN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+熾@chì	[[tls:concept:BURN::#uuid-29ab9a6a-eec7-4808-8c0d-b56d165ea2f0][BURN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / burn incense near N????
+** 何必封言	these [translation] terms be suppressed?
+:PROPERTIES:
+:SRC: Fanyimingyiji 1.0.10; p. 1056b08ff; tr. based on WOLFGANG BEHR 1991
+:DATE: --
+:LOCATION: KR6s0019_001:1056b16:1::何必 / 翻譯名義集
+:CHARPOS: 1
+:END:
+*** 封@fēng
+:PROPERTIES:
+:CONCEPT: uuid-994e32ab-1cc3-4e3d-81b6-80a2bca11a3c / SHUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+封@fēng	[[tls:concept:SHUT::#uuid-994e32ab-1cc3-4e3d-81b6-80a2bca11a3c][SHUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be hemmed in by

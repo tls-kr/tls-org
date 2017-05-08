@@ -1,0 +1,77 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_054
+#+DATE: 2017-02-08T16:35:53+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 惟予弗克于德	I come short in virtue,
+:PROPERTIES:
+:SRC: SHU (LATE) 46.1.1; tr. Legge p. 583ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_054:2a03:1::惟予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (as a non-agential experiencer participant)
+** 萬邦咸休	and the myriad regions were all happy.
+:PROPERTIES:
+:SRC: SHU (LATE) 46.1.2; tr. Legge p. 583ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_054:2a18:1::萬邦 / 尚書
+:CHARPOS: 1
+:END:
+*** 休@xiū
+:PROPERTIES:
+:CONCEPT: uuid-f18d0271-86b7-483e-b10f-60af2984a231 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+休@xiū	[[tls:concept:HAPPY::#uuid-f18d0271-86b7-483e-b10f-60af2984a231][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be happy
+** 惟予一人無良	But I, the One man, am destitute of goodness,
+:PROPERTIES:
+:SRC: SHU (LATE) 46.1.3; tr. Legge p. 5i3ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_054:2a19:50::「惟 / 尚書
+:CHARPOS: 50
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 51
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+** 今予命汝作大正	'Now I appoint you to be High Chamberlain,
+:PROPERTIES:
+:SRC: SHU (LATE) 46.1.3; tr. Legge p. 5i3ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_054:2a25:1::今予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-e01096db-36f9-4548-8a67-85f0a8529d01 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-e01096db-36f9-4548-8a67-85f0a8529d01][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / I (as a responsible agent)
+** 厥后自聖	the sovereign will consider himself a sage.
+:PROPERTIES:
+:SRC: SHU (LATE) 46.1.4; tr. Legge p. 5i3ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_054:2a35:1::厥后 / 尚書
+:CHARPOS: 1
+:END:
+*** 聖@shèng
+:PROPERTIES:
+:CONCEPT: uuid-19ff99ba-0220-4a09-bd1a-a853db7c6a0c / WISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-a4fecd25-28f7-42ff-9289-a85c54845602
+:CHARPOS: 4
+:END:
+聖@shèng	[[tls:concept:WISE::#uuid-19ff99ba-0220-4a09-bd1a-a853db7c6a0c][WISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-a4fecd25-28f7-42ff-9289-a85c54845602][putative.reflex.自]]} / consider oneself a sage (a cardinal sin)

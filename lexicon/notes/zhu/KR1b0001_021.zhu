@@ -1,0 +1,233 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_021
+#+DATE: 2017-02-08T16:35:49+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 王宅憂	The king passed the season of sorrow in the mourning shed
+:PROPERTIES:
+:SRC: SHU 22.0 書序; ed. QU WANLI 1977, p. 195
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a01:1::王宅 / 尚書
+:CHARPOS: 1
+:END:
+*** 憂@yōu
+:PROPERTIES:
+:CONCEPT: uuid-18d2e103-dd6f-403b-a8c0-b2383848cf40 / MOURNING
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+憂@yōu	[[tls:concept:MOURNING::#uuid-18d2e103-dd6f-403b-a8c0-b2383848cf40][MOURNING]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be in mourning
+** 以台正于四方	'As it is mine to serve as the director for the four quarters (of the kingdom),
+:PROPERTIES:
+:SRC: SHU (LATE) 17.2.1; tr. Legge p. 248ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a14:1::「以 / 尚書
+:CHARPOS: 1
+:END:
+*** 台@yí
+:PROPERTIES:
+:CONCEPT: uuid-e2f15013-08ac-461d-8f46-c44239679ae6 / EGO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:CHARPOS: 2
+:END:
+台@yí	[[tls:concept:EGO::#uuid-e2f15013-08ac-461d-8f46-c44239679ae6][EGO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] / I
+** 夢帝賚予良弼	I dreamt that God gave me a good assistant
+:PROPERTIES:
+:SRC: SHU (LATE) 17.2.1; tr. Legge p. 248ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a18:1::夢帝 / 尚書
+:CHARPOS: 1
+:END:
+*** 夢@mèng
+:PROPERTIES:
+:CONCEPT: uuid-8cdc02a5-9755-43a2-b22e-8e418d7c9117 / DREAM
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:CHARPOS: 1
+:END:
+夢@mèng	[[tls:concept:DREAM::#uuid-8cdc02a5-9755-43a2-b22e-8e418d7c9117][DREAM]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] / dream that S
+*** 賚@lài
+:PROPERTIES:
+:CONCEPT: uuid-084390c2-f87e-4877-b7af-efc69fa137c5 / GIVE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 3
+:END:
+賚@lài	[[tls:concept:GIVE::#uuid-084390c2-f87e-4877-b7af-efc69fa137c5][GIVE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / sell N1 for the price N2
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-25dfed22-436c-4846-a2a5-27868a8ee8df / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 4
+:END:
+予@yú	[[tls:concept:EGO::#uuid-25dfed22-436c-4846-a2a5-27868a8ee8df][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / me (personally, as an experiencer?)
+*** 良@liáng
+:PROPERTIES:
+:CONCEPT: uuid-891597e9-a1bb-41e7-bbb4-1813e0a335bb / EXCELLENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 5
+:END:
+良@liáng	[[tls:concept:EXCELLENT::#uuid-891597e9-a1bb-41e7-bbb4-1813e0a335bb][EXCELLENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / fine; competent; efficient; excellent; preferred
+*** 弼@bì
+:PROPERTIES:
+:CONCEPT: uuid-4d03a186-e2b9-41a6-85a6-a6db956ba2d5 / ASSISTANT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+弼@bì	[[tls:concept:ASSISTANT::#uuid-4d03a186-e2b9-41a6-85a6-a6db956ba2d5][ASSISTANT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / assistant; minister
+** 其代予言	who should speak for me.'
+:PROPERTIES:
+:SRC: SHU (LATE) 17.2.1; tr. Legge p. 248ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a19:50::其代 / 尚書
+:CHARPOS: 50
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-644aaf28-0023-4ce5-97b7-80e0903909d0 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 52
+:END:
+予@yú	[[tls:concept:EGO::#uuid-644aaf28-0023-4ce5-97b7-80e0903909d0][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / belonging to me (personally), my (often marked by the genitive particle 之)
+** 以輔台德	to aid my virtue.
+:PROPERTIES:
+:SRC: SHU (LATE) 17.3.1; tr. Legge p. 248ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a28:1::以輔 / 尚書
+:CHARPOS: 1
+:END:
+*** 台@yí
+:PROPERTIES:
+:CONCEPT: uuid-0c1af8ba-2e33-4351-a773-3dc2e90fc7fe / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 3
+:END:
+台@yí	[[tls:concept:EGO::#uuid-0c1af8ba-2e33-4351-a773-3dc2e90fc7fe][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / archaic: my
+** 用汝作礪	I will use you for a whetstone.
+:PROPERTIES:
+:SRC: SHU (LATE) 17.3.1; tr. Legge p. 248ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a30:1::用汝 / 尚書
+:CHARPOS: 1
+:END:
+*** 礪@lì / 厲@lì
+:PROPERTIES:
+:CONCEPT: uuid-dbee5a37-8bc5-49a6-8b68-21e5e9e9bdde / WHETSTONE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+礪@lì / 厲@lì	[[tls:concept:WHETSTONE::#uuid-dbee5a37-8bc5-49a6-8b68-21e5e9e9bdde][WHETSTONE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / "whetstone"
+** 沃朕心	and enrich my mind.
+:PROPERTIES:
+:SRC: SHU (LATE) 17.3.1; tr. Legge p. 248ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a36:1::沃朕 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 2
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my
+** 若跣弗視地	(Think of me) as one walking barefoot,
+:PROPERTIES:
+:SRC: SHU (LATE) 17.3.1; tr. Legge p. 248ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a39:1::若跣 / 尚書
+:CHARPOS: 1
+:END:
+*** 跣@xiǎn
+:PROPERTIES:
+:CONCEPT: uuid-9e191d81-fe79-4d94-8bf7-9447ea615e10 / NAKED
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 2
+:END:
+跣@xiǎn	[[tls:concept:NAKED::#uuid-9e191d81-fe79-4d94-8bf7-9447ea615e10][NAKED]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / to have one's feet bare; go along with bare feet
+** 厥足用傷	whose feet are sure to be wounded, if he do not see the ground.
+:PROPERTIES:
+:SRC: SHU (LATE) 17.3.1; tr. Legge p. 248ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a40:50::厥足 / 尚書
+:CHARPOS: 50
+:END:
+*** 傷@shāng
+:PROPERTIES:
+:CONCEPT: uuid-d5024803-6429-47b7-b5cc-bd0406420b29 / INJURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 53
+:END:
+傷@shāng	[[tls:concept:INJURE::#uuid-d5024803-6429-47b7-b5cc-bd0406420b29][INJURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / get injured in (e.g. in one's eye) 傷其目
+** 迪我高后	and tread in the steps of my high ancestor,
+:PROPERTIES:
+:SRC: SHU (LATE) 17.3.2; tr. Legge p. 248ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a45:1::迪我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 以康兆民	to give repose to the millions of the people.
+:PROPERTIES:
+:SRC: SHU (LATE) 17.3.2; tr. Legge p. 248ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a46:50::以康 / 尚書
+:CHARPOS: 50
+:END:
+*** 兆民@zhàomín
+:PROPERTIES:
+:CONCEPT: uuid-85675095-048d-48ab-b037-48b2215b8570 / PEOPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+兆民@zhàomín	[[tls:concept:PEOPLE::#uuid-85675095-048d-48ab-b037-48b2215b8570][PEOPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / archaic, SHU/LIJI: the infinitely many people
+** 欽予時命	respect this charge of mine;
+:PROPERTIES:
+:SRC: SHU (LATE) 17.3.2; tr. Legge p. 248ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a48:1::欽予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-644aaf28-0023-4ce5-97b7-80e0903909d0 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-644aaf28-0023-4ce5-97b7-80e0903909d0][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / belonging to me (personally), my (often marked by the genitive particle 之)
+** 疇敢不祗若王之休命	who would dare not to act in respectful compliance with this excellent charge of your Majesty?'
+:PROPERTIES:
+:SRC: SHU (LATE) 17.4.1; tr. Legge p. 248ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_021:2a54:1::疇敢 / 尚書
+:CHARPOS: 1
+:END:
+*** 疇@chóu
+:PROPERTIES:
+:CONCEPT: uuid-0e858496-c843-4d26-832e-9b0edffcf304 / WHO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 1
+:END:
+疇@chóu	[[tls:concept:WHO::#uuid-0e858496-c843-4d26-832e-9b0edffcf304][WHO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / who?
+*** 祗@zhī
+:PROPERTIES:
+:CONCEPT: uuid-06faa7d4-fc45-474b-b2ba-159fa85f9783 / RESPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+祗@zhī	[[tls:concept:RESPECT::#uuid-06faa7d4-fc45-474b-b2ba-159fa85f9783][RESPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / follow respectfully
+*** 休@xiū
+:PROPERTIES:
+:CONCEPT: uuid-9ffaa991-89e0-4680-9a78-3bc2e264650c / EXCELLENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 8
+:END:
+休@xiū	[[tls:concept:EXCELLENT::#uuid-9ffaa991-89e0-4680-9a78-3bc2e264650c][EXCELLENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / distinguished (command etc)

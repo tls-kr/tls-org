@@ -1,0 +1,844 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 論衡 KR3j0080_006
+#+DATE: 2017-02-08T16:43:26+0900
+#+PROPERTY: COMMIT 4527326cad354527d529ce18236a9771ae63de14
+** 墨家之論	The theories of the Mohists
+:PROPERTIES:
+:SRC: LH 6.1.1; Liu 1990:44; Beida 1979:75; Yang 1999:38; Guizhou 1993:; Hunan 1997:38; tr. Forke 1:136
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:1a01:50::墨家 / 論衡
+:CHARPOS: 50
+:END:
+*** 墨家@mòjiā
+:PROPERTIES:
+:CONCEPT: uuid-d6e2043d-da98-4fdf-8be1-22f35d9d8513 / PHILOSOPHY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 50
+:END:
+墨家@mòjiā	[[tls:concept:PHILOSOPHY::#uuid-d6e2043d-da98-4fdf-8be1-22f35d9d8513][PHILOSOPHY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / Mohism
+*** 家@jiā
+:PROPERTIES:
+:CONCEPT: uuid-651d240a-8688-4fcd-81cf-de10b96f50fc / GROUP
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+家@jiā	[[tls:concept:GROUP::#uuid-651d240a-8688-4fcd-81cf-de10b96f50fc][GROUP]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / Han: school of thought; later also: Buddhist sect
+** 儒家之議	whereas the classicists' theories
+:PROPERTIES:
+:SRC: LH 6.1.1; Liu 1990:44; Beida 1979:75; Yang 1999:38; Guizhou 1993:; Hunan 1997:38; tr. Forke 1:136
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:1a03:1::儒家 / 論衡
+:CHARPOS: 1
+:END:
+*** 家@jiā
+:PROPERTIES:
+:CONCEPT: uuid-651d240a-8688-4fcd-81cf-de10b96f50fc / GROUP
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+家@jiā	[[tls:concept:GROUP::#uuid-651d240a-8688-4fcd-81cf-de10b96f50fc][GROUP]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / Han: school of thought; later also: Buddhist sect
+** 秦將白起坑趙降卒於長平之下	or that Bái Qǐ, the Qin general, had [all] the Zhao troops who surrendered at Chángpīng buried alive -- some
+:PROPERTIES:
+:SRC: LH 6.1.2; Liu 1990:44; Beida 1979:75; Yang 1999:38; Guizhou 1993:; Hunan 1997:38; tr. Forke 1:136
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:1a11:1::秦將 / 論衡
+:CHARPOS: 1
+:END:
+*** 坑@kēng
+:PROPERTIES:
+:CONCEPT: uuid-360260c6-0576-463e-b267-f8448cf2b940 / BURY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+坑@kēng	[[tls:concept:BURY::#uuid-360260c6-0576-463e-b267-f8448cf2b940][BURY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / bury alive in a pit 坑儒生
+*** 降@xiáng
+:PROPERTIES:
+:CONCEPT: uuid-890bd349-66d8-47d6-84ed-b3befb9b2bb5 / SURRENDER
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 7
+:END:
+降@xiáng	[[tls:concept:SURRENDER::#uuid-890bd349-66d8-47d6-84ed-b3befb9b2bb5][SURRENDER]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / surrendered, who have surrendered
+** 人民之眾	and its multitudes of people,
+:PROPERTIES:
+:SRC: LH 6.1.4; Liu 1990:45; Beida1979:75; Yang 1999:38; Guizhou 1993:; Hunan1997:38; tr. Forke 1:136
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:2a03:1::人民 / 論衡
+:CHARPOS: 1
+:END:
+*** 人民@rénmín
+:PROPERTIES:
+:CONCEPT: uuid-24c10756-8e4a-4761-88ca-519a12a2555f / PEOPLE
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+人民@rénmín	[[tls:concept:PEOPLE::#uuid-24c10756-8e4a-4761-88ca-519a12a2555f][PEOPLE]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / population; the population at large; human beings, humankind
+** 一長平之坑	and that mass burial in Chángpīng,
+:PROPERTIES:
+:SRC: LH 6.1.4; Liu 1990:45; Beida1979:75; Yang 1999:38; Guizhou 1993:; Hunan1997:38; tr. Forke 1:136
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:2a05:1::一長 / 論衡
+:CHARPOS: 1
+:END:
+*** 坑@kēng
+:PROPERTIES:
+:CONCEPT: uuid-ef1032a7-7ceb-47cc-aa96-38c0f40ae2f6 / BURY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+坑@kēng	[[tls:concept:BURY::#uuid-ef1032a7-7ceb-47cc-aa96-38c0f40ae2f6][BURY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / mass burial in a ditch
+** 此言實也	He spoke the truth.
+:PROPERTIES:
+:SRC: LH 6.2.3; Liu 1990:46; Beida1979:77; Yang 1999:38; Guizhou 1993:; Hunan1997:39; tr. Forke 1:137
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:2a51:1::此言 / 論衡
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-8e8b8acb-9aa1-45b3-96f0-a3b9b414acd5 / THIS
+:SYN-FUNC: uuid-e81e5db1-7207-4450-a18d-27a597c5fd67
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-8e8b8acb-9aa1-45b3-96f0-a3b9b414acd5][THIS]]	N [[tls:syn-func::#uuid-e81e5db1-7207-4450-a18d-27a597c5fd67][npro.adNab]] / this 此說之難"These difficulties with persusasion"
+** 有天命焉	heaven's destiny played a part.
+:PROPERTIES:
+:SRC: LH 6.2.3; Liu 1990:46; Beida1979:77; Yang 1999:38; Guizhou 1993:; Hunan1997:39; tr. Forke 1:137
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:2a54:1::有天 / 論衡
+:CHARPOS: 1
+:END:
+*** 天命@tiānmìng
+:PROPERTIES:
+:CONCEPT: uuid-26c29abc-71ef-4a17-87a4-97a6b5dcc21c / FATE
+:SYN-FUNC: uuid-af01db35-fc5e-40c7-b9e8-8b0b9cbfc177
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 2
+:END:
+天命@tiānmìng	[[tls:concept:FATE::#uuid-26c29abc-71ef-4a17-87a4-97a6b5dcc21c][FATE]]	N [[tls:syn-func::#uuid-af01db35-fc5e-40c7-b9e8-8b0b9cbfc177][NPab{N1adN2}]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / commands of Heaven; fate
+** 國命繫於眾星	A state's destiny is tied to the stars.
+:PROPERTIES:
+:SRC: LH 6.2.4; Liu 1990:46; Beida 1979:78; Yang 1999:39; Guizhou 1993:; Hunan 1997:39; tr. Forke 1:137
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:3a01:1::國命 / 論衡
+:CHARPOS: 1
+:END:
+*** 系@xì
+:PROPERTIES:
+:CONCEPT: uuid-405c37c2-c473-41be-b344-efb03a8455b2 / TIE TO
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 1
+:END:
+系@xì	[[tls:concept:TIE TO::#uuid-405c37c2-c473-41be-b344-efb03a8455b2][TIE TO]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / be tied to (CHECK ALL THESE GRAPHS FOR CONFUSION WITH 繫)
+** 猶歲之有豐耗	is like a particular year's harvest being good or bad.
+:PROPERTIES:
+:SRC: LH 6.2.4; Liu 1990:46; Beida 1979:78; Yang 1999:39; Guizhou 1993:; Hunan 1997:39; tr. Forke 1:137
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:3a07:1::猶歲 / 論衡
+:CHARPOS: 1
+:END:
+*** 歲@suì
+:PROPERTIES:
+:CONCEPT: uuid-2b94fedc-4b73-4702-9c07-0b23c94ec736 / HARVEST
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+歲@suì	[[tls:concept:HARVEST::#uuid-2b94fedc-4b73-4702-9c07-0b23c94ec736][HARVEST]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / harvest
+** 死生者	For life and death
+:PROPERTIES:
+:SRC: LH 6.2.7; Liu 1990:46; Beida 1979:78; Yang 1999:39; Guizhou 1993:; Hunan 1997:40; tr. Forke 1:137
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:3a23:1::死生 / 論衡
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-a97b3d71-7973-4630-ac28-7668e56620d0 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-9741ce17-6223-469a-999e-d47e6b8a648f
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-a97b3d71-7973-4630-ac28-7668e56620d0][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-9741ce17-6223-469a-999e-d47e6b8a648f][npro.post-Nab{PRED}]] / pronoun an (often deverbal) abstract noun 虛者 "as for emptiness", 仁者 "as for benevolence".
+** 以性為主	The inborn nature is the main factor.
+:PROPERTIES:
+:SRC: LH 6.2.7; Liu 1990:46; Beida 1979:78; Yang 1999:39; Guizhou 1993:; Hunan 1997:40; tr. Forke 1:137
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:3a25:1::以性 / 論衡
+:CHARPOS: 1
+:END:
+*** 主@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-59f96d14-06c0-42c8-82e3-631696c45f7b / IMPORTANT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 4
+:END:
+主@zhǔ	[[tls:concept:IMPORTANT::#uuid-59f96d14-06c0-42c8-82e3-631696c45f7b][IMPORTANT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / the most important point; the essential thing, the main thing
+** 壽命長則不夭死	and if it is long, then he will (P.46)not die young.
+:PROPERTIES:
+:SRC: LH 6.2.7; Liu 1990:46; Beida 1979:78; Yang 1999:39; Guizhou 1993:; Hunan 1997:40; tr. Forke 1:137
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:3a29:1::壽命 / 論衡
+:CHARPOS: 1
+:END:
+*** 夭死@yāosǐ
+:PROPERTIES:
+:CONCEPT: uuid-8bc793dd-d9a2-495b-b477-468ac92d1be5 / DIE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 6
+:END:
+夭死@yāosǐ	[[tls:concept:DIE::#uuid-8bc793dd-d9a2-495b-b477-468ac92d1be5][DIE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / die young
+** 戮力操行而吉福至	if one is on one's best behavior, then luck and blessings arrive;
+:PROPERTIES:
+:SRC: LH 6.3.2; Liu 1990:50; Beida 1979:78; Yang 1999:39; Guizhou 1993:; Hunan 1997:41; tr. Forke 1:139
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:4a12:1::戮力 / 論衡
+:CHARPOS: 1
+:END:
+*** 至@zhì
+:PROPERTIES:
+:CONCEPT: uuid-540eff16-b053-43c2-9379-91a155d47743 / ARISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 8
+:END:
+至@zhì	[[tls:concept:ARISE::#uuid-540eff16-b053-43c2-9379-91a155d47743][ARISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / occur, take place 大風至
+** 縱情施欲而凶禍到	and if one gives way to the emotions and desires, then ill-luck and misfortune comes.
+:PROPERTIES:
+:SRC: LH 6.3.2; Liu 1990:50; Beida 1979:78; Yang 1999:39; Guizhou 1993:; Hunan 1997:41; tr. Forke 1:139
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:4a13:50::縱情 / 論衡
+:CHARPOS: 50
+:END:
+*** 到@dào
+:PROPERTIES:
+:CONCEPT: uuid-b3b9b705-b6e1-4069-b5d6-8eb84a308b87 / ARISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 57
+:END:
+到@dào	[[tls:concept:ARISE::#uuid-b3b9b705-b6e1-4069-b5d6-8eb84a308b87][ARISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / arise
+** 逢遭於外	One meets misfortune due to external factors
+:PROPERTIES:
+:SRC: LH 6.3.2; Liu 1990:50; Beida 1979:78; Yang 1999:39; Guizhou 1993:; Hunan 1997:41; tr. Forke 1:139
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:4a18:1::逢遭 / 論衡
+:CHARPOS: 1
+:END:
+*** 逢遭@féngzāo
+:PROPERTIES:
+:CONCEPT: uuid-5ae33564-e170-4075-a339-1c62789e523c / ENCOUNTER
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 1
+:END:
+逢遭@féngzāo	[[tls:concept:ENCOUNTER::#uuid-5ae33564-e170-4075-a339-1c62789e523c][ENCOUNTER]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / run into things in various ways
+** 或性善而命凶	A person's nature may be commendable but his destiny ill;
+:PROPERTIES:
+:SRC: LH 6.3.3; Liu 1990:50; Beida 1979:i1; Yang 1999:39; Guizhou 1993:; Hunan 1997:42; tr. Forke 1:139
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:5a05:1::或性 / 論衡
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-23c3f0d8-c04e-4b05-86ea-0df4f7854e6e / OR
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:OR::#uuid-23c3f0d8-c04e-4b05-86ea-0df4f7854e6e][OR]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / either... or; or perhaps
+** 或性惡而命吉	and another's nature deplorable, (P.50)but her destiny good.
+:PROPERTIES:
+:SRC: LH 6.3.3; Liu 1990:50; Beida 1979:i1; Yang 1999:39; Guizhou 1993:; Hunan 1997:42; tr. Forke 1:139
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:5a06:50::或性 / 論衡
+:CHARPOS: 50
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-23c3f0d8-c04e-4b05-86ea-0df4f7854e6e / OR
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 50
+:END:
+或@huò	[[tls:concept:OR::#uuid-23c3f0d8-c04e-4b05-86ea-0df4f7854e6e][OR]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / either... or; or perhaps
+** 或行善而得禍	Some may act well but still get misfortune;
+:PROPERTIES:
+:SRC: LH 6.3.4; Liu 1990:50; Beida 1979:i1; Yang 1999:39; Guizhou 1993:; Hunan 1997:42; tr. Forke 1:139
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:5a11:1::或行 / 論衡
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-23c3f0d8-c04e-4b05-86ea-0df4f7854e6e / OR
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:OR::#uuid-23c3f0d8-c04e-4b05-86ea-0df4f7854e6e][OR]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / either... or; or perhaps
+** 或行惡而得福	And some may act despicably but get good fortune,
+:PROPERTIES:
+:SRC: LH 6.3.4; Liu 1990:50; Beida 1979:i1; Yang 1999:39; Guizhou 1993:; Hunan 1997:42; tr. Forke 1:139
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:5a13:1::或行 / 論衡
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-23c3f0d8-c04e-4b05-86ea-0df4f7854e6e / OR
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:OR::#uuid-23c3f0d8-c04e-4b05-86ea-0df4f7854e6e][OR]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / either... or; or perhaps
+** 性善命凶	However, if one's inborn nature is good, but one's fate unlucky,
+:PROPERTIES:
+:SRC: LH 6.3.6; Liu 1990:51; Beida1979:i1; Yang 1999:40; Guizhou 1993:; Hunan1997:42; tr. Forke 1:139
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:5a28:1::性善 / 論衡
+:CHARPOS: 1
+:END:
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-732ca01a-5d22-4f4d-89f6-dbbbad33b143 / DISASTER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-0afaf3e3-1928-4000-a3b5-5268309adb0d
+:CHARPOS: 4
+:END:
+凶@xiōng	[[tls:concept:DISASTER::#uuid-732ca01a-5d22-4f4d-89f6-dbbbad33b143][DISASTER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-0afaf3e3-1928-4000-a3b5-5268309adb0d][subject=nonhuman]]} / turn out disastrously disadvantageous
+** 遭凶於外也	but meet disaster outside.
+:PROPERTIES:
+:SRC: LH 6.3.8; Liu 1990:51; Beida 1979:i1; Yang 1999:40; Guizhou 1993:; Hunan 1997:42; tr. Forke 1:139
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:5a43:1::遭凶 / 論衡
+:CHARPOS: 1
+:END:
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-44e7662a-c3c1-4304-a510-7141c549a5b8 / DISASTER
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 2
+:END:
+凶@xiōng	[[tls:concept:DISASTER::#uuid-44e7662a-c3c1-4304-a510-7141c549a5b8][DISASTER]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / terrible supernaturally ordained disaster; great bad luck; major misfortune; dire consequences 百凶
+** 如何遭凶	how could they possibly have encountered such bad luck?
+:PROPERTIES:
+:SRC: LH 6.3.8; Liu 1990:51; Beida 1979:i1; Yang 1999:40; Guizhou 1993:; Hunan 1997:42; tr. Forke 1:139
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:5a45:1::如何 / 論衡
+:CHARPOS: 1
+:END:
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-44e7662a-c3c1-4304-a510-7141c549a5b8 / DISASTER
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 4
+:END:
+凶@xiōng	[[tls:concept:DISASTER::#uuid-44e7662a-c3c1-4304-a510-7141c549a5b8][DISASTER]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / terrible supernaturally ordained disaster; great bad luck; major misfortune; dire consequences 百凶
+** 何故遭凶	For what reason, then, did they encounter bad luck?
+:PROPERTIES:
+:SRC: LH 6.3.9; Liu 1990:51; Beida 1979:i1; Yang 1999:40; Guizhou 1993:; Hunan 1997:42; tr. Forke 1:139
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:5a50:1::何故 / 論衡
+:CHARPOS: 1
+:END:
+*** 遭@zāo
+:PROPERTIES:
+:CONCEPT: uuid-e5c3e73f-5156-4b79-a7d4-2d75af2ed8f5 / SUFFER
+:SYN-FUNC: uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5
+:CHARPOS: 3
+:END:
+遭@zāo	[[tls:concept:SUFFER::#uuid-e5c3e73f-5156-4b79-a7d4-2d75af2ed8f5][SUFFER]]	V [[tls:syn-func::#uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5][vtoNab]] / be exposed to (something bad)
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-44e7662a-c3c1-4304-a510-7141c549a5b8 / DISASTER
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 4
+:END:
+凶@xiōng	[[tls:concept:DISASTER::#uuid-44e7662a-c3c1-4304-a510-7141c549a5b8][DISASTER]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / terrible supernaturally ordained disaster; great bad luck; major misfortune; dire consequences 百凶
+** 伯牛空居而遭惡疾	Bó Niu stayed quietly at home, but he caught a horrible disease.
+:PROPERTIES:
+:SRC: LH 6.3.9; Liu 1990:51; Beida 1979:i1; Yang 1999:40; Guizhou 1993:; Hunan 1997:42; tr. Forke 1:139
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:5a53:1::伯牛 / 論衡
+:CHARPOS: 1
+:END:
+*** 空@kòng
+:PROPERTIES:
+:CONCEPT: uuid-802b7d4d-cc6e-4b09-ae0d-db7f0659d85e / LEISURE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 3
+:END:
+空@kòng	[[tls:concept:LEISURE::#uuid-802b7d4d-cc6e-4b09-ae0d-db7f0659d85e][LEISURE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / at leisure, unoccupied
+*** 惡@è
+:PROPERTIES:
+:CONCEPT: uuid-9289026b-a153-421b-825c-361644923f5c / BAD
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 7
+:END:
+惡@è	[[tls:concept:BAD::#uuid-9289026b-a153-421b-825c-361644923f5c][BAD]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / bad; dishonourable; offensive (words); of bad quality (clothes); malignant (of disease); foul (of smells)
+*** 疾@jí
+:PROPERTIES:
+:CONCEPT: uuid-ab11e6ff-bbb5-486c-be0e-7e34ab1df13f / ILLNESS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 8
+:END:
+疾@jí	[[tls:concept:ILLNESS::#uuid-ab11e6ff-bbb5-486c-be0e-7e34ab1df13f][ILLNESS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / OBI 5: acute sickness; current state of sickness; also: xīn jí 心疾 "indisposition/illness of the heart/mind"; sickness 斯疾 temporary indisposition; falling sick
+** 且命在初生	Moreover, destiny in the newborn
+:PROPERTIES:
+:SRC: LH 6.3.12; Liu 1990:52; Beida1979:i2; Yang 1999:40; Guizhou 1993:; Hunan1997:42; tr. Forke 1:140
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:5a66:1::且命 / 論衡
+:CHARPOS: 1
+:END:
+*** 初@chū
+:PROPERTIES:
+:CONCEPT: uuid-3e124eba-e89f-471c-8e68-c3c80550116d / AS SOON AS
+:SYN-FUNC: uuid-dc10f803-28ae-4307-9833-2e58b2ff9e00
+:CHARPOS: 4
+:END:
+初@chū	[[tls:concept:AS SOON AS::#uuid-3e124eba-e89f-471c-8e68-c3c80550116d][AS SOON AS]]	N [[tls:syn-func::#uuid-dc10f803-28ae-4307-9833-2e58b2ff9e00][nadV.adS]] / as soon as, just 初生 "when he was just born, as soon as he is born, from birth"
+** 遭命者初稟氣時遭凶惡也	while those with Contrary Destiny meet with bad luck when they first receive their endowment,
+:PROPERTIES:
+:SRC: LH 6.3.13; Liu 1990:52; Beida1979:i2; Yang 1999:40; Guizhou 1993:; Hunan1997:42; tr. Forke 1:140
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:6a03:1::遭命 / 論衡
+:CHARPOS: 1
+:END:
+*** 遭@zāo
+:PROPERTIES:
+:CONCEPT: uuid-e5c3e73f-5156-4b79-a7d4-2d75af2ed8f5 / SUFFER
+:SYN-FUNC: uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5
+:CHARPOS: 1
+:END:
+遭@zāo	[[tls:concept:SUFFER::#uuid-e5c3e73f-5156-4b79-a7d4-2d75af2ed8f5][SUFFER]]	V [[tls:syn-func::#uuid-6fe4438e-50e1-4c1f-8b7a-c24a0f417fb5][vtoNab]] / be exposed to (something bad)
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-44e7662a-c3c1-4304-a510-7141c549a5b8 / DISASTER
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 9
+:END:
+凶@xiōng	[[tls:concept:DISASTER::#uuid-44e7662a-c3c1-4304-a510-7141c549a5b8][DISASTER]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / terrible supernaturally ordained disaster; great bad luck; major misfortune; dire consequences 百凶
+*** 惡@è
+:PROPERTIES:
+:CONCEPT: uuid-1f631a90-23b6-41cc-952b-e6979b6b2f82 / WICKED
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 10
+:END:
+惡@è	[[tls:concept:WICKED::#uuid-1f631a90-23b6-41cc-952b-e6979b6b2f82][WICKED]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wickedness in action
+** 長大夭死	and die young as an adult.
+:PROPERTIES:
+:SRC: LH 6.3.13; Liu 1990:52; Beida1979:i2; Yang 1999:40; Guizhou 1993:; Hunan1997:42; tr. Forke 1:140
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:6a06:1::長大 / 論衡
+:CHARPOS: 1
+:END:
+*** 夭死@yāosǐ
+:PROPERTIES:
+:CONCEPT: uuid-8bc793dd-d9a2-495b-b477-468ac92d1be5 / DIE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 3
+:END:
+夭死@yāosǐ	[[tls:concept:DIE::#uuid-8bc793dd-d9a2-495b-b477-468ac92d1be5][DIE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / die young
+** 故妊婦食兔	Thus if a pregnant woman eats a hare,
+:PROPERTIES:
+:SRC: LH 6.4.1; Liu 1990:53; Beida 1979:i4; Yang 1999:40; Guizhou 1993:; Hunan 1997:43; tr. Forke 1:140
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:7a12:1::故妊 / 論衡
+:CHARPOS: 1
+:END:
+*** 妊@rèn
+:PROPERTIES:
+:CONCEPT: uuid-15af351a-6754-4d39-b3f5-3020e6b75601 / PREGNANT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 2
+:END:
+妊@rèn	[[tls:concept:PREGNANT::#uuid-15af351a-6754-4d39-b3f5-3020e6b75601][PREGNANT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / pregnant, in the early stages of pregnancy
+** 子生缺脣	her child will be born with a harelip.
+:PROPERTIES:
+:SRC: LH 6.4.1; Liu 1990:53; Beida 1979:i4; Yang 1999:40; Guizhou 1993:; Hunan 1997:43; tr. Forke 1:140
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:7a13:50::子生 / 論衡
+:CHARPOS: 50
+:END:
+*** 缺@quē
+:PROPERTIES:
+:CONCEPT: uuid-7fc67966-7f5d-4dde-8157-45064d6149b7 / DEFECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CONCEPT: uuid-74b1a8c6-3a93-4cea-be7d-a0e5120c7636 / LIP
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+缺@quē	[[tls:concept:DEFECT::#uuid-7fc67966-7f5d-4dde-8157-45064d6149b7][DEFECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be defincient with respect to, fail to meet the requirements of
+唇@chún / 脣@chún	[[tls:concept:LIP::#uuid-74b1a8c6-3a93-4cea-be7d-a0e5120c7636][LIP]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / lip
+** 是月也	"In this month
+:PROPERTIES:
+:SRC: LH 6.4.2; Liu 1990:53; Beida 1979:i4; Yang 1999:41; Guizhou 1993:; Hunan 1997:43; tr. Forke 1:141
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:7a15:1::「是 / 論衡
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-7f34d48e-6ffb-48d4-a793-b8ce2e25e5e5 / SUCH
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 1
+:END:
+是@shì	[[tls:concept:SUCH::#uuid-7f34d48e-6ffb-48d4-a793-b8ce2e25e5e5][SUCH]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / such a (month, i.e. a second month of a year)
+*** 也@yě
+:PROPERTIES:
+:CONCEPT: uuid-c2c53581-0ecd-4043-912c-08517622a38e / WHEN
+:SYN-FUNC: uuid-6d6bd900-247b-4a75-a3f5-2461027b138f
+:CHARPOS: 3
+:END:
+也@yě	[[tls:concept:WHEN::#uuid-c2c53581-0ecd-4043-912c-08517622a38e][WHEN]]	P [[tls:syn-func::#uuid-6d6bd900-247b-4a75-a3f5-2461027b138f][ppostadN.adS]] / at the time N
+** 雷將發聲	the thunder will sound.
+:PROPERTIES:
+:SRC: LH 6.4.2; Liu 1990:53; Beida 1979:i4; Yang 1999:41; Guizhou 1993:; Hunan 1997:43; tr. Forke 1:141
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:7a16:50::雷將 / 論衡
+:CHARPOS: 50
+:END:
+*** 雷@léi
+:PROPERTIES:
+:CONCEPT: uuid-6ba58318-ea0b-4aad-a347-b790cd7d852e / THUNDER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 50
+:END:
+雷@léi	[[tls:concept:THUNDER::#uuid-6ba58318-ea0b-4aad-a347-b790cd7d852e][THUNDER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / HF 8.10.33: thunder
+** 必有大凶	certainly have very bad luck."
+:PROPERTIES:
+:SRC: LH 6.4.2; Liu 1990:53; Beida 1979:i4; Yang 1999:41; Guizhou 1993:; Hunan 1997:43; tr. Forke 1:141
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:7a19:1::必有 / 論衡
+:CHARPOS: 1
+:END:
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-44e7662a-c3c1-4304-a510-7141c549a5b8 / DISASTER
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 4
+:END:
+凶@xiōng	[[tls:concept:DISASTER::#uuid-44e7662a-c3c1-4304-a510-7141c549a5b8][DISASTER]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / terrible supernaturally ordained disaster; great bad luck; major misfortune; dire consequences 百凶
+** 瘖聾跛盲	As for the dumb, deaf, lame and blind,
+:PROPERTIES:
+:SRC: LH 6.4.2; Liu 1990:53; Beida 1979:i4; Yang 1999:41; Guizhou 1993:; Hunan 1997:43; tr. Forke 1:141
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:7a20:50::瘖聾 / 論衡
+:CHARPOS: 50
+:END:
+*** 瘖@yīn / 喑@yīn
+:PROPERTIES:
+:CONCEPT: uuid-9ab72b9f-06fe-471c-94a3-ab3fcc86de87 / DUMB
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+瘖@yīn / 喑@yīn	[[tls:concept:DUMB::#uuid-9ab72b9f-06fe-471c-94a3-ab3fcc86de87][DUMB]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the dumb; those who are dumb
+*** 聾@lóng
+:PROPERTIES:
+:CONCEPT: uuid-482a4990-dc18-4c1c-9bd4-e365e7ea996c / DEAF
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 51
+:END:
+聾@lóng	[[tls:concept:DEAF::#uuid-482a4990-dc18-4c1c-9bd4-e365e7ea996c][DEAF]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the deaf
+*** 盲@máng
+:PROPERTIES:
+:CONCEPT: uuid-43f55542-db1b-4cf1-b4be-77b7a61504ce / BLIND
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 53
+:END:
+盲@máng	[[tls:concept:BLIND::#uuid-43f55542-db1b-4cf1-b4be-77b7a61504ce][BLIND]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the blind; those who are blind
+** 羊舌似我初生之時	When Yángshé Sìwǒ was just (P.53)born,
+:PROPERTIES:
+:SRC: LH 6.4.3; Liu 1990:53; Beida 1979:i4; Yang 1999:41; Guizhou 1993:; Hunan 1997:43; tr. Forke 1:141
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:7a23:1::羊舌 / 論衡
+:CHARPOS: 1
+:END:
+*** 初@chū
+:PROPERTIES:
+:CONCEPT: uuid-3e124eba-e89f-471c-8e68-c3c80550116d / AS SOON AS
+:SYN-FUNC: uuid-dc10f803-28ae-4307-9833-2e58b2ff9e00
+:CHARPOS: 5
+:END:
+初@chū	[[tls:concept:AS SOON AS::#uuid-3e124eba-e89f-471c-8e68-c3c80550116d][AS SOON AS]]	N [[tls:syn-func::#uuid-dc10f803-28ae-4307-9833-2e58b2ff9e00][nadV.adS]] / as soon as, just 初生 "when he was just born, as soon as he is born, from birth"
+** 丹朱商均之類是也	-- the same kind given to Dān Zhū and Shāng Jūn [two evil men].
+:PROPERTIES:
+:SRC: LH 6.4.4; Liu 1990:53; Beida 1979:i4; Yang 1999:41; Guizhou 1993:; Hunan 1997:43; tr. Forke 1:141
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:7a29:1::丹朱 / 論衡
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-360710ac-befe-4876-9049-5978a7651960 / SUCH
+:SYN-FUNC: uuid-57ce2afe-2539-46f3-abe4-7f85130914ca
+:CHARPOS: 7
+:END:
+是@shì	[[tls:concept:SUCH::#uuid-360710ac-befe-4876-9049-5978a7651960][SUCH]]	N [[tls:syn-func::#uuid-57ce2afe-2539-46f3-abe4-7f85130914ca][npro{PRED}]] / be such; be a paradigmatic example; be a typical case in point; be a relevant example; be a paradigm case
+** 故禮有胎教之法	And so the rites include methods of prenatal instruction:
+:PROPERTIES:
+:SRC: LH 6.4.4; Liu 1990:53; Beida 1979:i4; Yang 1999:41; Guizhou 1993:; Hunan 1997:43; tr. Forke 1:141
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:7a31:1::故《 / 論衡
+:CHARPOS: 1
+:END:
+*** 胎@tāi
+:PROPERTIES:
+:CONCEPT: uuid-7e04c1a4-2b73-461c-9549-6344f433d385 / FOETUS
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 4
+:END:
+胎@tāi	[[tls:concept:FOETUS::#uuid-7e04c1a4-2b73-461c-9549-6344f433d385][FOETUS]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / concerning the foetus; pre-natal
+** 賢不肖在此時矣	His relative worth depends on these [two] phases [of training], certainly.
+:PROPERTIES:
+:SRC: LH 6.4.5; Liu 1990:53; Beida 1979:i4; Yang 1999:41; Guizhou 1993:; Hunan 1997:43; tr. Forke 1:141 (P.54)
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:7a40:1::賢不 / 論衡
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-a4c0b409-1f19-4ef2-86e9-93f27ca08d3c / THIS
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 5
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-a4c0b409-1f19-4ef2-86e9-93f27ca08d3c][THIS]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / this, these 此人
+** 母不謹慎心妄慮邪	the mother is not careful not to think improprer thoughts,
+:PROPERTIES:
+:SRC: LH 6.4.6; Liu 1990:53; Beida 1979:i4; Yang 1999:41; Guizhou 1993:; Hunan 1997:43; tr. Forke 1:141 (P.54)
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:7a42:1::母不 / 論衡
+:CHARPOS: 1
+:END:
+*** 謹慎@jǐnshèn
+:PROPERTIES:
+:CONCEPT: uuid-4b0d93c8-df9c-4b6f-bbd5-c4041751c65b / DILIGENT
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 3
+:END:
+謹慎@jǐnshèn	[[tls:concept:DILIGENT::#uuid-4b0d93c8-df9c-4b6f-bbd5-c4041751c65b][DILIGENT]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / be meticulous about Ving
+** 形體醜惡	with bodily form that disgusts.
+:PROPERTIES:
+:SRC: LH 6.4.6; Liu 1990:53; Beida 1979:i4; Yang 1999:41; Guizhou 1993:; Hunan 1997:43; tr. Forke 1:141 (P.54)
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:7a45:1::形體 / 論衡
+:CHARPOS: 1
+:END:
+*** 形體@xíngtǐ
+:PROPERTIES:
+:CONCEPT: uuid-b4a45f9d-9eea-435f-8a41-cdd72cc248f1 / BODY
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:CHARPOS: 1
+:END:
+形體@xíngtǐ	[[tls:concept:BODY::#uuid-b4a45f9d-9eea-435f-8a41-cdd72cc248f1][BODY]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] / one's body (also: body of the deceased; even overall physical shape of Heaven and earth) 人形體 "human body"
+*** 醜惡@chǒuè
+:PROPERTIES:
+:CONCEPT: uuid-1fe14f52-4361-4907-86b1-34e0da60faec / UGLY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 3
+:END:
+醜惡@chǒuè	[[tls:concept:UGLY::#uuid-1fe14f52-4361-4907-86b1-34e0da60faec][UGLY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be quite ugly, be thoroughly ugly
+** 常苦不樂	and one will experience constant hardship without secure pleasure.
+:PROPERTIES:
+:SRC: LH 6.5.2; Liu 1990:55; Beida 1979:86; Yang 1999:41; Guizhou 1993:; Hunan 1997:44; tr. Forke 1:141
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:9a11:1::常苦 / 論衡
+:CHARPOS: 1
+:END:
+*** 不樂@bùlè
+:PROPERTIES:
+:CONCEPT: uuid-0bcd462c-9a85-479b-a870-b53d085c12a7 / DISTRESS
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 3
+:END:
+不樂@bùlè	[[tls:concept:DISTRESS::#uuid-0bcd462c-9a85-479b-a870-b53d085c12a7][DISTRESS]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / (by litotes (see RHETORICAL DEVICES):) be unhappy; be quite dissatisfied
+** 遭逢非常之變	meets with an extraordinarily adverse change,
+:PROPERTIES:
+:SRC: LH 6.5.3; Liu 1990:55; Beida 1979:86; Yang 1999:41; Guizhou 1993:; Hunan 1997:45; tr. Forke 1:142
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:10a02:1::遭逢 / 論衡
+:CHARPOS: 1
+:END:
+*** 遭逢@zāoféng
+:PROPERTIES:
+:CONCEPT: uuid-72760f9c-8830-454a-befa-73376ea15315 / ENCOUNTER
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 1
+:END:
+遭逢@zāoféng	[[tls:concept:ENCOUNTER::#uuid-72760f9c-8830-454a-befa-73376ea15315][ENCOUNTER]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / encounter in some way or other
+** 蹈死亡之地	he rushed into death's domain.
+:PROPERTIES:
+:SRC: LH 6.5.4; Liu 1990:55; Beida 1979:86; Yang 1999:41; Guizhou 1993:; Hunan 1997:45; tr. Forke 1:142
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:10a16:1::蹈死 / 論衡
+:CHARPOS: 1
+:END:
+*** 死亡@sǐwáng
+:PROPERTIES:
+:CONCEPT: uuid-2231704c-0488-44ea-9bc7-cf915f85dd0b / DIE
+:SYN-FUNC: uuid-9629f093-fa64-4769-9b05-9f49f12c7790
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 2
+:END:
+死亡@sǐwáng	[[tls:concept:DIE::#uuid-2231704c-0488-44ea-9bc7-cf915f85dd0b][DIE]]	N [[tls:syn-func::#uuid-9629f093-fa64-4769-9b05-9f49f12c7790][NPab{N1=N2}]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / death
+** 遭逢之禍	the calamity he met with accidentally
+:PROPERTIES:
+:SRC: LH 6.5.4; Liu 1990:55; Beida 1979:86; Yang 1999:41; Guizhou 1993:; Hunan 1997:45; tr. Forke 1:142
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:10a20:1::遭逢 / 論衡
+:CHARPOS: 1
+:END:
+*** 遭逢@zāoféng
+:PROPERTIES:
+:CONCEPT: uuid-bb1f8051-9af8-46a9-856f-beaea93ce3b6 / ENCOUNTER
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:CHARPOS: 1
+:END:
+遭逢@zāoféng	[[tls:concept:ENCOUNTER::#uuid-bb1f8051-9af8-46a9-856f-beaea93ce3b6][ENCOUNTER]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] / happenstance; coincidence
+** 長平之坑	and the pits at Chángpíng,
+:PROPERTIES:
+:SRC: LH 6.5.5; Liu 1990:57; Beida 1979:86; Yang 1999:41; Guizhou 1993:; Hunan 1997:45; tr. Forke 1:142
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:10a22:1::長平 / 論衡
+:CHARPOS: 1
+:END:
+*** 坑@kēng
+:PROPERTIES:
+:CONCEPT: uuid-ef1032a7-7ceb-47cc-aa96-38c0f40ae2f6 / BURY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+坑@kēng	[[tls:concept:BURY::#uuid-ef1032a7-7ceb-47cc-aa96-38c0f40ae2f6][BURY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / mass burial in a ditch
+** 遭逢之禍大	Because the calamity they met with was so huge,
+:PROPERTIES:
+:SRC: LH 6.5.5; Liu 1990:57; Beida 1979:86; Yang 1999:41; Guizhou 1993:; Hunan 1997:45; tr. Forke 1:142
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:10a25:1::遭逢 / 論衡
+:CHARPOS: 1
+:END:
+*** 遭逢@zāoféng
+:PROPERTIES:
+:CONCEPT: uuid-bb1f8051-9af8-46a9-856f-beaea93ce3b6 / ENCOUNTER
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:CHARPOS: 1
+:END:
+遭逢@zāoféng	[[tls:concept:ENCOUNTER::#uuid-bb1f8051-9af8-46a9-856f-beaea93ce3b6][ENCOUNTER]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] / happenstance; coincidence
+** 遇其主而用也	meeting by chance with the proper ruler and being employed [according to one's talent].
+:PROPERTIES:
+:SRC: LH 6.5.6; Liu 1990:57; Beida 1979:86; Yang 1999:41; Guizhou 1993:; Hunan 1997:45; tr. Forke 1:142
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:11a02:1::遇其 / 論衡
+:CHARPOS: 1
+:END:
+*** 主@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-495cc540-b0a6-434d-8b4c-15e561c047eb / RULER
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 3
+:END:
+主@zhǔ	[[tls:concept:RULER::#uuid-495cc540-b0a6-434d-8b4c-15e561c047eb][RULER]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / ruler; host; lord/ruler, owner (as being primarily in charge of territories and/or things)
+** 不遇知己之主	if one does not by chance meet with a ruler who understands one's strengths,
+:PROPERTIES:
+:SRC: LH 6.5.7; Liu 1990:57; Beida 1979:86; Yang 1999:41; Guizhou 1993:; Hunan 1997:45; tr. Forke 1:143
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:11a04:1::不遇 / 論衡
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1 / SELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 4
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1][SELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / object pronoun, resumptive, non-contrastive: oneself, himself, herself, themselves
+** 不得效驗	one will not get a chance to prove his mettle.
+:PROPERTIES:
+:SRC: LH 6.5.7; Liu 1990:57; Beida 1979:86; Yang 1999:41; Guizhou 1993:; Hunan 1997:45; tr. Forke 1:143
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:11a05:50::不得 / 論衡
+:CHARPOS: 50
+:END:
+*** 效@xiào
+:PROPERTIES:
+:CONCEPT: uuid-14dda8e2-8bdf-482f-b7d1-a7c361de51ee / CHECK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+效@xiào	[[tls:concept:CHECK::#uuid-14dda8e2-8bdf-482f-b7d1-a7c361de51ee][CHECK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / find satisfactory evidence on; check out; test carefully; get to the bottom of (a person or a matter)
+** 行與主乖	If, in one's behaviour, one acts contrary to the ruler,
+:PROPERTIES:
+:SRC: LH 6.5.9; Liu 1990:57; Beida 1979:86; Yang 1999:42; Guizhou 1993:; Hunan 1997:45; tr. Forke 1:143
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:13a06:1::行與 / 論衡
+:CHARPOS: 1
+:END:
+*** 乖@guāi
+:PROPERTIES:
+:CONCEPT: uuid-7cd31676-fcb6-4642-a98f-886b73d7d7f4 / CHAOS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+乖@guāi	[[tls:concept:CHAOS::#uuid-7cd31676-fcb6-4642-a98f-886b73d7d7f4][CHAOS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / contrary, perverse; be at odds with each other; be at loggerheads
+** 或與命祿并	may go with destiny and luck,
+:PROPERTIES:
+:SRC: LH 6.5.11; Liu 1990:57; Beida 1979:86; Yang 1999:42; Guizhou 1993:; Hunan 1997:45; tr. Forke 1:143
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:14a02:4::或與 / 論衡
+:CHARPOS: 4
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 4
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 或與命祿離	or they may be separate.
+:PROPERTIES:
+:SRC: LH 6.5.11; Liu 1990:57; Beida 1979:86; Yang 1999:42; Guizhou 1993:; Hunan 1997:45; tr. Forke 1:143
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_006:14a03:50::或與 / 論衡
+:CHARPOS: 50
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 50
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others

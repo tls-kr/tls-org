@@ -1,0 +1,84 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 郭店楚簡・五行 KR2p0021_008
+#+DATE: 2017-02-08T16:41:36+0900
+#+PROPERTY: COMMIT 9fcd10cd4fad60bb32ed7e96229a2e9d42f4dd50
+** 淑人君子	The splendid man, my noble friend,
+:PROPERTIES:
+:SRC: WXP 6:4 Shuo
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_008:00:0::「淑 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 淑人@shūrén
+:PROPERTIES:
+:CONCEPT: uuid-8284005d-a745-4707-9735-9f325aa4d1cc / GOOD
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 0
+:END:
+淑人@shūrén	[[tls:concept:GOOD::#uuid-8284005d-a745-4707-9735-9f325aa4d1cc][GOOD]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / person of excellent moral qualities
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 2
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 	In this the "light touch" is the most important thing for him.
+:PROPERTIES:
+:SRC: WXP 6:4 Shuo
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_008:00:0::	I / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 尚@shàng
+:PROPERTIES:
+:CONCEPT: uuid-0dc75c70-a435-44fe-954e-8739e0cbe785 / EXCELLENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 0
+:END:
+尚@shàng	[[tls:concept:EXCELLENT::#uuid-0dc75c70-a435-44fe-954e-8739e0cbe785][EXCELLENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be admirable; be supreme; be best; excel; be of special importance
+** 	is not losing track what one contemplates.
+:PROPERTIES:
+:SRC: WXP 6:5 Shuo
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_008:00:0::	i / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 忘@wàng / 亡@wáng
+:PROPERTIES:
+:CONCEPT: uuid-59a8b80c-d5d6-4260-9e26-04fa31a50514 / DISREGARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 0
+:END:
+忘@wàng / 亡@wáng	[[tls:concept:DISREGARD::#uuid-59a8b80c-d5d6-4260-9e26-04fa31a50514][DISREGARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / forget about> ignore, neglect; disregard (sometimes: the fact that S); fail to pay proper careful attention to, heed, fail to be mindful of
+** 	"When one is receptive for the truth one will learn of the Way of the man of noble character":
+:PROPERTIES:
+:SRC: WXP 6.6 Shuo
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_008:00:0::「	 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-6ea78f1e-ce69-4ef6-9ed4-5c5b06101d30 / GOOD
+:SYN-FUNC: uuid-14b56546-32fd-4321-8d73-3e4b18316c15
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 0
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-6ea78f1e-ce69-4ef6-9ed4-5c5b06101d30][GOOD]]	N [[tls:syn-func::#uuid-14b56546-32fd-4321-8d73-3e4b18316c15][NPadN]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / in modifying position 君子之道 [NOT: the Way of gentleman X]
+** 	The man of supreme perfection is such that what he has heard is firmly recorded in the ear
+:PROPERTIES:
+:SRC: WXP 6.6 Shuo
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_008:00:0::	T / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 聖者@shèngzhě
+:PROPERTIES:
+:CONCEPT: uuid-92285bef-ad09-4e4d-be2b-2ab4625abf8f / WISE
+:SYN-FUNC: uuid-d471671f-7404-4cee-82f8-329530781af5
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 0
+:END:
+聖者@shèngzhě	[[tls:concept:WISE::#uuid-92285bef-ad09-4e4d-be2b-2ab4625abf8f][WISE]]	N [[tls:syn-func::#uuid-d471671f-7404-4cee-82f8-329530781af5][NP{vad.npro}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the sage (at any time or in any place)

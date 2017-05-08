@@ -1,0 +1,116 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 郭店楚簡・五行 KR2p0021_026
+#+DATE: 2017-02-08T16:41:37+0900
+#+PROPERTY: COMMIT 9fcd10cd4fad60bb32ed7e96229a2e9d42f4dd50
+** 	these take pleasure in smells and tastes;
+:PROPERTIES:
+:SRC: WXP 22:03
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_026:00:0::	t / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** @
+:PROPERTIES:
+:CONCEPT: uuid-849acb97-5c09-45b7-b888-803aa651949f / ODOUR
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CONCEPT: uuid-142a28cc-e45a-4823-911e-d253b3bd1278 / DELIGHT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CONCEPT: uuid-b2bd75d3-6048-48a3-b4d4-b490b327ff08 / NOSE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 0
+:END:
+@	[[tls:concept:ODOUR::#uuid-849acb97-5c09-45b7-b888-803aa651949f][ODOUR]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / odour 無聲無臭
+悅@yuè / 說@yuè	[[tls:concept:DELIGHT::#uuid-142a28cc-e45a-4823-911e-d253b3bd1278][DELIGHT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / find fully satisfactory, delight in as ideal; be delighted with; appreciate positively 甚悅之
+〓:鼻@bí	[[tls:concept:NOSE::#uuid-b2bd75d3-6048-48a3-b4d4-b490b327ff08][NOSE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / nose
+** 	Suppose there is the world's most attractive smell or taste in front of one,
+:PROPERTIES:
+:SRC: WXP 22:05
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_026:00:0::	S / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** @
+:PROPERTIES:
+:CONCEPT: uuid-849acb97-5c09-45b7-b888-803aa651949f / ODOUR
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CONCEPT: uuid-541902da-f8b0-40c0-a244-062e618eae6b / FLAVOUR
+:SYN-FUNC: uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 0
+:END:
+@	[[tls:concept:ODOUR::#uuid-849acb97-5c09-45b7-b888-803aa651949f][ODOUR]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / odour 無聲無臭
+味@wèi	[[tls:concept:FLAVOUR::#uuid-541902da-f8b0-40c0-a244-062e618eae6b][FLAVOUR]]	N [[tls:syn-func::#uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693][nab.post-N]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / taste, flavour
+** 	Ears, eyes, nose, mouth, hands, feet, these six
+:PROPERTIES:
+:SRC: WXP 22:07
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_026:00:0::	E / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 鼻@bí
+:PROPERTIES:
+:CONCEPT: uuid-b2bd75d3-6048-48a3-b4d4-b490b327ff08 / NOSE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 0
+:END:
+鼻@bí	[[tls:concept:NOSE::#uuid-b2bd75d3-6048-48a3-b4d4-b490b327ff08][NOSE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / nose
+** 	then ears, eyes, nose, mouth, hands, feet, sounds and visual appearances all say yes.
+:PROPERTIES:
+:SRC: WXP 22:08
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_026:00:0::	t / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 鼻@bí
+:PROPERTIES:
+:CONCEPT: uuid-b2bd75d3-6048-48a3-b4d4-b490b327ff08 / NOSE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 0
+:END:
+鼻@bí	[[tls:concept:NOSE::#uuid-b2bd75d3-6048-48a3-b4d4-b490b327ff08][NOSE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / nose
+** 	One will agree without even saying yes,
+:PROPERTIES:
+:SRC: WXP 22:10
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_026:00:0::	O / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 諾@nuò
+:PROPERTIES:
+:CONCEPT: uuid-ff32acc3-7ce1-46f3-a2e1-d456b9efc1e5 / AGREE TO
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 0
+:END:
+諾@nuò	[[tls:concept:AGREE TO::#uuid-ff32acc3-7ce1-46f3-a2e1-d456b9efc1e5][AGREE TO]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / agree to do the contextually determinate thing, say yes 唯而不諾
+** 	it is to line them up for comparison.
+:PROPERTIES:
+:SRC: WXP 23:02 Shuo
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_026:00:0::	i / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 比@bǐ
+:PROPERTIES:
+:CONCEPT: uuid-9dd95c87-26f4-4ace-9c26-32290078bcdd / COMPARE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 0
+:END:
+比@bǐ	[[tls:concept:COMPARE::#uuid-9dd95c87-26f4-4ace-9c26-32290078bcdd][COMPARE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / juxtapose and compare as similar; make comparisons with
+** 	if one follows the nature of birds and beasts
+:PROPERTIES:
+:SRC: WXP 23:03
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_026:00:0::	i / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 禽獸@qínshòu
+:PROPERTIES:
+:CONCEPT: uuid-9b3cf423-0b6b-4ae3-8026-52b85427b2c9 / ANIMAL
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 0
+:END:
+禽獸@qínshòu	[[tls:concept:ANIMAL::#uuid-9b3cf423-0b6b-4ae3-8026-52b85427b2c9][ANIMAL]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / birds and beasts; a mere animal

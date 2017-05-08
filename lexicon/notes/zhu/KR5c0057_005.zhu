@@ -1,0 +1,199 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_005
+#+DATE: 2017-02-08T16:43:41+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 天地不仁	Heaven and Earth are not benevolent,
+:PROPERTIES:
+:SRC: LAO 5.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_005:1a01:50::天地 / 老子
+:CHARPOS: 50
+:END:
+*** 天地@tiāndì
+:PROPERTIES:
+:CONCEPT: uuid-9f6ec935-6d3c-4517-9977-c317bf006761 / GOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 50
+:END:
+天地@tiāndì	[[tls:concept:GOD::#uuid-9f6ec935-6d3c-4517-9977-c317bf006761][GOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the deities of Heaven and Earth
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-61c50311-bfcc-443a-a428-ed6d65fae527 / GENEROUS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+仁@rén	[[tls:concept:GENEROUS::#uuid-61c50311-bfcc-443a-a428-ed6d65fae527][GENEROUS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / show moral generous concern
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-3b1fc17a-dca2-4f46-aeae-61a6513a8d47 / BENEVOLENCE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+仁@rén	[[tls:concept:BENEVOLENCE::#uuid-3b1fc17a-dca2-4f46-aeae-61a6513a8d47][BENEVOLENCE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / to act with accordance to Goodness; have Good behaviour
+** 以萬物為芻狗	they treat the myriad things like straw dogs.
+:PROPERTIES:
+:SRC: LAO 5.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_005:1a02:50::以萬 / 老子
+:CHARPOS: 50
+:END:
+*** 芻@chú
+:PROPERTIES:
+:CONCEPT: uuid-f38e29db-ed0a-43de-a383-51f5d312edae / HAY
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 54
+:END:
+芻@chú	[[tls:concept:HAY::#uuid-f38e29db-ed0a-43de-a383-51f5d312edae][HAY]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / made of straw; fed with fodder
+*** 狗@gǒu
+:PROPERTIES:
+:CONCEPT: uuid-ac099c3b-f57a-4d11-b8ff-6d05ed7d701d / DOG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CONCEPT: uuid-f20f0c6b-4bc0-4c33-bacf-b46265bbe274 / TREAT
+:SYN-FUNC: uuid-2538cdc2-3913-4660-9c79-75bd1ce13b78
+:SEM-FEAT: uuid-6c0fad20-225f-4995-9bf1-115a61d05e92
+:CHARPOS: 55
+:END:
+狗@gǒu	[[tls:concept:DOG::#uuid-ac099c3b-f57a-4d11-b8ff-6d05ed7d701d][DOG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / originally: puppy, also the young of bears and tigers; mostely generally: dog
+〓#以為@yǐwéi	[[tls:concept:TREAT::#uuid-f20f0c6b-4bc0-4c33-bacf-b46265bbe274][TREAT]]	V [[tls:syn-func::#uuid-2538cdc2-3913-4660-9c79-75bd1ce13b78][VPttoN1.+N2]] {[[tls:sem-feat::#uuid-6c0fad20-225f-4995-9bf1-115a61d05e92][object=inserted]]} / treat N1 as N2
+** 聖人不仁	The Sages are not benevolent,
+:PROPERTIES:
+:SRC: LAO 5.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_005:1a03:50::聖人 / 老子
+:CHARPOS: 50
+:END:
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-61c50311-bfcc-443a-a428-ed6d65fae527 / GENEROUS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+仁@rén	[[tls:concept:GENEROUS::#uuid-61c50311-bfcc-443a-a428-ed6d65fae527][GENEROUS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / show moral generous concern
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-3b1fc17a-dca2-4f46-aeae-61a6513a8d47 / BENEVOLENCE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+仁@rén	[[tls:concept:BENEVOLENCE::#uuid-3b1fc17a-dca2-4f46-aeae-61a6513a8d47][BENEVOLENCE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / to act with accordance to Goodness; have Good behaviour
+** 以百姓為芻狗	they treat the people like straw dogs.
+:PROPERTIES:
+:SRC: LAO 5.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_005:1a04:50::以百 / 老子
+:CHARPOS: 50
+:END:
+*** 芻@chú
+:PROPERTIES:
+:CONCEPT: uuid-f38e29db-ed0a-43de-a383-51f5d312edae / HAY
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 54
+:END:
+芻@chú	[[tls:concept:HAY::#uuid-f38e29db-ed0a-43de-a383-51f5d312edae][HAY]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / made of straw; fed with fodder
+*** 狗@gǒu
+:PROPERTIES:
+:CONCEPT: uuid-ac099c3b-f57a-4d11-b8ff-6d05ed7d701d / DOG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CONCEPT: uuid-f20f0c6b-4bc0-4c33-bacf-b46265bbe274 / TREAT
+:SYN-FUNC: uuid-2538cdc2-3913-4660-9c79-75bd1ce13b78
+:SEM-FEAT: uuid-6c0fad20-225f-4995-9bf1-115a61d05e92
+:CHARPOS: 55
+:END:
+狗@gǒu	[[tls:concept:DOG::#uuid-ac099c3b-f57a-4d11-b8ff-6d05ed7d701d][DOG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / originally: puppy, also the young of bears and tigers; mostely generally: dog
+〓#以為@yǐwéi	[[tls:concept:TREAT::#uuid-f20f0c6b-4bc0-4c33-bacf-b46265bbe274][TREAT]]	V [[tls:syn-func::#uuid-2538cdc2-3913-4660-9c79-75bd1ce13b78][VPttoN1.+N2]] {[[tls:sem-feat::#uuid-6c0fad20-225f-4995-9bf1-115a61d05e92][object=inserted]]} / treat N1 as N2
+** 天地之間	The space between Heaven and Earth
+:PROPERTIES:
+:SRC: LAO 5.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_005:1a05:50::天地 / 老子
+:CHARPOS: 50
+:END:
+*** 間@jiān
+:PROPERTIES:
+:CONCEPT: uuid-7bd924f4-7b5c-453d-99ad-91c210be9122 / BETWEEN
+:SYN-FUNC: uuid-a571e65d-3cd6-4f26-99ab-1cb3a6567327
+:SEM-FEAT: uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2
+:CHARPOS: 53
+:END:
+間@jiān	[[tls:concept:BETWEEN::#uuid-7bd924f4-7b5c-453d-99ad-91c210be9122][BETWEEN]]	N [[tls:syn-func::#uuid-a571e65d-3cd6-4f26-99ab-1cb3a6567327][npost.N1+N2]] {[[tls:sem-feat::#uuid-8f360c6f-89f6-4bc5-a698-5433c407d3b2][place]]} / the space between
+** 其猶橐籥乎	is it not like a bellow or a flute,
+:PROPERTIES:
+:SRC: LAO 5.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_005:1a06:50::其猶 / 老子
+:CHARPOS: 50
+:END:
+*** 猶@yóu / 由@yóu
+:PROPERTIES:
+:CONCEPT: uuid-d4544899-4517-40f2-a9e8-9527f6811fd5 / RESEMBLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9
+:CHARPOS: 51
+:END:
+猶@yóu / 由@yóu	[[tls:concept:RESEMBLE::#uuid-d4544899-4517-40f2-a9e8-9527f6811fd5][RESEMBLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9][copula]]} / copula-like verb: be like; be no better than
+*** 橐籥@tuóyuè
+:PROPERTIES:
+:CONCEPT: uuid-21b6bfb8-46d2-4372-b07f-07a130da350c / BAG
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 52
+:END:
+橐籥@tuóyuè	[[tls:concept:BAG::#uuid-21b6bfb8-46d2-4372-b07f-07a130da350c][BAG]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / bellows
+** 虛而不屈	they are empty but are not exhausted, (LC 859)
+:PROPERTIES:
+:SRC: LAO 5.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_005:1a07:50::虛而 / 老子
+:CHARPOS: 50
+:END:
+*** 虛@xū
+:PROPERTIES:
+:CONCEPT: uuid-1587bd5c-d7a0-4918-a116-00d06bea7363 / EMPTY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+虛@xū	[[tls:concept:EMPTY::#uuid-1587bd5c-d7a0-4918-a116-00d06bea7363][EMPTY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be literally empty (like storehouses etc)
+** 動而愈出	set them in action and even more comes out.
+:PROPERTIES:
+:SRC: LAO 5.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_005:1a08:50::動而 / 老子
+:CHARPOS: 50
+:END:
+*** 動@dòng
+:PROPERTIES:
+:CONCEPT: uuid-c9b21cf5-dcc6-41c5-ae4e-680c492c43ac / MOVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 50
+:END:
+動@dòng	[[tls:concept:MOVE::#uuid-c9b21cf5-dcc6-41c5-ae4e-680c492c43ac][MOVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / move, shake (as the earth etc)
+** 多言數窮	Voluble search will often be exhausted (LC 1580);
+:PROPERTIES:
+:SRC: LAO 5.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_005:1a09:50::多言 / 老子
+:CHARPOS: 50
+:END:
+*** 多@duō
+:PROPERTIES:
+:CONCEPT: uuid-b9c47179-e54c-498b-9059-989923f48f66 / MANY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+多@duō	[[tls:concept:MANY::#uuid-b9c47179-e54c-498b-9059-989923f48f66][MANY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in large numbers, one a wide scale; in large quantities on a large scale; referring to the object: many objects; most subjects
+*** 數@shuò
+:PROPERTIES:
+:CONCEPT: uuid-dbd6bf81-b61d-4874-a764-9e8d82200ccf / OFTEN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+數@shuò	[[tls:concept:OFTEN::#uuid-dbd6bf81-b61d-4874-a764-9e8d82200ccf][OFTEN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / numerous times, frequently; on several occasions; at frequent intervals
+*** 窮@qióng
+:PROPERTIES:
+:CONCEPT: uuid-a4a7629b-74bb-49c9-a382-548dfb54837a / DISTRESS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 53
+:END:
+窮@qióng	[[tls:concept:DISTRESS::#uuid-a4a7629b-74bb-49c9-a382-548dfb54837a][DISTRESS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / run into real trouble, get into a tight corner
+*** 窮@qióng
+:PROPERTIES:
+:CONCEPT: uuid-05e3c15f-f70c-4652-a0ee-fac05d2f499e / CONFUSED
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+窮@qióng	[[tls:concept:CONFUSED::#uuid-05e3c15f-f70c-4652-a0ee-fac05d2f499e][CONFUSED]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be out of one's depth; be at one's wit's end; be completely lost for words; not know what to think or say

@@ -1,0 +1,63 @@
+# -*- mode: mandoku-tls-view -*-
+#+TITLE: STORY
+#+DATE: 2017-03-18T10:35:30.668+09:00        
+#+STARTUP: content
+* =CONCEPT= STORY
+:PROPERTIES:
+:CUSTOM_ID: uuid-4cf207dc-f42a-417e-b1d5-5823f4c3f5b2
+:SYNONYM+:  TALE
+:SYNONYM+:  NARRATIVE
+:SYNONYM+:  ACCOUNT
+:SYNONYM+:  ANECDOTE
+:SYNONYM+:  INFORMAL YARN
+:SYNONYM+:  SPIEL
+:TR_ZH: 故事
+:END:
+** DEFINITION
+
+REPORT of a SEQUENCE of REAL OR FICTIONAL EVENTS.
+
+** NOTES
+
+** POINTERS
+*** TAXONOMY
+ - [[tls:concept:NOVEL][NOVEL]]
+ - [[tls:concept:FAIRY TALE][FAIRY TALE]]
+
+*** KIND OF
+ - [[tls:concept:REPORT][REPORT]]
+
+** SOURCE REFERENCES
+*** CASSIN 2004
+ - [[cite:CASSIN-2004][Cassin(2004), Vocabulaire européen des philosophies. Dictionnaire des intraduisibles]], p.377
+ (ERZAEHLEN)
+*** LANGIUS 1631
+ - [[cite:LANGIUS-1631][Langius(1631), Anthologia sive Florilegium rerum et materiarum selectarum]] (FABULA)
+*** PILLON 1850
+ - [[cite:PILLON-1850][Pillon(1850), Handbook of Greek Synonymes, from the French of M. Alex. Pillon, Librarian of the Bibliothèque Royale , at Paris, and one of the editors of the new edition of Plaché's Dictionnaire Grec-Français, edited, with notes, by the Rev. Thomas Kerchever Arnold, M.A. Rector of Lyndon, and late fellow of Trinity College, Cambridge]], p.no.173
+
+** WORDS
+   :PROPERTIES:
+   :VISIBILITY: children
+   :END:
+*** 語 yǔ (OC:ŋaʔ MC:ŋi̯ɤ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-f9e81276-e567-4ab7-83b4-1104d16aea05
+:Char+: 語(149,7/14) 
+:GY_IDS+: uuid-07a426ac-29b0-4f46-bda5-50f6bfcbf5d6
+:PY+: yǔ     
+:OC+: ŋaʔ     
+:MC+: ŋi̯ɤ     
+:END: 
+**** N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-fcac20a7-e34c-49fc-9221-9385daa5c197][linguistic]]} / tale, anecdote, story
+:PROPERTIES:
+:CUSTOM_ID: uuid-7fdf4418-0e72-497f-9ebf-fea12aabbe37
+:END:
+****** DEFINITION
+
+tale, anecdote, story
+
+****** NOTES
+
+** BIBLIOGRAPHY
+bibliography:../core/tlsbib.bib

@@ -1,0 +1,277 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_039
+#+DATE: 2017-02-08T16:41:11+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 周君之魏求救	the ruler of Chou went to Wei to seek succour,
+:PROPERTIES:
+:SRC: ZGC 2.11.1; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 63 The ruler of Chou loses a battle and wins a park
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a02:1::周君 / 戰國策
+:CHARPOS: 1
+:END:
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-fb2dffc7-a201-449f-9f66-d1f299f304ce / GO TO
+:SYN-FUNC: uuid-81831269-7016-4091-8209-5abad1ff4453
+:CHARPOS: 3
+:END:
+之@zhī	[[tls:concept:GO TO::#uuid-fb2dffc7-a201-449f-9f66-d1f299f304ce][GO TO]]	V [[tls:syn-func::#uuid-81831269-7016-4091-8209-5abad1ff4453][vtoN.-V{0}]] / go to N in order to V
+*** 救@jiù
+:PROPERTIES:
+:CONCEPT: uuid-9c16519d-a0b3-43ce-b70b-91ced9e87619 / RESCUE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+救@jiù	[[tls:concept:RESCUE::#uuid-9c16519d-a0b3-43ce-b70b-91ced9e87619][RESCUE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / succour; help, rescuing operation; rescue
+** 魏王以上黨之急辭之	but the king of Wei excused himself because of his troubles in Shang-tang.
+:PROPERTIES:
+:SRC: ZGC 2.11.1; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 63 The ruler of Chou loses a battle and wins a park
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a03:50::魏王 / 戰國策
+:CHARPOS: 50
+:END:
+*** 辭@cí
+:PROPERTIES:
+:CONCEPT: uuid-038bd7e2-416e-4219-868e-56ad9d9e9891 / REFUSE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 57
+:END:
+辭@cí	[[tls:concept:REFUSE::#uuid-038bd7e2-416e-4219-868e-56ad9d9e9891][REFUSE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / opt out; decline, decline to take; make excuses; decline to answer; decline (advice given); refuse (offer of an office)
+** 周君反	On his way back the ruler of Chou
+:PROPERTIES:
+:SRC: ZGC 2.11.1; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 63 The ruler of Chou loses a battle and wins a park
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a04:50::周君 / 戰國策
+:CHARPOS: 50
+:END:
+*** 返@fǎn / 反@fǎn
+:PROPERTIES:
+:CONCEPT: uuid-db6ea119-de52-4c37-97d4-01c2d0c19a2c / RETURN
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+返@fǎn / 反@fǎn	[[tls:concept:RETURN::#uuid-db6ea119-de52-4c37-97d4-01c2d0c19a2c][RETURN]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / be on one's way back
+** 見梁囿而樂之也	saw the game park at Liang and was delighted by it.
+:PROPERTIES:
+:SRC: ZGC 2.11.1; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 63 The ruler of Chou loses a battle and wins a park
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a05:50::見梁 / 戰國策
+:CHARPOS: 50
+:END:
+*** 囿@yòu
+:PROPERTIES:
+:CONCEPT: uuid-d83eeb53-9942-4ad5-a6b0-e5cad99734fa / GARDEN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+囿@yòu	[[tls:concept:GARDEN::#uuid-d83eeb53-9942-4ad5-a6b0-e5cad99734fa][GARDEN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / ZUO: park used by the aristocracy for hunting and pleasure; MENG mentions a park forty square lǐ in size
+*** 樂@yào / 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-20aec1fe-bddc-4276-8218-470c314a436f / ENJOY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+樂@yào / 樂@lè	[[tls:concept:ENJOY::#uuid-20aec1fe-bddc-4276-8218-470c314a436f][ENJOY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / read yào: like to engage in; take one's pleasure in, take one's pleasure with
+** 溫囿不下此	'The game park at Wen is no less delightful
+:PROPERTIES:
+:SRC: ZGC 2.11.1; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 63 The ruler of Chou loses a battle and wins a park
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a07:1::「溫 / 戰國策
+:CHARPOS: 1
+:END:
+*** 囿@yòu
+:PROPERTIES:
+:CONCEPT: uuid-d83eeb53-9942-4ad5-a6b0-e5cad99734fa / GARDEN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+囿@yòu	[[tls:concept:GARDEN::#uuid-d83eeb53-9942-4ad5-a6b0-e5cad99734fa][GARDEN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / ZUO: park used by the aristocracy for hunting and pleasure; MENG mentions a park forty square lǐ in size
+*** 下@xià
+:PROPERTIES:
+:CONCEPT: uuid-ea3c16b9-9cf3-4cf6-9df3-1187ebae6c90 / BAD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 4
+:END:
+下@xià	[[tls:concept:BAD::#uuid-ea3c16b9-9cf3-4cf6-9df3-1187ebae6c90][BAD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / be inferior to N
+** 反見魏王	He returned for an audience with the king of Wei.
+:PROPERTIES:
+:SRC: ZGC 2.11.2; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 63
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a10:1::反見 / 戰國策
+:CHARPOS: 1
+:END:
+*** 返@fǎn / 反@fǎn
+:PROPERTIES:
+:CONCEPT: uuid-d464ed05-b5f8-424e-ab6f-97309b7c2ee1 / RETURN
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+返@fǎn / 反@fǎn	[[tls:concept:RETURN::#uuid-d464ed05-b5f8-424e-ab6f-97309b7c2ee1][RETURN]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / return, get back to where one came from; make one's return; flee back
+** 周君怨寡人乎	asked the king.
+:PROPERTIES:
+:SRC: ZGC 2.11.2; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 63
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a12:1::「周 / 戰國策
+:CHARPOS: 1
+:END:
+*** 怨@yuàn
+:PROPERTIES:
+:CONCEPT: uuid-905c4e2b-44a6-4dce-8a35-56a9c17542da / HATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+怨@yuàn	[[tls:concept:HATE::#uuid-905c4e2b-44a6-4dce-8a35-56a9c17542da][HATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / feel a lasting aggressive anger and hatred for (often superiors); feel intensely resentful about the fact that; resent; gear a grudge against
+** 且誰怨王	replied Ch'i-wu K'uei.
+:PROPERTIES:
+:SRC: ZGC 2.11.2; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 63
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a15:1::且誰 / 戰國策
+:CHARPOS: 1
+:END:
+*** 怨@yuàn
+:PROPERTIES:
+:CONCEPT: uuid-905c4e2b-44a6-4dce-8a35-56a9c17542da / HATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+怨@yuàn	[[tls:concept:HATE::#uuid-905c4e2b-44a6-4dce-8a35-56a9c17542da][HATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / feel a lasting aggressive anger and hatred for (often superiors); feel intensely resentful about the fact that; resent; gear a grudge against
+** 謀主也	is after all chief of strategy.
+:PROPERTIES:
+:SRC: ZGC 2.11.2; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 63
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a18:1::謀主 / 戰國策
+:CHARPOS: 1
+:END:
+*** 謀@móu
+:PROPERTIES:
+:CONCEPT: uuid-ce8c0225-9bba-4d70-9405-d3a9c98d7683 / PLOT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+謀@móu	[[tls:concept:PLOT::#uuid-ce8c0225-9bba-4d70-9405-d3a9c98d7683][PLOT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / plotting
+** 而設以國為王扞秦	He has interposed his country between Ch'in and your majesty to resist Ch'in,
+:PROPERTIES:
+:SRC: ZGC 2.11.2; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 63
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a19:50::而設 / 戰國策
+:CHARPOS: 50
+:END:
+*** 捍@hàn / 扞@hàn
+:PROPERTIES:
+:CONCEPT: uuid-abfe944b-0bf2-4d6b-be72-ba0f7ca87f4f / DEFEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+捍@hàn / 扞@hàn	[[tls:concept:DEFEND::#uuid-abfe944b-0bf2-4d6b-be72-ba0f7ca87f4f][DEFEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / protect against, fend off, ward off; defend somebody; guard
+** 周君得以為辭於父兄百姓	the ruler of Chou would be able to explain things to the elders and his people,
+:PROPERTIES:
+:SRC: ZGC 2.11.3; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 63
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a31:1::周君 / 戰國策
+:CHARPOS: 1
+:END:
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-30a51e86-68e3-42a1-982a-5541407fc369 / PEOPLE
+:SYN-FUNC: uuid-6a061076-9f61-43ed-9b5e-2cfcedc1de01
+:CHARPOS: 10
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-30a51e86-68e3-42a1-982a-5541407fc369][PEOPLE]]	N [[tls:syn-func::#uuid-6a061076-9f61-43ed-9b5e-2cfcedc1de01][NPpostVt]] / the people (as grammatical object)
+** 臣嘗聞溫囿之利	'Your servant once heard that taxes from Wen Park
+:PROPERTIES:
+:SRC: ZGC 2.11.4; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 64-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a34:1::臣嘗 / 戰國策
+:CHARPOS: 1
+:END:
+*** 囿@yòu
+:PROPERTIES:
+:CONCEPT: uuid-d83eeb53-9942-4ad5-a6b0-e5cad99734fa / GARDEN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+囿@yòu	[[tls:concept:GARDEN::#uuid-d83eeb53-9942-4ad5-a6b0-e5cad99734fa][GARDEN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / ZUO: park used by the aristocracy for hunting and pleasure; MENG mentions a park forty square lǐ in size
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-1e945652-81ae-4422-8980-a23edbd75632 / PROFIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 7
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-1e945652-81ae-4422-8980-a23edbd75632][PROFIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / profit, income
+** 歲八十金	bring you eighty in gold a year.
+:PROPERTIES:
+:SRC: ZGC 2.11.4; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 64-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a35:50::歲八 / 戰國策
+:CHARPOS: 50
+:END:
+*** 歲@suì
+:PROPERTIES:
+:CONCEPT: uuid-cc1309f9-cefb-4f8f-9b45-ffacdcfcaa08 / YEAR
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 50
+:END:
+歲@suì	[[tls:concept:YEAR::#uuid-cc1309f9-cefb-4f8f-9b45-ffacdcfcaa08][YEAR]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / per year, every year; once a year; year after year
+*** 金@jīn
+:PROPERTIES:
+:CONCEPT: uuid-8fe20bdf-a9d4-4752-8367-c94d26ea44cf / MONEY
+:SYN-FUNC: uuid-573e7b10-ffe1-4233-bcaa-9ce81d0e3ca9
+:CHARPOS: 53
+:END:
+金@jīn	[[tls:concept:MONEY::#uuid-8fe20bdf-a9d4-4752-8367-c94d26ea44cf][MONEY]]	N [[tls:syn-func::#uuid-573e7b10-ffe1-4233-bcaa-9ce81d0e3ca9][npost-V{NUM}]] / cash
+** 歲百二十金	and would pay one hundred and twenty a year.
+:PROPERTIES:
+:SRC: ZGC 2.11.4; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 64-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a38:1::歲百 / 戰國策
+:CHARPOS: 1
+:END:
+*** 歲@suì
+:PROPERTIES:
+:CONCEPT: uuid-cc1309f9-cefb-4f8f-9b45-ffacdcfcaa08 / YEAR
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 1
+:END:
+歲@suì	[[tls:concept:YEAR::#uuid-cc1309f9-cefb-4f8f-9b45-ffacdcfcaa08][YEAR]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / per year, every year; once a year; year after year
+** 是上黨每患而贏四十金	Thus, not only would the Shang-tang be secure but there would be an additional income of forty in gold.'
+:PROPERTIES:
+:SRC: ZGC 2.11.4; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 64-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a39:50::是上 / 戰國策
+:CHARPOS: 50
+:END:
+*** 贏@yíng
+:PROPERTIES:
+:CONCEPT: uuid-c35fd3d3-91ea-44f5-8c9f-79df1ad49b03 / WIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 56
+:END:
+贏@yíng	[[tls:concept:WIN::#uuid-c35fd3d3-91ea-44f5-8c9f-79df1ad49b03][WIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / win
+** 魏王因使孟卯致溫囿於周君而許之戍也	The king of Wei thereuopn sent Meng Mao to present the park at Wen to the ruler of Chou and allowed him 30 thousand border guards.
+:PROPERTIES:
+:SRC: ZGC 2.11.4; tr. Crump 1979 no.11, p. 31, ed. Shanghaiguji p. 64-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_039:1a39:50::魏王 / 戰國策
+:CHARPOS: 50
+:END:
+*** 許@xǔ
+:PROPERTIES:
+:CONCEPT: uuid-d4c22c39-ce61-4671-866b-c1cefb909379 / PROMISE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 63
+:END:
+許@xǔ	[[tls:concept:PROMISE::#uuid-d4c22c39-ce61-4671-866b-c1cefb909379][PROMISE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / promise N2 to N1
+*** 戍@shù
+:PROPERTIES:
+:CONCEPT: uuid-d310763b-53c0-4ba5-afdb-c0877be7fc30 / SOLDIER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 65
+:END:
+戍@shù	[[tls:concept:SOLDIER::#uuid-d310763b-53c0-4ba5-afdb-c0877be7fc30][SOLDIER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / border guards; a border garrson; garrison soldiers

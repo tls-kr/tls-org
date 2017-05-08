@@ -1,0 +1,795 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 論衡 KR3j0080_017
+#+DATE: 2017-02-08T16:43:28+0900
+#+PROPERTY: COMMIT 4527326cad354527d529ce18236a9771ae63de14
+** 宰相所使治國家也	The chancellor is the official appointed to order the state.
+:PROPERTIES:
+:SRC: LH 17.1.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:1a16:1::「宰 / 論衡
+:CHARPOS: 1
+:END:
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 6
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation
+** 不祥	it would be inauspicious.
+:PROPERTIES:
+:SRC: LH 17.1.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:1a18:1::不祥 / 論衡
+:CHARPOS: 1
+:END:
+*** 祥@xiáng
+:PROPERTIES:
+:CONCEPT: uuid-85bb6fa9-a02c-4869-8490-7cc223016db3 / AUSPICIOUS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 2
+:END:
+祥@xiáng	[[tls:concept:AUSPICIOUS::#uuid-85bb6fa9-a02c-4869-8490-7cc223016db3][AUSPICIOUS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / (primarily of human actions:)祥"be of good omen; be deserving of good luck"; 不祥"be of evil omen"; be of good omen, be liable to provoke a positive response from the supernatural world
+** 可移於歲	"You could transfer the blame to the harvest."
+:PROPERTIES:
+:SRC: LH 17.1.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:1a26:1::「可 / 論衡
+:CHARPOS: 1
+:END:
+*** 歲@suì
+:PROPERTIES:
+:CONCEPT: uuid-2b94fedc-4b73-4702-9c07-0b23c94ec736 / HARVEST
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+歲@suì	[[tls:concept:HARVEST::#uuid-2b94fedc-4b73-4702-9c07-0b23c94ec736][HARVEST]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / harvest
+** 其誰以我為君者乎	who would think me a decent ruler?
+:PROPERTIES:
+:SRC: LH 17.1.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:1a30:1::其誰 / 論衡
+:CHARPOS: 1
+:END:
+*** 其誰@qíshuí
+:PROPERTIES:
+:CONCEPT: uuid-765e343a-29fa-4f60-8727-9ffd74b28399 / WHO
+:SYN-FUNC: uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 1
+:END:
+其誰@qíshuí	[[tls:concept:WHO::#uuid-765e343a-29fa-4f60-8727-9ffd74b28399][WHO]]	N [[tls:syn-func::#uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd][NPpro]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / who? i.e. no one!
+** 今夕星必徙三舍	This night the star must move through three mansions [in the sky],
+:PROPERTIES:
+:SRC: LH 17.1.5; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:1a39:1::今夕 / 論衡
+:CHARPOS: 1
+:END:
+*** 徙@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-c0a76c65-4583-43bd-b0f9-742f26739140 / CROSS OVER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+徙@xǐ	[[tls:concept:CROSS OVER::#uuid-c0a76c65-4583-43bd-b0f9-742f26739140][CROSS OVER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cross over, move across
+** 臣請伏於陛下	I beg permission to crouch below the dais
+:PROPERTIES:
+:SRC: LH 17.1.7; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:1a51:1::臣請 / 論衡
+:CHARPOS: 1
+:END:
+*** 殿@diàn
+:PROPERTIES:
+:CONCEPT: uuid-91378b39-93f4-4b7e-b22d-f90e42d6ae31 / COURT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+殿@diàn	[[tls:concept:COURT::#uuid-91378b39-93f4-4b7e-b22d-f90e42d6ae31][COURT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / large building; court; main hall
+** 火星果徙三舍	the Fire Planet did, in fact, move three mansions.
+:PROPERTIES:
+:SRC: LH 17.1.7; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:1a55:1::火星 / 論衡
+:CHARPOS: 1
+:END:
+*** 徙@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-c0a76c65-4583-43bd-b0f9-742f26739140 / CROSS OVER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+徙@xǐ	[[tls:concept:CROSS OVER::#uuid-c0a76c65-4583-43bd-b0f9-742f26739140][CROSS OVER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cross over, move across
+** 此言虛也	All this talk is lies.
+:PROPERTIES:
+:SRC: LH 17.1.8; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:2a08:1::此言 / 論衡
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-8e8b8acb-9aa1-45b3-96f0-a3b9b414acd5 / THIS
+:SYN-FUNC: uuid-e81e5db1-7207-4450-a18d-27a597c5fd67
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-8e8b8acb-9aa1-45b3-96f0-a3b9b414acd5][THIS]]	N [[tls:syn-func::#uuid-e81e5db1-7207-4450-a18d-27a597c5fd67][npro.adNab]] / this 此說之難"These difficulties with persusasion"
+** 天道不闇	Heaven's way is not obscure.
+:PROPERTIES:
+:SRC: LH 17.2.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:3a06:1::天道 / 論衡
+:CHARPOS: 1
+:END:
+*** 闇@àn
+:PROPERTIES:
+:CONCEPT: uuid-5957fa58-1eca-42ce-be4d-681a29559386 / CONCEAL
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 4
+:END:
+闇@àn	[[tls:concept:CONCEAL::#uuid-5957fa58-1eca-42ce-be4d-681a29559386][CONCEAL]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / hide things, be secretive
+** 以除穢也	in order to sweep away the filth.
+:PROPERTIES:
+:SRC: LH 17.2.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:3a10:1::以除 / 論衡
+:CHARPOS: 1
+:END:
+*** 除@chú
+:PROPERTIES:
+:CONCEPT: uuid-15a100ea-1c5a-4dfd-bcc3-169a657b5f4f / REMOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+除@chú	[[tls:concept:REMOVE::#uuid-15a100ea-1c5a-4dfd-bcc3-169a657b5f4f][REMOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / abolish; get rid of, weed out; remove; make clean, clear (a road); dismiss from office; have (someone) removed
+*** 穢@huì
+:PROPERTIES:
+:CONCEPT: uuid-babb8c15-90a9-43b1-993a-b2574ab60ad2 / WICKED
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+穢@huì	[[tls:concept:WICKED::#uuid-babb8c15-90a9-43b1-993a-b2574ab60ad2][WICKED]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wickedness, acts of depravity
+** 以受方國	and so he receives the local states."138
+:PROPERTIES:
+:SRC: LH 17.2.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:3a21:1::以受 / 論衡
+:CHARPOS: 1
+:END:
+*** 方國@fāngguó
+:PROPERTIES:
+:CONCEPT: uuid-8f62325f-5f20-44ea-9df3-4780d7d92194 / STATE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 3
+:END:
+方國@fāngguó	[[tls:concept:STATE::#uuid-8f62325f-5f20-44ea-9df3-4780d7d92194][STATE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / local states> states of the four quarters; ZHENG XUAN: 四方來附者
+** 祝史之為	The doings of the invocators
+:PROPERTIES:
+:SRC: LH 17.2.5; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:3a32:1::祝史 / 論衡
+:CHARPOS: 1
+:END:
+*** 祝史@zhùshǐ
+:PROPERTIES:
+:CONCEPT: uuid-c6d93bcc-5594-48c3-9e96-cdafc495efac / OFFICIAL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+祝史@zhùshǐ	[[tls:concept:OFFICIAL::#uuid-c6d93bcc-5594-48c3-9e96-cdafc495efac][OFFICIAL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / invocator. prayer-maker; communicator with the spirits; ritual recorder; ritual officer
+** 齊君欲禳彗星之凶	The lord of Qi wanted to exorcise the evil associated with the broomstar,
+:PROPERTIES:
+:SRC: LH 17.3.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:3a36:1::齊君 / 論衡
+:CHARPOS: 1
+:END:
+*** 禳@ráng
+:PROPERTIES:
+:CONCEPT: uuid-ff66866b-52a1-48b4-841b-875a973da6ec / EXORCISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+禳@ráng	[[tls:concept:EXORCISE::#uuid-ff66866b-52a1-48b4-841b-875a973da6ec][EXORCISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to carry out deprecating sacrifices at times of natural disasters, often at times of floods, fires, appearances of stars, etc. In SJ occasionally sacrifice for good harvest.
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-66f643cc-2d60-4f06-bdfa-cfb2abe8d22d / INAUSPICIOUS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 8
+:END:
+凶@xiōng	[[tls:concept:INAUSPICIOUS::#uuid-66f643cc-2d60-4f06-bdfa-cfb2abe8d22d][INAUSPICIOUS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / what is inauspicious
+** 使熒惑徙三舍	and so he caused the Deluder to move three mansions
+:PROPERTIES:
+:SRC: LH 17.3.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:3a45:1::使熒 / 論衡
+:CHARPOS: 1
+:END:
+*** 徙@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-c0a76c65-4583-43bd-b0f9-742f26739140 / CROSS OVER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+徙@xǐ	[[tls:concept:CROSS OVER::#uuid-c0a76c65-4583-43bd-b0f9-742f26739140][CROSS OVER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cross over, move across
+** 同由共本	Both come from the same shared source,
+:PROPERTIES:
+:SRC: LH 17.3.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:4a04:1::同由 / 論衡
+:CHARPOS: 1
+:END:
+*** 由@yóu
+:PROPERTIES:
+:CONCEPT: uuid-f6c3683d-02b6-49f8-9639-97aa4d47259a / BASIS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 2
+:END:
+由@yóu	[[tls:concept:BASIS::#uuid-f6c3683d-02b6-49f8-9639-97aa4d47259a][BASIS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / cause > base, origin; reason
+** 政善則嘉瑞臻	With good rule come auspicious omens,
+:PROPERTIES:
+:SRC: LH 17.3.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:4a11:1::政善 / 論衡
+:CHARPOS: 1
+:END:
+*** 瑞@ruì
+:PROPERTIES:
+:CONCEPT: uuid-5f356a32-d7c3-40fb-a3c2-062ecc546e10 / AUSPICIOUS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+瑞@ruì	[[tls:concept:AUSPICIOUS::#uuid-5f356a32-d7c3-40fb-a3c2-062ecc546e10][AUSPICIOUS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / auspicious omen; auspicious signs
+*** 臻@zhēn
+:PROPERTIES:
+:CONCEPT: uuid-55371072-06ad-4429-a7a2-f55908b69421 / ARRIVE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 6
+:END:
+臻@zhēn	[[tls:concept:ARRIVE::#uuid-55371072-06ad-4429-a7a2-f55908b69421][ARRIVE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / arrive, reach
+** 福祥至	and all manner of blessings,
+:PROPERTIES:
+:SRC: LH 17.3.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:4a12:50::福祥 / 論衡
+:CHARPOS: 50
+:END:
+*** 祥@xiáng
+:PROPERTIES:
+:CONCEPT: uuid-942cf543-f033-4cdb-b458-06e174bfa2b9 / AUSPICIOUS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+祥@xiáng	[[tls:concept:AUSPICIOUS::#uuid-942cf543-f033-4cdb-b458-06e174bfa2b9][AUSPICIOUS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / good omens (for son); SHI 189.7: auspicious sign; GY 2.1: auspicious acts (are what one pleases the gods with)
+** 使景公有失誤之行	If Duke Jing had faults in his conduct such
+:PROPERTIES:
+:SRC: LH 17.3.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:4a14:1::使景 / 論衡
+:CHARPOS: 1
+:END:
+*** 失@shī
+:PROPERTIES:
+:CONCEPT: uuid-ea75c581-6ba5-4e02-83d5-47baabedff9d / MISTAKE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 5
+:END:
+失@shī	[[tls:concept:MISTAKE::#uuid-ea75c581-6ba5-4e02-83d5-47baabedff9d][MISTAKE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / be wrong through negligence
+*** 誤@wù
+:PROPERTIES:
+:CONCEPT: uuid-afec7b1d-7a42-4dfc-8a87-7a3c04a30cdd / MISTAKE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 6
+:END:
+誤@wù	[[tls:concept:MISTAKE::#uuid-afec7b1d-7a42-4dfc-8a87-7a3c04a30cdd][MISTAKE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / misguided, deluded
+** 何以效之	By what means shall I prove it?
+:PROPERTIES:
+:SRC: LH 17.3.6; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:4a30:1::何以 / 論衡
+:CHARPOS: 1
+:END:
+*** 效@xiào
+:PROPERTIES:
+:CONCEPT: uuid-bb6b379d-9251-4a23-8d7c-11ed0030ffaa / PROVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+效@xiào	[[tls:concept:PROVE::#uuid-bb6b379d-9251-4a23-8d7c-11ed0030ffaa][PROVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / prove, give proof of; prove the truth of (words); also: give proof of an ability one has 何以效之 ？
+** 與地無異	just as earth is.
+:PROPERTIES:
+:SRC: LH 17.4.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:5a06:1::與地 / 論衡
+:CHARPOS: 1
+:END:
+*** 異@yì
+:PROPERTIES:
+:CONCEPT: uuid-30b4e114-69fc-4359-804d-1609197335ff / DIFFERENT
+:SYN-FUNC: uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1
+:SEM-FEAT: uuid-7579a42d-5694-455f-917c-626d5918a255
+:CHARPOS: 4
+:END:
+異@yì	[[tls:concept:DIFFERENT::#uuid-30b4e114-69fc-4359-804d-1609197335ff][DIFFERENT]]	N [[tls:syn-func::#uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1][nab.t]] {[[tls:sem-feat::#uuid-7579a42d-5694-455f-917c-626d5918a255][relational]]} / difference from N
+** 聲音孔氣不能達也	Their sounds cannot carry.
+:PROPERTIES:
+:SRC: LH 17.4.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:5a23:1::聲音 / 論衡
+:CHARPOS: 1
+:END:
+*** 聲音@shēngyīn
+:PROPERTIES:
+:CONCEPT: uuid-1207dc06-235c-4f81-b12d-30ea4bc4615a / SOUND
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-21a5cc42-c1f6-4aa9-b251-c04be74fad80
+:CHARPOS: 1
+:END:
+聲音@shēngyīn	[[tls:concept:SOUND::#uuid-1207dc06-235c-4f81-b12d-30ea4bc4615a][SOUND]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-21a5cc42-c1f6-4aa9-b251-c04be74fad80][voice]]} / sound of the human voice; by extension very occasionally: of ants
+** 四夷入諸夏	When the Four Barbarians enter the Zhuxia [cultural sphere],
+:PROPERTIES:
+:SRC: LH 17.4.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:5a30:1::四夷 / 論衡
+:CHARPOS: 1
+:END:
+*** 四夷@sìyí
+:PROPERTIES:
+:CONCEPT: uuid-4c406c28-d7ec-4719-88bf-dc57c2e3268b / BARBARIAN
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 1
+:END:
+四夷@sìyí	[[tls:concept:BARBARIAN::#uuid-4c406c28-d7ec-4719-88bf-dc57c2e3268b][BARBARIAN]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / barbarians which surround the whole of China in all directions
+*** 諸夏@zhūxià
+:PROPERTIES:
+:CONCEPT: uuid-58c3a2e4-aff3-44ff-8b45-e4fd270b8c68 / CHINESE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 4
+:END:
+諸夏@zhūxià	[[tls:concept:CHINESE::#uuid-58c3a2e4-aff3-44ff-8b45-e4fd270b8c68][CHINESE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the various Xià states> the various Chinese peoples [NB: the current gloss for 諸夏 is 中國, but it seems worthwhile to look out for the cases where the reference is by synecdoche to the people rather than the state as such.]
+** 同形均氣	Although they are the same in form and in qi,
+:PROPERTIES:
+:SRC: LH 17.4.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:5a32:1::同形 / 論衡
+:CHARPOS: 1
+:END:
+*** 均@jūn / 鈞@jūn
+:PROPERTIES:
+:CONCEPT: uuid-268af89c-3baa-4441-bec8-8facecb6e099 / EQUAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+均@jūn / 鈞@jūn	[[tls:concept:EQUAL::#uuid-268af89c-3baa-4441-bec8-8facecb6e099][EQUAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / have the same; are same regarding
+** 不能去譯獨曉四夷	could not do away with the translators, and understand the Four Barbarians on their own.
+:PROPERTIES:
+:SRC: LH 17.4.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:5a35:1::不能 / 論衡
+:CHARPOS: 1
+:END:
+*** 譯@yì
+:PROPERTIES:
+:CONCEPT: uuid-4bfc9b70-a524-4285-b78e-0ced68e81636 / TRANSLATE
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 4
+:END:
+譯@yì	[[tls:concept:TRANSLATE::#uuid-4bfc9b70-a524-4285-b78e-0ced68e81636][TRANSLATE]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / those who interprete/translate > interpreter
+** 猶魚鼓而振水也	is just like fish's to beat and stir up the water.
+:PROPERTIES:
+:SRC: LH 17.4.6; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:6a05:1::猶魚 / 論衡
+:CHARPOS: 1
+:END:
+*** 振@zhèn / 振@zhēn
+:PROPERTIES:
+:CONCEPT: uuid-66b16b0a-72ad-4dc6-9ec7-ae93b125a1d2 / SHAKE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+振@zhèn / 振@zhēn	[[tls:concept:SHAKE::#uuid-66b16b0a-72ad-4dc6-9ec7-ae93b125a1d2][SHAKE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / shake up; shake; whip up (water)
+** 假使真然	If we supposed it to be true, [however, the
+:PROPERTIES:
+:SRC: LH 17.4.7; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:6a08:1::假使 / 論衡
+:CHARPOS: 1
+:END:
+*** 真@zhēn
+:PROPERTIES:
+:CONCEPT: uuid-bb5fc773-146f-41aa-b0b2-3265c691dfb7 / REALITY
+:SYN-FUNC: uuid-27fd0640-6a82-4b7b-b7b0-43fe6137ffb6
+:CHARPOS: 3
+:END:
+真@zhēn	[[tls:concept:REALITY::#uuid-bb5fc773-146f-41aa-b0b2-3265c691dfb7][REALITY]]	V [[tls:syn-func::#uuid-27fd0640-6a82-4b7b-b7b0-43fe6137ffb6][vadN{PRED}]] / (is) truly
+** 而一里之外澹然澄靜	and beyond one mile, all would be perfectly calm.
+:PROPERTIES:
+:SRC: LH 17.4.8; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:6a16:1::而一 / 論衡
+:CHARPOS: 1
+:END:
+*** 澹@dàn / 淡@dàn
+:PROPERTIES:
+:CONCEPT: uuid-45c9a650-a65d-4ec1-a527-72c37f37645f / PEACEFUL
+:SYN-FUNC: uuid-cbdc59ff-fffb-4336-9904-e9ce9a978ef6
+:CHARPOS: 6
+:END:
+澹@dàn / 淡@dàn	[[tls:concept:PEACEFUL::#uuid-45c9a650-a65d-4ec1-a527-72c37f37645f][PEACEFUL]]	V [[tls:syn-func::#uuid-cbdc59ff-fffb-4336-9904-e9ce9a978ef6][vi-P]] / be serene, be tranquil
+** 宜與水均	ought to be like the water.
+:PROPERTIES:
+:SRC: LH 17.4.8; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:6a20:1::宜與 / 論衡
+:CHARPOS: 1
+:END:
+*** 均@jūn / 鈞@jūn
+:PROPERTIES:
+:CONCEPT: uuid-10e96e58-85e9-4a9f-a55e-0ec4e2b054e1 / EQUAL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+均@jūn / 鈞@jūn	[[tls:concept:EQUAL::#uuid-10e96e58-85e9-4a9f-a55e-0ec4e2b054e1][EQUAL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be on a par; be equal; be equable
+** 且景公賢者也	Besides, Duke Jing was a worthy.
+:PROPERTIES:
+:SRC: LH 17.4.9; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:7a01:1::且景 / 論衡
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-d23ebf73-2dba-4408-be20-fde242ed8e2c / TALENT
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 4
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-d23ebf73-2dba-4408-be20-fde242ed8e2c][TALENT]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be a worthy, be a person of moral talent; also plural: be persons of moral worth, be worthies
+** 賢者操行	The conduct of worthies is
+:PROPERTIES:
+:SRC: LH 17.4.10; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:7a02:50::賢者 / 論衡
+:CHARPOS: 50
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1 / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: the man of talent and moral worth (at any time and in any place)
+** 無移熒惑之效	but those deeds never elicited the sign of the Deluder moving.
+:PROPERTIES:
+:SRC: LH 17.4.10; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:7a09:1::無移 / 論衡
+:CHARPOS: 1
+:END:
+*** 效@xiào
+:PROPERTIES:
+:CONCEPT: uuid-b23c1d45-90d1-420e-b2b2-b372bc057c05 / PROVE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d
+:CHARPOS: 6
+:END:
+效@xiào	[[tls:concept:PROVE::#uuid-b23c1d45-90d1-420e-b2b2-b372bc057c05][PROVE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-96def379-6e8a-47f7-8ebb-062e11bcb02d][factual]]} / manifest proof, manifest evidence; a fact that can serve as evidence; symptom, indication; visible sign; proof in practice; proof
+** 國君問罪於臣	and the state's ruler is then interrogated about his crimes by an official,
+:PROPERTIES:
+:SRC: LH 17.5.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:8a13:1::國君 / 論衡
+:CHARPOS: 1
+:END:
+*** 問@wèn
+:PROPERTIES:
+:CONCEPT: uuid-ef35d347-3612-4c33-a54c-0ce78d50fa01 / JUDGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 3
+:END:
+問@wèn	[[tls:concept:JUDGE::#uuid-ef35d347-3612-4c33-a54c-0ce78d50fa01][JUDGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be judged for N
+** 可移於臣子與人民	tried to transfer the blame to his own officials and [former] subjects, and
+:PROPERTIES:
+:SRC: LH 17.5.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:8a16:1::可移 / 論衡
+:CHARPOS: 1
+:END:
+*** 人民@rénmín
+:PROPERTIES:
+:CONCEPT: uuid-d049cdd5-14d2-44c2-9057-4433c97b5415 / PEOPLE
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:CHARPOS: 7
+:END:
+人民@rénmín	[[tls:concept:PEOPLE::#uuid-d049cdd5-14d2-44c2-9057-4433c97b5415][PEOPLE]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / the people
+** 令其臣歸罪於國	should it allow his officials to attribute the crimes to the people of the state,
+:PROPERTIES:
+:SRC: LH 17.5.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:8a19:1::令其 / 論衡
+:CHARPOS: 1
+:END:
+*** 歸@guī
+:PROPERTIES:
+:CONCEPT: uuid-b999e6f9-a6ea-4ce6-b5c8-ae2af5a02836 / GIVE
+:SYN-FUNC: uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+歸@guī	[[tls:concept:GIVE::#uuid-b999e6f9-a6ea-4ce6-b5c8-ae2af5a02836][GIVE]]	V [[tls:syn-func::#uuid-e0354a6b-29b1-4b41-a494-59df1daddc7e][vttoN1.+prep+N2]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / attribute (something N1) to (on someone N2)　 歸責於被累害者 "lay the blame on sufferers"
+** 更移以付國人乎	and even shift them so that they are attributed to the men of the state?
+:PROPERTIES:
+:SRC: LH 17.5.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:8a23:1::更移 / 論衡
+:CHARPOS: 1
+:END:
+*** 付@fù
+:PROPERTIES:
+:CONCEPT: uuid-038a8042-e3e7-4c43-be0f-b413b527445a / GIVE
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+付@fù	[[tls:concept:GIVE::#uuid-038a8042-e3e7-4c43-be0f-b413b527445a][GIVE]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / attribute the contextually determinate N1 to N2
+** 方伯不釋諸侯之罪	If the [hypothetical] regional baron would not absolve the vassal lord of his crime,
+:PROPERTIES:
+:SRC: LH 17.5.6; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:9a08:1::方伯 / 論衡
+:CHARPOS: 1
+:END:
+*** 諸侯@zhūhóu
+:PROPERTIES:
+:CONCEPT: uuid-7ce6c238-63b1-499c-910e-596855ad814c / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 5
+:END:
+諸侯@zhūhóu	[[tls:concept:RULER::#uuid-7ce6c238-63b1-499c-910e-596855ad814c][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / a feudal lord; occasionally also count noun: feudal lord, as in SHIJI: 漢王部五諸侯兵 "the king of Han lead the armed forces of five feudal lords"
+** 熒惑安肯徙去三舍	how would the Glittering Deluder be willing to move three mansions over?
+:PROPERTIES:
+:SRC: LH 17.5.6; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:9a09:50::熒惑 / 論衡
+:CHARPOS: 50
+:END:
+*** 徙去@xǐqù
+:PROPERTIES:
+:CONCEPT: uuid-74d7eb8c-58be-4e9b-91e9-826c4972978a / CROSS OVER
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 54
+:END:
+徙去@xǐqù	[[tls:concept:CROSS OVER::#uuid-74d7eb8c-58be-4e9b-91e9-826c4972978a][CROSS OVER]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / cross over
+** 未可信用	cannot be believed.
+:PROPERTIES:
+:SRC: LH 17.5.7; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:9a13:1::未可 / 論衡
+:CHARPOS: 1
+:END:
+*** 信用@xìnyòng
+:PROPERTIES:
+:CONCEPT: uuid-7aa311e6-5a09-43c9-a79b-2cefbc7d5c48 / BELIEVE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+信用@xìnyòng	[[tls:concept:BELIEVE::#uuid-7aa311e6-5a09-43c9-a79b-2cefbc7d5c48][BELIEVE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / believe so as to use and put into practice
+** 天道當然	Heaven's way is thus.
+:PROPERTIES:
+:SRC: LH 17.6.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:10a08:1::天道 / 論衡
+:CHARPOS: 1
+:END:
+*** 天道@tiāndào
+:PROPERTIES:
+:CONCEPT: uuid-39894d34-660f-4c7f-aa51-29badadccabb / LAW OF NATURE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 1
+:END:
+天道@tiāndào	[[tls:concept:LAW OF NATURE::#uuid-39894d34-660f-4c7f-aa51-29badadccabb][LAW OF NATURE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / law-of-Heaven-determined course of events in this world
+** 修政改行	To improve rule and correct one's conduct --
+:PROPERTIES:
+:SRC: LH 17.7.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:11a16:1::修政 / 論衡
+:CHARPOS: 1
+:END:
+*** 政@zhèng
+:PROPERTIES:
+:CONCEPT: uuid-5ae3535c-0daa-4543-905e-ec11c3a7815b / GOVERN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 2
+:END:
+政@zhèng	[[tls:concept:GOVERN::#uuid-5ae3535c-0daa-4543-905e-ec11c3a7815b][GOVERN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / methods of government
+** 尚不能卻	still could not make calamity retreat,
+:PROPERTIES:
+:SRC: LH 17.7.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:11a19:1::尚不 / 論衡
+:CHARPOS: 1
+:END:
+*** 尚@shàng
+:PROPERTIES:
+:CONCEPT: uuid-10334f08-23e8-4b0f-8017-2f80a77cb511 / EVEN
+:SYN-FUNC: uuid-de56e4a3-4283-4e36-92c2-96df86897260
+:CHARPOS: 1
+:END:
+尚@shàng	[[tls:concept:EVEN::#uuid-10334f08-23e8-4b0f-8017-2f80a77cb511][EVEN]]	P [[tls:syn-func::#uuid-de56e4a3-4283-4e36-92c2-96df86897260][padV.postN{SUBJ}:postS]] / even (an N)
+** 出虛華之三言	that three speeches, so empty and flowery, could
+:PROPERTIES:
+:SRC: LH 17.7.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:11a20:50::出虛 / 論衡
+:CHARPOS: 50
+:END:
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-a26cf40d-b0ab-40ae-83c4-a3010c4e81e1 / SENTENCE
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 55
+:END:
+言@yán	[[tls:concept:SENTENCE::#uuid-a26cf40d-b0ab-40ae-83c4-a3010c4e81e1][SENTENCE]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / statements; pronouncements; utterances
+** 誤矣	that is certainly wrong.
+:PROPERTIES:
+:SRC: LH 17.7.3; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:11a24:1::誤矣 / 論衡
+:CHARPOS: 1
+:END:
+*** 誤@wù
+:PROPERTIES:
+:CONCEPT: uuid-8accbd15-bc37-45c4-961b-541004d6da2d / MISTAKE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 1
+:END:
+誤@wù	[[tls:concept:MISTAKE::#uuid-8accbd15-bc37-45c4-961b-541004d6da2d][MISTAKE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be mistaken or misguided (said both of words and of people)
+** 身死命終之祥也	It was all an omen portending death and destruction.
+:PROPERTIES:
+:SRC: LH 17.7.4; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:12a04:1::身死 / 論衡
+:CHARPOS: 1
+:END:
+*** 祥@xiáng
+:PROPERTIES:
+:CONCEPT: uuid-05365712-18be-4e38-82d5-a9c0193e0f9f / OMEN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 6
+:END:
+祥@xiáng	[[tls:concept:OMEN::#uuid-05365712-18be-4e38-82d5-a9c0193e0f9f][OMEN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / sign or portent (good or bad)
+** 面有容色	When on the face there is the expressive appearance,
+:PROPERTIES:
+:SRC: LH 17.7.5; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:12a09:1::面有 / 論衡
+:CHARPOS: 1
+:END:
+*** 面@miàn
+:PROPERTIES:
+:CONCEPT: uuid-e8a55b6b-9410-46ec-915e-b895e5d8371c / FACE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+面@miàn	[[tls:concept:FACE::#uuid-e8a55b6b-9410-46ec-915e-b895e5d8371c][FACE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / face
+*** 容@róng
+:PROPERTIES:
+:CONCEPT: uuid-c97c4175-fbc2-4eec-84c9-69b2caa5f9a5 / APPEARANCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+容@róng	[[tls:concept:APPEARANCE::#uuid-c97c4175-fbc2-4eec-84c9-69b2caa5f9a5][APPEARANCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / characteristic appearance; physiognomy (also of things generally) bodily comportment, physical expression; especially as expressive of inner mood or personality
+*** 色@sè
+:PROPERTIES:
+:CONCEPT: uuid-28fcc742-72e7-4331-b1d4-2354c6ba5151 / APPEARANCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 4
+:END:
+色@sè	[[tls:concept:APPEARANCE::#uuid-28fcc742-72e7-4331-b1d4-2354c6ba5151][APPEARANCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / expressive appearance, air
+** 若移於奴役	or perhaps to slaves and servants,"
+:PROPERTIES:
+:SRC: LH 17.7.6; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:12a22:1::若移 / 論衡
+:CHARPOS: 1
+:END:
+*** 奴役@núyì
+:PROPERTIES:
+:CONCEPT: uuid-f581c483-af2c-4d17-887d-f3395d817136 / SLAVE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 4
+:END:
+奴役@núyì	[[tls:concept:SLAVE::#uuid-f581c483-af2c-4d17-887d-f3395d817136][SLAVE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / slave servant
+** 容色肯為善言之故滅	Then [can we say] that his bad color in his countenance would go away because of these good words,
+:PROPERTIES:
+:SRC: LH 17.7.7; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:12a25:1::容色 / 論衡
+:CHARPOS: 1
+:END:
+*** 容@róng
+:PROPERTIES:
+:CONCEPT: uuid-c97c4175-fbc2-4eec-84c9-69b2caa5f9a5 / APPEARANCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+容@róng	[[tls:concept:APPEARANCE::#uuid-c97c4175-fbc2-4eec-84c9-69b2caa5f9a5][APPEARANCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / characteristic appearance; physiognomy (also of things generally) bodily comportment, physical expression; especially as expressive of inner mood or personality
+*** 色@sè
+:PROPERTIES:
+:CONCEPT: uuid-28fcc742-72e7-4331-b1d4-2354c6ba5151 / APPEARANCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 2
+:END:
+色@sè	[[tls:concept:APPEARANCE::#uuid-28fcc742-72e7-4331-b1d4-2354c6ba5151][APPEARANCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / expressive appearance, air
+** 星三徙於一舍乎	That the planet shifted by one lunar mansion three times?
+:PROPERTIES:
+:SRC: LH 17.8.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:13a03:1::星三 / 論衡
+:CHARPOS: 1
+:END:
+*** 徙@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-c81262ef-dfce-45e3-8867-e74ccc8ce8d7 / CROSS OVER
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 3
+:END:
+徙@xǐ	[[tls:concept:CROSS OVER::#uuid-c81262ef-dfce-45e3-8867-e74ccc8ce8d7][CROSS OVER]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / cross over, move across
+** 一徙歷於三舍也	Or that it in one move traversed three lunar mansions?
+:PROPERTIES:
+:SRC: LH 17.8.1; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:13a04:50::一徙 / 論衡
+:CHARPOS: 50
+:END:
+*** 歷@lì
+:PROPERTIES:
+:CONCEPT: uuid-a37024df-45cb-4e06-9daf-d05da7bc1943 / CROSS OVER
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 52
+:END:
+歷@lì	[[tls:concept:CROSS OVER::#uuid-a37024df-45cb-4e06-9daf-d05da7bc1943][CROSS OVER]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / to pass through
+** 星徙三舍	[supposedly] made the planet move three mansions.
+:PROPERTIES:
+:SRC: LH 17.8.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:13a11:1::星徙 / 論衡
+:CHARPOS: 1
+:END:
+*** 徙@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-c0a76c65-4583-43bd-b0f9-742f26739140 / CROSS OVER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+徙@xǐ	[[tls:concept:CROSS OVER::#uuid-c0a76c65-4583-43bd-b0f9-742f26739140][CROSS OVER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cross over, move across
+** 星徙十舍乎	the planet would have moved ten mansions?
+:PROPERTIES:
+:SRC: LH 17.8.2; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:13a13:1::星徙 / 論衡
+:CHARPOS: 1
+:END:
+*** 徙@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-c0a76c65-4583-43bd-b0f9-742f26739140 / CROSS OVER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+徙@xǐ	[[tls:concept:CROSS OVER::#uuid-c0a76c65-4583-43bd-b0f9-742f26739140][CROSS OVER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cross over, move across
+** 自以著己之知	and so he told what he knew to be true
+:PROPERTIES:
+:SRC: LH 17.8.5; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:15a02:1::自以 / 論衡
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-8cb1f513-e355-4bfd-b52c-aa2b4dcd934c / SELF
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 4
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-8cb1f513-e355-4bfd-b52c-aa2b4dcd934c][SELF]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / emphatic or contrastive form of 其； (often but not always contrastive:) one's his/her/its own N; all of one's own (and special)
+** 夫子韋言星徙	Now Ziwei's saying that the stars would move
+:PROPERTIES:
+:SRC: LH 17.8.8; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:16a22:1::夫子 / 論衡
+:CHARPOS: 1
+:END:
+*** 徙@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-de65074f-144a-428a-856d-2196468c9d38 / MOVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+徙@xǐ	[[tls:concept:MOVE::#uuid-de65074f-144a-428a-856d-2196468c9d38][MOVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / move house; move place, move about, move around; change course; migrate; move abroad
+** 太卜言己能動之	The Grand Diviner said that he could move it. [That means]
+:PROPERTIES:
+:SRC: LH 17.8.8; Liu 1990:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_017:16a25:1::太卜 / 論衡
+:CHARPOS: 1
+:END:
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-7ee0e888-012f-444c-a0d0-254aeca30b87 / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-5608160c-56f1-4b6c-ac09-7fe2f8553162
+:CHARPOS: 3
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-7ee0e888-012f-444c-a0d0-254aeca30b87][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-5608160c-56f1-4b6c-ac09-7fe2f8553162][indirect-speech]]} / say that S
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-12a1bc24-9a2b-4208-b8d1-26c469dc1384 / SELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 4
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-12a1bc24-9a2b-4208-b8d1-26c469dc1384][SELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / he himself, she herself

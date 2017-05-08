@@ -1,0 +1,61 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_108
+#+DATE: 2017-02-08T16:41:20+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 我自行之而不肯	'I approached him personally and he was unvilling.
+:PROPERTIES:
+:SRC: ZGC 7.6.2; tr. Crump 1979 no.110, p. 139, ed. Shanghaiguji p. 282
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_108:1a22:1::「我 / 戰國策
+:CHARPOS: 1
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-f6841059-ed39-40d9-a595-5df634040bd3 / PERSONALLY
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:CHARPOS: 2
+:END:
+自@zì	[[tls:concept:PERSONALLY::#uuid-f6841059-ed39-40d9-a595-5df634040bd3][PERSONALLY]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] / oneself, in person; by oneself (Perhaps this should be npro+V[PRED]. I do not know how one would argue one way or the other.)
+** 不知其數	'or tell the number
+:PROPERTIES:
+:SRC: ZGC 7.6.4; tr. Crump 1979 no.110, p. 140, ed. Shanghaiguji p. 282
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_108:2a06:1::不知 / 戰國策
+:CHARPOS: 1
+:END:
+*** 數@shù
+:PROPERTIES:
+:CONCEPT: uuid-96d9a499-b5fe-4995-ab4a-169c28c8d6fc / NUMBER
+:SYN-FUNC: uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693
+:CHARPOS: 4
+:END:
+數@shù	[[tls:concept:NUMBER::#uuid-96d9a499-b5fe-4995-ab4a-169c28c8d6fc][NUMBER]]	N [[tls:syn-func::#uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693][nab.post-N]] / quantity; Anzahl; (magical) number e.g. 用六數 "uses the number six; use sextuplets of things".
+** 不知其數	or towns he brought low.
+:PROPERTIES:
+:SRC: ZGC 7.6.4; tr. Crump 1979 no.110, p. 140, ed. Shanghaiguji p. 282
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_108:2a08:1::不知 / 戰國策
+:CHARPOS: 1
+:END:
+*** 數@shù
+:PROPERTIES:
+:CONCEPT: uuid-96d9a499-b5fe-4995-ab4a-169c28c8d6fc / NUMBER
+:SYN-FUNC: uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693
+:CHARPOS: 4
+:END:
+數@shù	[[tls:concept:NUMBER::#uuid-96d9a499-b5fe-4995-ab4a-169c28c8d6fc][NUMBER]]	N [[tls:syn-func::#uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693][nab.post-N]] / quantity; Anzahl; (magical) number e.g. 用六數 "uses the number six; use sextuplets of things".
+** 請因孺子而行	cried T'ang.
+:PROPERTIES:
+:SRC: ZGC 7.6.7; tr. Crump 1979 no.110, p. 140, ed. Shanghaiguji p. 282
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_108:2a31:1::「請 / 戰國策
+:CHARPOS: 1
+:END:
+*** 請@qǐng
+:PROPERTIES:
+:CONCEPT: uuid-22fd8314-2b6b-461b-aa97-2fdafaa95239 / REQUEST
+:SYN-FUNC: uuid-65d93b56-a5a4-48f1-999e-bca54da80015
+:SEM-FEAT: uuid-a40e0575-055f-43e7-ba08-d6aed75b92ba
+:CHARPOS: 1
+:END:
+請@qǐng	[[tls:concept:REQUEST::#uuid-22fd8314-2b6b-461b-aa97-2fdafaa95239][REQUEST]]	V [[tls:syn-func::#uuid-65d93b56-a5a4-48f1-999e-bca54da80015][vt{0}+V{0}]] {[[tls:sem-feat::#uuid-a40e0575-055f-43e7-ba08-d6aed75b92ba][performative]]} / may I ask (for myself ) to V> please let me [short and idiomatic for 臣請]

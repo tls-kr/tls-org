@@ -1,0 +1,239 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_081
+#+DATE: 2017-02-08T16:43:48+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 信言不美	Sincere words are not beautiful
+:PROPERTIES:
+:SRC: LAO i1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_081:1a01:50::信言 / 老子
+:CHARPOS: 50
+:END:
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-930cd7c7-2e06-4419-94fe-1ebfa1974317 / TRUE
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 50
+:END:
+信@xìn	[[tls:concept:TRUE::#uuid-930cd7c7-2e06-4419-94fe-1ebfa1974317][TRUE]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / trustworthy> reliably true
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-58248328-733b-4587-bbd8-7c8aa830eebf / SPEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 51
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-58248328-733b-4587-bbd8-7c8aa830eebf][SPEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / statements of opinion, proposal; public or formal utterance which commits the speaker; pronouncement; public or formal pronouncement, public or formal suggestion; Sometimes less specifically: proposal; what one says, speech; language; public proposal, public speech, words
+*** 美@měi / 媄@měi / 媺@měi
+:PROPERTIES:
+:CONCEPT: uuid-94c15105-e62e-4677-a4a2-9cfcdd0cdda6 / BEAUTIFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 53
+:END:
+美@měi / 媄@měi / 媺@měi	[[tls:concept:BEAUTIFUL::#uuid-94c15105-e62e-4677-a4a2-9cfcdd0cdda6][BEAUTIFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be of non-material superior beauty
+** 美言不信	beautiful words are not sincere.
+:PROPERTIES:
+:SRC: LAO i1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_081:1a02:50::美言 / 老子
+:CHARPOS: 50
+:END:
+*** 美@měi / 媄@měi / 媺@měi
+:PROPERTIES:
+:CONCEPT: uuid-ed30dc0b-5887-4e50-822d-e5051439538f / BEAUTIFUL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 50
+:END:
+美@měi / 媄@měi / 媺@měi	[[tls:concept:BEAUTIFUL::#uuid-ed30dc0b-5887-4e50-822d-e5051439538f][BEAUTIFUL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / attractive; welcome
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-9f47ae9f-353d-4574-aadd-a8ee27f83c59 / TRUE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+信@xìn	[[tls:concept:TRUE::#uuid-9f47ae9f-353d-4574-aadd-a8ee27f83c59][TRUE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be reliably true, be trustworthy; be certainly the case
+** 善者不辯	The good man does not dispute,
+:PROPERTIES:
+:SRC: LAO i1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_081:1a03:50::善者 / 老子
+:CHARPOS: 50
+:END:
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-853f63b7-05ed-4c54-ab7a-85148f197416 / EXCELLENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 50
+:END:
+善@shàn	[[tls:concept:EXCELLENT::#uuid-853f63b7-05ed-4c54-ab7a-85148f197416][EXCELLENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be impressive, be excellent; be the best; be good 甚善
+** 辯者不善	the disputing man is not good.
+:PROPERTIES:
+:SRC: LAO i1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_081:1a04:50::辯者 / 老子
+:CHARPOS: 50
+:END:
+*** 辯@biàn / 辨@biàn
+:PROPERTIES:
+:CONCEPT: uuid-060f7686-61c2-4969-9176-3bcca4b3a1e7 / ELOQUENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+辯@biàn / 辨@biàn	[[tls:concept:ELOQUENT::#uuid-060f7686-61c2-4969-9176-3bcca4b3a1e7][ELOQUENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / be well-spoken, be eloquent, be rhetorically successful; be well-argued; show eloquence in action
+** 知者不博	The one who knows is not widely learned,
+:PROPERTIES:
+:SRC: LAO i1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_081:1a05:50::知者 / 老子
+:CHARPOS: 50
+:END:
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-e9a2d3bf-b44f-4196-a5b6-24a97de456ce / UNDERSTAND
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 50
+:END:
+知@zhī	[[tls:concept:UNDERSTAND::#uuid-e9a2d3bf-b44f-4196-a5b6-24a97de456ce][UNDERSTAND]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / understand things properly; understand something indeterminate properly
+*** 博@bó
+:PROPERTIES:
+:CONCEPT: uuid-564080f8-1114-492d-84b8-c8fe271fb546 / BROAD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 53
+:END:
+博@bó	[[tls:concept:BROAD::#uuid-564080f8-1114-492d-84b8-c8fe271fb546][BROAD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be broad, be not narrow (of learning or knowledge), comprehensive, wide-ranging
+** 博者不知	the widely learned does not know.
+:PROPERTIES:
+:SRC: LAO i1.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_081:1a06:50::博者 / 老子
+:CHARPOS: 50
+:END:
+*** 博@bó
+:PROPERTIES:
+:CONCEPT: uuid-564080f8-1114-492d-84b8-c8fe271fb546 / BROAD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 50
+:END:
+博@bó	[[tls:concept:BROAD::#uuid-564080f8-1114-492d-84b8-c8fe271fb546][BROAD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be broad, be not narrow (of learning or knowledge), comprehensive, wide-ranging
+** 聖人不積	195. The sage does not hoard.
+:PROPERTIES:
+:SRC: LAO i1.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_081:1a07:50::聖人 / 老子
+:CHARPOS: 50
+:END:
+*** 聖人@shèngrén
+:PROPERTIES:
+:CONCEPT: uuid-39d30f94-36a5-4b5f-8792-a6601a7a9178 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+聖人@shèngrén	[[tls:concept:HERO::#uuid-39d30f94-36a5-4b5f-8792-a6601a7a9178][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the person of extraordinary and creative talent (with untensed predicate)
+*** 積@jī
+:PROPERTIES:
+:CONCEPT: uuid-7705f0cc-7e49-43a7-ba98-21b1288c063a / ACCUMULATE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 53
+:END:
+積@jī	[[tls:concept:ACCUMULATE::#uuid-7705f0cc-7e49-43a7-ba98-21b1288c063a][ACCUMULATE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / engage in the accumulation of things
+** 既以為人己愈有	Having already worked on behalf of others he himself is increasingly enriched;
+:PROPERTIES:
+:SRC: LAO i1.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_081:1a08:50::既以 / 老子
+:CHARPOS: 50
+:END:
+*** 既以@jìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-c9b1b231-9f67-42e8-96cb-49d4eb2e1655 / ALREADY
+:SYN-FUNC: uuid-71f23c12-b482-4952-833b-02a621579b00
+:CHARPOS: 50
+:END:
+既以@jìyǐ	[[tls:concept:ALREADY::#uuid-c9b1b231-9f67-42e8-96cb-49d4eb2e1655][ALREADY]]	P [[tls:syn-func::#uuid-71f23c12-b482-4952-833b-02a621579b00][PPadS1.adS2]] / having already
+*** 為@wèi
+:PROPERTIES:
+:CONCEPT: uuid-f0ee390d-45f9-48ad-9ac8-8c68164f67ba / FOR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 52
+:END:
+為@wèi	[[tls:concept:FOR::#uuid-f0ee390d-45f9-48ad-9ac8-8c68164f67ba][FOR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / work for; be on the side of; work for the benefit of; work towards; aim for; act in the spirit of 為公甚
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-907474c9-e878-4cb6-9265-db09a2557db4 / ONESELF
+:SYN-FUNC: uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b
+:SEM-FEAT: uuid-5ae85a4e-5823-417b-b04f-58d7d9f263f5
+:CHARPOS: 54
+:END:
+己@jǐ	[[tls:concept:ONESELF::#uuid-907474c9-e878-4cb6-9265-db09a2557db4][ONESELF]]	N [[tls:syn-func::#uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b][npro0]] {[[tls:sem-feat::#uuid-5ae85a4e-5823-417b-b04f-58d7d9f263f5][emphatic]]} / oneself (emphatic, contrasting with others)
+*** 愈@yù
+:PROPERTIES:
+:CONCEPT: uuid-6071a754-7c6e-42fb-9fda-5fe30eece7bd / MORE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 55
+:END:
+愈@yù	[[tls:concept:MORE::#uuid-6071a754-7c6e-42fb-9fda-5fe30eece7bd][MORE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / ever more; SHI: increasingly; more and more; all the more, even more; ZZ: the more... the more
+** 既以與人己愈多	having already given away to others he himself is increasingly in abundance.
+:PROPERTIES:
+:SRC: LAO i1.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_081:1a09:50::既以 / 老子
+:CHARPOS: 50
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-907474c9-e878-4cb6-9265-db09a2557db4 / ONESELF
+:SYN-FUNC: uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b
+:SEM-FEAT: uuid-5ae85a4e-5823-417b-b04f-58d7d9f263f5
+:CHARPOS: 54
+:END:
+己@jǐ	[[tls:concept:ONESELF::#uuid-907474c9-e878-4cb6-9265-db09a2557db4][ONESELF]]	N [[tls:syn-func::#uuid-a7076e57-a1d9-4591-a6a5-35fb257a8b2b][npro0]] {[[tls:sem-feat::#uuid-5ae85a4e-5823-417b-b04f-58d7d9f263f5][emphatic]]} / oneself (emphatic, contrasting with others)
+*** 愈@yù
+:PROPERTIES:
+:CONCEPT: uuid-6071a754-7c6e-42fb-9fda-5fe30eece7bd / MORE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 55
+:END:
+愈@yù	[[tls:concept:MORE::#uuid-6071a754-7c6e-42fb-9fda-5fe30eece7bd][MORE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / ever more; SHI: increasingly; more and more; all the more, even more; ZZ: the more... the more
+** 故天之道利而不害	196. The Way of Heaven is to benefit people and not to harm them;
+:PROPERTIES:
+:SRC: LAO i1.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_081:1a10:50::故天 / 老子
+:CHARPOS: 50
+:END:
+*** 天@tiān
+:PROPERTIES:
+:CONCEPT: uuid-65f26a10-13b6-407e-8924-f065f8f2f484 / NATURALLY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 51
+:END:
+天@tiān	[[tls:concept:NATURALLY::#uuid-65f26a10-13b6-407e-8924-f065f8f2f484][NATURALLY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / Nature; what is natural; natural endowment, natural features
+** 聖人之道為而弗爭	the Way of the Sage is to engage in action and not to be contentious.
+:PROPERTIES:
+:SRC: LAO i1.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_081:1a11:50::聖人 / 老子
+:CHARPOS: 50
+:END:
+*** 聖人@shèngrén
+:PROPERTIES:
+:CONCEPT: uuid-39d30f94-36a5-4b5f-8792-a6601a7a9178 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+聖人@shèngrén	[[tls:concept:HERO::#uuid-39d30f94-36a5-4b5f-8792-a6601a7a9178][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the person of extraordinary and creative talent (with untensed predicate)
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-e691d6bd-5d3a-4371-be47-773ece35b7a5 / ACT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 54
+:END:
+為@wéi	[[tls:concept:ACT::#uuid-e691d6bd-5d3a-4371-be47-773ece35b7a5][ACT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in action, do what one does
+*** 爭@zhēng
+:PROPERTIES:
+:CONCEPT: uuid-9d935e61-dfc0-40bc-aefe-6083092893a3 / COMPETE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 57
+:END:
+爭@zhēng	[[tls:concept:COMPETE::#uuid-9d935e61-dfc0-40bc-aefe-6083092893a3][COMPETE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / engage in competition and conflict; be competitive

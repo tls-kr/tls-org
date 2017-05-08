@@ -1,0 +1,240 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_020
+#+DATE: 2017-02-08T16:35:49+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 古我先王將多于前功	Ancently our former kings (brought=) added much to the earlier achievements,
+:PROPERTIES:
+:SRC: SHU 16.38, tr. Legge p. 220ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a12:1::古我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 用降我凶德	Therefore, when (Heaven) sent down to us (sc. our people) evil dispositions (i.e.recalcitrant minds, not wanting to move)
+:PROPERTIES:
+:SRC: SHU 16.38, tr. Legge p. 220ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a14:1::用降 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-7bf3694a-ae38-45f9-86a2-f534afddbd45 / WE
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 3
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-7bf3694a-ae38-45f9-86a2-f534afddbd45][WE]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / us; our party (which is also yours)
+*** 凶@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-b3567e1d-014b-4267-aa18-9a53fff2eb93 / WICKED
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 4
+:END:
+凶@xiōng	[[tls:concept:WICKED::#uuid-b3567e1d-014b-4267-aa18-9a53fff2eb93][WICKED]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / boding ill for the future> wicked (and thus boding ill for the future) 凶人
+*** 凶德@xiōngdé
+:PROPERTIES:
+:CONCEPT: uuid-e72a905b-272d-4b28-91e0-1f13efd894e3 / WICKED
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 4
+:END:
+凶德@xiōngdé	[[tls:concept:WICKED::#uuid-e72a905b-272d-4b28-91e0-1f13efd894e3][WICKED]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / vice; viciousness [perhaps also NPab - act]
+*** 德@dé
+:PROPERTIES:
+:CONCEPT: uuid-7ff4696c-f188-496e-b1f1-99f9ba8f4b42 / FEATURE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 5
+:END:
+德@dé	[[tls:concept:FEATURE::#uuid-7ff4696c-f188-496e-b1f1-99f9ba8f4b42][FEATURE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / trait; characteristic feature; characteristic powers (of wine etc)
+** 嘉績于朕邦	they (yet) had fine achievements in our state.
+:PROPERTIES:
+:SRC: SHU 16.38, tr. Legge p. 220ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a15:50::嘉績 / 尚書
+:CHARPOS: 50
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-a3f4abbb-5c88-4e3c-89b4-83b39d830425 / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 53
+:END:
+朕@zhèn	[[tls:concept:WE::#uuid-a3f4abbb-5c88-4e3c-89b4-83b39d830425][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / authoritative/solemn: my/our (朕考 "my ancestor" is PERHAPS best understood as "my(and thus more indirectly your) ancestor". It is as if this ancestry is not just a personal matter. The King respresents his community. His ancestors are "our ancestors" of the Zho1u people.)
+** 今我民用蕩析離居	Now when our people because of shakings and scatterings live dispersed,
+:PROPERTIES:
+:SRC: SHU 6.39
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a16:50::今我 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 51
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 爾謂朕	you say to me:
+:PROPERTIES:
+:SRC: SHU 6.39
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a18:1::爾謂 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-06a8229a-ca5a-4d8e-8df0-0eb086193757 / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 3
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-06a8229a-ca5a-4d8e-8df0-0eb086193757][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / non-honorific?? me
+** 肆上帝將復我高祖之德	Now God on High will restore my high ancestor`s (i.e. Tang`s) virtue,
+:PROPERTIES:
+:SRC: SHU 16.40, tr. Legge p. 220ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a20:1::肆上 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 6
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 朕及篤敬	I will eagerly and honestly,
+:PROPERTIES:
+:SRC: SHU 16.40, tr. Legge p. 220ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a22:1::朕及 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-48669de2-dee4-4584-8de5-006ac80779a5 / EGO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-5f6ad398-2e81-4640-a7a4-260295f37c15
+:CHARPOS: 1
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-48669de2-dee4-4584-8de5-006ac80779a5][EGO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-5f6ad398-2e81-4640-a7a4-260295f37c15][1. person singular]]} / auto-honorific ceremonial (by the decision of Qín Shǐhúang, used by emperors only)
+** 用永地于新邑	and so perpetuate the amplacement in the new city.
+:PROPERTIES:
+:SRC: SHU 16.40, tr. Legge p. 220ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a24:1::用永 / 尚書
+:CHARPOS: 1
+:END:
+*** 新@xīn
+:PROPERTIES:
+:CONCEPT: uuid-4db47904-0d47-4257-bdce-8845462e5cf3 / NEW
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 5
+:END:
+新@xīn	[[tls:concept:NEW::#uuid-4db47904-0d47-4257-bdce-8845462e5cf3][NEW]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / new; unused; newly established (ruler)
+** 肆予沖人	And now I, young man,
+:PROPERTIES:
+:SRC: SHU 16.41, tr. Legge p. 220ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a25:50::肆予 / 尚書
+:CHARPOS: 50
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 51
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+** 予其懋簡相爾	I will exert myself in examining and inspecting you,
+:PROPERTIES:
+:SRC: SHU 16.43, tr. Legge p. 220ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a32:5::予其 / 尚書
+:CHARPOS: 5
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-e01096db-36f9-4548-8a67-85f0a8529d01 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 5
+:END:
+予@yú	[[tls:concept:EGO::#uuid-e01096db-36f9-4548-8a67-85f0a8529d01][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / I (as a responsible agent)
+** 念敬我眾	I tell and warn (you), my multitude.
+:PROPERTIES:
+:SRC: SHU 16.43, tr. Legge p. 220ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a33:50::念敬 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 52
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 朕不肩好貨	I do not (shoulder=) carry any love of riches,
+:PROPERTIES:
+:SRC: SHU 16.44, tr. Legge p. 220ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a34:50::朕不 / 尚書
+:CHARPOS: 50
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-48669de2-dee4-4584-8de5-006ac80779a5 / EGO
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-5f6ad398-2e81-4640-a7a4-260295f37c15
+:CHARPOS: 50
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-48669de2-dee4-4584-8de5-006ac80779a5][EGO]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-5f6ad398-2e81-4640-a7a4-260295f37c15][1. person singular]]} / auto-honorific ceremonial (by the decision of Qín Shǐhúang, used by emperors only)
+** 今我既羞告爾于朕志	Now I have presented to you and told you about my will.
+:PROPERTIES:
+:SRC: SHU 16.45, tr. Legge p. 220ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a38:1::今我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-916fbed1-2af4-4ca3-ae90-0b92fb1e3757 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-0e767368-e75b-4817-87fa-5ebc3002f3cd
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-916fbed1-2af4-4ca3-ae90-0b92fb1e3757][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-0e767368-e75b-4817-87fa-5ebc3002f3cd][V=past.action]]} / I (subject of authoritative action in the past)
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 8
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my
+** 生生自庸	employ yourselves in making your livelihood.
+:PROPERTIES:
+:SRC: SHU 16.46, tr. Legge p. 220ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_020:1a41:1::生生 / 尚書
+:CHARPOS: 1
+:END:
+*** 庸@yōng
+:PROPERTIES:
+:CONCEPT: uuid-b5385041-e1f7-468a-89ea-f8d435a30b45 / USE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+庸@yōng	[[tls:concept:USE::#uuid-b5385041-e1f7-468a-89ea-f8d435a30b45][USE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / deploy (oneself), exert (oneself); use (one's own) energies

@@ -1,0 +1,140 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_006
+#+DATE: 2017-02-08T16:41:07+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 周君將令相國往	the ruler of Chou wished to send his minister of state there.
+:PROPERTIES:
+:SRC: ZGC 1.6.1; tr. Crump 1979 no. 25, p. 41 Protocol defended
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_006:1a02:1::周君 / 戰國策
+:CHARPOS: 1
+:END:
+*** 相國@xiàngguó
+:PROPERTIES:
+:CONCEPT: uuid-4d9f4374-0432-45a8-b895-7b3ccca131f7 / MINISTER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86
+:CHARPOS: 5
+:END:
+相國@xiàngguó	[[tls:concept:MINISTER::#uuid-4d9f4374-0432-45a8-b895-7b3ccca131f7][MINISTER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86][title]]} / prime minister
+** 主君令陳封之楚	you sent Ch'en Feng to Ch'u
+:PROPERTIES:
+:SRC: ZGC 1.6.1; tr. Crump 1979 no. 25, p. 41 Protocol defended
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_006:1a06:1::主君 / 戰國策
+:CHARPOS: 1
+:END:
+*** 主君@zhǔjūn
+:PROPERTIES:
+:CONCEPT: uuid-d6a81f75-b4b6-43cf-a6f3-87db5eba8b54 / YOU
+:SYN-FUNC: uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4
+:CHARPOS: 1
+:END:
+主君@zhǔjūn	[[tls:concept:YOU::#uuid-d6a81f75-b4b6-43cf-a6f3-87db5eba8b54][YOU]]	N [[tls:syn-func::#uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4][NP{post-npro_1.}{post=npro_2}]] / you mylord
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a / GO TO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+之@zhī	[[tls:concept:GO TO::#uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a][GO TO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / go to (so as to stay there for a considerable time, or for some business); move towards; of things: be moved to
+** 令向公之魏	and Hsiang-kung to Wei.
+:PROPERTIES:
+:SRC: ZGC 1.6.1; tr. Crump 1979 no. 25, p. 41 Protocol defended
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_006:1a07:50::令向 / 戰國策
+:CHARPOS: 50
+:END:
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a / GO TO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+之@zhī	[[tls:concept:GO TO::#uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a][GO TO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / go to (so as to stay there for a considerable time, or for some business); move towards; of things: be moved to
+** 主君令許公之楚	you sent She-kung5 to Ch'u
+:PROPERTIES:
+:SRC: ZGC 1.6.1; tr. Crump 1979 no. 25, p. 41 Protocol defended
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_006:1a09:1::主君 / 戰國策
+:CHARPOS: 1
+:END:
+*** 主君@zhǔjūn
+:PROPERTIES:
+:CONCEPT: uuid-d6a81f75-b4b6-43cf-a6f3-87db5eba8b54 / YOU
+:SYN-FUNC: uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4
+:CHARPOS: 1
+:END:
+主君@zhǔjūn	[[tls:concept:YOU::#uuid-d6a81f75-b4b6-43cf-a6f3-87db5eba8b54][YOU]]	N [[tls:syn-func::#uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4][NP{post-npro_1.}{post=npro_2}]] / you mylord
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a / GO TO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+之@zhī	[[tls:concept:GO TO::#uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a][GO TO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / go to (so as to stay there for a considerable time, or for some business); move towards; of things: be moved to
+** 而主君令相國往	you wish your highest minister to go to him.
+:PROPERTIES:
+:SRC: ZGC 1.6.2; tr. Crump 1979 no. 25, p. 41
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_006:1a12:1::而主 / 戰國策
+:CHARPOS: 1
+:END:
+*** 主君@zhǔjūn
+:PROPERTIES:
+:CONCEPT: uuid-d6a81f75-b4b6-43cf-a6f3-87db5eba8b54 / YOU
+:SYN-FUNC: uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4
+:CHARPOS: 2
+:END:
+主君@zhǔjūn	[[tls:concept:YOU::#uuid-d6a81f75-b4b6-43cf-a6f3-87db5eba8b54][YOU]]	N [[tls:syn-func::#uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4][NP{post-npro_1.}{post=npro_2}]] / you mylord
+*** 相國@xiàngguó
+:PROPERTIES:
+:CONCEPT: uuid-4d9f4374-0432-45a8-b895-7b3ccca131f7 / MINISTER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86
+:CHARPOS: 5
+:END:
+相國@xiàngguó	[[tls:concept:MINISTER::#uuid-4d9f4374-0432-45a8-b895-7b3ccca131f7][MINISTER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86][title]]} / prime minister
+** 若其王在陽翟	If a king was at Yang-ti,
+:PROPERTIES:
+:SRC: ZGC 1.6.2; tr. Crump 1979 no. 25, p. 41
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_006:1a13:50::若其 / 戰國策
+:CHARPOS: 50
+:END:
+*** 若其@ruòqí
+:PROPERTIES:
+:CONCEPT: uuid-de0827b5-e346-4c71-9dc6-11e1def2af19 / IF
+:SYN-FUNC: uuid-71f23c12-b482-4952-833b-02a621579b00
+:CHARPOS: 50
+:END:
+若其@ruòqí	[[tls:concept:IF::#uuid-de0827b5-e346-4c71-9dc6-11e1def2af19][IF]]	P [[tls:syn-func::#uuid-71f23c12-b482-4952-833b-02a621579b00][PPadS1.adS2]] / if by any chance; if on the other hand　GY: 若其予之　　若其有知 "if they have awareness"
+** 主君將令誰往	whom would your majesty sent?'
+:PROPERTIES:
+:SRC: ZGC 1.6.2; tr. Crump 1979 no. 25, p. 41
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_006:1a14:50::主君 / 戰國策
+:CHARPOS: 50
+:END:
+*** 主君@zhǔjūn
+:PROPERTIES:
+:CONCEPT: uuid-d6a81f75-b4b6-43cf-a6f3-87db5eba8b54 / YOU
+:SYN-FUNC: uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4
+:CHARPOS: 50
+:END:
+主君@zhǔjūn	[[tls:concept:YOU::#uuid-d6a81f75-b4b6-43cf-a6f3-87db5eba8b54][YOU]]	N [[tls:syn-func::#uuid-7e8b6bb0-4f57-4d7b-b945-9637c7c4c7d4][NP{post-npro_1.}{post=npro_2}]] / you mylord
+** 乃止其行	and called off the mission.
+:PROPERTIES:
+:SRC: ZGC 1.6.2; tr. Crump 1979 no. 25, p. 41
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_006:1a16:1::乃止 / 戰國策
+:CHARPOS: 1
+:END:
+*** 止@zhǐ
+:PROPERTIES:
+:CONCEPT: uuid-ecf800df-b9f0-4e13-b027-1d9b0919ae34 / STOP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 2
+:END:
+止@zhǐ	[[tls:concept:STOP::#uuid-ecf800df-b9f0-4e13-b027-1d9b0919ae34][STOP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to stop; put a stop to

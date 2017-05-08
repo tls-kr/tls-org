@@ -1,0 +1,211 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_012
+#+DATE: 2017-02-08T16:41:09+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 溫人之周	Once there was a man from Wen who migrated to Chou
+:PROPERTIES:
+:SRC: ZGC 1.12.1; tr. Crump 1979 no. 42, p. 51 The citizen of the world
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a01:50::溫人 / 戰國策
+:CHARPOS: 50
+:END:
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a / GO TO
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+之@zhī	[[tls:concept:GO TO::#uuid-532a62f0-e997-4f34-bbb7-f6a07f56c78a][GO TO]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / go to (so as to stay there for a considerable time, or for some business); move towards; of things: be moved to
+** 周不納	but Chou did not admit aliens.
+:PROPERTIES:
+:SRC: ZGC 1.12.1; tr. Crump 1979 no. 42, p. 51 The citizen of the world
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a02:50::周不 / 戰國策
+:CHARPOS: 50
+:END:
+*** 納@nà
+:PROPERTIES:
+:CONCEPT: uuid-e0117475-68e1-4a99-9106-dcff47e6c747 / RECEIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+納@nà	[[tls:concept:RECEIVE::#uuid-e0117475-68e1-4a99-9106-dcff47e6c747][RECEIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / receive and give shelter to, allow in; attract
+** 主人也	'No, a native,' he replied.
+:PROPERTIES:
+:SRC: ZGC 1.12.1; tr. Crump 1979 no. 42, p. 51 The citizen of the world
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a04:1::「主 / 戰國策
+:CHARPOS: 1
+:END:
+*** 主人@zhǔrén
+:PROPERTIES:
+:CONCEPT: uuid-1a2093a8-9bac-4740-98ef-a1356f3a423a / CITIZEN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+主人@zhǔrén	[[tls:concept:CITIZEN::#uuid-1a2093a8-9bac-4740-98ef-a1356f3a423a][CITIZEN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / native citizen (not kè rén 客人"foreigner")
+** 問其巷而不知也	They asked him what lane he lived in and he could not tell them,
+:PROPERTIES:
+:SRC: ZGC 1.12.1; tr. Crump 1979 no. 42, p. 51 The citizen of the world
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a05:50::問其 / 戰國策
+:CHARPOS: 50
+:END:
+*** 巷@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-5476bf18-38e1-4838-98f1-93905b5e853c / STREET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+巷@xiàng	[[tls:concept:STREET::#uuid-5476bf18-38e1-4838-98f1-93905b5e853c][STREET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / lane, small street in a town orcity
+** 吏因囚之	so the bailiff took him off to jail.
+:PROPERTIES:
+:SRC: ZGC 1.12.1; tr. Crump 1979 no. 42, p. 51 The citizen of the world
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a06:50::吏因 / 戰國策
+:CHARPOS: 50
+:END:
+*** 吏@lì
+:PROPERTIES:
+:CONCEPT: uuid-59bf9688-097f-4cd9-badf-bcd478128c72 / MAGISTRATE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+吏@lì	[[tls:concept:MAGISTRATE::#uuid-59bf9688-097f-4cd9-badf-bcd478128c72][MAGISTRATE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / minor law enforcement officer; police officer; magistrate
+*** 囚@qiú
+:PROPERTIES:
+:CONCEPT: uuid-a2d38879-5b8e-46a3-bfb3-dabb2517ab6c / ARREST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-229a701e-1341-4719-9af8-a0b4e69c6c71
+:CHARPOS: 52
+:END:
+囚@qiú	[[tls:concept:ARREST::#uuid-a2d38879-5b8e-46a3-bfb3-dabb2517ab6c][ARREST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-229a701e-1341-4719-9af8-a0b4e69c6c71][perfective]]} / imprison, incarcerate; iussive: have (someone) imprisoned/incarcerated 魯囚之
+** 子非周人	'Why did you call yourself citizen
+:PROPERTIES:
+:SRC: ZGC 1.12.1; tr. Crump 1979 no. 42, p. 51 The citizen of the world
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a08:1::「子 / 戰國策
+:CHARPOS: 1
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-b1d0a19d-8751-40e4-958c-dcf2c549972e / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-4a664f44-976b-4454-bd5d-8db23c156096
+:CHARPOS: 4
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-b1d0a19d-8751-40e4-958c-dcf2c549972e][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-4a664f44-976b-4454-bd5d-8db23c156096][predicate]]} / be a person from Npl
+** 臣少而誦詩	I chanted the verses that went:
+:PROPERTIES:
+:SRC: ZGC 1.12.2; tr. Crump 1979 no. 42, p. 51
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a11:1::「臣 / 戰國策
+:CHARPOS: 1
+:END:
+*** 少@shào
+:PROPERTIES:
+:CONCEPT: uuid-012f6a0a-eaf9-45ac-98a6-a20474a1c749 / YOUNG
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 2
+:END:
+少@shào	[[tls:concept:YOUNG::#uuid-012f6a0a-eaf9-45ac-98a6-a20474a1c749][YOUNG]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / comparative intransitive verb: be junior; be a minor, be young; be younger than oneself 最少
+*** 誦@sòng
+:PROPERTIES:
+:CONCEPT: uuid-91084315-42d3-4e94-8734-fe47a9405aa0 / CHANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+誦@sòng	[[tls:concept:CHANT::#uuid-91084315-42d3-4e94-8734-fe47a9405aa0][CHANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / intone formally (poetry, not necessarily by heart: HANSHU 62 p. 2714-5); recite emphatically (distinguished prose); preach
+** 普天之下	Is the king's land.
+:PROPERTIES:
+:SRC: ZGC 1.12.2; tr. Crump 1979 no. 42, p. 51
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a13:1::『普 / 戰國策
+:CHARPOS: 1
+:END:
+*** 普@pǔ
+:PROPERTIES:
+:CONCEPT: uuid-e0ed2525-81be-4979-9173-304acda62828 / SCATTER
+:SYN-FUNC: uuid-2231d306-0fde-487d-bf64-ae174f755516
+:CHARPOS: 1
+:END:
+普@pǔ	[[tls:concept:SCATTER::#uuid-e0ed2525-81be-4979-9173-304acda62828][SCATTER]]	V [[tls:syn-func::#uuid-2231d306-0fde-487d-bf64-ae174f755516][vtoN.adS]] / spreading throughout N 普天之下...
+** 莫非王土	Anyone within the circling sea
+:PROPERTIES:
+:SRC: ZGC 1.12.2; tr. Crump 1979 no. 42, p. 51
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a14:50::莫非 / 戰國策
+:CHARPOS: 50
+:END:
+*** 土@tǔ
+:PROPERTIES:
+:CONCEPT: uuid-fc70fdf9-9f6e-448d-be97-aac679ada549 / TERRITORY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+土@tǔ	[[tls:concept:TERRITORY::#uuid-fc70fdf9-9f6e-448d-be97-aac679ada549][TERRITORY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / territory; the place where one is living
+** 今周君天下	and I am the servant of the Son of Heaven -
+:PROPERTIES:
+:SRC: ZGC 1.12.2; tr. Crump 1979 no. 42, p. 51
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a17:1::今周 / 戰國策
+:CHARPOS: 1
+:END:
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-89170fe5-e311-443b-bf7c-421138130259 / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+君@jūn	[[tls:concept:GOVERN::#uuid-89170fe5-e311-443b-bf7c-421138130259][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / rule over as a ruler; lord it over (subjects or a state)
+** 則我天子之臣	how should I be an alien?
+:PROPERTIES:
+:SRC: ZGC 1.12.2; tr. Crump 1979 no. 42, p. 51
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a18:50::則我 / 戰國策
+:CHARPOS: 50
+:END:
+*** 天子@tiānzǐ
+:PROPERTIES:
+:CONCEPT: uuid-9b309289-51ab-4c77-8a80-67dff3a9da01 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 52
+:END:
+天子@tiānzǐ	[[tls:concept:KING::#uuid-9b309289-51ab-4c77-8a80-67dff3a9da01][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the (contextually determinate) Son of Heaven (of the time)
+** 故曰主人	The ruler of Chou made his officer release the man.
+:PROPERTIES:
+:SRC: ZGC 1.12.2; tr. Crump 1979 no. 42, p. 51
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a20:1::故曰 / 戰國策
+:CHARPOS: 1
+:END:
+*** 主人@zhǔrén
+:PROPERTIES:
+:CONCEPT: uuid-1a2093a8-9bac-4740-98ef-a1356f3a423a / CITIZEN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 3
+:END:
+主人@zhǔrén	[[tls:concept:CITIZEN::#uuid-1a2093a8-9bac-4740-98ef-a1356f3a423a][CITIZEN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / native citizen (not kè rén 客人"foreigner")
+** 君乃使吏出之	
+:PROPERTIES:
+:SRC: ZGC 1.12.2; tr. Crump 1979 no. 42, p. 51
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_012:1a20:50::君乃 / 戰國策
+:CHARPOS: 50
+:END:
+*** 吏@lì
+:PROPERTIES:
+:CONCEPT: uuid-59bf9688-097f-4cd9-badf-bcd478128c72 / MAGISTRATE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+吏@lì	[[tls:concept:MAGISTRATE::#uuid-59bf9688-097f-4cd9-badf-bcd478128c72][MAGISTRATE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / minor law enforcement officer; police officer; magistrate
+*** 出@chuì
+:PROPERTIES:
+:CONCEPT: uuid-824ff7fd-ff8d-4ba7-a8cf-118458e63362 / RELEASE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+出@chuì	[[tls:concept:RELEASE::#uuid-824ff7fd-ff8d-4ba7-a8cf-118458e63362][RELEASE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / free from imprisonment, set free

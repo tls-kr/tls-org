@@ -1,0 +1,964 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 荀子 KR3a0002_009
+#+DATE: 2017-02-08T16:41:41+0900
+#+PROPERTY: COMMIT ddeec5ec188de85913927f32a208650c789be44e
+** 兩者分別	In both cases, if the distinction is kept seperate,
+:PROPERTIES:
+:SRC: XUN 9:2:1, Beida p.115;Knoblock 2:95
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:2a04:1::兩者 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-b928f487-e573-422d-bb0c-0a5d651a2070 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-b94db793-02ce-4893-89a0-d595bc919083
+:CHARPOS: 2
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-b928f487-e573-422d-bb0c-0a5d651a2070][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-b94db793-02ce-4893-89a0-d595bc919083][npro.post-V{NUM}]] / 二者 "the two"
+*** 分別@fēnbié
+:PROPERTIES:
+:CONCEPT: uuid-54f81048-1349-484e-a081-e8214a7ee851 / DISTINGUISH
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 3
+:END:
+分別@fēnbié	[[tls:concept:DISTINGUISH::#uuid-54f81048-1349-484e-a081-e8214a7ee851][DISTINGUISH]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / get distinguished properly
+** 則英傑至	the brave and heroic will come forward;
+:PROPERTIES:
+:SRC: XUN 9:2:1, Beida p.115;Knoblock 2:95
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:2a08:1::則英 / 荀子
+:CHARPOS: 1
+:END:
+*** 英傑@yīngjié / 英杰@yīngjié
+:PROPERTIES:
+:CONCEPT: uuid-0740d08c-80b3-4ab0-9666-477a802cc8ac / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 2
+:END:
+英傑@yīngjié / 英杰@yīngjié	[[tls:concept:HERO::#uuid-0740d08c-80b3-4ab0-9666-477a802cc8ac][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / hero
+** 名聲日聞	'the ruler's reputation is made evident,
+:PROPERTIES:
+:SRC: XUN 9:2:2, Beida p.115;Knoblock 2:95
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:2a12:1::名聲 / 荀子
+:CHARPOS: 1
+:END:
+*** 名聲@míngshēng
+:PROPERTIES:
+:CONCEPT: uuid-e28c481b-976c-4842-9392-ab0ec5f689a7 / WELL-KNOWN
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 1
+:END:
+名聲@míngshēng	[[tls:concept:WELL-KNOWN::#uuid-e28c481b-976c-4842-9392-ab0ec5f689a7][WELL-KNOWN]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / reputation, notoriety
+*** 聞@wén
+:PROPERTIES:
+:CONCEPT: uuid-24e9fc10-a1a5-47eb-aa4b-2e39a99fa795 / WELL-KNOWN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 4
+:END:
+聞@wén	[[tls:concept:WELL-KNOWN::#uuid-24e9fc10-a1a5-47eb-aa4b-2e39a99fa795][WELL-KNOWN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become well-known; become notorious
+** 則下畏恐而不親	his subordinates will be so seized with fear and trepidation
+:PROPERTIES:
+:SRC: XUN 9:2:3, Beida p.115; Knoblock 2:95
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:3a03:1::則下 / 荀子
+:CHARPOS: 1
+:END:
+*** 畏恐@wèikǒng
+:PROPERTIES:
+:CONCEPT: uuid-8f9bef7b-01d5-42bd-bcb8-4b356df90814 / FEAR
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 3
+:END:
+畏恐@wèikǒng	[[tls:concept:FEAR::#uuid-8f9bef7b-01d5-42bd-bcb8-4b356df90814][FEAR]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / feel fear; be fearful
+** 故公平者	Accordingly, public-spiritedness and impartiality
+:PROPERTIES:
+:SRC: XUN 9:2:6, Beida p.115f; Knoblock 2:95f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:3a25:1::故公 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 4
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 故有良法而亂者	Hence, although there have been cases in which a good legal model nonetheless produced disorder,
+:PROPERTIES:
+:SRC: XUN 9:2:7, Beida p.116; Knoblock 2:96
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:3a34:1::故有 / 荀子
+:CHARPOS: 1
+:END:
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-34774cea-64a3-4749-9f70-2d87ce4a2b41 / RELATIVE CLAUSE MARKER
+:SYN-FUNC: uuid-e7820165-f05e-4167-ba21-60a4c52ea70a
+:CHARPOS: 5
+:END:
+而@ér	[[tls:concept:RELATIVE CLAUSE MARKER::#uuid-34774cea-64a3-4749-9f70-2d87ce4a2b41][RELATIVE CLAUSE MARKER]]	P [[tls:syn-func::#uuid-e7820165-f05e-4167-ba21-60a4c52ea70a][padV.postadN]] / who
+** 有君子而亂者	I have never heard of a case,
+:PROPERTIES:
+:SRC: XUN 9:2:7, Beida p.116; Knoblock 2:96
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:3a35:1::有君 / 荀子
+:CHARPOS: 1
+:END:
+*** 而@ér
+:PROPERTIES:
+:CONCEPT: uuid-34774cea-64a3-4749-9f70-2d87ce4a2b41 / RELATIVE CLAUSE MARKER
+:SYN-FUNC: uuid-e7820165-f05e-4167-ba21-60a4c52ea70a
+:CHARPOS: 4
+:END:
+而@ér	[[tls:concept:RELATIVE CLAUSE MARKER::#uuid-34774cea-64a3-4749-9f70-2d87ce4a2b41][RELATIVE CLAUSE MARKER]]	P [[tls:syn-func::#uuid-e7820165-f05e-4167-ba21-60a4c52ea70a][padV.postadN]] / who
+** 治生乎君子	'Order is born of the gentleman;
+:PROPERTIES:
+:SRC: XUN 9:2:8, Beida p.116; Knoblock 2:96
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:3a39:1::「治 / 荀子
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 4
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+** 而亂生乎小人	chaos is produced by the small man.'
+:PROPERTIES:
+:SRC: XUN 9:2:8, Beida p.116; Knoblock 2:96
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:3a40:50::而亂 / 荀子
+:CHARPOS: 50
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-86710c17-18a5-4621-866f-eac5b8c9422e / BAD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 54
+:END:
+小人@xiǎorén	[[tls:concept:BAD::#uuid-86710c17-18a5-4621-866f-eac5b8c9422e][BAD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / petty person
+** 收孤寡	gather under your protection orphans and widows,
+:PROPERTIES:
+:SRC: XUN 9:4:1, Beida p.118;Knoblock 2:97
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:5a12:1::收孤 / 荀子
+:CHARPOS: 1
+:END:
+*** 孤寡@gūguǎ
+:PROPERTIES:
+:CONCEPT: uuid-1c7be1c4-3109-49d2-a463-02b5b0d0f1be / BEREAVED
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+孤寡@gūguǎ	[[tls:concept:BEREAVED::#uuid-1c7be1c4-3109-49d2-a463-02b5b0d0f1be][BEREAVED]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the bereaved; orphans and widows
+** 補貧窮	and offer assistance to those in poverty and need.
+:PROPERTIES:
+:SRC: XUN 9:4:1, Beida p.118;Knoblock 2:97
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:5a13:50::補貧 / 荀子
+:CHARPOS: 50
+:END:
+*** 貧窮@pínqióng
+:PROPERTIES:
+:CONCEPT: uuid-a580b7bf-37cd-4aa3-827b-246a47678eee / POOR
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-d4180c2b-fab5-47cb-98ae-0655da1c313a
+:CHARPOS: 51
+:END:
+貧窮@pínqióng	[[tls:concept:POOR::#uuid-a580b7bf-37cd-4aa3-827b-246a47678eee][POOR]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-d4180c2b-fab5-47cb-98ae-0655da1c313a][plur]]} / the impoverished, the destitute
+** 君者舟也	'The lord is the boat;
+:PROPERTIES:
+:SRC: XUN 9:4:2, Beida p.118; Knoblock 2:97
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:5a19:1::「君 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 2
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 庶人者水也	his subject the water.
+:PROPERTIES:
+:SRC: XUN 9:4:2, Beida p.118; Knoblock 2:97
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:5a20:50::庶人 / 荀子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 52
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 三節者當	When these three decisive points are realized properly,
+:PROPERTIES:
+:SRC: XUN 9:4:4, Beida p.118;Knoblock 2:97
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:6a05:1::三節 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3][npro:post.Npost-V{NUM}]] / after number phrase　三家者， 之數物者
+** 三節者不當	When these three are not properly executed,
+:PROPERTIES:
+:SRC: XUN 9:4:4, Beida p.118;Knoblock 2:97
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:6a07:1::三節 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3][npro:post.Npost-V{NUM}]] / after number phrase　三家者， 之數物者
+** 故我聚之以亡	Thus, 'amasing tax revenues on my part will bring on my destruction,
+:PROPERTIES:
+:SRC: XUN 9:5:3, Beida p.118; Knoblock 2:98
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:7a24:1::故我 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4446a367-3b54-4509-a637-3c1e385b1327 / ONESELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4446a367-3b54-4509-a637-3c1e385b1327][ONESELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / oneself
+** 召寇肥敵亡國危身之道也	is following a way that invites bandits, fatten his enemies, dooms his own country and threatens his own survival.
+:PROPERTIES:
+:SRC: XUN 9:5:3, Beida p.118; Knoblock 2:98
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:7a27:1::召寇 / 荀子
+:CHARPOS: 1
+:END:
+*** 危@wēi
+:PROPERTIES:
+:CONCEPT: uuid-f0eb18f7-e0e1-4bd2-a49c-85ac56eeaf27 / DANGER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 7
+:END:
+危@wēi	[[tls:concept:DANGER::#uuid-f0eb18f7-e0e1-4bd2-a49c-85ac56eeaf27][DANGER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / endanger (oneself)
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-1e1e962a-e970-41ef-9eb5-657ebc66b251 / SELF
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 8
+:END:
+身@shēn	[[tls:concept:SELF::#uuid-1e1e962a-e970-41ef-9eb5-657ebc66b251][SELF]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / contrastive: one's own person; oneself; himself
+** 而我以力勝之也	and I overcome them through superior power,
+:PROPERTIES:
+:SRC: XUN 9:7:1, Beida p.120; Knoblock 2:98f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:8a14:1::而我 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4446a367-3b54-4509-a637-3c1e385b1327 / ONESELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4446a367-3b54-4509-a637-3c1e385b1327][ONESELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / oneself
+** 而我以力勝之	and I overcome them throught superior power,
+:PROPERTIES:
+:SRC: XUN 9:7:1, Beida p.120; Knoblock 2:98f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:8a22:1::而我 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4446a367-3b54-4509-a637-3c1e385b1327 / ONESELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4446a367-3b54-4509-a637-3c1e385b1327][ONESELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / oneself
+** 則傷吾民必甚矣	the the number of casualities among my own people is certain to be very great.
+:PROPERTIES:
+:SRC: XUN 9:7:1, Beida p.120; Knoblock 2:98f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:8a23:50::則傷 / 荀子
+:CHARPOS: 50
+:END:
+*** 吾@wú
+:PROPERTIES:
+:CONCEPT: uuid-db2f86df-aa49-4de8-8a86-7d084edf6ca4 / ONESELF
+:SYN-FUNC: uuid-8dc98b5f-4184-4e97-aecf-8152733d1d06
+:SEM-FEAT: uuid-26d3ec76-dd89-4fd2-b554-92258536af7f
+:CHARPOS: 52
+:END:
+吾@wú	[[tls:concept:ONESELF::#uuid-db2f86df-aa49-4de8-8a86-7d084edf6ca4][ONESELF]]	N [[tls:syn-func::#uuid-8dc98b5f-4184-4e97-aecf-8152733d1d06][npro0.adN]] {[[tls:sem-feat::#uuid-26d3ec76-dd89-4fd2-b554-92258536af7f][impersonal]]} / non-referential: one's
+** 傷吾民甚	If the number of casualities among my own people has been great,
+:PROPERTIES:
+:SRC: XUN 9:7:2, Beida p.120; Knoblock 2:99
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:8a24:50::傷吾 / 荀子
+:CHARPOS: 50
+:END:
+*** 吾@wú
+:PROPERTIES:
+:CONCEPT: uuid-db2f86df-aa49-4de8-8a86-7d084edf6ca4 / ONESELF
+:SYN-FUNC: uuid-8dc98b5f-4184-4e97-aecf-8152733d1d06
+:SEM-FEAT: uuid-26d3ec76-dd89-4fd2-b554-92258536af7f
+:CHARPOS: 51
+:END:
+吾@wú	[[tls:concept:ONESELF::#uuid-db2f86df-aa49-4de8-8a86-7d084edf6ca4][ONESELF]]	N [[tls:syn-func::#uuid-8dc98b5f-4184-4e97-aecf-8152733d1d06][npro0.adN]] {[[tls:sem-feat::#uuid-26d3ec76-dd89-4fd2-b554-92258536af7f][impersonal]]} / non-referential: one's
+** 則吾民之惡我必甚矣	they are certain to have a fierce dislike for me.
+:PROPERTIES:
+:SRC: XUN 9:7:2, Beida p.120; Knoblock 2:99
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:8a25:50::則吾 / 荀子
+:CHARPOS: 50
+:END:
+*** 吾@wú
+:PROPERTIES:
+:CONCEPT: uuid-db2f86df-aa49-4de8-8a86-7d084edf6ca4 / ONESELF
+:SYN-FUNC: uuid-8dc98b5f-4184-4e97-aecf-8152733d1d06
+:SEM-FEAT: uuid-26d3ec76-dd89-4fd2-b554-92258536af7f
+:CHARPOS: 51
+:END:
+吾@wú	[[tls:concept:ONESELF::#uuid-db2f86df-aa49-4de8-8a86-7d084edf6ca4][ONESELF]]	N [[tls:syn-func::#uuid-8dc98b5f-4184-4e97-aecf-8152733d1d06][npro0.adN]] {[[tls:sem-feat::#uuid-26d3ec76-dd89-4fd2-b554-92258536af7f][impersonal]]} / non-referential: one's
+** 吾民之惡我甚	If my own people hate me,
+:PROPERTIES:
+:SRC: XUN 9:7:2, Beida p.120; Knoblock 2:99
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:8a26:50::吾民 / 荀子
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-355e9dd7-d4e3-49d3-a5dd-ae688a905426 / ONESELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 54
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-355e9dd7-d4e3-49d3-a5dd-ae688a905426][ONESELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / oneself
+** 人之民日欲與我鬭	so as others grow more willing to fight,
+:PROPERTIES:
+:SRC: XUN 9:7:2, Beida p.120; Knoblock 2:99
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:8a28:1::人之 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-355e9dd7-d4e3-49d3-a5dd-ae688a905426 / ONESELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 7
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-355e9dd7-d4e3-49d3-a5dd-ae688a905426][ONESELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / oneself
+** 吾民日不欲為我鬭	my own people will grow less willing to defend me.
+:PROPERTIES:
+:SRC: XUN 9:7:2, Beida p.120; Knoblock 2:99
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:8a29:50::吾民 / 荀子
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-355e9dd7-d4e3-49d3-a5dd-ae688a905426 / ONESELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 56
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-355e9dd7-d4e3-49d3-a5dd-ae688a905426][ONESELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / oneself
+** 是知霸道者也	Such is one who knows the way of a lord-protector.
+:PROPERTIES:
+:SRC: XUN 9:8:3, Beida p.121; Knoblock 2:100
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:9a27:1::是知 / 荀子
+:CHARPOS: 1
+:END:
+*** 霸@bà / @
+:PROPERTIES:
+:CONCEPT: uuid-a31345ef-5180-4fcf-a0ed-effa48e03e17 / RULER
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 3
+:END:
+霸@bà / @	[[tls:concept:RULER::#uuid-a31345ef-5180-4fcf-a0ed-effa48e03e17][RULER]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / always 霸: characteristic of a hegemon 霸道
+** 知此三具者	One who knows all three of these ways,
+:PROPERTIES:
+:SRC: XUN 9:9.2, Beida p.122; Knoblock 2:100
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:11a17:1::知此 / 荀子
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303 / THIS
+:SYN-FUNC: uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774
+:SEM-FEAT: uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432
+:CHARPOS: 2
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303][THIS]]	N [[tls:syn-func::#uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774][npro.adN{NUM}:adnpro]] {[[tls:sem-feat::#uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432][N=abstract]]} / 此三者
+** 王者之人	On the Man Who Is King :
+:PROPERTIES:
+:SRC: XUN 9:10:1, Beida p.123; Knoblock 2:100
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:12a01:1::王者 / 荀子
+:CHARPOS: 1
+:END:
+*** 王者@wàngzhě
+:PROPERTIES:
+:CONCEPT: uuid-c2b5dc69-7f7f-4937-8f72-2cecb290cd83 / RULER
+:SYN-FUNC: uuid-14b56546-32fd-4321-8d73-3e4b18316c15
+:CHARPOS: 1
+:END:
+王者@wàngzhě	[[tls:concept:RULER::#uuid-c2b5dc69-7f7f-4937-8f72-2cecb290cd83][RULER]]	N [[tls:syn-func::#uuid-14b56546-32fd-4321-8d73-3e4b18316c15][NPadN]] / of true king mettle 王者之人
+** 舉錯應變而不窮	In promoting or dismissing, in responding to every change of circumstance, he is never at a loss.
+:PROPERTIES:
+:SRC: XUN 9:10:1, Beida p.123; Knoblock 2:100
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:12a05:1::舉錯 / 荀子
+:CHARPOS: 1
+:END:
+*** 舉措@jǔcuò
+:PROPERTIES:
+:CONCEPT: uuid-6f823408-c3ea-498b-92b2-c01563ebf356 / ACT
+:SYN-FUNC: uuid-9629f093-fa64-4769-9b05-9f49f12c7790
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+舉措@jǔcuò	[[tls:concept:ACT::#uuid-6f823408-c3ea-498b-92b2-c01563ebf356][ACT]]	N [[tls:syn-func::#uuid-9629f093-fa64-4769-9b05-9f49f12c7790][NPab{N1=N2}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / raising and dismissing> one's (political) actions generally
+** 是王者之人也	Such is the manwho is a True King.
+:PROPERTIES:
+:SRC: XUN 9:10:1, Beida p.123; Knoblock 2:100
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:12a07:1::是王 / 荀子
+:CHARPOS: 1
+:END:
+*** 王者@wàngzhě
+:PROPERTIES:
+:CONCEPT: uuid-c2b5dc69-7f7f-4937-8f72-2cecb290cd83 / RULER
+:SYN-FUNC: uuid-14b56546-32fd-4321-8d73-3e4b18316c15
+:CHARPOS: 2
+:END:
+王者@wàngzhě	[[tls:concept:RULER::#uuid-c2b5dc69-7f7f-4937-8f72-2cecb290cd83][RULER]]	N [[tls:syn-func::#uuid-14b56546-32fd-4321-8d73-3e4b18316c15][NPadN]] / of true king mettle 王者之人
+** 聲則凡非雅聲者舉廢	All pronunciation contrary to "elegant standards" should be discarded.
+:PROPERTIES:
+:SRC: XUN 9:11:2, Beida p.123; Knoblock 2:101
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:13a10:1::聲、 / 荀子
+:CHARPOS: 1
+:END:
+*** 雅@yǎ
+:PROPERTIES:
+:CONCEPT: uuid-b3a5c8cf-94dc-4d9a-b9d1-c61ecb692c03 / BEAUTIFUL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 5
+:END:
+雅@yǎ	[[tls:concept:BEAUTIFUL::#uuid-b3a5c8cf-94dc-4d9a-b9d1-c61ecb692c03][BEAUTIFUL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / dignifiede, elegant and handsome; elegant and comely
+** 天地者	Heaven and Earth
+:PROPERTIES:
+:SRC: XUN 9:15:2, Beida p.126; Knoblock 2:103
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:17a07:1::天地 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 禮義者	Ritual and moral principles
+:PROPERTIES:
+:SRC: XUN 9:15:2, Beida p.126; Knoblock 2:103
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:17a09:1::禮義 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 君子者	The gentleman
+:PROPERTIES:
+:SRC: XUN 9:15:2, Beida p.126; Knoblock 2:103
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:17a11:1::君子 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 君子者	The gentleman
+:PROPERTIES:
+:SRC: XUN 9:15:3, Beida p.126; Knoblock 2:103
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:17a20:1::君子 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 君君臣臣父父子子兄兄弟弟一也農農士士工工商商一也	In the lord acting as lord, the minister as minister, the father as father, son as son, the older brother as older brother, the younger brother as younger brother, there is a unitary principle.
+:PROPERTIES:
+:SRC: XUN 9:15:5, Beida p.126; Knoblock 2:103
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:17a43:1::君君 / 荀子
+:CHARPOS: 1
+:END:
+*** 臣@chén
+:PROPERTIES:
+:CONCEPT: uuid-fbb7b5cb-bc01-4cc9-8feb-8eeb6822d5f4 / SERVE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+臣@chén	[[tls:concept:SERVE::#uuid-fbb7b5cb-bc01-4cc9-8feb-8eeb6822d5f4][SERVE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / behave as a subservient subject, show proper obedience
+*** 父@fù
+:PROPERTIES:
+:CONCEPT: uuid-221efffc-2286-45af-8e49-1009106d1a3c / FATHER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+父@fù	[[tls:concept:FATHER::#uuid-221efffc-2286-45af-8e49-1009106d1a3c][FATHER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / act as a father should
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-ff78bc87-2d73-4450-9c9d-ff1e03cd504d / CHILD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 7
+:END:
+子@zǐ	[[tls:concept:CHILD::#uuid-ff78bc87-2d73-4450-9c9d-ff1e03cd504d][CHILD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / act as a child should
+*** 弟@dì
+:PROPERTIES:
+:CONCEPT: uuid-b1da3d49-f928-494c-a249-bfefcca4d78a / BROTHER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 11
+:END:
+弟@dì	[[tls:concept:BROTHER::#uuid-b1da3d49-f928-494c-a249-bfefcca4d78a][BROTHER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / act as a younger brother should
+*** 士@shì
+:PROPERTIES:
+:CONCEPT: uuid-119474a8-7d96-4b23-9d12-e7d5280fc429 / GENTLEMAN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 17
+:END:
+士@shì	[[tls:concept:GENTLEMAN::#uuid-119474a8-7d96-4b23-9d12-e7d5280fc429][GENTLEMAN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / act as a gentleman should
+*** 工@gōng
+:PROPERTIES:
+:CONCEPT: uuid-ef588b51-36ed-4d53-85b5-d9f07d4c53f3 / WORK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 19
+:END:
+工@gōng	[[tls:concept:WORK::#uuid-ef588b51-36ed-4d53-85b5-d9f07d4c53f3][WORK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / work with skill, deploy one's skill in work; act as a craftsman should
+** 人有氣有生有知	Humans possess vital breath, life and awareness,
+:PROPERTIES:
+:SRC: XUN 9:16a:1, Beida p.127; Knoblock 2:103f
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:18a04:1::人有 / 荀子
+:CHARPOS: 1
+:END:
+*** 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-63c50ca4-a680-474a-871a-4bfc75f121ab / AWARE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 7
+:END:
+知@zhī	[[tls:concept:AWARE::#uuid-63c50ca4-a680-474a-871a-4bfc75f121ab][AWARE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / awareness
+** 兼利天下	universally benefit the whole world, '
+:PROPERTIES:
+:SRC: XUN 9:16a:4, Beida p.127; Knoblock 2:104
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:18a26:1::兼利 / 荀子
+:CHARPOS: 1
+:END:
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-ef1b9e6f-3361-4478-b111-376d4ee758a2 / PROFIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 2
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-ef1b9e6f-3361-4478-b111-376d4ee758a2][PROFIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / benefit; be profitable for; provide for the good of; work for the profit of, be of benefit to
+** 能以事兄謂之弟	To be able to use them in serving one's elder brother is called "brotherly affaction.."
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:19a10:1::能以 / 荀子
+:CHARPOS: 1
+:END:
+*** 兄@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-d5ed415b-450f-4127-b4bf-5d6a83dff3a7 / BROTHER
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:SEM-FEAT: uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d
+:CHARPOS: 4
+:END:
+兄@xiōng	[[tls:concept:BROTHER::#uuid-d5ed415b-450f-4127-b4bf-5d6a83dff3a7][BROTHER]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] {[[tls:sem-feat::#uuid-4e36ef0d-dcb2-48b8-a74a-daa9f2a54b2d][singular]]} / eldest brother, male of the eldest brother's status (note that 其兄 is "his elder brother" and not specifically "his eldest brother".)
+** 君者	A lord
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:19a13:1::君者 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 2
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 聖主之制也	The Regulation of a Sage King :
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:19a22:1::聖主 / 荀子
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+** 四者不失時	the four activities are not out of their proper seasons;
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:19a35:1::四者 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-b928f487-e573-422d-bb0c-0a5d651a2070 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-b94db793-02ce-4893-89a0-d595bc919083
+:CHARPOS: 2
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-b928f487-e573-422d-bb0c-0a5d651a2070][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-b94db793-02ce-4893-89a0-d595bc919083][npro.post-V{NUM}]] / 二者 "the two"
+** 使夷俗邪音不敢亂雅	and following the appropriate season in his preparations
+:PROPERTIES:
+:SRC: XUN 9:17:1, Beida p.129; Knoblock 2:106
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:20a12:1::使夷 / 荀子
+:CHARPOS: 1
+:END:
+*** 雅@yǎ
+:PROPERTIES:
+:CONCEPT: uuid-aa674b65-b2a1-43c8-a89a-17b1b0789b7e / ARTS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 9
+:END:
+雅@yǎ	[[tls:concept:ARTS::#uuid-aa674b65-b2a1-43c8-a89a-17b1b0789b7e][ARTS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / educated behaviour, civilised behaviour informed by cultivation of the arts
+** 一天下	and to unify the world
+:PROPERTIES:
+:SRC: XUN 9:17:12, Beida p.130; Knoblock 2:107
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:20a91:1::一天 / 荀子
+:CHARPOS: 1
+:END:
+*** 一@yī
+:PROPERTIES:
+:CONCEPT: uuid-1b2566ba-a361-4482-8fda-43d41e8ff058 / UNITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+一@yī	[[tls:concept:UNITE::#uuid-1b2566ba-a361-4482-8fda-43d41e8ff058][UNITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / (cause to become a unit >) to unite (e.g. the empire); unify (people's outlooks), cause to (continue to be) unified
+** 制與在我	these things are determined by the ruler himself
+:PROPERTIES:
+:SRC: XUN 9:18:2, Beida p.132; Knoblock 2:108
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:21a15:1::制與 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-355e9dd7-d4e3-49d3-a5dd-ae688a905426 / ONESELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 4
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-355e9dd7-d4e3-49d3-a5dd-ae688a905426][ONESELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / oneself
+** 權者重之	[B]who acts repeatedly as the balancing power of the world, [...as regards leverage makes it powerful
+:PROPERTIES:
+:SRC: XUN 9:18:7, Beida p.133; Knoblock 2:109
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:21a48:1::權者 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 2
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 兵者勁之	whose armies are made strong, [as regards armed forces makes them strong
+:PROPERTIES:
+:SRC: XUN 9:18:7, Beida p.133; Knoblock 2:109
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:21a49:50::兵者 / 荀子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 51
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 名聲者美之	and whose fame and reputation are made fine. [as regards reputation makes it admirable??? CH]
+:PROPERTIES:
+:SRC: XUN 9:18:7, Beida p.133; Knoblock 2:109
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:21a50:50::名聲 / 荀子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 52
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 夫堯舜者一天下也	[A]Even Yao or Shun in unifying the world [Even a Yao or Shun...CH]
+:PROPERTIES:
+:SRC: XUN 9:18:7, Beida p.133; Knoblock 2:109
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:21a51:50::夫堯 / 荀子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 53
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 其民之親我也歡若父母	But in that event his own people would have affection for me as though I were their own parent
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:22a20:1::其民 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-355e9dd7-d4e3-49d3-a5dd-ae688a905426 / ONESELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 5
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-355e9dd7-d4e3-49d3-a5dd-ae688a905426][ONESELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / oneself
+** 好我芳若芝蘭	and would be as fond of me as they are of the fragances of the iris and orchid.
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:22a21:50::好我 / 荀子
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-355e9dd7-d4e3-49d3-a5dd-ae688a905426 / ONESELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 51
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-355e9dd7-d4e3-49d3-a5dd-ae688a905426][ONESELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / oneself
+** 兵革器械者	'While the arms, weapons, and implements of warfare of my enemy
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a25:1::兵革 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 5
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 我今將脩飾之	mine lie in the arsenals, kept in repair and good order.
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a27:1::我今 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4446a367-3b54-4509-a637-3c1e385b1327 / ONESELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4446a367-3b54-4509-a637-3c1e385b1327][ONESELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / oneself
+** 貨財粟米者	While the valuables and food supplies of my enemy
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a30:1::貨財 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 5
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 我今將畜積并聚之於倉廩	mine are hoarded up, accumulated, and stored in the granaries.
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a32:1::我今 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4446a367-3b54-4509-a637-3c1e385b1327 / ONESELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4446a367-3b54-4509-a637-3c1e385b1327][ONESELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / oneself
+** 我今將來致之	I encourage such men to come to me.
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a35:1::我今 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4446a367-3b54-4509-a637-3c1e385b1327 / ONESELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4446a367-3b54-4509-a637-3c1e385b1327][ONESELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / oneself
+** 我日積完	for me it is greater preservation in good order;
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a40:1::我日 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4446a367-3b54-4509-a637-3c1e385b1327 / ONESELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4446a367-3b54-4509-a637-3c1e385b1327][ONESELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / oneself
+** 我日積富	for me it is greater wealth;
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a42:1::我日 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4446a367-3b54-4509-a637-3c1e385b1327 / ONESELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4446a367-3b54-4509-a637-3c1e385b1327][ONESELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / oneself
+** 我日積佚	for me each day brings greater ease.
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a44:1::我日 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4446a367-3b54-4509-a637-3c1e385b1327 / ONESELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4446a367-3b54-4509-a637-3c1e385b1327][ONESELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / oneself
+** 我今將頓頓焉日日相親愛也	for me it is increasingly pervaded by liberality and is marked by closeness and affection.
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a47:1::我今 / 荀子
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-4446a367-3b54-4509-a637-3c1e385b1327 / ONESELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:ONESELF::#uuid-4446a367-3b54-4509-a637-3c1e385b1327][ONESELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] / oneself
+** 如是者危殆	then such a man can expect to be in grave danger and peril.
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a59:1::如是 / 荀子
+:CHARPOS: 1
+:END:
+*** 危殆@wēidài
+:PROPERTIES:
+:CONCEPT: uuid-ea673e1d-ccef-4bad-873f-257f66128acd / DANGER
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 4
+:END:
+危殆@wēidài	[[tls:concept:DANGER::#uuid-ea673e1d-ccef-4bad-873f-257f66128acd][DANGER]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / be in (grave?) danger, be highly dangerous
+** 進退貴賤則舉幽險詐故	if in questions of promotions and honors, he raises up those who are given to covert and treacherous schemes and plots;
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a62:1::進退 / 荀子
+:CHARPOS: 1
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-c7b28091-1a2f-448a-a12a-a003acc18bd1 / CRAFTY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 10
+:END:
+故@gù	[[tls:concept:CRAFTY::#uuid-c7b28091-1a2f-448a-a12a-a003acc18bd1][CRAFTY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / craftiness
+** 人之所以接下之人百姓者	if in dealing with his subordinates and the Hundred Clans,
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a62:50::（¶ / 荀子
+:CHARPOS: 50
+:END:
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-30a51e86-68e3-42a1-982a-5541407fc369 / PEOPLE
+:SYN-FUNC: uuid-6a061076-9f61-43ed-9b5e-2cfcedc1de01
+:CHARPOS: 58
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-30a51e86-68e3-42a1-982a-5541407fc369][PEOPLE]]	N [[tls:syn-func::#uuid-6a061076-9f61-43ed-9b5e-2cfcedc1de01][NPpostVt]] / the people (as grammatical object)
+** ──此五等者	From among these five grades of rulers
+:PROPERTIES:
+:SRC: XUN 9:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_009:23a69:1::── / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3
+:CHARPOS: 6
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3][npro:post.Npost-V{NUM}]] / after number phrase　三家者， 之數物者

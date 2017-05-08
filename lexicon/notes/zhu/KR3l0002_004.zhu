@@ -1,0 +1,323 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 世說新語 KR3l0002_004
+#+DATE: 2017-02-08T16:43:36+0900
+#+PROPERTY: COMMIT 9fe24b57c4cf883b37164098951b1fa5ecfbf640
+** 玄聽之良久	Xuán listened to him for a long time,
+:PROPERTIES:
+:SRC: SSXY 4.2.1; MATHER p. 98/99
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:2a14:5::玄聽 / 世說新語
+:CHARPOS: 5
+:END:
+*** 良久@liángjiǔ
+:PROPERTIES:
+:CONCEPT: uuid-c99a8a33-6678-4652-957a-c55e4d704d10 / ENDURING
+:SYN-FUNC: uuid-acb255e7-0c69-4d51-b304-e3f37300d931
+:CHARPOS: 8
+:END:
+良久@liángjiǔ	[[tls:concept:ENDURING::#uuid-c99a8a33-6678-4652-957a-c55e4d704d10][ENDURING]]	V [[tls:syn-func::#uuid-acb255e7-0c69-4d51-b304-e3f37300d931][VPi0postadV]] / for a long time [or: VPi.postS, but this seems artificial, though logically possible.]
+** 通彼我之懷	Since he was familiar with the inner thoughts of both of them,
+:PROPERTIES:
+:SRC: SSXY 4.9.1.2.2; MATHER p. 101
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:9a31:1::通彼 / 世說新語
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-64eb78aa-d41e-4204-baef-b7ad027ec6ab / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-aeccff3b-b5dc-4421-b9ca-dbdd57a5fed6
+:CHARPOS: 3
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-64eb78aa-d41e-4204-baef-b7ad027ec6ab][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-aeccff3b-b5dc-4421-b9ca-dbdd57a5fed6][marked]]} / my
+** 五曰喜夢	5. dreams when we are happy;
+:PROPERTIES:
+:SRC: SSXY 4.14.2; MATHER p. 104
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:14a20:1::五曰 / 世說新語
+:CHARPOS: 1
+:END:
+*** 喜@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-893141ab-f6bf-4259-8d0c-146c84b7d63d / HAPPY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+喜@xǐ	[[tls:concept:HAPPY::#uuid-893141ab-f6bf-4259-8d0c-146c84b7d63d][HAPPY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / expressive of happy joy
+** 謂喜說而夢也	(i.e. dreams when one is very happy.CH)
+:PROPERTIES:
+:SRC: SSXY 4.14.2; MATHER p. 104
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:14a21:50::謂喜 / 世說新語
+:CHARPOS: 50
+:END:
+*** 喜說@xǐyuè
+:PROPERTIES:
+:CONCEPT: uuid-d4a4bf49-76c5-478f-8c8e-38bf5967f55c / HAPPY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 51
+:END:
+喜說@xǐyuè	[[tls:concept:HAPPY::#uuid-d4a4bf49-76c5-478f-8c8e-38bf5967f55c][HAPPY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be happy
+** 疾不可為也	"Your illness is incurable.
+:PROPERTIES:
+:SRC: SSXY 4.14. 3.1.2; MATHER p. 104
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:14a50:1::『疾 / 世說新語
+:CHARPOS: 1
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-ac7bffc4-fb65-46dd-ab47-7cdda6458a80 / CURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 4
+:END:
+為@wéi	[[tls:concept:CURE::#uuid-ac7bffc4-fb65-46dd-ab47-7cdda6458a80][CURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be cured 不可為 "nothing can be done about it"
+** 乃自注秋水至樂二篇	while he himself commented on the two chapters 'Autumn Waters' and 'Supreme Joy',
+:PROPERTIES:
+:SRC: SSXY 4.17.3.1.1; MATHER p. 105/106
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:17a61:1::乃自 / 世說新語
+:CHARPOS: 1
+:END:
+*** 至樂@zhìlè
+:PROPERTIES:
+:CONCEPT: uuid-5cd4abb0-3ea6-49a8-900f-96dec56a79eb / HAPPY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 6
+:END:
+至樂@zhìlè	[[tls:concept:HAPPY::#uuid-5cd4abb0-3ea6-49a8-900f-96dec56a79eb][HAPPY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / perfect happiness
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-7e4bda96-08a9-4597-ac0b-77e3c6c5ad73 / DELIGHT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 7
+:END:
+樂@lè	[[tls:concept:DELIGHT::#uuid-7e4bda96-08a9-4597-ac0b-77e3c6c5ad73][DELIGHT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / (degree noun:) (level of) delight/joy
+** 或聞哭而懽	some, on hearing the lamentation, would rejoice;
+:PROPERTIES:
+:SRC: SSXY 4.21.1.1; MATHER p. 108/109
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:21a07:1::或聞 / 世說新語
+:CHARPOS: 1
+:END:
+*** 〓#歡@huān
+:PROPERTIES:
+:CONCEPT: uuid-a2395d29-f778-43cf-869b-446183c24967 / DELIGHT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 1
+:END:
+〓#歡@huān	[[tls:concept:DELIGHT::#uuid-a2395d29-f778-43cf-869b-446183c24967][DELIGHT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be delighted
+** 仁祖亦不寂寞	Not only was Xiè Shàng 謝 尚 far from bored;
+:PROPERTIES:
+:SRC: SSXY 4.22.1.3; MATHER p. 109/110
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:nil39:1::仁祖 / 世說新語
+:CHARPOS: 1
+:END:
+*** 寂寞@jìmò
+:PROPERTIES:
+:CONCEPT: uuid-827d5005-ac3a-4285-bc24-f8ed06f21cbe / LONELY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 5
+:END:
+寂寞@jìmò	[[tls:concept:LONELY::#uuid-827d5005-ac3a-4285-bc24-f8ed06f21cbe][LONELY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / feel lonely; feel desolate
+*** 寂寞@jìmò
+:PROPERTIES:
+:CONCEPT: uuid-30d75264-65ef-47db-b760-b7322a81320b / BOREDOM
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 5
+:END:
+寂寞@jìmò	[[tls:concept:BOREDOM::#uuid-30d75264-65ef-47db-b760-b7322a81320b][BOREDOM]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be bored
+** 佛經之行中國尚矣	The currency of Buddhist sutras in China is of high antiquity;
+:PROPERTIES:
+:SRC: SSXY 4.23.1; MATHER p. 110/111
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:23a01:7::佛經 / 世說新語
+:CHARPOS: 7
+:END:
+*** 尚@shàng
+:PROPERTIES:
+:CONCEPT: uuid-155649f4-a783-4478-a7cd-bc8d8cdb9f59 / PAST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 13
+:END:
+尚@shàng	[[tls:concept:PAST::#uuid-155649f4-a783-4478-a7cd-bc8d8cdb9f59][PAST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be long past
+** 嘗至劉尹所清言良久	once went to Liú Tán's 'X place, where the two engaged in pure conversation for a long time.
+:PROPERTIES:
+:SRC: SSXY 4.33.1; MATHER p. 116
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:33a01:1::嘗至 / 世說新語
+:CHARPOS: 1
+:END:
+*** 良久@liángjiǔ
+:PROPERTIES:
+:CONCEPT: uuid-c99a8a33-6678-4652-957a-c55e4d704d10 / ENDURING
+:SYN-FUNC: uuid-acb255e7-0c69-4d51-b304-e3f37300d931
+:CHARPOS: 8
+:END:
+良久@liángjiǔ	[[tls:concept:ENDURING::#uuid-c99a8a33-6678-4652-957a-c55e4d704d10][ENDURING]]	V [[tls:syn-func::#uuid-acb255e7-0c69-4d51-b304-e3f37300d931][VPi0postadV]] / for a long time [or: VPi.postS, but this seems artificial, though logically possible.]
+** 語言辭旨	Kāng's choice of words and his basic ideas
+:PROPERTIES:
+:SRC: SSXY 4.47.2; MATHER p. 122/123
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:47a09:1::語言 / 世說新語
+:CHARPOS: 1
+:END:
+*** 語言@yǔyán
+:PROPERTIES:
+:CONCEPT: uuid-d1b06a71-4299-49fa-9118-eb5523ebade8 / SPEAK
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+語言@yǔyán	[[tls:concept:SPEAK::#uuid-d1b06a71-4299-49fa-9118-eb5523ebade8][SPEAK]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / talk; overt talk; speech, use of languageBUDDH: lingusitic articulation
+** 見居此土	who manifested himself and lived on this earth
+:PROPERTIES:
+:SRC: SSXY 4.50.1.1; MATHER p. 124/125
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:50a10:1::見居 / 世說新語
+:CHARPOS: 1
+:END:
+*** 此土@cǐtǔ
+:PROPERTIES:
+:CONCEPT: uuid-09db5af8-86ce-46bc-bc67-582d5d94122b / INDIA
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 3
+:END:
+此土@cǐtǔ	[[tls:concept:INDIA::#uuid-09db5af8-86ce-46bc-bc67-582d5d94122b][INDIA]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / this land> India
+** 布政于邦國都鄙	he extends his administration throughout the cities and hamlets of the various states.
+:PROPERTIES:
+:SRC: SSXY 4.52.2.1; MATHER p. 125/126
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:52a20:1::布政 / 世說新語
+:CHARPOS: 1
+:END:
+*** 邦國@bāngguó
+:PROPERTIES:
+:CONCEPT: uuid-e98b70a5-5ccd-4ab8-8e58-8038b1ea7873 / NATION
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 4
+:END:
+邦國@bāngguó	[[tls:concept:NATION::#uuid-e98b70a5-5ccd-4ab8-8e58-8038b1ea7873][NATION]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the states of the empire
+** 足畼彼我之懷	adequate to express the sentiments of both sides,
+:PROPERTIES:
+:SRC: SSXY 4.53.2; MATHER p. 126
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:53a15:1::足畼 / 世說新語
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-64eb78aa-d41e-4204-baef-b7ad027ec6ab / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-aeccff3b-b5dc-4421-b9ca-dbdd57a5fed6
+:CHARPOS: 4
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-64eb78aa-d41e-4204-baef-b7ad027ec6ab][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-aeccff3b-b5dc-4421-b9ca-dbdd57a5fed6][marked]]} / my
+** 稱美良久	praising Liú for a long time.
+:PROPERTIES:
+:SRC: SSXY 4.56.3; MATHER p. 128/129
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:56a45:1::稱美 / 世說新語
+:CHARPOS: 1
+:END:
+*** 良久@liángjiǔ
+:PROPERTIES:
+:CONCEPT: uuid-c99a8a33-6678-4652-957a-c55e4d704d10 / ENDURING
+:SYN-FUNC: uuid-acb255e7-0c69-4d51-b304-e3f37300d931
+:CHARPOS: 3
+:END:
+良久@liángjiǔ	[[tls:concept:ENDURING::#uuid-c99a8a33-6678-4652-957a-c55e4d704d10][ENDURING]]	V [[tls:syn-func::#uuid-acb255e7-0c69-4d51-b304-e3f37300d931][VPi0postadV]] / for a long time [or: VPi.postS, but this seems artificial, though logically possible.]
+** 歎為新拔者久之	and he praised the novelty and uniqueness of Yáng's interpretation for a long while.
+:PROPERTIES:
+:SRC: SSXY 4.62.2; MATHER p. 131/132
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:62a39:1::歎為 / 世說新語
+:CHARPOS: 1
+:END:
+*** 久之@jiǔzhī
+:PROPERTIES:
+:CONCEPT: uuid-cd3485ff-1bc1-4de1-92ef-4430850a190b / ENDURING
+:SYN-FUNC: uuid-3ecb4c66-363b-49cb-8f25-ef6089e00018
+:CHARPOS: 6
+:END:
+久之@jiǔzhī	[[tls:concept:ENDURING::#uuid-cd3485ff-1bc1-4de1-92ef-4430850a190b][ENDURING]]	 [[tls:syn-func::#uuid-3ecb4c66-363b-49cb-8f25-ef6089e00018][VP0postadV]] / for a long time
+** 金馬電發於高岡	"Golden horses flash like lightning on the high ridge;
+:PROPERTIES:
+:SRC: SSXY 4.68.1; MATHER p. 135/136
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:68a24:1::『金 / 世說新語
+:CHARPOS: 1
+:END:
+*** 岡@gāng / 岡@gāng
+:PROPERTIES:
+:CONCEPT: uuid-a8bbd557-4ddf-47c2-99f9-e30ccf1d3eb3 / MOUNTAIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 7
+:END:
+岡@gāng / 岡@gāng	[[tls:concept:MOUNTAIN::#uuid-a8bbd557-4ddf-47c2-99f9-e30ccf1d3eb3][MOUNTAIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / level mountain ridge ERYA: 山脊岡 The spine of a hill
+** 其樂陶陶	His happiness lighthearted and carefree.
+:PROPERTIES:
+:SRC: SSXY 4.69.1.2.4; MATHER p. 136-138
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:69a52:1::其樂 / 世說新語
+:CHARPOS: 1
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-d5d5549b-d891-487a-9e10-ae007c269209 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 2
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-d5d5549b-d891-487a-9e10-ae007c269209][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / deep communicative happiness 熱鬧的快樂
+** 一生不曾見此人	"Never in my whole life have I seen such a man!"
+:PROPERTIES:
+:SRC: SSXY 4.80.2; MATHER p. 142-143
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:80a12:1::「一 / 世說新語
+:CHARPOS: 1
+:END:
+*** 此人@cǐrén
+:PROPERTIES:
+:CONCEPT: uuid-247162fa-467f-474b-946b-a475816ff384 / HUMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-c161d090-7e79-41e8-9615-93208fabbb99
+:CHARPOS: 6
+:END:
+此人@cǐrén	[[tls:concept:HUMAN::#uuid-247162fa-467f-474b-946b-a475816ff384][HUMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-c161d090-7e79-41e8-9615-93208fabbb99][indefinite]]} / a person of this sort
+** 患於不才	I'm distressed at their lack of ability;
+:PROPERTIES:
+:SRC: SSXY 4.84.1.2; MATHER p. 144
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:84a13:1::患於 / 世說新語
+:CHARPOS: 1
+:END:
+*** 不才@bùcái
+:PROPERTIES:
+:CONCEPT: uuid-a8ca7a5f-a831-4e6a-afea-ce50c113fb7b / INCOMPETENT
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 3
+:END:
+不才@bùcái	[[tls:concept:INCOMPETENT::#uuid-a8ca7a5f-a831-4e6a-afea-ce50c113fb7b][INCOMPETENT]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / incompetence
+** 及至建安	During the Jiàn'ān era (196--219),
+:PROPERTIES:
+:SRC: SSXY 4.85.1.1.2; MATHER p. 144-145
+:DATE: 4100	Middle Chinese
+:LOCATION: KR3l0002_004:85a11:1::及至 / 世說新語
+:CHARPOS: 1
+:END:
+*** 及至@jízhì
+:PROPERTIES:
+:CONCEPT: uuid-c9bcbb77-0b9b-4731-802e-2dc4313d6d7a / TOPIC MARKER
+:SYN-FUNC: uuid-082ded84-1906-4ce3-bfea-29e9eac6cb56
+:SEM-FEAT: uuid-10330c92-8b55-4a7c-9d43-d9e37d768390
+:CHARPOS: 1
+:END:
+及至@jízhì	[[tls:concept:TOPIC MARKER::#uuid-c9bcbb77-0b9b-4731-802e-2dc4313d6d7a][TOPIC MARKER]]	 [[tls:syn-func::#uuid-082ded84-1906-4ce3-bfea-29e9eac6cb56][VPt0oN.adS]] {[[tls:sem-feat::#uuid-10330c92-8b55-4a7c-9d43-d9e37d768390][topicaliser]]} / when it comes to the topic N

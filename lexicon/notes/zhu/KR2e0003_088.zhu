@@ -1,0 +1,235 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_088
+#+DATE: 2017-02-08T16:41:18+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 請令廢之	'Allow me to get rid of them. [For 令 one should probably read 今CH]
+:PROPERTIES:
+:SRC: ZGC 5.14.1; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 202 The dogs and the bone
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:1a06:1::請令 / 戰國策
+:CHARPOS: 1
+:END:
+*** 廢@fèi
+:PROPERTIES:
+:CONCEPT: uuid-1b274bb6-1ddd-467e-9d50-b88e96534f18 / REMOVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+廢@fèi	[[tls:concept:REMOVE::#uuid-1b274bb6-1ddd-467e-9d50-b88e96534f18][REMOVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / remove, get rid of
+** 秦於天下之士非有怨也	Ch'in has no quarrel with the officers of the empire.
+:PROPERTIES:
+:SRC: ZGC 5.14.1; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 202 The dogs and the bone
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:1a07:50::秦於 / 戰國策
+:CHARPOS: 50
+:END:
+*** 非@fēi
+:PROPERTIES:
+:CONCEPT: uuid-ae0d46ad-edcf-458e-a421-9e2fadc28ca0 / NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:SEM-FEAT: uuid-50250116-2439-44de-bf79-9cc41324fa85
+:CHARPOS: 56
+:END:
+非@fēi	[[tls:concept:NOT::#uuid-ae0d46ad-edcf-458e-a421-9e2fadc28ca0][NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] {[[tls:sem-feat::#uuid-50250116-2439-44de-bf79-9cc41324fa85][negative]]} / not at all; by no means; the fact is that not (perhaps this should be)
+** 以己欲富貴耳	simply because each seeks wealth and fame for himself.
+:PROPERTIES:
+:SRC: ZGC 5.14.1; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 202 The dogs and the bone
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:1a09:1::以己 / 戰國策
+:CHARPOS: 1
+:END:
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-6f3d5aea-0e0e-4bfd-a327-a299f8fbbd12 / OBJECT MARKER
+:SYN-FUNC: uuid-25270f92-78eb-4334-a1b2-61ee030801df
+:CHARPOS: 1
+:END:
+以@yǐ	[[tls:concept:OBJECT MARKER::#uuid-6f3d5aea-0e0e-4bfd-a327-a299f8fbbd12][OBJECT MARKER]]	V [[tls:syn-func::#uuid-25270f92-78eb-4334-a1b2-61ee030801df][vtoN.adVt]] / object marker: 把(這個東西) also: 以。。。而。。。
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-0cb8c40e-61d8-478b-82b2-42299ff0d141 / SELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 2
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-0cb8c40e-61d8-478b-82b2-42299ff0d141][SELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / (often with coverbs:) non contrastive "himself, herself"
+*** 富貴@fùguì
+:PROPERTIES:
+:CONCEPT: uuid-bb65e569-4587-4ec8-b2ae-fa1392f15146 / NOBLE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 4
+:END:
+富貴@fùguì	[[tls:concept:NOBLE::#uuid-bb65e569-4587-4ec8-b2ae-fa1392f15146][NOBLE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / make rich and noble
+** 王見大王之狗	Look at your own hounds - [王臣CH]
+:PROPERTIES:
+:SRC: ZGC 5.14.2; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 202
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:1a10:50::王見 / 戰國策
+:CHARPOS: 50
+:END:
+*** 狗@gǒu
+:PROPERTIES:
+:CONCEPT: uuid-ac099c3b-f57a-4d11-b8ff-6d05ed7d701d / DOG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 55
+:END:
+狗@gǒu	[[tls:concept:DOG::#uuid-ac099c3b-f57a-4d11-b8ff-6d05ed7d701d][DOG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / originally: puppy, also the young of bears and tigers; mostely generally: dog
+** 臥者臥	some are sleeping,
+:PROPERTIES:
+:SRC: ZGC 5.14.2; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 202
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:1a11:50::臥者 / 戰國策
+:CHARPOS: 50
+:END:
+*** 臥@wò / @
+:PROPERTIES:
+:CONCEPT: uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1 / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-516a7b20-3abd-49d2-a05c-65dace0c5337
+:CHARPOS: 50
+:END:
+臥@wò / @	[[tls:concept:SLEEP::#uuid-6b0753ce-a5ec-4e51-93ef-9503e30367c1][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-516a7b20-3abd-49d2-a05c-65dace0c5337][continuative]]} / sleep; find rest; be in bed; also of dogs: lie down to sleep
+** 毋相與鬭者	In any case, they are not fighting.
+:PROPERTIES:
+:SRC: ZGC 5.14.2; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 202
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:1a15:1::毋相 / 戰國策
+:CHARPOS: 1
+:END:
+*** 鬥@dòu
+:PROPERTIES:
+:CONCEPT: uuid-a99ef0eb-c86a-4d34-a2ae-6d09ab42bb62 / FIGHT
+:SYN-FUNC: uuid-83cd4c17-4bbd-4297-b755-f73ad927670d
+:CONCEPT: uuid-11503ffe-c6e8-4d02-a594-bbe3542c9094 / FIGHT
+:SYN-FUNC: uuid-a4ac7ae5-ac55-45d6-b390-3c41242eb09e
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+鬥@dòu	[[tls:concept:FIGHT::#uuid-a99ef0eb-c86a-4d34-a2ae-6d09ab42bb62][FIGHT]]	V [[tls:syn-func::#uuid-83cd4c17-4bbd-4297-b755-f73ad927670d][vt1.postvt2+N]] / fight against N, struggle with N
+鬥@dòu	[[tls:concept:FIGHT::#uuid-11503ffe-c6e8-4d02-a594-bbe3542c9094][FIGHT]]	V [[tls:syn-func::#uuid-a4ac7ae5-ac55-45d6-b390-3c41242eb09e][vi2]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wrestle, engage in fighting
+** 投之一骨	But throw a bone to them
+:PROPERTIES:
+:SRC: ZGC 5.14.2; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 202
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:1a16:50::投之 / 戰國策
+:CHARPOS: 50
+:END:
+*** 投@tóu
+:PROPERTIES:
+:CONCEPT: uuid-a67d03b7-c1f1-4fed-8070-2621b7506a2c / THROW
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 50
+:END:
+投@tóu	[[tls:concept:THROW::#uuid-a67d03b7-c1f1-4fed-8070-2621b7506a2c][THROW]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / cast the object N1 in the the place N2; throw N1 before N2
+*** 骨@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-d5324e91-01e6-4876-a17a-5cecd05b7e3b / BONE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+骨@gǔ	[[tls:concept:BONE::#uuid-d5324e91-01e6-4876-a17a-5cecd05b7e3b][BONE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / bone, typically of a dead human or animal; but also, occasionally in a living creature
+** 輕起相牙者	and they will be on their feet in an instant, snapping at each other.
+:PROPERTIES:
+:SRC: ZGC 5.14.2; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 202
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:1a17:50::輕起 / 戰國策
+:CHARPOS: 50
+:END:
+*** 牙@yá
+:PROPERTIES:
+:CONCEPT: uuid-81cf9e9d-6e34-4721-987a-28e7decc9fa5 / BITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+牙@yá	[[tls:concept:BITE::#uuid-81cf9e9d-6e34-4721-987a-28e7decc9fa5][BITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / bite 相牙 "bite each other"
+** 高會相與飲	and give a great banquet.
+:PROPERTIES:
+:SRC: ZGC 5.14.3; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:1a23:1::高會 / 戰國策
+:CHARPOS: 1
+:END:
+*** 飲@yǐn
+:PROPERTIES:
+:CONCEPT: uuid-b6d7b669-5b99-4941-9c3b-93c911392d66 / FEAST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+飲@yǐn	[[tls:concept:FEAST::#uuid-b6d7b669-5b99-4941-9c3b-93c911392d66][FEAST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / drink wine in social company as a formal arrangement, attend a wine-drinking occasion
+** 與之昆弟矣	will be as close as brothers to Ch'in.'
+:PROPERTIES:
+:SRC: ZGC 5.14.3; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:1a28:1::與之 / 戰國策
+:CHARPOS: 1
+:END:
+*** 昆弟@kūndì
+:PROPERTIES:
+:CONCEPT: uuid-c1d61797-bfe2-4873-acea-590307e3d397 / BROTHER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 3
+:END:
+昆弟@kūndì	[[tls:concept:BROTHER::#uuid-c1d61797-bfe2-4873-acea-590307e3d397][BROTHER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / "brother"
+** 今令人復載五十金隨公	We are sending another five thousand in gold after you.'
+:PROPERTIES:
+:SRC: ZGC 5.14.4; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:2a04:1::今令 / 戰國策
+:CHARPOS: 1
+:END:
+*** 〓#@
+:PROPERTIES:
+:CONCEPT: uuid-80e13b19-8395-477a-8367-a827fcafa4f6 / FOLLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+〓#@	[[tls:concept:FOLLOW::#uuid-80e13b19-8395-477a-8367-a827fcafa4f6][FOLLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / ensue; follow behind (rather than go in front); trail behind and follow
+*** 載@zài
+:PROPERTIES:
+:CONCEPT: uuid-e9870c73-54e5-412d-9466-49cc0a2ebe59 / TRANSPORT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+載@zài	[[tls:concept:TRANSPORT::#uuid-e9870c73-54e5-412d-9466-49cc0a2ebe59][TRANSPORT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / load into a vehicle; load up; transport, bring along; take along in a vehicle
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-fb0f5f81-b4e4-4a5d-9545-1a23d00f0e64 / YOU
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:CHARPOS: 10
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-fb0f5f81-b4e4-4a5d-9545-1a23d00f0e64][YOU]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] / you, sir
+** 行至武安	went to Wu-an
+:PROPERTIES:
+:SRC: ZGC 5.14.4; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:2a06:1::行至 / 戰國策
+:CHARPOS: 1
+:END:
+*** 行至@xíngzhì
+:PROPERTIES:
+:CONCEPT: uuid-bd495ddd-e886-470a-8f34-e1acc5d43b58 / GO TO
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 1
+:END:
+行至@xíngzhì	[[tls:concept:GO TO::#uuid-bd495ddd-e886-470a-8f34-e1acc5d43b58][GO TO]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / travel so as to arrive
+** 大相與鬭矣	were fighting one another.
+:PROPERTIES:
+:SRC: ZGC 5.14.4; tr. Crump 1979 no. 101, p 113, ed. Shanghaiguji p. 203
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_088:2a08:1::大相 / 戰國策
+:CHARPOS: 1
+:END:
+*** 大@dà
+:PROPERTIES:
+:CONCEPT: uuid-a1d643fb-f949-4d4d-a425-0a3f21277189 / INTENSELY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CONCEPT: uuid-a99ef0eb-c86a-4d34-a2ae-6d09ab42bb62 / FIGHT
+:SYN-FUNC: uuid-83cd4c17-4bbd-4297-b755-f73ad927670d
+:CHARPOS: 1
+:END:
+大@dà	[[tls:concept:INTENSELY::#uuid-a1d643fb-f949-4d4d-a425-0a3f21277189][INTENSELY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in a big way; very much, mightily, highly, greatly; on a large scale
+鬥@dòu	[[tls:concept:FIGHT::#uuid-a99ef0eb-c86a-4d34-a2ae-6d09ab42bb62][FIGHT]]	V [[tls:syn-func::#uuid-83cd4c17-4bbd-4297-b755-f73ad927670d][vt1.postvt2+N]] / fight against N, struggle with N

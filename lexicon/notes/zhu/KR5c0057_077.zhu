@@ -1,0 +1,31 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_077
+#+DATE: 2017-02-08T16:43:48+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 天之道其猶張弓與	Heaven's Way, is not like bending a bow,
+:PROPERTIES:
+:SRC: LAO 77.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_077:1a01:50::天之 / 老子
+:CHARPOS: 50
+:END:
+*** 張@zhāng
+:PROPERTIES:
+:CONCEPT: uuid-8be4c8e4-fb7b-452d-9989-ed63f81f859e / BEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 55
+:END:
+張@zhāng	[[tls:concept:BEND::#uuid-8be4c8e4-fb7b-452d-9989-ed63f81f859e][BEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / bend (a bow); string (a bow)
+** 孰能有餘	Who is it that can have a surplus and give to the world,
+:PROPERTIES:
+:SRC: LAO 77.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_077:1a10:1::孰能 / 老子
+:CHARPOS: 1
+:END:
+*** 孰@shú
+:PROPERTIES:
+:CONCEPT: uuid-b185e265-b715-4f71-b495-340871a56124 / WHO
+:SYN-FUNC: uuid-5eae66ec-bba2-4aef-9f08-96a387837993
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 1
+:END:
+孰@shú	[[tls:concept:WHO::#uuid-b185e265-b715-4f71-b495-340871a56124][WHO]]	N [[tls:syn-func::#uuid-5eae66ec-bba2-4aef-9f08-96a387837993][npro{SUBJ}+V{PRED}]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / who? (non-contrastive, i. e. not: "which of these listed possible subjects") but typically: what kind of person

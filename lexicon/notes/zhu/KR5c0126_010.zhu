@@ -1,0 +1,834 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 莊子 KR5c0126_010
+#+DATE: 2017-02-08T16:43:55+0900
+#+PROPERTY: COMMIT 8727f50dad81dc01cae1cea0a0b0cd5bea1ad693
+** 將為胠篋探囊發匱之盜而為守備	IF ONE Is To GUARD and take precautions against thieves who rifle trunks, ransack bags, and break open boxes,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.1 Guo Qingfan 342; Wang Shumin 345; Fang Yong 258; Chen Guying 252
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:1a01:50::將為 / 莊子
+:CHARPOS: 50
+:END:
+*** 胠@qū
+:PROPERTIES:
+:CONCEPT: uuid-2b0ed5a6-25e8-4382-a6d0-7164e5ead43a / OPEN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+胠@qū	[[tls:concept:OPEN::#uuid-2b0ed5a6-25e8-4382-a6d0-7164e5ead43a][OPEN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / open up; break open
+*** 篋@qiè
+:PROPERTIES:
+:CONCEPT: uuid-99742d2b-c8a9-4143-9b67-3326388afee2 / BOX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+篋@qiè	[[tls:concept:BOX::#uuid-99742d2b-c8a9-4143-9b67-3326388afee2][BOX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / ZZ: small box made of bamboo; YTL: small box (e.g.for valuables, or for books)
+*** 囊@náng
+:PROPERTIES:
+:CONCEPT: uuid-6e1e3722-efda-4a4f-be67-a1b3e4fa279c / BAG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 55
+:END:
+囊@náng	[[tls:concept:BAG::#uuid-6e1e3722-efda-4a4f-be67-a1b3e4fa279c][BAG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / SHI: sack
+*** 匱@guì
+:PROPERTIES:
+:CONCEPT: uuid-344e28e6-5737-4842-b0a3-2b2e54c1b576 / BOX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 57
+:END:
+匱@guì	[[tls:concept:BOX::#uuid-344e28e6-5737-4842-b0a3-2b2e54c1b576][BOX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / large wooden box with doors, a mini cupboard
+** 則必攝緘縢	then he must bind with cords and ropes
+:PROPERTIES:
+:SRC: ZHUANG 10.1.1 Guo Qingfan 342; Wang Shumin 345; Fang Yong 258; Chen Guying 252
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:1a02:50::則必 / 莊子
+:CHARPOS: 50
+:END:
+*** 緘@jiān
+:PROPERTIES:
+:CONCEPT: uuid-cabd5897-71d8-400d-ab0e-f848fd268d57 / ROPE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+緘@jiān	[[tls:concept:ROPE::#uuid-cabd5897-71d8-400d-ab0e-f848fd268d57][ROPE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / rope (for tying up a box)
+*** 縢@téng
+:PROPERTIES:
+:CONCEPT: uuid-2fc8b58e-8965-4c7b-81c1-a413b0a22fd9 / ROPE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+縢@téng	[[tls:concept:ROPE::#uuid-2fc8b58e-8965-4c7b-81c1-a413b0a22fd9][ROPE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / cord
+** 然而巨盜至	But if a great thief comes along,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.2 Guo Qingfan 342; Wang Shumin 345; Fang Yong 258; Chen Guying 252
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:1a05:1::然而 / 莊子
+:CHARPOS: 1
+:END:
+*** 盜@dào
+:PROPERTIES:
+:CONCEPT: uuid-5ab1139e-12c4-46f7-96ba-9a03dae8430f / THIEF
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 4
+:END:
+盜@dào	[[tls:concept:THIEF::#uuid-5ab1139e-12c4-46f7-96ba-9a03dae8430f][THIEF]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / common thief, common burglar; criminals
+** 則負匱揭篋	he will shoulder the boxes, hoist up the trunks,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.2 Guo Qingfan 342; Wang Shumin 345; Fang Yong 258; Chen Guying 252
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:1a06:50::則負 / 莊子
+:CHARPOS: 50
+:END:
+*** 負@fù
+:PROPERTIES:
+:CONCEPT: uuid-b565604b-44c7-4396-9e60-9186864ca3b6 / CARRY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+負@fù	[[tls:concept:CARRY::#uuid-b565604b-44c7-4396-9e60-9186864ca3b6][CARRY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / carry on one's back; transferred: take upon oneself (official duties etc)
+*** 匱@guì
+:PROPERTIES:
+:CONCEPT: uuid-344e28e6-5737-4842-b0a3-2b2e54c1b576 / BOX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+匱@guì	[[tls:concept:BOX::#uuid-344e28e6-5737-4842-b0a3-2b2e54c1b576][BOX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / large wooden box with doors, a mini cupboard
+*** 揭@jiē
+:PROPERTIES:
+:CONCEPT: uuid-2263f5d8-39d6-4c81-a9e5-f2392a15c453 / CARRY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+揭@jiē	[[tls:concept:CARRY::#uuid-2263f5d8-39d6-4c81-a9e5-f2392a15c453][CARRY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / lift up and carry
+*** 篋@qiè
+:PROPERTIES:
+:CONCEPT: uuid-99742d2b-c8a9-4143-9b67-3326388afee2 / BOX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+篋@qiè	[[tls:concept:BOX::#uuid-99742d2b-c8a9-4143-9b67-3326388afee2][BOX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / ZZ: small box made of bamboo; YTL: small box (e.g.for valuables, or for books)
+** 擔囊而趨	sling the bags over his back, and dash off,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.2 Guo Qingfan 342; Wang Shumin 345; Fang Yong 258; Chen Guying 252
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:1a06:50::擔囊 / 莊子
+:CHARPOS: 50
+:END:
+*** 擔@dàn
+:PROPERTIES:
+:CONCEPT: uuid-1eaa4d56-ecf6-42c8-beec-8c2a76368c64 / CARRY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+擔@dàn	[[tls:concept:CARRY::#uuid-1eaa4d56-ecf6-42c8-beec-8c2a76368c64][CARRY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / carry on a shoulder pole; carry
+*** 囊@náng
+:PROPERTIES:
+:CONCEPT: uuid-6e1e3722-efda-4a4f-be67-a1b3e4fa279c / BAG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+囊@náng	[[tls:concept:BAG::#uuid-6e1e3722-efda-4a4f-be67-a1b3e4fa279c][BAG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / SHI: sack
+** 唯恐緘縢扃鐍之不固也	only worrying that the cords and ropes, the locks and hasps are not fastened tightly enough.
+:PROPERTIES:
+:SRC: ZHUANG 10.1.2 Guo Qingfan 342; Wang Shumin 345; Fang Yong 258; Chen Guying 252
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:1a07:50::唯恐 / 莊子
+:CHARPOS: 50
+:END:
+*** 緘@jiān
+:PROPERTIES:
+:CONCEPT: uuid-cabd5897-71d8-400d-ab0e-f848fd268d57 / ROPE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+緘@jiān	[[tls:concept:ROPE::#uuid-cabd5897-71d8-400d-ab0e-f848fd268d57][ROPE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / rope (for tying up a box)
+*** 縢@téng
+:PROPERTIES:
+:CONCEPT: uuid-2fc8b58e-8965-4c7b-81c1-a413b0a22fd9 / ROPE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+縢@téng	[[tls:concept:ROPE::#uuid-2fc8b58e-8965-4c7b-81c1-a413b0a22fd9][ROPE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / cord
+** 所謂聖者	And what it calls a sage
+:PROPERTIES:
+:SRC: ZHUANG 10.1.3 Guo Qingfan 343; Wang Shumin 345; Fang Yong 260; Chen Guying 253
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:2a04:1::所謂 / 莊子
+:CHARPOS: 1
+:END:
+*** 聖者@shèngzhě
+:PROPERTIES:
+:CONCEPT: uuid-49cf3ef6-880e-4655-b0d9-531b72006c5f / WISE
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 3
+:END:
+聖者@shèngzhě	[[tls:concept:WISE::#uuid-49cf3ef6-880e-4655-b0d9-531b72006c5f][WISE]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be a sage
+** 曷嘗不法聖人哉	was there anything that did not accord with the laws of the sages?
+:PROPERTIES:
+:SRC: ZHUANG 10.1.4 Guo Qingfan 343; Wang Shumin 345; Fang Yong 260; Chen Guying 253
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:2a15:1::曷嘗 / 莊子
+:CHARPOS: 1
+:END:
+*** 法@fǎ
+:PROPERTIES:
+:CONCEPT: uuid-95019529-59d8-4d1c-a2c2-61db44bc3f3f / IMITATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+法@fǎ	[[tls:concept:IMITATE::#uuid-95019529-59d8-4d1c-a2c2-61db44bc3f3f][IMITATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / model oneself after; emulate, take as a model, follow as a method; (See also IMITATE)
+** 所盜者豈獨其國邪	And was it only the state he stole?
+:PROPERTIES:
+:SRC: ZHUANG 10.1.5 Guo Qingfan 343; Wang Shumin 345; Fang Yong 260; Chen Guying 253
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:2a17:1::所盜 / 莊子
+:CHARPOS: 1
+:END:
+*** 盜@dào
+:PROPERTIES:
+:CONCEPT: uuid-f8d7a395-e58f-4ca1-a62f-cb4b8f761308 / STEAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+盜@dào	[[tls:concept:STEAL::#uuid-f8d7a395-e58f-4ca1-a62f-cb4b8f761308][STEAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / steal
+** 故田成子有乎盜賊之名	Thus, although Viscount T'ien Ch'eng gained the name of thief and bandit,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.5 Guo Qingfan 343; Wang Shumin 345; Fang Yong 260; Chen Guying 253
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:2a19:1::故田 / 莊子
+:CHARPOS: 1
+:END:
+*** 盜賊@dàozéi
+:PROPERTIES:
+:CONCEPT: uuid-6b418c46-2624-4dd7-876c-ae496b7eb144 / VILLAIN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4a664f44-976b-4454-bd5d-8db23c156096
+:CHARPOS: 7
+:END:
+盜賊@dàozéi	[[tls:concept:VILLAIN::#uuid-6b418c46-2624-4dd7-876c-ae496b7eb144][VILLAIN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4a664f44-976b-4454-bd5d-8db23c156096][predicate]]} / a bandit 其人則盜賊也
+*** 盜@dào
+:PROPERTIES:
+:CONCEPT: uuid-f8d7a395-e58f-4ca1-a62f-cb4b8f761308 / STEAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+盜@dào	[[tls:concept:STEAL::#uuid-f8d7a395-e58f-4ca1-a62f-cb4b8f761308][STEAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / steal
+** 而身處堯舜之安	he was able to rest as peacefully as a Yao or a Shun.
+:PROPERTIES:
+:SRC: ZHUANG 10.1.5 Guo Qingfan 343; Wang Shumin 345; Fang Yong 260; Chen Guying 253
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:2a20:50::而身 / 莊子
+:CHARPOS: 50
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-45eb6e74-7da4-457f-a4b9-5b16e1e6dc1e / PERSONALLY
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:CHARPOS: 51
+:END:
+身@shēn	[[tls:concept:PERSONALLY::#uuid-45eb6e74-7da4-457f-a4b9-5b16e1e6dc1e][PERSONALLY]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] / in person, himself
+** 所謂至聖者	what the ordinary world calls a perfect sage
+:PROPERTIES:
+:SRC: ZHUANG 10.1.7 Guo Qingfan 346; Wang Shumin 349; Fang Yong 260; Chen Guying 255
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:3a04:1::所謂 / 莊子
+:CHARPOS: 1
+:END:
+*** 聖者@shèngzhě
+:PROPERTIES:
+:CONCEPT: uuid-49cf3ef6-880e-4655-b0d9-531b72006c5f / WISE
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 4
+:END:
+聖者@shèngzhě	[[tls:concept:WISE::#uuid-49cf3ef6-880e-4655-b0d9-531b72006c5f][WISE]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be a sage
+** 盜亦有道乎	"Does the thief too have a Way?"
+:PROPERTIES:
+:SRC: ZHUANG 10.1.8 Guo Qingfan 346; Wang Shumin 349; Fang Yong 260; Chen Guying 255
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:3a13:1::「盜 / 莊子
+:CHARPOS: 1
+:END:
+*** 亦@yì
+:PROPERTIES:
+:CONCEPT: uuid-5a987856-0e34-4a74-b154-c8704d413bc9 / ALSO
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 2
+:END:
+亦@yì	[[tls:concept:ALSO::#uuid-5a987856-0e34-4a74-b154-c8704d413bc9][ALSO]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / likewise, also (sometimes with omitted antecedent, as in 盜亦有道乎？)
+** 知可否	knowing whether the job can be pulled off or not
+:PROPERTIES:
+:SRC: ZHUANG 10.1.9 Guo Qingfan 346; Wang Shumin 349; Fang Yong 260; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:3a22:1::知可 / 莊子
+:CHARPOS: 1
+:END:
+*** 可否@kěfǒu
+:PROPERTIES:
+:CONCEPT: uuid-d7f2e117-e3c6-43e3-9e30-2d2bd6430703 / PROBABLE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 2
+:END:
+可否@kěfǒu	[[tls:concept:PROBABLE::#uuid-d7f2e117-e3c6-43e3-9e30-2d2bd6430703][PROBABLE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / possibility; feasibility
+** 五者不備而能成大盜者天下未之有也	No one in the world ever succeeded in becoming a great thief if he didn't have all five!"
+:PROPERTIES:
+:SRC: ZHUANG 10.1.9 Guo Qingfan 346; Wang Shumin 349; Fang Yong 260; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:3a26:1::五者 / 莊子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-b928f487-e573-422d-bb0c-0a5d651a2070 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-b94db793-02ce-4893-89a0-d595bc919083
+:CHARPOS: 2
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-b928f487-e573-422d-bb0c-0a5d651a2070][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-b94db793-02ce-4893-89a0-d595bc919083][npro.post-V{NUM}]] / 二者 "the two"
+** 則聖人之利天下也少	so in fact the sage brings little benefit to the world,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.10 Guo Qingfan 346; Wang Shumin 349; Fang Yong 260; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:3a31:1::則聖 / 莊子
+:CHARPOS: 1
+:END:
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-ef1b9e6f-3361-4478-b111-376d4ee758a2 / PROFIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 5
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-ef1b9e6f-3361-4478-b111-376d4ee758a2][PROFIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / benefit; be profitable for; provide for the good of; work for the profit of, be of benefit to
+*** 少@shǎo
+:PROPERTIES:
+:CONCEPT: uuid-372ec7aa-18aa-4489-8921-2b233c94c666 / FEW
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 9
+:END:
+少@shǎo	[[tls:concept:FEW::#uuid-372ec7aa-18aa-4489-8921-2b233c94c666][FEW]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / there are few; be few　甚少
+** 而害天下也多	but much harm.
+:PROPERTIES:
+:SRC: ZHUANG 10.1.10 Guo Qingfan 346; Wang Shumin 349; Fang Yong 260; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:3a31:50::而害 / 莊子
+:CHARPOS: 50
+:END:
+*** 多@duō
+:PROPERTIES:
+:CONCEPT: uuid-cf97e9fd-99e0-4c4a-9af2-538dc33680b1 / MANY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 55
+:END:
+多@duō	[[tls:concept:MANY::#uuid-cf97e9fd-99e0-4c4a-9af2-538dc33680b1][MANY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be many; be abundant, be much; be more than enough; be in a majority
+** 縱舍盜賊	and let the thieves and bandits go their way;
+:PROPERTIES:
+:SRC: ZHUANG 10.1.11 Guo Qingfan 346; Wang Shumin 349; Fang Yong 260; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:3a37:1::縱舍 / 莊子
+:CHARPOS: 1
+:END:
+*** 盜@dào
+:PROPERTIES:
+:CONCEPT: uuid-5ab1139e-12c4-46f7-96ba-9a03dae8430f / THIEF
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 3
+:END:
+盜@dào	[[tls:concept:THIEF::#uuid-5ab1139e-12c4-46f7-96ba-9a03dae8430f][THIEF]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / common thief, common burglar; criminals
+*** 盜賊@dàozéi
+:PROPERTIES:
+:CONCEPT: uuid-7841b7a6-af9d-4210-bf92-1cd147515375 / VILLAIN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 3
+:END:
+盜賊@dàozéi	[[tls:concept:VILLAIN::#uuid-7841b7a6-af9d-4210-bf92-1cd147515375][VILLAIN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / bandits
+** 聖人已死	And if the sage is dead and gone,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.12 Guo Qingfan 346; Wang Shumin 349; Fang Yong 260; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:3a41:1::聖人 / 莊子
+:CHARPOS: 1
+:END:
+*** 已@yǐ / 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-3443c690-5af2-4d29-b9fc-2a47fa0447ac / ALREADY
+:SYN-FUNC: uuid-c00a4db3-7d89-4b82-80ab-d16a177e3421
+:CHARPOS: 3
+:END:
+已@yǐ / 以@yǐ	[[tls:concept:ALREADY::#uuid-3443c690-5af2-4d29-b9fc-2a47fa0447ac][ALREADY]]	V [[tls:syn-func::#uuid-c00a4db3-7d89-4b82-80ab-d16a177e3421][vadV.postN{SUBJ}:adS]] / after, once (one) already has V-ed, after one has V-ed 以死誰懟
+** 天下平而无故矣	The world will then be peaceful and free of fuss.
+:PROPERTIES:
+:SRC: ZHUANG 10.1.12 Guo Qingfan 346; Wang Shumin 349; Fang Yong 260; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:3a43:1::天下 / 莊子
+:CHARPOS: 1
+:END:
+*** 平@píng
+:PROPERTIES:
+:CONCEPT: uuid-f2cc1599-fc09-4196-8684-93de0eefd949 / PEACEFUL
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:CHARPOS: 3
+:END:
+平@píng	[[tls:concept:PEACEFUL::#uuid-f2cc1599-fc09-4196-8684-93de0eefd949][PEACEFUL]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] / be tranquil and at peace together; keep the peace; make peace
+** 大盜不止	great thieves will never cease to appear,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.13 Guo Qingfan 350; Wang Shumin 354; Fang Yong 260; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:4a02:1::大盜 / 莊子
+:CHARPOS: 1
+:END:
+*** 盜@dào
+:PROPERTIES:
+:CONCEPT: uuid-5ab1139e-12c4-46f7-96ba-9a03dae8430f / THIEF
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 2
+:END:
+盜@dào	[[tls:concept:THIEF::#uuid-5ab1139e-12c4-46f7-96ba-9a03dae8430f][THIEF]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / common thief, common burglar; criminals
+** 則是重利盜跖也	you will only be piling up more profit for Robber Chih.
+:PROPERTIES:
+:SRC: ZHUANG 10.1.13 Guo Qingfan 350; Wang Shumin 354; Fang Yong 260; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:4a04:1::則是 / 莊子
+:CHARPOS: 1
+:END:
+*** 則是@zéshì
+:PROPERTIES:
+:CONCEPT: uuid-7c404eac-4d39-49f3-be18-80f259176dfd / BUT
+:SYN-FUNC: uuid-c01f61cb-4895-4a13-a871-a6d8e2351e78
+:CHARPOS: 1
+:END:
+則是@zéshì	[[tls:concept:BUT::#uuid-7c404eac-4d39-49f3-be18-80f259176dfd][BUT]]	P [[tls:syn-func::#uuid-c01f61cb-4895-4a13-a871-a6d8e2351e78][PP+Nab{PRED}.postS]] / but this is a case of Nab
+*** 盜@dào
+:PROPERTIES:
+:CONCEPT: uuid-40eaab3c-1635-4825-b16d-69781b7d5e32 / THIEF
+:SYN-FUNC: uuid-0f5b5ce6-d13f-433e-abbd-88a290f978d6
+:SEM-FEAT: uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86
+:CHARPOS: 5
+:END:
+盜@dào	[[tls:concept:THIEF::#uuid-40eaab3c-1635-4825-b16d-69781b7d5e32][THIEF]]	N [[tls:syn-func::#uuid-0f5b5ce6-d13f-433e-abbd-88a290f978d6][n+Npr]] {[[tls:sem-feat::#uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86][title]]} / Thief X 盜跖
+** 則并與斗斛而竊之	and they will steal by peck and bushel.5
+:PROPERTIES:
+:SRC: ZHUANG 10.1.13 Guo Qingfan 350; Wang Shumin 354; Fang Yong 260; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:4a06:1::則并 / 莊子
+:CHARPOS: 1
+:END:
+*** 竊@qiè
+:PROPERTIES:
+:CONCEPT: uuid-e0139a95-49ca-42fa-8461-3988f6f2acd4 / STEAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9d6c54c1-760c-4bdc-9f1d-7c15193a50c8
+:CHARPOS: 7
+:END:
+竊@qiè	[[tls:concept:STEAL::#uuid-e0139a95-49ca-42fa-8461-3988f6f2acd4][STEAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9d6c54c1-760c-4bdc-9f1d-7c15193a50c8][subject=human]]} / steal
+** 則并與權衡而竊之	and they will steal by scale and balance.
+:PROPERTIES:
+:SRC: ZHUANG 10.1.13 Guo Qingfan 350; Wang Shumin 354; Fang Yong 260; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:4a08:1::則并 / 莊子
+:CHARPOS: 1
+:END:
+*** 竊@qiè
+:PROPERTIES:
+:CONCEPT: uuid-e0139a95-49ca-42fa-8461-3988f6f2acd4 / STEAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9d6c54c1-760c-4bdc-9f1d-7c15193a50c8
+:CHARPOS: 7
+:END:
+竊@qiè	[[tls:concept:STEAL::#uuid-e0139a95-49ca-42fa-8461-3988f6f2acd4][STEAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9d6c54c1-760c-4bdc-9f1d-7c15193a50c8][subject=human]]} / steal
+** 則并與符璽而竊之	and people will steal with tallies and seals.
+:PROPERTIES:
+:SRC: ZHUANG 10.1.14 Guo Qingfan 350; Wang Shumin 354; Fang Yong 261; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:4a10:1::則并 / 莊子
+:CHARPOS: 1
+:END:
+*** 竊@qiè
+:PROPERTIES:
+:CONCEPT: uuid-e0139a95-49ca-42fa-8461-3988f6f2acd4 / STEAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9d6c54c1-760c-4bdc-9f1d-7c15193a50c8
+:CHARPOS: 7
+:END:
+竊@qiè	[[tls:concept:STEAL::#uuid-e0139a95-49ca-42fa-8461-3988f6f2acd4][STEAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9d6c54c1-760c-4bdc-9f1d-7c15193a50c8][subject=human]]} / steal
+** 竊國者為諸侯	he who steals a state gets to be a feudal lord-
+:PROPERTIES:
+:SRC: ZHUANG 10.1.14 Guo Qingfan 350; Wang Shumin 354; Fang Yong 261; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:4a15:1::竊國 / 莊子
+:CHARPOS: 1
+:END:
+*** 竊@qiè
+:PROPERTIES:
+:CONCEPT: uuid-e0139a95-49ca-42fa-8461-3988f6f2acd4 / STEAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-9d6c54c1-760c-4bdc-9f1d-7c15193a50c8
+:CHARPOS: 1
+:END:
+竊@qiè	[[tls:concept:STEAL::#uuid-e0139a95-49ca-42fa-8461-3988f6f2acd4][STEAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-9d6c54c1-760c-4bdc-9f1d-7c15193a50c8][subject=human]]} / steal
+*** 諸侯@zhūhóu
+:PROPERTIES:
+:CONCEPT: uuid-b65c515f-0576-4a02-acc6-f89c710aa400 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 5
+:END:
+諸侯@zhūhóu	[[tls:concept:RULER::#uuid-b65c515f-0576-4a02-acc6-f89c710aa400][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the feudal lords
+** 則是非竊仁義聖知邪	Is this not a case of stealing benevolence and righteousness and the wisdom of the sages?
+:PROPERTIES:
+:SRC: ZHUANG 10.1.14 Guo Qingfan 350; Wang Shumin 354; Fang Yong 261; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:4a17:1::則是 / 莊子
+:CHARPOS: 1
+:END:
+*** 則是@zéshì
+:PROPERTIES:
+:CONCEPT: uuid-2d9c80de-f4d3-4c84-97c1-e2707ebbb9b6 / THEN
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:CHARPOS: 1
+:END:
+則是@zéshì	[[tls:concept:THEN::#uuid-2d9c80de-f4d3-4c84-97c1-e2707ebbb9b6][THEN]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] / THEN + SUCH> then in such a case; then such a person; then; then as for such behaviour; then this is; then this means that; then this leads to [Note that this is not claimed to be a word, just a collocation which it is useful to study.]
+** 竊仁義	stealing benevolence and righteousness,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.15 Guo Qingfan 350; Wang Shumin 354; Fang Yong 261; Chen Guying 256
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:4a20:1::竊仁 / 莊子
+:CHARPOS: 1
+:END:
+*** 竊@qiè
+:PROPERTIES:
+:CONCEPT: uuid-8e55e669-23fb-4951-a021-110c3ed4eceb / STEAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+竊@qiè	[[tls:concept:STEAL::#uuid-8e55e669-23fb-4951-a021-110c3ed4eceb][STEAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / get (a position etc) by inappropriate or illegal means
+** 國之利器不可以示人	the sharp weapons of the state should not be shown to men."6
+:PROPERTIES:
+:SRC: ZHUANG 10.1.16 Guo Qingfan 353; Wang Shumin 356; Fang Yong 261; Chen Guying 259
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:5a03:1::國之 / 莊子
+:CHARPOS: 1
+:END:
+*** 可以@kěyǐ
+:PROPERTIES:
+:CONCEPT: uuid-0ef5e6a2-3a08-40b3-bd2c-05b230e58eec / SHOULD
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 6
+:END:
+可以@kěyǐ	[[tls:concept:SHOULD::#uuid-0ef5e6a2-3a08-40b3-bd2c-05b230e58eec][SHOULD]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / should
+** 彼聖人者	The sage
+:PROPERTIES:
+:SRC: ZHUANG 10.1.16 Guo Qingfan 353; Wang Shumin 356; Fang Yong 261; Chen Guying 259
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:5a04:50::彼聖 / 莊子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 53
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 擿玉毀珠	Break the jades, crush the pearls,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.16 Guo Qingfan 353; Wang Shumin 356; Fang Yong 261; Chen Guying 259
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:5a09:1::擿玉 / 莊子
+:CHARPOS: 1
+:END:
+*** 〓#擲@zhì
+:PROPERTIES:
+:CONCEPT: uuid-38c629a2-c4f0-4a94-ba7c-484d2ade7381 / DISCARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+〓#擲@zhì	[[tls:concept:DISCARD::#uuid-38c629a2-c4f0-4a94-ba7c-484d2ade7381][DISCARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / throw away
+** 焚符破璽	Burn the tallies, shatter the seals,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.16 Guo Qingfan 353; Wang Shumin 356; Fang Yong 261; Chen Guying 259
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:5a11:1::焚符 / 莊子
+:CHARPOS: 1
+:END:
+*** 焚@fén
+:PROPERTIES:
+:CONCEPT: uuid-4f487d0c-421a-4048-b5d2-129f9352b4e9 / BURN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+焚@fén	[[tls:concept:BURN::#uuid-4f487d0c-421a-4048-b5d2-129f9352b4e9][BURN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / burn up, burn down; set fire to; scorch
+** 殫殘天下之聖法	Destroy and wipe out the laws that the sage has made for the world,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.17 Guo Qingfan 353; Wang Shumin 356; Fang Yong 261; Chen Guying 259
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:5a15:1::殫殘 / 莊子
+:CHARPOS: 1
+:END:
+*** 殫@dān
+:PROPERTIES:
+:CONCEPT: uuid-bb80e7cf-5426-485d-bd3a-912a5810d9e8 / EXHAUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+殫@dān	[[tls:concept:EXHAUST::#uuid-bb80e7cf-5426-485d-bd3a-912a5810d9e8][EXHAUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / exhaust
+*** 殘@cán
+:PROPERTIES:
+:CONCEPT: uuid-9bc7aa45-8de6-4470-9bb8-8fb29ea25bab / DESTROY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+殘@cán	[[tls:concept:DESTROY::#uuid-9bc7aa45-8de6-4470-9bb8-8fb29ea25bab][DESTROY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / destroy recklessly or cruelly, rout completely; ruin, spoil (crops)
+** 散五采	scatter the five colors,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.17 Guo Qingfan 353; Wang Shumin 356; Fang Yong 261; Chen Guying 259
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:5a22:1::散五 / 莊子
+:CHARPOS: 1
+:END:
+*** 采@cǎi
+:PROPERTIES:
+:CONCEPT: uuid-85ec6327-9730-4a2f-b41a-7108886375e6 / COLOUR
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 3
+:END:
+采@cǎi	[[tls:concept:COLOUR::#uuid-85ec6327-9730-4a2f-b41a-7108886375e6][COLOUR]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / colour 五采
+** 而棄規矩攦工倕之指	throw away the compass and square,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.18 Guo Qingfan 353; Wang Shumin 356; Fang Yong 261; Chen Guying 259
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:5a25:5::而棄 / 莊子
+:CHARPOS: 5
+:END:
+*** 規矩@guījǔ
+:PROPERTIES:
+:CONCEPT: uuid-dbaeafa5-1837-40ac-9b76-cc5a58df3690 / TOOL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 7
+:END:
+規矩@guījǔ	[[tls:concept:TOOL::#uuid-dbaeafa5-1837-40ac-9b76-cc5a58df3690][TOOL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / compass and square
+** 人含其聰	When men hold on to their hearing,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.19 Guo Qingfan 353; Wang Shumin 356; Fang Yong 261; Chen Guying 260
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:5a35:1::人含 / 莊子
+:CHARPOS: 1
+:END:
+*** 含@hán
+:PROPERTIES:
+:CONCEPT: uuid-5694efae-e559-4065-9820-31d65636376c / FEEL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+含@hán	[[tls:concept:FEEL::#uuid-5694efae-e559-4065-9820-31d65636376c][FEEL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / hence: harbour inside one (any kinds of feelings or sentiments) [See also CONTAIN][CA]
+** 人含其知	When men hold on to their wisdom,
+:PROPERTIES:
+:SRC: ZHUANG 10.1.20 Guo Qingfan 353; Wang Shumin 356; Fang Yong 261; Chen Guying 260
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:5a37:1::人含 / 莊子
+:CHARPOS: 1
+:END:
+*** 含@hán
+:PROPERTIES:
+:CONCEPT: uuid-5694efae-e559-4065-9820-31d65636376c / FEEL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+含@hán	[[tls:concept:FEEL::#uuid-5694efae-e559-4065-9820-31d65636376c][FEEL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / hence: harbour inside one (any kinds of feelings or sentiments) [See also CONTAIN][CA]
+** 則天下不僻矣	the world will no longer go awry.
+:PROPERTIES:
+:SRC: ZHUANG 10.1.20 Guo Qingfan 353; Wang Shumin 356; Fang Yong 261; Chen Guying 260
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:5a40:1::則天 / 莊子
+:CHARPOS: 1
+:END:
+*** 僻@pì / 辟@pì
+:PROPERTIES:
+:CONCEPT: uuid-660d4924-20bf-44d1-a087-ef3a991bb655 / WICKED
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 5
+:END:
+僻@pì / 辟@pì	[[tls:concept:WICKED::#uuid-660d4924-20bf-44d1-a087-ef3a991bb655][WICKED]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be deviant and depraved, unreglemented, unruly; extravagant
+** 子獨不知至德之世乎	Have you alone never heard of that age of Perfect Virtue?
+:PROPERTIES:
+:SRC: ZHUANG 10.2.1 Guo Qingfan 357; Wang Shumin 360; Fang Yong 267; Chen Guying 262
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:6a01:1::子獨 / 莊子
+:CHARPOS: 1
+:END:
+*** 獨@dú
+:PROPERTIES:
+:CONCEPT: uuid-217514ea-45b1-43a7-b054-e97f3fbdad8c / MODAL PARTICLES
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 2
+:END:
+獨@dú	[[tls:concept:MODAL PARTICLES::#uuid-217514ea-45b1-43a7-b054-e97f3fbdad8c][MODAL PARTICLES]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / marker of rhetorical questions inviting or suggesting/presupposing a negative answer, derived from the meaning "as the only person"
+** 民結繩而用之	the people knotted cords and used them."
+:PROPERTIES:
+:SRC: ZHUANG 10.2.1 Guo Qingfan 357; Wang Shumin 360; Fang Yong 267; Chen Guying 262
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:6a14:1::民結 / 莊子
+:CHARPOS: 1
+:END:
+*** 結@jié
+:PROPERTIES:
+:CONCEPT: uuid-21debfc0-732d-4d2d-b471-ed0464e33721 / BIND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+結@jié	[[tls:concept:BIND::#uuid-21debfc0-732d-4d2d-b471-ed0464e33721][BIND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / tie up; bundle together; (bind together > solidify)
+** 則是上好知之過也	This is the fault of men in high places who covet knowledge. 12
+:PROPERTIES:
+:SRC: ZHUANG 10.2.4 Guo Qingfan 357; Wang Shumin 360; Fang Yong 267; Chen Guying 262
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:6a30:1::則是 / 莊子
+:CHARPOS: 1
+:END:
+*** 則是@zéshì
+:PROPERTIES:
+:CONCEPT: uuid-2d9c80de-f4d3-4c84-97c1-e2707ebbb9b6 / THEN
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:CHARPOS: 1
+:END:
+則是@zéshì	[[tls:concept:THEN::#uuid-2d9c80de-f4d3-4c84-97c1-e2707ebbb9b6][THEN]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] / THEN + SUCH> then in such a case; then such a person; then; then as for such behaviour; then this is; then this means that; then this leads to [Note that this is not claimed to be a word, just a collocation which it is useful to study.]
+** 鉤餌網罟罾笱之知多	Knowledge enables men to fashion fishhooks, lures, seines, dragnets, trawls, and weirs,
+:PROPERTIES:
+:SRC: ZHUANG 10.2.6 Guo Qingfan 359; Wang Shumin 362; Fang Yong 267; Chen Guying 263
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:7a06:1::鉤餌 / 莊子
+:CHARPOS: 1
+:END:
+*** 鉤@gōu
+:PROPERTIES:
+:CONCEPT: uuid-6c2cb576-3d20-41bb-80eb-08c161b697d9 / HOOK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+鉤@gōu	[[tls:concept:HOOK::#uuid-6c2cb576-3d20-41bb-80eb-08c161b697d9][HOOK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / carpenter's hook; belt-hook; belt-buckle[also hook for fishing][CA]
+*** 餌@ěr
+:PROPERTIES:
+:CONCEPT: uuid-499df956-c8a7-495a-a9fb-6e92274352c3 / BAIT
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 2
+:END:
+餌@ěr	[[tls:concept:BAIT::#uuid-499df956-c8a7-495a-a9fb-6e92274352c3][BAIT]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / bait
+*** 網@wǎng
+:PROPERTIES:
+:CONCEPT: uuid-ff1d867d-0b5b-4ac5-9606-1f8dea82f007 / NET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+網@wǎng	[[tls:concept:NET::#uuid-ff1d867d-0b5b-4ac5-9606-1f8dea82f007][NET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / net to catch fish with
+*** 罟@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-098a4134-18d6-465b-a5e8-577b5be04d30 / NET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+罟@gǔ	[[tls:concept:NET::#uuid-098a4134-18d6-465b-a5e8-577b5be04d30][NET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / originally net-trap for catching fish, later geneal term for a net
+*** 罾@zēng
+:PROPERTIES:
+:CONCEPT: uuid-cc19fd63-e532-48cd-8397-320df1cebea1 / NET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+罾@zēng	[[tls:concept:NET::#uuid-cc19fd63-e532-48cd-8397-320df1cebea1][NET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / SHIJI: fish net
+*** 笱@gǒu
+:PROPERTIES:
+:CONCEPT: uuid-65932902-779c-4aab-a1ae-cf01f6a33400 / TRAP
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+笱@gǒu	[[tls:concept:TRAP::#uuid-65932902-779c-4aab-a1ae-cf01f6a33400][TRAP]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / bamboo fish trap
+** 削格羅落罝罘之知多	Knowledge enables men to fashion pitfalls, snares, cages, traps, and gins,
+:PROPERTIES:
+:SRC: ZHUANG 10.2.6 Guo Qingfan 359; Wang Shumin 362; Fang Yong 267; Chen Guying 263
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:7a08:1::削格 / 莊子
+:CHARPOS: 1
+:END:
+*** 羅@luó
+:PROPERTIES:
+:CONCEPT: uuid-4746d0de-d7ca-4fb9-ab3f-0a235e966710 / NET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+羅@luó	[[tls:concept:NET::#uuid-4746d0de-d7ca-4fb9-ab3f-0a235e966710][NET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / net for catching birds
+*** 落@luò
+:PROPERTIES:
+:CONCEPT: uuid-4d6da512-c85b-4d1a-8d39-da06de07ba77 / FALL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+落@luò	[[tls:concept:FALL::#uuid-4d6da512-c85b-4d1a-8d39-da06de07ba77][FALL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / pitfall
+*** 罝@jū
+:PROPERTIES:
+:CONCEPT: uuid-2fd35f9e-f9e4-4aa3-8869-0e0c2873b864 / NET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+罝@jū	[[tls:concept:NET::#uuid-2fd35f9e-f9e4-4aa3-8869-0e0c2873b864][NET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / net for catching hares
+*** 罘@fú
+:PROPERTIES:
+:CONCEPT: uuid-67009304-4e90-4f99-b08a-0735e866d9a9 / NET
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+罘@fú	[[tls:concept:NET::#uuid-67009304-4e90-4f99-b08a-0735e866d9a9][NET]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / ZZ 362: net for catching rabbits, and by extension other animals
+** 惴耎之蟲	There is no insect that creeps and crawls,
+:PROPERTIES:
+:SRC: ZHUANG 10.2.8 Guo Qingfan 359; Wang Shumin 362; Fang Yong 268; Chen Guying 263
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:7a20:1::惴耎 / 莊子
+:CHARPOS: 1
+:END:
+*** 耎@ruǎn
+:PROPERTIES:
+:CONCEPT: uuid-632b30fe-da6b-48ee-882c-938b324ea91a / WEAK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 2
+:END:
+耎@ruǎn	[[tls:concept:WEAK::#uuid-632b30fe-da6b-48ee-882c-938b324ea91a][WEAK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / weak and soft; pliable
+** 舍夫種種之民而悅夫役役之佞	shoving aside the pure and artless people and delighting in busy, bustling flatterers;
+:PROPERTIES:
+:SRC: ZHUANG 10.2.9 Guo Qingfan 359; Wang Shumin 362; Fang Yong 268; Chen Guying 263
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:7a25:1::舍夫 / 莊子
+:CHARPOS: 1
+:END:
+*** 種@zhǒng
+:PROPERTIES:
+:CONCEPT: uuid-514c2e80-8296-4e8b-b34c-f22eeb73e528 / MANY
+:SYN-FUNC: uuid-4f581ca8-be9d-4506-a61a-c9429740d6a7
+:CHARPOS: 3
+:END:
+種@zhǒng	[[tls:concept:MANY::#uuid-514c2e80-8296-4e8b-b34c-f22eeb73e528][MANY]]	N [[tls:syn-func::#uuid-4f581ca8-be9d-4506-a61a-c9429740d6a7][n.red:adN]] / sundry; all kinds of, various, many, all sorts of
+*** 佞@nìng
+:PROPERTIES:
+:CONCEPT: uuid-6b050372-c51c-420a-b7df-eac4ac3fbbf8 / FLATTER
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 13
+:END:
+佞@nìng	[[tls:concept:FLATTER::#uuid-6b050372-c51c-420a-b7df-eac4ac3fbbf8][FLATTER]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / flatterer; the psychophantic 四佞
+** 釋夫恬淡无為而悅夫啍啍之意	abandoning the limpidity and calm of inaction and delighting in jumbled and jangling ideas.
+:PROPERTIES:
+:SRC: ZHUANG 10.2.9 Guo Qingfan 359; Wang Shumin 362; Fang Yong 268; Chen Guying 263
+:DATE: 8110	late Warring States
+:LOCATION: KR5c0126_010:7a26:50::釋夫 / 莊子
+:CHARPOS: 50
+:END:
+*** 恬淡@tiándàn / 恬惔@tiándàn
+:PROPERTIES:
+:CONCEPT: uuid-c42d4b79-d1a2-4e86-a5b3-ffc8233f7776 / PEACEFUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+恬淡@tiándàn / 恬惔@tiándàn	[[tls:concept:PEACEFUL::#uuid-c42d4b79-d1a2-4e86-a5b3-ffc8233f7776][PEACEFUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / tranquility; spiritual ease; detachment

@@ -1,0 +1,88 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_022
+#+DATE: 2017-02-08T16:43:43+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 弊則新	if you are worn you will be [as] new.
+:PROPERTIES:
+:SRC: LAO 22.1 tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_022:1a04:1::弊則 / 老子
+:CHARPOS: 1
+:END:
+*** 新@xīn
+:PROPERTIES:
+:CONCEPT: uuid-9832ac89-b874-41ac-bd74-8433a581c15c / NEW
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 3
+:END:
+新@xīn	[[tls:concept:NEW::#uuid-9832ac89-b874-41ac-bd74-8433a581c15c][NEW]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / be new (to the job etc.)
+** 不自見故明	he does not show himself, therefore he becomes (bright) illustrious,
+:PROPERTIES:
+:SRC: LAO 22.2 tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_022:1a08:1::不自 / 老子
+:CHARPOS: 1
+:END:
+*** 現@xiàn / 見@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-9bea5acd-afdb-459f-ae87-4b7cdd3a6bf3 / SHOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 1
+:END:
+現@xiàn / 見@xiàn	[[tls:concept:SHOW::#uuid-9bea5acd-afdb-459f-ae87-4b7cdd3a6bf3][SHOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / make a display of (oneself)
+** 不自是故彰	he does not approve of himself, therefore he becomes famous,
+:PROPERTIES:
+:SRC: LAO 22.2 tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_022:1a09:50::不自 / 老子
+:CHARPOS: 50
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-6342ace4-357e-448f-b0dd-75df786a6634 / TRUE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-a4fecd25-28f7-42ff-9289-a85c54845602
+:CHARPOS: 52
+:END:
+是@shì	[[tls:concept:TRUE::#uuid-6342ace4-357e-448f-b0dd-75df786a6634][TRUE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-a4fecd25-28f7-42ff-9289-a85c54845602][putative.reflex.自]]} / consider (oneself) as right, consider one's own opinions as true
+** 不自伐故有功	he does not boast of himself, therefore he has achievements,
+:PROPERTIES:
+:SRC: LAO 22.2 tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_022:1a10:50::不自 / 老子
+:CHARPOS: 50
+:END:
+*** 伐@fá
+:PROPERTIES:
+:CONCEPT: uuid-a7a4d1b9-06fe-40df-b5b6-fa57ae89a28d / BOAST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+伐@fá	[[tls:concept:BOAST::#uuid-a7a4d1b9-06fe-40df-b5b6-fa57ae89a28d][BOAST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / boast about (oneself)
+** 不自矜故長	he is not boastful, therefore he becomes a leader,
+:PROPERTIES:
+:SRC: LAO 22.2 tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_022:1a11:50::不自 / 老子
+:CHARPOS: 50
+:END:
+*** 矜@jīn
+:PROPERTIES:
+:CONCEPT: uuid-5d654fa8-be93-430e-bb3a-55bb0636e446 / BOAST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 52
+:END:
+矜@jīn	[[tls:concept:BOAST::#uuid-5d654fa8-be93-430e-bb3a-55bb0636e446][BOAST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / boast about (oneself)
+** 豈虛言哉	how can it be empty words.
+:PROPERTIES:
+:SRC: LAO 22.2 tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_022:1a15:1::豈虛 / 老子
+:CHARPOS: 1
+:END:
+*** 虛言@xūyán
+:PROPERTIES:
+:CONCEPT: uuid-9719ba89-fbca-4c87-9f20-277a8f7de42a / UNTRUE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 2
+:END:
+虛言@xūyán	[[tls:concept:UNTRUE::#uuid-9719ba89-fbca-4c87-9f20-277a8f7de42a][UNTRUE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / empty speeches, unsubstantiated claim; idle propositions; idle statement; unfounded statement; lies

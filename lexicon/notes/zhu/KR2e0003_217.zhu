@@ -1,0 +1,78 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_217
+#+DATE: 2017-02-08T16:41:25+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 天下賢人也	is one of the worthiest men in the empire
+:PROPERTIES:
+:SRC: ZGC 17.9.1, tr. Crump no 222, ed. Sha4ngha3igu3jí p. 565
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_217:1a06:1::天下 / 戰國策
+:CHARPOS: 1
+:END:
+*** 賢人@xiánrén
+:PROPERTIES:
+:CONCEPT: uuid-1f7cef0a-bc90-468e-aafd-b7c78283ac0e / HERO
+:SYN-FUNC: uuid-7ff85022-daa6-4ec8-892f-23641dce0f0f
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+賢人@xiánrén	[[tls:concept:HERO::#uuid-1f7cef0a-bc90-468e-aafd-b7c78283ac0e][HERO]]	N [[tls:syn-func::#uuid-7ff85022-daa6-4ec8-892f-23641dce0f0f][NPpost-N]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the most worthy of the N; the most worthy in the N; a worthy on the N scale
+** 夫賢者之所在	In fact whereever the worthy dwell
+:PROPERTIES:
+:SRC: ZGC 17.9.3,tr. Crump no 222, ed. Sha4ngha3igu3jí p. 565
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_217:2a06:1::夫賢 / 戰國策
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-f5feebdb-7213-4906-b1dd-aad778d29afd / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 2
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-f5feebdb-7213-4906-b1dd-aad778d29afd][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / those who are possessed of moral worth and talent (at a certain time or in a certain place)
+** 此不恭之語也	a saying which shows little respect
+:PROPERTIES:
+:SRC: ZGC 17.9.4,tr. Crump no 222, ed. Sha4ngha3igu3jí p. 566
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_217:3a03:1::此不 / 戰國策
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-c47f1db9-3de9-45b0-983f-4d1196b5eaae / THIS
+:SYN-FUNC: uuid-1d1547b0-db40-4ce1-a865-2f1edd69c9ab
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-c47f1db9-3de9-45b0-983f-4d1196b5eaae][THIS]]	N [[tls:syn-func::#uuid-1d1547b0-db40-4ce1-a865-2f1edd69c9ab][npro+N{PRED}]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / this abstract subject (is N)
+** 則大臣主斷國私以禁誅於己也	his powerful ministers will usurp power and secretly devise ways which prevent punishment being applied to them.
+:PROPERTIES:
+:SRC: ZGC 17.9.4,tr. Crump no 222, ed. Sha4ngha3igu3jí p. 566
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_217:3a09:1::則大 / 戰國策
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-20ff37a6-47a0-4b01-8ba5-8500682245ff / SELF
+:SYN-FUNC: uuid-bef20341-30da-4ed9-b10e-26bfa1ac7b3d
+:CHARPOS: 12
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-20ff37a6-47a0-4b01-8ba5-8500682245ff][SELF]]	N [[tls:syn-func::#uuid-bef20341-30da-4ed9-b10e-26bfa1ac7b3d][npro.post:Vt+prep]] / 而自得之於己乎？(mostly contrastive:) himself, herself, themselves
+** 餓主父於沙丘	starving the Ex-King (2) in the Sha-ch'iu palace
+:PROPERTIES:
+:SRC: ZGC 17.9.7,tr. Crump no 222, ed. Sha4ngha3igu3jí p. 566
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_217:3a34:1::餓主 / 戰國策
+:CHARPOS: 1
+:END:
+*** 餓@è
+:PROPERTIES:
+:CONCEPT: uuid-32b15492-fa6d-4cc7-956c-59008877c3d4 / KILL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+餓@è	[[tls:concept:KILL::#uuid-32b15492-fa6d-4cc7-956c-59008877c3d4][KILL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / (cause to starve>) starve (someone); to starve (someone) to death

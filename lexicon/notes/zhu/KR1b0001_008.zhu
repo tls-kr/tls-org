@@ -1,0 +1,130 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_008
+#+DATE: 2017-02-08T16:35:47+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 作五子之歌	
+:PROPERTIES:
+:SRC: SHU 7.0 書序; ed. SUN XINGYAN 1989 p. 560
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_008:1a03:1::作《 / 尚書
+:CHARPOS: 1
+:END:
+*** 歌@gē
+:PROPERTIES:
+:CONCEPT: uuid-9e7be8f5-6e08-484e-9420-de91eaa57ff5 / SONG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 5
+:END:
+歌@gē	[[tls:concept:SONG::#uuid-9e7be8f5-6e08-484e-9420-de91eaa57ff5][SONG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / song; popular song (also that of primitive peoples etc) 人聲曰歌. 歌柯也. 所歌之言是其質也. 以聲吟詠有上下如草木之有柯葉也. 故兗冀言 歌聲如柯也 Songs of humans are called gē. gē “song” is kē “branch.” The words sung, these are the substance. When using the voice one chants, the voice goes up and down, like plants and trees having stems and leaves. Thus in the Yuan and in the Jì areas they pronounce ky “sing” with a sound like kē “branch”.
+** 愚夫愚婦	Of the simple men and simple women,
+:PROPERTIES:
+:SRC: SHU (LATE) 8.2; tr. Legge p. 156ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_008:2a19:1::愚夫 / 尚書
+:CHARPOS: 1
+:END:
+*** 愚夫@yúfū
+:PROPERTIES:
+:CONCEPT: uuid-bee61b67-86a2-4ddb-8280-7c02f5cb8438 / STUPID
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+愚夫@yúfū	[[tls:concept:STUPID::#uuid-bee61b67-86a2-4ddb-8280-7c02f5cb8438][STUPID]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / stupid person; fool
+** 一能勝予	Any one may surpass me.
+:PROPERTIES:
+:SRC: SHU (LATE) 8.2; tr. Legge p. 156ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_008:2a20:50::一能 / 尚書
+:CHARPOS: 50
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-25dfed22-436c-4846-a2a5-27868a8ee8df / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:CHARPOS: 53
+:END:
+予@yú	[[tls:concept:EGO::#uuid-25dfed22-436c-4846-a2a5-27868a8ee8df][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] / me (personally, as an experiencer?)
+** 予臨兆民	In my dealing with the millions of the people,
+:PROPERTIES:
+:SRC: SHU (LATE) 8.2; tr. Legge p. 156ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_008:2a24:1::予臨 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-e01096db-36f9-4548-8a67-85f0a8529d01 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-e01096db-36f9-4548-8a67-85f0a8529d01][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / I (as a responsible agent)
+** 今失厥道	Now we have fallen from his ways,
+:PROPERTIES:
+:SRC: SHU (LATE) 8.4; tr. Legge p. 156ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_008:2a38:1::今失 / 尚書
+:CHARPOS: 1
+:END:
+*** 今@jīn
+:PROPERTIES:
+:CONCEPT: uuid-f8df9ddb-3b52-4fb5-aaa7-6c7051eaca95 / NOW
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 1
+:END:
+今@jīn	[[tls:concept:NOW::#uuid-f8df9ddb-3b52-4fb5-aaa7-6c7051eaca95][NOW]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / as for the present> at present, now [NB: preverbal 今 may often have to be read as preceding a "minor sentence" with omitted subject.]
+*** 今@jīn
+:PROPERTIES:
+:CONCEPT: uuid-b72b6c2b-1f52-4cad-9484-2db4d722841c / NOW
+:SYN-FUNC: uuid-85043f3f-f41d-433b-8bea-c49352206a4e
+:SEM-FEAT: uuid-51f4e8c8-5f69-41d6-a2f5-56f98b62f5ba
+:CHARPOS: 1
+:END:
+今@jīn	[[tls:concept:NOW::#uuid-b72b6c2b-1f52-4cad-9484-2db4d722841c][NOW]]	N [[tls:syn-func::#uuid-85043f3f-f41d-433b-8bea-c49352206a4e][nadS]] {[[tls:sem-feat::#uuid-51f4e8c8-5f69-41d6-a2f5-56f98b62f5ba][narrative]]} / these days, nowadays 今也; now
+** 明明我祖	'Brightly intelligent was our ancestor,
+:PROPERTIES:
+:SRC: SHU (LATE) 8.5; tr. Legge p. 156ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_008:2a42:1::明明 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 3
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 萬姓仇予	All the people are hostile to us;
+:PROPERTIES:
+:SRC: SHU (LATE) 8.6; tr. Legge p. 156ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_008:2a53:1::萬姓 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-b99f038f-db49-4ae2-9a4a-452d261f6935 / WE
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-fe6e0789-b1ed-4663-b1f3-4ae29db37404
+:CHARPOS: 4
+:END:
+予@yú	[[tls:concept:WE::#uuid-b99f038f-db49-4ae2-9a4a-452d261f6935][WE]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-fe6e0789-b1ed-4663-b1f3-4ae29db37404][exclusive]]} / us (often excluding the audience addressed) CHECK CAREFULLY ALL THE EXAMPLES!
+** 鬱陶乎予心	Anxieties crowd together in our hearts;
+:PROPERTIES:
+:SRC: SHU (LATE) 8.6; tr. Legge p. 156ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_008:2a55:1::「鬱 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-2f87492c-8c6d-4d67-b158-547c42e32579 / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-fe6e0789-b1ed-4663-b1f3-4ae29db37404
+:CHARPOS: 4
+:END:
+予@yú	[[tls:concept:WE::#uuid-2f87492c-8c6d-4d67-b158-547c42e32579][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-fe6e0789-b1ed-4663-b1f3-4ae29db37404][exclusive]]} / our (often not that of the audience) CHECK CAREFULLY ALL THE EXAMPLES!

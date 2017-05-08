@@ -1,0 +1,869 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 楚辭 KR4a0001_010
+#+DATE: 2017-02-08T16:43:41+0900
+#+PROPERTY: COMMIT c3f483ed1c381f09b4cbfc4c4a3164868fb193fe
+** 冥淩浹行魂無逃只	Dark winter frosts melt away. O soul, do not flee!
+:PROPERTIES:
+:SRC: CC DAZHAO 01:01; SBBY 362; Huang 173; Fu 171; tr. Hawkes 233;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:1a03:1::冥淩 / 楚辭
+:CHARPOS: 1
+:END:
+*** 逃@táo
+:PROPERTIES:
+:CONCEPT: uuid-f0fbefb1-b8cf-4aa9-9eb0-44f691bf14d5 / FLEE
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 7
+:END:
+逃@táo	[[tls:concept:FLEE::#uuid-f0fbefb1-b8cf-4aa9-9eb0-44f691bf14d5][FLEE]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / escape, get away; abscond
+** 魂魄歸徠無遠遙只	Oh soul, come back! Do not go far away!
+:PROPERTIES:
+:SRC: CC DAZHAO 01:01; SBBY 362; Huang 173; Fu 171; tr. Hawkes 233;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:1a04:50::魂魄 / 楚辭
+:CHARPOS: 50
+:END:
+*** 遙@yáo
+:PROPERTIES:
+:CONCEPT: uuid-5f25deda-0a90-4e29-93c3-3e9a3e787a1d / DISTANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 56
+:END:
+遙@yáo	[[tls:concept:DISTANT::#uuid-5f25deda-0a90-4e29-93c3-3e9a3e787a1d][DISTANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / go far away
+** 南有炎火千里	In the south are a hundred leagues of flaming fire
+:PROPERTIES:
+:SRC: CC DAZHAO 01:03; SBBY 363; Huang 174; Fu 171; tr. Hawkes 233;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:1a17:1::南有 / 楚辭
+:CHARPOS: 1
+:END:
+*** 炎@yán
+:PROPERTIES:
+:CONCEPT: uuid-5330bfb0-b17b-4168-8155-47fb02e55368 / FIRE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+炎@yán	[[tls:concept:FIRE::#uuid-5330bfb0-b17b-4168-8155-47fb02e55368][FIRE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / flame, fire
+** 虎豹蜿只	tigers and leopards slink;
+:PROPERTIES:
+:SRC: CC DAZHAO 01:03; SBBY 363; Huang 174; Fu 171; tr. Hawkes 233;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:1a20:1::虎豹 / 楚辭
+:CHARPOS: 1
+:END:
+*** 虎豹@hǔbào
+:PROPERTIES:
+:CONCEPT: uuid-b66e7397-c73b-46f8-8247-c2f5019f2947 / FELINE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+虎豹@hǔbào	[[tls:concept:FELINE::#uuid-b66e7397-c73b-46f8-8247-c2f5019f2947][FELINE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / tiger- and leopard-like beasts; tigers and leopards
+** 蜮傷躬只	There are monsters there that will harm you.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:03; SBBY 363; Huang 174; Fu 171; tr. Hawkes 233;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:1a24:1::蜮傷 / 楚辭
+:CHARPOS: 1
+:END:
+*** 躬@gōng
+:PROPERTIES:
+:CONCEPT: uuid-3b1ffc14-4323-4f6d-89db-d9781028495a / YOU
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 3
+:END:
+躬@gōng	[[tls:concept:YOU::#uuid-3b1ffc14-4323-4f6d-89db-d9781028495a][YOU]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / you (physically); your body
+** 被髮鬤只	slanting eyes and shaggy hair,
+:PROPERTIES:
+:SRC: CC DAZHAO 01:04; SBBY 364; Huang 174; Fu 171; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:1a29:1::被髮 / 楚辭
+:CHARPOS: 1
+:END:
+*** 髮@fà
+:PROPERTIES:
+:CONCEPT: uuid-10583472-018d-44dd-a362-0b1d3534be66 / HAIR
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 2
+:END:
+髮@fà	[[tls:concept:HAIR::#uuid-10583472-018d-44dd-a362-0b1d3534be66][HAIR]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / hair; human hair on the head
+** 長爪踞牙	Long claws and serrated teeth,
+:PROPERTIES:
+:SRC: CC DAZHAO 01:04; SBBY 364; Huang 174; Fu 171; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:1a30:50::長爪 / 楚辭
+:CHARPOS: 50
+:END:
+*** 爪@zhǎo
+:PROPERTIES:
+:CONCEPT: uuid-0a1adaf8-aeec-4bbb-b117-c2aa5910c83a / CLAWS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 51
+:END:
+爪@zhǎo	[[tls:concept:CLAWS::#uuid-0a1adaf8-aeec-4bbb-b117-c2aa5910c83a][CLAWS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / claws; fingernails
+*** 牙@yá
+:PROPERTIES:
+:CONCEPT: uuid-d584f96d-9564-4b7e-8834-1348db3c1acf / TOOTH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+牙@yá	[[tls:concept:TOOTH::#uuid-d584f96d-9564-4b7e-8834-1348db3c1acf][TOOTH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / fangs; teeth
+** 誒笑狂只	and wild, mad laughter.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:04; SBBY 364; Huang 174; Fu 171; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:1a31:50::誒笑 / 楚辭
+:CHARPOS: 50
+:END:
+*** 誒笑@xīxiào
+:PROPERTIES:
+:CONCEPT: uuid-4da33ce2-9a2f-4006-889e-acb6d2ce5f38 / GRIN
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+誒笑@xīxiào	[[tls:concept:GRIN::#uuid-4da33ce2-9a2f-4006-889e-acb6d2ce5f38][GRIN]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / put on a disdainful grinning grimace
+*** 笑@xiào
+:PROPERTIES:
+:CONCEPT: uuid-99823f89-0de2-4b2f-bc8c-04313dfa5af0 / LAUGH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+笑@xiào	[[tls:concept:LAUGH::#uuid-99823f89-0de2-4b2f-bc8c-04313dfa5af0][LAUGH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / produce an audible sneer
+*** 狂@kuáng
+:PROPERTIES:
+:CONCEPT: uuid-8065ee77-bae1-4d31-80d1-6c87498a6361 / MAD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 52
+:END:
+狂@kuáng	[[tls:concept:MAD::#uuid-8065ee77-bae1-4d31-80d1-6c87498a6361][MAD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be clinically crazy or mad; be intellectually malfunctioning
+** 代水不可涉	And the Dài river that cannot be crossed,
+:PROPERTIES:
+:SRC: CC DAZHAO 01:05; SBBY 365; Huang 175; Fu 171; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:1a36:1::代水 / 楚辭
+:CHARPOS: 1
+:END:
+*** 涉@shè
+:PROPERTIES:
+:CONCEPT: uuid-686db02e-3e40-4f74-909a-afdd6df06acc / CROSS OVER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 5
+:END:
+涉@shè	[[tls:concept:CROSS OVER::#uuid-686db02e-3e40-4f74-909a-afdd6df06acc][CROSS OVER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be crossed
+** 深不可測只	whose depths are unfathomable;
+:PROPERTIES:
+:SRC: CC DAZHAO 01:05; SBBY 365; Huang 175; Fu 171; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:1a37:50::深不 / 楚辭
+:CHARPOS: 50
+:END:
+*** 測@cè
+:PROPERTIES:
+:CONCEPT: uuid-3e2e5a40-79a4-4de3-9bb6-53de01709a59 / ASSESS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+測@cè	[[tls:concept:ASSESS::#uuid-3e2e5a40-79a4-4de3-9bb6-53de01709a59][ASSESS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / fathomable 不測"unfathomable"
+** 天白顥顥寒凝凝只	And the sky is white and glittering, and all is congealed with cold.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:05; SBBY 365; Huang 175; Fu 171; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:1a38:50::天白 / 楚辭
+:CHARPOS: 50
+:END:
+*** 顥@hào
+:PROPERTIES:
+:CONCEPT: uuid-c34bec07-43a9-4fec-b9a1-a15453c12cc7 / BRIGHT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 52
+:END:
+顥@hào	[[tls:concept:BRIGHT::#uuid-c34bec07-43a9-4fec-b9a1-a15453c12cc7][BRIGHT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be bright and shining; be glittering
+*** 凝@níng
+:PROPERTIES:
+:CONCEPT: uuid-fb574535-0536-4be7-824f-f6493f788b89 / CONCENTRATE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 55
+:END:
+凝@níng	[[tls:concept:CONCENTRATE::#uuid-fb574535-0536-4be7-824f-f6493f788b89][CONCENTRATE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / concentrate one's mind ZHUANG[congealed with cold][CA]
+** 魂乎無往盈北極只	O soul, go not to the north! There is no bourne there to your journeying.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:05; SBBY 365; Huang 175; Fu 171; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:1a39:50::魂乎 / 楚辭
+:CHARPOS: 50
+:END:
+*** 魂@hún
+:PROPERTIES:
+:CONCEPT: uuid-13a68762-c8e6-4e03-a373-91a090490928 / SOUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 50
+:END:
+魂@hún	[[tls:concept:SOUL::#uuid-13a68762-c8e6-4e03-a373-91a090490928][SOUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / male soul which returns to heaven;
+** 自恣荊楚安以定只	Enjoy yourself in your land of Chǔ, tranquil and untroubled.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:06; SBBY 366; Huang 175; Fu 171; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:2a01:1::自恣 / 楚辭
+:CHARPOS: 1
+:END:
+*** 恣@zì
+:PROPERTIES:
+:CONCEPT: uuid-88fd38e5-9b23-4aa0-943e-4533e1f74df8 / UNRESTRAINED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 2
+:END:
+恣@zì	[[tls:concept:UNRESTRAINED::#uuid-88fd38e5-9b23-4aa0-943e-4533e1f74df8][UNRESTRAINED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause (oneself) to be unrestrained> give free rein to (oneself)
+** 窮身永樂年壽延只	Number your days out in lasting pleasure, to old age, full of years.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:06; SBBY 366; Huang 175; Fu 171; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:2a03:1::窮身 / 楚辭
+:CHARPOS: 1
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-5cf1c23e-f924-4132-8824-76cdec947016 / LIVE
+:SYN-FUNC: uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693
+:CHARPOS: 2
+:END:
+身@shēn	[[tls:concept:LIVE::#uuid-5cf1c23e-f924-4132-8824-76cdec947016][LIVE]]	N [[tls:syn-func::#uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693][nab.post-N]] / life-time; personal survival; one's life as an individual (as someting one might lose, or which might be endangered)
+** 鮮蠵甘雞和楚酪只	Fresh turtle, succulent chicken, dressed with the sauce of Chǔ;
+:PROPERTIES:
+:SRC: CC DAZHAO 01:08; SBBY 367; Huang 176; Fu 172; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:2a09:1::鮮蠵 / 楚辭
+:CHARPOS: 1
+:END:
+*** 鮮@xiān
+:PROPERTIES:
+:CONCEPT: uuid-7845c494-1d09-4844-9386-b5f10ec174b2 / FRESH
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+鮮@xiān	[[tls:concept:FRESH::#uuid-7845c494-1d09-4844-9386-b5f10ec174b2][FRESH]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / fresh
+** 魂兮歸徠恣所擇只	O soul, come back! Indulge in your own choice!
+:PROPERTIES:
+:SRC: CC DAZHAO 01:08; SBBY 367; Huang 176; Fu 172; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:2a12:1::魂兮 / 楚辭
+:CHARPOS: 1
+:END:
+*** 擇@zé
+:PROPERTIES:
+:CONCEPT: uuid-fc5ae009-0bba-48cb-ae61-0fec330903d1 / CHOOSE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+擇@zé	[[tls:concept:CHOOSE::#uuid-fc5ae009-0bba-48cb-ae61-0fec330903d1][CHOOSE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / select (as a neighbourhood to live in); make a choice of; make a free and proper choice of, HF 6.3.30: choose freely (a ruler whom one wishes to serve)
+** 炙鴰烝鳧煔鶉敶只	Roast crane next is served, steamed duck and broiled quails,
+:PROPERTIES:
+:SRC: CC DAZHAO 01:09; SBBY 368; Huang 177; Fu 172; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:2a13:50::炙鴰 / 楚辭
+:CHARPOS: 50
+:END:
+*** 炙@zhì
+:PROPERTIES:
+:CONCEPT: uuid-f58e9573-b7e4-4a71-a39e-5c0ce426c317 / GRILL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CONCEPT: uuid-d812fa75-5191-4ecc-9bbf-c41112381c43 / GRILL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+炙@zhì	[[tls:concept:GRILL::#uuid-f58e9573-b7e4-4a71-a39e-5c0ce426c317][GRILL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / roasted; grilled
+〓#@	[[tls:concept:GRILL::#uuid-d812fa75-5191-4ecc-9bbf-c41112381c43][GRILL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / grilled; steamed; broiled???
+*** 鴰@guā
+:PROPERTIES:
+:CONCEPT: uuid-fc923e1f-ad79-4fe0-b701-c14a4516aaa7 / BIRDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+鴰@guā	[[tls:concept:BIRDS::#uuid-fc923e1f-ad79-4fe0-b701-c14a4516aaa7][BIRDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / kind of bird
+*** 烝@zhēng
+:PROPERTIES:
+:CONCEPT: uuid-14f8fdde-fb69-40b2-97cf-ad25a08422dd / STEAM FOOD
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 52
+:END:
+烝@zhēng	[[tls:concept:STEAM FOOD::#uuid-14f8fdde-fb69-40b2-97cf-ad25a08422dd][STEAM FOOD]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / steamed
+*** 鳧@fú
+:PROPERTIES:
+:CONCEPT: uuid-331379bc-dfc0-4932-b3d7-cc79b9bd8507 / DUCK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+鳧@fú	[[tls:concept:DUCK::#uuid-331379bc-dfc0-4932-b3d7-cc79b9bd8507][DUCK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / wild duck (much appreciated as a delicacy); 妗挀� "tame duck"????
+*** 鶉@chún
+:PROPERTIES:
+:CONCEPT: uuid-18077e8e-0100-499e-a0b7-19cc97adee4d / BIRDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 55
+:END:
+鶉@chún	[[tls:concept:BIRDS::#uuid-18077e8e-0100-499e-a0b7-19cc97adee4d][BIRDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / quail
+** 煎鰿𦞦雀遽爽存只	Fried bream, stewed magpies, and green goose, broiled.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:09; SBBY 368; Huang 177; Fu 172; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:2a14:50::煎鰿 / 楚辭
+:CHARPOS: 50
+:END:
+*** 煎@jiān
+:PROPERTIES:
+:CONCEPT: uuid-4e85144e-3323-4ca5-bda2-4afdb39fa5ba / BOIL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+煎@jiān	[[tls:concept:BOIL::#uuid-4e85144e-3323-4ca5-bda2-4afdb39fa5ba][BOIL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / boiled
+*** 雀@què
+:PROPERTIES:
+:CONCEPT: uuid-4fad6a50-6464-4a84-b8e2-c5ccb6dd7340 / BIRDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+雀@què	[[tls:concept:BIRDS::#uuid-4fad6a50-6464-4a84-b8e2-c5ccb6dd7340][BIRDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / sparrow
+** 魂乎歸徠麗以先只	40 O soul, come back! Choice things are spread before you.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:09; SBBY 368; Huang 177; Fu 172; tr. Hawkes 234;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:2a16:50::魂乎 / 楚辭
+:CHARPOS: 50
+:END:
+*** 麗@lì
+:PROPERTIES:
+:CONCEPT: uuid-4e782b7e-933b-4790-b81f-28b5735cb156 / BEAUTIFUL
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 54
+:END:
+麗@lì	[[tls:concept:BEAUTIFUL::#uuid-4e782b7e-933b-4790-b81f-28b5735cb156][BEAUTIFUL]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / stately and beautiful things
+** 謳和揚阿趙簫倡只	The singers chorus 'The Sunny Bank' to the music of Zhào flutes.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:10; SBBY 369; Huang 177; Fu 172; tr. Hawkes 235;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a05:1::謳和 / 楚辭
+:CHARPOS: 1
+:END:
+*** 謳@ōu
+:PROPERTIES:
+:CONCEPT: uuid-662a69a2-3b72-4941-a88f-c9f5df307ac0 / SING
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+謳@ōu	[[tls:concept:SING::#uuid-662a69a2-3b72-4941-a88f-c9f5df307ac0][SING]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / sing (a song); sing about (a person, something)
+** 二八接舞投詩賦只	Two teams of eight join in a dance to the chanting of poetry;
+:PROPERTIES:
+:SRC: CC DAZHAO 01:11; SBBY 370; Huang 177; Fu 172; tr. Hawkes 235;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a07:1::二八 / 楚辭
+:CHARPOS: 1
+:END:
+*** 舞@wǔ
+:PROPERTIES:
+:CONCEPT: uuid-65a789dc-88e4-4322-8477-a8ceb7be17a4 / DANCE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+舞@wǔ	[[tls:concept:DANCE::#uuid-65a789dc-88e4-4322-8477-a8ceb7be17a4][DANCE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / OBI 4: dance (for rain); generally: dance　(also occasionally said of animals like cranes)
+** 叩鍾調磬娛人亂只	50 Bells and stone-chimes sound in unison as the musicians move into the luàn,
+:PROPERTIES:
+:SRC: CC DAZHAO 01:11; SBBY 370; Huang 177; Fu 172; tr. Hawkes 235;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a08:50::叩鍾 / 楚辭
+:CHARPOS: 50
+:END:
+*** 叩@kòu
+:PROPERTIES:
+:CONCEPT: uuid-ab2bc067-9a15-4774-bb0a-85ed0a60f358 / KNOCK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+叩@kòu	[[tls:concept:KNOCK::#uuid-ab2bc067-9a15-4774-bb0a-85ed0a60f358][KNOCK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / knock at; strike against so as to make a sound
+** 四上競氣極聲變只	And the four trebles blow with all their might as they enter the final modulation.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:11; SBBY 370; Huang 177; Fu 172; tr. Hawkes 235;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a09:50::四上 / 楚辭
+:CHARPOS: 50
+:END:
+*** 競@jìng
+:PROPERTIES:
+:CONCEPT: uuid-dd5a37a1-d3d9-43d8-a96c-196606d9fbab / COMPETE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 52
+:END:
+競@jìng	[[tls:concept:COMPETE::#uuid-dd5a37a1-d3d9-43d8-a96c-196606d9fbab][COMPETE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in competition with each other
+** 朱脣皓齒嫭以姱只	Ah, the vermeil lips and dazzling teeth, lovely and alluring!
+:PROPERTIES:
+:SRC: CC DAZHAO 01:12; SBBY 370; Huang 178; Fu 172; tr. Hawkes 235;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a11:1::朱脣 / 楚辭
+:CHARPOS: 1
+:END:
+*** 朱@zhū
+:PROPERTIES:
+:CONCEPT: uuid-27a4f47e-4894-48dc-b94c-2821cdc922be / RED
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+朱@zhū	[[tls:concept:RED::#uuid-27a4f47e-4894-48dc-b94c-2821cdc922be][RED]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / bright and lively red
+*** 皓@hào
+:PROPERTIES:
+:CONCEPT: uuid-ced5405b-0095-4e07-8779-99ea1c8a5a60 / WHITE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+皓@hào	[[tls:concept:WHITE::#uuid-ced5405b-0095-4e07-8779-99ea1c8a5a60][WHITE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / flashing white (as beautiful women's teeth)
+*** 齒@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-1746fd32-4392-4099-9301-85f00369ea1d / TOOTH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+齒@chǐ	[[tls:concept:TOOTH::#uuid-1746fd32-4392-4099-9301-85f00369ea1d][TOOTH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (normally human or equine etc) front teeth, tooth
+*** 嫭@hù
+:PROPERTIES:
+:CONCEPT: uuid-b8edfbad-1b0d-47b2-863c-b76511789de3 / BEAUTIFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 5
+:END:
+嫭@hù	[[tls:concept:BEAUTIFUL::#uuid-b8edfbad-1b0d-47b2-863c-b76511789de3][BEAUTIFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / beautiful
+*** 姱@kuā
+:PROPERTIES:
+:CONCEPT: uuid-149cfa12-3da1-4b79-94a3-55e42fa6e1cf / SEXY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 7
+:END:
+姱@kuā	[[tls:concept:SEXY::#uuid-149cfa12-3da1-4b79-94a3-55e42fa6e1cf][SEXY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / lovely, attractive
+** 比德好閒習以都只	The uniformity of exellence, skilfull and imposing!
+:PROPERTIES:
+:SRC: CC DAZHAO 01:12; SBBY 370; Huang 178; Fu 172; tr. Hawkes 235;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a12:50::比德 / 楚辭
+:CHARPOS: 50
+:END:
+*** 都@dū
+:PROPERTIES:
+:CONCEPT: uuid-335802b8-b304-4919-a54b-d8c28bb6b151 / BEAUTIFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 56
+:END:
+都@dū	[[tls:concept:BEAUTIFUL::#uuid-335802b8-b304-4919-a54b-d8c28bb6b151][BEAUTIFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / urbanely beautiful; be beautiful in a refined way; stately, imposing
+** 豐肉微骨調以娛只	55 The well-rounded flesh and fine bones, elegant and pleasing!
+:PROPERTIES:
+:SRC: CC DAZHAO 01:12; SBBY 370; Huang 178; Fu 172; tr. Hawkes 235;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a13:50::豐肉 / 楚辭
+:CHARPOS: 50
+:END:
+*** 娛@yú / 虞@yú
+:PROPERTIES:
+:CONCEPT: uuid-799d4ea6-5e28-4a90-9787-d79864fd1fc5 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 56
+:END:
+娛@yú / 虞@yú	[[tls:concept:HAPPY::#uuid-799d4ea6-5e28-4a90-9787-d79864fd1fc5][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / indulge in one's happiness; feel happily gratified
+** 嫮目宜笑	And there are lovely eyes, flashing smiles
+:PROPERTIES:
+:SRC: CC DAZHAO 01:13; SBBY 371; Huang 178; Fu 172; tr. Hawkes 235;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a15:1::嫮目 / 楚辭
+:CHARPOS: 1
+:END:
+*** 笑@xiào
+:PROPERTIES:
+:CONCEPT: uuid-df13bf15-de49-43d9-a505-750ec3c92160 / SMILE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+笑@xiào	[[tls:concept:SMILE::#uuid-df13bf15-de49-43d9-a505-750ec3c92160][SMILE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / smile in a beguiling manner (of women)
+** 容則秀雅	And faces of delicate refinement, glowing with the rosy flush of youth:
+:PROPERTIES:
+:SRC: CC DAZHAO 01:13; SBBY 371; Huang 178; Fu 172; tr. Hawkes 235;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a17:1::容則 / 楚辭
+:CHARPOS: 1
+:END:
+*** 秀@xiù
+:PROPERTIES:
+:CONCEPT: uuid-259bf158-250a-4cc9-961b-9cb73e823547 / BEAUTIFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+秀@xiù	[[tls:concept:BEAUTIFUL::#uuid-259bf158-250a-4cc9-961b-9cb73e823547][BEAUTIFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be strikingly beautiful, be resplendent
+*** 秀雅@xiùyǎ
+:PROPERTIES:
+:CONCEPT: uuid-44a5fd5e-b3c5-4e51-a4ee-d4316807732c / BEAUTIFUL
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 3
+:END:
+秀雅@xiùyǎ	[[tls:concept:BEAUTIFUL::#uuid-44a5fd5e-b3c5-4e51-a4ee-d4316807732c][BEAUTIFUL]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be beauteous
+*** 雅@yǎ
+:PROPERTIES:
+:CONCEPT: uuid-9caa19d3-977c-4164-8937-bb42a8231770 / BEAUTIFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+雅@yǎ	[[tls:concept:BEAUTIFUL::#uuid-9caa19d3-977c-4164-8937-bb42a8231770][BEAUTIFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be dignified, be elegant and handsome, be in the proper elegant style
+** 穉朱顏只	Beauty overflowing in abundance, goodness and grace to match it.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:13; SBBY 371; Huang 178; Fu 172; tr. Hawkes 235;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a18:50::穉朱 / 楚辭
+:CHARPOS: 50
+:END:
+*** 顏@yán
+:PROPERTIES:
+:CONCEPT: uuid-c7778047-9aa9-4855-81f4-f03195a5e96c / FACE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+顏@yán	[[tls:concept:FACE::#uuid-c7778047-9aa9-4855-81f4-f03195a5e96c][FACE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / upper part of the face; countenance
+** 小腰秀頸若鮮卑只	Small waists and necks long and slender as golden xiān-bēi buckles.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:14; SBBY 371; Huang 178; Fu 173; tr. Hawkes 235;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a25:1::小腰 / 楚辭
+:CHARPOS: 1
+:END:
+*** 小@xiǎo
+:PROPERTIES:
+:CONCEPT: uuid-0fdd5582-2a8d-49d4-bd09-ad747b79d14b / SMALL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CONCEPT: uuid-d3ee3147-e587-4ccc-a92a-d5868213bb55 / CHEEK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+小@xiǎo	[[tls:concept:SMALL::#uuid-0fdd5582-2a8d-49d4-bd09-ad747b79d14b][SMALL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / small; small in circumference
+頰@jiá / @	[[tls:concept:CHEEK::#uuid-d3ee3147-e587-4ccc-a92a-d5868213bb55][CHEEK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / cheek, jowl
+*** 腰@yāo / 要@yāo
+:PROPERTIES:
+:CONCEPT: uuid-4faa1bce-4827-40fe-a59c-436dd5b64ef1 / WAIST
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+腰@yāo / 要@yāo	[[tls:concept:WAIST::#uuid-4faa1bce-4827-40fe-a59c-436dd5b64ef1][WAIST]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / waist
+*** 秀@xiù
+:PROPERTIES:
+:CONCEPT: uuid-196342c0-b564-49f7-90a9-bc45eecec68b / BEAUTIFUL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+秀@xiù	[[tls:concept:BEAUTIFUL::#uuid-196342c0-b564-49f7-90a9-bc45eecec68b][BEAUTIFUL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / resplendent, delicate
+*** 頸@jǐng
+:PROPERTIES:
+:CONCEPT: uuid-6a479862-7ea1-4ec9-890f-6315890a7211 / NECK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+頸@jǐng	[[tls:concept:NECK::#uuid-6a479862-7ea1-4ec9-890f-6315890a7211][NECK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / front of neck, throat; whole of neck
+** 青色直眉美目媔只	Ah, the straight brows, jet in hue, the lovely eyes, large and lustruous!
+:PROPERTIES:
+:SRC: CC DAZHAO 01:16; SBBY 372; Huang 179; Fu 173; tr. Hawkes 236;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a31:1::青色 / 楚辭
+:CHARPOS: 1
+:END:
+*** 〓#@
+:PROPERTIES:
+:CONCEPT: uuid-44b58776-711f-4857-a129-5ccef50696e8 / BEAUTIFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 1
+:END:
+〓#@	[[tls:concept:BEAUTIFUL::#uuid-44b58776-711f-4857-a129-5ccef50696e8][BEAUTIFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be beautiful
+*** 美@měi / 媄@měi / 媺@měi
+:PROPERTIES:
+:CONCEPT: uuid-487f73fc-4e76-404b-b607-1792574f31ed / BEAUTIFUL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-46e35a96-3824-4d97-9ca7-75ad18c5a19d
+:CHARPOS: 5
+:END:
+美@měi / 媄@měi / 媺@měi	[[tls:concept:BEAUTIFUL::#uuid-487f73fc-4e76-404b-b607-1792574f31ed][BEAUTIFUL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-46e35a96-3824-4d97-9ca7-75ad18c5a19d][visual]]} / attractive; wonderful; handsome, splendid, admirable; illustrious (name); elaborate and beautiful, lavish; of soil: be rich and good; of high quality; (also of sounds:) attractiveIn SJ & HS, 好女 and 美女 appear mainly as temptresses, gift objects that corrupt rulers; in this collocation, 好 and 美 would be "attractive." A very large number of females characterised simpl as 美 are prospective brides. 美 (but not 麗 ) is often used in connection with abstracta, such as deeds, words, customs and virtues. [JP]
+*** 目@mù
+:PROPERTIES:
+:CONCEPT: uuid-72ffa04a-eed4-4c23-93aa-5574ac8357c4 / EYE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+目@mù	[[tls:concept:EYE::#uuid-72ffa04a-eed4-4c23-93aa-5574ac8357c4][EYE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / eye
+** 靨輔奇牙宜笑嘕只	70 The dimpling cheeks and fine teeth, flashing in winning smiles!
+:PROPERTIES:
+:SRC: CC DAZHAO 01:16; SBBY 372; Huang 179; Fu 173; tr. Hawkes 236;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a32:50::靨輔 / 楚辭
+:CHARPOS: 50
+:END:
+*** 牙@yá
+:PROPERTIES:
+:CONCEPT: uuid-537dae0e-fad1-4c2e-b573-e309d736112c / TOOTH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-2e377e0e-02e8-437f-86ce-f041186bc7aa
+:CHARPOS: 53
+:END:
+牙@yá	[[tls:concept:TOOTH::#uuid-537dae0e-fad1-4c2e-b573-e309d736112c][TOOTH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-2e377e0e-02e8-437f-86ce-f041186bc7aa][human]]} / human teeth, visible
+*** 笑@xiào
+:PROPERTIES:
+:CONCEPT: uuid-df13bf15-de49-43d9-a505-750ec3c92160 / SMILE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+笑@xiào	[[tls:concept:SMILE::#uuid-df13bf15-de49-43d9-a505-750ec3c92160][SMILE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / smile in a beguiling manner (of women)
+** 豐肉微骨體便娟只	The well-rounded flesh and fine bones, the lithe and graceful limbs!
+:PROPERTIES:
+:SRC: CC DAZHAO 01:16; SBBY 372; Huang 179; Fu 173; tr. Hawkes 236;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:3a33:50::豐肉 / 楚辭
+:CHARPOS: 50
+:END:
+*** 豐@fēng
+:PROPERTIES:
+:CONCEPT: uuid-99b2dc93-a0a5-4905-8aab-b1764ef79e82 / FAT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+豐@fēng	[[tls:concept:FAT::#uuid-99b2dc93-a0a5-4905-8aab-b1764ef79e82][FAT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / rich; well-nourished; well-rounded
+*** 體@tǐ
+:PROPERTIES:
+:CONCEPT: uuid-39b00dce-3e66-4507-834f-1ec3eb135b29 / LIMB
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 54
+:END:
+體@tǐ	[[tls:concept:LIMB::#uuid-39b00dce-3e66-4507-834f-1ec3eb135b29][LIMB]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / limbs including the head; also: body parts generally 四體，五體，百體
+** 夏屋廣大沙堂秀只	The main hall is large and spacious; the audience chamber resplendent with scarlet woodwork;
+:PROPERTIES:
+:SRC: CC DAZHAO 01:17; SBBY 373; Huang 179; Fu 173; tr. Hawkes 236;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:4a01:1::夏屋 / 楚辭
+:CHARPOS: 1
+:END:
+*** 屋@wū
+:PROPERTIES:
+:CONCEPT: uuid-2ab4e878-03c7-461f-9cfd-4669148753c8 / ROOM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+屋@wū	[[tls:concept:ROOM::#uuid-2ab4e878-03c7-461f-9cfd-4669148753c8][ROOM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / room
+*** 秀@xiù
+:PROPERTIES:
+:CONCEPT: uuid-259bf158-250a-4cc9-961b-9cb73e823547 / BEAUTIFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 7
+:END:
+秀@xiù	[[tls:concept:BEAUTIFUL::#uuid-259bf158-250a-4cc9-961b-9cb73e823547][BEAUTIFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be strikingly beautiful, be resplendent
+** 南房小壇觀絕霤只	A solar in the southern building rises high above the roof-eaves;
+:PROPERTIES:
+:SRC: CC DAZHAO 01:17; SBBY 373; Huang 179; Fu 173; tr. Hawkes 236;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:4a02:50::南房 / 楚辭
+:CHARPOS: 50
+:END:
+*** 房@fáng
+:PROPERTIES:
+:CONCEPT: uuid-db4322f7-3d06-43ed-ae40-8d53139a952b / BUILDING
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+房@fáng	[[tls:concept:BUILDING::#uuid-db4322f7-3d06-43ed-ae40-8d53139a952b][BUILDING]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / wing of a dwelling
+*** 壇@tán
+:PROPERTIES:
+:CONCEPT: uuid-08d75d76-a175-4409-a176-6456ecb94ef5 / ALTAR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+壇@tán	[[tls:concept:ALTAR::#uuid-08d75d76-a175-4409-a176-6456ecb94ef5][ALTAR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / altar, sacrificial mound; high ground round a building used for ritual or sacrificial purposes
+** 曲屋步壛宜擾畜只	And loggias run round about, and covered walks for exercising beasts in...
+:PROPERTIES:
+:SRC: CC DAZHAO 01:17; SBBY 373; Huang 179; Fu 173; tr. Hawkes 236;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:4a03:50::曲屋 / 楚辭
+:CHARPOS: 50
+:END:
+*** 步壛@bùyán
+:PROPERTIES:
+:CONCEPT: uuid-25b8a22a-681e-4e82-8a7f-a5d4795e448f / CORRIDOR
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 52
+:END:
+步壛@bùyán	[[tls:concept:CORRIDOR::#uuid-25b8a22a-681e-4e82-8a7f-a5d4795e448f][CORRIDOR]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / covered walkway, covered corridor between buildings or around buildings
+** 孔雀盈園畜鸞皇只	80 The gardens are stocked with peacocks; phoenixes too are found there;
+:PROPERTIES:
+:SRC: CC DAZHAO 01:19; SBBY 374; Huang 180; Fu 173; tr. Hawkes 236;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:4a08:1::孔雀 / 楚辭
+:CHARPOS: 1
+:END:
+*** 鸞@luán
+:PROPERTIES:
+:CONCEPT: uuid-cf310e69-dd6b-40f6-a73c-345f3456ea88 / PHENIX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+鸞@luán	[[tls:concept:PHENIX::#uuid-cf310e69-dd6b-40f6-a73c-345f3456ea88][PHENIX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / phoenix
+** 鵾鴻群晨雜鶖鶬只	The jungle-fowl chorus at dawn; bald crane are mixed among them; 214
+:PROPERTIES:
+:SRC: CC DAZHAO 01:19; SBBY 374; Huang 180; Fu 173; tr. Hawkes 236;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:4a09:50::鵾鴻 / 楚辭
+:CHARPOS: 50
+:END:
+*** 鶖@qiū
+:PROPERTIES:
+:CONCEPT: uuid-8c7571eb-ef17-4bde-b9cc-2265fbcdc5c1 / BIRDS OF PREY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 55
+:END:
+鶖@qiū	[[tls:concept:BIRDS OF PREY::#uuid-8c7571eb-ef17-4bde-b9cc-2265fbcdc5c1][BIRDS OF PREY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / water bird; stork
+*** 鶬@cāng
+:PROPERTIES:
+:CONCEPT: uuid-97f3b71d-d965-4497-b01b-4697e99874fe / BIRDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 56
+:END:
+鶬@cāng	[[tls:concept:BIRDS::#uuid-97f3b71d-d965-4497-b01b-4697e99874fe][BIRDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / crane
+** 鴻鵠代遊曼鷫鷞只	Swans fly to and fro; green geese wander around.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:19; SBBY 374; Huang 180; Fu 173; tr. Hawkes 236;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:4a10:50::鴻鵠 / 楚辭
+:CHARPOS: 50
+:END:
+*** 鵠@hú
+:PROPERTIES:
+:CONCEPT: uuid-dbad6935-f7a9-4c14-b6fe-4d771e68b03a / BIRDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+鵠@hú	[[tls:concept:BIRDS::#uuid-dbad6935-f7a9-4c14-b6fe-4d771e68b03a][BIRDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / Pulleyblank: swan, Cygnus bewicki; Hightower: translates the yellow variety as heron
+*** 鷫@sù
+:PROPERTIES:
+:CONCEPT: uuid-cf26fea9-a9c4-4e3a-90d2-fac880da0807 / BIRDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 55
+:END:
+鷫@sù	[[tls:concept:BIRDS::#uuid-cf26fea9-a9c4-4e3a-90d2-fac880da0807][BIRDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / kind of bird; kingfisher??
+*** 鷞@shuāng
+:PROPERTIES:
+:CONCEPT: uuid-6f72b65a-26b7-44a5-b99b-80896c9ffdbc / BIRDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 56
+:END:
+鷞@shuāng	[[tls:concept:BIRDS::#uuid-6f72b65a-26b7-44a5-b99b-80896c9ffdbc][BIRDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / kind of bird; kingfisher??
+** 曼澤怡面血氣盛只	Come the sleek, happy face, and lusty, sanguine health:
+:PROPERTIES:
+:SRC: CC DAZHAO 01:20; SBBY 375; Huang 1i2; Fu 173; tr. Hawkes 236;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:4a12:1::曼澤 / 楚辭
+:CHARPOS: 1
+:END:
+*** 怡@yí / 台@yí
+:PROPERTIES:
+:CONCEPT: uuid-a306a201-b586-468b-8966-87235d4af284 / HAPPY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+怡@yí / 台@yí	[[tls:concept:HAPPY::#uuid-a306a201-b586-468b-8966-87235d4af284][HAPPY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / happy; expressive of happiness; benign
+*** 血氣@xuèqì
+:PROPERTIES:
+:CONCEPT: uuid-97f985d3-2afd-42c6-a47b-f46c5923b02f / ENERGY
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:CHARPOS: 5
+:END:
+血氣@xuèqì	[[tls:concept:ENERGY::#uuid-97f985d3-2afd-42c6-a47b-f46c5923b02f][ENERGY]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / blood energy> blood, physical energies; vital spirits
+** 永宜厥身保壽命只	85 A body that will maintain fitness to ripe old age.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:20; SBBY 375; Huang 1i2; Fu 173; tr. Hawkes 236;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:4a13:50::永宜 / 楚辭
+:CHARPOS: 50
+:END:
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-3a9dd862-1011-47c8-ba30-b84a1b4a98a0 / BODY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+身@shēn	[[tls:concept:BODY::#uuid-3a9dd862-1011-47c8-ba30-b84a1b4a98a0][BODY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / body as a whole; especially the main trunk as opposed to the head; body as embodying the person
+** 察篤夭隱孤寡存只	90 Watching over the young and meek, upholding the orphan and the widow.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:21; SBBY 375; Huang 1i2; Fu 173; tr. Hawkes 237;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:4a18:1::察篤 / 楚辭
+:CHARPOS: 1
+:END:
+*** 孤寡@gūguǎ
+:PROPERTIES:
+:CONCEPT: uuid-1c7be1c4-3109-49d2-a463-02b5b0d0f1be / BEREAVED
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 5
+:END:
+孤寡@gūguǎ	[[tls:concept:BEREAVED::#uuid-1c7be1c4-3109-49d2-a463-02b5b0d0f1be][BEREAVED]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the bereaved; orphans and widows
+** 美冒眾流德澤章只	Your benignity falls on all classes of men; glorious are your rich favours;
+:PROPERTIES:
+:SRC: CC DAZHAO 01:22; SBBY 376; Huang 1i2; Fu 174; tr. Hawkes 237;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:5a02:1::美冒 / 楚辭
+:CHARPOS: 1
+:END:
+*** 美@měi
+:PROPERTIES:
+:CONCEPT: uuid-4da01220-dc6d-4b63-bbbc-7a9aef13d017 / GOOD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 1
+:END:
+美@měi	[[tls:concept:GOOD::#uuid-4da01220-dc6d-4b63-bbbc-7a9aef13d017][GOOD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / moral attractiveness
+** 先威後文善美明只	Dread goes before you; peaceful arts follow you; the beauty of your goodness is manifest.
+:PROPERTIES:
+:SRC: CC DAZHAO 01:22; SBBY 376; Huang 1i2; Fu 174; tr. Hawkes 237;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:5a03:50::先威 / 楚辭
+:CHARPOS: 50
+:END:
+*** 文@wén
+:PROPERTIES:
+:CONCEPT: uuid-349cddc2-8832-4368-a8e3-46ba1289002d / POLITICS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+文@wén	[[tls:concept:POLITICS::#uuid-349cddc2-8832-4368-a8e3-46ba1289002d][POLITICS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / civil flexibility (as opposed to militarist severity)
+** 魂乎徠歸國家為只	105 O soul, come back, and let the state be ruled!
+:PROPERTIES:
+:SRC: CC DAZHAO 01:24; SBBY 377; Huang 1i3; Fu 174; tr. Hawkes 237;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:5a14:1::魂乎 / 楚辭
+:CHARPOS: 1
+:END:
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 5
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation
+** 諸侯畢極立九卿只	The princes are all assembled; the Nine Ministers have taken their places;
+:PROPERTIES:
+:SRC: CC DAZHAO 01:25; SBBY 378; Huang 1i3; Fu 174; tr. Hawkes 238;
+:DATE: 5000	Old Chinese
+:LOCATION: KR4a0001_010:5a17:1::諸侯 / 楚辭
+:CHARPOS: 1
+:END:
+*** 畢@bì
+:PROPERTIES:
+:CONCEPT: uuid-175db878-fcaf-4fc7-ab1f-71b3a302caaf / ALL
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-d579c8ae-df31-4e0c-941f-27b2e0b784f9
+:CHARPOS: 3
+:END:
+畢@bì	[[tls:concept:ALL::#uuid-175db878-fcaf-4fc7-ab1f-71b3a302caaf][ALL]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-d579c8ae-df31-4e0c-941f-27b2e0b784f9][reference=subject]]} / all; completely; exhaustively; all one after the other

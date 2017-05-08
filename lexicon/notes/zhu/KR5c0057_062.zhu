@@ -1,0 +1,58 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_062
+#+DATE: 2017-02-08T16:43:47+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 道者萬物之奧也	The Tao is the sanctuary of the myriad things,
+:PROPERTIES:
+:SRC: LAO 62.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_062:1a01:50::道者 / 老子
+:CHARPOS: 50
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844
+:CHARPOS: 51
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-131bc4a0-8b6a-492f-a3db-aef6cdd70058][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-7dff10f6-8d70-4a46-9b50-f6eb6fef4844][npro.post-N{PRED}]] / nominalising suffix after nominal elements, marking subjects that are topics at the same time 仁者 "as for goodness" (Note the occasional presence of demonstrative pronouns as in 彼聖人者)
+** 善人之寶也	it is the treasure of the good man,
+:PROPERTIES:
+:SRC: LAO 62.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_062:1a02:50::善人 / 老子
+:CHARPOS: 50
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-0ed89176-fabe-44a0-b5b0-4bc53f21c46c / PRECIOUS
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 53
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-0ed89176-fabe-44a0-b5b0-4bc53f21c46c][PRECIOUS]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / most important thing, objectively most valuable thing 諸侯之寶三
+** 不善人之所保也	it is that by which the bad man is (protected:) preserved.
+:PROPERTIES:
+:SRC: LAO 62.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_062:1a03:50::不善 / 老子
+:CHARPOS: 50
+:END:
+*** 不善@bùshàn
+:PROPERTIES:
+:CONCEPT: uuid-58a89270-d6db-4547-aab8-c896e41f91ef / WICKED
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:SEM-FEAT: uuid-9530ae9f-75b5-410f-9376-4472f38c74c0
+:CHARPOS: 50
+:END:
+不善@bùshàn	[[tls:concept:WICKED::#uuid-58a89270-d6db-4547-aab8-c896e41f91ef][WICKED]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] {[[tls:sem-feat::#uuid-9530ae9f-75b5-410f-9376-4472f38c74c0][litotes]]} / inferior, bad 不善人，不善之性
+** 人之不善也	The bad ones among men,
+:PROPERTIES:
+:SRC: LAO 62.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_062:1a06:1::人之 / 老子
+:CHARPOS: 1
+:END:
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-ab24920f-95da-413c-8ea4-567a1e39115c / RELATIVE CLAUSE MARKER
+:SYN-FUNC: uuid-e7820165-f05e-4167-ba21-60a4c52ea70a
+:CHARPOS: 2
+:END:
+之@zhī	[[tls:concept:RELATIVE CLAUSE MARKER::#uuid-ab24920f-95da-413c-8ea4-567a1e39115c][RELATIVE CLAUSE MARKER]]	P [[tls:syn-func::#uuid-e7820165-f05e-4167-ba21-60a4c52ea70a][padV.postadN]] / relative clause marker equivalent to 而

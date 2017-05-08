@@ -1,0 +1,663 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 晏子春秋 KR2g0003_002
+#+DATE: 2017-02-08T16:41:34+0900
+#+PROPERTY: COMMIT ac4506ad7f1d02bb03fc611ecd6e8e6a308765fa
+** 五尺童子	
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:2a48:1::五尺 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 童子@tóngzǐ
+:PROPERTIES:
+:CONCEPT: uuid-69782280-e843-4dee-a55e-3ba2e193aa17 / BOY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 3
+:END:
+童子@tóngzǐ	[[tls:concept:BOY::#uuid-69782280-e843-4dee-a55e-3ba2e193aa17][BOY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / mere (uncapped) adolescent, little brat; boy; (but note that the word can also refer to a girl)
+** 干戚成舞	
+:PROPERTIES:
+:SRC: --
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:2a55:1::干戚 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 干戚@gānqī
+:PROPERTIES:
+:CONCEPT: uuid-3514a756-91b0-4847-829d-8586a1f946a0 / WEAPON
+:SYN-FUNC: uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86
+:CHARPOS: 1
+:END:
+干戚@gānqī	[[tls:concept:WEAPON::#uuid-3514a756-91b0-4847-829d-8586a1f946a0][WEAPON]]	N [[tls:syn-func::#uuid-ebc1516d-e718-4b5b-ba40-aa8f43bd0e86][NPm]] / ceremonial weapons
+** 笑曰	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 97
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:4a17:1::笑曰 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 笑@xiào
+:PROPERTIES:
+:CONCEPT: uuid-9bf13177-f3c0-4775-9a38-f49e218945d5 / SMILE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-08c0b036-c239-43c5-90ea-1ca7259c7d66
+:CHARPOS: 1
+:END:
+笑@xiào	[[tls:concept:SMILE::#uuid-9bf13177-f3c0-4775-9a38-f49e218945d5][SMILE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-08c0b036-c239-43c5-90ea-1ca7259c7d66][amused]]} / with a(n amused or well-pleased) smile 笑曰
+** 勇士不以眾彊凌孤獨	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 97
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:4a49:1::勇士 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 孤獨@gūdú
+:PROPERTIES:
+:CONCEPT: uuid-11d122e0-2770-47e0-b656-1309a2e26691 / BEREAVED
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 8
+:END:
+孤獨@gūdú	[[tls:concept:BEREAVED::#uuid-11d122e0-2770-47e0-b656-1309a2e26691][BEREAVED]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / those in any way bereaved
+** 刑殺不稱謂之賊	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 97
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:4a77:1::刑殺 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 不辜@bùgū
+:PROPERTIES:
+:CONCEPT: uuid-1e6c9ae0-1377-4437-b7e9-a979a89d73a5 / INNOCENT
+:SYN-FUNC: uuid-d79e637d-2954-4daa-91c6-3cf730571a43
+:CHARPOS: 1
+:END:
+不辜@bùgū	[[tls:concept:INNOCENT::#uuid-1e6c9ae0-1377-4437-b7e9-a979a89d73a5][INNOCENT]]	V [[tls:syn-func::#uuid-d79e637d-2954-4daa-91c6-3cf730571a43][VP{adN.}postVt]] / innocent person 殺三不辜, 一不辜
+** 此三者守國之大殃也
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 97
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:4a78:50::此三 / 晏子春秋
+:CHARPOS: 50
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303 / THIS
+:SYN-FUNC: uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774
+:SEM-FEAT: uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432
+:CHARPOS: 50
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303][THIS]]	N [[tls:syn-func::#uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774][npro.adN{NUM}:adnpro]] {[[tls:sem-feat::#uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432][N=abstract]]} / 此三者
+** 微大夫教寡人	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 97
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:4a99:1::「微 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 微@wēi
+:PROPERTIES:
+:CONCEPT: uuid-27d7fa40-da11-4c3d-a561-752f8fba2ae8 / IF NOT
+:SYN-FUNC: uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37
+:CHARPOS: 1
+:END:
+微@wēi	[[tls:concept:IF NOT::#uuid-27d7fa40-da11-4c3d-a561-752f8fba2ae8][IF NOT]]	P [[tls:syn-func::#uuid-b2b50423-7ad4-40cb-815c-59efdaef2f37][padS1.adS2]] / if not, had it not been for the fact that
+** 晏子入見	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 107
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:6a08:1::晏子 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 入見@rùjiàn
+:PROPERTIES:
+:CONCEPT: uuid-60aa76f0-2d47-419d-85a5-77341105f193 / VISIT
+:SYN-FUNC: uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+入見@rùjiàn	[[tls:concept:VISIT::#uuid-60aa76f0-2d47-419d-85a5-77341105f193][VISIT]]	V [[tls:syn-func::#uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d][VPt(oN)]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / go in to have an audience with N
+** 晏子曰諾	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 110
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:8a06:1::晏子 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 諾@nuò
+:PROPERTIES:
+:CONCEPT: uuid-4167d212-8dea-470b-b24c-5c923ae94254 / AGREE TO
+:SYN-FUNC: uuid-04dc4978-046d-4430-a08b-6198445e9667
+:CHARPOS: 4
+:END:
+諾@nuò	[[tls:concept:AGREE TO::#uuid-4167d212-8dea-470b-b24c-5c923ae94254][AGREE TO]]	V [[tls:syn-func::#uuid-04dc4978-046d-4430-a08b-6198445e9667][vt{0}(oN)]] / (Said by superior) [I hereby] approve [this]. All right! (Said by inferior) Yes!
+** 喟然流涕	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 110
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:10a15:1::喟然 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 流涕@liútì
+:PROPERTIES:
+:CONCEPT: uuid-b0210f9f-16d3-42ff-89cc-e47a663635e9 / WEEP
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+流涕@liútì	[[tls:concept:WEEP::#uuid-b0210f9f-16d3-42ff-89cc-e47a663635e9][WEEP]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / shed tears
+** 執朴鞭其不務者	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 110
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:10a23:1::執朴 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 鞭@biān
+:PROPERTIES:
+:CONCEPT: uuid-674e56e4-d181-4f7b-9e9c-08e565ef1a97 / FLAY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+鞭@biān	[[tls:concept:FLAY::#uuid-674e56e4-d181-4f7b-9e9c-08e565ef1a97][FLAY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to whip; to have (someone) whipped; whip a body part
+** 歌終顧而流涕	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 111
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:12a10:1::歌終 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 流涕@liútì
+:PROPERTIES:
+:CONCEPT: uuid-b0210f9f-16d3-42ff-89cc-e47a663635e9 / WEEP
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+流涕@liútì	[[tls:concept:WEEP::#uuid-b0210f9f-16d3-42ff-89cc-e47a663635e9][WEEP]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / shed tears
+** 請成而息之	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 111
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:14a09:1::請成 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 息@xī
+:PROPERTIES:
+:CONCEPT: uuid-8b7a44d7-dc26-490a-8d04-9cfa3af2cf36 / REST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 4
+:END:
+息@xī	[[tls:concept:REST::#uuid-8b7a44d7-dc26-490a-8d04-9cfa3af2cf36][REST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / give (oneself) rest
+** 而為諸侯笑	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 118
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:16a23:1::而為 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 笑@xiào
+:PROPERTIES:
+:CONCEPT: uuid-8c484c0f-6738-459e-a8f6-c9dcfc257a7e / LAUGH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-29c52a94-4526-436c-932c-f5af98b908d3
+:CHARPOS: 5
+:END:
+笑@xiào	[[tls:concept:LAUGH::#uuid-8c484c0f-6738-459e-a8f6-c9dcfc257a7e][LAUGH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-29c52a94-4526-436c-932c-f5af98b908d3][+suo]]} / be laughed at, be sneered at
+** 公曰何以禮為	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 122
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:24a05:1::公曰 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-64cdf46a-f0a6-48b3-be53-2e5cc4cc5d08 / HOW
+:SYN-FUNC: uuid-aba77ad5-c92d-4e36-b905-413cb8d393e9
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 6
+:END:
+為@wéi	[[tls:concept:HOW::#uuid-64cdf46a-f0a6-48b3-be53-2e5cc4cc5d08][HOW]]	V [[tls:syn-func::#uuid-aba77ad5-c92d-4e36-b905-413cb8d393e9][vpostS]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how? (i.e. in no way); for what? to what purpose? (with or without additional 何)
+** 以笑諸侯	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 124
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:26a26:1::以笑 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 笑@xiào
+:PROPERTIES:
+:CONCEPT: uuid-dfc3b4f9-6c1a-4f3e-8211-af7c5dbc5e24 / LAUGH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-198691ba-80e6-412d-9b4a-668052a5bac2
+:CHARPOS: 2
+:END:
+笑@xiào	[[tls:concept:LAUGH::#uuid-dfc3b4f9-6c1a-4f3e-8211-af7c5dbc5e24][LAUGH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-198691ba-80e6-412d-9b4a-668052a5bac2][disdainful]]} / normally: find ridiculous and laugh at, sneer at
+** 居聖王之室	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 125
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:28a02:1::居聖 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 2
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+** 善其衣服節儉而眾悅也	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 125
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:28a12:1::善其 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 若其@ruòqí
+:PROPERTIES:
+:CONCEPT: uuid-b4e5aa07-9347-416f-9693-f14bd4b72941 / TOPIC MARKER
+:SYN-FUNC: uuid-ea344ea9-4657-4357-8516-9c3e581cd76b
+:CHARPOS: 1
+:END:
+若其@ruòqí	[[tls:concept:TOPIC MARKER::#uuid-b4e5aa07-9347-416f-9693-f14bd4b72941][TOPIC MARKER]]	V [[tls:syn-func::#uuid-ea344ea9-4657-4357-8516-9c3e581cd76b][VPadN{TOP}.+S]] / as for
+** 今君欲法聖王之服	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 125
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:28a56:1::今君 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 5
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+** 且公伐宮室之美	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 129
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:30a20:1::且公 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 美@měi / 媄@měi / 媺@měi
+:PROPERTIES:
+:CONCEPT: uuid-c1985871-3644-47ef-a536-1f4ab9b00549 / BEAUTIFUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 7
+:END:
+美@měi / 媄@měi / 媺@měi	[[tls:concept:BEAUTIFUL::#uuid-c1985871-3644-47ef-a536-1f4ab9b00549][BEAUTIFUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / physical beauty; handsomeness; splendour; good looks
+** 矜衣服之麗	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 129
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:30a21:50::矜衣 / 晏子春秋
+:CHARPOS: 50
+:END:
+*** 麗@lì
+:PROPERTIES:
+:CONCEPT: uuid-9e3452d1-1544-44ea-a4f0-fd34e8fb2515 / BEAUTIFUL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 54
+:END:
+麗@lì	[[tls:concept:BEAUTIFUL::#uuid-9e3452d1-1544-44ea-a4f0-fd34e8fb2515][BEAUTIFUL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / beauty; symmetric balance
+** 惡有拒而不受者哉	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 140
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:34a19:1::惡有 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 拒@jù
+:PROPERTIES:
+:CONCEPT: uuid-f67c99c1-b8e7-48dc-a1c4-572c2a15ee89 / REFUSE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 3
+:END:
+拒@jù	[[tls:concept:REFUSE::#uuid-f67c99c1-b8e7-48dc-a1c4-572c2a15ee89][REFUSE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / refuse things (and not accept them)
+** 非夫子之教	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 142
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:36a40:1::非夫 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 非@fēi
+:PROPERTIES:
+:CONCEPT: uuid-95b4e97d-c60e-41c7-b7bf-ef1f600e50fc / LACK
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:CHARPOS: 1
+:END:
+非@fēi	[[tls:concept:LACK::#uuid-95b4e97d-c60e-41c7-b7bf-ef1f600e50fc][LACK]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] / without
+** 2.19景公登路寢臺望國而歎晏子諫
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 142
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:37a01:1::2. / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 寢@qǐn
+:PROPERTIES:
+:CONCEPT: uuid-0fa54560-e990-46c3-a980-8f9fa6ca5259 / ROOM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 9
+:END:
+寢@qǐn	[[tls:concept:ROOM::#uuid-0fa54560-e990-46c3-a980-8f9fa6ca5259][ROOM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / living quarters; building with bedrooms; private chambers; imposing building with inner chambers
+** 故君人者與其請於人	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 145
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:38a45:1::故君 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 與其@yǔqí
+:PROPERTIES:
+:CONCEPT: uuid-882eaf85-cb4a-4b7b-a6ad-14302d0fbb9c / COMPARE
+:SYN-FUNC: uuid-6bacefe2-73aa-44f5-9aff-6c61161c6cbc
+:CHARPOS: 5
+:END:
+與其@yǔqí	[[tls:concept:COMPARE::#uuid-882eaf85-cb4a-4b7b-a6ad-14302d0fbb9c][COMPARE]]	V [[tls:syn-func::#uuid-6bacefe2-73aa-44f5-9aff-6c61161c6cbc][VPt+Nab.adV]] / rather than, instead of (it is better to...)
+*** 請@qǐng
+:PROPERTIES:
+:CONCEPT: uuid-41a19982-6f16-4b6d-9ca9-095b3ef366d7 / REQUEST
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 7
+:END:
+請@qǐng	[[tls:concept:REQUEST::#uuid-41a19982-6f16-4b6d-9ca9-095b3ef366d7][REQUEST]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / ask for things from N; address a request to (e.g. God); plead with (a ruler) 請于公
+** 不如請於己也	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 145
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:38a46:50::不如 / 晏子春秋
+:CHARPOS: 50
+:END:
+*** 請@qǐng
+:PROPERTIES:
+:CONCEPT: uuid-41a19982-6f16-4b6d-9ca9-095b3ef366d7 / REQUEST
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 52
+:END:
+請@qǐng	[[tls:concept:REQUEST::#uuid-41a19982-6f16-4b6d-9ca9-095b3ef366d7][REQUEST]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / ask for things from N; address a request to (e.g. God); plead with (a ruler) 請于公
+** 嘻	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 148
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:40a12:1::「嘻 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 嘻@xī / 譆@xī
+:PROPERTIES:
+:CONCEPT: uuid-869aa087-8fcb-42a4-aeb3-2291f9060164 / EXCLAMATORY PARTICLE
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:CHARPOS: 1
+:END:
+嘻@xī / 譆@xī	[[tls:concept:EXCLAMATORY PARTICLE::#uuid-869aa087-8fcb-42a4-aeb3-2291f9060164][EXCLAMATORY PARTICLE]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] / ah! exclamatory particle expressing surprise, sometimes mixed with delight
+** 諾	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 148
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:40a25:1::「諾 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 諾@nuò
+:PROPERTIES:
+:CONCEPT: uuid-4167d212-8dea-470b-b24c-5c923ae94254 / AGREE TO
+:SYN-FUNC: uuid-04dc4978-046d-4430-a08b-6198445e9667
+:CHARPOS: 1
+:END:
+諾@nuò	[[tls:concept:AGREE TO::#uuid-4167d212-8dea-470b-b24c-5c923ae94254][AGREE TO]]	V [[tls:syn-func::#uuid-04dc4978-046d-4430-a08b-6198445e9667][vt{0}(oN)]] / (Said by superior) [I hereby] approve [this]. All right! (Said by inferior) Yes!
+** 遂入見公	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 148
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:40a26:50::遂入 / 晏子春秋
+:CHARPOS: 50
+:END:
+*** 入見@rùjiàn
+:PROPERTIES:
+:CONCEPT: uuid-ba40b595-bf51-48cf-8626-a1b38062e4fd / VISIT
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 51
+:END:
+入見@rùjiàn	[[tls:concept:VISIT::#uuid-ba40b595-bf51-48cf-8626-a1b38062e4fd][VISIT]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / go in to have an audience with
+** 諾	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 148
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:40a63:1::「諾 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 諾@nuò
+:PROPERTIES:
+:CONCEPT: uuid-4167d212-8dea-470b-b24c-5c923ae94254 / AGREE TO
+:SYN-FUNC: uuid-04dc4978-046d-4430-a08b-6198445e9667
+:CHARPOS: 1
+:END:
+諾@nuò	[[tls:concept:AGREE TO::#uuid-4167d212-8dea-470b-b24c-5c923ae94254][AGREE TO]]	V [[tls:syn-func::#uuid-04dc4978-046d-4430-a08b-6198445e9667][vt{0}(oN)]] / (Said by superior) [I hereby] approve [this]. All right! (Said by inferior) Yes!
+** 踊而不哭	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:40a82:1::踊而 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 踴@yǒng / 踊@yǒng
+:PROPERTIES:
+:CONCEPT: uuid-70e9f344-ddac-432d-8495-20773540b611 / JUMP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+踴@yǒng / 踊@yǒng	[[tls:concept:JUMP::#uuid-70e9f344-ddac-432d-8495-20773540b611][JUMP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / SHI: jump up; LIJI: jump up as sign of extreme mourning stump the ground; leap about
+** 以為良醫也	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:42a15:1::以為 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 良醫@liángyī
+:PROPERTIES:
+:CONCEPT: uuid-37a841a2-7b2a-4f8b-885a-0b46c414b932 / PHYSICIAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+良醫@liángyī	[[tls:concept:PHYSICIAN::#uuid-37a841a2-7b2a-4f8b-885a-0b46c414b932][PHYSICIAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a good doctor
+*** 良@liáng
+:PROPERTIES:
+:CONCEPT: uuid-891597e9-a1bb-41e7-bbb4-1813e0a335bb / EXCELLENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+良@liáng	[[tls:concept:EXCELLENT::#uuid-891597e9-a1bb-41e7-bbb4-1813e0a335bb][EXCELLENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / fine; competent; efficient; excellent; preferred
+** 請嘗試之	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:42a16:50::請嘗 / 晏子春秋
+:CHARPOS: 50
+:END:
+*** 請@qǐng
+:PROPERTIES:
+:CONCEPT: uuid-22fd8314-2b6b-461b-aa97-2fdafaa95239 / REQUEST
+:SYN-FUNC: uuid-65d93b56-a5a4-48f1-999e-bca54da80015
+:SEM-FEAT: uuid-a40e0575-055f-43e7-ba08-d6aed75b92ba
+:CHARPOS: 50
+:END:
+請@qǐng	[[tls:concept:REQUEST::#uuid-22fd8314-2b6b-461b-aa97-2fdafaa95239][REQUEST]]	V [[tls:syn-func::#uuid-65d93b56-a5a4-48f1-999e-bca54da80015][vt{0}+V{0}]] {[[tls:sem-feat::#uuid-a40e0575-055f-43e7-ba08-d6aed75b92ba][performative]]} / may I ask (for myself ) to V> please let me [short and idiomatic for 臣請]
+** 諾	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:42a22:1::「諾 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 諾@nuò
+:PROPERTIES:
+:CONCEPT: uuid-4167d212-8dea-470b-b24c-5c923ae94254 / AGREE TO
+:SYN-FUNC: uuid-04dc4978-046d-4430-a08b-6198445e9667
+:CHARPOS: 1
+:END:
+諾@nuò	[[tls:concept:AGREE TO::#uuid-4167d212-8dea-470b-b24c-5c923ae94254][AGREE TO]]	V [[tls:syn-func::#uuid-04dc4978-046d-4430-a08b-6198445e9667][vt{0}(oN)]] / (Said by superior) [I hereby] approve [this]. All right! (Said by inferior) Yes!
+** 今君薄於賢人之禮	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:42a49:1::今君 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 賢人@xiánrén
+:PROPERTIES:
+:CONCEPT: uuid-e6f345d9-f349-4625-8919-2d964131d066 / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 5
+:END:
+賢人@xiánrén	[[tls:concept:HERO::#uuid-e6f345d9-f349-4625-8919-2d964131d066][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the worthy person
+** 且古聖王畜私不傷行	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 150
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:42a51:1::且古 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+** 故諸侯之賓客慚入吾國	
+:PROPERTIES:
+:SRC: ßY≤¿ƒ°A§£Ød•Õ®∆°A
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:42a64:1::故諸 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 〓#@ / @
+:PROPERTIES:
+:CONCEPT: uuid-16a58692-b175-40eb-aeb3-1af5fb510086 / SHAME
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 1
+:END:
+〓#@ / @	[[tls:concept:SHAME::#uuid-16a58692-b175-40eb-aeb3-1af5fb510086][SHAME]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / feel embarrassed to V
+*** 賓客@bīnkè
+:PROPERTIES:
+:CONCEPT: uuid-89e172d3-7360-4e47-bf84-46d90dfa3d37 / GUEST
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 5
+:END:
+賓客@bīnkè	[[tls:concept:GUEST::#uuid-89e172d3-7360-4e47-bf84-46d90dfa3d37][GUEST]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / official guests of all kinds, guests of any kind
+** 本朝之臣慚守其職	
+:PROPERTIES:
+:SRC: ßY≤¿ƒ°A§£Ød•Õ®∆°A
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:42a65:50::本朝 / 晏子春秋
+:CHARPOS: 50
+:END:
+*** 〓#@ / @
+:PROPERTIES:
+:CONCEPT: uuid-16a58692-b175-40eb-aeb3-1af5fb510086 / SHAME
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 50
+:END:
+〓#@ / @	[[tls:concept:SHAME::#uuid-16a58692-b175-40eb-aeb3-1af5fb510086][SHAME]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / feel embarrassed to V
+** 據忠且愛我	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 156
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:44a03:1::「據 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 且@qiě
+:PROPERTIES:
+:CONCEPT: uuid-26d44b32-c4de-4c37-b497-051c06d80f66 / AND
+:SYN-FUNC: uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442
+:CHARPOS: 3
+:END:
+且@qiě	[[tls:concept:AND::#uuid-26d44b32-c4de-4c37-b497-051c06d80f66][AND]]	P [[tls:syn-func::#uuid-e6732f75-9b17-4560-a0ea-501e1b4c7442][padV1.postV2]] / and moreover V1且V2 富且貴 "get rich and even noble"
+** 君其圖之	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 163
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:46a26:1::君其 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 其@qí
+:PROPERTIES:
+:CONCEPT: uuid-0db83314-9f14-4a40-974a-2b8e0f3624fe / SHOULD
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 2
+:END:
+其@qí	[[tls:concept:SHOULD::#uuid-0db83314-9f14-4a40-974a-2b8e0f3624fe][SHOULD]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / (imperative:) must; (general:) should; had better
+** 晏子入見公曰	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 163
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:48a05:1::晏子 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 入見@rùjiàn
+:PROPERTIES:
+:CONCEPT: uuid-ba40b595-bf51-48cf-8626-a1b38062e4fd / VISIT
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+入見@rùjiàn	[[tls:concept:VISIT::#uuid-ba40b595-bf51-48cf-8626-a1b38062e4fd][VISIT]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / go in to have an audience with
+** 此皆力攻勍敵之人也	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 164
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:48a23:1::「此 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 力@lì
+:PROPERTIES:
+:CONCEPT: uuid-9403c0ad-1f65-4f62-8d53-405ec2784fc2 / POWER
+:SYN-FUNC: uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5
+:CHARPOS: 3
+:END:
+力@lì	[[tls:concept:POWER::#uuid-9403c0ad-1f65-4f62-8d53-405ec2784fc2][POWER]]	N [[tls:syn-func::#uuid-91666c59-4a69-460f-8cd3-9ddbff370ae5][nadV]] / using （often: all one's) strength, powerfully, with one's power/strength; with all one's strength 力田 "work hard in agriculture"
+** 公孫接仰天而歎曰	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 164
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:48a28:1::公孫 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 仰天@yǎngtiān
+:PROPERTIES:
+:CONCEPT: uuid-f1f35b77-0e06-4935-80b0-1c66ae110c49 / LOOK UP
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:CHARPOS: 4
+:END:
+仰天@yǎngtiān	[[tls:concept:LOOK UP::#uuid-f1f35b77-0e06-4935-80b0-1c66ae110c49][LOOK UP]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] / throw one's head back and V; throw one's head back and look at the sky
+** 接一搏豜而再搏乳虎	
+:PROPERTIES:
+:SRC: YAN 2, ed. Wu2 Ze2yu2 19i2 p. 164
+:DATE: 8110	late Warring States
+:LOCATION: KR2g0003_002:48a34:1::接一 / 晏子春秋
+:CHARPOS: 1
+:END:
+*** 乳@rǔ
+:PROPERTIES:
+:CONCEPT: uuid-5ef02ec4-53cf-49fd-b63b-f290e38b9780 / FEED
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 8
+:END:
+乳@rǔ	[[tls:concept:FEED::#uuid-5ef02ec4-53cf-49fd-b63b-f290e38b9780][FEED]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / feeding; nursing (tigress) (frequent in 乳母"nurse")

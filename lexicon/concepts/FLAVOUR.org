@@ -1,0 +1,239 @@
+# -*- mode: mandoku-tls-view -*-
+#+TITLE: FLAVOUR
+#+DATE: 2017-03-18T10:35:30.668+09:00        
+#+STARTUP: content
+* =CONCEPT= FLAVOUR
+:PROPERTIES:
+:CUSTOM_ID: uuid-2521008a-cf88-4177-9e12-db443ab1966f
+:SYNONYM+:  SAVOR
+:SYNONYM+:  RELISH
+:SYNONYM+:  TANG
+:SYNONYM+:  SMACK
+:TR_ZH: 味道
+:TR_OCH: 味
+:END:
+** DEFINITION
+
+APPEARANCE PERCEIVED BY TASTING.
+
+** NOTES
+
+*** Old Chinese Criteria
+1. The current noun for taste is wèi 味. (The current verb for tasting something is cháng 嘗. See also TASTE).
+
+2. Chòu 臭 is the flavour of something as primarily perceived through the nose. For this see SMELL
+
+*** Modern Chinese Criteria
+味道
+
+滋味
+
+香味
+
+調味料
+
+rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／
+
+** POINTERS
+*** TAXONOMY
+ - [[tls:concept:BITTER][BITTER]]
+ - [[tls:concept:SOUR][SOUR]]
+ - [[tls:concept:SWEET][SWEET]]
+
+*** SEE ALSO
+ - [[tls:concept:SAVOUR][SAVOUR]]
+ - [[tls:concept:ODOUR][ODOUR]]
+ - [[tls:concept:TASTELESS][TASTELESS]]
+
+*** KIND OF
+ - [[tls:concept:APPEARANCE][APPEARANCE]]
+
+** WORDS
+   :PROPERTIES:
+   :VISIBILITY: children
+   :END:
+*** 味 wèi (OC:mɯds MC:mɨi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-278a816e-b964-4dbe-81cf-a6b0307dd745
+:Char+: 味(30,5/8) 
+:GY_IDS+: uuid-6f2fa52e-a609-4c44-86ca-6007ecae232a
+:PY+: wèi     
+:OC+: mɯds     
+:MC+: mɨi     
+:END: 
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / find flavour in something
+:PROPERTIES:
+:CUSTOM_ID: uuid-5bcfb749-1b5f-4734-b0b2-c1494da7ab47
+:END:
+****** DEFINITION
+
+find flavour in something
+
+****** NOTES
+
+**** N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / flavour
+:PROPERTIES:
+:CUSTOM_ID: uuid-c907778f-29bf-41ce-99bc-d8fdf95fa2df
+:END:
+****** DEFINITION
+
+flavour
+
+****** NOTES
+
+**** N [[tls:syn-func::#uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693][nab.post-N]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / taste, flavour
+:PROPERTIES:
+:CUSTOM_ID: uuid-541902da-f8b0-40c0-a244-062e618eae6b
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+taste, flavour
+
+****** NOTES
+
+******* Examples
+LAO 12.1; tr. D.C. Lau 1982: 17 
+
+ 五味令人口爽， The five tastes injure his palate;[CA]
+
+**** N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / flavours
+:PROPERTIES:
+:CUSTOM_ID: uuid-fed5f951-237a-4fbe-89a5-86545b075095
+:END:
+****** DEFINITION
+
+flavours
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / have a taste for; taste
+:PROPERTIES:
+:CUSTOM_ID: uuid-63b96aca-3abd-4bec-8bb2-8fc5758b5ea3
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+have a taste for; taste
+
+****** NOTES
+
+******* Examples
+GUAN 08.05.04; WYWK 1.31; tr. Rickett 1985, p. 179f;
+
+ 味辛味， tastes acrid flavors,[CA]
+
+*** 臭 
+:PROPERTIES:
+:CUSTOM_ID: uuid-68b0ab3a-63b8-4ab4-b353-b1498b06c0c5
+:Char+: 臭(132,4/10) 
+:END: 
+*** 口味 kǒuwèi (OC:khooʔ mɯds MC:khu mɨi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-a7f58ea9-9ac7-4b8a-949b-5757e0245133
+:Char+: 口(30,0/3) 味(30,5/8) 
+:GY_IDS+: uuid-98c3067f-a303-4250-bcb7-10794cb4cd75 uuid-6f2fa52e-a609-4c44-86ca-6007ecae232a
+:PY+: kǒu wèi    
+:OC+: khooʔ mɯds    
+:MC+: khu mɨi    
+:END: 
+**** N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / good taste
+:PROPERTIES:
+:CUSTOM_ID: uuid-9370038f-d845-40b5-a4e6-a7c872ac5ad3
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+good taste
+
+****** NOTES
+
+*** 氣味 qìwèi (OC:khɯds mɯds MC:khɨi mɨi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-39ef9ab8-6b6e-4a12-938e-52ef4c46a35c
+:Char+: 氣(84,6/10) 味(30,5/8) 
+:GY_IDS+: uuid-455ed56a-8d66-4439-8d61-86e412c815dd uuid-6f2fa52e-a609-4c44-86ca-6007ecae232a
+:PY+: qì wèi    
+:OC+: khɯds mɯds    
+:MC+: khɨi mɨi    
+:END: 
+**** N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / flavour, taste > energy
+:PROPERTIES:
+:CUSTOM_ID: uuid-b4d4973f-f2d3-4197-b892-8c2213f71dab
+:END:
+****** DEFINITION
+
+flavour, taste > energy
+
+****** NOTES
+
+*** 法味 fǎwèi (OC:pab mɯds MC:pi̯ɐp mɨi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-11721f5a-6b0e-4f05-8c2c-b69e50125f05
+:Char+: 法(85,5/8) 味(30,5/8) 
+:GY_IDS+: uuid-bcc31133-8ffb-45d4-aeeb-442e8943f17e uuid-6f2fa52e-a609-4c44-86ca-6007ecae232a
+:PY+: fǎ wèi    
+:OC+: pab mɯds    
+:MC+: pi̯ɐp mɨi    
+:END: 
+**** SOURCE REFERENCES
+***** AVATAMSAKA(B)
+ - [[cite:AVATAMSAKA(B)][Śiskānanda(), 大方廣佛華嚴經 Dà fāngguǎng Fó huāyán jīng Avataṃsaka sūtra Taishō]], p.136a
+ (願一切眾生，得無量法味，了達法界。。。願一切眾生，法味增益，常得滿足。)
+***** FOGUANG
+ - [[cite:FOGUANG][Cí 慈(unknown), 佛光大辭典 Fóguāng dàcídiǎn The Foguang Dictionary of Buddhism]], p.3357a
+
+***** T.
+ - [[cite:T.][Takakusu(1922-1933), 大正新修大藏經 Taishō shinshū daizōkyō Revised Edition of the Buddhist Canon in the Taishō Era]], p.26: 231a
+ (淨土論：愛樂佛法味，禪三昧為食。)
+**** N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-2e7204ae-4771-435b-82ff-310068296b6d][buddhist]]} / BUDDH: dharma-flavour; skr. dharma-saṃrāga  (also: 佛法味, 法智味)
+:PROPERTIES:
+:CUSTOM_ID: uuid-9a6f4ef5-7c4c-4580-a687-7a5eb1aa4e74
+:END:
+****** DEFINITION
+
+BUDDH: dharma-flavour; skr. dharma-saṃrāga  (also: 佛法味, 法智味)
+
+****** NOTES
+
+*** 臭味 chòuwèi (OC:khjus mɯds MC:tɕhɨu mɨi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-f21cce99-b2d7-47a3-b544-c619db24beba
+:Char+: 臭(132,4/10) 味(30,5/8) 
+:GY_IDS+: uuid-7d405988-3bdf-4ad6-bc64-4cc4076c8076 uuid-6f2fa52e-a609-4c44-86ca-6007ecae232a
+:PY+: chòu wèi    
+:OC+: khjus mɯds    
+:MC+: tɕhɨu mɨi    
+:END: 
+**** N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / smell and flavour
+:PROPERTIES:
+:CUSTOM_ID: uuid-f89cf3c3-5d0e-441c-9152-1be00d5ebb9c
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+smell and flavour
+
+****** NOTES
+
+*** 香味 xiāngwèi (OC:qhaŋ mɯds MC:hi̯ɐŋ mɨi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-0c869328-9a7d-4ad1-b6b4-515900d1f8ce
+:Char+: 香(186,0/9) 味(30,5/8) 
+:GY_IDS+: uuid-c4e6d307-6ee1-48c4-a811-70969ff468f3 uuid-6f2fa52e-a609-4c44-86ca-6007ecae232a
+:PY+: xiāng wèi    
+:OC+: qhaŋ mɯds    
+:MC+: hi̯ɐŋ mɨi    
+:END: 
+**** N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / fragrance and flavour
+:PROPERTIES:
+:CUSTOM_ID: uuid-abf782ab-046a-444f-a436-eaf06d50962e
+:END:
+****** DEFINITION
+
+fragrance and flavour
+
+****** NOTES
+
+** BIBLIOGRAPHY
+bibliography:../core/tlsbib.bib

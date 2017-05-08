@@ -1,0 +1,57 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_053
+#+DATE: 2017-02-08T16:43:46+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 唯施是畏	I would only fear paths leading astray.
+:PROPERTIES:
+:SRC: LAO 53.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_053:1a03:1::唯施 / 老子
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-2a9996cc-3676-4940-8e12-b2930331bcae / THIS
+:SYN-FUNC: uuid-f450a589-6631-465e-973c-777a2fe14735
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 3
+:END:
+是@shì	[[tls:concept:THIS::#uuid-2a9996cc-3676-4940-8e12-b2930331bcae][THIS]]	N [[tls:syn-func::#uuid-f450a589-6631-465e-973c-777a2fe14735][npro{OBJ}+Vt.postN{TOP}]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / this aforementioned N; the preceding N (is the one the SUBJECT VERBS) 敗是求 "it is defeat that you have sought"
+** 田甚蕪	the fields are weed-covered.
+:PROPERTIES:
+:SRC: LAO 53.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_053:1a06:1::田甚 / 老子
+:CHARPOS: 1
+:END:
+*** 蕪@wú
+:PROPERTIES:
+:CONCEPT: uuid-bbc0fe7b-7424-4874-ba55-b454ad92585d / BARREN
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+蕪@wú	[[tls:concept:BARREN::#uuid-bbc0fe7b-7424-4874-ba55-b454ad92585d][BARREN]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / not bear fruit, be overgrown only with weeds MENG 荒蕪
+** 倉甚虛	the granaries are very empty,
+:PROPERTIES:
+:SRC: LAO 53.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_053:1a07:50::倉甚 / 老子
+:CHARPOS: 50
+:END:
+*** 倉@cāng
+:PROPERTIES:
+:CONCEPT: uuid-655c3f48-fdef-4ac9-881f-446330d159ec / STOREHOUSE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+倉@cāng	[[tls:concept:STOREHOUSE::#uuid-655c3f48-fdef-4ac9-881f-446330d159ec][STOREHOUSE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / general: oblong granary for all kinds of grain or other food supplies
+** 帶利劍	in the belts they carry sharp swords,
+:PROPERTIES:
+:SRC: LAO 53.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_053:1a09:1::帶利 / 老子
+:CHARPOS: 1
+:END:
+*** 劍@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-62577f30-c7ff-4c9d-b90a-26436ee12eb9 / SWORD
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+劍@jiàn	[[tls:concept:SWORD::#uuid-62577f30-c7ff-4c9d-b90a-26436ee12eb9][SWORD]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / sword

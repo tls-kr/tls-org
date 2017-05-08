@@ -1,0 +1,55 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_015
+#+DATE: 2017-02-08T16:41:09+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 欲決霸王之名	'If you wish to make sure of the name of Hegemon,
+:PROPERTIES:
+:SRC: ZGC 1.15; tr. Crump 1979 no. 45, p. 53 The dialecticians of Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_015:1a02:1::「欲 / 戰國策
+:CHARPOS: 1
+:END:
+*** 霸王@bàwàng / 霸王@bàwáng / 伯王@bówáng
+:PROPERTIES:
+:CONCEPT: uuid-9cf562a3-8252-4675-8e29-a1258ab5858a / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+霸王@bàwàng / 霸王@bàwáng / 伯王@bówáng	[[tls:concept:RULER::#uuid-9cf562a3-8252-4675-8e29-a1258ab5858a][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a preeminent ruler in general
+*** 名@míng
+:PROPERTIES:
+:CONCEPT: uuid-d6cd99db-2f00-4939-962a-c3a366632654 / WELL-KNOWN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-5b74642c-41bc-4eb2-ac7e-5ce239b5a658
+:CHARPOS: 6
+:END:
+名@míng	[[tls:concept:WELL-KNOWN::#uuid-d6cd99db-2f00-4939-962a-c3a366632654][WELL-KNOWN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-5b74642c-41bc-4eb2-ac7e-5ce239b5a658][positive]]} / positive reputation, good name; positive fame; fame (for something, e.g. as being courageous)
+** 不如備兩周辯知之士	You must equip yourself with the dialecticians of Chou.'
+:PROPERTIES:
+:SRC: ZGC 1.15; tr. Crump 1979 no. 45, p. 53 The dialecticians of Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_015:1a03:50::不如 / 戰國策
+:CHARPOS: 50
+:END:
+*** 辯知@biànzhī
+:PROPERTIES:
+:CONCEPT: uuid-ab704451-f0dc-41ff-959f-bbde095758b5 / INTELLIGENT
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:CHARPOS: 55
+:END:
+辯知@biànzhī	[[tls:concept:INTELLIGENT::#uuid-ab704451-f0dc-41ff-959f-bbde095758b5][INTELLIGENT]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] / eloquent and intelligent, well-spoken and intelligent
+** 君不如令辯知之士	'Your highness should order your debators
+:PROPERTIES:
+:SRC: ZGC 1.15; tr. Crump 1979 no. 45, p. 53 The dialecticians of Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_015:1a05:1::「君 / 戰國策
+:CHARPOS: 1
+:END:
+*** 辯知@biànzhī
+:PROPERTIES:
+:CONCEPT: uuid-ab704451-f0dc-41ff-959f-bbde095758b5 / INTELLIGENT
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:CHARPOS: 5
+:END:
+辯知@biànzhī	[[tls:concept:INTELLIGENT::#uuid-ab704451-f0dc-41ff-959f-bbde095758b5][INTELLIGENT]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] / eloquent and intelligent, well-spoken and intelligent

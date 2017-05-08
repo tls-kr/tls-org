@@ -1,0 +1,48 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_494
+#+DATE: 2017-02-08T16:41:34+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 不憚割地以賂燕趙	and she does not scruple to cede land and bribe Yen and Chao
+:PROPERTIES:
+:SRC: ZGC 33. 3. 2; tr. Crump 1979 no.491, p 576f, ed. Shanghai Guji p. 1174（卷三十三·中山）
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_494:2a07:1::不憚 / 戰國策
+:CHARPOS: 1
+:END:
+*** 割@gē
+:PROPERTIES:
+:CONCEPT: uuid-c73bf8e9-8e73-442d-b333-0077041fa198 / GIVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 3
+:END:
+割@gē	[[tls:concept:GIVE::#uuid-c73bf8e9-8e73-442d-b333-0077041fa198][GIVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / cut off (territory etc)> cede (territory to someone else)
+** 中山恐燕趙之不己據也	'Chung-shan still fears Yen and Chao will not support her
+:PROPERTIES:
+:SRC: ZGC 33. 3. 7; tr. Crump 1979 no.491, p 577, ed. Shanghai Guji p. 1175
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_494:3a23:1::中山 / 戰國策
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-3523e379-7dd0-4cc2-85d8-ee972d1f1e69 / SELF
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:CHARPOS: 8
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-3523e379-7dd0-4cc2-85d8-ee972d1f1e69][SELF]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] / (preposed object:) himself, herself, themselves
+** 而己親之也	so that she herself could get closer to that small state."
+:PROPERTIES:
+:SRC: ZGC 33. 3. 9; tr. Crump 1979 no.491, p 578, ed. Shanghai Guji p. 1176
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_494:3a44:1::而己 / 戰國策
+:CHARPOS: 1
+:END:
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-12a1bc24-9a2b-4208-b8d1-26c469dc1384 / SELF
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 2
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-12a1bc24-9a2b-4208-b8d1-26c469dc1384][SELF]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / he himself, she herself

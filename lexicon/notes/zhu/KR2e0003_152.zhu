@@ -1,0 +1,47 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_152
+#+DATE: 2017-02-08T16:41:23+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 賜金千鎰	and a gift of one thousand in gold.
+:PROPERTIES:
+:SRC: ZGC 11.5.4; tr. Crump 1979 no. 155 p.192, ed. Shanghaiguji p. 408-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_152:1a35:1::賜金 / 戰國策
+:CHARPOS: 1
+:END:
+*** 鎰@yì
+:PROPERTIES:
+:CONCEPT: uuid-f116d633-18d4-4625-8877-4475c16dac13 / WEIGHT MEASURES
+:SYN-FUNC: uuid-fd4da853-f520-4233-a0fa-0f60882d31d9
+:CHARPOS: 4
+:END:
+鎰@yì	[[tls:concept:WEIGHT MEASURES::#uuid-f116d633-18d4-4625-8877-4475c16dac13][WEIGHT MEASURES]]	N [[tls:syn-func::#uuid-fd4da853-f520-4233-a0fa-0f60882d31d9][ncpost-V{NUM}(.postN)]] / measure of weight: so-and-so many yì (tael) of the contextually determinate N
+** 非夫孤寡者	Men orphaned and the alone
+:PROPERTIES:
+:SRC: ZGC 11.5.13; tr. Crump 1979 no. 155 p.192, ed. Shanghaiguji p. 410-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_152:3a65:1::非夫 / 戰國策
+:CHARPOS: 1
+:END:
+*** 孤寡@gūguǎ
+:PROPERTIES:
+:CONCEPT: uuid-1c7be1c4-3109-49d2-a463-02b5b0d0f1be / BEREAVED
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+孤寡@gūguǎ	[[tls:concept:BEREAVED::#uuid-1c7be1c4-3109-49d2-a463-02b5b0d0f1be][BEREAVED]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the bereaved; orphans and widows
+** 清靜貞正以自虞	I want only the purity of seclusion for my happiness.
+:PROPERTIES:
+:SRC: ZGC 11.5.16; tr. Crump 1979 no. 155 p.192, ed. Shanghaiguji p. 410-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_152:5a14:1::清靜 / 戰國策
+:CHARPOS: 1
+:END:
+*** 自虞@zìyú / 自娛@zìyú
+:PROPERTIES:
+:CONCEPT: uuid-16af78d8-f66f-4d0f-962a-6cb5cf76cbbb / HAPPY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 6
+:END:
+自虞@zìyú / 自娛@zìyú	[[tls:concept:HAPPY::#uuid-16af78d8-f66f-4d0f-962a-6cb5cf76cbbb][HAPPY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be pleased with oneself and happy

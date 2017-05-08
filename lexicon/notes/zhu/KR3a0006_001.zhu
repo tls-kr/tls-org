@@ -1,0 +1,3184 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 鹽鐵論 KR3a0006_001
+#+DATE: 2017-02-08T16:41:45+0900
+#+PROPERTY: COMMIT 655729a2cff102ebba17ff87c6aa6d36b23bdca2
+** 有詔書使丞相御史與所舉賢良文學語	directed the Chancellor and the Imperial Secretaries to confer with the recommended Worthies and Literati
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3a0006_001:2a01:1::有詔 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 丞相@chéngxiàng
+:PROPERTIES:
+:CONCEPT: uuid-bede6ce9-e476-415f-91a3-96318a3097f7 / MINISTER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86
+:CHARPOS: 5
+:END:
+丞相@chéngxiàng	[[tls:concept:MINISTER::#uuid-bede6ce9-e476-415f-91a3-96318a3097f7][MINISTER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-4b4da480-c7d4-48f9-9534-cb3826f3fb86][title]]} / prime minister
+*** 御史@yùshǐ
+:PROPERTIES:
+:CONCEPT: uuid-76f19ae0-3379-4812-b23b-6018e45990c8 / MINISTER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 7
+:END:
+御史@yùshǐ	[[tls:concept:MINISTER::#uuid-76f19ae0-3379-4812-b23b-6018e45990c8][MINISTER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / minister of justice
+*** 舉@jǔ
+:PROPERTIES:
+:CONCEPT: uuid-c9b3935f-28ec-47cc-a1dd-5d6834bb714e / RECOMMEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 11
+:END:
+舉@jǔ	[[tls:concept:RECOMMEND::#uuid-c9b3935f-28ec-47cc-a1dd-5d6834bb714e][RECOMMEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / recommend for promotion
+*** 賢良@xiánliáng
+:PROPERTIES:
+:CONCEPT: uuid-f9aa06db-f8d0-4e23-abb3-311e5f90cc65 / EXCELLENT
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 12
+:END:
+賢良@xiánliáng	[[tls:concept:EXCELLENT::#uuid-f9aa06db-f8d0-4e23-abb3-311e5f90cc65][EXCELLENT]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / men of excellent talent
+*** 文學@wénxué
+:PROPERTIES:
+:CONCEPT: uuid-d19b9741-5985-4055-9139-d1db9f0c87ba / ARTS
+:SYN-FUNC: uuid-14b56546-32fd-4321-8d73-3e4b18316c15
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 14
+:END:
+文學@wénxué	[[tls:concept:ARTS::#uuid-d19b9741-5985-4055-9139-d1db9f0c87ba][ARTS]]	N [[tls:syn-func::#uuid-14b56546-32fd-4321-8d73-3e4b18316c15][NPadN]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / men devoted to literary pursuits and to the liberal arts, intellectuals
+** 問民間所疾苦	and to enquire of them as to the rankling grievances among the people.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3a0006_001:2a02:50::問民 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 民間@mínjiān
+:PROPERTIES:
+:CONCEPT: uuid-30ed352c-02f1-4ff5-9d21-02739ba94d49 / PEOPLE
+:SYN-FUNC: uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a
+:CHARPOS: 51
+:END:
+民間@mínjiān	[[tls:concept:PEOPLE::#uuid-30ed352c-02f1-4ff5-9d21-02739ba94d49][PEOPLE]]	N [[tls:syn-func::#uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a][NPadV]] / among the people LUNHENG
+*** 疾苦@jíkǔ
+:PROPERTIES:
+:CONCEPT: uuid-5652d702-9512-4358-b036-23fbba4cd257 / DISTRESS
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 54
+:END:
+疾苦@jíkǔ	[[tls:concept:DISTRESS::#uuid-5652d702-9512-4358-b036-23fbba4cd257][DISTRESS]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / feel currently and urgently distressed by
+** 文學對曰	The Literati responded as follows:
+:PROPERTIES:
+:SRC: YTL 01.01.02; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:2a02:50::<p / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 文學@wénxué
+:PROPERTIES:
+:CONCEPT: uuid-f26e2443-ba01-4f55-ac9e-d3ca7291d905 / ARTS
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 50
+:END:
+文學@wénxué	[[tls:concept:ARTS::#uuid-f26e2443-ba01-4f55-ac9e-d3ca7291d905][ARTS]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the group of litterati
+** 竊聞治人之道	It is our humble opinion that the principle of ruling men
+:PROPERTIES:
+:SRC: YTL 01.01.02; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a01:50::「竊 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 竊@qiè
+:PROPERTIES:
+:CONCEPT: uuid-0cb9a202-969a-4733-84f6-0e924fbbc7cd / DARE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 50
+:END:
+竊@qiè	[[tls:concept:DARE::#uuid-0cb9a202-969a-4733-84f6-0e924fbbc7cd][DARE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / in polite speech: take the liberty of V-ing; humbly permit oneself to, humbly allow oneself to (NB 竊不敢...)
+*** 聞@wén
+:PROPERTIES:
+:CONCEPT: uuid-3d7a87d8-29fc-47ce-94fb-046bd81fc7f1 / LEARN
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-c20ca0b7-7f5f-439c-914a-f7ba1e2096b4
+:CHARPOS: 51
+:END:
+聞@wén	[[tls:concept:LEARN::#uuid-3d7a87d8-29fc-47ce-94fb-046bd81fc7f1][LEARN]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-c20ca0b7-7f5f-439c-914a-f7ba1e2096b4][object=fact]]} / learn that S, hear that S
+*** 治@chí
+:PROPERTIES:
+:CONCEPT: uuid-e31a89e1-0f05-4892-8858-678d58463f3c / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+治@chí	[[tls:concept:GOVERN::#uuid-e31a89e1-0f05-4892-8858-678d58463f3c][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to reduce to order; to put in order (the administration etc); to be in administrative charge of, to deal with, take care of; to be in charge of, take administrative responsibility for; to regulate, make regular, control (as breath)
+** 防淫佚之原	lies in nipping in the bud wantonness and frivolity,
+:PROPERTIES:
+:SRC: YTL 01.01.02; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a02:50::防淫 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 防@fáng
+:PROPERTIES:
+:CONCEPT: uuid-e9381d23-2e03-46ee-be15-c4041487ce24 / HINDER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+防@fáng	[[tls:concept:HINDER::#uuid-e9381d23-2e03-46ee-be15-c4041487ce24][HINDER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / guard against; prevent
+*** 防@fáng
+:PROPERTIES:
+:CONCEPT: uuid-c895a3d7-7709-4a26-8a93-96c475a470a6 / DEFEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+防@fáng	[[tls:concept:DEFEND::#uuid-c895a3d7-7709-4a26-8a93-96c475a470a6][DEFEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / guard against; put a stop to
+*** 淫佚@yínyì
+:PROPERTIES:
+:CONCEPT: uuid-93bcfbd7-9985-4340-b54b-a971c5888367 / WICKED
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+淫佚@yínyì	[[tls:concept:WICKED::#uuid-93bcfbd7-9985-4340-b54b-a971c5888367][WICKED]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / willful lawlessness; recklessness
+*** 原@yuán
+:PROPERTIES:
+:CONCEPT: uuid-232ac0e4-5300-496d-8f7a-5d719fd59c54 / CAUSE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 54
+:END:
+原@yuán	[[tls:concept:CAUSE::#uuid-232ac0e4-5300-496d-8f7a-5d719fd59c54][CAUSE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / basic causes
+** 廣道德之端	in extending wide the elementals of virtue,
+:PROPERTIES:
+:SRC: YTL 01.01.02; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a03:50::廣道 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 廣@guǎng
+:PROPERTIES:
+:CONCEPT: uuid-af39d0ed-a3be-425d-a58a-7dd10d852620 / PUBLICISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+廣@guǎng	[[tls:concept:PUBLICISE::#uuid-af39d0ed-a3be-425d-a58a-7dd10d852620][PUBLICISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / make widely known; spread widely news of
+*** 端@duān
+:PROPERTIES:
+:CONCEPT: uuid-f0cddcbd-05ef-462c-96b6-5b3cdda49896 / BASIS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 54
+:END:
+端@duān	[[tls:concept:BASIS::#uuid-f0cddcbd-05ef-462c-96b6-5b3cdda49896][BASIS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / psychological basis (see also FEELING); basic elements; basic point made; basic orientation; point of view, approach; basic motives
+** 抑末利而開仁義	in discouraging mercantile pursuits, and in displaying benevolence and righteousness.
+:PROPERTIES:
+:SRC: YTL 01.01.02; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a04:50::抑末 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 抑@yì
+:PROPERTIES:
+:CONCEPT: uuid-8d848e09-8dbc-4756-a5b2-e79050a25284 / RESTRAIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+抑@yì	[[tls:concept:RESTRAIN::#uuid-8d848e09-8dbc-4756-a5b2-e79050a25284][RESTRAIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / restrain, constrain; chastise
+*** 末@mò
+:PROPERTIES:
+:CONCEPT: uuid-f77e89c1-4748-4a0e-a172-fb94bc6492b9 / UNIMPORTANT
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 51
+:END:
+末@mò	[[tls:concept:UNIMPORTANT::#uuid-f77e89c1-4748-4a0e-a172-fb94bc6492b9][UNIMPORTANT]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / marginal
+*** 開@kāi
+:PROPERTIES:
+:CONCEPT: uuid-4bba822a-7012-48f1-8006-59b66dd150c9 / ENCOURAGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+開@kāi	[[tls:concept:ENCOURAGE::#uuid-4bba822a-7012-48f1-8006-59b66dd150c9][ENCOURAGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / encourage; open up possibilities for
+*** 仁義@rényì
+:PROPERTIES:
+:CONCEPT: uuid-33f11ec8-bfa1-4339-be2a-e02602720577 / GOOD
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+仁義@rényì	[[tls:concept:GOOD::#uuid-33f11ec8-bfa1-4339-be2a-e02602720577][GOOD]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / moral and kindly behaviour
+** 毋示以利	Let lucre never be paraded before the eyes of the people;
+:PROPERTIES:
+:SRC: YTL 01.01.02; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a05:50::毋示 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 示@shì / 視@shì
+:PROPERTIES:
+:CONCEPT: uuid-e3c3b86b-c5d4-44a2-bc23-73584b84c731 / SHOW
+:SYN-FUNC: uuid-4043bf1e-3078-4585-a698-33758ae09f8e
+:CHARPOS: 51
+:END:
+示@shì / 視@shì	[[tls:concept:SHOW::#uuid-e3c3b86b-c5d4-44a2-bc23-73584b84c731][SHOW]]	V [[tls:syn-func::#uuid-4043bf1e-3078-4585-a698-33758ae09f8e][vtt(oN1.)+vtoN2]] / show the contextually determinate N1 N2
+*** 以@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-388213b2-314a-40b0-91a1-3bb303f8dde5 / OBJECT MARKER
+:SYN-FUNC: uuid-7d39b066-57d7-4249-8fae-906ed8d750fb
+:CHARPOS: 52
+:END:
+以@yǐ	[[tls:concept:OBJECT MARKER::#uuid-388213b2-314a-40b0-91a1-3bb303f8dde5][OBJECT MARKER]]	V [[tls:syn-func::#uuid-7d39b066-57d7-4249-8fae-906ed8d750fb][vt0oN.postV]] / introduces the direct object of verbs of giving or saying something to somebody etc.
+** 然後教化可興	only then will enlightenment flourish
+:PROPERTIES:
+:SRC: YTL 01.01.02; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a06:50::然後 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 教化@jiàohuà
+:PROPERTIES:
+:CONCEPT: uuid-da5540d7-1b6d-478c-b524-1a4b0df7bce5 / TEACH
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+教化@jiàohuà	[[tls:concept:TEACH::#uuid-da5540d7-1b6d-478c-b524-1a4b0df7bce5][TEACH]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / proper education; reforming impact; reforming moral effort
+*** 興@xīng
+:PROPERTIES:
+:CONCEPT: uuid-f0312429-7a88-41c4-b090-5ab595a39e1a / FLOURISH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 55
+:END:
+興@xīng	[[tls:concept:FLOURISH::#uuid-f0312429-7a88-41c4-b090-5ab595a39e1a][FLOURISH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / come to develop strongly; get to flourish; rise to power; go strong; be on the rise
+*** 興@xīng
+:PROPERTIES:
+:CONCEPT: uuid-8f2fabff-228e-493f-9495-69e67ce6c2ee / FLOURISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 55
+:END:
+興@xīng	[[tls:concept:FLOURISH::#uuid-8f2fabff-228e-493f-9495-69e67ce6c2ee][FLOURISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / be made to flourish
+** 而風俗可移也	and folkways improve.
+:PROPERTIES:
+:SRC: YTL 01.01.02; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a07:50::而風 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 風俗@fēngsú
+:PROPERTIES:
+:CONCEPT: uuid-65a28a36-68eb-448e-a4e2-0930e7a7f22a / CUSTOM
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+風俗@fēngsú	[[tls:concept:CUSTOM::#uuid-65a28a36-68eb-448e-a4e2-0930e7a7f22a][CUSTOM]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / habits, customs (also concretely referential)
+*** 移@yí
+:PROPERTIES:
+:CONCEPT: uuid-9f46bd73-1693-41e2-bd12-8c3fbf243d6d / CHANGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 54
+:END:
+移@yí	[[tls:concept:CHANGE::#uuid-9f46bd73-1693-41e2-bd12-8c3fbf243d6d][CHANGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be gradually changed (to the better)
+** 今郡國有鹽鐵酒榷	But now, with the system of the salt and iron monopolies, the liquor excise,
+:PROPERTIES:
+:SRC: YTL 01.01.03; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a08:50::今郡 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 郡@jùn
+:PROPERTIES:
+:CONCEPT: uuid-91f1db35-3984-41d3-ba19-3442801189c2 / REGION
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+郡@jùn	[[tls:concept:REGION::#uuid-91f1db35-3984-41d3-ba19-3442801189c2][REGION]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / province as instituted by the Qín
+*** 國@guó
+:PROPERTIES:
+:CONCEPT: uuid-a2b807f7-63fb-4733-82e9-e63bad1a8e57 / STATE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-4d26048e-75ec-4fc1-8ffe-313a33667502
+:CHARPOS: 52
+:END:
+國@guó	[[tls:concept:STATE::#uuid-a2b807f7-63fb-4733-82e9-e63bad1a8e57][STATE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-4d26048e-75ec-4fc1-8ffe-313a33667502][within empire]]} / demesne; royal domain within the empire
+*** 鹽@yán
+:PROPERTIES:
+:CONCEPT: uuid-04548ed0-8dd4-48f6-860b-d5a345ec68ea / SALT
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 54
+:END:
+鹽@yán	[[tls:concept:SALT::#uuid-04548ed0-8dd4-48f6-860b-d5a345ec68ea][SALT]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / man-made salt; salt; sodium chloride
+*** 鐵@tiě
+:PROPERTIES:
+:CONCEPT: uuid-0101b944-f112-4231-a0bd-a88a99b6934e / IRON
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 55
+:END:
+鐵@tiě	[[tls:concept:IRON::#uuid-0101b944-f112-4231-a0bd-a88a99b6934e][IRON]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / iron
+*** 酒@jiǔ
+:PROPERTIES:
+:CONCEPT: uuid-c496eb95-590e-416b-9727-9c76c567e408 / LIQUOR
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 56
+:END:
+酒@jiǔ	[[tls:concept:LIQUOR::#uuid-c496eb95-590e-416b-9727-9c76c567e408][LIQUOR]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / wine
+*** 榷@què
+:PROPERTIES:
+:CONCEPT: uuid-1fd30a8c-cd22-4e69-825e-20b89ef09fd2 / TAX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 57
+:END:
+榷@què	[[tls:concept:TAX::#uuid-1fd30a8c-cd22-4e69-825e-20b89ef09fd2][TAX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / toll, monopoly, excise
+** 與民爭利	the Government has entered into financial competition with the people,
+:PROPERTIES:
+:SRC: YTL 01.01.03; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a10:1::與民 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 爭@zhēng
+:PROPERTIES:
+:CONCEPT: uuid-af0f127f-1674-4a0d-946a-ed7490a7d8db / COMPETE
+:SYN-FUNC: uuid-5b225a48-e352-46dc-8592-daaf69be3439
+:CHARPOS: 3
+:END:
+爭@zhēng	[[tls:concept:COMPETE::#uuid-af0f127f-1674-4a0d-946a-ed7490a7d8db][COMPETE]]	 [[tls:syn-func::#uuid-5b225a48-e352-46dc-8592-daaf69be3439][vttoN1.postvtoN2{OBJ}]] / compete with N2 for N1
+** 散敦厚之樸	dissipating primordial candor and simplicity,
+:PROPERTIES:
+:SRC: YTL 01.01.03; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a11:50::散敦 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 散@sàn
+:PROPERTIES:
+:CONCEPT: uuid-0ad53060-f74b-4e8c-88d2-0545a6f933f3 / SCATTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 50
+:END:
+散@sàn	[[tls:concept:SCATTER::#uuid-0ad53060-f74b-4e8c-88d2-0545a6f933f3][SCATTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / scatter so as to cause to disintegrate
+*** 敦厚@dūnhòu
+:PROPERTIES:
+:CONCEPT: uuid-bfa1a05f-5fa7-495d-9922-901ab7d786ad / EARNEST
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 51
+:END:
+敦厚@dūnhòu	[[tls:concept:EARNEST::#uuid-bfa1a05f-5fa7-495d-9922-901ab7d786ad][EARNEST]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / earnest candour
+*** 樸@pǔ / 樸@pǔ
+:PROPERTIES:
+:CONCEPT: uuid-317f1d62-ecc5-4f90-99ce-33414d5cb837 / SIMPLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 54
+:END:
+樸@pǔ / 樸@pǔ	[[tls:concept:SIMPLE::#uuid-317f1d62-ecc5-4f90-99ce-33414d5cb837][SIMPLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / plainness, lack of adornment
+** 成貪鄙之化	and sanctioning propensities to selfishness and greed.
+:PROPERTIES:
+:SRC: YTL 01.01.03; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a12:50::成貪 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 貪鄙@tānbǐ
+:PROPERTIES:
+:CONCEPT: uuid-a5d49587-eb17-4bdd-b0c1-8e3e946dc976 / GREEDY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 51
+:END:
+貪鄙@tānbǐ	[[tls:concept:GREEDY::#uuid-a5d49587-eb17-4bdd-b0c1-8e3e946dc976][GREEDY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / greedy vulgarity
+*** 化@huà
+:PROPERTIES:
+:CONCEPT: uuid-9a20cf43-6bdd-4f63-9247-740517d0bdd5 / CHANGE
+:SYN-FUNC: uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693
+:CHARPOS: 54
+:END:
+化@huà	[[tls:concept:CHANGE::#uuid-9a20cf43-6bdd-4f63-9247-740517d0bdd5][CHANGE]]	N [[tls:syn-func::#uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693][nab.post-N]] / change in the direction of N, change towards N (perhaps this should be made nab.post-Nab. The general strategy on this is not clear so far.)
+** 是以百姓就本者寡	As a result, few among our people take up the fundamental pursuits of life
+:PROPERTIES:
+:SRC: YTL 1.1.1; Wang 1992:1; tr. Gale 1931:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a13:50::是以 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 是以@shìyǐ
+:PROPERTIES:
+:CONCEPT: uuid-3a92c172-e577-45a8-a29a-c252711b03d5 / THEREFORE
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f
+:CHARPOS: 50
+:END:
+是以@shìyǐ	[[tls:concept:THEREFORE::#uuid-3a92c172-e577-45a8-a29a-c252711b03d5][THEREFORE]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-5fe689a4-fe7c-4f89-811f-1658f52b1f7f][objective]]} / for this objective reason
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-3cd96c28-c477-4520-ae63-9ff7632ca79c / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-b6dffda3-770c-4e82-8329-6903528b1ab9
+:CHARPOS: 52
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-3cd96c28-c477-4520-ae63-9ff7632ca79c][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-b6dffda3-770c-4e82-8329-6903528b1ab9][common]]} / the (taxpaying) people (i.e. the entire population, particularly the common people like the peasants)
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-0a408d86-5e51-431b-a45d-efba8d88333f / PEOPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-bffb0573-9813-4b95-95b4-87cd47edc88c
+:CHARPOS: 52
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-0a408d86-5e51-431b-a45d-efba8d88333f][PEOPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-bffb0573-9813-4b95-95b4-87cd47edc88c][agent]]} / the people
+*** 就@jiù
+:PROPERTIES:
+:CONCEPT: uuid-d7c68a55-ba7d-4546-8402-829b52a0e190 / SEEK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+就@jiù	[[tls:concept:SEEK::#uuid-d7c68a55-ba7d-4546-8402-829b52a0e190][SEEK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / tend to move in the direction of; tend towards, tend to strive for; go for
+*** 本@běn
+:PROPERTIES:
+:CONCEPT: uuid-558ff586-0ca6-48be-b41d-9abdca096cc7 / BASIS
+:SYN-FUNC: uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 55
+:END:
+本@běn	[[tls:concept:BASIS::#uuid-558ff586-0ca6-48be-b41d-9abdca096cc7][BASIS]]	N [[tls:syn-func::#uuid-fae62a7f-1b3e-4ec9-b02e-bca9b23ae693][nab.post-N]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / what is basic and crucial; the basic and crucial feature; basic features; primary consideration
+*** 寡@guǎ
+:PROPERTIES:
+:CONCEPT: uuid-6736fcfc-eee8-4c30-8f38-2351023a175d / FEW
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 57
+:END:
+寡@guǎ	[[tls:concept:FEW::#uuid-6736fcfc-eee8-4c30-8f38-2351023a175d][FEW]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / be few; be scarce; be in a minority
+** 趨末者眾	while many flock to the non-essential.
+:PROPERTIES:
+:SRC: YTL 1.1.1; Wang 1992:1; tr. Gale 1931:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a14:50::趨末 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 趨@qū
+:PROPERTIES:
+:CONCEPT: uuid-cd488dad-0b88-4874-a3b3-4ea3f5a50daf / CHOOSE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+趨@qū	[[tls:concept:CHOOSE::#uuid-cd488dad-0b88-4874-a3b3-4ea3f5a50daf][CHOOSE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / tend towards, opt (enthusiastically) for, go for
+*** 末@mò
+:PROPERTIES:
+:CONCEPT: uuid-7a1c39e0-bf42-4970-93a1-53be6afd52b8 / UNIMPORTANT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 51
+:END:
+末@mò	[[tls:concept:UNIMPORTANT::#uuid-7a1c39e0-bf42-4970-93a1-53be6afd52b8][UNIMPORTANT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / what is not basic; what is marginal; what comes at the end (and not at the beginning); mere marginal symptoms (as opposed to real basic causes); non-basic professions other than military and agricultural
+** 夫文繁則質衰	Now sturdy natural qualities decay as artificiality thrives,
+:PROPERTIES:
+:SRC: YTL 1.1.1; Wang 1992:1; tr. Gale 1931:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a15:50::夫文 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 文@wén
+:PROPERTIES:
+:CONCEPT: uuid-7827a2f4-6c68-461c-bcc4-46bcbb8e454b / SHAPE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 51
+:END:
+文@wén	[[tls:concept:SHAPE::#uuid-7827a2f4-6c68-461c-bcc4-46bcbb8e454b][SHAPE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / the dignified, fine pattern a shape makes; dignified cultured appearance
+*** 繁@fán
+:PROPERTIES:
+:CONCEPT: uuid-570e8682-9128-4aef-8761-b92abcd8dca1 / MANY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 52
+:END:
+繁@fán	[[tls:concept:MANY::#uuid-570e8682-9128-4aef-8761-b92abcd8dca1][MANY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / proliferate; archaic, poetic: be flourishing; become numerous, multiply
+*** 衰@shuāi
+:PROPERTIES:
+:CONCEPT: uuid-e94d16c9-6a8c-46db-b4bc-529844781dd9 / DECLINE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 55
+:END:
+衰@shuāi	[[tls:concept:DECLINE::#uuid-e94d16c9-6a8c-46db-b4bc-529844781dd9][DECLINE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / get weaker, decay, decline
+** 末盛則本虧	and rural values decline when industrialism flourishes.
+:PROPERTIES:
+:SRC: YTL 1.1.1; Wang 1992:1; tr. Gale 1931:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a16:50::末盛 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 質@zhì
+:PROPERTIES:
+:CONCEPT: uuid-b999ec35-07a0-4a2f-8a1a-94a9e3a7b8e5 / SIMPLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 50
+:END:
+質@zhì	[[tls:concept:SIMPLE::#uuid-b999ec35-07a0-4a2f-8a1a-94a9e3a7b8e5][SIMPLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / unadorned and substantial simplicity
+*** 虧@kuī
+:PROPERTIES:
+:CONCEPT: uuid-706447f6-b959-428e-966b-a13944665980 / REDUCE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 54
+:END:
+虧@kuī	[[tls:concept:REDUCE::#uuid-706447f6-b959-428e-966b-a13944665980][REDUCE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / get weakened
+** 末修則民淫	When industrialism is cultivated, the people become frivolous;
+:PROPERTIES:
+:SRC: YTL 1.1.1; Wang 1992:1; tr. Gale 1931:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a17:50::末修 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 淫@yín
+:PROPERTIES:
+:CONCEPT: uuid-3e4dfcbc-02ac-42da-bfc3-58e251c086be / UNRESTRAINED
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 54
+:END:
+淫@yín	[[tls:concept:UNRESTRAINED::#uuid-3e4dfcbc-02ac-42da-bfc3-58e251c086be][UNRESTRAINED]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become frivolous and extravagant; become unrestrained
+** 本修則民愨	when the values of rural life are developed, the people are simple and unsophisticated.
+:PROPERTIES:
+:SRC: YTL 1.1.1; Wang 1992:1; tr. Gale 1931:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a18:50::本修 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 愨@què
+:PROPERTIES:
+:CONCEPT: uuid-6d13436c-3369-4672-beeb-4df1666e5fa3 / DILIGENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 54
+:END:
+愨@què	[[tls:concept:DILIGENT::#uuid-6d13436c-3369-4672-beeb-4df1666e5fa3][DILIGENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become trustily diligent
+** 民侈則饑寒生	when the people are extravagant, cold and hunger will follow.
+:PROPERTIES:
+:SRC: YTL 1.1.1; Wang 1992:1; tr. Gale 1931:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a20:1::民侈 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 侈@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-c0d96d83-f7e5-4f11-891b-0857ff5879fb / EXTRAVAGANT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+侈@chǐ	[[tls:concept:EXTRAVAGANT::#uuid-c0d96d83-f7e5-4f11-891b-0857ff5879fb][EXTRAVAGANT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / extravagant in the use of money; be lavish, be excessive
+*** 饑@jī
+:PROPERTIES:
+:CONCEPT: uuid-c3e1f5e7-41e4-4e0d-8480-8a8961667f59 / HUNGRY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 4
+:END:
+饑@jī	[[tls:concept:HUNGRY::#uuid-c3e1f5e7-41e4-4e0d-8480-8a8961667f59][HUNGRY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / serious famine
+*** 寒@hán
+:PROPERTIES:
+:CONCEPT: uuid-759ee06c-f9ea-4426-ac25-a6dfc1b5c539 / COLD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 5
+:END:
+寒@hán	[[tls:concept:COLD::#uuid-759ee06c-f9ea-4426-ac25-a6dfc1b5c539][COLD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / period of coldness, cold spell
+** 願罷鹽鐵酒榷均輸	We pray that the salt, iron and liquor monopolies and the system of equable marketing be abolished
+:PROPERTIES:
+:SRC: YTL 01.01.05; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a21:50::願罷 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 願@yuàn
+:PROPERTIES:
+:CONCEPT: uuid-b8930195-2eef-43c5-b149-0b6774dc3806 / HOPE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 50
+:END:
+願@yuàn	[[tls:concept:HOPE::#uuid-b8930195-2eef-43c5-b149-0b6774dc3806][HOPE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / hope that; wish one could; wish one could have; aspire to; would like to
+*** 罷@bà
+:PROPERTIES:
+:CONCEPT: uuid-f119d957-7d7a-460a-a4fc-823508830800 / STOP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 51
+:END:
+罷@bà	[[tls:concept:STOP::#uuid-f119d957-7d7a-460a-a4fc-823508830800][STOP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to cease (military action); relieve ( a siege); discontinue; abolish (a monopoly)
+** 廣利農業	and national agriculture be materially and financially benefitted.
+:PROPERTIES:
+:SRC: YTL 01.01.05; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a23:1::廣利 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 廣@guǎng
+:PROPERTIES:
+:CONCEPT: uuid-23b46e8e-7269-48d5-9f85-5385c3053e03 / BROAD
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+廣@guǎng	[[tls:concept:BROAD::#uuid-23b46e8e-7269-48d5-9f85-5385c3053e03][BROAD]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / widely; broadly; on a broad scale; in a wide-ranging manner
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-ef1b9e6f-3361-4478-b111-376d4ee758a2 / PROFIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 2
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-ef1b9e6f-3361-4478-b111-376d4ee758a2][PROFIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / benefit; be profitable for; provide for the good of; work for the profit of, be of benefit to
+*** 農業@nóngyè
+:PROPERTIES:
+:CONCEPT: uuid-a69c399b-25fc-424e-97cb-919147df2e43 / AGRICULTURE
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+農業@nóngyè	[[tls:concept:AGRICULTURE::#uuid-a69c399b-25fc-424e-97cb-919147df2e43][AGRICULTURE]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / agriculture
+** 便也	
+:PROPERTIES:
+:SRC: YTL 01.01.05; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:3a24:50::便也 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 便@biàn
+:PROPERTIES:
+:CONCEPT: uuid-e0f1ae0b-eccb-4c7a-ae2e-4bef2328e420 / APPROPRIATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 50
+:END:
+便@biàn	[[tls:concept:APPROPRIATE::#uuid-e0f1ae0b-eccb-4c7a-ae2e-4bef2328e420][APPROPRIATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be the appropriate thing to do
+** 匈奴背叛不臣	When the Hsiung Nu rebelled against our authority
+:PROPERTIES:
+:SRC: YTL 01.01.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:4a02:1::「匈 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 背叛@bèipàn
+:PROPERTIES:
+:CONCEPT: uuid-286a8778-7ecc-40c6-a0bc-e56363360875 / REVOLT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+背叛@bèipàn	[[tls:concept:REVOLT::#uuid-286a8778-7ecc-40c6-a0bc-e56363360875][REVOLT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in political revolt
+*** 不臣@bùchén
+:PROPERTIES:
+:CONCEPT: uuid-dde85ad7-ea04-4f74-b899-3b64fe7c5d40 / REVOLT
+:SYN-FUNC: uuid-6fbf1ba0-1013-434e-b795-029e61b40b98
+:CHARPOS: 5
+:END:
+不臣@bùchén	[[tls:concept:REVOLT::#uuid-dde85ad7-ea04-4f74-b899-3b64fe7c5d40][REVOLT]]	V [[tls:syn-func::#uuid-6fbf1ba0-1013-434e-b795-029e61b40b98][VPt{oN}]] / fail to show proper obedience to the authorities currently in charge
+** 數為寇暴於邊鄙	and frequently raided and devastated the frontier settlements,
+:PROPERTIES:
+:SRC: YTL 01.01.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:4a03:50::數為 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 數@shuò
+:PROPERTIES:
+:CONCEPT: uuid-dbd6bf81-b61d-4874-a764-9e8d82200ccf / OFTEN
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+數@shuò	[[tls:concept:OFTEN::#uuid-dbd6bf81-b61d-4874-a764-9e8d82200ccf][OFTEN]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / numerous times, frequently; on several occasions; at frequent intervals
+*** 寇暴@kòubào
+:PROPERTIES:
+:CONCEPT: uuid-70ca437c-45ec-4a12-8fda-e6396ba32342 / ATTACK
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+寇暴@kòubào	[[tls:concept:ATTACK::#uuid-70ca437c-45ec-4a12-8fda-e6396ba32342][ATTACK]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / violent incursions; violent invasions; violent attacks
+*** 邊鄙@biānbǐ
+:PROPERTIES:
+:CONCEPT: uuid-e06f01ed-578c-443d-8dfb-e3e2022ccf24 / BORDER AREA
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 55
+:END:
+邊鄙@biānbǐ	[[tls:concept:BORDER AREA::#uuid-e06f01ed-578c-443d-8dfb-e3e2022ccf24][BORDER AREA]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / border regions
+** 備之則勞中國之士	to be constantly on the watch for them was a great strain upon the soldiery of the Middle Kingdom;
+:PROPERTIES:
+:SRC: YTL 01.01.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:4a04:50::備之 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 備@bèi
+:PROPERTIES:
+:CONCEPT: uuid-26328d5e-9754-4b7c-92e5-b1a5ca8eb150 / DEFEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+備@bèi	[[tls:concept:DEFEND::#uuid-26328d5e-9754-4b7c-92e5-b1a5ca8eb150][DEFEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / guard against; guard properly against; prepare against, put up defences against
+*** 勞@láo
+:PROPERTIES:
+:CONCEPT: uuid-510f33ec-61dc-4236-bf95-27e05fb16488 / TIRED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 53
+:END:
+勞@láo	[[tls:concept:TIRED::#uuid-510f33ec-61dc-4236-bf95-27e05fb16488][TIRED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / wear out, tire out
+*** 中國@zhōngguó
+:PROPERTIES:
+:CONCEPT: uuid-c3756a69-deb9-49c5-bd89-e64709b8bf9d / CHINA
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 54
+:END:
+中國@zhōngguó	[[tls:concept:CHINA::#uuid-c3756a69-deb9-49c5-bd89-e64709b8bf9d][CHINA]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / central states (sometimes, but not always excluding states like Chu and Qin)
+** 不備則侵盜不止	but without measures of precaution being taken, these forays and depredations would never cease.
+:PROPERTIES:
+:SRC: YTL 01.01.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:4a05:50::不備 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 侵@qīn
+:PROPERTIES:
+:CONCEPT: uuid-70bfe5b4-626a-4cb2-88c6-d3d2d14877d8 / ATTACK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 53
+:END:
+侵@qīn	[[tls:concept:ATTACK::#uuid-70bfe5b4-626a-4cb2-88c6-d3d2d14877d8][ATTACK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / invading
+*** 盜@dào
+:PROPERTIES:
+:CONCEPT: uuid-b95582e5-5209-4d25-88f3-905216f95869 / VILLAIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+盜@dào	[[tls:concept:VILLAIN::#uuid-b95582e5-5209-4d25-88f3-905216f95869][VILLAIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / villain; villains
+*** 止@zhǐ
+:PROPERTIES:
+:CONCEPT: uuid-8d96b4c9-3814-4ff2-96e7-e4fd73eff9d2 / STOP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 56
+:END:
+止@zhǐ	[[tls:concept:STOP::#uuid-8d96b4c9-3814-4ff2-96e7-e4fd73eff9d2][STOP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / stop, fail to go on doing what one was doing; desist MOVE THESE TO THE NEXT LEXEME ENTRY
+** 先帝哀邊人之久患	The late Emperor, grieving at the the long suffering of the denizens of the marches
+:PROPERTIES:
+:SRC: YTL 01.01.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:4a06:50::先帝 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 先@xiān / 先@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-67ac278e-480c-45a3-a67b-c88038cf6a4c / PRECEDE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+先@xiān / 先@xiàn	[[tls:concept:PRECEDE::#uuid-67ac278e-480c-45a3-a67b-c88038cf6a4c][PRECEDE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / preceding> former, late 先君 "the ruler preceding the present one" 先帝 "the late Emperor"
+*** 邊@biān
+:PROPERTIES:
+:CONCEPT: uuid-36ce7760-3972-41f2-b21a-07a0d85f68ae / BORDER AREA
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+邊@biān	[[tls:concept:BORDER AREA::#uuid-36ce7760-3972-41f2-b21a-07a0d85f68ae][BORDER AREA]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / border area of a state or of the empire
+*** 久@jiǔ
+:PROPERTIES:
+:CONCEPT: uuid-9d49875b-ee49-4351-93ba-0300031270f6 / ENDURING
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 56
+:END:
+久@jiǔ	[[tls:concept:ENDURING::#uuid-9d49875b-ee49-4351-93ba-0300031270f6][ENDURING]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / for a long time; permanently; in the long run (often postposed); after a long time; in the long term
+** 苦為虜所係獲也	who live in fear of capture by the barbarians,
+:PROPERTIES:
+:SRC: YTL 01.01.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:4a07:50::苦為 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 苦@kǔ
+:PROPERTIES:
+:CONCEPT: uuid-ecf7a763-55f8-4747-bbd9-931da87a7b40 / SUFFER
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 50
+:END:
+苦@kǔ	[[tls:concept:SUFFER::#uuid-ecf7a763-55f8-4747-bbd9-931da87a7b40][SUFFER]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / suffer the consequences of V-ing
+*** 虜@lǔ
+:PROPERTIES:
+:CONCEPT: uuid-bd057bf9-d422-4ecf-b188-251c8aa7876a / BARBARIAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 52
+:END:
+虜@lǔ	[[tls:concept:BARBARIAN::#uuid-bd057bf9-d422-4ecf-b188-251c8aa7876a][BARBARIAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the barbarians; barbarians
+*** 係獲@xìhuò
+:PROPERTIES:
+:CONCEPT: uuid-cd824539-0ce7-4b96-bc02-2175525f305d / CATCH
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 54
+:END:
+係獲@xìhuò	[[tls:concept:CATCH::#uuid-cd824539-0ce7-4b96-bc02-2175525f305d][CATCH]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / bind and capture
+*** 係@xì
+:PROPERTIES:
+:CONCEPT: uuid-69c2da90-142d-4d34-bbc5-5c5329b61aba / ARREST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+係@xì	[[tls:concept:ARREST::#uuid-69c2da90-142d-4d34-bbc5-5c5329b61aba][ARREST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / tie up and arrest (sometimes as prisoner, also said of animals)
+*** 獲@huò
+:PROPERTIES:
+:CONCEPT: uuid-c275eb5b-e430-40be-9f46-924edcea199b / ARREST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-5100e402-4cb5-4b99-929f-be674b3757d4
+:CHARPOS: 55
+:END:
+獲@huò	[[tls:concept:ARREST::#uuid-c275eb5b-e430-40be-9f46-924edcea199b][ARREST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-5100e402-4cb5-4b99-929f-be674b3757d4][N=human]]} / capture, take prisoner; manage to catch (and possibly kill)
+** 故修障塞	caused consequently forts
+:PROPERTIES:
+:SRC: YTL 01.01.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:4a08:50::故修 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 修@xiū
+:PROPERTIES:
+:CONCEPT: uuid-f6241a4d-3655-4457-9b5a-caa904bc326e / BUILD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+修@xiū	[[tls:concept:BUILD::#uuid-f6241a4d-3655-4457-9b5a-caa904bc326e][BUILD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / build up and keep in good repair; typically jussive: have built
+*** 障塞@zhàngsāi
+:PROPERTIES:
+:CONCEPT: uuid-abf8cf7f-5162-45fa-976a-116ace8d1071 / DEFEND
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+障塞@zhàngsāi	[[tls:concept:DEFEND::#uuid-abf8cf7f-5162-45fa-976a-116ace8d1071][DEFEND]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / defenses; blockages; impediments; defensive arrangements
+*** 障@zhàng
+:PROPERTIES:
+:CONCEPT: uuid-8ca364bb-7a19-4fa8-a5cf-51d35becf77a / HINDER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+障@zhàng	[[tls:concept:HINDER::#uuid-8ca364bb-7a19-4fa8-a5cf-51d35becf77a][HINDER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / block; hindrance
+*** 塞@sāi
+:PROPERTIES:
+:CONCEPT: uuid-918dcacf-56aa-4203-8029-3004b031da7d / BLOCK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+塞@sāi	[[tls:concept:BLOCK::#uuid-918dcacf-56aa-4203-8029-3004b031da7d][BLOCK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / man-made (road-) block to hinder invasion
+** 飭烽燧	and seried signal stations to be built,
+:PROPERTIES:
+:SRC: YTL 01.01.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:4a09:50::飭烽 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 飭@chì
+:PROPERTIES:
+:CONCEPT: uuid-7d24f3c8-3cfd-4dd3-a121-43f135fe3670 / ESTABLISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+飭@chì	[[tls:concept:ESTABLISH::#uuid-7d24f3c8-3cfd-4dd3-a121-43f135fe3670][ESTABLISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / establish properly (in a neat way)
+*** 烽燧@fēngsuì
+:PROPERTIES:
+:CONCEPT: uuid-87c00af1-ee42-48dd-b9d3-c7e19f2f3e06 / BEACON
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 51
+:END:
+烽燧@fēngsuì	[[tls:concept:BEACON::#uuid-87c00af1-ee42-48dd-b9d3-c7e19f2f3e06][BEACON]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / beacon system
+** 屯戍以備之	where garrisons were held ready against the nomads.
+:PROPERTIES:
+:SRC: YTL 01.01.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:4a10:50::屯戍 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 屯@zhūn / 屯@tún
+:PROPERTIES:
+:CONCEPT: uuid-65cc3aac-2470-48d4-a6b7-d787f2f27cac / SEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+屯@zhūn / 屯@tún	[[tls:concept:SEND::#uuid-65cc3aac-2470-48d4-a6b7-d787f2f27cac][SEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause/order/send to act as a defensive garrison soldier
+*** 戍@shù
+:PROPERTIES:
+:CONCEPT: uuid-d310763b-53c0-4ba5-afdb-c0877be7fc30 / SOLDIER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+戍@shù	[[tls:concept:SOLDIER::#uuid-d310763b-53c0-4ba5-afdb-c0877be7fc30][SOLDIER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / border guards; a border garrson; garrison soldiers
+*** 備@bèi
+:PROPERTIES:
+:CONCEPT: uuid-26328d5e-9754-4b7c-92e5-b1a5ca8eb150 / DEFEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+備@bèi	[[tls:concept:DEFEND::#uuid-26328d5e-9754-4b7c-92e5-b1a5ca8eb150][DEFEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / guard against; guard properly against; prepare against, put up defences against
+** 以佐助邊費	so as to furnish the frontier expenses.
+:PROPERTIES:
+:SRC: YTL 01.01.08; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:4a15:1::以佐 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 費@fèi
+:PROPERTIES:
+:CONCEPT: uuid-ea7de181-3472-4978-ad7c-9af1725d21cd / EXPENSE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+費@fèi	[[tls:concept:EXPENSE::#uuid-ea7de181-3472-4978-ad7c-9af1725d21cd][EXPENSE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / expenditure; cost; expense; lavish use of resources
+** 內空府庫之藏	at home would have the hoard of the treasury entirely depleted,
+:PROPERTIES:
+:SRC: YTL 01.01.09; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:4a17:1::內空 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 空@kōng
+:PROPERTIES:
+:CONCEPT: uuid-b67ef48f-c612-498a-a890-dd57fc56dc1b / EMPTY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 2
+:END:
+空@kōng	[[tls:concept:EMPTY::#uuid-b67ef48f-c612-498a-a890-dd57fc56dc1b][EMPTY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / (to cause to be empty>) to deplete, to empty
+** 匈奴桀黠	The Xiōng Nú, savage and wily,
+:PROPERTIES:
+:SRC: YTL 01.01.14; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:6a02:1::「匈 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 桀@jié
+:PROPERTIES:
+:CONCEPT: uuid-f8c3aacd-15c7-4dd3-b7a9-699543c68d79 / CRUEL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+桀@jié	[[tls:concept:CRUEL::#uuid-f8c3aacd-15c7-4dd3-b7a9-699543c68d79][CRUEL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / behave recklessly
+*** 黠@xiá
+:PROPERTIES:
+:CONCEPT: uuid-84676bcb-8963-4aef-a209-6c467436ecbc / CRAFTY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+黠@xiá	[[tls:concept:CRAFTY::#uuid-84676bcb-8963-4aef-a209-6c467436ecbc][CRAFTY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be (superficially) quick and clever
+** 擅恣入塞	boldy push through the barriers
+:PROPERTIES:
+:SRC: YTL 01.01.14; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:6a03:50::擅恣 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 入@rù
+:PROPERTIES:
+:CONCEPT: uuid-b578b6cb-7815-4a03-9f51-89c6ca00f313 / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+入@rù	[[tls:concept:ATTACK::#uuid-b578b6cb-7815-4a03-9f51-89c6ca00f313][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / enter and gain possession of (a city) without necessarily permanently occupying it and settling there
+** 犯厲中國	and harass the Middle Kingdom,
+:PROPERTIES:
+:SRC: YTL 01.01.14; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:6a04:50::犯厲 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 犯@fàn
+:PROPERTIES:
+:CONCEPT: uuid-90a73ff1-bac5-4ade-9175-89ab6d0f91aa / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+犯@fàn	[[tls:concept:ATTACK::#uuid-90a73ff1-bac5-4ade-9175-89ab6d0f91aa][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / attack suddenly and violently
+** 縱難被堅執銳	yet unflinchingly You cherish the purpose of raising strong armies
+:PROPERTIES:
+:SRC: YTL 01.01.15; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:6a11:1::縱難 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 銳@ruì
+:PROPERTIES:
+:CONCEPT: uuid-28762934-32ee-4696-9b26-09e3cf266277 / SHARP
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 6
+:END:
+銳@ruì	[[tls:concept:SHARP::#uuid-28762934-32ee-4696-9b26-09e3cf266277][SHARP]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / what is sharp, sharp weapons
+** 轉輸糧食無已	and the ceaseless transportation for the needs of the commissariat
+:PROPERTIES:
+:SRC: YTL 01.01.17; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:7a14:1::轉輸 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 轉@zhuǎn
+:PROPERTIES:
+:CONCEPT: uuid-ccebc75f-d881-4bb0-8291-14f79cd4eac0 / CONTINUE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+轉@zhuǎn	[[tls:concept:CONTINUE::#uuid-ccebc75f-d881-4bb0-8291-14f79cd4eac0][CONTINUE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / continuously, from one person to the next
+*** 輸@shū
+:PROPERTIES:
+:CONCEPT: uuid-692b5682-cc53-4330-bcd6-1c36dd1c2875 / TRANSPORT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+輸@shū	[[tls:concept:TRANSPORT::#uuid-692b5682-cc53-4330-bcd6-1c36dd1c2875][TRANSPORT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / transfer and transport to a certain place (as grain to a needy area)
+** 使邊境之士饑寒於外	that cause our soldiers on the marches to suffer from hunger and cold abroad,
+:PROPERTIES:
+:SRC: YTL 01.01.17; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:7a15:50::使邊 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 饑@jī
+:PROPERTIES:
+:CONCEPT: uuid-78bcd8d4-6f17-440b-9fdb-0788b738d1cb / HUNGRY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 55
+:END:
+饑@jī	[[tls:concept:HUNGRY::#uuid-78bcd8d4-6f17-440b-9fdb-0788b738d1cb][HUNGRY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be hungry; (of places, during a certain time) suffer a scarcity of food
+*** 寒@hán
+:PROPERTIES:
+:CONCEPT: uuid-48f69bdc-e0ed-4f11-91aa-4f3be32ddc19 / COLD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 56
+:END:
+寒@hán	[[tls:concept:COLD::#uuid-48f69bdc-e0ed-4f11-91aa-4f3be32ddc19][COLD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be cold (of persons), go cold; fresh and chilly; be cold (as winter)
+** 致士民	there people of all classes gathered together
+:PROPERTIES:
+:SRC: YTL 01.01.19; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:8a06:1::致士 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 致@zhì
+:PROPERTIES:
+:CONCEPT: uuid-6b9dabf6-2b8f-43de-a1c4-27588b7b1dbf / COME
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+致@zhì	[[tls:concept:COME::#uuid-6b9dabf6-2b8f-43de-a1c4-27588b7b1dbf][COME]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to come> attract
+** 使民不倦	says the Book of Changes.
+:PROPERTIES:
+:SRC: YTL 01.01.20; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:8a12:1::使民 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 不倦@bùjuàn
+:PROPERTIES:
+:CONCEPT: uuid-a4bf18e7-d1c2-45a4-9852-e3afe0bdb739 / TIRELESS
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 3
+:END:
+不倦@bùjuàn	[[tls:concept:TIRELESS::#uuid-a4bf18e7-d1c2-45a4-9852-e3afe0bdb739][TIRELESS]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be indefatigable; be unexhausted
+** 則寶貨絕	all prized commodities will be cut off.
+:PROPERTIES:
+:SRC: YTL 01.01.20; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:8a16:1::則寶 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-4b81a6f2-2b6b-4ef4-969b-db19221e980f / PRECIOUS
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 2
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-4b81a6f2-2b6b-4ef4-969b-db19221e980f][PRECIOUS]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / precious; sometimes: containing treasure
+*** 貨@huò
+:PROPERTIES:
+:CONCEPT: uuid-e250b43f-1399-4a59-aaab-5386db8f941e / PROPERTY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 3
+:END:
+貨@huò	[[tls:concept:PROPERTY::#uuid-e250b43f-1399-4a59-aaab-5386db8f941e][PROPERTY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / goods, commodities; luxury goods, luxury items; especially: items made of metal or jade
+** 則穀不殖	to stoppage of grain production,
+:PROPERTIES:
+:SRC: YTL 01.01.21; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:8a18:1::則穀 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 殖@zhí
+:PROPERTIES:
+:CONCEPT: uuid-ac6dfa19-9855-483e-b997-b0d52272c38c / FLOURISH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 4
+:END:
+殖@zhí	[[tls:concept:FLOURISH::#uuid-ac6dfa19-9855-483e-b997-b0d52272c38c][FLOURISH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / flourish
+** 寶貨絕	
+:PROPERTIES:
+:SRC: YTL 01.01.21; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:8a19:50::寶貨 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-4b81a6f2-2b6b-4ef4-969b-db19221e980f / PRECIOUS
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-4b81a6f2-2b6b-4ef4-969b-db19221e980f][PRECIOUS]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / precious; sometimes: containing treasure
+*** 貨@huò
+:PROPERTIES:
+:CONCEPT: uuid-e250b43f-1399-4a59-aaab-5386db8f941e / PROPERTY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 51
+:END:
+貨@huò	[[tls:concept:PROPERTY::#uuid-e250b43f-1399-4a59-aaab-5386db8f941e][PROPERTY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / goods, commodities; luxury goods, luxury items; especially: items made of metal or jade
+** 則財用匱	the latter to exhaustion of wealth.
+:PROPERTIES:
+:SRC: YTL 01.01.21; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:8a20:50::則財 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 財用@cáiyòng
+:PROPERTIES:
+:CONCEPT: uuid-393aba6c-6822-4729-b0fd-410bdb9143d8 / PROPERTY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 51
+:END:
+財用@cáiyòng	[[tls:concept:PROPERTY::#uuid-393aba6c-6822-4729-b0fd-410bdb9143d8][PROPERTY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / necessary resources
+*** 匱@guì
+:PROPERTIES:
+:CONCEPT: uuid-4e3dc948-c6b7-4136-b714-7763533b377f / FEW
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+匱@guì	[[tls:concept:FEW::#uuid-4e3dc948-c6b7-4136-b714-7763533b377f][FEW]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be deficient, be in short supply 財匱
+** 俗薄則背義而趨利	Vicious habits would lead them away from righteousness to follow after gain,
+:PROPERTIES:
+:SRC: YTL 01.01.22; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:9a05:1::俗薄 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 俗薄@súbáo
+:PROPERTIES:
+:CONCEPT: uuid-154a275c-5c07-42c9-aac0-bf3b0916048c / VULGAR
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:CHARPOS: 1
+:END:
+俗薄@súbáo	[[tls:concept:VULGAR::#uuid-154a275c-5c07-42c9-aac0-bf3b0916048c][VULGAR]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] / pettiness, moral insignificance, vulgarities
+** 以禮義防民欲	he checks the people's desires through the principles of propriety and righteousness
+:PROPERTIES:
+:SRC: YTL 01.01.23; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:9a12:1::以禮 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 防@fáng
+:PROPERTIES:
+:CONCEPT: uuid-c895a3d7-7709-4a26-8a93-96c475a470a6 / DEFEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+防@fáng	[[tls:concept:DEFEND::#uuid-c895a3d7-7709-4a26-8a93-96c475a470a6][DEFEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / guard against; put a stop to
+** 國有沃野之饒而民不足於食者	That a country possesses a wealth of fertile land and yet its people are underfed
+:PROPERTIES:
+:SRC: YTL 01.01.28; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:11a02:1::「國 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 沃@wò
+:PROPERTIES:
+:CONCEPT: uuid-211e73d6-05a0-46ce-8b8a-c809decd1667 / FERTILE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+沃@wò	[[tls:concept:FERTILE::#uuid-211e73d6-05a0-46ce-8b8a-c809decd1667][FERTILE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / fertile
+** 工商盛而本業荒也	is due to the fact that merchants and workers have prospered unduly while the fundamental occupations have been neglected.
+:PROPERTIES:
+:SRC: YTL 01.01.28; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:11a03:50::工商 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 業@yè
+:PROPERTIES:
+:CONCEPT: uuid-60a09964-03da-45e1-a419-848d77b15856 / WORK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+業@yè	[[tls:concept:WORK::#uuid-60a09964-03da-45e1-a419-848d77b15856][WORK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / profession, professional work, trade; exercise of one's proper profession; performance of one's duties, professional achievements; task
+*** 荒@huāng
+:PROPERTIES:
+:CONCEPT: uuid-0850606e-9b1d-43c7-9245-513d5d2ed91b / WASTE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 56
+:END:
+荒@huāng	[[tls:concept:WASTE::#uuid-0850606e-9b1d-43c7-9245-513d5d2ed91b][WASTE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be wasted; be neglected
+** 高帝禁商賈不得仕宦	and Gāo Dì forbade merchants and shopkeepers to be officials.
+:PROPERTIES:
+:SRC: YTL 01.01.29; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:11a10:1::高帝 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 商賈@shānggǔ
+:PROPERTIES:
+:CONCEPT: uuid-3ab72572-90c9-4215-8f46-00931013f008 / MERCHANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 4
+:END:
+商賈@shānggǔ	[[tls:concept:MERCHANT::#uuid-3ab72572-90c9-4215-8f46-00931013f008][MERCHANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / merchants of all kinds 百工商賈
+*** 仕宦@shìhuàn
+:PROPERTIES:
+:CONCEPT: uuid-ea09d44d-d3e4-46f4-821d-b362c3aedf4c / SERVE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 8
+:END:
+仕宦@shìhuàn	[[tls:concept:SERVE::#uuid-ea09d44d-d3e4-46f4-821d-b362c3aedf4c][SERVE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / serve as an official
+** 郡國諸侯各以其方物貢輸	the Princes in the provinces and the demesnes sent in their respective products as tribute.
+:PROPERTIES:
+:SRC: YTL 01.01.31; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:12a02:1::郡國 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 貢@gòng
+:PROPERTIES:
+:CONCEPT: uuid-b8da958f-73c0-4627-a3ec-d6775bb75d66 / HAND UP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 10
+:END:
+貢@gòng	[[tls:concept:HAND UP::#uuid-b8da958f-73c0-4627-a3ec-d6775bb75d66][HAND UP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / give by way of tribute
+** 開委府于京師	A Receiving Bureau has been established at the capital
+:PROPERTIES:
+:SRC: YTL 01.01.32; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:12a09:1::開委 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 京師@jīngshī
+:PROPERTIES:
+:CONCEPT: uuid-60f7dd92-4aa6-4120-a92b-65738b79050e / CAPITAL CITY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 5
+:END:
+京師@jīngshī	[[tls:concept:CAPITAL CITY::#uuid-60f7dd92-4aa6-4120-a92b-65738b79050e][CAPITAL CITY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / capital
+** 以籠貨物	to monopolize all the commodities,
+:PROPERTIES:
+:SRC: YTL 01.01.32; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:12a10:50::以籠 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 籠@lóng
+:PROPERTIES:
+:CONCEPT: uuid-bce7a9e5-2a80-4f9e-85f3-ba5fd2fc89cb / MONOPOLISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+籠@lóng	[[tls:concept:MONOPOLISE::#uuid-bce7a9e5-2a80-4f9e-85f3-ba5fd2fc89cb][MONOPOLISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / monopolise
+*** 貨物@huòwù
+:PROPERTIES:
+:CONCEPT: uuid-2fc3e22c-0c84-40d0-9dea-0364921fa007 / PROPERTY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+貨物@huòwù	[[tls:concept:PROPERTY::#uuid-2fc3e22c-0c84-40d0-9dea-0364921fa007][PROPERTY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / goods
+** 商賈無所貿利	and the merchants cannot speculate for profit.
+:PROPERTIES:
+:SRC: YTL 01.01.32; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:12a14:1::商賈 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 商賈@shānggǔ
+:PROPERTIES:
+:CONCEPT: uuid-3ab72572-90c9-4215-8f46-00931013f008 / MERCHANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 1
+:END:
+商賈@shānggǔ	[[tls:concept:MERCHANT::#uuid-3ab72572-90c9-4215-8f46-00931013f008][MERCHANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / merchants of all kinds 百工商賈
+*** 貿@mào
+:PROPERTIES:
+:CONCEPT: uuid-17550d0a-be9d-4b64-9599-ce6726ff7e77 / TRADE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+貿@mào	[[tls:concept:TRADE::#uuid-17550d0a-be9d-4b64-9599-ce6726ff7e77][TRADE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / trade in, conduct bartering trade in; trade for
+** 農人納其獲	Thus the farmers contributed the fruits of their labor,
+:PROPERTIES:
+:SRC: YTL 01.01.34; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:13a05:1::農人 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 農人@nóngrén
+:PROPERTIES:
+:CONCEPT: uuid-24c4ffa8-6d93-4e99-bb9e-5337a5688928 / PEASANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CONCEPT: uuid-d882961b-6745-4f41-8521-ec564d49fc0b / HARVEST
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 1
+:END:
+農人@nóngrén	[[tls:concept:PEASANT::#uuid-24c4ffa8-6d93-4e99-bb9e-5337a5688928][PEASANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / peasants
+穫@huò	[[tls:concept:HARVEST::#uuid-d882961b-6745-4f41-8521-ec564d49fc0b][HARVEST]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / harvest
+** 女工再稅	while the weaving women are doubly taxed.
+:PROPERTIES:
+:SRC: YTL 01.01.36; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:13a21:1::女工 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 再@zài
+:PROPERTIES:
+:CONCEPT: uuid-79b11494-7304-4543-881d-0feb92433808 / TWO
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 3
+:END:
+再@zài	[[tls:concept:TWO::#uuid-79b11494-7304-4543-881d-0feb92433808][TWO]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / doubly; in two separate ways
+*** 稅@shuì
+:PROPERTIES:
+:CONCEPT: uuid-05f3e634-8b88-4881-a3df-ecf4819fff95 / TAX
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 4
+:END:
+稅@shuì	[[tls:concept:TAX::#uuid-05f3e634-8b88-4881-a3df-ecf4819fff95][TAX]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be taxed
+** 則商賈侔利	the merchants make private deals
+:PROPERTIES:
+:SRC: YTL 01.01.37; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:13a29:1::則商 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 商賈@shānggǔ
+:PROPERTIES:
+:CONCEPT: uuid-3ab72572-90c9-4215-8f46-00931013f008 / MERCHANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 2
+:END:
+商賈@shānggǔ	[[tls:concept:MERCHANT::#uuid-3ab72572-90c9-4215-8f46-00931013f008][MERCHANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / merchants of all kinds 百工商賈
+** 豪吏富商積貨儲物以待其急	and the merchants store up goods and accumulate commodities waiting for a time of need.
+:PROPERTIES:
+:SRC: YTL 01.01.37; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:13a32:1::豪吏 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 積@jī
+:PROPERTIES:
+:CONCEPT: uuid-4b884bd6-82e2-4b81-91dd-aae705cfbc66 / ACCUMULATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+積@jī	[[tls:concept:ACCUMULATE::#uuid-4b884bd6-82e2-4b81-91dd-aae705cfbc66][ACCUMULATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / collect and amass, typically on a large scale
+*** 貨@huò
+:PROPERTIES:
+:CONCEPT: uuid-e250b43f-1399-4a59-aaab-5386db8f941e / PROPERTY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 6
+:END:
+貨@huò	[[tls:concept:PROPERTY::#uuid-e250b43f-1399-4a59-aaab-5386db8f941e][PROPERTY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / goods, commodities; luxury goods, luxury items; especially: items made of metal or jade
+*** 儲@chǔ
+:PROPERTIES:
+:CONCEPT: uuid-004f6176-e539-4f74-abc8-f90a17971a9a / ACCUMULATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+儲@chǔ	[[tls:concept:ACCUMULATE::#uuid-004f6176-e539-4f74-abc8-f90a17971a9a][ACCUMULATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / assemble, gather together for lasting storage; YTL: collect and store up (provisions, arms, horses etc)
+*** 待@dài
+:PROPERTIES:
+:CONCEPT: uuid-63abd9ec-22b5-4a1a-a552-7ffc3ceda874 / WAIT
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 10
+:END:
+待@dài	[[tls:concept:WAIT::#uuid-63abd9ec-22b5-4a1a-a552-7ffc3ceda874][WAIT]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / wait until S
+** 所以齊勞逸而便貢輸	was to bring about equitable division of labor and facilitate transportation of tribute;
+:PROPERTIES:
+:SRC: YTL 01.01.38; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:13a36:1::所以 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 便@biàn
+:PROPERTIES:
+:CONCEPT: uuid-43204b42-aa98-408f-b901-1a0a964d397d / CONVENIENT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 7
+:END:
+便@biàn	[[tls:concept:CONVENIENT::#uuid-43204b42-aa98-408f-b901-1a0a964d397d][CONVENIENT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / make convenient, facilitate; make things convenient and advantageous for
+*** 貢@gòng
+:PROPERTIES:
+:CONCEPT: uuid-f11a00c7-860b-49fd-86bd-f8d73a2857ed / TRIBUTE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 8
+:END:
+貢@gòng	[[tls:concept:TRIBUTE::#uuid-f11a00c7-860b-49fd-86bd-f8d73a2857ed][TRIBUTE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / tribute, offering
+*** 輸@shū
+:PROPERTIES:
+:CONCEPT: uuid-18a80fd4-ad79-45ba-81a9-defe6a5d35c8 / TRANSPORT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 9
+:END:
+輸@shū	[[tls:concept:TRANSPORT::#uuid-18a80fd4-ad79-45ba-81a9-defe6a5d35c8][TRANSPORT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / transportation
+** 豐年歲登	In years of abundance with harvest tall,
+:PROPERTIES:
+:SRC: YTL 01.02.01; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:15a05:1::豐年 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 年@nián
+:PROPERTIES:
+:CONCEPT: uuid-597aa7f4-f7e7-465b-8749-66f280c7f287 / HARVEST
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+年@nián	[[tls:concept:HARVEST::#uuid-597aa7f4-f7e7-465b-8749-66f280c7f287][HARVEST]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / OBI 4: in OBI: good harvest; Warring States: yearly harvest (good or bad) 豐年 "bumper harvest"; 2. year with good harvest
+** 則儲積以備乏絕	he stores and bins to provide for times of scarcity and want;
+:PROPERTIES:
+:SRC: YTL 01.02.01; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:15a06:50::則儲 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 儲@chǔ
+:PROPERTIES:
+:CONCEPT: uuid-e475f5c5-7aff-4bd9-9c2b-b11310d0dfc6 / ACCUMULATE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+儲@chǔ	[[tls:concept:ACCUMULATE::#uuid-e475f5c5-7aff-4bd9-9c2b-b11310d0dfc6][ACCUMULATE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / to accumulate things; to store things
+*** 積@jī
+:PROPERTIES:
+:CONCEPT: uuid-7705f0cc-7e49-43a7-ba98-21b1288c063a / ACCUMULATE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 52
+:END:
+積@jī	[[tls:concept:ACCUMULATE::#uuid-7705f0cc-7e49-43a7-ba98-21b1288c063a][ACCUMULATE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / engage in the accumulation of things
+** 百姓匱乏	when the masses of the people, at the end of their resources,
+:PROPERTIES:
+:SRC: YTL 01.02.02; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:15a11:1::百姓 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 匱乏@guìfá
+:PROPERTIES:
+:CONCEPT: uuid-3d758bda-35e8-47a0-a942-158dc5782dbe / POOR
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 3
+:END:
+匱乏@guìfá	[[tls:concept:POOR::#uuid-3d758bda-35e8-47a0-a942-158dc5782dbe][POOR]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / be quite poor, be very poor
+** 草萊不闢	But if the grass and weeds be not cleared
+:PROPERTIES:
+:SRC: YTL 01.02.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:16a09:1::草萊 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 草@cǎo
+:PROPERTIES:
+:CONCEPT: uuid-a8def0e1-f270-46a7-8ff9-489a6a90fda3 / GRASS
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 1
+:END:
+草@cǎo	[[tls:concept:GRASS::#uuid-a8def0e1-f270-46a7-8ff9-489a6a90fda3][GRASS]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / vegetation; non-edible grass, non-edible grassy plant; herb; generally, SHUOWEN: grassy plants, non-tree-like green plants, low bushes, including bamboos, according to SHJ: 其草多竹
+*** 萊@lái
+:PROPERTIES:
+:CONCEPT: uuid-a5b1888f-b07a-4649-9b4b-44c4b7eb68ef / WEED
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+萊@lái	[[tls:concept:WEED::#uuid-a5b1888f-b07a-4649-9b4b-44c4b7eb68ef][WEED]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / kind of weed
+** 田疇不治	and the fields not regularly cultivated,
+:PROPERTIES:
+:SRC: YTL 01.02.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:16a10:50::田疇 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 田疇@tiánchóu
+:PROPERTIES:
+:CONCEPT: uuid-ed95ee4d-787c-40de-8a94-8cf56c55faaf / FIELD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 50
+:END:
+田疇@tiánchóu	[[tls:concept:FIELD::#uuid-ed95ee4d-787c-40de-8a94-8cf56c55faaf][FIELD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the fields (of all kinds)
+*** 治@chí
+:PROPERTIES:
+:CONCEPT: uuid-c21a76e7-e453-4956-966b-2420f47a86ac / ACT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 53
+:END:
+治@chí	[[tls:concept:ACT::#uuid-c21a76e7-e453-4956-966b-2420f47a86ac][ACT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be worked on properly, be carried out properly
+** 稼穡者民之務也	clothes and food being of primary necessity to the people.
+:PROPERTIES:
+:SRC: YTL 01.02.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:16a18:1::稼穡 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 稼穡@jiàsè
+:PROPERTIES:
+:CONCEPT: uuid-ce9fb513-993c-419d-837a-280c3e829f3b / AGRICULTURE
+:SYN-FUNC: uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+稼穡@jiàsè	[[tls:concept:AGRICULTURE::#uuid-ce9fb513-993c-419d-837a-280c3e829f3b][AGRICULTURE]]	N [[tls:syn-func::#uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54][NPab{N1&N2}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (sow and harvest>) husbandry; agricultural production
+** 使治家養生必於農	If one must resort to agriculture alone to make a living and found a family,
+:PROPERTIES:
+:SRC: YTL 01.02.08; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:17a06:1::使治 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 於@yú
+:PROPERTIES:
+:CONCEPT: uuid-e44186e3-7123-4576-9869-5bc88d188944 / RELY ON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 7
+:END:
+於@yú	[[tls:concept:RELY ON::#uuid-e44186e3-7123-4576-9869-5bc88d188944][RELY ON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be (abstractly) in> depend on; be based on
+** 纖微之貢	and other insignificant articles of tribute
+:PROPERTIES:
+:SRC: YTL 01.02.09; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:17a17:1::纖微 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 纖@xiān
+:PROPERTIES:
+:CONCEPT: uuid-c9b167a1-40b7-457f-96a0-cc0840ecfc92 / TENUOUS
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+纖@xiān	[[tls:concept:TENUOUS::#uuid-c9b167a1-40b7-457f-96a0-cc0840ecfc92][TENUOUS]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / tenuous
+*** 貢@gòng
+:PROPERTIES:
+:CONCEPT: uuid-f11a00c7-860b-49fd-86bd-f8d73a2857ed / TRIBUTE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+貢@gòng	[[tls:concept:TRIBUTE::#uuid-f11a00c7-860b-49fd-86bd-f8d73a2857ed][TRIBUTE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / tribute, offering
+** 胡所以誘外國而釣羗之寶也	are means of inveigling foreign countries and snaring the treasures of the Qiāng and the Hú.
+:PROPERTIES:
+:SRC: YTL 01.02.09; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:17a18:50::胡所 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024 / PRECIOUS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 60
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024][PRECIOUS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / precious possession; precious things; treasure of high personal, monetary, social or moral value 三寶
+** 咸為國之寶	become national treasures.
+:PROPERTIES:
+:SRC: YTL 01.02.11; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:17a30:1::咸為 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024 / PRECIOUS
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 5
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-e589f5cd-0d7b-41c3-821a-df9f743fd024][PRECIOUS]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / precious possession; precious things; treasure of high personal, monetary, social or moral value 三寶
+** 商通物而不豫	merchants circulated goods without premeditation,
+:PROPERTIES:
+:SRC: YTL 01.02.13; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:18a03:1::商通 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 通@tōng
+:PROPERTIES:
+:CONCEPT: uuid-4675a898-756f-40c8-9930-da84dc178bf0 / EXCHANGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+通@tōng	[[tls:concept:EXCHANGE::#uuid-4675a898-756f-40c8-9930-da84dc178bf0][EXCHANGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / exchange
+** 故君子耕稼田魚	Therefore when the true gentleman farmed, hunted or fished
+:PROPERTIES:
+:SRC: YTL 01.02.13; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:18a05:1::故君 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 耕稼@gēngjià
+:PROPERTIES:
+:CONCEPT: uuid-5c17d0bc-c35d-4849-906d-dbb0c4814937 / AGRICULTURE
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+耕稼@gēngjià	[[tls:concept:AGRICULTURE::#uuid-5c17d0bc-c35d-4849-906d-dbb0c4814937][AGRICULTURE]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in agricultural work
+*** 田@tián / 畋@tián
+:PROPERTIES:
+:CONCEPT: uuid-77c4ba48-835c-42bc-8c5c-4c41d4fd6413 / HUNT
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 6
+:END:
+田@tián / 畋@tián	[[tls:concept:HUNT::#uuid-77c4ba48-835c-42bc-8c5c-4c41d4fd6413][HUNT]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / go on an official hunt, sometimes specifically the spring hunt
+** 內懷闚𨵦而心不怍	They lie in wait for their chance without a scruple.
+:PROPERTIES:
+:SRC: YTL 01.02.13; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:18a09:1::內懷 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 怍@zuò
+:PROPERTIES:
+:CONCEPT: uuid-e211a23f-d09b-4ec2-9cb5-777d56a09326 / SHAME
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 8
+:END:
+怍@zuò	[[tls:concept:SHAME::#uuid-e211a23f-d09b-4ec2-9cb5-777d56a09326][SHAME]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / feel ashamed, be visibly embarrased; show scruples 甚怍　慎子：楚王大怍
+** 而女樂終廢其國	while the singing girls finally ruined his state.
+:PROPERTIES:
+:SRC: YTL 01.02.14; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:18a14:1::而女 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 女樂@nǚyuè
+:PROPERTIES:
+:CONCEPT: uuid-b9d9a4d7-36eb-4025-a7f5-84899666ff31 / MUSICIAN
+:SYN-FUNC: uuid-e144e5f3-6f48-434b-ad41-3e76234cca69
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 2
+:END:
+女樂@nǚyuè	[[tls:concept:MUSICIAN::#uuid-b9d9a4d7-36eb-4025-a7f5-84899666ff31][MUSICIAN]]	N [[tls:syn-func::#uuid-e144e5f3-6f48-434b-ad41-3e76234cca69][NP{N1adN2}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / female musical entertainer (mostly plural)
+** 是一物而售百倍其價也	it will be found that one article of foreign import costs a price one hundred times its value,
+:PROPERTIES:
+:SRC: YTL 01.02.15; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:18a24:1::是一 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 售@shòu / 讎@chóu
+:PROPERTIES:
+:CONCEPT: uuid-cecea6fb-8764-4a5e-9005-98040a6aec93 / SELL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 5
+:END:
+售@shòu / 讎@chóu	[[tls:concept:SELL::#uuid-cecea6fb-8764-4a5e-9005-98040a6aec93][SELL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / get sold off
+** 夫上好珍怪	As the rulers take delight in novelties,
+:PROPERTIES:
+:SRC: YTL 01.02.16; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:18a26:1::夫上 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 珍怪@zhēnguài
+:PROPERTIES:
+:CONCEPT: uuid-0af56802-1efe-4d3c-ba6f-c2f74995b6c6 / PRECIOUS
+:SYN-FUNC: uuid-080d3352-c9b3-40b5-8aed-7996007863d9
+:CHARPOS: 4
+:END:
+珍怪@zhēnguài	[[tls:concept:PRECIOUS::#uuid-0af56802-1efe-4d3c-ba6f-c2f74995b6c6][PRECIOUS]]	N [[tls:syn-func::#uuid-080d3352-c9b3-40b5-8aed-7996007863d9][NP{adN}]] / extraordinary treasures
+** 自京師東西南北	From the capital, east, west, north and south,
+:PROPERTIES:
+:SRC: YTL 01.02.17; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:19a02:1::「自 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 京師@jīngshī
+:PROPERTIES:
+:CONCEPT: uuid-60f7dd92-4aa6-4120-a92b-65738b79050e / CAPITAL CITY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 2
+:END:
+京師@jīngshī	[[tls:concept:CAPITAL CITY::#uuid-60f7dd92-4aa6-4120-a92b-65738b79050e][CAPITAL CITY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / capital
+*** 東西南北@dōngxīnánběi
+:PROPERTIES:
+:CONCEPT: uuid-b2f97fc1-d3c3-4617-80bd-f41d2b43e584 / DIRECTION
+:SYN-FUNC: uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a
+:CHARPOS: 4
+:END:
+東西南北@dōngxīnánběi	[[tls:concept:DIRECTION::#uuid-b2f97fc1-d3c3-4617-80bd-f41d2b43e584][DIRECTION]]	N [[tls:syn-func::#uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a][NPadV]] / the directions; in all directions
+** 諸殷富大都	you will find that none of the prosperous, rich and great municipalities
+:PROPERTIES:
+:SRC: YTL 01.02.17; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:19a05:1::諸殷 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 殷富@yīnfù
+:PROPERTIES:
+:CONCEPT: uuid-0765ebd8-9d95-4562-840d-fb26ab6f07be / RICH
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:CHARPOS: 2
+:END:
+殷富@yīnfù	[[tls:concept:RICH::#uuid-0765ebd8-9d95-4562-840d-fb26ab6f07be][RICH]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] / rich, affluent
+** 無非街衢五通	has not streets extending in all directions,
+:PROPERTIES:
+:SRC: YTL 01.02.17; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:19a06:50::無非 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 街衢@jiēqú
+:PROPERTIES:
+:CONCEPT: uuid-60520610-4459-4785-96e5-84ae25a7d4a2 / WAY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+街衢@jiēqú	[[tls:concept:WAY::#uuid-60520610-4459-4785-96e5-84ae25a7d4a2][WAY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / roadlinks; the highways
+** 商賈之所湊	where the merchants gather
+:PROPERTIES:
+:SRC: YTL 01.02.17; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:19a07:50::商賈 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 商賈@shānggǔ
+:PROPERTIES:
+:CONCEPT: uuid-3ab72572-90c9-4215-8f46-00931013f008 / MERCHANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 50
+:END:
+商賈@shānggǔ	[[tls:concept:MERCHANT::#uuid-3ab72572-90c9-4215-8f46-00931013f008][MERCHANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / merchants of all kinds 百工商賈
+** 故聖人因天時	Thus, the Sage utilizes nature's seasons
+:PROPERTIES:
+:SRC: YTL 01.02.18; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:19a09:1::故聖 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 天@tiān
+:PROPERTIES:
+:CONCEPT: uuid-7b7a082a-9de3-4fd7-bc62-b04238456b38 / NATURALLY
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 5
+:END:
+天@tiān	[[tls:concept:NATURALLY::#uuid-7b7a082a-9de3-4fd7-bc62-b04238456b38][NATURALLY]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / heaven-given>inborn, natural; naturally endowed
+** 故乃商賈之富	These merchants
+:PROPERTIES:
+:SRC: YTL 01.02.19; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:19a19:1::故乃 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 商賈@shānggǔ
+:PROPERTIES:
+:CONCEPT: uuid-3ab72572-90c9-4215-8f46-00931013f008 / MERCHANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 3
+:END:
+商賈@shānggǔ	[[tls:concept:MERCHANT::#uuid-3ab72572-90c9-4215-8f46-00931013f008][MERCHANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / merchants of all kinds 百工商賈
+** 追利乘羡之所致也	by going after profit and utilizing the surplus.
+:PROPERTIES:
+:SRC: YTL 01.02.19; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:19a21:1::追利 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 追@zhuī
+:PROPERTIES:
+:CONCEPT: uuid-a9a35ebb-ea55-40ed-afcf-b8cb74de6536 / SEEK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+追@zhuī	[[tls:concept:SEEK::#uuid-a9a35ebb-ea55-40ed-afcf-b8cb74de6536][SEEK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / go after, try to get, try to retrieve
+** 富國何必用本農	Why then must one encourage simple agriculture in order to enrich the country,
+:PROPERTIES:
+:SRC: YTL 01.02.19; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:19a22:50::富國 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 富@fù
+:PROPERTIES:
+:CONCEPT: uuid-e55366eb-36b3-4e17-bdfb-5b95f51226a8 / RICH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+富@fù	[[tls:concept:RICH::#uuid-e55366eb-36b3-4e17-bdfb-5b95f51226a8][RICH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / make rich
+*** 何必@hébì
+:PROPERTIES:
+:CONCEPT: uuid-6ff7b9d8-e4d4-4ce5-8ead-5f9cb532137d / HOW
+:SYN-FUNC: uuid-b80e0f9f-f050-43e6-8468-f29014d11eea
+:SEM-FEAT: uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828
+:CHARPOS: 52
+:END:
+何必@hébì	[[tls:concept:HOW::#uuid-6ff7b9d8-e4d4-4ce5-8ead-5f9cb532137d][HOW]]	V [[tls:syn-func::#uuid-b80e0f9f-f050-43e6-8468-f29014d11eea][VPt+V.postN{SUBJ}]] {[[tls:sem-feat::#uuid-1b4d8619-5bcb-4d89-9978-cecb0d471828][expected answer: no!]]} / Why should N necessarily V?
+** 民樸而貴本安愉而寡求	the people were simple and held to the fundamental; peaceful and happy their wants were few.
+:PROPERTIES:
+:SRC: YTL 01.02.21; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:20a11:1::民樸 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 安愉@ānyú
+:PROPERTIES:
+:CONCEPT: uuid-95843465-f2c9-43ad-8db8-a17648903ce1 / HAPPY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 6
+:END:
+安愉@ānyú	[[tls:concept:HAPPY::#uuid-95843465-f2c9-43ad-8db8-a17648903ce1][HAPPY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be peacefully contented
+** 道路罕行	few travellers were seen on the roads
+:PROPERTIES:
+:SRC: YTL 01.02.21; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:20a13:1::道路 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 道路@dàolù
+:PROPERTIES:
+:CONCEPT: uuid-f5dec8ed-fc83-4cf6-a13a-075463de8156 / WAY
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+道路@dàolù	[[tls:concept:WAY::#uuid-f5dec8ed-fc83-4cf6-a13a-075463de8156][WAY]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the roads, all kinds of roads
+** 跨街衢之路也	and sit astride the network of highways.
+:PROPERTIES:
+:SRC: YTL 01.03.02; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:22a11:1::跨街 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 跨@kuà
+:PROPERTIES:
+:CONCEPT: uuid-2b4822b6-d6c3-4b5d-aee9-b0f72e45d7ae / CONTROL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+跨@kuà	[[tls:concept:CONTROL::#uuid-2b4822b6-d6c3-4b5d-aee9-b0f72e45d7ae][CONTROL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / bestraddle so as to be in control of, exercise power over ??
+*** 街衢@jiēqú
+:PROPERTIES:
+:CONCEPT: uuid-60520610-4459-4785-96e5-84ae25a7d4a2 / WAY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+街衢@jiēqú	[[tls:concept:WAY::#uuid-60520610-4459-4785-96e5-84ae25a7d4a2][WAY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / roadlinks; the highways
+** 富在術數	Getting rich depends on 'methods' and 'statistical calculation',
+:PROPERTIES:
+:SRC: YTL 01.03.02; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:22a14:1::富在 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 術數@shùshù
+:PROPERTIES:
+:CONCEPT: uuid-e13bb487-dd02-4a6e-afcf-590787ac1e65 / METHOD
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 3
+:END:
+術數@shùshù	[[tls:concept:METHOD::#uuid-e13bb487-dd02-4a6e-afcf-590787ac1e65][METHOD]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / advanced practical methods (of any kind); systematic technique; methodology(!)
+** 雖白屋草廬	Even in humble cottages and straw-thatched huts,
+:PROPERTIES:
+:SRC: YTL 01.03.04; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:23a12:1::雖白 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 草@cǎo
+:PROPERTIES:
+:CONCEPT: uuid-eecd62f3-8cd7-47ad-b7a9-b8e18d722561 / GRASS
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 4
+:END:
+草@cǎo	[[tls:concept:GRASS::#uuid-eecd62f3-8cd7-47ad-b7a9-b8e18d722561][GRASS]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / thatched; made of grass/straw/hemp
+*** 廬@lú
+:PROPERTIES:
+:CONCEPT: uuid-01ebb698-dbe8-41bc-ab99-21c3ce7998eb / HUT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+廬@lú	[[tls:concept:HUT::#uuid-01ebb698-dbe8-41bc-ab99-21c3ce7998eb][HUT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / hut; simple hut (often built next to a tomb to house the mourner during the mourning period)
+** 歌謳鼓琴	we hear ballad-singing and playing on stringed instruments;
+:PROPERTIES:
+:SRC: YTL 01.03.04; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:23a13:50::歌謳 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 歌@gē
+:PROPERTIES:
+:CONCEPT: uuid-7dbe148e-0247-4d2c-8ea3-6769d3aea774 / SING
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 50
+:END:
+歌@gē	[[tls:concept:SING::#uuid-7dbe148e-0247-4d2c-8ea3-6769d3aea774][SING]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / sing a melody, sing a song, sing along (should this be vt[oN]???) often to accompaniment on the lute
+*** 謳@ōu
+:PROPERTIES:
+:CONCEPT: uuid-ba64d0b3-972f-4941-aa6e-dc1e8408f096 / SING
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+謳@ōu	[[tls:concept:SING::#uuid-ba64d0b3-972f-4941-aa6e-dc1e8408f096][SING]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / sing a song without musical accompaniment
+** 當天下之蹊	and situated on the highway of the world.
+:PROPERTIES:
+:SRC: YTL 01.03.05; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:23a18:1::當天 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 蹊@xī
+:PROPERTIES:
+:CONCEPT: uuid-8a5c9231-f8eb-4c2b-8585-23c29c7a3f84 / PATH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+蹊@xī	[[tls:concept:PATH::#uuid-8a5c9231-f8eb-4c2b-8585-23c29c7a3f84][PATH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / small winding footpath; paths; shortcut
+** 商賈錯於路	Merchants throng the ways.
+:PROPERTIES:
+:SRC: YTL 01.03.05; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:23a19:50::商賈 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 商賈@shānggǔ
+:PROPERTIES:
+:CONCEPT: uuid-3ab72572-90c9-4215-8f46-00931013f008 / MERCHANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 50
+:END:
+商賈@shānggǔ	[[tls:concept:MERCHANT::#uuid-3ab72572-90c9-4215-8f46-00931013f008][MERCHANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / merchants of all kinds 百工商賈
+** 田疇不修	The fields are not cultivated,
+:PROPERTIES:
+:SRC: YTL 01.03.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:23a23:1::田疇 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 田疇@tiánchóu
+:PROPERTIES:
+:CONCEPT: uuid-ed95ee4d-787c-40de-8a94-8cf56c55faaf / FIELD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 1
+:END:
+田疇@tiánchóu	[[tls:concept:FIELD::#uuid-ed95ee4d-787c-40de-8a94-8cf56c55faaf][FIELD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the fields (of all kinds)
+** 好本稼穡	adhere to the fundamental and till the soil.
+:PROPERTIES:
+:SRC: YTL 01.03.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:23a30:1::好本 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 稼穡@jiàsè
+:PROPERTIES:
+:CONCEPT: uuid-ce9fb513-993c-419d-837a-280c3e829f3b / AGRICULTURE
+:SYN-FUNC: uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+稼穡@jiàsè	[[tls:concept:AGRICULTURE::#uuid-ce9fb513-993c-419d-837a-280c3e829f3b][AGRICULTURE]]	N [[tls:syn-func::#uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54][NPab{N1&N2}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (sow and harvest>) husbandry; agricultural production
+** 編戶齊民	Among the common people
+:PROPERTIES:
+:SRC: YTL 01.03.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:23a31:50::編戶 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 編戶齊民@biānhùqímín
+:PROPERTIES:
+:CONCEPT: uuid-146b365c-b251-4996-9548-b6909f7602ad / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:CHARPOS: 50
+:END:
+編戶齊民@biānhùqímín	[[tls:concept:PEOPLE::#uuid-146b365c-b251-4996-9548-b6909f7602ad][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] / the poor common people
+*** 齊民@qímín
+:PROPERTIES:
+:CONCEPT: uuid-3297497a-4744-4778-8b68-aa32c72b023d / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:CHARPOS: 52
+:END:
+齊民@qímín	[[tls:concept:PEOPLE::#uuid-3297497a-4744-4778-8b68-aa32c72b023d][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] / the common (law-abiding) people
+** 故利在自惜	Therefore profit comes from care for one's self,
+:PROPERTIES:
+:SRC: YTL 01.03.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:23a33:1::故利 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 惜@xī
+:PROPERTIES:
+:CONCEPT: uuid-7d5c3a62-2a85-42a8-82bc-19da5ea15c85 / FRUGAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 5
+:END:
+惜@xī	[[tls:concept:FRUGAL::#uuid-7d5c3a62-2a85-42a8-82bc-19da5ea15c85][FRUGAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / be frugal in the use of (oneself)
+** 不在勢居街衢	not from favorable location on the highways.
+:PROPERTIES:
+:SRC: YTL 01.03.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:23a34:50::不在 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 街衢@jiēqú
+:PROPERTIES:
+:CONCEPT: uuid-60520610-4459-4785-96e5-84ae25a7d4a2 / WAY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 54
+:END:
+街衢@jiēqú	[[tls:concept:WAY::#uuid-60520610-4459-4785-96e5-84ae25a7d4a2][WAY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / roadlinks; the highways
+** 然百姓匱乏	and yet the people still remain necessitous
+:PROPERTIES:
+:SRC: YTL 01.03.11; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:24a22:1::然百 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 匱乏@guìfá
+:PROPERTIES:
+:CONCEPT: uuid-3d758bda-35e8-47a0-a942-158dc5782dbe / POOR
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 4
+:END:
+匱乏@guìfá	[[tls:concept:POOR::#uuid-3d758bda-35e8-47a0-a942-158dc5782dbe][POOR]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / be quite poor, be very poor
+** 鑄金為鉏	They cast metal into mattocks
+:PROPERTIES:
+:SRC: YTL 01.03.12; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:25a07:1::鑄金 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 鑄@zhù
+:PROPERTIES:
+:CONCEPT: uuid-7e690eae-a0e9-4cb3-aaf8-1cf557cf5eb7 / FORGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+鑄@zhù	[[tls:concept:FORGE::#uuid-7e690eae-a0e9-4cb3-aaf8-1cf557cf5eb7][FORGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cast metal; cast (a bell etc); mint (coins); produce bys smelting substances
+** 今世俗壞而競於淫靡	Nowadays manners have degenerated in a race of extravagance.
+:PROPERTIES:
+:SRC: YTL 01.03.14; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:25a17:1::今世 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 競@jìng
+:PROPERTIES:
+:CONCEPT: uuid-7f0d3b0a-424b-4251-96d0-7d4b538ff8f6 / COMPETE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 6
+:END:
+競@jìng	[[tls:concept:COMPETE::#uuid-7f0d3b0a-424b-4251-96d0-7d4b538ff8f6][COMPETE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / vie for, compete for; compete in 競於; also: compete with 競於楚
+** 雕素樸而尚珍怪	Unadorned raw materials are carved and strange objects prized.
+:PROPERTIES:
+:SRC: YTL 01.03.14; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:25a20:1::雕素 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 珍怪@zhēnguài
+:PROPERTIES:
+:CONCEPT: uuid-0af56802-1efe-4d3c-ba6f-c2f74995b6c6 / PRECIOUS
+:SYN-FUNC: uuid-080d3352-c9b3-40b5-8aed-7996007863d9
+:CHARPOS: 6
+:END:
+珍怪@zhēnguài	[[tls:concept:PRECIOUS::#uuid-0af56802-1efe-4d3c-ba6f-c2f74995b6c6][PRECIOUS]]	N [[tls:syn-func::#uuid-080d3352-c9b3-40b5-8aed-7996007863d9][NP{adN}]] / extraordinary treasures
+** 鑽山石而求金銀	They bore into the rocks to get gold and silver.
+:PROPERTIES:
+:SRC: YTL 01.03.14; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:25a21:50::鑽山 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 銀@yín
+:PROPERTIES:
+:CONCEPT: uuid-2e85e7e8-609a-4f97-89b1-aa3499996053 / SILVER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 56
+:END:
+銀@yín	[[tls:concept:SILVER::#uuid-2e85e7e8-609a-4f97-89b1-aa3499996053][SILVER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / silver
+** 沒深淵求珠璣	They dive into the watery deeps looking for pearls.
+:PROPERTIES:
+:SRC: YTL 01.03.14; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:25a22:50::沒深 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 珠璣@zhūjī
+:PROPERTIES:
+:CONCEPT: uuid-d66d2b7f-a542-4556-9956-28aac4193781 / PEARL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 54
+:END:
+珠璣@zhūjī	[[tls:concept:PEARL::#uuid-d66d2b7f-a542-4556-9956-28aac4193781][PEARL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / pearls of all kinds
+** 設機陷求犀象	Pitfalls are devised to trap rhinoceri and elephants.
+:PROPERTIES:
+:SRC: YTL 01.03.14; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:25a23:50::設機 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 機@jī
+:PROPERTIES:
+:CONCEPT: uuid-e801c4f7-8a49-4c55-a179-9e04e01be3e8 / MACHINE
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 51
+:END:
+機@jī	[[tls:concept:MACHINE::#uuid-e801c4f7-8a49-4c55-a179-9e04e01be3e8][MACHINE]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / mechanical
+*** 陷@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-0abb591a-3db8-4ec5-af43-c95c2ea45888 / TRAP
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+陷@xiàn	[[tls:concept:TRAP::#uuid-0abb591a-3db8-4ec5-af43-c95c2ea45888][TRAP]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / trap, pitfall
+** 求蠻貉之物以眩中國	Barbarian products are sought out to dazzle the Middle Kingdom.
+:PROPERTIES:
+:SRC: YTL 01.03.14; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:25a25:1::求蠻 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 眩@xuàn
+:PROPERTIES:
+:CONCEPT: uuid-7e7eee60-9cdb-44f7-9afa-e633ce88f499 / BLIND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 7
+:END:
+眩@xuàn	[[tls:concept:BLIND::#uuid-7e7eee60-9cdb-44f7-9afa-e633ce88f499][BLIND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / to blind, to block the vision of someone
+** 徙邛筰之貨	The goods of Qióng and Zuó
+:PROPERTIES:
+:SRC: YTL 01.03.15; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:25a26:50::徙邛 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 徙@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-c2fbe0ed-5940-417f-8371-0261ae5ede64 / DISPLACE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+徙@xǐ	[[tls:concept:DISPLACE::#uuid-c2fbe0ed-5940-417f-8371-0261ae5ede64][DISPLACE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / move away; displace; dislocate; transplant (trees); transfer to different places
+** 漏費節則民用給	When unnecessary expenses are cut off, people have enough to spend.
+:PROPERTIES:
+:SRC: YTL 01.03.16; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:25a37:1::漏費 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 費@fèi
+:PROPERTIES:
+:CONCEPT: uuid-ea7de181-3472-4978-ad7c-9af1725d21cd / EXPENSE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+費@fèi	[[tls:concept:EXPENSE::#uuid-ea7de181-3472-4978-ad7c-9af1725d21cd][EXPENSE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / expenditure; cost; expense; lavish use of resources
+** 此蟋蟀所為作也	This is how the poem The Cricket was written.
+:PROPERTIES:
+:SRC: YTL 01.03.18; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:26a15:1::此《 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 蟋蟀@xīshuài
+:PROPERTIES:
+:CONCEPT: uuid-56fb3f76-267f-4a70-bdc3-92f94c113dfc / INSECTS
+:SYN-FUNC: uuid-81b5275d-0f2f-4adb-bb8c-91ea0371bc12
+:CHARPOS: 2
+:END:
+蟋蟀@xīshuài	[[tls:concept:INSECTS::#uuid-56fb3f76-267f-4a70-bdc3-92f94c113dfc][INSECTS]]	N [[tls:syn-func::#uuid-81b5275d-0f2f-4adb-bb8c-91ea0371bc12][nn]] / locusts, cicadas; cricket
+** 不充庖廚	If animals and fowls are not used in the kitchens,
+:PROPERTIES:
+:SRC: YTL 01.03.19; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:26a19:1::不充 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 庖廚@páochú
+:PROPERTIES:
+:CONCEPT: uuid-842007d1-fe9d-493a-960e-4d709874c26d / KITCHEN
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+庖廚@páochú	[[tls:concept:KITCHEN::#uuid-842007d1-fe9d-493a-960e-4d709874c26d][KITCHEN]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the kitchen 伊尹烹於庖廚 is NOT: "was cooking in this or that kitchen"
+** 邦國之用	are all for the use of the state
+:PROPERTIES:
+:SRC: YTL 01.03.20; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:26a26:1::邦國 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 邦國@bāngguó
+:PROPERTIES:
+:CONCEPT: uuid-3cff73c4-a2ca-4205-9b9e-8d412d16ad29 / NATION
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+邦國@bāngguó	[[tls:concept:NATION::#uuid-3cff73c4-a2ca-4205-9b9e-8d412d16ad29][NATION]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the state
+** 公輸子以規矩	Gōngshū Zǐ was an expert in the compass and square
+:PROPERTIES:
+:SRC: YTL 01.03.20; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:26a32:1::公輸 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 規矩@guījǔ
+:PROPERTIES:
+:CONCEPT: uuid-dbaeafa5-1837-40ac-9b76-cc5a58df3690 / TOOL
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 5
+:END:
+規矩@guījǔ	[[tls:concept:TOOL::#uuid-dbaeafa5-1837-40ac-9b76-cc5a58df3690][TOOL]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / compass and square
+** 語曰	Thus the saying goes:
+:PROPERTIES:
+:SRC: YTL 01.03.21; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:26a34:1::《語 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 語@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-d5a6d195-6fba-4829-8f2e-3f62837171da / PROVERB
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 1
+:END:
+語@yǔ	[[tls:concept:PROVERB::#uuid-d5a6d195-6fba-4829-8f2e-3f62837171da][PROVERB]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / proverb; sometimes also attributed to a place 宋人語曰
+** 蓬蒿墝埆	or on moors and sterile uplands,
+:PROPERTIES:
+:SRC: YTL 01.03.21; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:26a40:1::蓬蒿 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 埆@què
+:PROPERTIES:
+:CONCEPT: uuid-7f113704-410f-4682-a7d1-8b6ba9b41fe7 / BARREN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+埆@què	[[tls:concept:BARREN::#uuid-7f113704-410f-4682-a7d1-8b6ba9b41fe7][BARREN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / barren land MO 墝埆者其地不育
+** 則是橘柚不鬻	then oranges and pumaloes would not be sold,
+:PROPERTIES:
+:SRC: YTL 01.03.22; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:26a47:1::則是 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 則是@zéshì
+:PROPERTIES:
+:CONCEPT: uuid-a3e85ccd-79ee-44be-ba8c-2c56db80c1c5 / THEN
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:SEM-FEAT: uuid-42a1bdf6-aef5-4f50-8612-772c49911b79
+:CHARPOS: 1
+:END:
+則是@zéshì	[[tls:concept:THEN::#uuid-a3e85ccd-79ee-44be-ba8c-2c56db80c1c5][THEN]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] {[[tls:sem-feat::#uuid-42a1bdf6-aef5-4f50-8612-772c49911b79][shi=nonreferential]]} / then [I collect here the cases where I have so far not found it plausible or easy to attribute to shì a clear anaphoric reference.]
+*** 鬻@yù / 粥@yù
+:PROPERTIES:
+:CONCEPT: uuid-ef6198ed-80ca-4d8f-84d9-4d3f7349dad3 / SELL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 6
+:END:
+鬻@yù / 粥@yù	[[tls:concept:SELL::#uuid-ef6198ed-80ca-4d8f-84d9-4d3f7349dad3][SELL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be sold, be offered for sale
+** 田漁以時	Hunting and fishing according to season,
+:PROPERTIES:
+:SRC: YTL 01.03.23; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:27a09:1::田漁 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 漁@yú
+:PROPERTIES:
+:CONCEPT: uuid-401d55de-0bc8-4b39-a347-1596b150c295 / FISHING
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+漁@yú	[[tls:concept:FISHING::#uuid-401d55de-0bc8-4b39-a347-1596b150c295][FISHING]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in professional fishery
+** 窮物究變	exhausting the possibilities of manipulation of materials,
+:PROPERTIES:
+:SRC: YTL 01.03.25; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:27a21:1::窮物 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 窮@qióng
+:PROPERTIES:
+:CONCEPT: uuid-012b7f60-591a-499e-9bef-52182ea2bad8 / EXHAUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+窮@qióng	[[tls:concept:EXHAUST::#uuid-012b7f60-591a-499e-9bef-52182ea2bad8][EXHAUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / use up, exhaust (the years of one's life etc)
+** 庖宰烹殺胎卵	If the cooks boil and slaughter the immature,
+:PROPERTIES:
+:SRC: YTL 01.03.26; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:27a27:1::庖宰 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 庖宰@páozǎi
+:PROPERTIES:
+:CONCEPT: uuid-2d474db0-429b-4ef7-84ea-30b1d273c0a8 / COOK
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:CHARPOS: 1
+:END:
+庖宰@páozǎi	[[tls:concept:COOK::#uuid-2d474db0-429b-4ef7-84ea-30b1d273c0a8][COOK]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] / cook
+*** 烹@pēng
+:PROPERTIES:
+:CONCEPT: uuid-ead18207-6459-471f-a387-06c0427c9648 / BOIL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+烹@pēng	[[tls:concept:BOIL::#uuid-ead18207-6459-471f-a387-06c0427c9648][BOIL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / boil, broil or roast
+*** 胎@tāi
+:PROPERTIES:
+:CONCEPT: uuid-fe773d0d-ac9d-4dbd-83ca-4d850bf2b345 / FOETUS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+胎@tāi	[[tls:concept:FOETUS::#uuid-fe773d0d-ac9d-4dbd-83ca-4d850bf2b345][FOETUS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / foetus, embryo
+*** 卵@luǎn
+:PROPERTIES:
+:CONCEPT: uuid-cd30c80d-41e5-44db-840b-e15813afc916 / EGG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+卵@luǎn	[[tls:concept:EGG::#uuid-cd30c80d-41e5-44db-840b-e15813afc916][EGG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / egg
+** 非患無旃罽橘柚	and while we do not suffer from the lack of rugs, carpets, oranges and pumeloes,
+:PROPERTIES:
+:SRC: YTL 01.03.26; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:27a35:1::非患 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 罽@jì
+:PROPERTIES:
+:CONCEPT: uuid-f4b79381-d8ee-4015-8290-111483b612ad / WOOLEN MAT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+罽@jì	[[tls:concept:WOOLEN MAT::#uuid-f4b79381-d8ee-4015-8290-111483b612ad][WOOLEN MAT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / HAN, HANSHU: soft woven carpet from Central Asia
+*** 橘@jú
+:PROPERTIES:
+:CONCEPT: uuid-c46f1791-d6e7-454d-bb72-dcb98e9dfaa3 / FRUIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+橘@jú	[[tls:concept:FRUIT::#uuid-c46f1791-d6e7-454d-bb72-dcb98e9dfaa3][FRUIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / orange
+*** 柚@yòu
+:PROPERTIES:
+:CONCEPT: uuid-fe2d36df-dbb8-40d9-a9cd-cb7cb6785e68 / FRUIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 7
+:END:
+柚@yòu	[[tls:concept:FRUIT::#uuid-fe2d36df-dbb8-40d9-a9cd-cb7cb6785e68][FRUIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / fruit from the pomelo tree; pomelo
+** 此其所以或儲百年之餘	Thus it is that some accumulate a sufficiency for a hundred years
+:PROPERTIES:
+:SRC: YTL 01.04.02; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:29a11:1::此其 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 儲@chǔ
+:PROPERTIES:
+:CONCEPT: uuid-004f6176-e539-4f74-abc8-f90a17971a9a / ACCUMULATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+儲@chǔ	[[tls:concept:ACCUMULATE::#uuid-004f6176-e539-4f74-abc8-f90a17971a9a][ACCUMULATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / assemble, gather together for lasting storage; YTL: collect and store up (provisions, arms, horses etc)
+** 禮義弛崩	etiquette and justice have collapsed,
+:PROPERTIES:
+:SRC: YTL 01.04.05; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:30a14:1::禮義 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 禮@lǐ
+:PROPERTIES:
+:CONCEPT: uuid-a35b048f-92e1-48ef-99b4-b15d94349c4d / CUSTOM
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+禮@lǐ	[[tls:concept:CUSTOM::#uuid-a35b048f-92e1-48ef-99b4-b15d94349c4d][CUSTOM]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / proper ritual practice, characteristic ritual practice (of such and such a time)
+*** 崩@bēng
+:PROPERTIES:
+:CONCEPT: uuid-3c5b2b64-453b-4ada-9601-4afb916114a4 / COLLAPSE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+崩@bēng	[[tls:concept:COLLAPSE::#uuid-3c5b2b64-453b-4ada-9601-4afb916114a4][COLLAPSE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / collapse
+** 風俗滅息	and good customs are extinguished.
+:PROPERTIES:
+:SRC: YTL 01.04.05; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:30a15:50::風俗 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 風@fēng
+:PROPERTIES:
+:CONCEPT: uuid-f71fa6c9-9156-4ab9-9ed9-973e62312b3b / CUSTOM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+風@fēng	[[tls:concept:CUSTOM::#uuid-f71fa6c9-9156-4ab9-9ed9-973e62312b3b][CUSTOM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / local ways; current habit
+*** 俗@sú
+:PROPERTIES:
+:CONCEPT: uuid-3485ede2-32e3-455a-b79e-2943dbb7a1a6 / CUSTOM
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+俗@sú	[[tls:concept:CUSTOM::#uuid-3485ede2-32e3-455a-b79e-2943dbb7a1a6][CUSTOM]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / current local custom; temporary habit
+** 故自食祿之君子	Since the gentlemem in office
+:PROPERTIES:
+:SRC: YTL 01.04.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:30a16:50::故自 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 55
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the gentlemen (of a certain time or place) 其君子
+** 違於義而競於財	turn their back on honor and scramble for wealth,
+:PROPERTIES:
+:SRC: YTL 01.04.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:30a17:50::違於 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 競@jìng
+:PROPERTIES:
+:CONCEPT: uuid-7f0d3b0a-424b-4251-96d0-7d4b538ff8f6 / COMPETE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 54
+:END:
+競@jìng	[[tls:concept:COMPETE::#uuid-7f0d3b0a-424b-4251-96d0-7d4b538ff8f6][COMPETE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / vie for, compete for; compete in 競於; also: compete with 競於楚
+** 大小相吞	the big and little devour
+:PROPERTIES:
+:SRC: YTL 01.04.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:30a18:50::大小 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 大小@dàxiǎo
+:PROPERTIES:
+:CONCEPT: uuid-cd6c41e3-89d4-4374-844c-b590d6d99c3f / THING
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-b0e62f33-9e4d-43f2-b15a-6e960f15eacf
+:CHARPOS: 50
+:END:
+大小@dàxiǎo	[[tls:concept:THING::#uuid-cd6c41e3-89d4-4374-844c-b590d6d99c3f][THING]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-b0e62f33-9e4d-43f2-b15a-6e960f15eacf][subject=plural]]} / large and small things
+** 激轉相傾	and overthrow one another by turns.
+:PROPERTIES:
+:SRC: YTL 01.04.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:30a19:50::激轉 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 轉@zhuǎn
+:PROPERTIES:
+:CONCEPT: uuid-ccebc75f-d881-4bb0-8291-14f79cd4eac0 / CONTINUE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+轉@zhuǎn	[[tls:concept:CONTINUE::#uuid-ccebc75f-d881-4bb0-8291-14f79cd4eac0][CONTINUE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / continuously, from one person to the next
+** 此所以或儲百年之餘	This is the reason that some have a sufficiency for a hundred years
+:PROPERTIES:
+:SRC: YTL 01.04.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:30a20:50::此所 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 儲@chǔ
+:PROPERTIES:
+:CONCEPT: uuid-004f6176-e539-4f74-abc8-f90a17971a9a / ACCUMULATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+儲@chǔ	[[tls:concept:ACCUMULATE::#uuid-004f6176-e539-4f74-abc8-f90a17971a9a][ACCUMULATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / assemble, gather together for lasting storage; YTL: collect and store up (provisions, arms, horses etc)
+** 或無以充虛蔽形也	and others nothing to fill their emptiness or cover their forms.
+:PROPERTIES:
+:SRC: YTL 01.04.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:30a21:50::或無 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 虛@xū
+:PROPERTIES:
+:CONCEPT: uuid-209eb53c-6e90-4f11-b358-506da3997547 / EMPTY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 54
+:END:
+虛@xū	[[tls:concept:EMPTY::#uuid-209eb53c-6e90-4f11-b358-506da3997547][EMPTY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / emptiness, empty space; depletion; voidness;
+** 田者不漁	those who tilled did not fish;
+:PROPERTIES:
+:SRC: YTL 01.04.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:30a23:1::田者 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 漁@yú
+:PROPERTIES:
+:CONCEPT: uuid-401d55de-0bc8-4b39-a347-1596b150c295 / FISHING
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+漁@yú	[[tls:concept:FISHING::#uuid-401d55de-0bc8-4b39-a347-1596b150c295][FISHING]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / engage in professional fishery
+** 俗弊更法	When social habits decay they must be met by new laws,
+:PROPERTIES:
+:SRC: YTL 01.04.09; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:31a06:1::俗弊 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 更@gēng
+:PROPERTIES:
+:CONCEPT: uuid-b54f873b-252a-456b-b403-d007fd26d079 / CHANGE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+更@gēng	[[tls:concept:CHANGE::#uuid-b54f873b-252a-456b-b403-d007fd26d079][CHANGE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / amend; redefine; try to improve; to make the proper changes to, typically by duly replacing something by a newer version of it
+** 周人以紫石	those of the Zhoū purple stones,
+:PROPERTIES:
+:SRC: YTL 01.04.10; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:31a12:1::周人 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-f7c6fd23-438f-4e3e-a3cc-770eeae383e2 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 2
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-f7c6fd23-438f-4e3e-a3cc-770eeae383e2][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the (typically elevated) people in Npl [This should probably be subsumed under the general "def.plur" semantic category, and this is easily done. However the examples form a neat set of some interest, so I keep them together. CH]
+** 抱布貿絲而已	packed his cloth and peddled his silk.
+:PROPERTIES:
+:SRC: YTL 01.04.12; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:32a05:1::抱布 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 貿@mào
+:PROPERTIES:
+:CONCEPT: uuid-2dccd200-2e18-49cd-a934-05145093c264 / BUY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+貿@mào	[[tls:concept:BUY::#uuid-2dccd200-2e18-49cd-a934-05145093c264][BUY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / buy through barter
+** 而殷周道興	and in the time of Yīn and Zhoū culture flourished.
+:PROPERTIES:
+:SRC: YTL 01.04.13; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:32a13:1::而殷 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 興@xīng
+:PROPERTIES:
+:CONCEPT: uuid-c24a0639-065b-4e8e-8482-afa771f0067e / FLOURISH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 5
+:END:
+興@xīng	[[tls:concept:FLOURISH::#uuid-c24a0639-065b-4e8e-8482-afa771f0067e][FLOURISH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / flourish
+** 幣眾財通而民樂	there were many currencies, wealth circulated and the people were happy.
+:PROPERTIES:
+:SRC: YTL 01.04.17; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:34a03:1::幣眾 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 通@tōng
+:PROPERTIES:
+:CONCEPT: uuid-42226fa0-f849-4409-935b-15ec90d014dd / EXCHANGE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+通@tōng	[[tls:concept:EXCHANGE::#uuid-42226fa0-f849-4409-935b-15ec90d014dd][EXCHANGE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / circulate; be exchanged (like goods)
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 7
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / find communicative happiness; be communicatively happy (the optative cases have to be moved!)
+** 稍去舊幣	as the old currency was gradually replaced
+:PROPERTIES:
+:SRC: YTL 01.04.17; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:34a05:1::稍去 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 稍@shāo
+:PROPERTIES:
+:CONCEPT: uuid-18f910d0-8fcc-4452-8faa-06d29ad246b9 / GRADUALLY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+稍@shāo	[[tls:concept:GRADUALLY::#uuid-18f910d0-8fcc-4452-8faa-06d29ad246b9][GRADUALLY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in gradual stages; increasing gradually
+** 更行白金龜龍	by the white metal of the tortoise and the dragon issue,
+:PROPERTIES:
+:SRC: YTL 01.04.17; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:34a06:50::更行 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 更@gēng
+:PROPERTIES:
+:CONCEPT: uuid-92a4a2c9-a455-4c88-91ac-a5562978f4b4 / REPLACE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 50
+:END:
+更@gēng	[[tls:concept:REPLACE::#uuid-92a4a2c9-a455-4c88-91ac-a5562978f4b4][REPLACE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / by way of replacement, instead
+** 民多巧新幣	they became wary of the new.
+:PROPERTIES:
+:SRC: YTL 01.04.17; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:34a07:50::民多 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 新@xīn
+:PROPERTIES:
+:CONCEPT: uuid-4db47904-0d47-4257-bdce-8845462e5cf3 / NEW
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 53
+:END:
+新@xīn	[[tls:concept:NEW::#uuid-4db47904-0d47-4257-bdce-8845462e5cf3][NEW]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / new; unused; newly established (ruler)
+** 農人不習	The farmers are not experienced
+:PROPERTIES:
+:SRC: YTL 01.04.18; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:34a14:1::農人 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 農人@nóngrén
+:PROPERTIES:
+:CONCEPT: uuid-24c4ffa8-6d93-4e99-bb9e-5337a5688928 / PEASANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+農人@nóngrén	[[tls:concept:PEASANT::#uuid-24c4ffa8-6d93-4e99-bb9e-5337a5688928][PEASANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / peasants
+** 信故疑新	Thus they suspect the new issue,
+:PROPERTIES:
+:SRC: YTL 01.04.18; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:34a16:1::信故 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 疑@yí
+:PROPERTIES:
+:CONCEPT: uuid-e0ae50bd-ad27-4abb-926f-bdf14c5fa756 / SUSPECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+疑@yí	[[tls:concept:SUSPECT::#uuid-e0ae50bd-ad27-4abb-926f-bdf14c5fa756][SUSPECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be suspicious of; distrust; hold in suspicion
+*** 新@xīn
+:PROPERTIES:
+:CONCEPT: uuid-8b3ed577-6feb-45ba-a5be-be2fd9fead5d / NEW
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd
+:CHARPOS: 4
+:END:
+新@xīn	[[tls:concept:NEW::#uuid-8b3ed577-6feb-45ba-a5be-be2fd9fead5d][NEW]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd][subj=nonhuman]]} / what is new; the new ones; new stuff
+** 商賈以美貿惡	The dealers and shopkeepers for the bad barter the good;????????
+:PROPERTIES:
+:SRC: YTL 01.04.18; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:34a18:1::商賈 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 商賈@shānggǔ
+:PROPERTIES:
+:CONCEPT: uuid-3ab72572-90c9-4215-8f46-00931013f008 / MERCHANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 1
+:END:
+商賈@shānggǔ	[[tls:concept:MERCHANT::#uuid-3ab72572-90c9-4215-8f46-00931013f008][MERCHANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / merchants of all kinds 百工商賈
+*** 貿@mào
+:PROPERTIES:
+:CONCEPT: uuid-2dccd200-2e18-49cd-a934-05145093c264 / BUY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+貿@mào	[[tls:concept:BUY::#uuid-2dccd200-2e18-49cd-a934-05145093c264][BUY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / buy through barter
+** 家人有寶器	If a private individual have an article of value,
+:PROPERTIES:
+:SRC: YTL 01.05.01; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:36a01:1::「家 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-4b81a6f2-2b6b-4ef4-969b-db19221e980f / PRECIOUS
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 4
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-4b81a6f2-2b6b-4ef4-969b-db19221e980f][PRECIOUS]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / precious; sometimes: containing treasure
+** 尚函匣而藏之	he places it in a box or cabinet and keeps it.
+:PROPERTIES:
+:SRC: YTL 01.05.01; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:36a02:50::尚函 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 函@hán
+:PROPERTIES:
+:CONCEPT: uuid-ea1a3b95-038f-49e5-942b-926e4752ed5d / BOX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+函@hán	[[tls:concept:BOX::#uuid-ea1a3b95-038f-49e5-942b-926e4752ed5d][BOX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / box
+*** 匣@xiá / 柙@xiá
+:PROPERTIES:
+:CONCEPT: uuid-d177ae65-6736-4b18-b37d-d93b01269f75 / BOX
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+匣@xiá / 柙@xiá	[[tls:concept:BOX::#uuid-d177ae65-6736-4b18-b37d-d93b01269f75][BOX]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / SJ: small box (to put a map into)
+*** 藏@cáng / @
+:PROPERTIES:
+:CONCEPT: uuid-1b04ec66-2f60-46fa-9234-eb14010a9329 / SAFEGUARD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+藏@cáng / @	[[tls:concept:SAFEGUARD::#uuid-1b04ec66-2f60-46fa-9234-eb14010a9329][SAFEGUARD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / store up; take good care of; store up and collect; store up to keep safe
+** 夫權利之處	Now the sources of power and profit are
+:PROPERTIES:
+:SRC: YTL 01.05.01; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:36a04:1::夫權 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 權利@quánlì
+:PROPERTIES:
+:CONCEPT: uuid-efa82893-3f7a-4bbd-98f6-6bee7432e609 / PROFIT
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-ea144b5d-3b62-4e9c-8bcb-6b377b5cfddf
+:CHARPOS: 2
+:END:
+權利@quánlì	[[tls:concept:PROFIT::#uuid-efa82893-3f7a-4bbd-98f6-6bee7432e609][PROFIT]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-ea144b5d-3b62-4e9c-8bcb-6b377b5cfddf][neutral]]} / the possibilities for power and profit (NB: not one's OWN advantage)
+** 沛然	through of Lǚ Liáng,
+:PROPERTIES:
+:SRC: YTL 01.05.03; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:36a19:1::沛然 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 沛然@pèirán
+:PROPERTIES:
+:CONCEPT: uuid-abc5ff59-2538-4802-b922-3286b80bf55b / ABUNDANT
+:SYN-FUNC: uuid-efe577d1-de70-4d80-84d0-e92f482f3f3d
+:CHARPOS: 1
+:END:
+沛然@pèirán	[[tls:concept:ABUNDANT::#uuid-abc5ff59-2538-4802-b922-3286b80bf55b][ABUNDANT]]	V [[tls:syn-func::#uuid-efe577d1-de70-4d80-84d0-e92f482f3f3d][VPadS]] / abundantly
+** 今放民於權利	Now to give the people free rein to strive after power and profit
+:PROPERTIES:
+:SRC: YTL 01.05.04; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:36a26:1::今放 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 權利@quánlì
+:PROPERTIES:
+:CONCEPT: uuid-ad9b5193-666f-4647-b16a-f1a0dc051359 / PROFIT
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:CHARPOS: 5
+:END:
+權利@quánlì	[[tls:concept:PROFIT::#uuid-ad9b5193-666f-4647-b16a-f1a0dc051359][PROFIT]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] / personal profit and advantage
+** 而并兼之徒姦形成也	
+:PROPERTIES:
+:SRC: YTL 01.05.04; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:36a32:1::而并 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 并兼@bìngjiān
+:PROPERTIES:
+:CONCEPT: uuid-8c38aeb9-ed7b-4cc5-b6eb-6b7e8ef0dcad / ANNEX
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+并兼@bìngjiān	[[tls:concept:ANNEX::#uuid-8c38aeb9-ed7b-4cc5-b6eb-6b7e8ef0dcad][ANNEX]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / annexation
+** 民人藏於家	The people have their wealth at home;
+:PROPERTIES:
+:SRC: YTL 01.05.05; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:37a02:1::「民 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 藏@cáng / @
+:PROPERTIES:
+:CONCEPT: uuid-9b85908b-f2e3-4db5-8b41-06cc87b0541c / SAFEGUARD
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 3
+:END:
+藏@cáng / @	[[tls:concept:SAFEGUARD::#uuid-9b85908b-f2e3-4db5-8b41-06cc87b0541c][SAFEGUARD]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / store one's wealth in
+** 諸侯藏於國	the Princes have theirs in the states;
+:PROPERTIES:
+:SRC: YTL 01.05.05; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:37a03:50::諸侯 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 藏@cáng / @
+:PROPERTIES:
+:CONCEPT: uuid-9b85908b-f2e3-4db5-8b41-06cc87b0541c / SAFEGUARD
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 52
+:END:
+藏@cáng / @	[[tls:concept:SAFEGUARD::#uuid-9b85908b-f2e3-4db5-8b41-06cc87b0541c][SAFEGUARD]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / store one's wealth in
+** 天子藏於海內	the Emperor has his in the land within the seas.
+:PROPERTIES:
+:SRC: YTL 01.05.05; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:37a04:50::天子 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 藏@cáng / @
+:PROPERTIES:
+:CONCEPT: uuid-9b85908b-f2e3-4db5-8b41-06cc87b0541c / SAFEGUARD
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 52
+:END:
+藏@cáng / @	[[tls:concept:SAFEGUARD::#uuid-9b85908b-f2e3-4db5-8b41-06cc87b0541c][SAFEGUARD]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / store one's wealth in
+** 天子以四海為匣匱	while the Emperor has all the land within the seas as a treasure-chest.
+:PROPERTIES:
+:SRC: YTL 01.05.05; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:37a06:1::天子 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 匣匱@xiáguì
+:PROPERTIES:
+:CONCEPT: uuid-4a0816ee-61d5-4371-83a9-9578baedaef3 / BOX
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 7
+:END:
+匣匱@xiáguì	[[tls:concept:BOX::#uuid-4a0816ee-61d5-4371-83a9-9578baedaef3][BOX]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / boxes of any kind
+** 諸侯納管鍵	The Prince offers him the official keys,
+:PROPERTIES:
+:SRC: YTL 01.05.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:37a09:1::諸侯 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 管@guǎn
+:PROPERTIES:
+:CONCEPT: uuid-186bf100-e7b2-4115-b769-23fcf7c142cc / KEY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+管@guǎn	[[tls:concept:KEY::#uuid-186bf100-e7b2-4115-b769-23fcf7c142cc][KEY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / key
+*** 鍵@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-fc9315e9-c6a7-4c15-962c-d78af05c457a / GATE PART
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+鍵@jiàn	[[tls:concept:GATE PART::#uuid-fc9315e9-c6a7-4c15-962c-d78af05c457a][GATE PART]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / a cone-shaped piece of wood inserted into the traverse bar guān 關 and a protruding part in the door so as to keep the traverse bar in a stable position
+** 示莫為主也	This shows that he is not the lord there.
+:PROPERTIES:
+:SRC: YTL 01.05.06; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:37a11:1::示莫 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 主@zhǔ
+:PROPERTIES:
+:CONCEPT: uuid-647911cc-a0b4-4bb2-9307-e8b2bdab36dc / LEAD
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 4
+:END:
+主@zhǔ	[[tls:concept:LEAD::#uuid-647911cc-a0b4-4bb2-9307-e8b2bdab36dc][LEAD]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / leader (should perhaps be n(post-N))
+** 故權利深者	Thus we see that the sources of power and profit
+:PROPERTIES:
+:SRC: YTL 01.05.09; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:37a27:1::故權 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 權利@quánlì
+:PROPERTIES:
+:CONCEPT: uuid-efa82893-3f7a-4bbd-98f6-6bee7432e609 / PROFIT
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-ea144b5d-3b62-4e9c-8bcb-6b377b5cfddf
+:CHARPOS: 2
+:END:
+權利@quánlì	[[tls:concept:PROFIT::#uuid-efa82893-3f7a-4bbd-98f6-6bee7432e609][PROFIT]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-ea144b5d-3b62-4e9c-8bcb-6b377b5cfddf][neutral]]} / the possibilities for power and profit (NB: not one's OWN advantage)
+** 雖使五尺童子適市	Even a lad only five feet tall may be sent to the market
+:PROPERTIES:
+:SRC: YTL 01.05.10; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:38a06:1::雖使 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 童子@tóngzǐ
+:PROPERTIES:
+:CONCEPT: uuid-69782280-e843-4dee-a55e-3ba2e193aa17 / BOY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 5
+:END:
+童子@tóngzǐ	[[tls:concept:BOY::#uuid-69782280-e843-4dee-a55e-3ba2e193aa17][BOY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / mere (uncapped) adolescent, little brat; boy; (but note that the word can also refer to a girl)
+** 則齊民消	and file of law-abiding people will dwindle away.
+:PROPERTIES:
+:SRC: YTL 01.05.12; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:38a16:1::則齊 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 齊民@qímín
+:PROPERTIES:
+:CONCEPT: uuid-3297497a-4744-4778-8b68-aa32c72b023d / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:CHARPOS: 2
+:END:
+齊民@qímín	[[tls:concept:PEOPLE::#uuid-3297497a-4744-4778-8b68-aa32c72b023d][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] / the common (law-abiding) people
+** 若眾穢之盛而害五穀	It would be like letting the weeds flourish and spoiling the grain.
+:PROPERTIES:
+:SRC: YTL 01.05.12; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:38a17:50::若眾 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 穢@huì
+:PROPERTIES:
+:CONCEPT: uuid-d34ca081-cb79-4ab7-afb3-f41a6c2919bc / WEEDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+穢@huì	[[tls:concept:WEEDS::#uuid-d34ca081-cb79-4ab7-afb3-f41a6c2919bc][WEEDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / weeds
+** 財用之寶路也	is in the mountains and seas;
+:PROPERTIES:
+:SRC: YTL 01.05.13; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:39a03:1::財用 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-ee9bc2d3-8d8a-497f-b4dc-077de9be8d4e / PRECIOUS
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-ee9bc2d3-8d8a-497f-b4dc-077de9be8d4e][PRECIOUS]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / most treasured, most important
+*** 寶@bǎo
+:PROPERTIES:
+:CONCEPT: uuid-4b81a6f2-2b6b-4ef4-969b-db19221e980f / PRECIOUS
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 4
+:END:
+寶@bǎo	[[tls:concept:PRECIOUS::#uuid-4b81a6f2-2b6b-4ef4-969b-db19221e980f][PRECIOUS]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / precious; sometimes: containing treasure
+** 則仇讎滅	then enmity will perish;
+:PROPERTIES:
+:SRC: YTL 01.05.14; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:39a07:1::則仇 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 仇讎@qiúchóu
+:PROPERTIES:
+:CONCEPT: uuid-75902dcc-a570-474f-93c4-d790bc8bf6f7 / ENEMY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 2
+:END:
+仇讎@qiúchóu	[[tls:concept:ENEMY::#uuid-75902dcc-a570-474f-93c4-d790bc8bf6f7][ENEMY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / mortal enemy; mortal enemies
+** 則百姓贍而民用給	when the road to prosperity is opened, then the common people will be fed and their needs met;
+:PROPERTIES:
+:SRC: YTL 01.05.14; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:39a12:1::則百 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 贍@shàn
+:PROPERTIES:
+:CONCEPT: uuid-2846cea8-94f4-4891-b2ed-ba9b95630a26 / SUFFICIENT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+贍@shàn	[[tls:concept:SUFFICIENT::#uuid-2846cea8-94f4-4891-b2ed-ba9b95630a26][SUFFICIENT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be abundantly supplied
+** 縣官籠而一之	But when the magistrates establish monopolies and standardize,
+:PROPERTIES:
+:SRC: YTL 01.05.16; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:39a25:1::縣官 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 籠@lóng
+:PROPERTIES:
+:CONCEPT: uuid-bce7a9e5-2a80-4f9e-85f3-ba5fd2fc89cb / MONOPOLISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+籠@lóng	[[tls:concept:MONOPOLISE::#uuid-bce7a9e5-2a80-4f9e-85f3-ba5fd2fc89cb][MONOPOLISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / monopolise
+** 大傲皆依山川	are in most cases in mountains and on rivers
+:PROPERTIES:
+:SRC: YTL 01.05.18; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:39a33:1::大傲 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 依@yī
+:PROPERTIES:
+:CONCEPT: uuid-ff0a23ab-e74c-48e0-9879-6c9b3f257796 / NEAR
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+依@yī	[[tls:concept:NEAR::#uuid-ff0a23ab-e74c-48e0-9879-6c9b3f257796][NEAR]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be close to
+** 發僦運鹽鐵煩費	The transport of salt and iron cause trouble and expense;
+:PROPERTIES:
+:SRC: YTL 01.05.19; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:39a41:6::發僦 / 鹽鐵論
+:CHARPOS: 6
+:END:
+*** 費@fèi
+:PROPERTIES:
+:CONCEPT: uuid-68d0aafe-46e3-4359-997f-d3d753e44774 / EXPENSE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 12
+:END:
+費@fèi	[[tls:concept:EXPENSE::#uuid-68d0aafe-46e3-4359-997f-d3d753e44774][EXPENSE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / involve large expediture
+** 愚竊見一官之傷千里	As I see it, a single magistrate damages a thousand hamlets.
+:PROPERTIES:
+:SRC: YTL 01.05.19; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:39a43:1::愚竊 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 竊@qiè
+:PROPERTIES:
+:CONCEPT: uuid-0cb9a202-969a-4733-84f6-0e924fbbc7cd / DARE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 2
+:END:
+竊@qiè	[[tls:concept:DARE::#uuid-0cb9a202-969a-4733-84f6-0e924fbbc7cd][DARE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / in polite speech: take the liberty of V-ing; humbly permit oneself to, humbly allow oneself to (NB 竊不敢...)
+** 離朋黨	cliques dispersed,
+:PROPERTIES:
+:SRC: YTL 01.06.03; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:41a14:1::離朋 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 離@lí
+:PROPERTIES:
+:CONCEPT: uuid-aab3c847-eb0e-41b6-8957-23494fb05517 / SCATTER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+離@lí	[[tls:concept:SCATTER::#uuid-aab3c847-eb0e-41b6-8957-23494fb05517][SCATTER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / separate, break up (e.g. alliances)
+*** 朋黨@péngdǎng
+:PROPERTIES:
+:CONCEPT: uuid-4c055a94-4aed-433d-8a8f-d137886730bf / FACTION
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 2
+:END:
+朋黨@péngdǎng	[[tls:concept:FACTION::#uuid-4c055a94-4aed-433d-8a8f-d137886730bf][FACTION]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / friendship group, association of friends; friends
+** 棄墳墓	abandoning the tombs of their ancestors.
+:PROPERTIES:
+:SRC: YTL 01.06.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:41a44:1::棄墳 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 墳墓@fénmù
+:PROPERTIES:
+:CONCEPT: uuid-99b25ae7-f498-4c52-af5a-e306fce26d21 / TOMB
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-ff802381-5859-48eb-909a-e937d69218c6
+:CHARPOS: 2
+:END:
+墳墓@fénmù	[[tls:concept:TOMB::#uuid-99b25ae7-f498-4c52-af5a-e306fce26d21][TOMB]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-ff802381-5859-48eb-909a-e937d69218c6][referential]]} / tombs
+** 依倚大家	Attaching themselves to a great house
+:PROPERTIES:
+:SRC: YTL 01.06.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:41a45:50::依倚 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 依@yī
+:PROPERTIES:
+:CONCEPT: uuid-52c3cf1a-b8c5-4ad7-aaa8-d4383d0c03de / RELY ON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+依@yī	[[tls:concept:RELY ON::#uuid-52c3cf1a-b8c5-4ad7-aaa8-d4383d0c03de][RELY ON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / depend on; rely on; rely on for sustenance or supportBUDDH: take refuge in (Buddha, dharma, sangha, etc.)
+** 遂朋黨之權	seeking to build up the power of their clique.
+:PROPERTIES:
+:SRC: YTL 01.06.07; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:41a48:1::遂朋 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 朋黨@péngdǎng
+:PROPERTIES:
+:CONCEPT: uuid-4c055a94-4aed-433d-8a8f-d137886730bf / FACTION
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62
+:CHARPOS: 2
+:END:
+朋黨@péngdǎng	[[tls:concept:FACTION::#uuid-4c055a94-4aed-433d-8a8f-d137886730bf][FACTION]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-81474f89-46c7-4ce9-8c91-93eff5e3cf62][collective]]} / friendship group, association of friends; friends
+** 匪先民是程	Do not take the ancients for their pattern,
+:PROPERTIES:
+:SRC: YTL 01.06.10; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:42a07:1::匪先 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-2a9996cc-3676-4940-8e12-b2930331bcae / THIS
+:SYN-FUNC: uuid-f450a589-6631-465e-973c-777a2fe14735
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 4
+:END:
+是@shì	[[tls:concept:THIS::#uuid-2a9996cc-3676-4940-8e12-b2930331bcae][THIS]]	N [[tls:syn-func::#uuid-f450a589-6631-465e-973c-777a2fe14735][npro{OBJ}+Vt.postN{TOP}]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / this aforementioned N; the preceding N (is the one the SUBJECT VERBS) 敗是求 "it is defeat that you have sought"
+** 匪大猶是經	And do not regulate them by great principles.
+:PROPERTIES:
+:SRC: YTL 01.06.10; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:42a08:50::匪大 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-2a9996cc-3676-4940-8e12-b2930331bcae / THIS
+:SYN-FUNC: uuid-f450a589-6631-465e-973c-777a2fe14735
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 53
+:END:
+是@shì	[[tls:concept:THIS::#uuid-2a9996cc-3676-4940-8e12-b2930331bcae][THIS]]	N [[tls:syn-func::#uuid-f450a589-6631-465e-973c-777a2fe14735][npro{OBJ}+Vt.postN{TOP}]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / this aforementioned N; the preceding N (is the one the SUBJECT VERBS) 敗是求 "it is defeat that you have sought"
+** 維邇言是聽	They only hearken to shallow words."
+:PROPERTIES:
+:SRC: YTL 01.06.10; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:42a09:50::維邇 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-2a9996cc-3676-4940-8e12-b2930331bcae / THIS
+:SYN-FUNC: uuid-f450a589-6631-465e-973c-777a2fe14735
+:SEM-FEAT: uuid-03d40aba-0460-467e-a915-123812b348a5
+:CHARPOS: 53
+:END:
+是@shì	[[tls:concept:THIS::#uuid-2a9996cc-3676-4940-8e12-b2930331bcae][THIS]]	N [[tls:syn-func::#uuid-f450a589-6631-465e-973c-777a2fe14735][npro{OBJ}+Vt.postN{TOP}]] {[[tls:sem-feat::#uuid-03d40aba-0460-467e-a915-123812b348a5][contrastive]]} / this aforementioned N; the preceding N (is the one the SUBJECT VERBS) 敗是求 "it is defeat that you have sought"
+** 而善為權利者	but are skillful at power and profit.
+:PROPERTIES:
+:SRC: YTL 01.06.10; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:42a11:1::而善 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-3cd3d6ec-2336-426a-bc2a-a6422e8257f5 / TENDENCY
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 2
+:END:
+善@shàn	[[tls:concept:TENDENCY::#uuid-3cd3d6ec-2336-426a-bc2a-a6422e8257f5][TENDENCY]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / be given to V-ing, be an enthusiastic V-er; be prone to V-ing
+*** 權利@quánlì
+:PROPERTIES:
+:CONCEPT: uuid-ad9b5193-666f-4647-b16a-f1a0dc051359 / PROFIT
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:CHARPOS: 4
+:END:
+權利@quánlì	[[tls:concept:PROFIT::#uuid-ad9b5193-666f-4647-b16a-f1a0dc051359][PROFIT]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] / personal profit and advantage
+** 公卿宜思所以安集百姓	The high officers of state should bethink themselves as to how to pacify and bring together the people,
+:PROPERTIES:
+:SRC: YTL 01.06.13; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:42a23:1::公卿 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 集@jí
+:PROPERTIES:
+:CONCEPT: uuid-6f9c1c40-be69-4bac-ac1e-a5335b357847 / GATHER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 8
+:END:
+集@jí	[[tls:concept:GATHER::#uuid-6f9c1c40-be69-4bac-ac1e-a5335b357847][GATHER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / assemble, collect together
+** 不知國家之慮	know nothing of the cares of statecraft.
+:PROPERTIES:
+:SRC: YTL 01.06.16; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:43a07:1::不知 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 慮@lǜ
+:PROPERTIES:
+:CONCEPT: uuid-c2e67811-0421-4780-9351-b843af6d18d9 / PLAN
+:SYN-FUNC: uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+慮@lǜ	[[tls:concept:PLAN::#uuid-c2e67811-0421-4780-9351-b843af6d18d9][PLAN]]	N [[tls:syn-func::#uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1][nab.t]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / plans for N, tactics for N
+** 負荷之商	Peddlers with packs on their backs
+:PROPERTIES:
+:SRC: YTL 01.06.16; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:43a08:50::負荷 / 鹽鐵論
+:CHARPOS: 50
+:END:
+*** 荷@hè
+:PROPERTIES:
+:CONCEPT: uuid-de5f0bb9-4ae2-44d0-8414-4593cd0bec63 / BURDEN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+荷@hè	[[tls:concept:BURDEN::#uuid-de5f0bb9-4ae2-44d0-8414-4593cd0bec63][BURDEN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / burden, load (on one's back or shoulder)
+** 料胡越之兵	estimated the opposing forces of the barbarians
+:PROPERTIES:
+:SRC: YTL 01.06.17; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:43a11:1::料胡 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 料@liào
+:PROPERTIES:
+:CONCEPT: uuid-6eabe242-7de9-446a-b7e2-8b7f1d40066e / CALCULATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+料@liào	[[tls:concept:CALCULATE::#uuid-6eabe242-7de9-446a-b7e2-8b7f1d40066e][CALCULATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / calculate the precise number of something, typically of a population
+** 破商擒紂	conquered Shāng, captured Zhoù,
+:PROPERTIES:
+:SRC: YTL 01.06.18; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:43a24:1::破商 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 擒@qín / 禽@qín
+:PROPERTIES:
+:CONCEPT: uuid-d8e288ab-fc4e-4d4e-a5dd-85de4655514e / ARREST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+擒@qín / 禽@qín	[[tls:concept:ARREST::#uuid-d8e288ab-fc4e-4d4e-a5dd-85de4655514e][ARREST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / capture (an animal in chase); take prisoner (a person in war)
+** 曹沫棄三北之恥	Cáo Mò, despite the humiliation of three defeats,
+:PROPERTIES:
+:SRC: YTL 01.06.18; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:43a26:1::曹沫 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 北@běi
+:PROPERTIES:
+:CONCEPT: uuid-d3edbe6d-0616-4299-ab81-0cff1d54f6e1 / DEFEAT
+:SYN-FUNC: uuid-a83c5ff7-f773-421d-b814-f161c6c50be8
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 5
+:END:
+北@běi	[[tls:concept:DEFEAT::#uuid-d3edbe6d-0616-4299-ab81-0cff1d54f6e1][DEFEAT]]	N [[tls:syn-func::#uuid-a83c5ff7-f773-421d-b814-f161c6c50be8][nab.post-V{NUM}]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / defeat, loan for
+*** 恥@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-d0a39155-9d9b-4164-97ff-b1ed2d4e8475 / DISGRACE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 7
+:END:
+恥@chǐ	[[tls:concept:DISGRACE::#uuid-d0a39155-9d9b-4164-97ff-b1ed2d4e8475][DISGRACE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / public humiliation, public disgrace; shameful episode
+** 況翱翔千仞而游四海乎	the frogs in the wells on leaving their habitations have worries from snakes and rats.
+:PROPERTIES:
+:SRC: YTL 01.06.20; Wang 1992:DATE: 6210	late Western Han
+:LOCATION: KR3a0006_001:44a04:1::況翱 / 鹽鐵論
+:CHARPOS: 1
+:END:
+*** 游@yóu
+:PROPERTIES:
+:CONCEPT: uuid-7c5503fa-b617-49b2-86b2-aa80646ae0ff / SWIM
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:CHARPOS: 7
+:END:
+游@yóu	[[tls:concept:SWIM::#uuid-7c5503fa-b617-49b2-86b2-aa80646ae0ff][SWIM]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] / swim across; swim in

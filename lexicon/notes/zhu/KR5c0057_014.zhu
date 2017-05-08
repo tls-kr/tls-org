@@ -1,0 +1,80 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_014
+#+DATE: 2017-02-08T16:43:42+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 此三者不可致詰	These three we cannot examine,
+:PROPERTIES:
+:SRC: LAO 14.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_014:1a07:1::此三 / 老子
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303 / THIS
+:SYN-FUNC: uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774
+:SEM-FEAT: uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-ed562ca9-b9db-4bab-8cd9-b7178e967303][THIS]]	N [[tls:syn-func::#uuid-f7bd06f7-2384-4089-bbb1-e0cc86e38774][npro.adN{NUM}:adnpro]] {[[tls:sem-feat::#uuid-28ffcaa2-14eb-4c9b-a878-1d9e8bf3a432][N=abstract]]} / 此三者
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3
+:CHARPOS: 3
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3][npro:post.Npost-V{NUM}]] / after number phrase　三家者， 之數物者
+*** 詰@jié
+:PROPERTIES:
+:CONCEPT: uuid-50bda194-c441-49d2-86f7-e0e6f8aa3cca / INVESTIGATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 7
+:END:
+詰@jié	[[tls:concept:INVESTIGATE::#uuid-50bda194-c441-49d2-86f7-e0e6f8aa3cca][INVESTIGATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be investigated into
+** 故混而為一	therefore we blend them into a unity.
+:PROPERTIES:
+:SRC: LAO 14.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_014:1a08:50::故混 / 老子
+:CHARPOS: 50
+:END:
+*** 混@hùn
+:PROPERTIES:
+:CONCEPT: uuid-ac7f65b7-28dd-4c07-a267-b95ae5c2358b / CHAOS
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 51
+:END:
+混@hùn	[[tls:concept:CHAOS::#uuid-ac7f65b7-28dd-4c07-a267-b95ae5c2358b][CHAOS]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be chaotic
+** 其上不皦	Its upper part is not bright,
+:PROPERTIES:
+:SRC: LAO 14.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_014:1a10:1::其上 / 老子
+:CHARPOS: 1
+:END:
+*** 皦@jiǎo
+:PROPERTIES:
+:CONCEPT: uuid-5b482b9c-86b9-4c82-8227-92e622a702ba / BRIGHT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+皦@jiǎo	[[tls:concept:BRIGHT::#uuid-5b482b9c-86b9-4c82-8227-92e622a702ba][BRIGHT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / be (figuratively) glittering, all shiny and bright (of music)
+** 是為惚恍	this is called the confused;
+:PROPERTIES:
+:SRC: LAO 14.2; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_014:1a16:1::是為 / 老子
+:CHARPOS: 1
+:END:
+*** 惚@hū
+:PROPERTIES:
+:CONCEPT: uuid-b251a19f-cb05-467a-83ab-9f97712df938 / CONFUSED
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+惚@hū	[[tls:concept:CONFUSED::#uuid-b251a19f-cb05-467a-83ab-9f97712df938][CONFUSED]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be in a confused psychological state; of a person: bewildered
+*** 恍@huǎng
+:PROPERTIES:
+:CONCEPT: uuid-b29a37d5-6756-4b7b-bba6-45731027b856 / CONFUSED
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+恍@huǎng	[[tls:concept:CONFUSED::#uuid-b29a37d5-6756-4b7b-bba6-45731027b856][CONFUSED]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be confused, indistinct

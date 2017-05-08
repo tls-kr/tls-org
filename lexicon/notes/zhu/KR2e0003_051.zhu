@@ -1,0 +1,71 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_051
+#+DATE: 2017-02-08T16:41:13+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 張儀欲假秦兵以救魏	Chang Yi wanted to use Chi'in troops to rescue Wei.
+:PROPERTIES:
+:SRC: ZGC 3.6.1; tr. Crump 1979 no. 61, p.72, ed. Shanghaiguji p. 114 Kan Mao advised how to be rid of Chang Yi
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_051:1a01:50::張儀 / 戰國策
+:CHARPOS: 50
+:END:
+*** 假@jiǎ
+:PROPERTIES:
+:CONCEPT: uuid-ff18a7f5-f761-451e-b1b8-42e46d5529e5 / BORROW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+假@jiǎ	[[tls:concept:BORROW::#uuid-ff18a7f5-f761-451e-b1b8-42e46d5529e5][BORROW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / borrow
+*** 兵@bīng
+:PROPERTIES:
+:CONCEPT: uuid-52412632-776f-43da-a2d7-596a55a8b1e8 / ARMY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 55
+:END:
+兵@bīng	[[tls:concept:ARMY::#uuid-52412632-776f-43da-a2d7-596a55a8b1e8][ARMY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / troops, armed forces; military support; military force
+** 子不予之	said Tso Ch'eng to Kan Mao.
+:PROPERTIES:
+:SRC: ZGC 3.6.1; tr. Crump 1979 no. 61, p.72, ed. Shanghaiguji p. 114 Kan Mao advised how to be rid of Chang Yi
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_051:1a03:1::「子 / 戰國策
+:CHARPOS: 1
+:END:
+*** 不如@bùrú
+:PROPERTIES:
+:CONCEPT: uuid-ed405fc1-db4d-40a2-a803-fc30e4f70633 / SHOULD
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CONCEPT: uuid-a479fc23-ac4b-4aff-a402-d1955514ebde / GIVE
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:SEM-FEAT: uuid-52acfe60-c9eb-4064-8f46-975338866a10
+:CHARPOS: 1
+:END:
+不如@bùrú	[[tls:concept:SHOULD::#uuid-ed405fc1-db4d-40a2-a803-fc30e4f70633][SHOULD]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / had better, should ideally, should under the circumstances, should given the alternatives that the situation presents
+與@yǔ / 予@yǔ	[[tls:concept:GIVE::#uuid-a479fc23-ac4b-4aff-a402-d1955514ebde][GIVE]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] {[[tls:sem-feat::#uuid-52acfe60-c9eb-4064-8f46-975338866a10][N1=recipient]]} / give (something N2) to a contextually determinate recipient N1
+** 魏若反秦兵	If Wei does return them
+:PROPERTIES:
+:SRC: ZGC 3.6.1; tr. Crump 1979 no. 61, p.72, ed. Shanghaiguji p. 114 Kan Mao advised how to be rid of Chang Yi
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_051:1a06:1::魏若 / 戰國策
+:CHARPOS: 1
+:END:
+*** 反@fǎn
+:PROPERTIES:
+:CONCEPT: uuid-24149c7a-e462-45d9-9c81-b45391c3c323 / GIVE BACK
+:SYN-FUNC: uuid-d297e75d-f861-41bf-8194-937505950af7
+:CHARPOS: 3
+:END:
+反@fǎn	[[tls:concept:GIVE BACK::#uuid-24149c7a-e462-45d9-9c81-b45391c3c323][GIVE BACK]]	V [[tls:syn-func::#uuid-d297e75d-f861-41bf-8194-937505950af7][vttoN1(.+N2)]] / give back N1 to the contextually determinate N2
+** 張子得志於魏	it will mean that Chang Yi has realized his ambition in Wei
+:PROPERTIES:
+:SRC: ZGC 3.6.1; tr. Crump 1979 no. 61, p.72, ed. Shanghaiguji p. 114 Kan Mao advised how to be rid of Chang Yi
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_051:1a07:50::張子 / 戰國策
+:CHARPOS: 50
+:END:
+*** 得志@dézhì
+:PROPERTIES:
+:CONCEPT: uuid-8c66acd7-2ff4-49e5-bb6c-e0bb0b52bedc / SUCCEED
+:SYN-FUNC: uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c
+:CHARPOS: 52
+:END:
+得志@dézhì	[[tls:concept:SUCCEED::#uuid-8c66acd7-2ff4-49e5-bb6c-e0bb0b52bedc][SUCCEED]]	V [[tls:syn-func::#uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c][VPt+prep+N]] / get one's way with

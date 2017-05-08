@@ -1,0 +1,45 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_023
+#+DATE: 2017-02-08T16:43:43+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 自然	is to accord with nature.
+:PROPERTIES:
+:SRC: LAO 23.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_023:1a01:50::自然 / 老子
+:CHARPOS: 50
+:END:
+*** 自然@zìrán
+:PROPERTIES:
+:CONCEPT: uuid-ebc52399-e4b1-434f-ae27-48aa51c88320 / NATURALLY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+自然@zìrán	[[tls:concept:NATURALLY::#uuid-ebc52399-e4b1-434f-ae27-48aa51c88320][NATURALLY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / conduct according to nature
+** 故飄風不終朝	A spell off violent wind does not last for a whole morning,
+:PROPERTIES:
+:SRC: LAO 23.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_023:1a02:50::故飄 / 老子
+:CHARPOS: 50
+:END:
+*** 飄風@piāofēng
+:PROPERTIES:
+:CONCEPT: uuid-1a418d0e-b9bb-4e30-a961-1818e48e1a1c / WIND
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4
+:CHARPOS: 51
+:END:
+飄風@piāofēng	[[tls:concept:WIND::#uuid-1a418d0e-b9bb-4e30-a961-1818e48e1a1c][WIND]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-da12432d-7ed6-4864-b7e5-4bb8eafe44b4][process]]} / whirlwind [[Note incidentally that this binome is not normally used adverbially. Binomes of this sort are frequent. See however ZHUANG 2 who deviates from this rule.]]
+** 天地尚弗能久	When Heaven and Earth cannot make it long-lasting,
+:PROPERTIES:
+:SRC: LAO 23.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_023:1a06:1::天地 / 老子
+:CHARPOS: 1
+:END:
+*** 尚@shàng
+:PROPERTIES:
+:CONCEPT: uuid-10334f08-23e8-4b0f-8017-2f80a77cb511 / EVEN
+:SYN-FUNC: uuid-de56e4a3-4283-4e36-92c2-96df86897260
+:CHARPOS: 3
+:END:
+尚@shàng	[[tls:concept:EVEN::#uuid-10334f08-23e8-4b0f-8017-2f80a77cb511][EVEN]]	P [[tls:syn-func::#uuid-de56e4a3-4283-4e36-92c2-96df86897260][padV.postN{SUBJ}:postS]] / even (an N)

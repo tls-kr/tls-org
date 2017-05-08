@@ -1,0 +1,62 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_079
+#+DATE: 2017-02-08T16:41:17+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 為君慮封	'I have been thinking about a fief for you.
+:PROPERTIES:
+:SRC: ZGC 5.5.1; tr. Crump 1979 no. i2, p 87, ed. Shanghaiguji p. 172 A fragment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_079:1a02:1::「為 / 戰國策
+:CHARPOS: 1
+:END:
+*** 君@jūn
+:PROPERTIES:
+:CONCEPT: uuid-c260f851-48ec-4934-8d7c-4d135b9c7297 / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:CHARPOS: 2
+:END:
+君@jūn	[[tls:concept:YOU::#uuid-c260f851-48ec-4934-8d7c-4d135b9c7297][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] / you, my ruler; your lordship; you, my master
+*** 慮@lǜ
+:PROPERTIES:
+:CONCEPT: uuid-b8101249-a5bb-4471-af3e-280092c698ce / PLAN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+慮@lǜ	[[tls:concept:PLAN::#uuid-b8101249-a5bb-4471-af3e-280092c698ce][PLAN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / plot; plan for; engage in deliberations (about something); calculate (with something)
+*** 封@fēng
+:PROPERTIES:
+:CONCEPT: uuid-371922d2-975e-4b61-8c12-4d54623b18ad / INSTALL
+:SYN-FUNC: uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+封@fēng	[[tls:concept:INSTALL::#uuid-371922d2-975e-4b61-8c12-4d54623b18ad][INSTALL]]	N [[tls:syn-func::#uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1][nab.t]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / enfeofment (of someone N)
+** 德強齊	To have mighty Ch'in in your debt
+:PROPERTIES:
+:SRC: ZGC 5.5.1; tr. Crump 1979 no. i2, p 87, ed. Shanghaiguji p. 172 A fragment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_079:1a04:1::德強 / 戰國策
+:CHARPOS: 1
+:END:
+*** 強@qiáng / 強@qiáng
+:PROPERTIES:
+:CONCEPT: uuid-9b3f2681-2d95-4508-854b-d6a9548940e7 / STRONG
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-eb362e25-99fd-4526-a3ea-428eccf6c681
+:CHARPOS: 2
+:END:
+強@qiáng / 強@qiáng	[[tls:concept:STRONG::#uuid-9b3f2681-2d95-4508-854b-d6a9548940e7][STRONG]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-eb362e25-99fd-4526-a3ea-428eccf6c681][non-restrictive]]} / non-restrictive adjective: (presupposed to be) strong
+** 此亦百世之時也已	is the sort of opportunity that comes only once in a hundred generations!
+:PROPERTIES:
+:SRC: ZGC 5.5.1; tr. Crump 1979 no. i2, p 87, ed. Shanghaiguji p. 172 A fragment
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_079:1a05:1::此亦 / 戰國策
+:CHARPOS: 1
+:END:
+*** 時@shí
+:PROPERTIES:
+:CONCEPT: uuid-534629c6-9811-4287-a385-8d05e62c1153 / OPPORTUNITY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 6
+:END:
+時@shí	[[tls:concept:OPPORTUNITY::#uuid-534629c6-9811-4287-a385-8d05e62c1153][OPPORTUNITY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / the right time; right moment, an opportunity 大時; the moment for something; see also 遇時 "encounter opportunities"

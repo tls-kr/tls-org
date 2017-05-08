@@ -1,0 +1,781 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 論衡 KR3j0080_015
+#+DATE: 2017-02-08T16:43:27+0900
+#+PROPERTY: COMMIT 4527326cad354527d529ce18236a9771ae63de14
+** 禼母吞燕卵而生禼	Xie's mother ate a swallow's egg, and so gave birth to Xie;
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_015:1a06:1::禼母 / 論衡
+:CHARPOS: 1
+:END:
+*** 吞@tūn
+:PROPERTIES:
+:CONCEPT: uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c / SWALLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+吞@tūn	[[tls:concept:SWALLOW::#uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c][SWALLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gulp down (of liquids); swallow (food, or even a pearl); be large enough to be able to swallow
+** 履大人跡而生后稷	trod in the footsteps of a giant and so gave birth to him;
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR3j0080_015:1a08:4::履大 / 論衡
+:CHARPOS: 4
+:END:
+*** 大人@dàrén
+:PROPERTIES:
+:CONCEPT: uuid-63a8bd32-e2de-43b2-97bc-84466ab561a3 / GIANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 5
+:END:
+大人@dàrén	[[tls:concept:GIANT::#uuid-63a8bd32-e2de-43b2-97bc-84466ab561a3][GIANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / giant
+** 已而有身	After a while she became pregnant,
+:PROPERTIES:
+:SRC: LH 15.1.5; Liu 1990:158
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:3a11:1::已而 / 論衡
+:CHARPOS: 1
+:END:
+*** 已而@yǐér
+:PROPERTIES:
+:CONCEPT: uuid-8e67de4b-eb61-498b-8e96-b0b050cfedd0 / THEREUPON
+:SYN-FUNC: uuid-fc393db1-993e-431d-9540-bc9fde4945d4
+:CHARPOS: 1
+:END:
+已而@yǐér	[[tls:concept:THEREUPON::#uuid-8e67de4b-eb61-498b-8e96-b0b050cfedd0][THEREUPON]]	V [[tls:syn-func::#uuid-fc393db1-993e-431d-9540-bc9fde4945d4][VPadS1.postS2]] / after a while; after a time; from this time onwards
+*** 有身@yǒushēn
+:PROPERTIES:
+:CONCEPT: uuid-de7b59d5-ce21-46f1-9f54-b4ef74249eb1 / PREGNANT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 3
+:END:
+有身@yǒushēn	[[tls:concept:PREGNANT::#uuid-de7b59d5-ce21-46f1-9f54-b4ef74249eb1][PREGNANT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / become pregnant
+*** 身@shēn
+:PROPERTIES:
+:CONCEPT: uuid-29b6d228-e5a3-4e36-acc7-e1dfe7596faa / FOETUS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+身@shēn	[[tls:concept:FOETUS::#uuid-29b6d228-e5a3-4e36-acc7-e1dfe7596faa][FOETUS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / 有身 "pregnant"
+** 如實論之	But if we analyze it according to reality,
+:PROPERTIES:
+:SRC: LH 15.1.5; Liu 1990:158
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:4a01:1::如實 / 論衡
+:CHARPOS: 1
+:END:
+*** 如實@rúshí
+:PROPERTIES:
+:CONCEPT: uuid-b2196ff7-b352-4825-b253-8442afa46fc9 / REALITY
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:CHARPOS: 1
+:END:
+如實@rúshí	[[tls:concept:REALITY::#uuid-b2196ff7-b352-4825-b253-8442afa46fc9][REALITY]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] / in accordance with reality/the facts
+** 兔舐雄毫而懷子	Hares conceive by licking the hair of males,
+:PROPERTIES:
+:SRC: LH 15.2.2 Liu 1990:158
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:5a10:1::兔舐 / 論衡
+:CHARPOS: 1
+:END:
+*** 吮@shǔn
+:PROPERTIES:
+:CONCEPT: uuid-c8caf80b-1b81-4257-a540-9697c9d2ab9d / LICK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+吮@shǔn	[[tls:concept:LICK::#uuid-c8caf80b-1b81-4257-a540-9697c9d2ab9d][LICK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to lick and suck
+** 禹母吞薏苡	Yǔ's mother swallowing the pearl-barley
+:PROPERTIES:
+:SRC: LH 15.2.3; Liu 1990:159
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:5a13:2::禹母 / 論衡
+:CHARPOS: 2
+:END:
+*** 吞@tūn
+:PROPERTIES:
+:CONCEPT: uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c / SWALLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+吞@tūn	[[tls:concept:SWALLOW::#uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c][SWALLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gulp down (of liquids); swallow (food, or even a pearl); be large enough to be able to swallow
+** 禼母嚥鷰卵	and Qi's mother comsuming the swallow's egg
+:PROPERTIES:
+:SRC: LH 15.2.3; Liu 1990:159
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:5a14:50::禼母 / 論衡
+:CHARPOS: 50
+:END:
+*** 咽@yàn / 嚥@yàn
+:PROPERTIES:
+:CONCEPT: uuid-d3f188cf-0782-479c-906e-070f489605b2 / SWALLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+咽@yàn / 嚥@yàn	[[tls:concept:SWALLOW::#uuid-d3f188cf-0782-479c-906e-070f489605b2][SWALLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / swallow downNote that yàn 嚥 is a late graph used only for the verbal yàn 咽 "swallow" and not for the nominal yān 咽 "top of the throat".
+** 與兔吮毫同實也	are the same sort of phenomenon.
+:PROPERTIES:
+:SRC: LH 15.2.3; Liu 1990:159
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:5a15:50::與兔 / 論衡
+:CHARPOS: 50
+:END:
+*** 吮@shǔn
+:PROPERTIES:
+:CONCEPT: uuid-c8caf80b-1b81-4257-a540-9697c9d2ab9d / LICK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+吮@shǔn	[[tls:concept:LICK::#uuid-c8caf80b-1b81-4257-a540-9697c9d2ab9d][LICK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to lick and suck
+** 誤矣	it is certainly false.113
+:PROPERTIES:
+:SRC: LH 15.2.5; Liu 1990:159
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:5a32:1::誤矣 / 論衡
+:CHARPOS: 1
+:END:
+*** 誤@wù
+:PROPERTIES:
+:CONCEPT: uuid-8accbd15-bc37-45c4-961b-541004d6da2d / MISTAKE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 1
+:END:
+誤@wù	[[tls:concept:MISTAKE::#uuid-8accbd15-bc37-45c4-961b-541004d6da2d][MISTAKE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be mistaken or misguided (said both of words and of people)
+** 大人跡	and a giant's footprint
+:PROPERTIES:
+:SRC: LH 15.3.1; Liu 1990:160
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:6a05:1::大人 / 論衡
+:CHARPOS: 1
+:END:
+*** 大人@dàrén
+:PROPERTIES:
+:CONCEPT: uuid-63a8bd32-e2de-43b2-97bc-84466ab561a3 / GIANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+大人@dàrén	[[tls:concept:GIANT::#uuid-63a8bd32-e2de-43b2-97bc-84466ab561a3][GIANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / giant
+** 二女吞其卵實	The two women swallowed the egg and the grain, so
+:PROPERTIES:
+:SRC: LH 15.2.9; Liu 1990:160
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:6a29:1::二女 / 論衡
+:CHARPOS: 1
+:END:
+*** 吞@tūn
+:PROPERTIES:
+:CONCEPT: uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c / SWALLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+吞@tūn	[[tls:concept:SWALLOW::#uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c][SWALLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gulp down (of liquids); swallow (food, or even a pearl); be large enough to be able to swallow
+** 今謂大人天神	Now, if we presume that the giant was a god from Heaven,
+:PROPERTIES:
+:SRC: LH 15.2.10; Liu 1990:160
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:6a33:1::今謂 / 論衡
+:CHARPOS: 1
+:END:
+*** 大人@dàrén
+:PROPERTIES:
+:CONCEPT: uuid-63a8bd32-e2de-43b2-97bc-84466ab561a3 / GIANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 3
+:END:
+大人@dàrén	[[tls:concept:GIANT::#uuid-63a8bd32-e2de-43b2-97bc-84466ab561a3][GIANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / giant
+** 故其跡巨	its traces would have been huge.
+:PROPERTIES:
+:SRC: LH 15.2.10; Liu 1990:160
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:6a34:50::故其 / 論衡
+:CHARPOS: 50
+:END:
+*** 巨@jù
+:PROPERTIES:
+:CONCEPT: uuid-f9bba831-8bcb-4b93-98e4-5b47d0f6593d / BIG
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+巨@jù	[[tls:concept:BIG::#uuid-f9bba831-8bcb-4b93-98e4-5b47d0f6593d][BIG]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be huge
+** 巨跡之人	The giant with the huge footprints 116
+:PROPERTIES:
+:SRC: LH 15.2.10; Liu 1990:160
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:6a35:50::巨跡 / 論衡
+:CHARPOS: 50
+:END:
+*** 巨@jù
+:PROPERTIES:
+:CONCEPT: uuid-57f64dc8-1be9-4384-92f3-1217dca6fbf7 / BIG
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 50
+:END:
+巨@jù	[[tls:concept:BIG::#uuid-57f64dc8-1be9-4384-92f3-1217dca6fbf7][BIG]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / dialect word: very large, huge, vast
+** 使大人施氣於姜原	Had the giant conferred his qi upon Jiāng Yuán,
+:PROPERTIES:
+:SRC: LH 15.2.10; Liu 1990:160
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:6a39:1::使大 / 論衡
+:CHARPOS: 1
+:END:
+*** 大人@dàrén
+:PROPERTIES:
+:CONCEPT: uuid-63a8bd32-e2de-43b2-97bc-84466ab561a3 / GIANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 2
+:END:
+大人@dàrén	[[tls:concept:GIANT::#uuid-63a8bd32-e2de-43b2-97bc-84466ab561a3][GIANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / giant
+** 且夫含血之類	And another point: With species that contain blood,
+:PROPERTIES:
+:SRC: LH 15.3.3; Liu 1990:161
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:7a17:1::且夫 / 論衡
+:CHARPOS: 1
+:END:
+*** 含@hán
+:PROPERTIES:
+:CONCEPT: uuid-4cde7f44-b2b0-4410-aa55-57dede0b74b9 / CONTAIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+含@hán	[[tls:concept:CONTAIN::#uuid-4cde7f44-b2b0-4410-aa55-57dede0b74b9][CONTAIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / hold in one's mouth> encompass; have within one, contain
+*** 類@lèi
+:PROPERTIES:
+:CONCEPT: uuid-d2017f59-cb0e-4a2d-ad0c-06950ea57110 / CATEGORY
+:SYN-FUNC: uuid-217ce3cc-f0c8-4180-afaa-125da9931035
+:SEM-FEAT: uuid-477df0b0-d40e-4c6f-905f-16fe9231faec
+:CHARPOS: 6
+:END:
+類@lèi	[[tls:concept:CATEGORY::#uuid-d2017f59-cb0e-4a2d-ad0c-06950ea57110][CATEGORY]]	N [[tls:syn-func::#uuid-217ce3cc-f0c8-4180-afaa-125da9931035][ntpost-N]] {[[tls:sem-feat::#uuid-477df0b0-d40e-4c6f-905f-16fe9231faec][members]]} / members of the category
+** 牝牡之會	Wherever we have intercourse between male and female,
+:PROPERTIES:
+:SRC: LH 15.3.3; Liu 1990:161
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:7a19:1::牝牡 / 論衡
+:CHARPOS: 1
+:END:
+*** 會@huì
+:PROPERTIES:
+:CONCEPT: uuid-f3ceb421-9af9-4bc8-9507-6dd900395760 / COPULATE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+會@huì	[[tls:concept:COPULATE::#uuid-f3ceb421-9af9-4bc8-9507-6dd900395760][COPULATE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / sexual intercourse
+** 若夫牡馬見雌牛	Suppose a stallion were to see a milkcow,
+:PROPERTIES:
+:SRC: LH 15.3.4; Liu 1990:161
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:7a23:1::若夫 / 論衡
+:CHARPOS: 1
+:END:
+*** 牡@mǔ
+:PROPERTIES:
+:CONCEPT: uuid-7f1d29b0-9261-4f2b-be39-6ccf11b67c2d / MALE
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 3
+:END:
+牡@mǔ	[[tls:concept:MALE::#uuid-7f1d29b0-9261-4f2b-be39-6ccf11b67c2d][MALE]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / male
+*** 雌@cí
+:PROPERTIES:
+:CONCEPT: uuid-49ce4a18-725b-4f91-8fca-3935f9df183f / FEMALE
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 6
+:END:
+雌@cí	[[tls:concept:FEMALE::#uuid-49ce4a18-725b-4f91-8fca-3935f9df183f][FEMALE]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / female
+** 雄雀見牝雞	or a male sparrow were to see a hen.
+:PROPERTIES:
+:SRC: LH 15.3.4; Liu 1990:161
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:7a24:50::雄雀 / 論衡
+:CHARPOS: 50
+:END:
+*** 牝@pìn
+:PROPERTIES:
+:CONCEPT: uuid-776c177a-f7cb-46fc-96eb-8ba8af42aecb / FEMALE
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 53
+:END:
+牝@pìn	[[tls:concept:FEMALE::#uuid-776c177a-f7cb-46fc-96eb-8ba8af42aecb][FEMALE]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / female
+** 不相與合者	The two would not mate with one another,
+:PROPERTIES:
+:SRC: LH 15.3.4; Liu 1990:161
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:7a25:50::不相 / 論衡
+:CHARPOS: 50
+:END:
+*** 相與@xiāngyǔ
+:PROPERTIES:
+:CONCEPT: uuid-5d1b89ee-4d99-4da4-8bdf-05b42442f0f6 / TOGETHER
+:SYN-FUNC: uuid-819e81af-c978-4931-8fd2-52680e097f01
+:CHARPOS: 51
+:END:
+相與@xiāngyǔ	[[tls:concept:TOGETHER::#uuid-5d1b89ee-4d99-4da4-8bdf-05b42442f0f6][TOGETHER]]	V [[tls:syn-func::#uuid-819e81af-c978-4931-8fd2-52680e097f01][VPadV]] / together; jointly
+*** 合@hé
+:PROPERTIES:
+:CONCEPT: uuid-f300650d-95f4-4ba2-a891-ea36dcd673b0 / COPULATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+合@hé	[[tls:concept:COPULATE::#uuid-f300650d-95f4-4ba2-a891-ea36dcd673b0][COPULATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / copulate; mate
+** 何能感於人而施氣	how could [the dragon] be aroused by a human, to the point where it conferred its qi [upon the human]?
+:PROPERTIES:
+:SRC: LH 15.3.4; Liu 1990:161
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:7a28:1::何能 / 論衡
+:CHARPOS: 1
+:END:
+*** 感@gǎn
+:PROPERTIES:
+:CONCEPT: uuid-74e4e5c4-13be-4c08-8671-881145592ffc / STIMULATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 3
+:END:
+感@gǎn	[[tls:concept:STIMULATE::#uuid-74e4e5c4-13be-4c08-8671-881145592ffc][STIMULATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be stimulated by
+** 化為玄黿	was transformed into a black turtle.
+:PROPERTIES:
+:SRC: LH 15.5.1; Liu 1990:161
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:8a08:1::化為 / 論衡
+:CHARPOS: 1
+:END:
+*** 化@huà
+:PROPERTIES:
+:CONCEPT: uuid-c3ff3685-3409-4a17-b8fc-a6b9568ce08e / CHANGE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 1
+:END:
+化@huà	[[tls:concept:CHANGE::#uuid-c3ff3685-3409-4a17-b8fc-a6b9568ce08e][CHANGE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / transform oneself into, turn into
+** 何以感於處女而施氣乎	how could it be moved by the virgin upon which it conferred its qi?"
+:PROPERTIES:
+:SRC: LH 15.5.2; Liu 1990:161
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:8a13:1::何以 / 論衡
+:CHARPOS: 1
+:END:
+*** 感@gǎn
+:PROPERTIES:
+:CONCEPT: uuid-d362f69f-1d3b-41e2-bb54-515fbec84b4f / FEEL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 3
+:END:
+感@gǎn	[[tls:concept:FEEL::#uuid-d362f69f-1d3b-41e2-bb54-515fbec84b4f][FEEL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be moved by
+*** 處女@chǔnǚ
+:PROPERTIES:
+:CONCEPT: uuid-5bad2420-59ae-4b40-a198-96c36baa6e92 / VIRGIN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 5
+:END:
+處女@chǔnǚ	[[tls:concept:VIRGIN::#uuid-5bad2420-59ae-4b40-a198-96c36baa6e92][VIRGIN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / virgin
+** 若寢夢矣	as if during sleep in a dream.
+:PROPERTIES:
+:SRC: LH 15.5.6; Liu 1990:162
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:9a25:1::若寢 / 論衡
+:CHARPOS: 1
+:END:
+*** 寢@qǐn
+:PROPERTIES:
+:CONCEPT: uuid-a588e4a3-49d8-48cd-abf1-0fc51964a961 / SLEEP
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+寢@qǐn	[[tls:concept:SLEEP::#uuid-a588e4a3-49d8-48cd-abf1-0fc51964a961][SLEEP]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / go to bed; go to bedroom for rest or sleep in a horizontal position; go to bed; spend the night; be asleep
+** 空虛之象	They were illusory images,
+:PROPERTIES:
+:SRC: LH 15.5.7; Liu 1990:162
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:9a26:50::空虛 / 論衡
+:CHARPOS: 50
+:END:
+*** 空虛@kōngxū
+:PROPERTIES:
+:CONCEPT: uuid-71b8c944-46f7-4277-8b4b-55dc465fed0c / ILLUSION
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:CHARPOS: 50
+:END:
+空虛@kōngxū	[[tls:concept:ILLUSION::#uuid-71b8c944-46f7-4277-8b4b-55dc465fed0c][ILLUSION]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] / illusory
+*** 象@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-b089126f-0d58-4368-8692-e2c7854f163e / IDEA
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+象@xiàng	[[tls:concept:IDEA::#uuid-b089126f-0d58-4368-8692-e2c7854f163e][IDEA]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / mental image
+** 不必有實	which did not necessarily correspond with the reality.
+:PROPERTIES:
+:SRC: LH 15.5.7; Liu 1990:162
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:9a27:50::不必 / 論衡
+:CHARPOS: 50
+:END:
+*** 實@shí
+:PROPERTIES:
+:CONCEPT: uuid-1492e230-fec2-4503-bffb-918ff38baf9a / REALITY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 53
+:END:
+實@shí	[[tls:concept:REALITY::#uuid-1492e230-fec2-4503-bffb-918ff38baf9a][REALITY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / concrete reality (versus mere name or title); real facts of a matter; material conditions
+** 假令有之	Let us suppose them to have existed.
+:PROPERTIES:
+:SRC: LH 15.5.7; Liu 1990:162
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:9a28:50::假令 / 論衡
+:CHARPOS: 50
+:END:
+*** 假令@jiǎlìng
+:PROPERTIES:
+:CONCEPT: uuid-f68c2703-2b38-4fe1-b60a-65d6bbb81126 / IF
+:SYN-FUNC: uuid-729965e0-633f-46d5-b017-2a31f4edc0a4
+:CHARPOS: 50
+:END:
+假令@jiǎlìng	[[tls:concept:IF::#uuid-f68c2703-2b38-4fe1-b60a-65d6bbb81126][IF]]	V [[tls:syn-func::#uuid-729965e0-633f-46d5-b017-2a31f4edc0a4][VPt0oS1.adS2]] / suppose S1 then S2
+** 或時熊羆先化為人	At some point,117 the black and brown bears first were transformed into humans,
+:PROPERTIES:
+:SRC: LH 15.5.7; Liu 1990:162
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:9a29:50::或時 / 論衡
+:CHARPOS: 50
+:END:
+*** 化@huà
+:PROPERTIES:
+:CONCEPT: uuid-c3ff3685-3409-4a17-b8fc-a6b9568ce08e / CHANGE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 55
+:END:
+化@huà	[[tls:concept:CHANGE::#uuid-c3ff3685-3409-4a17-b8fc-a6b9568ce08e][CHANGE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / transform oneself into, turn into
+** 魯公牛哀病化為虎	Gōngniú āi of Lǔ, when he became sick, turned into a tiger.
+:PROPERTIES:
+:SRC: LH 15.5.7; Liu 1990:162
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:9a31:1::魯公 / 論衡
+:CHARPOS: 1
+:END:
+*** 化@huà
+:PROPERTIES:
+:CONCEPT: uuid-c3ff3685-3409-4a17-b8fc-a6b9568ce08e / CHANGE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 6
+:END:
+化@huà	[[tls:concept:CHANGE::#uuid-c3ff3685-3409-4a17-b8fc-a6b9568ce08e][CHANGE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / transform oneself into, turn into
+** 人化為獸	Humans transform into animals
+:PROPERTIES:
+:SRC: LH 15.5.7; Liu 1990:162
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:9a32:50::人化 / 論衡
+:CHARPOS: 50
+:END:
+*** 化@huà
+:PROPERTIES:
+:CONCEPT: uuid-c3ff3685-3409-4a17-b8fc-a6b9568ce08e / CHANGE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 51
+:END:
+化@huà	[[tls:concept:CHANGE::#uuid-c3ff3685-3409-4a17-b8fc-a6b9568ce08e][CHANGE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / transform oneself into, turn into
+** 殆先化為人	probably it had already transformed into a man.
+:PROPERTIES:
+:SRC: LH 15.5.8; Liu 1990:163
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:9a35:1::殆先 / 論衡
+:CHARPOS: 1
+:END:
+*** 化@huà
+:PROPERTIES:
+:CONCEPT: uuid-c3ff3685-3409-4a17-b8fc-a6b9568ce08e / CHANGE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+化@huà	[[tls:concept:CHANGE::#uuid-c3ff3685-3409-4a17-b8fc-a6b9568ce08e][CHANGE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / transform oneself into, turn into
+** 未之有也	have copulated.
+:PROPERTIES:
+:SRC: LH 15.5.8; Liu 1990:163
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:9a38:1::未之 / 論衡
+:CHARPOS: 1
+:END:
+*** 未之有@wèizhīyǒu
+:PROPERTIES:
+:CONCEPT: uuid-69a5cd2e-a7f9-4e55-a818-431017a69827 / NEVER
+:SYN-FUNC: uuid-0b1a7818-a052-45c1-9893-63c68107168e
+:CHARPOS: 1
+:END:
+未之有@wèizhīyǒu	[[tls:concept:NEVER::#uuid-69a5cd2e-a7f9-4e55-a818-431017a69827][NEVER]]	V [[tls:syn-func::#uuid-0b1a7818-a052-45c1-9893-63c68107168e][VP.postNPab{S}]] / there has never been such a person/course of events S者未之有也
+*** 有@yǒu
+:PROPERTIES:
+:CONCEPT: uuid-cf2d7893-a0bc-469d-a887-03435f53909f / HAPPEN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+有@yǒu	[[tls:concept:HAPPEN::#uuid-cf2d7893-a0bc-469d-a887-03435f53909f][HAPPEN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / have happened 有諸 "has this happened"
+** 猶蟣虱生於人也	he is like a nit or a lice born on a man.
+:PROPERTIES:
+:SRC: LH 15.6.1; Liu 1990:163
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:10a06:1::猶蟣 / 論衡
+:CHARPOS: 1
+:END:
+*** 〓#@ / 蝨@shī
+:PROPERTIES:
+:CONCEPT: uuid-99824017-1386-4655-9052-01829a69503b / FLEA
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+〓#@ / 蝨@shī	[[tls:concept:FLEA::#uuid-99824017-1386-4655-9052-01829a69503b][FLEA]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / flea
+*** 蟣@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-cdf5f12d-ead3-4846-97b4-0653521fbe59 / FLEA
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+蟣@jǐ	[[tls:concept:FLEA::#uuid-cdf5f12d-ead3-4846-97b4-0653521fbe59][FLEA]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / flea's eggs, louse egg
+** 夫婦也	are husband and wife.
+:PROPERTIES:
+:SRC: LH 15.6.2; Liu 1990:163
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:10a13:1::夫婦 / 論衡
+:CHARPOS: 1
+:END:
+*** 夫@fū
+:PROPERTIES:
+:CONCEPT: uuid-3fd88032-cc23-40f0-8582-1fca7b71e575 / HUSBAND
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+夫@fū	[[tls:concept:HUSBAND::#uuid-3fd88032-cc23-40f0-8582-1fca7b71e575][HUSBAND]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a husband in general;
+*** 婦@fù
+:PROPERTIES:
+:CONCEPT: uuid-5c01e554-335e-496a-bd54-87ae838db2f2 / WIFE
+:SYN-FUNC: uuid-3473071e-1407-4804-a185-2db288ee8726
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+婦@fù	[[tls:concept:WIFE::#uuid-5c01e554-335e-496a-bd54-87ae838db2f2][WIFE]]	N [[tls:syn-func::#uuid-3473071e-1407-4804-a185-2db288ee8726][nt]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a wife in general
+** 何所感吞	what did they swallow in their arousal?
+:PROPERTIES:
+:SRC: LH 15.6.4; Liu 1990:163
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:10a27:1::何所 / 論衡
+:CHARPOS: 1
+:END:
+*** 吞@tūn
+:PROPERTIES:
+:CONCEPT: uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c / SWALLOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+吞@tūn	[[tls:concept:SWALLOW::#uuid-fd835e39-2532-4a1e-8f87-c6945fcf840c][SWALLOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gulp down (of liquids); swallow (food, or even a pearl); be large enough to be able to swallow
+** 還反其字	we can return to the words.
+:PROPERTIES:
+:SRC: LH 15.7.2; Liu 1990:163
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:11a09:1::還反 / 論衡
+:CHARPOS: 1
+:END:
+*** 還反@huánfǎn
+:PROPERTIES:
+:CONCEPT: uuid-2e461654-f262-4826-affd-af64c29ec68d / RETURN
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 1
+:END:
+還反@huánfǎn	[[tls:concept:RETURN::#uuid-2e461654-f262-4826-affd-af64c29ec68d][RETURN]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / return to
+** 蒼頡作書	When Cāng Xié invented writing,
+:PROPERTIES:
+:SRC: LH 15.7.2; Liu 1990:163
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:11a10:50::蒼頡 / 論衡
+:CHARPOS: 50
+:END:
+*** 書@shū
+:PROPERTIES:
+:CONCEPT: uuid-85128af1-d991-4add-ac4d-f0d9a73417f4 / WRITE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed
+:CHARPOS: 53
+:END:
+書@shū	[[tls:concept:WRITE::#uuid-85128af1-d991-4add-ac4d-f0d9a73417f4][WRITE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-b33cc013-91e1-4f2b-a148-2b1709f499ed][method]]} / the art of writing; the writing system
+** 與事相連	he tied it to things and events.
+:PROPERTIES:
+:SRC: LH 15.7.2; Liu 1990:163
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:11a11:50::與事 / 論衡
+:CHARPOS: 50
+:END:
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-d99d3e1f-9cba-40ed-8e2a-dab27c6d55bb / WITH
+:SYN-FUNC: uuid-791e8318-17c4-4208-80ae-23343cad5f08
+:SEM-FEAT: uuid-7579a42d-5694-455f-917c-626d5918a255
+:CHARPOS: 50
+:END:
+與@yǔ	[[tls:concept:WITH::#uuid-d99d3e1f-9cba-40ed-8e2a-dab27c6d55bb][WITH]]	V [[tls:syn-func::#uuid-791e8318-17c4-4208-80ae-23343cad5f08][vtoNpro.adV]] {[[tls:sem-feat::#uuid-7579a42d-5694-455f-917c-626d5918a255][relational]]} / with
+** 姜原履大人跡	Jiāng Yuán walked on the giant's footprints.
+:PROPERTIES:
+:SRC: LH 15.7.2; Liu 1990:163
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:11a12:50::姜原 / 論衡
+:CHARPOS: 50
+:END:
+*** 大人@dàrén
+:PROPERTIES:
+:CONCEPT: uuid-63a8bd32-e2de-43b2-97bc-84466ab561a3 / GIANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 53
+:END:
+大人@dàrén	[[tls:concept:GIANT::#uuid-63a8bd32-e2de-43b2-97bc-84466ab561a3][GIANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / giant
+** 跡者基也	"Footprint" means "basis,"117
+:PROPERTIES:
+:SRC: LH 15.7.2; Liu 1990:163
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:11a13:50::跡者 / 論衡
+:CHARPOS: 50
+:END:
+*** 基@jī
+:PROPERTIES:
+:CONCEPT: uuid-e4560fe9-8087-40c4-adc4-1876e5911df0 / BASIS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 52
+:END:
+基@jī	[[tls:concept:BASIS::#uuid-e4560fe9-8087-40c4-adc4-1876e5911df0][BASIS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / basis, foundations (of the state etc)
+** 遭吞薏苡燕卵	they by chance swallowed pearl barley or a swallow's egg.
+:PROPERTIES:
+:SRC: LH 15.7.4; Liu 1990:164
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:11a29:1::遭吞 / 論衡
+:CHARPOS: 1
+:END:
+*** 遭@zāo
+:PROPERTIES:
+:CONCEPT: uuid-1ae25ef0-c050-4cbb-a852-0fced107cd2b / COINCIDENCE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+遭@zāo	[[tls:concept:COINCIDENCE::#uuid-1ae25ef0-c050-4cbb-a852-0fced107cd2b][COINCIDENCE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / by chance, as it happened
+** 因造禹契逆生之說	hence the tales invented for the breach births of Yǔ and Xiè
+:PROPERTIES:
+:SRC: LH 15.7.6; Liu 1990:164
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:12a05:1::因造 / 論衡
+:CHARPOS: 1
+:END:
+*** 造@zào
+:PROPERTIES:
+:CONCEPT: uuid-e7a8ae47-092e-4905-a2a9-12ad4aa34ca1 / CREATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+造@zào	[[tls:concept:CREATE::#uuid-e7a8ae47-092e-4905-a2a9-12ad4aa34ca1][CREATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / make up; fashion, create; invent QIMINYAOSHU 蔡倫立意造紙
+** 適欲懷妊	happened to feel desire and get pregnant,
+:PROPERTIES:
+:SRC: LH 15.7.7; Liu 1990:164
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:13a05:1::適欲 / 論衡
+:CHARPOS: 1
+:END:
+*** 適@shì
+:PROPERTIES:
+:CONCEPT: uuid-eca604f1-91e8-43ec-8889-75d61f7a328f / COINCIDENCE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+適@shì	[[tls:concept:COINCIDENCE::#uuid-eca604f1-91e8-43ec-8889-75d61f7a328f][COINCIDENCE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / as it turned out in the event; by some coincidence 士適出 "this officer happened to leave the house".
+*** 懷妊@huáirèn
+:PROPERTIES:
+:CONCEPT: uuid-ab808fe9-a700-434e-9d1d-e441c6d96371 / PREGNANT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 3
+:END:
+懷妊@huáirèn	[[tls:concept:PREGNANT::#uuid-ab808fe9-a700-434e-9d1d-e441c6d96371][PREGNANT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / get pregnant
+** 遭逢雷龍載雲雨而行	by chance they met a lightning dragon carrying clouds and rain in his wake.
+:PROPERTIES:
+:SRC: LH 15.7.7; Liu 1990:164
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:13a06:50::遭逢 / 論衡
+:CHARPOS: 50
+:END:
+*** 遭逢@zāoféng
+:PROPERTIES:
+:CONCEPT: uuid-72760f9c-8830-454a-befa-73376ea15315 / ENCOUNTER
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 50
+:END:
+遭逢@zāoféng	[[tls:concept:ENCOUNTER::#uuid-72760f9c-8830-454a-befa-73376ea15315][ENCOUNTER]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / encounter in some way or other
+** 吉祥之瑞	it was an auspicious omen
+:PROPERTIES:
+:SRC: LH 15.7.9; Liu 1990:164
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:13a20:1::吉祥 / 論衡
+:CHARPOS: 1
+:END:
+*** 吉祥@jíxiáng
+:PROPERTIES:
+:CONCEPT: uuid-20e0f96e-aee5-4a9f-8dd8-d3e4ed483bca / LUCK
+:SYN-FUNC: uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9
+:CHARPOS: 1
+:END:
+吉祥@jíxiáng	[[tls:concept:LUCK::#uuid-20e0f96e-aee5-4a9f-8dd8-d3e4ed483bca][LUCK]]	V [[tls:syn-func::#uuid-18dc1abc-4214-4b4b-b07f-8f25ebe5ece9][VPadN]] / lucky, auspicious
+*** 瑞@ruì
+:PROPERTIES:
+:CONCEPT: uuid-f935a755-d088-4389-a62d-635f5369a327 / INSIGNIA
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 4
+:END:
+瑞@ruì	[[tls:concept:INSIGNIA::#uuid-f935a755-d088-4389-a62d-635f5369a327][INSIGNIA]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / sign of dignity; auspicious sign
+** 奇鳥吉物之為瑞應	that the marvelous birds and lucky things become auspicious signs.
+:PROPERTIES:
+:SRC: LH 15.7.10; Liu 1990:164
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:13a26:1::奇鳥 / 論衡
+:CHARPOS: 1
+:END:
+*** 瑞@ruì
+:PROPERTIES:
+:CONCEPT: uuid-676df068-cbfa-4f9c-8673-2c9ec28e7537 / AUSPICIOUS
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 7
+:END:
+瑞@ruì	[[tls:concept:AUSPICIOUS::#uuid-676df068-cbfa-4f9c-8673-2c9ec28e7537][AUSPICIOUS]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / CC, fengyou: auspicious and magic (chart); LIJI 6.72f: auspicious insignia of ran This is very close to xiáng 祥, but more elevated in style and tends to be used nominally.
+** 其母皆帝嚳之妃也	their mothers were consorts of Dìkù.
+:PROPERTIES:
+:SRC: LH 15.8.1; Liu 1990:165
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:14a05:1::其母 / 論衡
+:CHARPOS: 1
+:END:
+*** 妃@fēi
+:PROPERTIES:
+:CONCEPT: uuid-ce1524fb-cf0c-4460-b3c8-2bbe97f106c0 / CONCUBINE
+:SYN-FUNC: uuid-3473071e-1407-4804-a185-2db288ee8726
+:CHARPOS: 7
+:END:
+妃@fēi	[[tls:concept:CONCUBINE::#uuid-ce1524fb-cf0c-4460-b3c8-2bbe97f106c0][CONCUBINE]]	N [[tls:syn-func::#uuid-3473071e-1407-4804-a185-2db288ee8726][nt]] / imperial female companion
+** 帝王之妃	Why did the consorts of lords and kings
+:PROPERTIES:
+:SRC: LH 15.8.2; Liu 1990:165
+:DATE: 6120	middle Eastern Han
+:LOCATION: KR3j0080_015:14a11:1::帝王 / 論衡
+:CHARPOS: 1
+:END:
+*** 妃@fēi
+:PROPERTIES:
+:CONCEPT: uuid-ce1524fb-cf0c-4460-b3c8-2bbe97f106c0 / CONCUBINE
+:SYN-FUNC: uuid-3473071e-1407-4804-a185-2db288ee8726
+:CHARPOS: 4
+:END:
+妃@fēi	[[tls:concept:CONCUBINE::#uuid-ce1524fb-cf0c-4460-b3c8-2bbe97f106c0][CONCUBINE]]	N [[tls:syn-func::#uuid-3473071e-1407-4804-a185-2db288ee8726][nt]] / imperial female companion

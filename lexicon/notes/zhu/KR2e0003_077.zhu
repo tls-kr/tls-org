@@ -1,0 +1,177 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_077
+#+DATE: 2017-02-08T16:41:17+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 弗聞也	'I have heard nothing.'
+:PROPERTIES:
+:SRC: ZGC 5.3.1; tr. Crump 1979 no. 64, p 73, ed. Shanghaiguji p. 172 What is said in the east
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_077:1a04:1::「弗 / 戰國策
+:CHARPOS: 1
+:END:
+*** 弗@fú
+:PROPERTIES:
+:CONCEPT: uuid-d0ca0a35-62b1-41dc-8574-399ac4ed9fb5 / NOT
+:SYN-FUNC: uuid-c1df882b-f314-4c7e-bf6d-fac302c88017
+:SEM-FEAT: uuid-1e7c0f54-9909-4265-b68b-c4b8f3a6d9b7
+:CHARPOS: 1
+:END:
+弗@fú	[[tls:concept:NOT::#uuid-d0ca0a35-62b1-41dc-8574-399ac4ed9fb5][NOT]]	V [[tls:syn-func::#uuid-c1df882b-f314-4c7e-bf6d-fac302c88017][vt{NEG}+.Vt(oN)]] {[[tls:sem-feat::#uuid-1e7c0f54-9909-4265-b68b-c4b8f3a6d9b7][unable]]} / could not, cannot, fail to; be unable to
+** 載主契國以與王約	to convey to you our ruler's pledges and treaties of alliance
+:PROPERTIES:
+:SRC: ZGC 5.3.1; tr. Crump 1979 no. 64, p 73, ed. Shanghaiguji p. 172 What is said in the east
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_077:1a12:1::載主 / 戰國策
+:CHARPOS: 1
+:END:
+*** 約@yuē
+:PROPERTIES:
+:CONCEPT: uuid-2551e0b6-10be-4131-9e08-73d81fdcca14 / CONTRACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 8
+:END:
+約@yuē	[[tls:concept:CONTRACT::#uuid-2551e0b6-10be-4131-9e08-73d81fdcca14][CONTRACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / contract, formal agreement
+** 若有敗之者	Should anyone attempt to subvert this alliance
+:PROPERTIES:
+:SRC: ZGC 5.3.1; tr. Crump 1979 no. 64, p 73, ed. Shanghaiguji p. 172 What is said in the east
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_077:1a14:1::若有 / 戰國策
+:CHARPOS: 1
+:END:
+*** 敗@bài
+:PROPERTIES:
+:CONCEPT: uuid-a1cd3e85-83e7-4e3e-8b5d-b595ffd8bda2 / OFFEND
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+敗@bài	[[tls:concept:OFFEND::#uuid-a1cd3e85-83e7-4e3e-8b5d-b595ffd8bda2][OFFEND]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / transferred: offend against, fly in the face of (teachings etc)
+** 臣請挈領	we wish only to be allowed to cut his throat.132
+:PROPERTIES:
+:SRC: ZGC 5.3.1; tr. Crump 1979 no. 64, p 73, ed. Shanghaiguji p. 172 What is said in the east
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_077:1a15:50::臣請 / 戰國策
+:CHARPOS: 50
+:END:
+*** 契@qì / 挈@qiè
+:PROPERTIES:
+:CONCEPT: uuid-94cef9d1-b72a-4f90-9284-8ad48b375424 / CUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+契@qì / 挈@qiè	[[tls:concept:CUT::#uuid-94cef9d1-b72a-4f90-9284-8ad48b375424][CUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cut into
+** 然而臣有患也	There is, however, one thing which we would be bothered by:133
+:PROPERTIES:
+:SRC: ZGC 5.3.2; tr. Crump 1979 no. 64, p 73, ed. Shanghaiguji p. 172
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_077:1a16:50::然而 / 戰國策
+:CHARPOS: 50
+:END:
+*** 然而@ránér
+:PROPERTIES:
+:CONCEPT: uuid-38122fd6-3ed2-47f5-b484-dab032a8c81b / NONETHELESS
+:SYN-FUNC: uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3
+:CHARPOS: 50
+:END:
+然而@ránér	[[tls:concept:NONETHELESS::#uuid-38122fd6-3ed2-47f5-b484-dab032a8c81b][NONETHELESS]]	P [[tls:syn-func::#uuid-7421ec68-6311-4d1d-8c4e-45953c708ec3][PPadS1.postS2]] / however
+** 夫楚王之以其臣請挈領然	
+:PROPERTIES:
+:SRC: ZGC 5.3.2; tr. Crump 1979 no. 64, p 73, ed. Shanghaiguji p. 172
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_077:1a17:50::夫楚 / 戰國策
+:CHARPOS: 50
+:END:
+*** 契@qì / 挈@qiè
+:PROPERTIES:
+:CONCEPT: uuid-94cef9d1-b72a-4f90-9284-8ad48b375424 / CUT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+契@qì / 挈@qiè	[[tls:concept:CUT::#uuid-94cef9d1-b72a-4f90-9284-8ad48b375424][CUT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cut into
+** 以其國依冉也	put his state at Jan's disposal
+:PROPERTIES:
+:SRC: ZGC 5.3.2; tr. Crump 1979 no. 64, p 73, ed. Shanghaiguji p. 172
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_077:1a18:5::以其 / 戰國策
+:CHARPOS: 5
+:END:
+*** 依@yī
+:PROPERTIES:
+:CONCEPT: uuid-52c3cf1a-b8c5-4ad7-aaa8-d4383d0c03de / RELY ON
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 8
+:END:
+依@yī	[[tls:concept:RELY ON::#uuid-52c3cf1a-b8c5-4ad7-aaa8-d4383d0c03de][RELY ON]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / depend on; rely on; rely on for sustenance or supportBUDDH: take refuge in (Buddha, dharma, sangha, etc.)
+** 此臣之甚患也	we would all think very ill of it."
+:PROPERTIES:
+:SRC: ZGC 5.3.2; tr. Crump 1979 no. 64, p 73, ed. Shanghaiguji p. 172
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_077:1a20:1::此臣 / 戰國策
+:CHARPOS: 1
+:END:
+*** 甚@shèn
+:PROPERTIES:
+:CONCEPT: uuid-f26a2d1f-e2cd-4816-9560-4a17afd2a392 / INTENSELY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 4
+:END:
+甚@shèn	[[tls:concept:INTENSELY::#uuid-f26a2d1f-e2cd-4816-9560-4a17afd2a392][INTENSELY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / 必有甚惡"extreme wickedness"
+*** 患@huàn
+:PROPERTIES:
+:CONCEPT: uuid-67b42efe-6f46-4344-8b65-8e81f2d233de / WORRY
+:SYN-FUNC: uuid-3089d27c-a8a0-4ba1-a3ae-5cd513e4f523
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 5
+:END:
+患@huàn	[[tls:concept:WORRY::#uuid-67b42efe-6f46-4344-8b65-8e81f2d233de][WORRY]]	N [[tls:syn-func::#uuid-3089d27c-a8a0-4ba1-a3ae-5cd513e4f523][nab.t:post-N]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / the serious or upsetting concern constituted by N
+** 公不如反公國	'It would be far better if you were to return your fief [of T'ao?]
+:PROPERTIES:
+:SRC: ZGC 5.3.3; tr. Crump 1979 no. 64, p 73, ed. Shanghaiguji p. 172
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_077:1a24:1::公不 / 戰國策
+:CHARPOS: 1
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 1
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / honorific in informal conversation: you; also n - pro: "you my Duke"; used both as subject and as object
+*** 不如@bùrú
+:PROPERTIES:
+:CONCEPT: uuid-ed405fc1-db4d-40a2-a803-fc30e4f70633 / SHOULD
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 2
+:END:
+不如@bùrú	[[tls:concept:SHOULD::#uuid-ed405fc1-db4d-40a2-a803-fc30e4f70633][SHOULD]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / had better, should ideally, should under the circumstances, should given the alternatives that the situation presents
+** 請以號三國以自信也	and ask for it for them so that they will trust you.
+:PROPERTIES:
+:SRC: ZGC 5.3.3; tr. Crump 1979 no. 64, p 73, ed. Shanghaiguji p. 172
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_077:1a27:1::請以 / 戰國策
+:CHARPOS: 1
+:END:
+*** 自@zì
+:PROPERTIES:
+:CONCEPT: uuid-052cf328-8996-40ae-bfa3-c241fc185fac / SELF
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:SEM-FEAT: uuid-7a08b82a-30f9-4324-aef3-1c7745875be6
+:CHARPOS: 7
+:END:
+自@zì	[[tls:concept:SELF::#uuid-052cf328-8996-40ae-bfa3-c241fc185fac][SELF]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] {[[tls:sem-feat::#uuid-7a08b82a-30f9-4324-aef3-1c7745875be6][reference=higher subject]]} / 自輔 "help one" NOT: "help oneself"
+** 而公請之以自重也	and seek it from him on their behalf to show that you think them important.'
+:PROPERTIES:
+:SRC: ZGC 5.3.3; tr. Crump 1979 no. 64, p 73, ed. Shanghaiguji p. 172
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_077:1a28:1::而公 / 戰國策
+:CHARPOS: 1
+:END:
+*** 重@zhòng
+:PROPERTIES:
+:CONCEPT: uuid-968745e1-52e6-4d66-a84f-d68a721306f3 / IMPORTANT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 7
+:END:
+重@zhòng	[[tls:concept:IMPORTANT::#uuid-968745e1-52e6-4d66-a84f-d68a721306f3][IMPORTANT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause (oneself) to be (more) important

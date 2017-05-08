@@ -1,0 +1,134 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_017
+#+DATE: 2017-02-08T16:41:09+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 齊聽祝弗	Ch'i heeded Chu Fu
+:PROPERTIES:
+:SRC: ZGC 1.17.1; tr. Crump 1979 no. 39, p. 49 The king of Ch'i warned of the disadvantages of being Ch'in's ally
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_017:1a01:50::齊聽 / 戰國策
+:CHARPOS: 50
+:END:
+*** 聽@tīng
+:PROPERTIES:
+:CONCEPT: uuid-25aaca38-1541-4516-a098-40d40949f6d6 / CONFORM
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+聽@tīng	[[tls:concept:CONFORM::#uuid-25aaca38-1541-4516-a098-40d40949f6d6][CONFORM]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / concur with; be agreeable to; heed, follow the advice of; Danish: ta til efterretning; lend an ear to
+** 外周最	and cast out Chou Tsui.25
+:PROPERTIES:
+:SRC: ZGC 1.17.1; tr. Crump 1979 no. 39, p. 49 The king of Ch'i warned of the disadvantages of being Ch'in's ally
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_017:1a02:50::外周 / 戰國策
+:CHARPOS: 50
+:END:
+*** 外@wài
+:PROPERTIES:
+:CONCEPT: uuid-9f3d3f7f-f9ce-49b9-8c20-ff58cb66fd92 / BANISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+外@wài	[[tls:concept:BANISH::#uuid-9f3d3f7f-f9ce-49b9-8c20-ff58cb66fd92][BANISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / banish
+** 逐周最	and making Ly Li your minister
+:PROPERTIES:
+:SRC: ZGC 1.17.1; tr. Crump 1979 no. 39, p. 49 The king of Ch'i warned of the disadvantages of being Ch'in's ally
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_017:1a04:1::「逐 / 戰國策
+:CHARPOS: 1
+:END:
+*** 逐@zhú
+:PROPERTIES:
+:CONCEPT: uuid-7ac4cec0-7cf5-4bbc-9b0e-f002f98888b3 / BANISH
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+逐@zhú	[[tls:concept:BANISH::#uuid-7ac4cec0-7cf5-4bbc-9b0e-f002f98888b3][BANISH]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / chase away, drive away; banish from one's presence; oust (a ruler etc)
+** 欲深取秦也	said someone to the king of Ch'i.
+:PROPERTIES:
+:SRC: ZGC 1.17.1; tr. Crump 1979 no. 39, p. 49 The king of Ch'i warned of the disadvantages of being Ch'in's ally
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_017:1a07:1::欲深 / 戰國策
+:CHARPOS: 1
+:END:
+*** 深@shèn / 深@shēn
+:PROPERTIES:
+:CONCEPT: uuid-372829f8-f6fd-4286-b073-a5516961c14e / INTENSELY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 2
+:END:
+深@shèn / 深@shēn	[[tls:concept:INTENSELY::#uuid-372829f8-f6fd-4286-b073-a5516961c14e][INTENSELY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / deeply, intensely
+*** 取@qǔ
+:PROPERTIES:
+:CONCEPT: uuid-4bcc151a-c1be-41bd-9472-42feef3f964d / WIN TRUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+取@qǔ	[[tls:concept:WIN TRUST::#uuid-4bcc151a-c1be-41bd-9472-42feef3f964d][WIN TRUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / win the allegiance of
+** 則趙恐伐	Chao will fear attack
+:PROPERTIES:
+:SRC: ZGC 1.17.2; tr. Crump 1979 no. 39, p. 49
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_017:1a11:1::則趙 / 戰國策
+:CHARPOS: 1
+:END:
+*** 恐@kǒng
+:PROPERTIES:
+:CONCEPT: uuid-a274177b-2bdd-4248-991c-de46f122c24d / FEAR
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:SEM-FEAT: uuid-d99ae971-35b1-48eb-8a45-a21dde414945
+:CHARPOS: 3
+:END:
+恐@kǒng	[[tls:concept:FEAR::#uuid-a274177b-2bdd-4248-991c-de46f122c24d][FEAR]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] {[[tls:sem-feat::#uuid-d99ae971-35b1-48eb-8a45-a21dde414945][V=passive]]} / fear to be V-ed, be afraid of being V-ed
+*** 伐@fá
+:PROPERTIES:
+:CONCEPT: uuid-821806af-955c-436d-bbef-40da79a386c4 / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 4
+:END:
+伐@fá	[[tls:concept:ATTACK::#uuid-821806af-955c-436d-bbef-40da79a386c4][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / 可伐　be attacked
+** 故急兵以示秦	and will muster her troops against Ch'i to give notice to Ch'in.
+:PROPERTIES:
+:SRC: ZGC 1.17.2; tr. Crump 1979 no. 39, p. 49
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_017:1a12:50::故急 / 戰國策
+:CHARPOS: 50
+:END:
+*** 急@jí
+:PROPERTIES:
+:CONCEPT: uuid-ee831b13-8f6f-4b46-903d-5033b989de71 / QUICK
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 51
+:END:
+急@jí	[[tls:concept:QUICK::#uuid-ee831b13-8f6f-4b46-903d-5033b989de71][QUICK]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / urgently, quickly
+*** 兵@bīng
+:PROPERTIES:
+:CONCEPT: uuid-6df702bc-4e58-48fd-9493-eb2a905a4c6c / WARFARE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 52
+:END:
+兵@bīng	[[tls:concept:WARFARE::#uuid-6df702bc-4e58-48fd-9493-eb2a905a4c6c][WARFARE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / mobilise one's armed forces
+*** 示@shì / 視@shì
+:PROPERTIES:
+:CONCEPT: uuid-ed628acf-3754-49e2-b785-008c21511f3e / SHOW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 54
+:END:
+示@shì / 視@shì	[[tls:concept:SHOW::#uuid-ed628acf-3754-49e2-b785-008c21511f3e][SHOW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / set an example for; give a sign to, put on notice; instruct
+** 即天下之理也	or directly court attack from the empire.'
+:PROPERTIES:
+:SRC: ZGC 1.17.2; tr. Crump 1979 no. 39, p. 49
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_017:1a17:1::即天 / 戰國策
+:CHARPOS: 1
+:END:
+*** 理@lǐ
+:PROPERTIES:
+:CONCEPT: uuid-7b2eb45c-778d-42b0-8b47-7adf52e2cb09 / PRINCIPLE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 5
+:END:
+理@lǐ	[[tls:concept:PRINCIPLE::#uuid-7b2eb45c-778d-42b0-8b47-7adf52e2cb09][PRINCIPLE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / pattern of things, natural principle; Principle; reasonable principle, reason

@@ -1,0 +1,217 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 山海經 KR3l0090_003
+#+DATE: 2017-02-08T16:43:36+0900
+#+PROPERTY: COMMIT fc50ab1d8fcdcd4778d75dfc264163a8a782c094
+** 其狀如禺而文身	which looks like an ape, but it has markings on its body.
+:PROPERTIES:
+:SRC: SHJ 3.1.10.1
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:10a06:1::其狀 / 山海經
+:CHARPOS: 1
+:END:
+*** 文@wén
+:PROPERTIES:
+:CONCEPT: uuid-d6b01add-670e-42a7-88f3-1e4d03579b2a / PATTERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 6
+:END:
+文@wén	[[tls:concept:PATTERN::#uuid-d6b01add-670e-42a7-88f3-1e4d03579b2a][PATTERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / have patterns on; have a pattern on 文身
+** 善笑	It is good at laughing.
+:PROPERTIES:
+:SRC: SHJ 3.1.10.1
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:10a07:50::善笑 / 山海經
+:CHARPOS: 50
+:END:
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-3cd3d6ec-2336-426a-bc2a-a6422e8257f5 / TENDENCY
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 50
+:END:
+善@shàn	[[tls:concept:TENDENCY::#uuid-3cd3d6ec-2336-426a-bc2a-a6422e8257f5][TENDENCY]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / be given to V-ing, be an enthusiastic V-er; be prone to V-ing
+*** 笑@xiào
+:PROPERTIES:
+:CONCEPT: uuid-88b001cf-3854-4bf5-9f26-72886127e0c6 / LAUGH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+笑@xiào	[[tls:concept:LAUGH::#uuid-88b001cf-3854-4bf5-9f26-72886127e0c6][LAUGH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / show laughing behaviour
+** 食之已風	If you eat them, they will cure madness.
+:PROPERTIES:
+:SRC: SHJ 3.1.11.2
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:11a14:1::食之 / 山海經
+:CHARPOS: 1
+:END:
+*** 已@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-55a2b3d0-6dfd-4779-8d14-638f77c879db / CURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CONCEPT: uuid-0abdd0a2-07a2-42aa-b2a8-1445740989d1 / MAD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 3
+:END:
+已@yǐ	[[tls:concept:CURE::#uuid-55a2b3d0-6dfd-4779-8d14-638f77c879db][CURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cure
+瘋@fēng / 風@fēng	[[tls:concept:MAD::#uuid-0abdd0a2-07a2-42aa-b2a8-1445740989d1][MAD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / insanity
+** 冬夏有雪	and it is covered in snow, winter and summer.
+:PROPERTIES:
+:SRC: SHJ 3.1.15
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:15a04:1::冬夏 / 山海經
+:CHARPOS: 1
+:END:
+*** 雪@xuě
+:PROPERTIES:
+:CONCEPT: uuid-34378808-f38d-4e47-837a-c8acd5fc050e / SNOW
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+雪@xuě	[[tls:concept:SNOW::#uuid-34378808-f38d-4e47-837a-c8acd5fc050e][SNOW]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / snow
+** 其鳥多鳲鳩	Its birds are mostly cuckoos.
+:PROPERTIES:
+:SRC: SHJ 3.1.17.1
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:17a11:1::其鳥 / 山海經
+:CHARPOS: 1
+:END:
+*** 尸鳩@shījiū / 鳲鳩@shījiū
+:PROPERTIES:
+:CONCEPT: uuid-d5e15865-00b2-4299-99a4-a7bd7f9e7259 / BIRDS
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 1
+:END:
+尸鳩@shījiū / 鳲鳩@shījiū	[[tls:concept:BIRDS::#uuid-d5e15865-00b2-4299-99a4-a7bd7f9e7259][BIRDS]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / cuckoo
+** 見人則笑	When its sees a human being, it laughs.
+:PROPERTIES:
+:SRC: SHJ 3.1.19.1
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:19a11:1::見人 / 山海經
+:CHARPOS: 1
+:END:
+*** 笑@xiào
+:PROPERTIES:
+:CONCEPT: uuid-88b001cf-3854-4bf5-9f26-72886127e0c6 / LAUGH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+笑@xiào	[[tls:concept:LAUGH::#uuid-88b001cf-3854-4bf5-9f26-72886127e0c6][LAUGH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / show laughing behaviour
+** 瘞而不糈	Do not use sacrificial grain;
+:PROPERTIES:
+:SRC: SHJ 3.1.26
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:26a08:1::瘞而 / 山海經
+:CHARPOS: 1
+:END:
+*** 瘞@yì
+:PROPERTIES:
+:CONCEPT: uuid-456a6a28-1b01-475d-9918-fd75a7fa69b7 / SACRIFICE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+瘞@yì	[[tls:concept:SACRIFICE::#uuid-456a6a28-1b01-475d-9918-fd75a7fa69b7][SACRIFICE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / bury sacrificial gifts to the deceased in a sacrificial act; conduct a sacrificial burial of gifts to the deceased
+** 冬夏有雪	summer and winter.
+:PROPERTIES:
+:SRC: SHJ 3.2.7
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:33a05:1::冬夏 / 山海經
+:CHARPOS: 1
+:END:
+*** 雪@xuě
+:PROPERTIES:
+:CONCEPT: uuid-34378808-f38d-4e47-837a-c8acd5fc050e / SNOW
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+雪@xuě	[[tls:concept:SNOW::#uuid-34378808-f38d-4e47-837a-c8acd5fc050e][SNOW]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / snow
+** 冬夏有雪	has snow winter and summer.
+:PROPERTIES:
+:SRC: SHJ 3.2.13
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:39a04:1::冬夏 / 山海經
+:CHARPOS: 1
+:END:
+*** 雪@xuě
+:PROPERTIES:
+:CONCEPT: uuid-34378808-f38d-4e47-837a-c8acd5fc050e / SNOW
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+雪@xuě	[[tls:concept:SNOW::#uuid-34378808-f38d-4e47-837a-c8acd5fc050e][SNOW]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / snow
+** 毛用一雄雞彘瘞	usse animals of the same colour; use a male chicken and a pig, and then bury them
+:PROPERTIES:
+:SRC: SHJ 3.2.17.1
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:43a06:1::毛用 / 山海經
+:CHARPOS: 1
+:END:
+*** 瘞@yì
+:PROPERTIES:
+:CONCEPT: uuid-456a6a28-1b01-475d-9918-fd75a7fa69b7 / SACRIFICE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 7
+:END:
+瘞@yì	[[tls:concept:SACRIFICE::#uuid-456a6a28-1b01-475d-9918-fd75a7fa69b7][SACRIFICE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / bury sacrificial gifts to the deceased in a sacrificial act; conduct a sacrificial burial of gifts to the deceased
+** 投而不糈	and then throw them [?at the mountain]; do not use sacrificial grain.
+:PROPERTIES:
+:SRC: SHJ 3.2.17.1
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:43a08:1::投而 / 山海經
+:CHARPOS: 1
+:END:
+*** 糈@xǔ
+:PROPERTIES:
+:CONCEPT: uuid-db11c3b1-da3e-4c07-85a7-723382b37843 / RICE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+糈@xǔ	[[tls:concept:RICE::#uuid-db11c3b1-da3e-4c07-85a7-723382b37843][RICE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / use rice (in sacrificing)
+** 其狀如勾瞿	which look like a curved lance.
+:PROPERTIES:
+:SRC: SHJ 3.3.6,1
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:49a06:4::其狀 / 山海經
+:CHARPOS: 4
+:END:
+*** 〓#句@jù / 句@gōu
+:PROPERTIES:
+:CONCEPT: uuid-2344526e-b929-4236-8830-7e4d44b21b50 / CURVED
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 4
+:END:
+〓#句@jù / 句@gōu	[[tls:concept:CURVED::#uuid-2344526e-b929-4236-8830-7e4d44b21b50][CURVED]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / curved ??
+** 食之不妬	If you eat it you will not feel jealous.
+:PROPERTIES:
+:SRC: SHJ 3.3.18
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:61a09:1::食之 / 山海經
+:CHARPOS: 1
+:END:
+*** 〓#妒@dù
+:PROPERTIES:
+:CONCEPT: uuid-dc10e929-bf72-4547-bc06-52e5d87eea9d / JEALOUS
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 1
+:END:
+〓#妒@dù	[[tls:concept:JEALOUS::#uuid-dc10e929-bf72-4547-bc06-52e5d87eea9d][JEALOUS]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / be jealous, be given to jealousy
+** 冬夏有雪	and it has snow winter and summer.
+:PROPERTIES:
+:SRC: SHJ 3.3.33
+:DATE: 6230	early Western Han
+:LOCATION: KR3l0090_003:76a03:1::冬夏 / 山海經
+:CHARPOS: 1
+:END:
+*** 雪@xuě
+:PROPERTIES:
+:CONCEPT: uuid-34378808-f38d-4e47-837a-c8acd5fc050e / SNOW
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+雪@xuě	[[tls:concept:SNOW::#uuid-34378808-f38d-4e47-837a-c8acd5fc050e][SNOW]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / snow

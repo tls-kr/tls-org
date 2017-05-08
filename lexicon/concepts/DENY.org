@@ -1,0 +1,129 @@
+# -*- mode: mandoku-tls-view -*-
+#+TITLE: DENY
+#+DATE: 2017-03-18T10:35:30.668+09:00        
+#+STARTUP: content
+* =CONCEPT= DENY
+:PROPERTIES:
+:CUSTOM_ID: uuid-dd3de4ff-729c-487d-b762-f32b60f7cc45
+:SYNONYM+:  CONTRADICT
+:SYNONYM+:  CONTROVERT
+:SYNONYM+:  REPUDIATE
+:SYNONYM+:  CHALLENGE
+:SYNONYM+:  COUNTER
+:SYNONYM+:  CONTEST
+:SYNONYM+:  OPPOSE
+:SYNONYM+:  REBUT
+:SYNONYM+:  INFORMAL POKE HOLES IN
+:SYNONYM+:  FORMAL GAINSAY
+:TR_ZH: 否定
+:TR_OCH: 非
+:END:
+** DEFINITION
+
+SPEAK:say that something that has been SAID is UNTRUE.
+
+** NOTES
+
+*** Old Chinese Criteria
+1. There are no common words for denial in pre-Buddhist Chinese. Fēi 非 has declarative transitive uses, I think, but I have not yet identified a clear relevant example.
+
+*** Modern Chinese Criteria
+否定 is the current modern word for denial.
+
+否決 is to make or pass a decision against something.
+
+rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／
+
+** POINTERS
+*** TAXONOMY
+ - [[tls:concept:ATHEISM][ATHEISM]]
+
+*** ANTONYMY
+ - [[tls:concept:ADMIT][ADMIT]]
+
+*** KIND OF
+ - [[tls:concept:SPEAK][SPEAK]]
+
+** SOURCE REFERENCES
+*** BUCK 1988
+ - [[cite:BUCK-1988][BUCK(1988), A Dictionary of Selected Synonyms in the Principal Indo-European Languages]], p.18.34
+
+*** COMENIUS 1665
+ - [[cite:COMENIUS-1665][Komensky(1966), De Rerum Humanarum Emendatione]], p.495
+
+
+CONTRADICERE aliqvid ab aliqvo affirmatum negare, aut contra. hoc ut sit legitimum opus est 1. rem aliter scire. 2. certo scire. 3.Scire usum contraditionis.
+
+Detailed analysis
+
+*** SCHMIDT 1889
+ - [[cite:SCHMIDT-1889][Schmidt(1889), Handbuch der lateinischen und griechischen Synonymik]], p.18
+
+*** T.W.HARBSMEIER 2004
+ - [[cite:T.W.HARBSMEIER-2004][Harbsmeier(2004), A New Dictionary of Classical Greek Synonyms]], p.NO. 95
+
+** WORDS
+   :PROPERTIES:
+   :VISIBILITY: children
+   :END:
+*** 否 fǒu (OC:pɯʔ MC:pɨu )
+:PROPERTIES:
+:CUSTOM_ID: uuid-d225e9f3-ee38-45a4-8543-a9f16e69de6e
+:Char+: 否(30,4/7) 
+:GY_IDS+: uuid-593b35c8-0d25-40a3-b95c-1996fa0e9e42
+:PY+: fǒu     
+:OC+: pɯʔ     
+:MC+: pɨu     
+:END: 
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / deny
+:PROPERTIES:
+:CUSTOM_ID: uuid-e53c5cff-7fae-44a4-9044-fe3aa29bb07a
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+deny
+
+****** NOTES
+
+*** 非 fēi (OC:pɯl MC:pɨi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-33dc37b2-3202-4f9f-a623-8baa2fbfcdc1
+:Char+: 非(175,0/8) 
+:GY_IDS+: uuid-00e22256-d177-459e-bd67-efa461a8d045
+:PY+: fēi     
+:OC+: pɯl     
+:MC+: pɨi     
+:END: 
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / consider as wrong, gainsay
+:PROPERTIES:
+:CUSTOM_ID: uuid-96b9e047-ef1e-44a3-9113-9cf9243e0e69
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+consider as wrong, gainsay
+
+****** NOTES
+
+*** 食 shí (OC:ɢljɯɡ MC:ʑɨk )
+:PROPERTIES:
+:CUSTOM_ID: uuid-de67c01e-7133-41f4-bca9-cd9e2fd1cdc2
+:Char+: 食(184,0/9) 
+:GY_IDS+: uuid-fb91d199-ddfe-4744-88c7-2e61e96d9913
+:PY+: shí     
+:OC+: ɢljɯɡ     
+:MC+: ʑɨk     
+:END: 
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / deny 食言 "deny one's earlier statements"
+:PROPERTIES:
+:CUSTOM_ID: uuid-c5dfaa84-5750-4451-83aa-721150d56e64
+:END:
+****** DEFINITION
+
+deny 食言 "deny one's earlier statements"
+
+****** NOTES
+
+** BIBLIOGRAPHY
+bibliography:../core/tlsbib.bib

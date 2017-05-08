@@ -1,0 +1,496 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 禮記 KR1d0052_046
+#+DATE: 2017-02-08T16:36:21+0900
+#+PROPERTY: COMMIT 80f2c4e24b704dab8fc914c7321071a25655cd47
+** 盥洗揚觶	(The host) washes his hands, rinses the cup, and raises it,
+:PROPERTIES:
+:SRC: LIJI 45.01.01; Couvreur 2.652f; Su1n Xïda4n 14.25; Jia1ng Yi4hua2 897; Yi4 Shu1 46:75.4a; tr. Legge 2.435;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:1a06:1::盥、 / 禮記
+:CHARPOS: 1
+:END:
+*** 盥@guàn
+:PROPERTIES:
+:CONCEPT: uuid-60c36f86-d832-4538-a1e0-fda2a18cfa43 / BATHE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+盥@guàn	[[tls:concept:BATHE::#uuid-60c36f86-d832-4538-a1e0-fda2a18cfa43][BATHE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wash one's hands
+*** 洗@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-b74ac867-4878-4842-8842-742ee307b295 / WASH
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CONCEPT: uuid-c6d1d80b-af24-4008-a47a-071cea12ed93 / CUP
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+洗@xǐ	[[tls:concept:WASH::#uuid-b74ac867-4878-4842-8842-742ee307b295][WASH]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / wash something contextually determinate; often specifically: wash the ceremonial cup
+卮@zhī / 觶@zhī / 治@zhì	[[tls:concept:CUP::#uuid-c6d1d80b-af24-4008-a47a-071cea12ed93][CUP]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / magnificently decorated very large bronze or earthenware, sometimes even wooden wine beaker with round base (is illustrated CD 10.1385);
+** 拜洗	they bow as (the cup) is washed;
+:PROPERTIES:
+:SRC: LIJI 45.01.02; Couvreur 2.652f; Su1n Xïda4n 14.25; Jia1ng Yi4hua2 897; Yi4 Shu1 46:75.4a; tr. Legge 2.435;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:1a10:1::拜洗 / 禮記
+:CHARPOS: 1
+:END:
+*** 洗@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-b74ac867-4878-4842-8842-742ee307b295 / WASH
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 2
+:END:
+洗@xǐ	[[tls:concept:WASH::#uuid-b74ac867-4878-4842-8842-742ee307b295][WASH]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / wash something contextually determinate; often specifically: wash the ceremonial cup
+** 斯君子所以免於人禍也	It was thus that superior men escaped suffering calamity from other men;
+:PROPERTIES:
+:SRC: LIJI 45.01.03; Couvreur 2.652f; Su1n Xïda4n 14.25; Jia1ng Yi4hua2 897; Yi4 Shu1 46:75.6b; tr. Legge 2.435;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:1a25:1::斯君 / 禮記
+:CHARPOS: 1
+:END:
+*** 斯@sī
+:PROPERTIES:
+:CONCEPT: uuid-f7acfcd1-30cb-450a-b634-5dce88296fce / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-20e72b12-d3da-4d93-82a7-4d85d052a415
+:CHARPOS: 1
+:END:
+斯@sī	[[tls:concept:THIS::#uuid-f7acfcd1-30cb-450a-b634-5dce88296fce][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-20e72b12-d3da-4d93-82a7-4d85d052a415][abstract]]} / this abstract thing; this event; this course of action; this point
+** 46.2鄉人士君子	3. The chief of the district with the accomplished and virtuous men belonging to it
+:PROPERTIES:
+:SRC: LIJI 45.01.04; Couvreur 2.654f; Su1n Xïda4n 14.25; Jia1ng Yi4hua2 898; Yi4 Shu1 46:75.7b; tr. Legge 2.436;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:2a01:1::46 / 禮記
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 8
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the gentlemen (of a certain time or place) 其君子
+** 尊於房中之間	had the vessel of liquor placed between the room (on the east),and the door (leading to the apartments on the west),
+:PROPERTIES:
+:SRC: LIJI 45.01.04; Couvreur 2.654f; Su1n Xïda4n 14.25; Jia1ng Yi4hua2 898; Yi4 Shu1 46:75.7b; tr. Legge 2.436;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:2a03:50::尊於 / 禮記
+:CHARPOS: 50
+:END:
+*** 戶@hù
+:PROPERTIES:
+:CONCEPT: uuid-01770e78-1010-4890-b281-3c69745c1aec / DOOR
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+戶@hù	[[tls:concept:DOOR::#uuid-01770e78-1010-4890-b281-3c69745c1aec][DOOR]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / one-wing door leading to a room; simple, ordinary door HF 入室閉戶 HF 蓬戶
+** 尊有玄酒	The vessel contained the dark-coloured liquor (of pure water);
+:PROPERTIES:
+:SRC: LIJI 45.01.04; Couvreur 2.654f; Su1n Xïda4n 14.25; Jia1ng Yi4hua2 898; Yi4 Shu1 46:75.7b; tr. Legge 2.436;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:2a05:1::尊有 / 禮記
+:CHARPOS: 1
+:END:
+*** 玄@xuán
+:PROPERTIES:
+:CONCEPT: uuid-4f7049ba-1d37-411d-b0ab-5452f01290e0 / BLACK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+玄@xuán	[[tls:concept:BLACK::#uuid-4f7049ba-1d37-411d-b0ab-5452f01290e0][BLACK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / reddish dark; generally: dark
+** 羞出自東房	The viands came forth from the room on the east;
+:PROPERTIES:
+:SRC: LIJI 45.01.04; Couvreur 2.654f; Su1n Xïda4n 14.25; Jia1ng Yi4hua2 898; Yi4 Shu1 46:75.7b; tr. Legge 2.436;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:2a07:1::羞出 / 禮記
+:CHARPOS: 1
+:END:
+*** 房@fáng
+:PROPERTIES:
+:CONCEPT: uuid-609bf70c-b0e4-4a43-a1ee-63033c144d3b / ROOM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+房@fáng	[[tls:concept:ROOM::#uuid-609bf70c-b0e4-4a43-a1ee-63033c144d3b][ROOM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / non-main roomBUDDH: cell
+** 洗當東榮	All washing took place (in the courtyard) opposite the eastern wing;
+:PROPERTIES:
+:SRC: LIJI 45.01.04; Couvreur 2.654f; Su1n Xïda4n 14.25; Jia1ng Yi4hua2 898; Yi4 Shu1 46:75.7b; tr. Legge 2.436;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:2a09:1::洗當 / 禮記
+:CHARPOS: 1
+:END:
+*** 洗@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-b74ac867-4878-4842-8842-742ee307b295 / WASH
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 1
+:END:
+洗@xǐ	[[tls:concept:WASH::#uuid-b74ac867-4878-4842-8842-742ee307b295][WASH]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / wash something contextually determinate; often specifically: wash the ceremonial cup
+** 主人之所以自絜	- showing how the host purified himself
+:PROPERTIES:
+:SRC: LIJI 45.01.04; Couvreur 2.654f; Su1n Xïda4n 14.25; Jia1ng Yi4hua2 898; Yi4 Shu1 46:75.7b; tr. Legge 2.436;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:2a10:50::主人 / 禮記
+:CHARPOS: 50
+:END:
+*** 潔@jié / 絜@jié / @
+:PROPERTIES:
+:CONCEPT: uuid-3b0773bc-0359-4fff-bb74-410a3784adb4 / PURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 50
+:END:
+潔@jié / 絜@jié / @	[[tls:concept:PURE::#uuid-3b0773bc-0359-4fff-bb74-410a3784adb4][PURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / purify (oneself)
+** 46.3賓主象天地也	4. The (principal) guest and the host represented heaven and earth;
+:PROPERTIES:
+:SRC: LIJI 45.01.05; Couvreur 2.655; Su1n Xïda4n 14.26; Jia1ng Yi4hua2 899; Yi4 Shu1 46:75.10a; tr. Legge 2.436;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:3a01:1::46 / 禮記
+:CHARPOS: 1
+:END:
+*** 象@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-98395e47-788e-4d99-bcea-f4111ca75d03 / SYMBOL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 7
+:END:
+象@xiàng	[[tls:concept:SYMBOL::#uuid-98395e47-788e-4d99-bcea-f4111ca75d03][SYMBOL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / be symbolically linked with; symbolise, represent; symbolise cosmologically
+** 介僎象陰陽也	the attendants of the guest and host respectively represented the forces inherent in nature in their contracting and expanding operations;
+:PROPERTIES:
+:SRC: LIJI 45.01.05; Couvreur 2.655; Su1n Xïda4n 14.26; Jia1ng Yi4hua2 899; Yi4 Shu1 46:75.10a; tr. Legge 2.436;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:3a02:50::介、 / 禮記
+:CHARPOS: 50
+:END:
+*** 象@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-98395e47-788e-4d99-bcea-f4111ca75d03 / SYMBOL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+象@xiàng	[[tls:concept:SYMBOL::#uuid-98395e47-788e-4d99-bcea-f4111ca75d03][SYMBOL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / be symbolically linked with; symbolise, represent; symbolise cosmologically
+** 三賓象三光也	the three (heads of the) guests (in their threefold division) represented the three (great) luminaries;
+:PROPERTIES:
+:SRC: LIJI 45.01.05; Couvreur 2.655; Su1n Xïda4n 14.26; Jia1ng Yi4hua2 899; Yi4 Shu1 46:75.10a; tr. Legge 2.436;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:3a03:50::三賓 / 禮記
+:CHARPOS: 50
+:END:
+*** 象@xiàng
+:PROPERTIES:
+:CONCEPT: uuid-98395e47-788e-4d99-bcea-f4111ca75d03 / SYMBOL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+象@xiàng	[[tls:concept:SYMBOL::#uuid-98395e47-788e-4d99-bcea-f4111ca75d03][SYMBOL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / be symbolically linked with; symbolise, represent; symbolise cosmologically
+** 始於西南	begins in the south-west
+:PROPERTIES:
+:SRC: LIJI 45.01.06; Couvreur 2.656f; Su1n Xïda4n 14.27; Jia1ng Yi4hua2 899; Yi4 Shu1 46:75.13b; tr. Legge 2.437;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:3a09:1::始於 / 禮記
+:CHARPOS: 1
+:END:
+*** 西南@xīnán
+:PROPERTIES:
+:CONCEPT: uuid-bdb8e8bf-2113-429b-962a-e38ed8748d9e / DIRECTION
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 3
+:END:
+西南@xīnán	[[tls:concept:DIRECTION::#uuid-bdb8e8bf-2113-429b-962a-e38ed8748d9e][DIRECTION]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / south-west
+** 而盛於西北	and is strongest in the north-west.
+:PROPERTIES:
+:SRC: LIJI 45.01.06; Couvreur 2.656f; Su1n Xïda4n 14.27; Jia1ng Yi4hua2 899; Yi4 Shu1 46:75.13b; tr. Legge 2.437;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:3a10:50::而盛 / 禮記
+:CHARPOS: 50
+:END:
+*** 西北@xīběi
+:PROPERTIES:
+:CONCEPT: uuid-47a57636-938c-4e5c-ac70-c0b8c93670a6 / DIRECTION
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 53
+:END:
+西北@xīběi	[[tls:concept:DIRECTION::#uuid-47a57636-938c-4e5c-ac70-c0b8c93670a6][DIRECTION]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / north-west
+** 故坐賓於西北	assigns him his seat on the north-west,
+:PROPERTIES:
+:SRC: LIJI 45.01.07; Couvreur 2.656f; Su1n Xïda4n 14.27; Jia1ng Yi4hua2 899; Yi4 Shu1 46:75.13b; tr. Legge 2.437;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:3a19:1::故坐 / 禮記
+:CHARPOS: 1
+:END:
+*** 坐@zuò / 座@zuò
+:PROPERTIES:
+:CONCEPT: uuid-981180af-4fa3-40c2-b4c9-d29aaa5695cf / SEAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 2
+:END:
+坐@zuò / 座@zuò	[[tls:concept:SEAT::#uuid-981180af-4fa3-40c2-b4c9-d29aaa5695cf][SEAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / assign a seat to; seat somebody
+*** 西北@xīběi
+:PROPERTIES:
+:CONCEPT: uuid-47a57636-938c-4e5c-ac70-c0b8c93670a6 / DIRECTION
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 5
+:END:
+西北@xīběi	[[tls:concept:DIRECTION::#uuid-47a57636-938c-4e5c-ac70-c0b8c93670a6][DIRECTION]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / north-west
+** 而坐介於西南以輔賓	and that of his attendant on the south-west, that he may there (most conveniently) assist him.
+:PROPERTIES:
+:SRC: LIJI 45.01.07; Couvreur 2.656f; Su1n Xïda4n 14.27; Jia1ng Yi4hua2 899; Yi4 Shu1 46:75.13b; tr. Legge 2.437;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:3a20:50::而坐 / 禮記
+:CHARPOS: 50
+:END:
+*** 介@jiè
+:PROPERTIES:
+:CONCEPT: uuid-fa7700bd-8e5a-4ac9-81ee-9b95e89f6ed5 / SERVANT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+介@jiè	[[tls:concept:SERVANT::#uuid-fa7700bd-8e5a-4ac9-81ee-9b95e89f6ed5][SERVANT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / attendant; butler (whose task it is to act as middleman between visitors and host)
+*** 西南@xīnán
+:PROPERTIES:
+:CONCEPT: uuid-bdb8e8bf-2113-429b-962a-e38ed8748d9e / DIRECTION
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 54
+:END:
+西南@xīnán	[[tls:concept:DIRECTION::#uuid-bdb8e8bf-2113-429b-962a-e38ed8748d9e][DIRECTION]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / south-west
+** 嚌肺	when he proceeded to take some of the lungs in his teeth,
+:PROPERTIES:
+:SRC: LIJI 45.01.11; Couvreur 2.658f; Su1n Xïda4n 14.28; Jia1ng Yi4hua2 900; Yi4 Shu1 46:75.17a; tr. Legge 2.439;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:4a04:1::嚌肺 / 禮記
+:CHARPOS: 1
+:END:
+*** 嚌@jì
+:PROPERTIES:
+:CONCEPT: uuid-1ce9694c-83cb-4839-b9bd-7e450f4b761a / EAT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+嚌@jì	[[tls:concept:EAT::#uuid-1ce9694c-83cb-4839-b9bd-7e450f4b761a][EAT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / take into one's mouth in order to eat
+*** 肺@fèi
+:PROPERTIES:
+:CONCEPT: uuid-eab26563-d75c-4ad0-abb8-31e95a4b5f31 / LIVER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+肺@fèi	[[tls:concept:LIVER::#uuid-eab26563-d75c-4ad0-abb8-31e95a4b5f31][LIVER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / lung
+** 嘗禮也	he thereby tasted (the host's) courtesy;
+:PROPERTIES:
+:SRC: LIJI 45.01.11; Couvreur 2.658f; Su1n Xïda4n 14.28; Jia1ng Yi4hua2 900; Yi4 Shu1 46:75.17a; tr. Legge 2.439;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:4a05:50::嘗禮 / 禮記
+:CHARPOS: 50
+:END:
+*** 嘗@cháng / @
+:PROPERTIES:
+:CONCEPT: uuid-19c3128e-9b51-4d23-9cea-4df0f7d6b1d0 / SAVOUR
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 50
+:END:
+嘗@cháng / @	[[tls:concept:SAVOUR::#uuid-19c3128e-9b51-4d23-9cea-4df0f7d6b1d0][SAVOUR]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / tasting
+** 46.7主人親速賓及介	10. 'The host in person invites the principal guest and his attendant,
+:PROPERTIES:
+:SRC: LIJI 45.01.17; Couvreur 2.660f; Su1n Xïda4n 14.30; Jia1ng Yi4hua2 902; Yi4 Shu1 46:75.26b; tr. Legge 2.440;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:7a01:1::46 / 禮記
+:CHARPOS: 1
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-344f84b4-a778-4527-8cd1-2b0ab8573d94 / AND
+:SYN-FUNC: uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 10
+:END:
+及@jí	[[tls:concept:AND::#uuid-344f84b4-a778-4527-8cd1-2b0ab8573d94][AND]]	V [[tls:syn-func::#uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e][vtoN1.postN2:postVt]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / and [no examples in LY]
+*** 介@jiè
+:PROPERTIES:
+:CONCEPT: uuid-fa7700bd-8e5a-4ac9-81ee-9b95e89f6ed5 / SERVANT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 11
+:END:
+介@jiè	[[tls:concept:SERVANT::#uuid-fa7700bd-8e5a-4ac9-81ee-9b95e89f6ed5][SERVANT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / attendant; butler (whose task it is to act as middleman between visitors and host)
+** 主人拜賓及介	he bows (and welcomes) the chief guest and his attendant,
+:PROPERTIES:
+:SRC: LIJI 45.01.17; Couvreur 2.660f; Su1n Xïda4n 14.30; Jia1ng Yi4hua2 902; Yi4 Shu1 46:75.26b; tr. Legge 2.440;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:7a04:1::主人 / 禮記
+:CHARPOS: 1
+:END:
+*** 及@jí
+:PROPERTIES:
+:CONCEPT: uuid-344f84b4-a778-4527-8cd1-2b0ab8573d94 / AND
+:SYN-FUNC: uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 5
+:END:
+及@jí	[[tls:concept:AND::#uuid-344f84b4-a778-4527-8cd1-2b0ab8573d94][AND]]	V [[tls:syn-func::#uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e][vtoN1.postN2:postVt]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / and [no examples in LY]
+*** 介@jiè
+:PROPERTIES:
+:CONCEPT: uuid-fa7700bd-8e5a-4ac9-81ee-9b95e89f6ed5 / SERVANT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+介@jiè	[[tls:concept:SERVANT::#uuid-fa7700bd-8e5a-4ac9-81ee-9b95e89f6ed5][SERVANT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / attendant; butler (whose task it is to act as middleman between visitors and host)
+** 貴賤之義別矣	In this way the distinction between the noble and the mean is exhibited.
+:PROPERTIES:
+:SRC: LIJI 45.01.17; Couvreur 2.660f; Su1n Xïda4n 14.30; Jia1ng Yi4hua2 902; Yi4 Shu1 46:75.26b; tr. Legge 2.440;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:7a06:1::貴賤 / 禮記
+:CHARPOS: 1
+:END:
+*** 別@bié
+:PROPERTIES:
+:CONCEPT: uuid-634eeaa2-17e9-4084-9d6b-0dd5db213871 / DISTINGUISH
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+別@bié	[[tls:concept:DISTINGUISH::#uuid-634eeaa2-17e9-4084-9d6b-0dd5db213871][DISTINGUISH]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / proper distinction made, segregationm also in practice as between men and women (contrast DIFFERENT)
+** 及介省矣	but the attention paid to the assistant is less.
+:PROPERTIES:
+:SRC: LIJI 45.01.18; Couvreur 2.661; Su1n Xïda4n 14.30; Jia1ng Yi4hua2 902; Yi4 Shu1 46:75.27a; tr. Legge 2.440;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:8a06:1::及介 / 禮記
+:CHARPOS: 1
+:END:
+*** 介@jiè
+:PROPERTIES:
+:CONCEPT: uuid-fa7700bd-8e5a-4ac9-81ee-9b95e89f6ed5 / SERVANT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+介@jiè	[[tls:concept:SERVANT::#uuid-fa7700bd-8e5a-4ac9-81ee-9b95e89f6ed5][SERVANT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / attendant; butler (whose task it is to act as middleman between visitors and host)
+** 主人酬介	the host pledges the attendants,
+:PROPERTIES:
+:SRC: LIJI 45.01.21; Couvreur 2.662f; Su1n Xïda4n 14.32; Jia1ng Yi4hua2 903; Yi4 Shu1 46:75.31b; tr. Legge 2.441;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:10a02:1::主人 / 禮記
+:CHARPOS: 1
+:END:
+*** 酬@chóu
+:PROPERTIES:
+:CONCEPT: uuid-897c650f-f936-4eb2-86ca-b7ca3b64a50c / TOAST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+酬@chóu	[[tls:concept:TOAST::#uuid-897c650f-f936-4eb2-86ca-b7ca3b64a50c][TOAST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / drink a toast to; respond by offering a toast to someone who has offered a toast to one.
+** 少長以齒	Young and old pledge one a nother according to their age,
+:PROPERTIES:
+:SRC: LIJI 45.01.21; Couvreur 2.662f; Su1n Xïda4n 14.32; Jia1ng Yi4hua2 903; Yi4 Shu1 46:75.31b; tr. Legge 2.441;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:10a04:1::少長 / 禮記
+:CHARPOS: 1
+:END:
+*** 齒@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-621ac7a8-d8d3-4f24-93c8-3593a706e722 / AGE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 4
+:END:
+齒@chǐ	[[tls:concept:AGE::#uuid-621ac7a8-d8d3-4f24-93c8-3593a706e722][AGE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / age; seniority; degree of seniority, rank of seniority
+** 終於沃洗者焉	and the cup circulates on to the keepers of the vases and the cup-washers.
+:PROPERTIES:
+:SRC: LIJI 45.01.21; Couvreur 2.662f; Su1n Xïda4n 14.32; Jia1ng Yi4hua2 903; Yi4 Shu1 46:75.31b; tr. Legge 2.441;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:10a05:50::終於 / 禮記
+:CHARPOS: 50
+:END:
+*** 洗@xǐ
+:PROPERTIES:
+:CONCEPT: uuid-b74ac867-4878-4842-8842-742ee307b295 / WASH
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 53
+:END:
+洗@xǐ	[[tls:concept:WASH::#uuid-b74ac867-4878-4842-8842-742ee307b295][WASH]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / wash something contextually determinate; often specifically: wash the ceremonial cup
+** 彼國安而天下安	When that one state is tranquil, all under heaven will be the same.
+:PROPERTIES:
+:SRC: LIJI 45.01.23; Couvreur 2.663f; Su1n Xïda4n 14.32; Jia1ng Yi4hua2 904; Yi4 Shu1 46:75.33a; tr. Legge 2.442;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:12a08:1::彼國 / 禮記
+:CHARPOS: 1
+:END:
+*** 安@ān
+:PROPERTIES:
+:CONCEPT: uuid-1a87b948-d7fa-4630-84ff-0cab1894283e / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 3
+:END:
+安@ān	[[tls:concept:HAPPY::#uuid-1a87b948-d7fa-4630-84ff-0cab1894283e][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be happily at peace; find peace and happiness; lead a happy enough life; be conducive to happy peace of mind
+** 經之以天地	the presiding idea as found in heaven and earth;
+:PROPERTIES:
+:SRC: LIJI 45.01.25; Couvreur 2.664; Su1n Xïda4n 14.33; Jia1ng Yi4hua2 905; Yi4 Shu1 46:75.33b; tr. Legge 2.442;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:13a08:1::經之 / 禮記
+:CHARPOS: 1
+:END:
+*** 經@jīng
+:PROPERTIES:
+:CONCEPT: uuid-96cf65c5-0543-4daa-b5b0-5e01dd42c0d3 / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+經@jīng	[[tls:concept:GOVERN::#uuid-96cf65c5-0543-4daa-b5b0-5e01dd42c0d3][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / govern well, govern properly; deal with efficiently as the person responsible
+** 尊有玄酒	The vessel contained the dark-coloured liquid;
+:PROPERTIES:
+:SRC: LIJI 45.01.26; Couvreur 2.664f; Su1n Xïda4n 14.33; Jia1ng Yi4hua2 905; Yi4 Shu1 46:75.34b; tr. Legge 2.443;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:14a06:1::尊有 / 禮記
+:CHARPOS: 1
+:END:
+*** 玄@xuán
+:PROPERTIES:
+:CONCEPT: uuid-4f7049ba-1d37-411d-b0ab-5452f01290e0 / BLACK
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+玄@xuán	[[tls:concept:BLACK::#uuid-4f7049ba-1d37-411d-b0ab-5452f01290e0][BLACK]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / reddish dark; generally: dark
+** 產萬物者聖也	- (there is then at work that mysterious) intelligence that gives birth to all things.
+:PROPERTIES:
+:SRC: LIJI 45.01.27; Couvreur 2.665f; Su1n Xïda4n 14.34; Jia1ng Yi4hua2 906; Yi4 Shu1 46:75.35b; tr. Legge 2.443;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:15a04:1::產萬 / 禮記
+:CHARPOS: 1
+:END:
+*** 產@chǎn
+:PROPERTIES:
+:CONCEPT: uuid-3ae24920-c28a-4a9b-a89d-e536e5b4091f / PRODUCE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+產@chǎn	[[tls:concept:PRODUCE::#uuid-3ae24920-c28a-4a9b-a89d-e536e5b4091f][PRODUCE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cause to arise; produce
+** 產萬物者也	and (it is spring) which produces all things.
+:PROPERTIES:
+:SRC: LIJI 45.01.29; Couvreur 2.666f; Su1n Xïda4n 14.35; Jia1ng Yi4hua2 906; Yi4 Shu1 46:75.38a; tr. Legge 2.444;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:15a26:1::產萬 / 禮記
+:CHARPOS: 1
+:END:
+*** 產@chǎn
+:PROPERTIES:
+:CONCEPT: uuid-3ae24920-c28a-4a9b-a89d-e536e5b4091f / PRODUCE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+產@chǎn	[[tls:concept:PRODUCE::#uuid-3ae24920-c28a-4a9b-a89d-e536e5b4091f][PRODUCE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cause to arise; produce
+** 產萬物者也	that is, he produces all things.
+:PROPERTIES:
+:SRC: LIJI 45.01.29; Couvreur 2.666f; Su1n Xïda4n 14.35; Jia1ng Yi4hua2 906; Yi4 Shu1 46:75.38a; tr. Legge 2.444;
+:DATE: 8110	late Warring States
+:LOCATION: KR1d0052_046:15a28:1::產萬 / 禮記
+:CHARPOS: 1
+:END:
+*** 產@chǎn
+:PROPERTIES:
+:CONCEPT: uuid-3ae24920-c28a-4a9b-a89d-e536e5b4091f / PRODUCE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+產@chǎn	[[tls:concept:PRODUCE::#uuid-3ae24920-c28a-4a9b-a89d-e536e5b4091f][PRODUCE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / cause to arise; produce

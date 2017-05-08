@@ -1,0 +1,47 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_044
+#+DATE: 2017-02-08T16:41:12+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 西周恐魏之藉道也	West Chou was concerned lest Wei ask right of passage.
+:PROPERTIES:
+:SRC: ZGC 2.16.1; tr. Crump 1979 no.8, p. 29, ed. Shanghaiguji p. 72 Wei dissuaded from marching through West Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_044:1a02:1::西周 / 戰國策
+:CHARPOS: 1
+:END:
+*** 恐@kǒng
+:PROPERTIES:
+:CONCEPT: uuid-90a58ff1-8b39-4bc5-b835-d7de1d5bd26a / FEAR
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 3
+:END:
+恐@kǒng	[[tls:concept:FEAR::#uuid-90a58ff1-8b39-4bc5-b835-d7de1d5bd26a][FEAR]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / be afraid that S
+*** 藉@jiè
+:PROPERTIES:
+:CONCEPT: uuid-cf0188d3-2a65-4b42-bda0-db272515757a / BORROW
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+藉@jiè	[[tls:concept:BORROW::#uuid-cf0188d3-2a65-4b42-bda0-db272515757a][BORROW]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / borrow (troops etc); ask to borrow (right of way etc)
+** 楚宋不利秦之德三國也	'Ch'u and Sung71 are not benefited by Ch'in's kindness72 to you
+:PROPERTIES:
+:SRC: ZGC 2.16.1; tr. Crump 1979 no.8, p. 29, ed. Shanghaiguji p. 72 Wei dissuaded from marching through West Chou
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_044:1a04:1::「楚 / 戰國策
+:CHARPOS: 1
+:END:
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-f3554251-7560-4a8e-a167-2245f5b01791 / PROFIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21
+:CHARPOS: 4
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-f3554251-7560-4a8e-a167-2245f5b01791][PROFIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / regard as beneficial to one's interests; see one's advantage in; profit from; see the benefit in
+*** 德@dé / 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-31b9f118-8d0b-4175-96bd-eafebb9bce03 / GENEROUS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 7
+:END:
+德@dé / 得@dé	[[tls:concept:GENEROUS::#uuid-31b9f118-8d0b-4175-96bd-eafebb9bce03][GENEROUS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be generous towards

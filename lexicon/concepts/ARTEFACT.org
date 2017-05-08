@@ -1,0 +1,145 @@
+# -*- mode: mandoku-tls-view -*-
+#+TITLE: ARTEFACT
+#+DATE: 2017-03-18T10:35:30.668+09:00        
+#+STARTUP: content
+* =CONCEPT= ARTEFACT
+:PROPERTIES:
+:CUSTOM_ID: uuid-e6b6915f-ba7f-4489-88b7-e3fbf53188d2
+:SYNONYM+:  ARTIFACT
+:SYNONYM+:  COMMODITY
+:SYNONYM+:  MANUFACTURED ARTICLE
+:SYNONYM+:  CREATION
+:SYNONYM+:  INVENTION
+:SYNONYM+:  (PRODUCTS) GOODS
+:SYNONYM+:  WARES
+:SYNONYM+:  MERCHANDISE
+:SYNONYM+:  PRODUCE
+:TR_ZH: 工品
+:END:
+** DEFINITION
+
+THING PRODUCED by MAN.
+
+** NOTES
+
+*** Old Chinese Criteria
+[BASIC/MARGINAL]
+
+NB: This synonym group is needed for the taxonomy of the system and is not suggested by any current Chinese usage.
+
+1. The philosophically important general term for something man-made and in this sense artificial is wěi 偽.
+
+[MARGINAL]
+
+2. Yì 藝 is sometimes used to refer to an artefact, perhaps insofar as this is the result of special skill.
+
+[MARGINAL]
+
+*** Modern Chinese Criteria
+工品
+
+rough draft to BEGIN TO identify synonym group members for analysis, based on CL etc. 18.11.2003. CH ／
+
+** POINTERS
+*** TAXONOMY
+ - [[tls:concept:BUILDING][BUILDING]]
+ - [[tls:concept:DOCUMENT][DOCUMENT]]
+ - [[tls:concept:FENCE][FENCE]]
+ - [[tls:concept:GARMENT][GARMENT]]
+ - [[tls:concept:MIRROR][MIRROR]]
+ - [[tls:concept:MONEY][MONEY]]
+ - [[tls:concept:MUSICAL INSTRUMENT][MUSICAL INSTRUMENT]]
+ - [[tls:concept:NET][NET]]
+ - [[tls:concept:PICTURE][PICTURE]]
+ - [[tls:concept:SYMBOL][SYMBOL]]
+ - [[tls:concept:TARGET][TARGET]]
+ - [[tls:concept:THREAD][THREAD]]
+ - [[tls:concept:TOY][TOY]]
+ - [[tls:concept:STOVE][STOVE]]
+ - [[tls:concept:CLOTH][CLOTH]]
+ - [[tls:concept:FURNITURE][FURNITURE]]
+ - [[tls:concept:TOOL][TOOL]]
+ - [[tls:concept:ORNAMENT][ORNAMENT]]
+ - [[tls:concept:PAPER][PAPER]]
+ - [[tls:concept:PILLOW][PILLOW]]
+ - [[tls:concept:MASK][MASK]]
+ - [[tls:concept:BRICK][BRICK]]
+ - [[tls:concept:SADDLE][SADDLE]]
+ - [[tls:concept:MONUMENT][MONUMENT]]
+ - [[tls:concept:CONTAINER][CONTAINER]]
+ - [[tls:concept:FRAME][FRAME]]
+
+*** KIND OF
+ - [[tls:concept:THING][THING]]
+
+** SOURCE REFERENCES
+*** BARCK 2010
+ - [[cite:BARCK-2010][Barck(2010), Ästhetische Grundbegriffe]], p.6.520
+
+** WORDS
+   :PROPERTIES:
+   :VISIBILITY: children
+   :END:
+*** 偽 wěi (OC:ŋgʷals MC:ŋiɛ )
+:PROPERTIES:
+:CUSTOM_ID: uuid-826660fd-997d-4573-8da8-6393608c654d
+:Char+: 偽(9,9/11) 
+:GY_IDS+: uuid-11aab8cc-d3c7-454c-8f8d-5714f315d3ed
+:PY+: wěi     
+:OC+: ŋgʷals     
+:MC+: ŋiɛ     
+:END: 
+**** N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / artefact; something artificial and not natural
+:PROPERTIES:
+:CUSTOM_ID: uuid-b210622f-a95f-4bfc-b48f-a048e6aeb2b9
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+artefact; something artificial and not natural
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / XUN: be not natural but an artefact, be artificial
+:PROPERTIES:
+:CUSTOM_ID: uuid-cfbf88e7-371f-4891-9e2f-6339936b4bb8
+:WARRING-STATES-CURRENCY: 4
+:END:
+****** DEFINITION
+
+XUN: be not natural but an artefact, be artificial
+
+****** NOTES
+
+**** V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be worked on artificially
+:PROPERTIES:
+:CUSTOM_ID: uuid-bfa4dcdd-2709-4620-b489-3a1a8eab538a
+:END:
+****** DEFINITION
+
+be worked on artificially
+
+****** NOTES
+
+*** 藝 yì (OC:ŋeds MC:ŋiɛi )
+:PROPERTIES:
+:CUSTOM_ID: uuid-ee4b1be5-fe72-4a13-957b-55ca829f985d
+:Char+: 藝(140,15/21) 
+:GY_IDS+: uuid-d385eda7-d61a-438e-a959-1e6978be0f03
+:PY+: yì     
+:OC+: ŋeds     
+:MC+: ŋiɛi     
+:END: 
+**** N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / artifact, skillful product
+:PROPERTIES:
+:CUSTOM_ID: uuid-cbbbba43-e56d-4092-92a7-a8e9065831ff
+:WARRING-STATES-CURRENCY: 3
+:END:
+****** DEFINITION
+
+artifact, skillful product
+
+****** NOTES
+
+** BIBLIOGRAPHY
+bibliography:../core/tlsbib.bib

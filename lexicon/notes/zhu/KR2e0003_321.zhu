@@ -1,0 +1,69 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_321
+#+DATE: 2017-02-08T16:41:29+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 諾	replied Mr. Hui,
+:PROPERTIES:
+:SRC: ZGC 23.6.4; tr. Crump 1979 no. 308, p.3i4, ed. Shanghaiguji p. 823
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_321:3a02:1::「諾 / 戰國策
+:CHARPOS: 1
+:END:
+*** 諾@nuò
+:PROPERTIES:
+:CONCEPT: uuid-4167d212-8dea-470b-b24c-5c923ae94254 / AGREE TO
+:SYN-FUNC: uuid-04dc4978-046d-4430-a08b-6198445e9667
+:CHARPOS: 1
+:END:
+諾@nuò	[[tls:concept:AGREE TO::#uuid-4167d212-8dea-470b-b24c-5c923ae94254][AGREE TO]]	V [[tls:syn-func::#uuid-04dc4978-046d-4430-a08b-6198445e9667][vt{0}(oN)]] / (Said by superior) [I hereby] approve [this]. All right! (Said by inferior) Yes!
+** 嘻	cried King Wen,
+:PROPERTIES:
+:SRC: ZGC 23.6.4; tr. Crump 1979 no. 308, p.3i4, ed. Shanghaiguji p. 823
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_321:3a12:1::『嘻 / 戰國策
+:CHARPOS: 1
+:END:
+*** 嘻@xī / 譆@xī
+:PROPERTIES:
+:CONCEPT: uuid-869aa087-8fcb-42a4-aeb3-2291f9060164 / EXCLAMATORY PARTICLE
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:CHARPOS: 1
+:END:
+嘻@xī / 譆@xī	[[tls:concept:EXCLAMATORY PARTICLE::#uuid-869aa087-8fcb-42a4-aeb3-2291f9060164][EXCLAMATORY PARTICLE]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] / ah! exclamatory particle expressing surprise, sometimes mixed with delight
+** 先君必欲一見群臣百姓也夫	"our ancestor must wish to hold audience with his ministers and his people,
+:PROPERTIES:
+:SRC: ZGC 23.6.4; tr. Crump 1979 no. 308, p.3i4, ed. Shanghaiguji p. 823
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_321:3a13:50::先君 / 戰國策
+:CHARPOS: 50
+:END:
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-30a51e86-68e3-42a1-982a-5541407fc369 / PEOPLE
+:SYN-FUNC: uuid-6a061076-9f61-43ed-9b5e-2cfcedc1de01
+:CHARPOS: 58
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-30a51e86-68e3-42a1-982a-5541407fc369][PEOPLE]]	N [[tls:syn-func::#uuid-6a061076-9f61-43ed-9b5e-2cfcedc1de01][NPpostVt]] / the people (as grammatical object)
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-89d90399-8b58-43c2-a3fb-3d78a5e5d274 / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-268274cc-d7e0-43e9-97e3-20e7f564f277
+:CHARPOS: 58
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-89d90399-8b58-43c2-a3fb-3d78a5e5d274][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-268274cc-d7e0-43e9-97e3-20e7f564f277][wellborn]]} / the people who count; the gentry (i.e. primarily the wellborn people)
+** 百姓皆見之	and his people all saw him.
+:PROPERTIES:
+:SRC: ZGC 23.6.5; tr. Crump 1979 no. 308, p.3i4, ed. Shanghaiguji p. 823
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_321:3a16:1::百姓 / 戰國策
+:CHARPOS: 1
+:END:
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-3cd96c28-c477-4520-ae63-9ff7632ca79c / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-b6dffda3-770c-4e82-8329-6903528b1ab9
+:CHARPOS: 1
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-3cd96c28-c477-4520-ae63-9ff7632ca79c][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-b6dffda3-770c-4e82-8329-6903528b1ab9][common]]} / the (taxpaying) people (i.e. the entire population, particularly the common people like the peasants)

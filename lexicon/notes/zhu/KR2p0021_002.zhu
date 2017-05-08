@@ -1,0 +1,100 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 郭店楚簡・五行 KR2p0021_002
+#+DATE: 2017-02-08T16:41:36+0900
+#+PROPERTY: COMMIT 9fcd10cd4fad60bb32ed7e96229a2e9d42f4dd50
+** 和謂之德	and when they combine into a harmonious whole that is to be called "spiritual power".
+:PROPERTIES:
+:SRC: WXP 1:3
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_002:00:0::和謂 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 和@hé
+:PROPERTIES:
+:CONCEPT: uuid-0957cb0c-abba-40cc-afeb-3471ee035085 / HARMONY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 0
+:END:
+和@hé	[[tls:concept:HARMONY::#uuid-0957cb0c-abba-40cc-afeb-3471ee035085][HARMONY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be harmonious, be in harmonious good order; be concordant; be well balanced
+*** 德@dé
+:PROPERTIES:
+:CONCEPT: uuid-1cdab186-9017-4847-a833-2ab92f47da4a / VIRTUE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 3
+:END:
+德@dé	[[tls:concept:VIRTUE::#uuid-1cdab186-9017-4847-a833-2ab92f47da4a][VIRTUE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / the highest form of virtue, true virtue, true inner power
+** 君子亡中心之憂	If the man of noble character has no serious concerns at the centre of his heart
+:PROPERTIES:
+:SRC: WXP 2:1
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_002:00:0::君子 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 0
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+*** 中心@zhōngxīn
+:PROPERTIES:
+:CONCEPT: uuid-d3f79541-2d1d-4f2e-aea7-b19c6b654787 / MIND
+:SYN-FUNC: uuid-14b56546-32fd-4321-8d73-3e4b18316c15
+:CHARPOS: 3
+:END:
+中心@zhōngxīn	[[tls:concept:MIND::#uuid-d3f79541-2d1d-4f2e-aea7-b19c6b654787][MIND]]	N [[tls:syn-func::#uuid-14b56546-32fd-4321-8d73-3e4b18316c15][NPadN]] / pertaining to what lies at the bottom of one's heart
+*** 憂@yōu
+:PROPERTIES:
+:CONCEPT: uuid-44a33dce-287a-48ea-bf60-600676e0a798 / WORRY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 6
+:END:
+憂@yōu	[[tls:concept:WORRY::#uuid-44a33dce-287a-48ea-bf60-600676e0a798][WORRY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / (common) troubles, agonies, worries; cares
+** 則亡中心之悅	then he will not have any real pleasure at the centre of his heart;
+:PROPERTIES:
+:SRC: WXP 2:1
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_002:00:0::則亡 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 悅@yuè / 說@yuè
+:PROPERTIES:
+:CONCEPT: uuid-3ee8a6a4-dd5c-463c-aae3-d891583305ef / DELIGHT
+:SYN-FUNC: uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 5
+:END:
+悅@yuè / 說@yuè	[[tls:concept:DELIGHT::#uuid-3ee8a6a4-dd5c-463c-aae3-d891583305ef][DELIGHT]]	N [[tls:syn-func::#uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1][nab.t]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / sympathy for N, delight in N
+** 則不安	then he will have no deep inner tranquility;
+:PROPERTIES:
+:SRC: WXP 2:1
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_002:00:0::則不 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 安@ān
+:PROPERTIES:
+:CONCEPT: uuid-33f2e93a-b21b-4720-8aad-0aa2ae28c428 / PEACEFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 2
+:END:
+安@ān	[[tls:concept:PEACEFUL::#uuid-33f2e93a-b21b-4720-8aad-0aa2ae28c428][PEACEFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be at peace and secure, be safe; be at ease; find peace; be poised
+** 則不樂	then he will not achieve true joy.
+:PROPERTIES:
+:SRC: WXP 2:1
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_002:00:0::則不 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-0dce0c82-00ee-4c4c-91c9-4c0904b0b1bc / DELIGHT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 2
+:END:
+樂@lè	[[tls:concept:DELIGHT::#uuid-0dce0c82-00ee-4c4c-91c9-4c0904b0b1bc][DELIGHT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / (of persons) feel deeply moved in the direction of harmonious delight, be full of joy; be joyfully satisfied

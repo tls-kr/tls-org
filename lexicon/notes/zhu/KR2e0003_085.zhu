@@ -1,0 +1,592 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_085
+#+DATE: 2017-02-08T16:41:18+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 恆思有悍少年	Marquis Ying asked King Chao.
+:PROPERTIES:
+:SRC: ZGC 5.11.1; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194 The gambler and the sacred grove
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a03:1::恆思 / 戰國策
+:CHARPOS: 1
+:END:
+*** 悍@hàn
+:PROPERTIES:
+:CONCEPT: uuid-6982545a-61be-4ac8-a1c0-f232dd777a34 / COURAGE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 4
+:END:
+悍@hàn	[[tls:concept:COURAGE::#uuid-6982545a-61be-4ac8-a1c0-f232dd777a34][COURAGE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / ferocious, obstreporous
+*** 少年@shàonián
+:PROPERTIES:
+:CONCEPT: uuid-4470c4b6-19e3-4232-af10-e04b02822415 / YOUNG
+:SYN-FUNC: uuid-080d3352-c9b3-40b5-8aed-7996007863d9
+:CHARPOS: 5
+:END:
+少年@shàonián	[[tls:concept:YOUNG::#uuid-4470c4b6-19e3-4232-af10-e04b02822415][YOUNG]]	N [[tls:syn-func::#uuid-080d3352-c9b3-40b5-8aed-7996007863d9][NP{adN}]] / young person
+** 請與叢博	'There lived in Hanker an extremely rash youth
+:PROPERTIES:
+:SRC: ZGC 5.11.1; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194 The gambler and the sacred grove
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a04:50::請與 / 戰國策
+:CHARPOS: 50
+:END:
+*** 博@bó
+:PROPERTIES:
+:CONCEPT: uuid-9d33d86b-7378-4014-a982-be969130da44 / BOARD-GAMES
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+博@bó	[[tls:concept:BOARD-GAMES::#uuid-9d33d86b-7378-4014-a982-be969130da44][BOARD-GAMES]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / play backgammon
+** 叢籍我神三日	"you must lend me your genie for three days.
+:PROPERTIES:
+:SRC: ZGC 5.11.1; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194 The gambler and the sacred grove
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a07:1::叢籍 / 戰國策
+:CHARPOS: 1
+:END:
+*** 籍@jí
+:PROPERTIES:
+:CONCEPT: uuid-155b3e46-ea32-4fff-8ddf-b4f63dd225c2 / LEND OUT
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 2
+:END:
+籍@jí	[[tls:concept:LEND OUT::#uuid-155b3e46-ea32-4fff-8ddf-b4f63dd225c2][LEND OUT]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / lend N1 to the recipient N2
+** 右手自為投	and for himself with the right.
+:PROPERTIES:
+:SRC: ZGC 5.11.2; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a11:1::右手 / 戰國策
+:CHARPOS: 1
+:END:
+*** 為@wèi
+:PROPERTIES:
+:CONCEPT: uuid-b127904d-e9c9-43d1-9104-34a88a072e9c / FOR
+:SYN-FUNC: uuid-9e8c327b-579d-4514-8c83-481fa450974a
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+為@wèi	[[tls:concept:FOR::#uuid-b127904d-e9c9-43d1-9104-34a88a072e9c][FOR]]	V [[tls:syn-func::#uuid-9e8c327b-579d-4514-8c83-481fa450974a][vtoN.adV]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / for the sake of (oneself)　自為
+** 遂弗歸	he was turned away.
+:PROPERTIES:
+:SRC: ZGC 5.11.2; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a16:1::遂弗 / 戰國策
+:CHARPOS: 1
+:END:
+*** 弗@fú
+:PROPERTIES:
+:CONCEPT: uuid-7a2049b2-9c88-496b-9dde-1fcd652ccb0f / REFUSE
+:SYN-FUNC: uuid-97cf839b-9fad-4d02-b83c-edb5ec732d37
+:CHARPOS: 2
+:END:
+弗@fú	[[tls:concept:REFUSE::#uuid-7a2049b2-9c88-496b-9dde-1fcd652ccb0f][REFUSE]]	 [[tls:syn-func::#uuid-97cf839b-9fad-4d02-b83c-edb5ec732d37][vt{NEG}+.Vt{0}(oN)]] / would not; refuse to; decide not to (do what one might otherwise have done); will not; fail to
+*** 歸@guī
+:PROPERTIES:
+:CONCEPT: uuid-45dbc172-0bcb-4089-bf7b-ca9107469acf / GIVE
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:SEM-FEAT: uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd
+:CHARPOS: 3
+:END:
+歸@guī	[[tls:concept:GIVE::#uuid-45dbc172-0bcb-4089-bf7b-ca9107469acf][GIVE]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] {[[tls:sem-feat::#uuid-281b399c-2db6-465b-9f6e-32b55fe53ebd][om]]} / give a present of (something N2) to a contextually determinate person N1
+** 五日而叢枯	Five days later the Grove began to wither
+:PROPERTIES:
+:SRC: ZGC 5.11.2; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a17:50::五日 / 戰國策
+:CHARPOS: 50
+:END:
+*** 枯@kū / @
+:PROPERTIES:
+:CONCEPT: uuid-749b765e-dfb6-43fa-9a44-a95d78174347 / DRY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 54
+:END:
+枯@kū / @	[[tls:concept:DRY::#uuid-749b765e-dfb6-43fa-9a44-a95d78174347][DRY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / wither; become all parched; dry up completely
+** 勢者	and Power
+:PROPERTIES:
+:SRC: ZGC 5.11.3; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a21:1::勢者 / 戰國策
+:CHARPOS: 1
+:END:
+*** 勢@shì
+:PROPERTIES:
+:CONCEPT: uuid-d22f242f-2b40-4608-81a6-ae7c46416473 / POWER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 1
+:END:
+勢@shì	[[tls:concept:POWER::#uuid-d22f242f-2b40-4608-81a6-ae7c46416473][POWER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / position of power; strategic advantage; power; clout
+** 籍人以此	is lending it to other
+:PROPERTIES:
+:SRC: ZGC 5.11.3; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a23:1::籍人 / 戰國策
+:CHARPOS: 1
+:END:
+*** 籍@jí
+:PROPERTIES:
+:CONCEPT: uuid-b7fe88cd-e32a-470d-9362-2731b4a520fb / LEND OUT
+:SYN-FUNC: uuid-cbb92823-4092-4552-8cbd-4883113a5422
+:CHARPOS: 1
+:END:
+籍@jí	[[tls:concept:LEND OUT::#uuid-b7fe88cd-e32a-470d-9362-2731b4a520fb][LEND OUT]]	V [[tls:syn-func::#uuid-cbb92823-4092-4552-8cbd-4883113a5422][vttoN1+.vtoN2]] / lend N2 to N1
+** 得無危乎	not fraught with danger?
+:PROPERTIES:
+:SRC: ZGC 5.11.3; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a24:50::得無 / 戰國策
+:CHARPOS: 50
+:END:
+*** 危@wēi
+:PROPERTIES:
+:CONCEPT: uuid-161f9976-2b86-462b-852d-c243b88fd68f / DANGER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+危@wēi	[[tls:concept:DANGER::#uuid-161f9976-2b86-462b-852d-c243b88fd68f][DANGER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / imminent peril, danger; state of danger; precariousness
+** 臣未嘗聞指大於臂	Now I have never heard of a finger greater than an arm
+:PROPERTIES:
+:SRC: ZGC 5.11.3; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a25:50::臣未 / 戰國策
+:CHARPOS: 50
+:END:
+*** 指@zhǐ
+:PROPERTIES:
+:CONCEPT: uuid-fede3267-5465-438e-9969-74fff0744b33 / FINGER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+指@zhǐ	[[tls:concept:FINGER::#uuid-fede3267-5465-438e-9969-74fff0744b33][FINGER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / finger
+*** 臂@bì
+:PROPERTIES:
+:CONCEPT: uuid-a674bcf7-cc8d-4391-9d4b-43e9d632759d / ARM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 57
+:END:
+臂@bì	[[tls:concept:ARM::#uuid-a674bcf7-cc8d-4391-9d4b-43e9d632759d][ARM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / whole arm
+** 臂大於股	nor an arm being greater than a leg,
+:PROPERTIES:
+:SRC: ZGC 5.11.3; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a26:50::臂大 / 戰國策
+:CHARPOS: 50
+:END:
+*** 臂@bì
+:PROPERTIES:
+:CONCEPT: uuid-a674bcf7-cc8d-4391-9d4b-43e9d632759d / ARM
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+臂@bì	[[tls:concept:ARM::#uuid-a674bcf7-cc8d-4391-9d4b-43e9d632759d][ARM]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / whole arm
+*** 股@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-945ebf87-aef5-4f4c-9c84-423313366a33 / THIGH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+股@gǔ	[[tls:concept:THIGH::#uuid-945ebf87-aef5-4f4c-9c84-423313366a33][THIGH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / thigh
+** 百人輿瓢而趨	A hundred men scrambling to fetch a gourd by cart
+:PROPERTIES:
+:SRC: ZGC 5.11.4; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a29:1::百人 / 戰國策
+:CHARPOS: 1
+:END:
+*** 輿@yú
+:PROPERTIES:
+:CONCEPT: uuid-9ee95a6d-a063-4d2d-93f0-36adab1e1b4a / TRANSPORT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+輿@yú	[[tls:concept:TRANSPORT::#uuid-9ee95a6d-a063-4d2d-93f0-36adab1e1b4a][TRANSPORT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / transport in a carriage
+*** 瓢@piáo
+:PROPERTIES:
+:CONCEPT: uuid-38f2b2a2-055a-474d-b43e-2441a79c0c80 / GOURD
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+瓢@piáo	[[tls:concept:GOURD::#uuid-38f2b2a2-055a-474d-b43e-2441a79c0c80][GOURD]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / gourd
+** 百人誠輿瓢	For if the hundred actually managed to get it aboard their wagon
+:PROPERTIES:
+:SRC: ZGC 5.11.4; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a31:1::百人 / 戰國策
+:CHARPOS: 1
+:END:
+*** 瓢@piáo
+:PROPERTIES:
+:CONCEPT: uuid-38f2b2a2-055a-474d-b43e-2441a79c0c80 / GOURD
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+瓢@piáo	[[tls:concept:GOURD::#uuid-38f2b2a2-055a-474d-b43e-2441a79c0c80][GOURD]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / gourd
+** 瓢必裂	you may be quite sure that the gourd would be split asunder by the time it arrived.
+:PROPERTIES:
+:SRC: ZGC 5.11.4; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a32:50::瓢必 / 戰國策
+:CHARPOS: 50
+:END:
+*** 裂@liè
+:PROPERTIES:
+:CONCEPT: uuid-f82d4519-2bc4-4b75-a90a-610cd08312eb / SPLIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915
+:CHARPOS: 52
+:END:
+裂@liè	[[tls:concept:SPLIT::#uuid-f82d4519-2bc4-4b75-a90a-610cd08312eb][SPLIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-6f2fab01-1156-4ed8-9b64-74c1e7455915][middle voice]]} / get cracked or split
+** 則已	it is no matter.
+:PROPERTIES:
+:SRC: ZGC 5.11.5; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a39:1::則已 / 戰國策
+:CHARPOS: 1
+:END:
+*** 已@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-732aee22-99a2-48c4-a358-6225ce6ba333 / STOP
+:SYN-FUNC: uuid-484b3e3c-93cc-4f9f-ba51-a1f4c2e04e41
+:CHARPOS: 2
+:END:
+已@yǐ	[[tls:concept:STOP::#uuid-732aee22-99a2-48c4-a358-6225ce6ba333][STOP]]	V [[tls:syn-func::#uuid-484b3e3c-93cc-4f9f-ba51-a1f4c2e04e41][vi(0)]] / that is the end of the matter (as in 而已)
+** 已稱瓢為器	But if you want to make use of your gourd
+:PROPERTIES:
+:SRC: ZGC 5.11.5; tr. Crump 1979 no. 96, p 108, ed. Shanghaiguji p. 194
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a40:50::已稱 / 戰國策
+:CHARPOS: 50
+:END:
+*** 已@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-88674b43-1193-422d-8b06-dbe7ce80031f / WHEN
+:SYN-FUNC: uuid-c00a4db3-7d89-4b82-80ab-d16a177e3421
+:CHARPOS: 50
+:END:
+已@yǐ	[[tls:concept:WHEN::#uuid-88674b43-1193-422d-8b06-dbe7ce80031f][WHEN]]	V [[tls:syn-func::#uuid-c00a4db3-7d89-4b82-80ab-d16a177e3421][vadV.postN{SUBJ}:adS]] / once, after
+** 國無事	Even in times of peace
+:PROPERTIES:
+:SRC: ZGC 5.11.6; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a50:1::國無 / 戰國策
+:CHARPOS: 1
+:END:
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-ba0cf96f-6b9a-457a-ab97-7609fa822627 / WORRY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 3
+:END:
+事@shì	[[tls:concept:WORRY::#uuid-ba0cf96f-6b9a-457a-ab97-7609fa822627][WORRY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / troublesome affairs, troublesome eventualities 無事
+** 則已	this should not happen
+:PROPERTIES:
+:SRC: ZGC 5.11.6; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a51:50::則已 / 戰國策
+:CHARPOS: 50
+:END:
+*** 已@yǐ
+:PROPERTIES:
+:CONCEPT: uuid-732aee22-99a2-48c4-a358-6225ce6ba333 / STOP
+:SYN-FUNC: uuid-484b3e3c-93cc-4f9f-ba51-a1f4c2e04e41
+:CHARPOS: 51
+:END:
+已@yǐ	[[tls:concept:STOP::#uuid-732aee22-99a2-48c4-a358-6225ce6ba333][STOP]]	V [[tls:syn-func::#uuid-484b3e3c-93cc-4f9f-ba51-a1f4c2e04e41][vi(0)]] / that is the end of the matter (as in 而已)
+** 國有事	but should there ever be trouble,
+:PROPERTIES:
+:SRC: ZGC 5.11.6; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a52:50::國有 / 戰國策
+:CHARPOS: 50
+:END:
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-ba0cf96f-6b9a-457a-ab97-7609fa822627 / WORRY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 52
+:END:
+事@shì	[[tls:concept:WORRY::#uuid-ba0cf96f-6b9a-457a-ab97-7609fa822627][WORRY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / troublesome affairs, troublesome eventualities 無事
+** 臣必聞見王獨立於庭也	then I would certainly witness a king standing all alone in his own court.
+:PROPERTIES:
+:SRC: ZGC 5.11.6; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a53:50::臣必 / 戰國策
+:CHARPOS: 50
+:END:
+*** 廷@tíng / 庭@tíng
+:PROPERTIES:
+:CONCEPT: uuid-38dc6330-05d0-4168-a783-a855f3a348be / COURT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 50
+:END:
+廷@tíng / 庭@tíng	[[tls:concept:COURT::#uuid-38dc6330-05d0-4168-a783-a855f3a348be][COURT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / court, royal court
+** 恐萬世之後有國者	And what I fear is that in the country of Ch'in, many generations hence, the rulers
+:PROPERTIES:
+:SRC: ZGC 5.11.6; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:1a55:1::恐萬 / 戰國策
+:CHARPOS: 1
+:END:
+*** 恐@kǒng
+:PROPERTIES:
+:CONCEPT: uuid-c4822853-858e-4281-8913-fb12c11fc02a / FEAR
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:CHARPOS: 1
+:END:
+恐@kǒng	[[tls:concept:FEAR::#uuid-c4822853-858e-4281-8913-fb12c11fc02a][FEAR]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] / be very much afraid that S, live in fear that S
+** 古之善為政也	that the awesome presence of great rulers in the past
+:PROPERTIES:
+:SRC: ZGC 5.11.7; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a01:3::古之 / 戰國策
+:CHARPOS: 3
+:END:
+*** 善@shàn
+:PROPERTIES:
+:CONCEPT: uuid-ef2009c7-53eb-431f-8176-9c67049fc61f / EXCELLENT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 5
+:END:
+善@shàn	[[tls:concept:EXCELLENT::#uuid-ef2009c7-53eb-431f-8176-9c67049fc61f][EXCELLENT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / excel at, be good at
+*** 政@zhèng
+:PROPERTIES:
+:CONCEPT: uuid-37eb6fea-b6bf-4b98-8e23-914d330dbb07 / GOVERN
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 7
+:END:
+政@zhèng	[[tls:concept:GOVERN::#uuid-37eb6fea-b6bf-4b98-8e23-914d330dbb07][GOVERN]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / administration of a state, public administration; administrative measure; administrative method; administrative tasks and problems; administrative practice
+** 使者直道而行	and their deputies trod a straight path,
+:PROPERTIES:
+:SRC: ZGC 5.11.7; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a05:1::使者 / 戰國策
+:CHARPOS: 1
+:END:
+*** 直@zhí
+:PROPERTIES:
+:CONCEPT: uuid-17532c42-db94-4851-bb45-8cdaca65632d / STRAIGHT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+直@zhí	[[tls:concept:STRAIGHT::#uuid-17532c42-db94-4851-bb45-8cdaca65632d][STRAIGHT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / straight and unwarped, not bent, not crooked; direct (not unnecessarily long)
+** 不敢為非	fearing to do otherwise.
+:PROPERTIES:
+:SRC: ZGC 5.11.7; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a06:50::不敢 / 戰國策
+:CHARPOS: 50
+:END:
+*** 非@fēi
+:PROPERTIES:
+:CONCEPT: uuid-520698b4-8525-41bb-82e7-d7c56e4cffd6 / WICKED
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+非@fēi	[[tls:concept:WICKED::#uuid-520698b4-8525-41bb-82e7-d7c56e4cffd6][WICKED]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / improper act, fault; wrongdoing; untruth; occasionally: sense for what is wrong
+** 分裂諸侯	split the Lords among themselves
+:PROPERTIES:
+:SRC: ZGC 5.11.7; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a07:50::分裂 / 戰國策
+:CHARPOS: 50
+:END:
+*** 分裂@fēnliè
+:PROPERTIES:
+:CONCEPT: uuid-4d59c5f6-4cc5-47ec-8176-138a59d47654 / SPLIT
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 50
+:END:
+分裂@fēnliè	[[tls:concept:SPLIT::#uuid-4d59c5f6-4cc5-47ec-8176-138a59d47654][SPLIT]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / divide so as to definitively split up completely> sow dissent among
+** 操大國之勢	He arrogates the power of a great state
+:PROPERTIES:
+:SRC: ZGC 5.11.8; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a09:1::操大 / 戰國策
+:CHARPOS: 1
+:END:
+*** 操@cāo
+:PROPERTIES:
+:CONCEPT: uuid-22a1bedc-7fe0-4161-94ed-b10517d234a2 / CONTROL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+操@cāo	[[tls:concept:CONTROL::#uuid-22a1bedc-7fe0-4161-94ed-b10517d234a2][CONTROL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / wield effective control over
+*** 勢@shì
+:PROPERTIES:
+:CONCEPT: uuid-d22f242f-2b40-4608-81a6-ae7c46416473 / POWER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 5
+:END:
+勢@shì	[[tls:concept:POWER::#uuid-d22f242f-2b40-4608-81a6-ae7c46416473][POWER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / position of power; strategic advantage; power; clout
+** 強徵兵	to muster troops
+:PROPERTIES:
+:SRC: ZGC 5.11.8; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a10:50::強徵 / 戰國策
+:CHARPOS: 50
+:END:
+*** 徵@zhēng
+:PROPERTIES:
+:CONCEPT: uuid-4af7a12a-87a8-4225-b157-7ea6e7e7da36 / GATHER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+徵@zhēng	[[tls:concept:GATHER::#uuid-4af7a12a-87a8-4225-b157-7ea6e7e7da36][GATHER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / assemble (an armed force)
+** 戰勝攻取	but the profit from his victories and gains
+:PROPERTIES:
+:SRC: ZGC 5.11.8; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a12:1::戰勝 / 戰國策
+:CHARPOS: 1
+:END:
+*** 戰勝@zhànshèng
+:PROPERTIES:
+:CONCEPT: uuid-23b6e4ea-a6dc-45b9-86dd-352ab050acb8 / WIN
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 1
+:END:
+戰勝@zhànshèng	[[tls:concept:WIN::#uuid-23b6e4ea-a6dc-45b9-86dd-352ab050acb8][WIN]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / fight so as to win> fight a victorious battle, win a/the battle
+*** 攻取@gōngqǔ
+:PROPERTIES:
+:CONCEPT: uuid-9c91fc4d-1728-4271-b423-6f67355ca2b2 / ATTACK
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+攻取@gōngqǔ	[[tls:concept:ATTACK::#uuid-9c91fc4d-1728-4271-b423-6f67355ca2b2][ATTACK]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / attack so as to take, attack successfully
+** 竭入太后之家	enter the treasuries of the queen mother,
+:PROPERTIES:
+:SRC: ZGC 5.11.8; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a15:1::竭入 / 戰國策
+:CHARPOS: 1
+:END:
+*** 太后@tàihòu
+:PROPERTIES:
+:CONCEPT: uuid-bec7a7ef-c3aa-42aa-b375-5f39a458c0fa / QUEEN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 3
+:END:
+太后@tàihòu	[[tls:concept:QUEEN::#uuid-bec7a7ef-c3aa-42aa-b375-5f39a458c0fa][QUEEN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / queen mother
+** 竟內之利	while revenue from within your borders
+:PROPERTIES:
+:SRC: ZGC 5.11.8; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a16:50::竟內 / 戰國策
+:CHARPOS: 50
+:END:
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-1e945652-81ae-4422-8980-a23edbd75632 / PROFIT
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-1e945652-81ae-4422-8980-a23edbd75632][PROFIT]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / profit, income
+** 危主滅國之道	"the road to danger and destruction for state and ruler"
+:PROPERTIES:
+:SRC: ZGC 5.11.9; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a19:1::『危 / 戰國策
+:CHARPOS: 1
+:END:
+*** 危@wēi
+:PROPERTIES:
+:CONCEPT: uuid-088a7172-cb4a-4ef2-9cfa-acdaa25bb4bd / DANGER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+危@wēi	[[tls:concept:DANGER::#uuid-088a7172-cb4a-4ef2-9cfa-acdaa25bb4bd][DANGER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / expose (someone or something) to danger; to put in danger, endanger; to jeopardise; to pose a danger for
+*** 滅@miè
+:PROPERTIES:
+:CONCEPT: uuid-1c8461fa-1f41-49bc-b43a-f2ca3bd1692f / DESTROY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+滅@miè	[[tls:concept:DESTROY::#uuid-1c8461fa-1f41-49bc-b43a-f2ca3bd1692f][DESTROY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / destroy; wipe out, obliterate (may occasionally take abstract objects)
+** 三貴竭國以自安	If three honoured persons can drain the state to secure themselves,
+:PROPERTIES:
+:SRC: ZGC 5.11.9; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a21:1::三貴 / 戰國策
+:CHARPOS: 1
+:END:
+*** 竭@jié
+:PROPERTIES:
+:CONCEPT: uuid-6bc9d95c-2e43-4bc1-8b32-a61bbaf3c890 / EXHAUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 3
+:END:
+竭@jié	[[tls:concept:EXHAUST::#uuid-6bc9d95c-2e43-4bc1-8b32-a61bbaf3c890][EXHAUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to be dry > exhaust the resources of; use up
+*** 自安@zìān
+:PROPERTIES:
+:CONCEPT: uuid-b0c41f1f-87c0-47f6-b27f-b51892a3da3a / SAFE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 6
+:END:
+自安@zìān	[[tls:concept:SAFE::#uuid-b0c41f1f-87c0-47f6-b27f-b51892a3da3a][SAFE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / keep oneself safe; secure one's own safety
+** 然則令何得從王出	can the king's power be absolute?
+:PROPERTIES:
+:SRC: ZGC 5.11.9; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a22:50::然則 / 戰國策
+:CHARPOS: 50
+:END:
+*** 令@lìng
+:PROPERTIES:
+:CONCEPT: uuid-e5a0eded-e5bc-4569-95d2-e627d29071f1 / COMMAND
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 52
+:END:
+令@lìng	[[tls:concept:COMMAND::#uuid-e5a0eded-e5bc-4569-95d2-e627d29071f1][COMMAND]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / command, order
+** 權何得毋分	And do commands originate with him?
+:PROPERTIES:
+:SRC: ZGC 5.11.9; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a23:50::權何 / 戰國策
+:CHARPOS: 50
+:END:
+*** 權@quán
+:PROPERTIES:
+:CONCEPT: uuid-62eb66bc-7367-44e0-a1c2-08ebc641af28 / POWER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2ef405b2-627b-4f29-940b-848d5428e30e
+:CHARPOS: 50
+:END:
+權@quán	[[tls:concept:POWER::#uuid-62eb66bc-7367-44e0-a1c2-08ebc641af28][POWER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2ef405b2-627b-4f29-940b-848d5428e30e][social]]} / leverage; political leverage, weight and power; power to make the final assessment
+*** 分@fēn
+:PROPERTIES:
+:CONCEPT: uuid-99ccdf4d-8d2f-4181-955d-4dd1549ef2b4 / DIVIDE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 54
+:END:
+分@fēn	[[tls:concept:DIVIDE::#uuid-99ccdf4d-8d2f-4181-955d-4dd1549ef2b4][DIVIDE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be divided (as Jìn into three states); be not concentrated in one hand but divided (as power etc)
+** 是我王果處三分之一也	In truth, your majesty, only one command in every three does.'161
+:PROPERTIES:
+:SRC: ZGC 5.11.9; tr. Crump 1979 no. 96, p 109, ed. Shanghaiguji p. 198
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_085:2a23:50::是我 / 戰國策
+:CHARPOS: 50
+:END:
+*** 果@guǒ
+:PROPERTIES:
+:CONCEPT: uuid-28a722b0-e98d-45ac-96a9-b3f9b98b33da / REALITY
+:SYN-FUNC: uuid-9e261ad1-59c5-4818-90e7-cc726a717900
+:CHARPOS: 53
+:END:
+果@guǒ	[[tls:concept:REALITY::#uuid-28a722b0-e98d-45ac-96a9-b3f9b98b33da][REALITY]]	N [[tls:syn-func::#uuid-9e261ad1-59c5-4818-90e7-cc726a717900][nab.adV]] / as a fruit> eventually; i n the event, as predicted, as one suspected, really, indeed; as it happened

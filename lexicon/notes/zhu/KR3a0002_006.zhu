@@ -1,0 +1,460 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 荀子 KR3a0002_006
+#+DATE: 2017-02-08T16:41:40+0900
+#+PROPERTY: COMMIT ddeec5ec188de85913927f32a208650c789be44e
+** 不知一天下建國家之權稱	Some men do not know how to unify the world or how to establish the "evaluations and designations" of the nation,
+:PROPERTIES:
+:SRC: XUN 6:4:1,Beida p. 66; Knoblock 1:223
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:4a01:1::不知 / 荀子
+:CHARPOS: 1
+:END:
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 7
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation
+** 而群天下之英傑	and assembled the most talented heroes of the world,
+:PROPERTIES:
+:SRC: XUN 6:8:1, Beida p. 68; Knoblock 1:225
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:8a04:1::而群 / 荀子
+:CHARPOS: 1
+:END:
+*** 英傑@yīngjié / 英杰@yīngjié
+:PROPERTIES:
+:CONCEPT: uuid-0740d08c-80b3-4ab0-9666-477a802cc8ac / HERO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 6
+:END:
+英傑@yīngjié / 英杰@yīngjié	[[tls:concept:HERO::#uuid-0740d08c-80b3-4ab0-9666-477a802cc8ac][HERO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / hero
+** 歙然聖王之文章具焉	the full array of forms and outward signs of the sage king would gather about him,
+:PROPERTIES:
+:SRC: XUN 6:8:1, Beida p. 68; Knoblock 1:225
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:8a08:1::歙然 / 荀子
+:CHARPOS: 1
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-13edc240-b5f7-45b5-bcab-8a830a825085 / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-13edc240-b5f7-45b5-bcab-8a830a825085][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the sage king (with untensed predicate)
+** 十二子者不能親也	and men like these twelve philosophers could not associate with him.
+:PROPERTIES:
+:SRC: XUN 6:8:1, Beida p. 68; Knoblock 1:225
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:8a11:1::十二 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3
+:CHARPOS: 4
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3][npro:post.Npost-V{NUM}]] / after number phrase　三家者， 之數物者
+** 仲尼子弓是也	Such were Confucius and Zigong.
+:PROPERTIES:
+:SRC: XUN 6:8:2, Beida p. 68; Knoblock 1:225
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:8a20:1::仲尼 / 荀子
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-360710ac-befe-4876-9049-5978a7651960 / SUCH
+:SYN-FUNC: uuid-57ce2afe-2539-46f3-abe4-7f85130914ca
+:CHARPOS: 5
+:END:
+是@shì	[[tls:concept:SUCH::#uuid-360710ac-befe-4876-9049-5978a7651960][SUCH]]	N [[tls:syn-func::#uuid-57ce2afe-2539-46f3-abe4-7f85130914ca][npro{PRED}]] / be such; be a paradigmatic example; be a typical case in point; be a relevant example; be a paradigm case
+** 一天下	If a man unifies the whole empire,
+:PROPERTIES:
+:SRC: XUN 6:8:3, Beida p. 69; Knoblock 1:225
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:9a01:1::一天 / 荀子
+:CHARPOS: 1
+:END:
+*** 一@yī
+:PROPERTIES:
+:CONCEPT: uuid-1b2566ba-a361-4482-8fda-43d41e8ff058 / UNITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 1
+:END:
+一@yī	[[tls:concept:UNITE::#uuid-1b2566ba-a361-4482-8fda-43d41e8ff058][UNITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / (cause to become a unit >) to unite (e.g. the empire); unify (people's outlooks), cause to (continue to be) unified
+** 長養人民	rears and nourishes the common people,
+:PROPERTIES:
+:SRC: XUN 6:8:3, Beida p. 69; Knoblock 1:225
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:9a03:1::長養 / 荀子
+:CHARPOS: 1
+:END:
+*** 人民@rénmín
+:PROPERTIES:
+:CONCEPT: uuid-24c10756-8e4a-4761-88ca-519a12a2555f / PEOPLE
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+人民@rénmín	[[tls:concept:PEOPLE::#uuid-24c10756-8e4a-4761-88ca-519a12a2555f][PEOPLE]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / population; the population at large; human beings, humankind
+** 兼利天下	benefits the whole world universally -
+:PROPERTIES:
+:SRC: XUN 6:8:3, Beida p. 69; Knoblock 1:225
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:9a04:50::兼利 / 荀子
+:CHARPOS: 50
+:END:
+*** 利@lì
+:PROPERTIES:
+:CONCEPT: uuid-ef1b9e6f-3361-4478-b111-376d4ee758a2 / PROFIT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 51
+:END:
+利@lì	[[tls:concept:PROFIT::#uuid-ef1b9e6f-3361-4478-b111-376d4ee758a2][PROFIT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / benefit; be profitable for; provide for the good of; work for the profit of, be of benefit to
+** 十二子者遷化	and men like these twelve philosophers are converted,
+:PROPERTIES:
+:SRC: XUN 6:8:3, Beida p. 69; Knoblock 1:225
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:9a07:1::十二 / 荀子
+:CHARPOS: 1
+:END:
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3
+:CHARPOS: 4
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3][npro:post.Npost-V{NUM}]] / after number phrase　三家者， 之數物者
+** 舜禹是也	Such were Shun and Yu.
+:PROPERTIES:
+:SRC: XUN 6:8:3, Beida p. 69; Knoblock 1:225
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:9a09:1::舜、 / 荀子
+:CHARPOS: 1
+:END:
+*** 是@shì
+:PROPERTIES:
+:CONCEPT: uuid-360710ac-befe-4876-9049-5978a7651960 / SUCH
+:SYN-FUNC: uuid-57ce2afe-2539-46f3-abe4-7f85130914ca
+:CHARPOS: 3
+:END:
+是@shì	[[tls:concept:SUCH::#uuid-360710ac-befe-4876-9049-5978a7651960][SUCH]]	N [[tls:syn-func::#uuid-57ce2afe-2539-46f3-abe4-7f85130914ca][npro{PRED}]] / be such; be a paradigmatic example; be a typical case in point; be a relevant example; be a paradigm case
+** 今夫仁人也	With what task
+:PROPERTIES:
+:SRC: XUN 6:8:4, Beida p. 69; Knoblock 1:225
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:10a01:1::今夫 / 荀子
+:CHARPOS: 1
+:END:
+*** 仁人@rénrén
+:PROPERTIES:
+:CONCEPT: uuid-391c8858-c687-4387-8933-d034ad4d8e64 / BENEVOLENCE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+仁人@rénrén	[[tls:concept:BENEVOLENCE::#uuid-391c8858-c687-4387-8933-d034ad4d8e64][BENEVOLENCE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a man of human-heartedness
+** 仁人之事畢	the indertakings of the humane man are completed,
+:PROPERTIES:
+:SRC: XUN 6:8:4, Beida p. 69; Knoblock 1:225
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:10a07:1::仁人 / 荀子
+:CHARPOS: 1
+:END:
+*** 仁人@rénrén
+:PROPERTIES:
+:CONCEPT: uuid-391c8858-c687-4387-8933-d034ad4d8e64 / BENEVOLENCE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+仁人@rénrén	[[tls:concept:BENEVOLENCE::#uuid-391c8858-c687-4387-8933-d034ad4d8e64][BENEVOLENCE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a man of human-heartedness
+** 聖王之跡箸矣	and the footprints of the sage kings are made visible.
+:PROPERTIES:
+:SRC: XUN 6:8:4, Beida p. 69; Knoblock 1:225
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:10a08:50::聖王 / 荀子
+:CHARPOS: 50
+:END:
+*** 聖王@shèngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e / KING
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 50
+:END:
+聖王@shèngwáng	[[tls:concept:KING::#uuid-f13ef4a7-8c5f-449a-8231-18e2393d143e][KING]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the sage kings
+** 君子也	
+:PROPERTIES:
+:SRC: XUN 6:9:2, Beida p. 70; Knoblock 1:226
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:11a12:1::君子 / 荀子
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-306d730e-e077-4635-a472-d13cd22aebe5 / GOOD
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-306d730e-e077-4635-a472-d13cd22aebe5][GOOD]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be a person of superior character
+** 而流湎然	his thoughts drowning in the verniage of his idle chatter
+:PROPERTIES:
+:SRC: XUN 6:9:2, Beida p. 70; Knoblock 1:226
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:11a13:50::而流 / 荀子
+:CHARPOS: 50
+:END:
+*** 流湎@liúmiǎn
+:PROPERTIES:
+:CONCEPT: uuid-758b9410-d168-4c8a-a596-b4d8551933d7 / ADDICTED
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 51
+:END:
+流湎@liúmiǎn	[[tls:concept:ADDICTED::#uuid-758b9410-d168-4c8a-a596-b4d8551933d7][ADDICTED]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / indulge habitual overuse of alcohol
+** 小人也	
+:PROPERTIES:
+:SRC: XUN 6:9:2, Beida p. 70; Knoblock 1:226
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:11a15:1::小人 / 荀子
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-efef4f79-65be-4085-8c83-c1b8b09cafc3 / BAD
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 1
+:END:
+小人@xiǎorén	[[tls:concept:BAD::#uuid-efef4f79-65be-4085-8c83-c1b8b09cafc3][BAD]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be a despicable petty person
+** 此三姦者	The sage kings forbade
+:PROPERTIES:
+:SRC: XUN 6:9:3, Beida p. 70; Knoblock 1:226
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:11a23:1::此三 / 荀子
+:CHARPOS: 1
+:END:
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-cdcc3c0f-a3ee-4ad0-b637-2198842301cf / THIS
+:SYN-FUNC: uuid-06d4edd0-d354-40e9-bfb6-dc7fc051bd1b
+:CHARPOS: 1
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-cdcc3c0f-a3ee-4ad0-b637-2198842301cf][THIS]]	 [[tls:syn-func::#uuid-06d4edd0-d354-40e9-bfb6-dc7fc051bd1b][npro.adV{NUM}+Nab]] / these so-and-so-many abstract Ns　此三欲
+*** 者@zhě
+:PROPERTIES:
+:CONCEPT: uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1 / POSTNOMINAL PARTICLE
+:SYN-FUNC: uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3
+:CHARPOS: 4
+:END:
+者@zhě	[[tls:concept:POSTNOMINAL PARTICLE::#uuid-00c7ebb4-0e0d-460f-b313-8816d42245a1][POSTNOMINAL PARTICLE]]	N [[tls:syn-func::#uuid-5b5adabe-90c1-4378-9039-e14fd74f03b3][npro:post.Npost-V{NUM}]] / after number phrase　三家者， 之數物者
+** 玩姦而澤	playing with dissoluteness out of considerations of benefit,
+:PROPERTIES:
+:SRC: XUN 6:9:4, Beida p. 70; Knoblock 1:226
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:11a33:1::玩姦 / 荀子
+:CHARPOS: 1
+:END:
+*** 玩@wán
+:PROPERTIES:
+:CONCEPT: uuid-96e64adb-495e-41a2-994e-611ca4d22774 / PLAY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+玩@wán	[[tls:concept:PLAY::#uuid-96e64adb-495e-41a2-994e-611ca4d22774][PLAY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / play with and enjoy; deal flippantly with; play around with
+*** 姦@jiān
+:PROPERTIES:
+:CONCEPT: uuid-27ebe5a4-7a97-4f01-aab9-513e0b62244c / WICKED
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+姦@jiān	[[tls:concept:WICKED::#uuid-27ebe5a4-7a97-4f01-aab9-513e0b62244c][WICKED]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / wickedness, villainy, villainous behaviour; moral incompetence
+** 遇友則脩禮節辭讓之義	When he meets a friend, he devotes himself to showing the appropriate courtesies and rules, polite refusals, and yielding precedence.
+:PROPERTIES:
+:SRC: XUN 6:10:2, Beida p. 71; Knoblock 1:227
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:12a13:1::遇友 / 荀子
+:CHARPOS: 1
+:END:
+*** 友@yǒu
+:PROPERTIES:
+:CONCEPT: uuid-8af6f025-dafe-4cdc-ae12-4c165e3f2235 / FRIEND
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 2
+:END:
+友@yǒu	[[tls:concept:FRIEND::#uuid-8af6f025-dafe-4cdc-ae12-4c165e3f2235][FRIEND]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / [my] friend, person of similar ideals
+** 則賢者貴之	esteems the worthy
+:PROPERTIES:
+:SRC: XUN 6:10:2, Beida p. 71; Knoblock 1:227
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:12a20:1::則賢 / 荀子
+:CHARPOS: 1
+:END:
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-f5feebdb-7213-4906-b1dd-aad778d29afd / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 2
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-f5feebdb-7213-4906-b1dd-aad778d29afd][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / those who are possessed of moral worth and talent (at a certain time or in a certain place)
+*** 賢者@xiánzhě
+:PROPERTIES:
+:CONCEPT: uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1 / TALENT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 2
+:END:
+賢者@xiánzhě	[[tls:concept:TALENT::#uuid-e7ce68f9-e139-44ca-90b7-4b0efb8b5fb1][TALENT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / abstractly: the man of talent and moral worth (at any time and in any place)
+** 羞獨富者也	and were ashamed to keep wealth for themselves alone.
+:PROPERTIES:
+:SRC: XUN 6:11:1, Beida p. 71; Knoblock 1:227
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:13a08:1::羞獨 / 荀子
+:CHARPOS: 1
+:END:
+*** 羞@xiū
+:PROPERTIES:
+:CONCEPT: uuid-2eeced7a-105a-4fdc-a9b0-d3bd63394d8a / SHAME
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 1
+:END:
+羞@xiū	[[tls:concept:SHAME::#uuid-2eeced7a-105a-4fdc-a9b0-d3bd63394d8a][SHAME]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / feel personally ashamed to V
+** 以不俗為俗	They take the extraordinary as the ordinary,
+:PROPERTIES:
+:SRC: XUN 6:11:4, Beida p. 72; Knoblock 1:228
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:14a12:1::以不 / 荀子
+:CHARPOS: 1
+:END:
+*** 不俗@bùsú
+:PROPERTIES:
+:CONCEPT: uuid-22b040b4-f9a1-44cc-8e45-cea8136d421f / NOBLE
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:SEM-FEAT: uuid-9530ae9f-75b5-410f-9376-4472f38c74c0
+:CHARPOS: 2
+:END:
+不俗@bùsú	[[tls:concept:NOBLE::#uuid-22b040b4-f9a1-44cc-8e45-cea8136d421f][NOBLE]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] {[[tls:sem-feat::#uuid-9530ae9f-75b5-410f-9376-4472f38c74c0][litotes]]} / what is not vulgar>noble and elegant
+** 故君子恥不脩	Hence, the gentleman is ashamed not to cultivate himself,
+:PROPERTIES:
+:SRC: XUN 6:12:1, Beida p. 73; Knoblock 1:228
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:15a08:1::故君 / 荀子
+:CHARPOS: 1
+:END:
+*** 恥@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-1bd624d2-3008-45da-8ed7-6ee3f993e80c / DISGRACE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 4
+:END:
+恥@chǐ	[[tls:concept:DISGRACE::#uuid-1bd624d2-3008-45da-8ed7-6ee3f993e80c][DISGRACE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / find it publicly unacceptable to V; find it a public disgrace to V, feel it to be a public disgrace that one Vs
+** 不恥見汙	but he is not ashamed to appear to have flaws.
+:PROPERTIES:
+:SRC: XUN 6:12:1, Beida p. 73; Knoblock 1:228
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:15a09:50::不恥 / 荀子
+:CHARPOS: 50
+:END:
+*** 恥@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-1bd624d2-3008-45da-8ed7-6ee3f993e80c / DISGRACE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+恥@chǐ	[[tls:concept:DISGRACE::#uuid-1bd624d2-3008-45da-8ed7-6ee3f993e80c][DISGRACE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / find it publicly unacceptable to V; find it a public disgrace to V, feel it to be a public disgrace that one Vs
+** 恥不信	He would be ashamed not to be trustworthy,
+:PROPERTIES:
+:SRC: XUN 6:12:1, Beida p. 73; Knoblock 1:228
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:15a10:50::恥不 / 荀子
+:CHARPOS: 50
+:END:
+*** 恥@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-1bd624d2-3008-45da-8ed7-6ee3f993e80c / DISGRACE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 50
+:END:
+恥@chǐ	[[tls:concept:DISGRACE::#uuid-1bd624d2-3008-45da-8ed7-6ee3f993e80c][DISGRACE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / find it publicly unacceptable to V; find it a public disgrace to V, feel it to be a public disgrace that one Vs
+** 恥不能	He would be ashamed to be lacking ability,
+:PROPERTIES:
+:SRC: XUN 6:12:1, Beida p. 73; Knoblock 1:228
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:15a12:1::恥不 / 荀子
+:CHARPOS: 1
+:END:
+*** 恥@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-1bd624d2-3008-45da-8ed7-6ee3f993e80c / DISGRACE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 1
+:END:
+恥@chǐ	[[tls:concept:DISGRACE::#uuid-1bd624d2-3008-45da-8ed7-6ee3f993e80c][DISGRACE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / find it publicly unacceptable to V; find it a public disgrace to V, feel it to be a public disgrace that one Vs
+** 不恥不見用	but he is not ashamed that he remains unused.
+:PROPERTIES:
+:SRC: XUN 6:12:1, Beida p. 73; Knoblock 1:228
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:15a13:50::不恥 / 荀子
+:CHARPOS: 50
+:END:
+*** 恥@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-1bd624d2-3008-45da-8ed7-6ee3f993e80c / DISGRACE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+恥@chǐ	[[tls:concept:DISGRACE::#uuid-1bd624d2-3008-45da-8ed7-6ee3f993e80c][DISGRACE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / find it publicly unacceptable to V; find it a public disgrace to V, feel it to be a public disgrace that one Vs
+** 無廉恥而忍䜁訽是學者之嵬也	lacking integrity and a sense of shame, but rather acting cruelly, disgracefully, and insultingly. Such is the conceited manner of your students.
+:PROPERTIES:
+:SRC: XUN 6:13:4, Beida p. 74; Knoblock 1:229
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:16a41:1::無廉 / 荀子
+:CHARPOS: 1
+:END:
+*** 廉恥@liánchǐ
+:PROPERTIES:
+:CONCEPT: uuid-0864efbc-8cde-4500-ba95-a1657edd89a8 / GOOD
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-62a630be-58ae-44f4-b858-a7540b2de8d3
+:CONCEPT: uuid-0417bbd0-26f4-4eaa-9c98-413686f0f4d8 / SHAME
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CONCEPT: uuid-3b5597c2-567e-406d-843c-516b71dc8e79 / SCOLD
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+廉恥@liánchǐ	[[tls:concept:GOOD::#uuid-0864efbc-8cde-4500-ba95-a1657edd89a8][GOOD]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-62a630be-58ae-44f4-b858-a7540b2de8d3][moral]]} / moral integrity and proper sense of shame> moral integrity
+〓#謑@xǐ	[[tls:concept:SHAME::#uuid-0417bbd0-26f4-4eaa-9c98-413686f0f4d8][SHAME]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / public disgrace
+〓#詬@gòu	[[tls:concept:SCOLD::#uuid-3b5597c2-567e-406d-843c-516b71dc8e79][SCOLD]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / insult
+** 無廉恥而耆飲食	lacking integrity, shameless, interested only in food and drink
+:PROPERTIES:
+:SRC: XUN 6:13:6, Beida p. 75; Knoblock 1:229
+:DATE: 8110	late Warring States
+:LOCATION: KR3a0002_006:17a09:1::無廉 / 荀子
+:CHARPOS: 1
+:END:
+*** 廉恥@liánchǐ
+:PROPERTIES:
+:CONCEPT: uuid-0864efbc-8cde-4500-ba95-a1657edd89a8 / GOOD
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-62a630be-58ae-44f4-b858-a7540b2de8d3
+:CHARPOS: 2
+:END:
+廉恥@liánchǐ	[[tls:concept:GOOD::#uuid-0864efbc-8cde-4500-ba95-a1657edd89a8][GOOD]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-62a630be-58ae-44f4-b858-a7540b2de8d3][moral]]} / moral integrity and proper sense of shame> moral integrity

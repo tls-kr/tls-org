@@ -1,0 +1,75 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_010
+#+DATE: 2017-02-08T16:41:08+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 前相工師藉恐客之傷己也	Kung-shih Chieh, the former minister, feared he would speak against him,
+:PROPERTIES:
+:SRC: ZGC 1.10; tr. Crump 1979 no. 40, p. 50 Kung-shih Chieh gets a word in first
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_010:1a02:1::前相 / 戰國策
+:CHARPOS: 1
+:END:
+*** 前@qián
+:PROPERTIES:
+:CONCEPT: uuid-72b80f3c-2b23-48e8-9a1f-7246277f6c75 / PAST
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+前@qián	[[tls:concept:PAST::#uuid-72b80f3c-2b23-48e8-9a1f-7246277f6c75][PAST]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / (temporal) previous, earlier, former; preceding 前人,前相
+*** 恐@kǒng
+:PROPERTIES:
+:CONCEPT: uuid-90a58ff1-8b39-4bc5-b835-d7de1d5bd26a / FEAR
+:SYN-FUNC: uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade
+:CHARPOS: 6
+:END:
+恐@kǒng	[[tls:concept:FEAR::#uuid-90a58ff1-8b39-4bc5-b835-d7de1d5bd26a][FEAR]]	V [[tls:syn-func::#uuid-faa1cf25-fe9d-4e48-b4e5-9efdf3cd3ade][vtoNPab{S}]] / be afraid that S
+*** 己@jǐ
+:PROPERTIES:
+:CONCEPT: uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1 / SELF
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 10
+:END:
+己@jǐ	[[tls:concept:SELF::#uuid-7a84c171-158c-40a1-9f71-5aa93f1163b1][SELF]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / object pronoun, resumptive, non-contrastive: oneself, himself, herself, themselves
+** 辯士也	are great debators,
+:PROPERTIES:
+:SRC: ZGC 1.10; tr. Crump 1979 no. 40, p. 50 Kung-shih Chieh gets a word in first
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_010:1a05:1::辯士 / 戰國策
+:CHARPOS: 1
+:END:
+*** 辯@biàn / 辨@biàn
+:PROPERTIES:
+:CONCEPT: uuid-1690f47a-9e0d-4e62-a56a-52ede7dbeb79 / ELOQUENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+辯@biàn / 辨@biàn	[[tls:concept:ELOQUENT::#uuid-1690f47a-9e0d-4e62-a56a-52ede7dbeb79][ELOQUENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / eloquent, well-spoken; LH 1: interested in rhetoric
+** 然而所以不可者	but what makes them unacceptable
+:PROPERTIES:
+:SRC: ZGC 1.10; tr. Crump 1979 no. 40, p. 50 Kung-shih Chieh gets a word in first
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_010:1a06:50::然而 / 戰國策
+:CHARPOS: 50
+:END:
+*** 可@kě
+:PROPERTIES:
+:CONCEPT: uuid-d1c7d7e9-9a66-4389-99a1-ef62b5f3c1b9 / GOOD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 55
+:END:
+可@kě	[[tls:concept:GOOD::#uuid-d1c7d7e9-9a66-4389-99a1-ef62b5f3c1b9][GOOD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be morally acceptable; be OK; be advisable
+** 好毀人	is their delight in slandering others.'
+:PROPERTIES:
+:SRC: ZGC 1.10; tr. Crump 1979 no. 40, p. 50 Kung-shih Chieh gets a word in first
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_010:1a06:50::好毀 / 戰國策
+:CHARPOS: 50
+:END:
+*** 毀@huǐ / 譭@huǐ
+:PROPERTIES:
+:CONCEPT: uuid-92d59d2d-fdd0-4f00-a075-d85c34cab166 / SLANDER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+毀@huǐ / 譭@huǐ	[[tls:concept:SLANDER::#uuid-92d59d2d-fdd0-4f00-a075-d85c34cab166][SLANDER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / vilify, speak ill of without good reason; also privately: vilify, calumniate

@@ -1,0 +1,60 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 老子 KR5c0057_078
+#+DATE: 2017-02-08T16:43:48+0900
+#+PROPERTY: COMMIT 3195ca6fab4b831cea37297715912ad887c220fe
+** 弱之勝強	That the weak overcomes the strong,
+:PROPERTIES:
+:SRC: LAO 78.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_078:1a04:1::弱之 / 老子
+:CHARPOS: 1
+:END:
+*** 弱@ruò
+:PROPERTIES:
+:CONCEPT: uuid-0cfae616-649f-4706-b4f8-b080ad732d2a / WEAK
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+弱@ruò	[[tls:concept:WEAK::#uuid-0cfae616-649f-4706-b4f8-b080ad732d2a][WEAK]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the weak; a weak person; the weaker party
+*** 強@qiáng / 強@qiáng
+:PROPERTIES:
+:CONCEPT: uuid-8805662d-35b4-434c-a867-276310b39ab8 / STRONG
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 4
+:END:
+強@qiáng / 強@qiáng	[[tls:concept:STRONG::#uuid-8805662d-35b4-434c-a867-276310b39ab8][STRONG]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / those who are strong and powerful; person who is strong; the stronger party
+** 柔之勝剛	the soft overcomes the hard,
+:PROPERTIES:
+:SRC: LAO 78.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_078:1a05:50::柔之 / 老子
+:CHARPOS: 50
+:END:
+*** 柔@róu
+:PROPERTIES:
+:CONCEPT: uuid-75698594-de2a-44b0-a45a-22e9a335d391 / SOFT
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 50
+:END:
+柔@róu	[[tls:concept:SOFT::#uuid-75698594-de2a-44b0-a45a-22e9a335d391][SOFT]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / the soft and weak
+*** 剛@gāng
+:PROPERTIES:
+:CONCEPT: uuid-c62f933f-84fe-417c-9fff-8f20b21f369d / HARD
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:CHARPOS: 53
+:END:
+剛@gāng	[[tls:concept:HARD::#uuid-c62f933f-84fe-417c-9fff-8f20b21f369d][HARD]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] / that which is firm, the firm and strong things; a hard substance
+** 若反	may appear to be (reversed:) absurd.
+:PROPERTIES:
+:SRC: LAO 78.1; tr. D.C. Lau 19i2:DATE: 8120	middle Warring States
+:LOCATION: KR5c0057_078:1a12:3::若反 / 老子
+:CHARPOS: 3
+:END:
+*** 反@fǎn
+:PROPERTIES:
+:CONCEPT: uuid-f7510d7f-ed53-44c3-8013-9f67e2bb35eb / ABSURD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+反@fǎn	[[tls:concept:ABSURD::#uuid-f7510d7f-ed53-44c3-8013-9f67e2bb35eb][ABSURD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / contrary to what is known> absurd

@@ -1,0 +1,594 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_043
+#+DATE: 2017-02-08T16:35:52+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 君子所其	Oh, what the noble man aims at
+:PROPERTIES:
+:SRC: SHU 35.1, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a03:1::君子 / 尚書
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461 / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-cd13d5df-e93d-49ca-8496-22eeb60aa461][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / a person of superior character; the person of superior character 得見君子者斯可矣。
+** 先知稼穡之艱難	If you take your ease after first having experienced the hardships of husbandry,
+:PROPERTIES:
+:SRC: SHU 35.2, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a04:1::先知 / 尚書
+:CHARPOS: 1
+:END:
+*** 稼穡@jiàsè
+:PROPERTIES:
+:CONCEPT: uuid-ce9fb513-993c-419d-837a-280c3e829f3b / AGRICULTURE
+:SYN-FUNC: uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+稼穡@jiàsè	[[tls:concept:AGRICULTURE::#uuid-ce9fb513-993c-419d-837a-280c3e829f3b][AGRICULTURE]]	N [[tls:syn-func::#uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54][NPab{N1&N2}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (sow and harvest>) husbandry; agricultural production
+*** 艱難@jiānnàn
+:PROPERTIES:
+:CONCEPT: uuid-0dd52d50-c41c-4255-a44f-66fc77d105fe / DISTRESS
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 6
+:END:
+艱難@jiānnàn	[[tls:concept:DISTRESS::#uuid-0dd52d50-c41c-4255-a44f-66fc77d105fe][DISTRESS]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / severe difficulties, tribulations
+** 乃逸則知小人之依	then you will understand the sufferings of the small people.
+:PROPERTIES:
+:SRC: SHU 35.2, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a05:50::乃逸 / 尚書
+:CHARPOS: 50
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-acad86b1-1b2a-41c0-bb34-4451ad917235 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 54
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-acad86b1-1b2a-41c0-bb34-4451ad917235][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / person of ordinary low status, close to 庶人
+** 相小人	Look at the small people.
+:PROPERTIES:
+:SRC: SHU 35.3, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a07:50::相小 / 尚書
+:CHARPOS: 50
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-acad86b1-1b2a-41c0-bb34-4451ad917235 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 51
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-acad86b1-1b2a-41c0-bb34-4451ad917235][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / person of ordinary low status, close to 庶人
+** 厥父母勤勞稼穡	When their fathers and mothers have toiled with husbandry,
+:PROPERTIES:
+:SRC: SHU 35.3, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a08:50::厥父 / 尚書
+:CHARPOS: 50
+:END:
+*** 稼穡@jiàsè
+:PROPERTIES:
+:CONCEPT: uuid-ce9fb513-993c-419d-837a-280c3e829f3b / AGRICULTURE
+:SYN-FUNC: uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+稼穡@jiàsè	[[tls:concept:AGRICULTURE::#uuid-ce9fb513-993c-419d-837a-280c3e829f3b][AGRICULTURE]]	N [[tls:syn-func::#uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54][NPab{N1&N2}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (sow and harvest>) husbandry; agricultural production
+** 厥子乃不知稼穡之艱難	their sons do not know the hardships of husbandry
+:PROPERTIES:
+:SRC: SHU 35.3, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a09:50::厥子 / 尚書
+:CHARPOS: 50
+:END:
+*** 艱難@jiānnàn
+:PROPERTIES:
+:CONCEPT: uuid-0dd52d50-c41c-4255-a44f-66fc77d105fe / DISTRESS
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 58
+:END:
+艱難@jiānnàn	[[tls:concept:DISTRESS::#uuid-0dd52d50-c41c-4255-a44f-66fc77d105fe][DISTRESS]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / severe difficulties, tribulations
+** 嗚呼我聞曰	Oh Ihave heard
+:PROPERTIES:
+:SRC: SHU 35.4, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a15:1::「嗚 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-f6d689f3-eb57-4368-9845-dbb36607be8e / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 3
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-f6d689f3-eb57-4368-9845-dbb36607be8e][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (at present, or remembering the personal past)
+** 天命自度	By (the norms of) Heaven`s commands he measured himself,
+:PROPERTIES:
+:SRC: SHU 35.4, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a17:5::天命 / 尚書
+:CHARPOS: 5
+:END:
+*** 天命@tiānmìng
+:PROPERTIES:
+:CONCEPT: uuid-6d596f58-2ad9-46cb-8423-d7ba97631705 / COMMAND
+:SYN-FUNC: uuid-523feb6c-418f-43d7-a46c-d14351943136
+:CHARPOS: 5
+:END:
+天命@tiānmìng	[[tls:concept:COMMAND::#uuid-6d596f58-2ad9-46cb-8423-d7ba97631705][COMMAND]]	N [[tls:syn-func::#uuid-523feb6c-418f-43d7-a46c-d14351943136][NPab.adV]] / by the commands of Heaven, using the commands of Heaven as a standard
+*** 度@duó
+:PROPERTIES:
+:CONCEPT: uuid-da8258ab-ac8f-4cbb-8f08-e74592767168 / ASSESS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 8
+:END:
+度@duó	[[tls:concept:ASSESS::#uuid-da8258ab-ac8f-4cbb-8f08-e74592767168][ASSESS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / assess (oneself)
+** 爰暨小人	and he (acted=) worked together with the small people.
+:PROPERTIES:
+:SRC: SHU 35.5.1, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a23:1::爰暨 / 尚書
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-acad86b1-1b2a-41c0-bb34-4451ad917235 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 3
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-acad86b1-1b2a-41c0-bb34-4451ad917235][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / person of ordinary low status, close to 庶人
+** 嘉靖殷邦	He tranquilized Yīn`s state,
+:PROPERTIES:
+:SRC: SHU 35.5.2, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a30:1::嘉靖 / 尚書
+:CHARPOS: 1
+:END:
+*** 邦@bāng
+:PROPERTIES:
+:CONCEPT: uuid-e38d13fb-07ca-4093-ab5a-2183452c33a1 / STATE
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:CHARPOS: 4
+:END:
+邦@bāng	[[tls:concept:STATE::#uuid-e38d13fb-07ca-4093-ab5a-2183452c33a1][STATE]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] / 魯邦 "the Land of Lǔ", 我周邦
+** 舊為小人	and for long he was one of the small people.
+:PROPERTIES:
+:SRC: SHU 35.6, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a35:1::舊為 / 尚書
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-4d85ba88-c9e4-40cb-b088-be1cc2aafdb2 / ORDINARY
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 3
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-4d85ba88-c9e4-40cb-b088-be1cc2aafdb2][ORDINARY]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be just an ordinary person;
+** 爰知小人之依	then he knew the sufferings of the small people.
+:PROPERTIES:
+:SRC: SHU 35.6, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a37:1::爰知 / 尚書
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-acad86b1-1b2a-41c0-bb34-4451ad917235 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 3
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-acad86b1-1b2a-41c0-bb34-4451ad917235][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / person of ordinary low status, close to 庶人
+** 能保惠于庶民	He could give protection and kindness to the common people,
+:PROPERTIES:
+:SRC: SHU 35.6, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a38:50::能保 / 尚書
+:CHARPOS: 50
+:END:
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-9b94b935-e39a-412c-be8b-c6177933825e / ABLE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 50
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-9b94b935-e39a-412c-be8b-c6177933825e][ABLE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / have the capacity to VERB properly, be constitutionally able to VERB; be physically capable of, be actually able to
+** 不知稼穡之艱難	and did not know the hardships of husbandry,
+:PROPERTIES:
+:SRC: SHU 35.7, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a43:1::不知 / 尚書
+:CHARPOS: 1
+:END:
+*** 稼穡@jiàsè
+:PROPERTIES:
+:CONCEPT: uuid-ce9fb513-993c-419d-837a-280c3e829f3b / AGRICULTURE
+:SYN-FUNC: uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 3
+:END:
+稼穡@jiàsè	[[tls:concept:AGRICULTURE::#uuid-ce9fb513-993c-419d-837a-280c3e829f3b][AGRICULTURE]]	N [[tls:syn-func::#uuid-bbd209f5-4f28-4ec3-963c-a1359aaf7c54][NPab{N1&N2}]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / (sow and harvest>) husbandry; agricultural production
+*** 艱難@jiānnàn
+:PROPERTIES:
+:CONCEPT: uuid-0dd52d50-c41c-4255-a44f-66fc77d105fe / DISTRESS
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-a24260a1-0410-4d64-acde-5967b1bef725
+:CHARPOS: 6
+:END:
+艱難@jiānnàn	[[tls:concept:DISTRESS::#uuid-0dd52d50-c41c-4255-a44f-66fc77d105fe][DISTRESS]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-a24260a1-0410-4d64-acde-5967b1bef725][intensitive]]} / severe difficulties, tribulations
+** 不聞小人之勞	they did not hear about the toilings of the small people.
+:PROPERTIES:
+:SRC: SHU 35.7, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a44:50::不聞 / 尚書
+:CHARPOS: 50
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-acad86b1-1b2a-41c0-bb34-4451ad917235 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 52
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-acad86b1-1b2a-41c0-bb34-4451ad917235][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / person of ordinary low status, close to 庶人
+** 惟耽樂之從	they (pursued=) were bent on being steeped in pleasure.
+:PROPERTIES:
+:SRC: SHU 35.7, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a45:50::惟耽 / 尚書
+:CHARPOS: 50
+:END:
+*** 耽樂@dānlè
+:PROPERTIES:
+:CONCEPT: uuid-17f3c618-b60b-476b-9424-838d80d90f6e / HAPPY
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 51
+:END:
+耽樂@dānlè	[[tls:concept:HAPPY::#uuid-17f3c618-b60b-476b-9424-838d80d90f6e][HAPPY]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / debauched happiness
+** 或十年	some had ten years (sc. on the throne),
+:PROPERTIES:
+:SRC: SHU 35.7, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a48:1::或十 / 尚書
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 或七八年	some seven or eight years,
+:PROPERTIES:
+:SRC: SHU 35.7, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a49:50::或七 / 尚書
+:CHARPOS: 50
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 50
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 或四三年	some four or tree years.
+:PROPERTIES:
+:SRC: SHU 35.7, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a51:1::或四 / 尚書
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 嗚呼厥亦惟我周	Oh, when it (likewise=)in the same way was (the turn of) our Zhōu,
+:PROPERTIES:
+:SRC: SHU 35.8, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a53:1::「嗚 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 6
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 王季克自抑畏	Tài Wáng and Wáng Jì could restrain themselves and be awed.
+:PROPERTIES:
+:SRC: SHU 35.8, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a54:1::王季 / 尚書
+:CHARPOS: 1
+:END:
+*** 抑@yì
+:PROPERTIES:
+:CONCEPT: uuid-b2d47c6f-0b35-4fea-b58a-d7a87d87f452 / RESTRAIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 5
+:END:
+抑@yì	[[tls:concept:RESTRAIN::#uuid-b2d47c6f-0b35-4fea-b58a-d7a87d87f452][RESTRAIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / restrain (oneself)
+** 自朝至于日中昃	From morning to the sun`s being in the middle (of its course) and being (slanting=) in the west
+:PROPERTIES:
+:SRC: SHU 35.10, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a60:1::自朝 / 尚書
+:CHARPOS: 1
+:END:
+*** 日中@rìzhōng
+:PROPERTIES:
+:CONCEPT: uuid-363139c2-1b34-4dcc-99af-fa3f459a4c8d / NOON
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 5
+:END:
+日中@rìzhōng	[[tls:concept:NOON::#uuid-363139c2-1b34-4dcc-99af-fa3f459a4c8d][NOON]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / midday, noon
+*** 昃@zè
+:PROPERTIES:
+:CONCEPT: uuid-5aa26ad6-184f-42ac-a163-228622f6bcf4 / AFTERNOON
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 7
+:END:
+昃@zè	[[tls:concept:AFTERNOON::#uuid-5aa26ad6-184f-42ac-a163-228622f6bcf4][AFTERNOON]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / OBI: afternoon
+** 今日耽樂	today I will (be steeped in=) indulge in pleasure.
+:PROPERTIES:
+:SRC: SHU 35.13, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a72:4::『今 / 尚書
+:CHARPOS: 4
+:END:
+*** 耽樂@dānlè
+:PROPERTIES:
+:CONCEPT: uuid-180cb556-3253-4b19-a5b6-7cf90166fb49 / HAPPY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 6
+:END:
+耽樂@dānlè	[[tls:concept:HAPPY::#uuid-180cb556-3253-4b19-a5b6-7cf90166fb49][HAPPY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / have fun, indulge in pleasure
+** 酗于酒德哉	and his disposition of one madly given to wine.
+:PROPERTIES:
+:SRC: SHU 35.13, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a77:1::酗于 / 尚書
+:CHARPOS: 1
+:END:
+*** 酗@xù
+:PROPERTIES:
+:CONCEPT: uuid-f96f89ab-aecb-4228-a524-e852ac462983 / ADDICTED
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 1
+:END:
+酗@xù	[[tls:concept:ADDICTED::#uuid-f96f89ab-aecb-4228-a524-e852ac462983][ADDICTED]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / addicted to (wine) 酗于酒
+*** 德@dé
+:PROPERTIES:
+:CONCEPT: uuid-7ff4696c-f188-496e-b1f1-99f9ba8f4b42 / FEATURE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 4
+:END:
+德@dé	[[tls:concept:FEATURE::#uuid-7ff4696c-f188-496e-b1f1-99f9ba8f4b42][FEATURE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / trait; characteristic feature; characteristic powers (of wine etc)
+** 嗚呼我聞曰	Oh, I have heard
+:PROPERTIES:
+:SRC: SHU 35.14, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a79:1::「嗚 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-f6d689f3-eb57-4368-9845-dbb36607be8e / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 3
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-f6d689f3-eb57-4368-9845-dbb36607be8e][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (at present, or remembering the personal past)
+** 人乃訓之	the people will comply with you
+:PROPERTIES:
+:SRC: SHU 35.15, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a85:1::人乃 / 尚書
+:CHARPOS: 1
+:END:
+*** 乃@nǎi / 迺@nǎi
+:PROPERTIES:
+:CONCEPT: uuid-d5f9c225-330b-4a1e-b342-86c3c335af13 / THEN
+:SYN-FUNC: uuid-f6980e39-6a66-40ea-899f-95eaf0384097
+:CHARPOS: 2
+:END:
+乃@nǎi / 迺@nǎi	[[tls:concept:THEN::#uuid-d5f9c225-330b-4a1e-b342-86c3c335af13][THEN]]	P [[tls:syn-func::#uuid-f6980e39-6a66-40ea-899f-95eaf0384097][padV.postN{SUBJ}:post-S]] / (THE SUBJECT N) then (will VERB)
+** 乃變亂先王之正刑	and change and disorder the former kings` correct laws
+:PROPERTIES:
+:SRC: SHU 35.15, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a86:50::乃變 / 尚書
+:CHARPOS: 50
+:END:
+*** 變亂@biànluàn
+:PROPERTIES:
+:CONCEPT: uuid-29e3e268-edce-4fa1-89cb-13e008728122 / CHAOS
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 51
+:END:
+變亂@biànluàn	[[tls:concept:CHAOS::#uuid-29e3e268-edce-4fa1-89cb-13e008728122][CHAOS]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / change into a chaotic state
+** 否則厥口詛祝	if they disapprove of you, their mouths will curse you.
+:PROPERTIES:
+:SRC: SHU 35.15, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a89:1::否則 / 尚書
+:CHARPOS: 1
+:END:
+*** 詛祝@zǔzhòu
+:PROPERTIES:
+:CONCEPT: uuid-a0940db9-e098-4483-bf57-d7391792db00 / CURSE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 5
+:END:
+詛祝@zǔzhòu	[[tls:concept:CURSE::#uuid-a0940db9-e098-4483-bf57-d7391792db00][CURSE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / curse
+** 及祖甲及我周文王	and to Zǔ Jiǎ and to our Wén Wáng of Zhōu,
+:PROPERTIES:
+:SRC: SHU 35.16, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a91:11::及祖 / 尚書
+:CHARPOS: 11
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 15
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 小人怨汝詈汝	the small people bear resentment against you and revile you,
+:PROPERTIES:
+:SRC: SHU 35.17, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a94:1::『小 / 尚書
+:CHARPOS: 1
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-acad86b1-1b2a-41c0-bb34-4451ad917235 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 1
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-acad86b1-1b2a-41c0-bb34-4451ad917235][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / person of ordinary low status, close to 庶人
+*** 詈@lì
+:PROPERTIES:
+:CONCEPT: uuid-25e12158-bb32-4671-9939-20e2e2cad39f / SCOLD
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 5
+:END:
+詈@lì	[[tls:concept:SCOLD::#uuid-25e12158-bb32-4671-9939-20e2e2cad39f][SCOLD]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / LISAO: swear at, vent one's anger at, often as a bystander or not face-to-face; expostulate against
+** 朕之愆允若時	When it truly was like this, (our crimes were indeed like this. CH)
+:PROPERTIES:
+:SRC: SHU 35.17, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a97:1::『朕 / 尚書
+:CHARPOS: 1
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-c6f4d987-b17f-4831-aced-466371946702 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-aeccff3b-b5dc-4421-b9ca-dbdd57a5fed6
+:CHARPOS: 1
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-c6f4d987-b17f-4831-aced-466371946702][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-aeccff3b-b5dc-4421-b9ca-dbdd57a5fed6][marked]]} / my, the modification being marked by 之
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 1
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my
+** 不啻不敢含怒	they not only dared not bear anger (sc. they even welcomed criticism).
+:PROPERTIES:
+:SRC: SHU 35.17, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a98:50::不啻 / 尚書
+:CHARPOS: 50
+:END:
+*** 啻@chì
+:PROPERTIES:
+:CONCEPT: uuid-c2b9cc6f-0f8f-47a8-8244-efa2a8060c09 / ONLY
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 51
+:END:
+啻@chì	[[tls:concept:ONLY::#uuid-c2b9cc6f-0f8f-47a8-8244-efa2a8060c09][ONLY]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / only
+** 人乃或譸張為幻曰	people may impose on you and do cheating tricks, saying:
+:PROPERTIES:
+:SRC: SHU 35.18, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a100:1::人乃 / 尚書
+:CHARPOS: 1
+:END:
+*** 乃@nǎi / 迺@nǎi
+:PROPERTIES:
+:CONCEPT: uuid-d5f9c225-330b-4a1e-b342-86c3c335af13 / THEN
+:SYN-FUNC: uuid-f6980e39-6a66-40ea-899f-95eaf0384097
+:CHARPOS: 2
+:END:
+乃@nǎi / 迺@nǎi	[[tls:concept:THEN::#uuid-d5f9c225-330b-4a1e-b342-86c3c335af13][THEN]]	P [[tls:syn-func::#uuid-f6980e39-6a66-40ea-899f-95eaf0384097][padV.postN{SUBJ}:post-S]] / (THE SUBJECT N) then (will VERB)
+** 小人怨汝詈汝	the small people bear resentment against you and revile you;
+:PROPERTIES:
+:SRC: SHU 35.18, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a101:50::『小 / 尚書
+:CHARPOS: 50
+:END:
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-acad86b1-1b2a-41c0-bb34-4451ad917235 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 50
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-acad86b1-1b2a-41c0-bb34-4451ad917235][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / person of ordinary low status, close to 庶人
+** 亂罰無罪	but disorderly punish the guiltless
+:PROPERTIES:
+:SRC: SHU 35.18, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a106:1::亂罰 / 尚書
+:CHARPOS: 1
+:END:
+*** 亂@luàn
+:PROPERTIES:
+:CONCEPT: uuid-999236a6-403d-4cd1-b410-43fc443e70fe / ARBITRARY
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 1
+:END:
+亂@luàn	[[tls:concept:ARBITRARY::#uuid-999236a6-403d-4cd1-b410-43fc443e70fe][ARBITRARY]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / aribtrarily, without good cause or reason
+*** 無罪@wúzuì
+:PROPERTIES:
+:CONCEPT: uuid-88989513-8cad-44ef-8005-b8606cbfe797 / INNOCENT
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:CHARPOS: 3
+:END:
+無罪@wúzuì	[[tls:concept:INNOCENT::#uuid-88989513-8cad-44ef-8005-b8606cbfe797][INNOCENT]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] / the innocent
+** 殺無辜	and kill the innocent.
+:PROPERTIES:
+:SRC: SHU 35.18, tr. Karlgren 56
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_043:2a107:50::殺無 / 尚書
+:CHARPOS: 50
+:END:
+*** 無辜@wúgū
+:PROPERTIES:
+:CONCEPT: uuid-0410b2a6-2d14-4231-be35-3cbff55336bc / INNOCENT
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 51
+:END:
+無辜@wúgū	[[tls:concept:INNOCENT::#uuid-0410b2a6-2d14-4231-be35-3cbff55336bc][INNOCENT]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the innocent

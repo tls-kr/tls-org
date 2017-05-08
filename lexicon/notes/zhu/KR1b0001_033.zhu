@@ -1,0 +1,191 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_033
+#+DATE: 2017-02-08T16:35:51+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 西旅厎貢厥獒	the western tribe of Lu sent as tribute some of its hounds,
+:PROPERTIES:
+:SRC: SHU (LATE) 25.1; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_033:2a03:1::西旅 / 尚書
+:CHARPOS: 1
+:END:
+*** 獒@áo
+:PROPERTIES:
+:CONCEPT: uuid-0273e3f0-1954-451c-9479-ddbf4e66858c / DOG
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 6
+:END:
+獒@áo	[[tls:concept:DOG::#uuid-0273e3f0-1954-451c-9479-ddbf4e66858c][DOG]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / large fierce dog
+** 太保乃作旅獒	on which the Grand-Guardian made 'the Hounds of Lu,'
+:PROPERTIES:
+:SRC: SHU (LATE) 25.1; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_033:2a04:50::太保 / 尚書
+:CHARPOS: 50
+:END:
+*** 作@zuò / 作@zuò / 作@zuò
+:PROPERTIES:
+:CONCEPT: uuid-6f67626e-d84a-4239-8cd4-09070c48bc20 / WRITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+作@zuò / 作@zuò / 作@zuò	[[tls:concept:WRITE::#uuid-6f67626e-d84a-4239-8cd4-09070c48bc20][WRITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / write or compose (a document)
+** 狎侮君子	When (a ruler) treats superior men with such familiarity,
+:PROPERTIES:
+:SRC: SHU (LATE) 25.2.2; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_033:2a19:1::狎侮 / 尚書
+:CHARPOS: 1
+:END:
+*** 狎侮@xiáwǔ
+:PROPERTIES:
+:CONCEPT: uuid-f446ef9d-fd1b-4bdf-823e-8ab4f2ae6a43 / IMPOLITE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 1
+:END:
+狎侮@xiáwǔ	[[tls:concept:IMPOLITE::#uuid-f446ef9d-fd1b-4bdf-823e-8ab4f2ae6a43][IMPOLITE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / be impolitely over-familiar towards or with
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-4015f79c-b370-43e2-a6b7-1d9b4c31263c / GOOD
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:GOOD::#uuid-4015f79c-b370-43e2-a6b7-1d9b4c31263c][GOOD]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the men of noble character (of a certain time or place) [predicate tensed] 古之君子
+** 狎侮小人	when he so treats inferior men,
+:PROPERTIES:
+:SRC: SHU (LATE) 25.2.2; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_033:2a21:1::狎侮 / 尚書
+:CHARPOS: 1
+:END:
+*** 狎侮@xiáwǔ
+:PROPERTIES:
+:CONCEPT: uuid-f446ef9d-fd1b-4bdf-823e-8ab4f2ae6a43 / IMPOLITE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 1
+:END:
+狎侮@xiáwǔ	[[tls:concept:IMPOLITE::#uuid-f446ef9d-fd1b-4bdf-823e-8ab4f2ae6a43][IMPOLITE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / be impolitely over-familiar towards or with
+*** 小人@xiǎorén
+:PROPERTIES:
+:CONCEPT: uuid-acad86b1-1b2a-41c0-bb34-4451ad917235 / ORDINARY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 3
+:END:
+小人@xiǎorén	[[tls:concept:ORDINARY::#uuid-acad86b1-1b2a-41c0-bb34-4451ad917235][ORDINARY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / person of ordinary low status, close to 庶人
+** 玩人喪德	By trifling intercourse with men, he ruins his virtue;
+:PROPERTIES:
+:SRC: SHU (LATE) 25.2.2; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_033:2a25:1::玩人 / 尚書
+:CHARPOS: 1
+:END:
+*** 玩@wán
+:PROPERTIES:
+:CONCEPT: uuid-96e64adb-495e-41a2-994e-611ca4d22774 / PLAY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+玩@wán	[[tls:concept:PLAY::#uuid-96e64adb-495e-41a2-994e-611ca4d22774][PLAY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / play with and enjoy; deal flippantly with; play around with
+** 玩物喪志	by finding his amusement in things (of mere pleasure), he ruins his aims.
+:PROPERTIES:
+:SRC: SHU (LATE) 25.2.2; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_033:2a26:50::玩物 / 尚書
+:CHARPOS: 50
+:END:
+*** 玩@wán
+:PROPERTIES:
+:CONCEPT: uuid-96e64adb-495e-41a2-994e-611ca4d22774 / PLAY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+玩@wán	[[tls:concept:PLAY::#uuid-96e64adb-495e-41a2-994e-611ca4d22774][PLAY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / play with and enjoy; deal flippantly with; play around with
+** 志以道寧	His aims should repose in what is right;
+:PROPERTIES:
+:SRC: SHU (LATE) 25.2.3; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_033:2a27:50::志以 / 尚書
+:CHARPOS: 50
+:END:
+*** 志@zhì
+:PROPERTIES:
+:CONCEPT: uuid-c46e9e03-a167-4885-b776-2ce77561ba1b / ASPIRATION
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 50
+:END:
+志@zhì	[[tls:concept:ASPIRATION::#uuid-c46e9e03-a167-4885-b776-2ce77561ba1b][ASPIRATION]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / one's high intent; one's aspirations; one's moral aspiration, one's highest ambition; one's main tendencyBUDDH: religious aspirations
+*** 寧@níng
+:PROPERTIES:
+:CONCEPT: uuid-91d48e7f-f2e0-4916-a4f5-7e018e0f4f9f / PEACEFUL
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+寧@níng	[[tls:concept:PEACEFUL::#uuid-91d48e7f-f2e0-4916-a4f5-7e018e0f4f9f][PEACEFUL]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / feel inwardly secure, feel at peace; be peaceful (as a year, or a state)
+** 不作無益害有益	When he does not do what is unprofitable to the injury of what is profitable,
+:PROPERTIES:
+:SRC: SHU (LATE) 25.2.3; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_033:2a29:1::不作 / 尚書
+:CHARPOS: 1
+:END:
+*** 無益@wúyì
+:PROPERTIES:
+:CONCEPT: uuid-35c4bac6-158d-4aee-9f03-5074877507e3 / USELESS
+:SYN-FUNC: uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0
+:SEM-FEAT: uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f
+:CHARPOS: 3
+:END:
+無益@wúyì	[[tls:concept:USELESS::#uuid-35c4bac6-158d-4aee-9f03-5074877507e3][USELESS]]	N [[tls:syn-func::#uuid-db0698e7-db2f-4ee3-9a20-0c2b2e0cebf0][NPab]] {[[tls:sem-feat::#uuid-50da9f38-5611-463e-a0b9-5bbb7bf5e56f][subject]]} / what is useless
+*** 有益@yǒuyì
+:PROPERTIES:
+:CONCEPT: uuid-08670e3e-1198-473b-aae4-47398e740766 / PROFIT
+:SYN-FUNC: uuid-e0ab80e9-d505-441c-b27b-572c28475060
+:CHARPOS: 6
+:END:
+有益@yǒuyì	[[tls:concept:PROFIT::#uuid-08670e3e-1198-473b-aae4-47398e740766][PROFIT]]	V [[tls:syn-func::#uuid-e0ab80e9-d505-441c-b27b-572c28475060][VP{adN}]] / what is profitable
+** 不貴異物賤用物	When he does not value strange things to the contemning things that are useful,
+:PROPERTIES:
+:SRC: SHU (LATE) 25.2.3; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_033:2a31:1::不貴 / 尚書
+:CHARPOS: 1
+:END:
+*** 異@yì
+:PROPERTIES:
+:CONCEPT: uuid-b325ccd1-7bda-40da-9659-7b96949aeed2 / STRANGE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+異@yì	[[tls:concept:STRANGE::#uuid-b325ccd1-7bda-40da-9659-7b96949aeed2][STRANGE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / DIFFERING FROM THE EXPECTED> extraordinary, out of the ordinary, differing from what one might expect; eccentric
+*** 賤@jiàn
+:PROPERTIES:
+:CONCEPT: uuid-a4bc6cfd-dd4a-47ca-b754-f4845b99f158 / DESPISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21
+:CHARPOS: 5
+:END:
+賤@jiàn	[[tls:concept:DESPISE::#uuid-a4bc6cfd-dd4a-47ca-b754-f4845b99f158][DESPISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-d78eabc5-f1df-43e2-8fa5-c6514124ec21][putative]]} / hold in low esteem; think nothing of; hold in contempt
+*** 用@yòng
+:PROPERTIES:
+:CONCEPT: uuid-84883f15-a49c-4213-add0-88d939066f10 / USEFUL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 6
+:END:
+用@yòng	[[tls:concept:USEFUL::#uuid-84883f15-a49c-4213-add0-88d939066f10][USEFUL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / useful
+** 夙夜罔或不勤	early and late never be but earnest.
+:PROPERTIES:
+:SRC: SHU (LATE) 25.2.4; tr. Legge p. 345ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_033:2a40:1::夙夜 / 尚書
+:CHARPOS: 1
+:END:
+*** 夙夜@sùyè
+:PROPERTIES:
+:CONCEPT: uuid-c5206e99-ed38-4212-bb18-ccd7699d35d5 / ALWAYS
+:SYN-FUNC: uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a
+:CHARPOS: 1
+:END:
+夙夜@sùyè	[[tls:concept:ALWAYS::#uuid-c5206e99-ed38-4212-bb18-ccd7699d35d5][ALWAYS]]	N [[tls:syn-func::#uuid-291cb04a-a7fc-4fcf-b676-a103aac9ed9a][NPadV]] / from morning to evening> all day long

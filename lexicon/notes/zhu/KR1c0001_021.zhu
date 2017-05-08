@@ -1,0 +1,1431 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 毛詩 KR1c0001_021
+#+DATE: 2017-02-08T16:35:59+0900
+#+PROPERTY: COMMIT 840f2855d4a197c185b92c4078dc03678ac30333
+** 歲取十千	We take a hundredfold harvest;
+:PROPERTIES:
+:SRC: SHI 211.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:3a01:1::歲取 / 毛詩
+:CHARPOS: 1
+:END:
+*** 歲@suì
+:PROPERTIES:
+:CONCEPT: uuid-2b94fedc-4b73-4702-9c07-0b23c94ec736 / HARVEST
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+歲@suì	[[tls:concept:HARVEST::#uuid-2b94fedc-4b73-4702-9c07-0b23c94ec736][HARVEST]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / harvest
+** 食我農人	And feed our husbandmen;
+:PROPERTIES:
+:SRC: SHI 211.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:3a03:1::食我 / 毛詩
+:CHARPOS: 1
+:END:
+*** 〓#飼@sì / @
+:PROPERTIES:
+:CONCEPT: uuid-3da1c1e8-3820-4c7c-ae21-b62cb361f985 / FEED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+〓#飼@sì / @	[[tls:concept:FEED::#uuid-3da1c1e8-3820-4c7c-ae21-b62cb361f985][FEED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / give something to eat to (a person or sometimes an animal); provide for the subsistene of
+*** 農人@nóngrén
+:PROPERTIES:
+:CONCEPT: uuid-24c4ffa8-6d93-4e99-bb9e-5337a5688928 / PEASANT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+農人@nóngrén	[[tls:concept:PEASANT::#uuid-24c4ffa8-6d93-4e99-bb9e-5337a5688928][PEASANT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / peasants
+** 或耘或耔	Some weed, some earth up (the plants);
+:PROPERTIES:
+:SRC: SHI 211.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:3a06:1::或耘 / 毛詩
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 我田既臧	Our fields are good,
+:PROPERTIES:
+:SRC: SHI 211.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:4a04:1::我田 / 毛詩
+:CHARPOS: 1
+:END:
+*** 臧@zāng
+:PROPERTIES:
+:CONCEPT: uuid-b768fd6d-07f6-4ab0-8560-8355e06b70b6 / GOOD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+臧@zāng	[[tls:concept:GOOD::#uuid-b768fd6d-07f6-4ab0-8560-8355e06b70b6][GOOD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / archaic: be good
+** 農夫之慶	That is the happiness of the husbandman;
+:PROPERTIES:
+:SRC: SHI 211.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:4a05:50::農夫 / 毛詩
+:CHARPOS: 50
+:END:
+*** 慶@qìng
+:PROPERTIES:
+:CONCEPT: uuid-e3060ec5-a1e1-44f2-97e4-7ee0ea532556 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+慶@qìng	[[tls:concept:HAPPY::#uuid-e3060ec5-a1e1-44f2-97e4-7ee0ea532556][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / blissful happiness
+** 琴瑟擊鼓	We play lutes and beat drums,
+:PROPERTIES:
+:SRC: SHI 211.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:4a06:50::琴瑟 / 毛詩
+:CHARPOS: 50
+:END:
+*** 擊鼓@jīgǔ
+:PROPERTIES:
+:CONCEPT: uuid-93a0c3a7-9b5c-45b6-878c-ffc6da3e0d44 / KNOCK
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:CHARPOS: 52
+:END:
+擊鼓@jīgǔ	[[tls:concept:KNOCK::#uuid-93a0c3a7-9b5c-45b6-878c-ffc6da3e0d44][KNOCK]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] / knock or pluck (musical instruments)
+** 曾孫來止	3. The descendant comes,
+:PROPERTIES:
+:SRC: SHI 211.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:5a01:1::曾孫 / 毛詩
+:CHARPOS: 1
+:END:
+*** 曾@zēng
+:PROPERTIES:
+:CONCEPT: uuid-0157186e-70a1-4233-9ae8-c9ab1dd078ac / DISTANT
+:SYN-FUNC: uuid-b559fe37-af5e-434c-b149-a645c2273f41
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 1
+:END:
+曾@zēng	[[tls:concept:DISTANT::#uuid-0157186e-70a1-4233-9ae8-c9ab1dd078ac][DISTANT]]	P [[tls:syn-func::#uuid-b559fe37-af5e-434c-b149-a645c2273f41][padN]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / removed by one generation, great-(grandson)
+** 曾孫之稼	4. The growing grain of the descendant
+:PROPERTIES:
+:SRC: SHI 211.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:6a01:1::曾孫 / 毛詩
+:CHARPOS: 1
+:END:
+*** 曾@zēng
+:PROPERTIES:
+:CONCEPT: uuid-0157186e-70a1-4233-9ae8-c9ab1dd078ac / DISTANT
+:SYN-FUNC: uuid-b559fe37-af5e-434c-b149-a645c2273f41
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 1
+:END:
+曾@zēng	[[tls:concept:DISTANT::#uuid-0157186e-70a1-4233-9ae8-c9ab1dd078ac][DISTANT]]	P [[tls:syn-func::#uuid-b559fe37-af5e-434c-b149-a645c2273f41][padN]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / removed by one generation, great-(grandson)
+** 如坻如京	are like islands, like hils:
+:PROPERTIES:
+:SRC: SHI 211.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:6a04:1::如坻 / 毛詩
+:CHARPOS: 1
+:END:
+*** 京@jīng
+:PROPERTIES:
+:CONCEPT: uuid-c2f67bb9-e372-4eea-8c50-a48d0c474401 / MOUNTAIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+京@jīng	[[tls:concept:MOUNTAIN::#uuid-c2f67bb9-e372-4eea-8c50-a48d0c474401][MOUNTAIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (artificial) hill or pile (even of corpses) 京丘
+** 農夫之慶	These are the happiness of the husbandmen.
+:PROPERTIES:
+:SRC: SHI 211.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:6a08:1::農夫 / 毛詩
+:CHARPOS: 1
+:END:
+*** 慶@qìng
+:PROPERTIES:
+:CONCEPT: uuid-e3060ec5-a1e1-44f2-97e4-7ee0ea532556 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+慶@qìng	[[tls:concept:HAPPY::#uuid-e3060ec5-a1e1-44f2-97e4-7ee0ea532556][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / blissful happiness
+** 報以介福	(Heaven) rewards him with increased felicity;
+:PROPERTIES:
+:SRC: SHI 211.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:6a09:50::報以 / 毛詩
+:CHARPOS: 50
+:END:
+*** 福@fú
+:PROPERTIES:
+:CONCEPT: uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+福@fú	[[tls:concept:HAPPY::#uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / good fortune and happiness (also in the form of wealth...); blessings
+** 曾孫是若	The descendant approves of it (is satisfied with it).
+:PROPERTIES:
+:SRC: SHI 212.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:10a07:1::曾孫 / 毛詩
+:CHARPOS: 1
+:END:
+*** 曾@zēng
+:PROPERTIES:
+:CONCEPT: uuid-0157186e-70a1-4233-9ae8-c9ab1dd078ac / DISTANT
+:SYN-FUNC: uuid-b559fe37-af5e-434c-b149-a645c2273f41
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 1
+:END:
+曾@zēng	[[tls:concept:DISTANT::#uuid-0157186e-70a1-4233-9ae8-c9ab1dd078ac][DISTANT]]	P [[tls:syn-func::#uuid-b559fe37-af5e-434c-b149-a645c2273f41][padN]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / removed by one generation, great-(grandson)
+** 去其螟螣	We remove the noxious insects for the ears and leaves,
+:PROPERTIES:
+:SRC: SHI 212.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:11a04:1::去其 / 毛詩
+:CHARPOS: 1
+:END:
+*** 螟螣@míngtè
+:PROPERTIES:
+:CONCEPT: uuid-0b8a50e8-ef7a-4069-ad20-2057fb2403c2 / INSECT
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+螟螣@míngtè	[[tls:concept:INSECT::#uuid-0b8a50e8-ef7a-4069-ad20-2057fb2403c2][INSECT]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / noxious insects (of various sorts)
+** 秉畀炎火	He will take and deliver them to the blazing fire.
+:PROPERTIES:
+:SRC: SHI 212.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:11a08:1::秉畀 / 毛詩
+:CHARPOS: 1
+:END:
+*** 炎@yán
+:PROPERTIES:
+:CONCEPT: uuid-5e3829b2-3139-4c55-aa64-0437d2613e7b / FIRE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+炎@yán	[[tls:concept:FIRE::#uuid-5e3829b2-3139-4c55-aa64-0437d2613e7b][FIRE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / blazing, flaming
+** 雨我公田	It rains on our public field,
+:PROPERTIES:
+:SRC: SHI 212.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:12a03:1::雨我 / 毛詩
+:CHARPOS: 1
+:END:
+*** 雨@yù
+:PROPERTIES:
+:CONCEPT: uuid-20252156-df37-4ed8-8ba5-848d2ddfb9f4 / RAIN
+:SYN-FUNC: uuid-4dad7226-8922-42f9-b24a-7baa8c1169ea
+:CHARPOS: 1
+:END:
+雨@yù	[[tls:concept:RAIN::#uuid-20252156-df37-4ed8-8ba5-848d2ddfb9f4][RAIN]]	 [[tls:syn-func::#uuid-4dad7226-8922-42f9-b24a-7baa8c1169ea][vi0+N{PLACE}]] / it rains on
+** 曾孫來止	4. The descendant comes;
+:PROPERTIES:
+:SRC: SHI 212.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:13a01:1::曾孫 / 毛詩
+:CHARPOS: 1
+:END:
+*** 曾@zēng
+:PROPERTIES:
+:CONCEPT: uuid-0157186e-70a1-4233-9ae8-c9ab1dd078ac / DISTANT
+:SYN-FUNC: uuid-b559fe37-af5e-434c-b149-a645c2273f41
+:SEM-FEAT: uuid-dd37c44b-5a41-45e6-a045-090d47ae4923
+:CHARPOS: 1
+:END:
+曾@zēng	[[tls:concept:DISTANT::#uuid-0157186e-70a1-4233-9ae8-c9ab1dd078ac][DISTANT]]	P [[tls:syn-func::#uuid-b559fe37-af5e-434c-b149-a645c2273f41][padN]] {[[tls:sem-feat::#uuid-dd37c44b-5a41-45e6-a045-090d47ae4923][time]]} / removed by one generation, great-(grandson)
+** 君子至止	The lord comes,
+:PROPERTIES:
+:SRC: SHI 213.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:17a03:1::君子 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 君子至止	The lord comes;
+:PROPERTIES:
+:SRC: SHI 213.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:18a03:1::君子 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 君子萬年	May the lord have myriad years,
+:PROPERTIES:
+:SRC: SHI 213.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:18a05:1::君子 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 君子至止	The lord comes;
+:PROPERTIES:
+:SRC: SHI 213.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:19a03:1::君子 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 君子萬年	May the lord have a myriad years,
+:PROPERTIES:
+:SRC: SHI 213.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:19a05:1::君子 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 是以有慶矣	therefore there is happiness.
+:PROPERTIES:
+:SRC: SHI 214.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:24a06:1::是以 / 毛詩
+:CHARPOS: 1
+:END:
+*** 慶@qìng
+:PROPERTIES:
+:CONCEPT: uuid-e3060ec5-a1e1-44f2-97e4-7ee0ea532556 / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 4
+:END:
+慶@qìng	[[tls:concept:HAPPY::#uuid-e3060ec5-a1e1-44f2-97e4-7ee0ea532556][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / blissful happiness
+** 或黃或白	some are yellow, some are white;
+:PROPERTIES:
+:SRC: SHI 214.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:25a02:1::或黃 / 毛詩
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 六轡沃若	the six reins are (as if moist:) glossy.
+:PROPERTIES:
+:SRC: SHI 214.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:25a06:1::六轡 / 毛詩
+:CHARPOS: 1
+:END:
+*** 若@ruò
+:PROPERTIES:
+:CONCEPT: uuid-c815141e-4079-451b-9c80-df02c360f916 / SUFFIX
+:SYN-FUNC: uuid-692c0672-88f0-46d3-9778-0dcbd2eaf54b
+:CHARPOS: 4
+:END:
+若@ruò	[[tls:concept:SUFFIX::#uuid-c815141e-4079-451b-9c80-df02c360f916][SUFFIX]]	P [[tls:syn-func::#uuid-692c0672-88f0-46d3-9778-0dcbd2eaf54b][ppostadV]] / adverbial suffix
+** 君子宜之	the nobleman does it properly;
+:PROPERTIES:
+:SRC: SHI 214.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:26a02:1::君子 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 君子有之	the nobleman (possesses it=) knows how to do it;
+:PROPERTIES:
+:SRC: SHI 214.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:26a04:1::君子 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 君子樂胥	the lords are joyful,
+:PROPERTIES:
+:SRC: SHI 215.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:30a03:1::君子 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the gentlemen (of a certain time or place) 其君子
+** 有鶯其領	finally marked are their necks;
+:PROPERTIES:
+:SRC: SHI 215.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:31a02:1::有鶯 / 毛詩
+:CHARPOS: 1
+:END:
+*** 領@lǐng
+:PROPERTIES:
+:CONCEPT: uuid-e70a3c43-5ab0-4499-a9c5-254c0bdc718f / NECK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+領@lǐng	[[tls:concept:NECK::#uuid-e70a3c43-5ab0-4499-a9c5-254c0bdc718f][NECK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / neck as a whole 引領"stretch one's head"
+** 君子樂胥	the lords are joyful,
+:PROPERTIES:
+:SRC: SHI 215.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:31a03:50::君子 / 毛詩
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 50
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 50
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the gentlemen (of a certain time or place) 其君子
+** 受福不那	will they not receive much happiness!
+:PROPERTIES:
+:SRC: SHI 215.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:32a04:1::受福 / 毛詩
+:CHARPOS: 1
+:END:
+*** 福@fú
+:PROPERTIES:
+:CONCEPT: uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 2
+:END:
+福@fú	[[tls:concept:HAPPY::#uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / good fortune and happiness (also in the form of wealth...); blessings
+** 鴛鴦于飛	1. The ducks go flying,
+:PROPERTIES:
+:SRC: SHI 216.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:37a01:1::鴛鴦 / 毛詩
+:CHARPOS: 1
+:END:
+*** 鴛鴦@yuānyāng
+:PROPERTIES:
+:CONCEPT: uuid-f2f997c3-62cf-409e-9a07-c2218b268791 / DUCK
+:SYN-FUNC: uuid-81b5275d-0f2f-4adb-bb8c-91ea0371bc12
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 1
+:END:
+鴛鴦@yuānyāng	[[tls:concept:DUCK::#uuid-f2f997c3-62cf-409e-9a07-c2218b268791][DUCK]]	N [[tls:syn-func::#uuid-81b5275d-0f2f-4adb-bb8c-91ea0371bc12][nn]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / mandarin duck, also known as "love-ducks"
+** 君子萬年	may the lord have a myriad years,
+:PROPERTIES:
+:SRC: SHI 216.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:37a03:1::君子 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 福祿宜之	may felicity and blessings come to him as his (right:) due.
+:PROPERTIES:
+:SRC: SHI 216.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:37a04:50::福祿 / 毛詩
+:CHARPOS: 50
+:END:
+*** 宜@yí
+:PROPERTIES:
+:CONCEPT: uuid-e49fa61d-379f-434c-8ec7-26e3446d7176 / APPROPRIATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-902cb315-cb41-4746-bb0d-aa081c412a95
+:CHARPOS: 52
+:END:
+宜@yí	[[tls:concept:APPROPRIATE::#uuid-e49fa61d-379f-434c-8ec7-26e3446d7176][APPROPRIATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-902cb315-cb41-4746-bb0d-aa081c412a95][optative]]} / may the subject befit, be of the appropriate kind for
+** 鴛鴦在梁	2. The ducks are on the dam,
+:PROPERTIES:
+:SRC: SHI 216.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:38a01:1::鴛鴦 / 毛詩
+:CHARPOS: 1
+:END:
+*** 鴛鴦@yuānyāng
+:PROPERTIES:
+:CONCEPT: uuid-f2f997c3-62cf-409e-9a07-c2218b268791 / DUCK
+:SYN-FUNC: uuid-81b5275d-0f2f-4adb-bb8c-91ea0371bc12
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CONCEPT: uuid-209eb7b4-b6cf-4ae0-8bc4-919ae1835f6b / BIRDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+鴛鴦@yuānyāng	[[tls:concept:DUCK::#uuid-f2f997c3-62cf-409e-9a07-c2218b268791][DUCK]]	N [[tls:syn-func::#uuid-81b5275d-0f2f-4adb-bb8c-91ea0371bc12][nn]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / mandarin duck, also known as "love-ducks"
+〓#@	[[tls:concept:BIRDS::#uuid-209eb7b4-b6cf-4ae0-8bc4-919ae1835f6b][BIRDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / Mandarin duck
+*** 鴦@yāng
+:PROPERTIES:
+:CONCEPT: uuid-3ccc2eba-8853-42ad-85f9-f0b1c7176a7f / DUCK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+鴦@yāng	[[tls:concept:DUCK::#uuid-3ccc2eba-8853-42ad-85f9-f0b1c7176a7f][DUCK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / female mandarin duck
+** 戢其左翼	they gather in their left wings;
+:PROPERTIES:
+:SRC: SHI 216.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:38a02:50::戢其 / 毛詩
+:CHARPOS: 50
+:END:
+*** 戢@jí
+:PROPERTIES:
+:CONCEPT: uuid-488bd922-0daf-451c-81a4-04896d71b62b / GATHER
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+戢@jí	[[tls:concept:GATHER::#uuid-488bd922-0daf-451c-81a4-04896d71b62b][GATHER]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to collect; to gather together (and not use)
+** 君子萬年	may the lord have a myriad years,
+:PROPERTIES:
+:SRC: SHI 216.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:38a03:50::君子 / 毛詩
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 50
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 宜其遐福	may he have as his (right:) due a far-reaching happiness.
+:PROPERTIES:
+:SRC: SHI 216.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:38a04:50::宜其 / 毛詩
+:CHARPOS: 50
+:END:
+*** 遐@xiá
+:PROPERTIES:
+:CONCEPT: uuid-ed3cf689-c211-4602-b006-f915db826dee / DISTANT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17
+:CHARPOS: 52
+:END:
+遐@xiá	[[tls:concept:DISTANT::#uuid-ed3cf689-c211-4602-b006-f915db826dee][DISTANT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-2e48851c-928e-40f0-ae0d-2bf3eafeaa17][figurative]]} / far-reaching; remote; distant; refecting
+*** 福@fú
+:PROPERTIES:
+:CONCEPT: uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+福@fú	[[tls:concept:HAPPY::#uuid-587bdbf0-4995-4fe2-9fc0-762b0c5d6c3e][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / good fortune and happiness (also in the form of wealth...); blessings
+** 摧之秣之	we give them cut fodder, we give them grain,
+:PROPERTIES:
+:SRC: SHI 216.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:39a02:1::摧之 / 毛詩
+:CHARPOS: 1
+:END:
+*** 摧@cuī
+:PROPERTIES:
+:CONCEPT: uuid-653a8866-3325-48b0-9b83-e13c08003714 / FEED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+摧@cuī	[[tls:concept:FEED::#uuid-653a8866-3325-48b0-9b83-e13c08003714][FEED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / feed with cut grain/fodder
+*** 秣@mò
+:PROPERTIES:
+:CONCEPT: uuid-27b0db4a-ddf6-458a-8629-01ad3cf0868f / FEED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+秣@mò	[[tls:concept:FEED::#uuid-27b0db4a-ddf6-458a-8629-01ad3cf0868f][FEED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / feed (horses) with grain
+** 君子萬年	may the lord have a myriad years,
+:PROPERTIES:
+:SRC: SHI 216.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:39a03:50::君子 / 毛詩
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 50
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 乘馬在廄	4. The teams of horses are in the stable,
+:PROPERTIES:
+:SRC: SHI 216.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:40a01:1::乘馬 / 毛詩
+:CHARPOS: 1
+:END:
+*** 廄@jiù
+:PROPERTIES:
+:CONCEPT: uuid-8b650e67-0b1a-45be-b43c-f5ce96493914 / STABLE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+廄@jiù	[[tls:concept:STABLE::#uuid-8b650e67-0b1a-45be-b43c-f5ce96493914][STABLE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / horse stable; occasionally: fodder house (for horse fodder)
+** 秣之摧之	we give them grain, we give them cut fodder;
+:PROPERTIES:
+:SRC: SHI 216.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:40a02:50::秣之 / 毛詩
+:CHARPOS: 50
+:END:
+*** 秣@mò
+:PROPERTIES:
+:CONCEPT: uuid-27b0db4a-ddf6-458a-8629-01ad3cf0868f / FEED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+秣@mò	[[tls:concept:FEED::#uuid-27b0db4a-ddf6-458a-8629-01ad3cf0868f][FEED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / feed (horses) with grain
+*** 摧@cuī
+:PROPERTIES:
+:CONCEPT: uuid-653a8866-3325-48b0-9b83-e13c08003714 / FEED
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+摧@cuī	[[tls:concept:FEED::#uuid-653a8866-3325-48b0-9b83-e13c08003714][FEED]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / feed with cut grain/fodder
+** 君子萬年	may the lord have a myriad years,
+:PROPERTIES:
+:SRC: SHI 216.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:40a03:50::君子 / 毛詩
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 50
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+** 福祿綏之	may felicity and blessings tranquilize him.
+:PROPERTIES:
+:SRC: SHI 216.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:40a04:50::福祿 / 毛詩
+:CHARPOS: 50
+:END:
+*** 福@fú
+:PROPERTIES:
+:CONCEPT: uuid-d2d7e213-034a-45e1-9aca-ca70f974f3ac / LUCK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 50
+:END:
+福@fú	[[tls:concept:LUCK::#uuid-d2d7e213-034a-45e1-9aca-ca70f974f3ac][LUCK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / blessings (from Heaven or the ancestors); good fortune sent from above; fortunate circumstances
+*** 祿@lù
+:PROPERTIES:
+:CONCEPT: uuid-6e96a0b2-04a0-425b-85e2-92333f164a71 / LUCK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 51
+:END:
+祿@lù	[[tls:concept:LUCK::#uuid-6e96a0b2-04a0-425b-85e2-92333f164a71][LUCK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / blessings (from Heaven); good fortune
+*** 綏@suí
+:PROPERTIES:
+:CONCEPT: uuid-a6b8a887-f99a-4c20-999a-9669adc7bc31 / CONSOLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+綏@suí	[[tls:concept:CONSOLE::#uuid-a6b8a887-f99a-4c20-999a-9669adc7bc31][CONSOLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to comfort; calm down
+** 爾殽既嘉	your viands are fine;
+:PROPERTIES:
+:SRC: SHI 217.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:44a03:1::爾殽 / 毛詩
+:CHARPOS: 1
+:END:
+*** 殽@xiáo
+:PROPERTIES:
+:CONCEPT: uuid-6f5554a4-5d94-43ae-b619-78b1af9f0549 / DELICACY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 2
+:END:
+殽@xiáo	[[tls:concept:DELICACY::#uuid-6f5554a4-5d94-43ae-b619-78b1af9f0549][DELICACY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / cooked delicacies; cooked meats
+** 蔦與女蘿	the mistletoe and the dodder
+:PROPERTIES:
+:SRC: SHI 217.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:44a06:1::蔦與 / 毛詩
+:CHARPOS: 1
+:END:
+*** 蔦@niǎo
+:PROPERTIES:
+:CONCEPT: uuid-44415a5a-8f8b-43c6-a890-be628950e05f / WEEDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+蔦@niǎo	[[tls:concept:WEEDS::#uuid-44415a5a-8f8b-43c6-a890-be628950e05f][WEEDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / parasitic plants (like mistletoe)
+** 施于松柏	spread themselves over the pine and the cypress328;
+:PROPERTIES:
+:SRC: SHI 217.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:44a07:50::施于 / 毛詩
+:CHARPOS: 50
+:END:
+*** 施@shī
+:PROPERTIES:
+:CONCEPT: uuid-79eabad2-ae79-4563-9469-1cfa2b3f66da / SCATTER
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 50
+:END:
+施@shī	[[tls:concept:SCATTER::#uuid-79eabad2-ae79-4563-9469-1cfa2b3f66da][SCATTER]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / spread over
+*** 松@sōng
+:PROPERTIES:
+:CONCEPT: uuid-5b919776-e51f-400c-8c69-f7d51e5cc58e / TREE, KINDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+松@sōng	[[tls:concept:TREE, KINDS::#uuid-5b919776-e51f-400c-8c69-f7d51e5cc58e][TREE, KINDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / pine tree
+*** 柏@bó
+:PROPERTIES:
+:CONCEPT: uuid-3e033998-4d88-4cce-9f9e-fa5b24625468 / TREE, KINDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+柏@bó	[[tls:concept:TREE, KINDS::#uuid-3e033998-4d88-4cce-9f9e-fa5b24625468][TREE, KINDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / cypress
+** 未見君子	when we have not yet seen the lord,
+:PROPERTIES:
+:SRC: SHI 217.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:44a08:50::未見 / 毛詩
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 52
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 既見君子	when we have seen the lord,
+:PROPERTIES:
+:SRC: SHI 217.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:44a10:1::既見 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 庶幾說懌	there will surely be joy and delight
+:PROPERTIES:
+:SRC: SHI 217.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:44a11:50::庶幾 / 毛詩
+:CHARPOS: 50
+:END:
+*** 悅@yuè / 說@yuè
+:PROPERTIES:
+:CONCEPT: uuid-6915c464-8b40-4a0d-a8d1-d71d94af88d5 / DELIGHT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CONCEPT: uuid-10d4f554-ead9-462e-ba9d-b1c71445eddc / DELIGHT
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 50
+:END:
+悅@yuè / 說@yuè	[[tls:concept:DELIGHT::#uuid-6915c464-8b40-4a0d-a8d1-d71d94af88d5][DELIGHT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / (of persons) feel pleased, feel that one's needs are fully satisfied; (of things) be felt to be pleasant
+悅懌@yuèyì / 說懌@yuèyì	[[tls:concept:DELIGHT::#uuid-10d4f554-ead9-462e-ba9d-b1c71445eddc][DELIGHT]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be delighted
+*** 懌@yì
+:PROPERTIES:
+:CONCEPT: uuid-aab83ca7-0e46-4491-9791-43c6e1f90d12 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+懌@yì	[[tls:concept:HAPPY::#uuid-aab83ca7-0e46-4491-9791-43c6e1f90d12][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be happy, pleased; causing pleasure 不懌 "be displeased"
+** 未見君子	when we have not yet seen the lord,
+:PROPERTIES:
+:SRC: SHI 217.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:45a09:1::未見 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 既見君子	when we have seen the lord,
+:PROPERTIES:
+:SRC: SHI 217.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:45a11:1::既見 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 3
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+** 庶幾有臧	there is sure to be (good=) happiness.
+:PROPERTIES:
+:SRC: SHI 217.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:45a12:50::庶幾 / 毛詩
+:CHARPOS: 50
+:END:
+*** 臧@zāng
+:PROPERTIES:
+:CONCEPT: uuid-40fa681e-766d-45c0-a986-1f36558e8b8c / HAPPY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 53
+:END:
+臧@zāng	[[tls:concept:HAPPY::#uuid-40fa681e-766d-45c0-a986-1f36558e8b8c][HAPPY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / archaic/poetic: happiness
+** 兄弟甥舅	(No,) for brothers, nephews, uncles;
+:PROPERTIES:
+:SRC: SHI 217.6
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:46a06:1::兄弟 / 毛詩
+:CHARPOS: 1
+:END:
+*** 兄@xiōng
+:PROPERTIES:
+:CONCEPT: uuid-aee05893-7842-49e1-892e-7541218b2a53 / BROTHER
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 1
+:END:
+兄@xiōng	[[tls:concept:BROTHER::#uuid-aee05893-7842-49e1-892e-7541218b2a53][BROTHER]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / elder brother; the eldest brother
+*** 弟@dì
+:PROPERTIES:
+:CONCEPT: uuid-bd343ecf-252b-46bd-a130-1190ebfa97ed / BROTHER
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 2
+:END:
+弟@dì	[[tls:concept:BROTHER::#uuid-bd343ecf-252b-46bd-a130-1190ebfa97ed][BROTHER]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / younger brother; younger brothers
+*** 甥@shēng
+:PROPERTIES:
+:CONCEPT: uuid-f61d4a85-a83b-4300-9329-54d8123d9d8e / COUSIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 3
+:END:
+甥@shēng	[[tls:concept:COUSIN::#uuid-f61d4a85-a83b-4300-9329-54d8123d9d8e][COUSIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / sister's son
+*** 舅@jiù
+:PROPERTIES:
+:CONCEPT: uuid-2e89ef5e-8871-41dd-a639-5e00ce35e776 / UNCLE
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 4
+:END:
+舅@jiù	[[tls:concept:UNCLE::#uuid-2e89ef5e-8871-41dd-a639-5e00ce35e776][UNCLE]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / one's mother's brother; wife's brother
+** 如彼雨雪	it is like that snowfall:
+:PROPERTIES:
+:SRC: SHI 217.6
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:46a07:50::如彼 / 毛詩
+:CHARPOS: 50
+:END:
+*** 雪@xuě
+:PROPERTIES:
+:CONCEPT: uuid-34378808-f38d-4e47-837a-c8acd5fc050e / SNOW
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 53
+:END:
+雪@xuě	[[tls:concept:SNOW::#uuid-34378808-f38d-4e47-837a-c8acd5fc050e][SNOW]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / snow
+** 先集維霰	gathering before it is the sleet330 -
+:PROPERTIES:
+:SRC: SHI 217.6
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:46a08:50::先集 / 毛詩
+:CHARPOS: 50
+:END:
+*** 霰@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-48a2fdba-8670-4e0d-a62e-f622e415dfaa / SNOW
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 53
+:END:
+霰@xiàn	[[tls:concept:SNOW::#uuid-48a2fdba-8670-4e0d-a62e-f622e415dfaa][SNOW]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / snowflake
+** 君子維宴	the lord feasts!
+:PROPERTIES:
+:SRC: SHI 217.6
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:46a12:1::君子 / 毛詩
+:CHARPOS: 1
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-9f9e0487-e79d-4142-9540-c589f97ba12d
+:CHARPOS: 1
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-0fab98c0-f232-4b9f-8964-ed62e8cab3a8][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-9f9e0487-e79d-4142-9540-c589f97ba12d][anaphoric]]} / the person of high rank mentioned above; the person in charge>the ruler> my ruler侍坐於君子，君子問更端 often works like a NP[post-N]@soc.si.def "my (one and only) lord
+*** 宴@yàn / 燕@yàn
+:PROPERTIES:
+:CONCEPT: uuid-3e197b0c-bf86-484a-9e2e-bc28cf8b3ee1 / FEAST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+宴@yàn / 燕@yàn	[[tls:concept:FEAST::#uuid-3e197b0c-bf86-484a-9e2e-bc28cf8b3ee1][FEAST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / lay on a private feast
+** 依彼平林	2. Luxuriant is that forest in the plain,
+:PROPERTIES:
+:SRC: SHI 218.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:51a01:1::依彼 / 毛詩
+:CHARPOS: 1
+:END:
+*** 依@yī
+:PROPERTIES:
+:CONCEPT: uuid-744f8812-2410-4573-8d8a-fcb81f7173a7 / FLOURISH
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 1
+:END:
+依@yī	[[tls:concept:FLOURISH::#uuid-744f8812-2410-4573-8d8a-fcb81f7173a7][FLOURISH]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be luxuriant (SHI)
+** 有集維鷮	those who settle there are the pheasants;
+:PROPERTIES:
+:SRC: SHI 218.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:51a02:50::有集 / 毛詩
+:CHARPOS: 50
+:END:
+*** 維@wéi
+:PROPERTIES:
+:CONCEPT: uuid-c6f3ed71-92e1-44d9-8bc1-18554bed7aa5 / COPULA
+:SYN-FUNC: uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e
+:SEM-FEAT: uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9
+:CHARPOS: 52
+:END:
+維@wéi	[[tls:concept:COPULA::#uuid-c6f3ed71-92e1-44d9-8bc1-18554bed7aa5][COPULA]]	V [[tls:syn-func::#uuid-c87f5e8b-6512-404d-84b2-9e99a85aa28e][vt+N]] {[[tls:sem-feat::#uuid-52f9b87c-5688-4b46-b992-a5fb0bf27fb9][copula]]} / to be (only)
+*** 鷮@jiāo
+:PROPERTIES:
+:CONCEPT: uuid-c5067775-f1e1-49c7-b993-b8c72e29c452 / BIRDS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+鷮@jiāo	[[tls:concept:BIRDS::#uuid-c5067775-f1e1-49c7-b993-b8c72e29c452][BIRDS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / kind of pheasant
+** 辰彼碩女	truly that grand lady with her good virtue
+:PROPERTIES:
+:SRC: SHI 218.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:51a03:50::辰彼 / 毛詩
+:CHARPOS: 50
+:END:
+*** 碩@shuò
+:PROPERTIES:
+:CONCEPT: uuid-3292cd86-e14b-4d54-a53f-893de4f410a2 / BIG
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 52
+:END:
+碩@shuò	[[tls:concept:BIG::#uuid-3292cd86-e14b-4d54-a53f-893de4f410a2][BIG]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / grand; big; large
+** 式燕且譽	we will feast and rejoice;
+:PROPERTIES:
+:SRC: SHI 218.2
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:51a05:1::式燕 / 毛詩
+:CHARPOS: 1
+:END:
+*** 宴@yàn / 燕@yàn
+:PROPERTIES:
+:CONCEPT: uuid-3e197b0c-bf86-484a-9e2e-bc28cf8b3ee1 / FEAST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+宴@yàn / 燕@yàn	[[tls:concept:FEAST::#uuid-3e197b0c-bf86-484a-9e2e-bc28cf8b3ee1][FEAST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / lay on a private feast
+** 雖無嘉殽	even though I have no fine viands,
+:PROPERTIES:
+:SRC: SHI 218.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:52a03:1::雖無 / 毛詩
+:CHARPOS: 1
+:END:
+*** 嘉@jiā
+:PROPERTIES:
+:CONCEPT: uuid-7297f9da-9889-458e-9c1d-2a0aa6669427 / EXCELLENT
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+嘉@jiā	[[tls:concept:EXCELLENT::#uuid-7297f9da-9889-458e-9c1d-2a0aa6669427][EXCELLENT]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / praiseworthy; fine; distinguished
+*** 殽@xiáo
+:PROPERTIES:
+:CONCEPT: uuid-6f5554a4-5d94-43ae-b619-78b1af9f0549 / DELICACY
+:SYN-FUNC: uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b
+:CHARPOS: 4
+:END:
+殽@xiáo	[[tls:concept:DELICACY::#uuid-6f5554a4-5d94-43ae-b619-78b1af9f0549][DELICACY]]	N [[tls:syn-func::#uuid-e917a78b-5500-4276-a5fe-156b8bdecb7b][nm]] / cooked delicacies; cooked meats
+** 陟彼高岡	4. I ascended that high ridge
+:PROPERTIES:
+:SRC: SHI 218.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:53a01:1::陟彼 / 毛詩
+:CHARPOS: 1
+:END:
+*** 岡@gāng / 岡@gāng
+:PROPERTIES:
+:CONCEPT: uuid-a8bbd557-4ddf-47c2-99f9-e30ccf1d3eb3 / MOUNTAIN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+岡@gāng / 岡@gāng	[[tls:concept:MOUNTAIN::#uuid-a8bbd557-4ddf-47c2-99f9-e30ccf1d3eb3][MOUNTAIN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / level mountain ridge ERYA: 山脊岡 The spine of a hill
+** 高山仰止	5. The high mountains, I look up at them,
+:PROPERTIES:
+:SRC: SHI 218.5
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:54a01:1::高山 / 毛詩
+:CHARPOS: 1
+:END:
+*** 高@gāo
+:PROPERTIES:
+:CONCEPT: uuid-936ba055-7e7f-4245-8402-c7d4cfe3413e / HIGH
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 1
+:END:
+高@gāo	[[tls:concept:HIGH::#uuid-936ba055-7e7f-4245-8402-c7d4cfe3413e][HIGH]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / high; tall; sticking out high
+** 四牡騑騑	the four stallions run unceasingly,
+:PROPERTIES:
+:SRC: SHI 218.5
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:54a03:1::四牡 / 毛詩
+:CHARPOS: 1
+:END:
+*** 騑@fēi
+:PROPERTIES:
+:CONCEPT: uuid-0c03d5de-957b-42a7-96f6-2222029390c0 / GALLOP
+:SYN-FUNC: uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2
+:CHARPOS: 3
+:END:
+騑@fēi	[[tls:concept:GALLOP::#uuid-0c03d5de-957b-42a7-96f6-2222029390c0][GALLOP]]	V [[tls:syn-func::#uuid-e627d1e1-0e26-4069-9615-1025ebb7c0a2][vi.red]] / run nonstop (horses)
+** 六轡如琴	the six reins are like (the strings of) a guitar;
+:PROPERTIES:
+:SRC: SHI 218.5
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:54a04:50::六轡 / 毛詩
+:CHARPOS: 50
+:END:
+*** 轡@pèi
+:PROPERTIES:
+:CONCEPT: uuid-f1e8ae27-b414-471e-b502-e3d7bf204e36 / REINS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 51
+:END:
+轡@pèi	[[tls:concept:REINS::#uuid-f1e8ae27-b414-471e-b502-e3d7bf204e36][REINS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / reins for any horse
+*** 琴@qín
+:PROPERTIES:
+:CONCEPT: uuid-f1518953-5bc0-4ef5-9f5e-aa5b253d6545 / STRING INSTRUMENTS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+琴@qín	[[tls:concept:STRING INSTRUMENTS::#uuid-f1518953-5bc0-4ef5-9f5e-aa5b253d6545][STRING INSTRUMENTS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / lute
+** 以慰我心	and so I comfort my heart.
+:PROPERTIES:
+:SRC: SHI 218.5
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:54a06:1::以慰 / 毛詩
+:CHARPOS: 1
+:END:
+*** 慰@wèi
+:PROPERTIES:
+:CONCEPT: uuid-411eedcc-5cdf-48f3-91b1-a7a4daf3418e / CONSOLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+慰@wèi	[[tls:concept:CONSOLE::#uuid-411eedcc-5cdf-48f3-91b1-a7a4daf3418e][CONSOLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / offer consolation; comfort; soothe, be soothing
+** 營營青蠅	1. The green flies go buzzing about,
+:PROPERTIES:
+:SRC: SHI 219.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:58a01:1::營營 / 毛詩
+:CHARPOS: 1
+:END:
+*** 營營@yíngyíng
+:PROPERTIES:
+:CONCEPT: uuid-72aab1aa-c316-408b-9e19-a51fa222bf8d / FLY
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+營營@yíngyíng	[[tls:concept:FLY::#uuid-72aab1aa-c316-408b-9e19-a51fa222bf8d][FLY]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / to buzz about; hum (as flies); acc. to K. a loan-word[the word is probably not primarily referring to flying around but to be agitated and without rest (can also be used abstractly)][CA]
+*** 青@qīng
+:PROPERTIES:
+:CONCEPT: uuid-32f13b7a-1cf5-44d8-b697-a2c1e6695032 / BLUE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 3
+:END:
+青@qīng	[[tls:concept:BLUE::#uuid-32f13b7a-1cf5-44d8-b697-a2c1e6695032][BLUE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / green; green/blue; dark grey
+*** 蠅@yíng
+:PROPERTIES:
+:CONCEPT: uuid-7ef4f622-5ff0-44e5-b225-86b5d0f2d45d / INSECTS
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+蠅@yíng	[[tls:concept:INSECTS::#uuid-7ef4f622-5ff0-44e5-b225-86b5d0f2d45d][INSECTS]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / fly
+** 止于樊	they settle on the fence;
+:PROPERTIES:
+:SRC: SHI 219.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:58a02:50::止于 / 毛詩
+:CHARPOS: 50
+:END:
+*** 樊@fán
+:PROPERTIES:
+:CONCEPT: uuid-cc213dbb-a193-4df5-8380-f38e1cabc478 / FENCE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+樊@fán	[[tls:concept:FENCE::#uuid-cc213dbb-a193-4df5-8380-f38e1cabc478][FENCE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / fence, hedge
+** 豈弟君子	joyous and pleasant lord,
+:PROPERTIES:
+:SRC: SHI 219.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:58a03:50::豈弟 / 毛詩
+:CHARPOS: 50
+:END:
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-29971868-b699-454a-a043-a89d9443e597 / FRIEND
+:SYN-FUNC: uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 52
+:END:
+君子@jūnzǐ	[[tls:concept:FRIEND::#uuid-29971868-b699-454a-a043-a89d9443e597][FRIEND]]	N [[tls:syn-func::#uuid-5ea9716c-7949-4bdf-bdfd-7d5993d5c9ee][NP{post-npro1}]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / noble companion (of the lexically determinate speaker)
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-6e3c856a-93f2-4562-a4f7-d7efa9012e61 / YOU
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 52
+:END:
+君子@jūnzǐ	[[tls:concept:YOU::#uuid-6e3c856a-93f2-4562-a4f7-d7efa9012e61][YOU]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / you, sir, of noble character
+** 無信讒言	do not believe slanderous words.
+:PROPERTIES:
+:SRC: SHI 219.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:58a04:50::無信 / 毛詩
+:CHARPOS: 50
+:END:
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-e89baa0f-c427-4262-99c2-3188de68197a / BELIEVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+信@xìn	[[tls:concept:BELIEVE::#uuid-e89baa0f-c427-4262-99c2-3188de68197a][BELIEVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / trust to be true, believe; have faith inalso religiously BUDDH: believe in 信佛語
+*** 讒@chán
+:PROPERTIES:
+:CONCEPT: uuid-bd8d2b77-a373-4a25-ae41-d2566542ddda / SLANDER
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 52
+:END:
+讒@chán	[[tls:concept:SLANDER::#uuid-bd8d2b77-a373-4a25-ae41-d2566542ddda][SLANDER]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / slanderous, slandering 讒人
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-e1ea3b15-12f1-4a2e-9dcc-77e67cfd779a / SPEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-e1ea3b15-12f1-4a2e-9dcc-77e67cfd779a][SPEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / word; sentence; doctrine as expressed in words
+** 賓之初筵	1. When the guests first go their (mats:) seats,
+:PROPERTIES:
+:SRC: SHI 220.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:64a01:1::賓之 / 毛詩
+:CHARPOS: 1
+:END:
+*** 筵@yán
+:PROPERTIES:
+:CONCEPT: uuid-57c59cf2-11e2-4f3a-8c9e-ece7db5221ec / SEAT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+筵@yán	[[tls:concept:SEAT::#uuid-57c59cf2-11e2-4f3a-8c9e-ece7db5221ec][SEAT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / go to one's seat; be seated
+** 籩豆有楚	the Bian and Dou vessels are there in full array,
+:PROPERTIES:
+:SRC: SHI 220.1
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:64a03:1::籩豆 / 毛詩
+:CHARPOS: 1
+:END:
+*** 楚@chǔ
+:PROPERTIES:
+:CONCEPT: uuid-7ee024c3-2e05-45e0-8f8f-6ef90067bdbf / ORDERLY
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 4
+:END:
+楚@chǔ	[[tls:concept:ORDERLY::#uuid-7ee024c3-2e05-45e0-8f8f-6ef90067bdbf][ORDERLY]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / full array
+** 籥舞笙鼓	3. With flutes they dance to reed-organs and drums,
+:PROPERTIES:
+:SRC: SHI 220.3
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:65a01:1::籥舞 / 毛詩
+:CHARPOS: 1
+:END:
+*** 籥@yuè
+:PROPERTIES:
+:CONCEPT: uuid-144ee850-ed6e-434d-8c9b-101250fe5d4a / PIPE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 1
+:END:
+籥@yuè	[[tls:concept:PIPE::#uuid-144ee850-ed6e-434d-8c9b-101250fe5d4a][PIPE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / primitive short bamboo flute with three holes
+** 其湛曰樂	they may rejoice and be happy;
+:PROPERTIES:
+:SRC: SHI 220.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:65a09:1::其湛 / 毛詩
+:CHARPOS: 1
+:END:
+*** 樂@lè
+:PROPERTIES:
+:CONCEPT: uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15 / HAPPY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+樂@lè	[[tls:concept:HAPPY::#uuid-94c2d71d-6167-4e8b-a71a-f8d655ebfb15][HAPPY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / find communicative happiness; be communicatively happy (the optative cases have to be moved!)
+** 賓載手仇	the guests then (lay hands on=) select their partners334,
+:PROPERTIES:
+:SRC: SHI 220.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:65a11:1::賓載 / 毛詩
+:CHARPOS: 1
+:END:
+*** 仇@qiú
+:PROPERTIES:
+:CONCEPT: uuid-fa3ce5df-32c6-4de2-b3ba-f82751986505 / FRIEND
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+仇@qiú	[[tls:concept:FRIEND::#uuid-fa3ce5df-32c6-4de2-b3ba-f82751986505][FRIEND]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / mate, friend
+** 酌彼康爵	the they fill that cup of rest,
+:PROPERTIES:
+:SRC: SHI 220.4
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:65a13:1::酌彼 / 毛詩
+:CHARPOS: 1
+:END:
+*** 酌@zhuó / 勺@sháo
+:PROPERTIES:
+:CONCEPT: uuid-187132d0-e48c-4699-a391-5711ba0ff695 / LADLE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-5f32072e-fea3-48cb-8d6d-a4bfffc97b96
+:CHARPOS: 1
+:END:
+酌@zhuó / 勺@sháo	[[tls:concept:LADLE::#uuid-187132d0-e48c-4699-a391-5711ba0ff695][LADLE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-5f32072e-fea3-48cb-8d6d-a4bfffc97b96][object=vessel]]} / ladle from (a wine vessel)
+** 賓之初筵	5. When the guests first go to their (mats:) seats,
+:PROPERTIES:
+:SRC: SHI 220.5
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:66a01:1::賓之 / 毛詩
+:CHARPOS: 1
+:END:
+*** 筵@yán
+:PROPERTIES:
+:CONCEPT: uuid-57c59cf2-11e2-4f3a-8c9e-ece7db5221ec / SEAT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+筵@yán	[[tls:concept:SEAT::#uuid-57c59cf2-11e2-4f3a-8c9e-ece7db5221ec][SEAT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / go to one's seat; be seated
+** 載號載呶	they shout and bawl;
+:PROPERTIES:
+:SRC: SHI 220.7
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:67a02:1::載號 / 毛詩
+:CHARPOS: 1
+:END:
+*** 〓#@ / 號@háo
+:PROPERTIES:
+:CONCEPT: uuid-9155ce0b-e7e4-4c70-8a73-0341eaa152ce / SHOUT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 1
+:END:
+〓#@ / 號@háo	[[tls:concept:SHOUT::#uuid-9155ce0b-e7e4-4c70-8a73-0341eaa152ce][SHOUT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / shout at the top of one's voice to make known one's feelings [also: howl][CA]
+*** 呶@náo
+:PROPERTIES:
+:CONCEPT: uuid-bb757d69-d01b-4ad3-8d12-117e0ee91a6f / CLAMOUR
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+呶@náo	[[tls:concept:CLAMOUR::#uuid-bb757d69-d01b-4ad3-8d12-117e0ee91a6f][CLAMOUR]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / clamour
+** 亂我籩豆	they upset our Bian and Dou vessels,
+:PROPERTIES:
+:SRC: SHI 220.7
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:67a03:50::亂我 / 毛詩
+:CHARPOS: 50
+:END:
+*** 籩@biān
+:PROPERTIES:
+:CONCEPT: uuid-decbe555-2826-4df6-ae32-0a4553f483f4 / BOWL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 52
+:END:
+籩@biān	[[tls:concept:BOWL::#uuid-decbe555-2826-4df6-ae32-0a4553f483f4][BOWL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / footed bowl for meat (and other dry foodstuffs) made of bamboo used for eating or for presenting offerings; cf. 梪
+*** 豆@dòu / 梪@dòu / @
+:PROPERTIES:
+:CONCEPT: uuid-61875514-789d-4d32-88d8-d08561efed2d / BOWL
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 53
+:END:
+豆@dòu / 梪@dòu / @	[[tls:concept:BOWL::#uuid-61875514-789d-4d32-88d8-d08561efed2d][BOWL]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / footed bowl for eating meat made of wood, also used in ritual contexts
+** 或醉或否	some are drunk, some are not;
+:PROPERTIES:
+:SRC: SHI 220.9
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:68a02:1::或醉 / 毛詩
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5f7e4c36-c515-43cb-b66f-6d9955539743 / PRONOUN
+:SYN-FUNC: uuid-da183583-38b2-44d1-8165-a48331d55847
+:SEM-FEAT: uuid-090d194a-771e-4679-bea3-800692a6c1d5
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PRONOUN::#uuid-5f7e4c36-c515-43cb-b66f-6d9955539743][PRONOUN]]	N [[tls:syn-func::#uuid-da183583-38b2-44d1-8165-a48331d55847][npro.adV]] {[[tls:sem-feat::#uuid-090d194a-771e-4679-bea3-800692a6c1d5][repeated]]} / some... others (often hard to distinguish from "either... or"); some..., the others
+** 或佐之史	and perhaps also given him for assistant a scribe;
+:PROPERTIES:
+:SRC: SHI 220.9
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:68a04:1::或佐 / 毛詩
+:CHARPOS: 1
+:END:
+*** 或@huò
+:PROPERTIES:
+:CONCEPT: uuid-5ec0614c-2d00-4d91-a583-2ad42c16d96f / PERHAPS
+:SYN-FUNC: uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62
+:CHARPOS: 1
+:END:
+或@huò	[[tls:concept:PERHAPS::#uuid-5ec0614c-2d00-4d91-a583-2ad42c16d96f][PERHAPS]]	P [[tls:syn-func::#uuid-334de932-4bb9-418a-b9a6-6beaf2ce3a62][padV]] / perhaps; presumably; as things are
+** 彼醉不臧	when those drunken ones are (not good=) misbehaving,
+:PROPERTIES:
+:SRC: SHI 220.9
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:68a05:50::彼醉 / 毛詩
+:CHARPOS: 50
+:END:
+*** 臧@zāng
+:PROPERTIES:
+:CONCEPT: uuid-b768fd6d-07f6-4ab0-8560-8355e06b70b6 / GOOD
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+臧@zāng	[[tls:concept:GOOD::#uuid-b768fd6d-07f6-4ab0-8560-8355e06b70b6][GOOD]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / archaic: be good
+** 不醉反恥	those who are not drunk are ashamed:
+:PROPERTIES:
+:SRC: SHI 220.9
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:68a06:50::不醉 / 毛詩
+:CHARPOS: 50
+:END:
+*** 恥@chǐ
+:PROPERTIES:
+:CONCEPT: uuid-8502ae31-b90b-4bec-a708-6be5656478b1 / SHAME
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+恥@chǐ	[[tls:concept:SHAME::#uuid-8502ae31-b90b-4bec-a708-6be5656478b1][SHAME]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / feel a sense of public shame or disgrace
+** 俾出童羖	you cause them to(bring out, display=) show themselves to be hornless rams (infantile adults);
+:PROPERTIES:
+:SRC: SHI 220.10
+:DATE: 11011	late Zhou
+:LOCATION: KR1c0001_021:68a12:1::俾出 / 毛詩
+:CHARPOS: 1
+:END:
+*** 童@tóng
+:PROPERTIES:
+:CONCEPT: uuid-92f5c601-cf75-49ca-bccc-ba43e55dc82d / CHILD
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 3
+:END:
+童@tóng	[[tls:concept:CHILD::#uuid-92f5c601-cf75-49ca-bccc-ba43e55dc82d][CHILD]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / children's (not specifically boy's) (ditty etc童謠, 童心); adolescent 童男女
+*** 羖@gǔ
+:PROPERTIES:
+:CONCEPT: uuid-c1d86a83-2868-41a5-a456-7fc68b59b91d / OVINE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 4
+:END:
+羖@gǔ	[[tls:concept:OVINE::#uuid-c1d86a83-2868-41a5-a456-7fc68b59b91d][OVINE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / (black) ram

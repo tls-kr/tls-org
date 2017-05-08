@@ -1,0 +1,62 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_337
+#+DATE: 2017-02-08T16:41:30+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 宋人有學者	'Once there was a student from Sung
+:PROPERTIES:
+:SRC: ZGC 24.4.1; tr. Crump 1979 no. 359, p.430, ed. Shanghaiguji p. 859. The last thing on the list
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_337:1a04:1::「宋 / 戰國策
+:CHARPOS: 1
+:END:
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-21e30350-e933-4cfd-bb2b-1c433ba0d014 / HUMAN
+:SYN-FUNC: uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c
+:CHARPOS: 2
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-21e30350-e933-4cfd-bb2b-1c433ba0d014][HUMAN]]	N [[tls:syn-func::#uuid-f9149ec1-0d9b-49e7-aab3-a5375653f36c][npost-N{PLACE}]] / the leading people of Npl
+** 吾始已諾於應侯矣	said the king to Chih Ch'i,
+:PROPERTIES:
+:SRC: ZGC 24.4.7; tr. Crump 1979 no. 359, p.432, ed. Shanghaiguji p. 861.
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_337:2a11:1::「吾 / 戰國策
+:CHARPOS: 1
+:END:
+*** 諾@nuò
+:PROPERTIES:
+:CONCEPT: uuid-05e67902-482c-4827-8b89-d901365828a7 / AGREE TO
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 4
+:END:
+諾@nuò	[[tls:concept:AGREE TO::#uuid-05e67902-482c-4827-8b89-d901365828a7][AGREE TO]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / express one's agreement with
+** 王何以臣為	asked Marquis Ch'ang-hsin.
+:PROPERTIES:
+:SRC: ZGC 24.4.8; tr. Crump 1979 no. 359, p.432, ed. Shanghaiguji p. 862-
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_337:3a04:1::「王 / 戰國策
+:CHARPOS: 1
+:END:
+*** 為@wéi
+:PROPERTIES:
+:CONCEPT: uuid-64cdf46a-f0a6-48b3-be53-2e5cc4cc5d08 / HOW
+:SYN-FUNC: uuid-aba77ad5-c92d-4e36-b905-413cb8d393e9
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 5
+:END:
+為@wéi	[[tls:concept:HOW::#uuid-64cdf46a-f0a6-48b3-be53-2e5cc4cc5d08][HOW]]	V [[tls:syn-func::#uuid-aba77ad5-c92d-4e36-b905-413cb8d393e9][vpostS]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how? (i.e. in no way); for what? to what purpose? (with or without additional 何)
+** 長信侯入見王	When Marquis Ch'ang-hsin entered for his audience
+:PROPERTIES:
+:SRC: ZGC 24.4.11; tr. Crump 1979 no. 359, p.432, ed. Shanghaiguji p. 862
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_337:4a07:1::長信 / 戰國策
+:CHARPOS: 1
+:END:
+*** 入見@rùjiàn
+:PROPERTIES:
+:CONCEPT: uuid-ba40b595-bf51-48cf-8626-a1b38062e4fd / VISIT
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 4
+:END:
+入見@rùjiàn	[[tls:concept:VISIT::#uuid-ba40b595-bf51-48cf-8626-a1b38062e4fd][VISIT]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / go in to have an audience with

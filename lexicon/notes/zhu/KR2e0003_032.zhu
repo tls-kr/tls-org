@@ -1,0 +1,270 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_032
+#+DATE: 2017-02-08T16:41:11+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 韓徵甲與粟於周	Han levied arms and provisions on Chou.
+:PROPERTIES:
+:SRC: ZGC 2.4.1; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 52 Su Tai frees Chou from a levy and wins a town for her
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a02:1::韓徵 / 戰國策
+:CHARPOS: 1
+:END:
+*** 甲@jiǎ
+:PROPERTIES:
+:CONCEPT: uuid-cda9069b-68dc-4090-95aa-ada52351c804 / SOLDIER
+:SYN-FUNC: uuid-20a87134-926d-4be7-8815-246c1f7a9ca7
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 3
+:END:
+甲@jiǎ	[[tls:concept:SOLDIER::#uuid-cda9069b-68dc-4090-95aa-ada52351c804][SOLDIER]]	 [[tls:syn-func::#uuid-20a87134-926d-4be7-8815-246c1f7a9ca7][n{adN}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / ZUO Xuan 2: armoured soldier; heavily armed soldier
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-fd745f99-fb4f-42a1-b6a2-950963484d1d / AND
+:SYN-FUNC: uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 4
+:END:
+與@yǔ	[[tls:concept:AND::#uuid-fd745f99-fb4f-42a1-b6a2-950963484d1d][AND]]	V [[tls:syn-func::#uuid-3e108814-299c-4c74-b54a-ab10bdab7c5e][vtoN1.postN2:postVt]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / and 衛侯逐公叔戍與其黨，
+** 子苟能	ciried the ruler of Chou in delight,
+:PROPERTIES:
+:SRC: ZGC 2.4.2; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 52
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a10:1::「子 / 戰國策
+:CHARPOS: 1
+:END:
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-c6621d3b-2883-42a5-b42a-fac5c1325da4 / ABLE
+:SYN-FUNC: uuid-09d661ae-604f-4650-8a7f-97c36f14acf3
+:CHARPOS: 3
+:END:
+能@néng	[[tls:concept:ABLE::#uuid-c6621d3b-2883-42a5-b42a-fac5c1325da4][ABLE]]	V [[tls:syn-func::#uuid-09d661ae-604f-4650-8a7f-97c36f14acf3][vt(+V{0})]] / be able to perform a contexually determinate action or achieve a contextually determinate quality
+** 寡人請以國聽	'then I will request that our state follow your direction in all matters.'
+:PROPERTIES:
+:SRC: ZGC 2.4.2; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 52
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a11:50::寡人 / 戰國策
+:CHARPOS: 50
+:END:
+*** 聽@tīng
+:PROPERTIES:
+:CONCEPT: uuid-f3cf7285-2b8a-4c11-857c-e082dabfd21f / CONFORM
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 55
+:END:
+聽@tīng	[[tls:concept:CONFORM::#uuid-f3cf7285-2b8a-4c11-857c-e082dabfd21f][CONFORM]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / heed or conform to a contextually determinate object
+** 公不聞楚計乎	'Has my lord not heard the plan of Ch'u?' he asked
+:PROPERTIES:
+:SRC: ZGC 2.4.2; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 52
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a13:1::「公 / 戰國策
+:CHARPOS: 1
+:END:
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e / YOU
+:SYN-FUNC: uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 1
+:END:
+公@gōng	[[tls:concept:YOU::#uuid-64379874-7d74-45e6-b2d0-1a2fa34cb33e][YOU]]	 [[tls:syn-func::#uuid-b0d6e165-728c-45bb-baf2-f85f573e8dd0][n{post-npro1.}{post=npro2}]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / honorific in informal conversation: you; also n - pro: "you my Duke"; used both as subject and as object
+** 倉廩空	and her granaries are empty.
+:PROPERTIES:
+:SRC: ZGC 2.4.2; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 52
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a16:1::倉廩 / 戰國策
+:CHARPOS: 1
+:END:
+*** 倉廩@cānglǐn
+:PROPERTIES:
+:CONCEPT: uuid-dba36211-1aa1-45e8-a88f-2ecdb1d7993d / STOREHOUSE
+:SYN-FUNC: uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 1
+:END:
+倉廩@cānglǐn	[[tls:concept:STOREHOUSE::#uuid-dba36211-1aa1-45e8-a88f-2ecdb1d7993d][STOREHOUSE]]	N [[tls:syn-func::#uuid-0ae78c50-f7f7-4ab0-bb28-9375998ac032][NP{N1=N2}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the storehouses/granarie LSCQ
+** 不過一月必拔之	and in less than a month it would be taken."
+:PROPERTIES:
+:SRC: ZGC 2.4.2; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 52
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a19:1::不過 / 戰國策
+:CHARPOS: 1
+:END:
+*** 拔@bá
+:PROPERTIES:
+:CONCEPT: uuid-fb54d097-b529-4895-9ecf-1993fe48333e / WIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 6
+:END:
+拔@bá	[[tls:concept:WIN::#uuid-fb54d097-b529-4895-9ecf-1993fe48333e][WIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / conquer (a city), take out (a military position)
+** 今圍雍氏五月不能拔	Now, however, Yung-shih has been under siege for five months and they have not been able to take it.
+:PROPERTIES:
+:SRC: ZGC 2.4.3; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 53
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a20:50::今圍 / 戰國策
+:CHARPOS: 50
+:END:
+*** 圍@wéi
+:PROPERTIES:
+:CONCEPT: uuid-b7f3d0a5-fb45-443f-9c46-aad85e7c6409 / ATTACK
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+圍@wéi	[[tls:concept:ATTACK::#uuid-b7f3d0a5-fb45-443f-9c46-aad85e7c6409][ATTACK]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / besiege (typically a city); lay siege to
+** 楚王始不信昭應之計矣	and the ruler of Ch'u has begun to suspect Chao Ying's plan is unworkable.
+:PROPERTIES:
+:SRC: ZGC 2.4.3; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 53
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a22:1::楚王 / 戰國策
+:CHARPOS: 1
+:END:
+*** 信@xìn
+:PROPERTIES:
+:CONCEPT: uuid-93053bd5-398f-4809-b4d0-5fffd662e77a / TRUST
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-e6526d79-b134-4e37-8bab-55b4884393bc
+:CHARPOS: 5
+:END:
+信@xìn	[[tls:concept:TRUST::#uuid-93053bd5-398f-4809-b4d0-5fffd662e77a][TRUST]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-e6526d79-b134-4e37-8bab-55b4884393bc][graded]]} / have or show trust in (someone or something)
+** 雍氏必拔	and it will be taken.
+:PROPERTIES:
+:SRC: ZGC 2.4.3; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 53
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a27:1::雍氏 / 戰國策
+:CHARPOS: 1
+:END:
+*** 拔@bá
+:PROPERTIES:
+:CONCEPT: uuid-31725342-fb6f-4027-aaf1-0e5cc32e44dc / WIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e
+:CHARPOS: 4
+:END:
+拔@bá	[[tls:concept:WIN::#uuid-31725342-fb6f-4027-aaf1-0e5cc32e44dc][WIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-988c2bcf-3cdd-4b9e-b8a4-615fe3f7f81e][passive]]} / be taken, be conquered
+** 然吾使者已行矣	'but my emissary has already left.'
+:PROPERTIES:
+:SRC: ZGC 2.4.3; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 53
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a30:1::然吾 / 戰國策
+:CHARPOS: 1
+:END:
+*** 然@rán
+:PROPERTIES:
+:CONCEPT: uuid-638b8edc-c74e-48ec-b3f1-fffa27a9e000 / NONETHELESS
+:SYN-FUNC: uuid-24957678-0999-4596-8e51-3945e1a7a59a
+:CHARPOS: 1
+:END:
+然@rán	[[tls:concept:NONETHELESS::#uuid-638b8edc-c74e-48ec-b3f1-fffa27a9e000][NONETHELESS]]	V [[tls:syn-func::#uuid-24957678-0999-4596-8e51-3945e1a7a59a][vadS1.post-S2]] / however; but
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-0dbe7312-339b-4105-ab6c-6bc92755ea64 / LEAVE
+:SYN-FUNC: uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11
+:CHARPOS: 6
+:END:
+行@xíng	[[tls:concept:LEAVE::#uuid-0dbe7312-339b-4105-ab6c-6bc92755ea64][LEAVE]]	V [[tls:syn-func::#uuid-53cee9f8-4041-45e5-ae55-f0bfdec33a11][vt{oN}]] / get on one's way; go one's way; walk off; leave the scene; be on one's way
+** 公何不以高都與周	'why not take this opportunity to present Chou with the town of Kao-tu?'
+:PROPERTIES:
+:SRC: ZGC 2.4.3; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 53
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a32:1::「公 / 戰國策
+:CHARPOS: 1
+:END:
+*** 與@yǔ / 予@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-fdb5df1b-e8d8-485d-ad23-e84e36d82a0f / GIVE
+:SYN-FUNC: uuid-b1da1095-72d1-4dc8-bd0c-f66788b53021
+:CHARPOS: 7
+:END:
+與@yǔ / 予@yǔ	[[tls:concept:GIVE::#uuid-fdb5df1b-e8d8-485d-ad23-e84e36d82a0f][GIVE]]	V [[tls:syn-func::#uuid-b1da1095-72d1-4dc8-bd0c-f66788b53021][vttoN1:postvtoN2]] / give (something) to (a beneficiary)
+** 與之高都	replied Tai,
+:PROPERTIES:
+:SRC: ZGC 2.4.4; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 53
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a38:1::「與 / 戰國策
+:CHARPOS: 1
+:END:
+*** 與@yǔ / 予@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-3a798fd6-388d-4429-87b4-21de50a7ae0a / GIVE
+:SYN-FUNC: uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429
+:CHARPOS: 1
+:END:
+與@yǔ / 予@yǔ	[[tls:concept:GIVE::#uuid-3a798fd6-388d-4429-87b4-21de50a7ae0a][GIVE]]	V [[tls:syn-func::#uuid-a2c810ab-05c4-4ed2-86eb-c954618d8429][vttoN1.+N2]] / hand over (something N2) to (someone N1), typically as demanded; give (as appropriate under the circumstances, but without having to)
+** 則周必折而入於韓	'Chou would submit gratefully and throw in her lot with Han.
+:PROPERTIES:
+:SRC: ZGC 2.4.4; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 53
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a39:50::則周 / 戰國策
+:CHARPOS: 50
+:END:
+*** 折@zhé
+:PROPERTIES:
+:CONCEPT: uuid-6eb9eaac-6b2a-4157-acc6-7e91c6a1e165 / SURRENDER
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+折@zhé	[[tls:concept:SURRENDER::#uuid-6eb9eaac-6b2a-4157-acc6-7e91c6a1e165][SURRENDER]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / cave in> surrender
+** 而焚周之節	burn Chou's passport tallies
+:PROPERTIES:
+:SRC: ZGC 2.4.4; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 53
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a41:1::而焚 / 戰國策
+:CHARPOS: 1
+:END:
+*** 焚@fén
+:PROPERTIES:
+:CONCEPT: uuid-4f487d0c-421a-4048-b5d2-129f9352b4e9 / BURN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 2
+:END:
+焚@fén	[[tls:concept:BURN::#uuid-4f487d0c-421a-4048-b5d2-129f9352b4e9][BURN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / burn up, burn down; set fire to; scorch
+*** 節@jié
+:PROPERTIES:
+:CONCEPT: uuid-56ebd222-defd-4b8a-b5c1-dc490f5f3ecd / TALLY
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 5
+:END:
+節@jié	[[tls:concept:TALLY::#uuid-56ebd222-defd-4b8a-b5c1-dc490f5f3ecd][TALLY]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / tally, seal of appointment; seal of office
+** 是公以弊高都得完周也	Thus my lord will gain the entire state of Chou in exchange for the rustic town of Kao-tu -
+:PROPERTIES:
+:SRC: ZGC 2.4.5; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 53
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a43:1::是公 / 戰國策
+:CHARPOS: 1
+:END:
+*** 弊@bì
+:PROPERTIES:
+:CONCEPT: uuid-3bb4d044-ac8c-4b67-9ff4-05f060e8ddd6 / EGO
+:SYN-FUNC: uuid-a00d2a57-632c-49a4-8fe2-b3345e0e0269
+:CHARPOS: 4
+:END:
+弊@bì	[[tls:concept:EGO::#uuid-3bb4d044-ac8c-4b67-9ff4-05f060e8ddd6][EGO]]	 [[tls:syn-func::#uuid-a00d2a57-632c-49a4-8fe2-b3345e0e0269][vadN{.post-npro1}]] / my humble (city) 弊邑 (Zhou)
+*** 完@wán
+:PROPERTIES:
+:CONCEPT: uuid-d38a8a45-e59b-4bd1-b0fa-4b4fb4032c17 / WHOLE
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 8
+:END:
+完@wán	[[tls:concept:WHOLE::#uuid-d38a8a45-e59b-4bd1-b0fa-4b4fb4032c17][WHOLE]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / whole (state etc)
+** 楚卒不拔雍氏而去	Ch'u could not, in the end, reduce Yung-shih and withdrew.
+:PROPERTIES:
+:SRC: ZGC 2.4.5; tr. Crump 1979 no.6, p. 26, ed. Shanghaiguji p. 53
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_032:1a47:1::楚卒 / 戰國策
+:CHARPOS: 1
+:END:
+*** 卒@zú
+:PROPERTIES:
+:CONCEPT: uuid-4e4ee0b4-e264-46be-9eda-954b9ecb55ac / COINCIDENCE
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 2
+:END:
+卒@zú	[[tls:concept:COINCIDENCE::#uuid-4e4ee0b4-e264-46be-9eda-954b9ecb55ac][COINCIDENCE]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / in the end, finally, as it turned out
+*** 拔@bá
+:PROPERTIES:
+:CONCEPT: uuid-fb54d097-b529-4895-9ecf-1993fe48333e / WIN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+拔@bá	[[tls:concept:WIN::#uuid-fb54d097-b529-4895-9ecf-1993fe48333e][WIN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / conquer (a city), take out (a military position)

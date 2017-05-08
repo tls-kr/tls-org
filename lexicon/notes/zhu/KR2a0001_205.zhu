@@ -1,0 +1,132 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 史記 KR2a0001_205
+#+DATE: 2017-02-08T16:40:49+0900
+#+PROPERTY: COMMIT c5f1950cc5ba00d0302093e6232d41346fb4cdd8
+** 殷以前尚矣	The Shang dynasty and the ages before it are too far away to say much about,
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2a0001_205:1a03:1::殷以 / 史記
+:CHARPOS: 1
+:END:
+*** 尚@shàng
+:PROPERTIES:
+:CONCEPT: uuid-155649f4-a783-4478-a7cd-bc8d8cdb9f59 / PAST
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+尚@shàng	[[tls:concept:PAST::#uuid-155649f4-a783-4478-a7cd-bc8d8cdb9f59][PAST]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be long past
+** 王室缺	the royal house lost its hold
+:PROPERTIES:
+:SRC: SHIJI 17.1.3 801; Wang Liqi 585; Takigawa 2; tr. Watson 1993, Han, vol.1 p. 424
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_205:1a22:1::王室 / 史記
+:CHARPOS: 1
+:END:
+*** 缺@quē
+:PROPERTIES:
+:CONCEPT: uuid-26a6c696-2188-44f0-954b-f3570d753b18 / DEFECT
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 3
+:END:
+缺@quē	[[tls:concept:DEFECT::#uuid-26a6c696-2188-44f0-954b-f3570d753b18][DEFECT]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / come to be deficient
+** 何者	The reason for this was that,
+:PROPERTIES:
+:SRC: SHIJI 17.2.6 801/02; Wang Liqi 585; Takigawa 2; tr. Watson 1993, Han, vol.1 p. 424
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_205:2a34:1::何者 / 史記
+:CHARPOS: 1
+:END:
+*** 何者@hézhě
+:PROPERTIES:
+:CONCEPT: uuid-90ca10d9-59d9-430c-a9bc-63cca571a529 / WHY
+:SYN-FUNC: uuid-7d18edf6-8cf7-47e9-a591-158f938748d0
+:CHARPOS: 1
+:END:
+何者@hézhě	[[tls:concept:WHY::#uuid-90ca10d9-59d9-430c-a9bc-63cca571a529][WHY]]	N [[tls:syn-func::#uuid-7d18edf6-8cf7-47e9-a591-158f938748d0][NPpro{PRED}]] / why? why so?
+** 上足以奉貢職	sufficient only to render tribute and services to the central court,
+:PROPERTIES:
+:SRC: SHIJI 17.3.5 801/02; Wang Liqi 586; Takigawa 5; tr. Watson 1993, Han, vol.1 p. 425
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_205:3a27:1::上足 / 史記
+:CHARPOS: 1
+:END:
+*** 貢職@gòngzhí
+:PROPERTIES:
+:CONCEPT: uuid-96bb309f-8b18-4159-b370-07c5647bb02b / TRIBUTE
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:CHARPOS: 5
+:END:
+貢職@gòngzhí	[[tls:concept:TRIBUTE::#uuid-96bb309f-8b18-4159-b370-07c5647bb02b][TRIBUTE]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] / tribute; tribute and services 8 times in SJ
+** 以蕃輔京師	and to act as defenders of the capital.
+:PROPERTIES:
+:SRC: SHIJI 17.3.5 801/02; Wang Liqi 586; Takigawa 5; tr. Watson 1993, Han, vol.1 p. 425
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_205:3a29:1::以蕃 / 史記
+:CHARPOS: 1
+:END:
+*** 京師@jīngshī
+:PROPERTIES:
+:CONCEPT: uuid-60f7dd92-4aa6-4120-a92b-65738b79050e / CAPITAL CITY
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 4
+:END:
+京師@jīngshī	[[tls:concept:CAPITAL CITY::#uuid-60f7dd92-4aa6-4120-a92b-65738b79050e][CAPITAL CITY]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / capital
+** 犬牙相臨	and interlocking with them like the teeth of a dog,
+:PROPERTIES:
+:SRC: SHIJI 17.3.6 801/02; Wang Liqi 586; Takigawa 5; tr. Watson 1993, Han, vol.1 p. 425
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_205:3a32:1::犬牙 / 史記
+:CHARPOS: 1
+:END:
+*** 牙@yá
+:PROPERTIES:
+:CONCEPT: uuid-d584f96d-9564-4b7e-8834-1348db3c1acf / TOOTH
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 2
+:END:
+牙@yá	[[tls:concept:TOOTH::#uuid-d584f96d-9564-4b7e-8834-1348db3c1acf][TOOTH]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / fangs; teeth
+** 臣遷謹記	Your servant Qian108 has respectfully prepared this record of the feudal lords
+:PROPERTIES:
+:SRC: SHIJI 17.3.7 801/02; Wang Liqi 586; Takigawa 5; tr. Watson 1993, Han, vol.1 p. 425
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_205:4a01:1::臣遷 / 史記
+:CHARPOS: 1
+:END:
+*** 謹@jǐn
+:PROPERTIES:
+:CONCEPT: uuid-48c65f7a-1baa-4796-bdd0-84d83d540068 / DILIGENT
+:SYN-FUNC: uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844
+:CHARPOS: 3
+:END:
+謹@jǐn	[[tls:concept:DILIGENT::#uuid-48c65f7a-1baa-4796-bdd0-84d83d540068][DILIGENT]]	V [[tls:syn-func::#uuid-2a0ded86-3b04-4488-bb7a-3efccfa35844][vadV]] / painstakingly, diligently, carefully; meticulously; unfailingly 謹而
+** 高祖以來至太初諸侯	from the time of Gaozu down to the era taichu,
+:PROPERTIES:
+:SRC: SHIJI 17.3.7 801/02; Wang Liqi 586; Takigawa 5; tr. Watson 1993, Han, vol.1 p. 425
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_205:4a01:50::高祖 / 史記
+:CHARPOS: 50
+:END:
+*** 來至@láizhì
+:PROPERTIES:
+:CONCEPT: uuid-a8f2843b-d09f-4f2b-aa44-93c27a451fd3 / ARRIVE
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 53
+:END:
+來至@láizhì	[[tls:concept:ARRIVE::#uuid-a8f2843b-d09f-4f2b-aa44-93c27a451fd3][ARRIVE]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / arrive at (a place); come to (a place)
+** 令時世得覽	in order that later ages may see what the situation was.
+:PROPERTIES:
+:SRC: SHIJI 17.3.7 801/02; Wang Liqi 586; Takigawa 5; tr. Watson 1993, Han, vol.1 p. 425
+:DATE: 6220	middle Western Han
+:LOCATION: KR2a0001_205:4a03:1::令時 / 史記
+:CHARPOS: 1
+:END:
+*** 覽@lǎn
+:PROPERTIES:
+:CONCEPT: uuid-4506f3c2-3139-4d87-b4b5-f30b873c0d65 / READ
+:SYN-FUNC: uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701
+:CHARPOS: 5
+:END:
+覽@lǎn	[[tls:concept:READ::#uuid-4506f3c2-3139-4d87-b4b5-f30b873c0d65][READ]]	V [[tls:syn-func::#uuid-e64a7a95-b54b-4c94-9d6d-f55dbf079701][vt(oN)]] / read the contextually determinate text

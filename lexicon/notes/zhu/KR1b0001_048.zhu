@@ -1,0 +1,179 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_048
+#+DATE: 2017-02-08T16:35:53+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 庶政惟和	Thus the various departments of government went on harmoniously,
+:PROPERTIES:
+:SRC: SHU (LATE) 40.2.2; tr. Legge p. 523ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_048:2a16:1::庶政 / 尚書
+:CHARPOS: 1
+:END:
+*** 政@zhèng
+:PROPERTIES:
+:CONCEPT: uuid-c98150bd-f02a-498b-906f-4a7d0eefbd5e / OFFICE
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 2
+:END:
+政@zhèng	[[tls:concept:OFFICE::#uuid-c98150bd-f02a-498b-906f-4a7d0eefbd5e][OFFICE]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / government department; administrative department
+** 今予小子	Now I, the little child,
+:PROPERTIES:
+:SRC: SHU (LATE) 40.2.2; tr. Legge p. 523ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_048:2a23:1::今予 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+*** 予小子@yúxiǎozǐ
+:PROPERTIES:
+:CONCEPT: uuid-4a1e7000-f719-4665-99f9-6eb511d1c463 / EGO
+:SYN-FUNC: uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd
+:CHARPOS: 2
+:END:
+予小子@yúxiǎozǐ	[[tls:concept:EGO::#uuid-4a1e7000-f719-4665-99f9-6eb511d1c463][EGO]]	N [[tls:syn-func::#uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd][NPpro]] / I, the little one
+** 弼予一人	assisting me, the One man.
+:PROPERTIES:
+:SRC: SHU (LATE) 40.3.1; tr. Legge p. 523ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_048:2a39:1::弼予 / 尚書
+:CHARPOS: 1
+:END:
+*** 弼@bì
+:PROPERTIES:
+:CONCEPT: uuid-571b0cc8-12f5-4425-bcb4-941a8b6669b5 / HELP
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 1
+:END:
+弼@bì	[[tls:concept:HELP::#uuid-571b0cc8-12f5-4425-bcb4-941a8b6669b5][HELP]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / assist (as minister a ruler)
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 2
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+** 平邦國	and secures the tranquillity of all the regions;
+:PROPERTIES:
+:SRC: SHU (LATE) 40.3.2; tr. Legge p. 523ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_048:2a51:1::平邦 / 尚書
+:CHARPOS: 1
+:END:
+*** 邦國@bāngguó
+:PROPERTIES:
+:CONCEPT: uuid-e98b70a5-5ccd-4ab8-8e58-8038b1ea7873 / NATION
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 2
+:END:
+邦國@bāngguó	[[tls:concept:NATION::#uuid-e98b70a5-5ccd-4ab8-8e58-8038b1ea7873][NATION]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / the states of the empire
+** 居四民	who presides over the land of the country, settles the four classes of the people,
+:PROPERTIES:
+:SRC: SHU (LATE) 40.3.2; tr. Legge p. 523ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_048:2a56:1::居四 / 尚書
+:CHARPOS: 1
+:END:
+*** 民@mín
+:PROPERTIES:
+:CONCEPT: uuid-fdcd3c1b-70f0-4337-ab36-598d5d5547fd / PEOPLE
+:SYN-FUNC: uuid-e669fe35-d34c-4203-b178-57d3cc470da6
+:CHARPOS: 3
+:END:
+民@mín	[[tls:concept:PEOPLE::#uuid-fdcd3c1b-70f0-4337-ab36-598d5d5547fd][PEOPLE]]	N [[tls:syn-func::#uuid-e669fe35-d34c-4203-b178-57d3cc470da6][nm.post-V{NUM}]] / category of people 五民
+** 凡我有官君子	all ye men of virtue, my occupiers of office,
+:PROPERTIES:
+:SRC: SHU (LATE) 40.4.1; tr. Legge p. 523ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_048:2a69:1::凡我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 2
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+*** 君子@jūnzǐ
+:PROPERTIES:
+:CONCEPT: uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4 / GENTLEMAN
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 5
+:END:
+君子@jūnzǐ	[[tls:concept:GENTLEMAN::#uuid-c8fbae4d-f349-4f9c-bdde-4264c89591c4][GENTLEMAN]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the gentlemen (of a certain time or place) 其君子
+** 戒爾卿士	'I warn you, my high ministers and officers,
+:PROPERTIES:
+:SRC: SHU (LATE) 40.4.3; tr. Legge p. 523ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_048:2a84:1::戒爾 / 尚書
+:CHARPOS: 1
+:END:
+*** 爾@ěr / @
+:PROPERTIES:
+:CONCEPT: uuid-8966f3bd-48e1-4f20-a60e-8e10df5d4cd7 / YOU
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:SEM-FEAT: uuid-9595a9ef-994e-4b18-8ad1-4187407e538e
+:CHARPOS: 2
+:END:
+爾@ěr / @	[[tls:concept:YOU::#uuid-8966f3bd-48e1-4f20-a60e-8e10df5d4cd7][YOU]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] {[[tls:sem-feat::#uuid-9595a9ef-994e-4b18-8ad1-4187407e538e][apposition]]} / you N
+** 心逸日休	and your minds will be at ease, and you will daily become more admirable.
+:PROPERTIES:
+:SRC: SHU (LATE) 40.4.3; tr. Legge p. 523ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_048:2a94:1::心逸 / 尚書
+:CHARPOS: 1
+:END:
+*** 休@xiū
+:PROPERTIES:
+:CONCEPT: uuid-a814809f-cea7-4db2-a4e2-2d729845de35 / LUCK
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 4
+:END:
+休@xiū	[[tls:concept:LUCK::#uuid-a814809f-cea7-4db2-a4e2-2d729845de35][LUCK]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / enjoy good fortune
+** 永康兆民	and secure the lasting happiness of the millions of the people -
+:PROPERTIES:
+:SRC: SHU (LATE) 40.5; tr. Legge p. 523ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_048:2a113:1::永康 / 尚書
+:CHARPOS: 1
+:END:
+*** 康@kāng
+:PROPERTIES:
+:CONCEPT: uuid-f6c99df5-106b-4a6d-8f9a-91391963b9f3 / HAPPY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 2
+:END:
+康@kāng	[[tls:concept:HAPPY::#uuid-f6c99df5-106b-4a6d-8f9a-91391963b9f3][HAPPY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to be happe
+*** 兆民@zhàomín
+:PROPERTIES:
+:CONCEPT: uuid-85675095-048d-48ab-b037-48b2215b8570 / PEOPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 3
+:END:
+兆民@zhàomín	[[tls:concept:PEOPLE::#uuid-85675095-048d-48ab-b037-48b2215b8570][PEOPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / archaic, SHU/LIJI: the infinitely many people
+** 萬邦惟無斁	so shall there be no dissatisfaction throughout the myriad states.'
+:PROPERTIES:
+:SRC: SHU (LATE) 40.5; tr. Legge p. 523ff
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_048:2a114:50::萬邦 / 尚書
+:CHARPOS: 50
+:END:
+*** 斁@yì
+:PROPERTIES:
+:CONCEPT: uuid-9bc54adf-5b26-4109-811b-1c40e40107a3 / DISSATISFIED
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 54
+:END:
+斁@yì	[[tls:concept:DISSATISFIED::#uuid-9bc54adf-5b26-4109-811b-1c40e40107a3][DISSATISFIED]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / dissatisfaction; disgruntlement

@@ -1,0 +1,213 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_056
+#+DATE: 2017-02-08T16:35:54+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 嗚呼閔予小子	Oh, pitiable am I, the little child;
+:PROPERTIES:
+:SRC: SHU 48.2, tr. Karlgren 78
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_056:2a11:1::嗚呼 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 4
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+*** 予小子@yúxiǎozǐ
+:PROPERTIES:
+:CONCEPT: uuid-4a1e7000-f719-4665-99f9-6eb511d1c463 / EGO
+:SYN-FUNC: uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd
+:CHARPOS: 4
+:END:
+予小子@yúxiǎozǐ	[[tls:concept:EGO::#uuid-4a1e7000-f719-4665-99f9-6eb511d1c463][EGO]]	N [[tls:syn-func::#uuid-3a50ef30-dbe2-42d4-bbbb-95ff062401dd][NPpro]] / I, the little one
+** 殄資澤于下民	I have destroyed the resources and the bounties for the lower people.
+:PROPERTIES:
+:SRC: SHU 48.2, tr. Karlgren 78
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_056:2a13:1::殄資 / 尚書
+:CHARPOS: 1
+:END:
+*** 下民@xiàmín
+:PROPERTIES:
+:CONCEPT: uuid-fcf326b1-92de-4773-8719-b4ebc810ac18 / PEOPLE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 5
+:END:
+下民@xiàmín	[[tls:concept:PEOPLE::#uuid-fcf326b1-92de-4773-8719-b4ebc810ac18][PEOPLE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / SHI: the lowly people, the common people
+** 侵戎我國家純	One invades and attacks our state`s border.
+:PROPERTIES:
+:SRC: SHU 48.2, tr. Karlgren 78
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_056:2a14:50::侵戎 / 尚書
+:CHARPOS: 50
+:END:
+*** 國家@guójiā
+:PROPERTIES:
+:CONCEPT: uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d / NATION
+:SYN-FUNC: uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f
+:CHARPOS: 53
+:END:
+國家@guójiā	[[tls:concept:NATION::#uuid-334b7d3c-3716-43e9-ac5f-7b62c74af68d][NATION]]	N [[tls:syn-func::#uuid-e2ece349-6f09-49f0-be4e-7b7c66094e6f][NP(post-N)]] / 我國家the nation including its leading clans; our nation, my nation, the nation in question, the polity; their nation
+** 即我御事	Even among our managers of affairs,
+:PROPERTIES:
+:SRC: SHU 48.2, tr. Karlgren 78
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_056:2a15:50::即我 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b / WE
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 51
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-5db3ef10-3d38-4877-bf25-b1832c29c75b][WE]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / our (including yours)
+** 俊在厥服	and the fault is (on my body=) mine.
+:PROPERTIES:
+:SRC: SHU 48.2, tr. Karlgren 78
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_056:2a16:50::俊在 / 尚書
+:CHARPOS: 50
+:END:
+*** 厥@jué
+:PROPERTIES:
+:CONCEPT: uuid-1002b08e-ddb3-4c4b-8fd8-4c579b8d32ba / EGO
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 52
+:END:
+厥@jué	[[tls:concept:EGO::#uuid-1002b08e-ddb3-4c4b-8fd8-4c579b8d32ba][EGO]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / my (as used by a person construing himself as being in superior position)
+** 予則罔克曰	Being thus myself incapable, I say:
+:PROPERTIES:
+:SRC: SHU 48.2, tr. Karlgren 78
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_056:2a17:50::予則 / 尚書
+:CHARPOS: 50
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 50
+:END:
+予@yú	[[tls:concept:EGO::#uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (as a non-agential experiencer participant)
+** 其伊恤朕躬	may you anixously think of my person.
+:PROPERTIES:
+:SRC: SHU 48.2, tr. Karlgren 78
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_056:2a18:50::其伊 / 尚書
+:CHARPOS: 50
+:END:
+*** 朕@zhèn
+:PROPERTIES:
+:CONCEPT: uuid-95757771-5c18-46d2-9771-7abc17769ac8 / EGO
+:SYN-FUNC: uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72
+:CHARPOS: 53
+:END:
+朕@zhèn	[[tls:concept:EGO::#uuid-95757771-5c18-46d2-9771-7abc17769ac8][EGO]]	N [[tls:syn-func::#uuid-0966b984-3eda-4eb6-afa6-4d05b3c50e72][npro.adN]] / auto-honorific ceremonial: my
+*** 朕躬@zhèngōng
+:PROPERTIES:
+:CONCEPT: uuid-4c3f499e-2d9b-46e2-8164-e0d07a208ad7 / EGO
+:SYN-FUNC: uuid-3c909a44-899c-483d-b529-40ca77d68801
+:CHARPOS: 53
+:END:
+朕躬@zhèngōng	[[tls:concept:EGO::#uuid-4c3f499e-2d9b-46e2-8164-e0d07a208ad7][EGO]]	N [[tls:syn-func::#uuid-3c909a44-899c-483d-b529-40ca77d68801][NPpro.postVt]] / as object: me (many more examples in Sturgeon's Chinese Text Initiative).
+** 予一人永綏在位	I, the young man, will forever be tranquil in my high position.
+:PROPERTIES:
+:SRC: SHU 48.2, tr. Karlgren 78
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_056:2a20:1::予一 / 尚書
+:CHARPOS: 1
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd / EGO
+:SYN-FUNC: uuid-7a952430-e278-4599-9287-cb09ea6a6ae5
+:CHARPOS: 1
+:END:
+予@yú	[[tls:concept:EGO::#uuid-08c093ea-370a-4cf2-aca7-3cf7ba8ed9bd][EGO]]	N [[tls:syn-func::#uuid-7a952430-e278-4599-9287-cb09ea6a6ae5][npro=N]] / 予一人, 予小子 "I (personally), the little child"
+*** 予一人@yúyīrén
+:PROPERTIES:
+:CONCEPT: uuid-e318a8c1-90d2-4b59-adb8-1d76b8403b3c / EGO
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5
+:CHARPOS: 1
+:END:
+予一人@yúyīrén	[[tls:concept:EGO::#uuid-e318a8c1-90d2-4b59-adb8-1d76b8403b3c][EGO]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-f8d500a2-5c83-49ca-9776-bc081bc248b5][pronominal]]} / I, the one person (the king)
+** 追孝于前文人	and (going backwards, retrospectively=) mindful of the past show filial piety for the former accomplished men (your ancestors).
+:PROPERTIES:
+:SRC: SHU 48.3, tr. Karlgren 78
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_056:2a25:1::追孝 / 尚書
+:CHARPOS: 1
+:END:
+*** 文人@wénrén
+:PROPERTIES:
+:CONCEPT: uuid-5d6a5f5e-e343-4147-9e5f-6a0b109ce675 / ANCESTOR
+:SYN-FUNC: uuid-f4efb4ab-cc71-439b-b879-4fb9cc253a6f
+:CHARPOS: 5
+:END:
+文人@wénrén	[[tls:concept:ANCESTOR::#uuid-5d6a5f5e-e343-4147-9e5f-6a0b109ce675][ANCESTOR]]	N [[tls:syn-func::#uuid-f4efb4ab-cc71-439b-b879-4fb9cc253a6f][NPt]] / periphrastic: the elegant/dignified one>the (relevant) ancestor(s)
+** 汝多修扞我于艱	You have (largely=) on many occasions well attended to defending me in my difficulties.
+:PROPERTIES:
+:SRC: SHU 48.3, tr. Karlgren 78
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_056:2a26:50::汝多 / 尚書
+:CHARPOS: 50
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-38601b54-9867-41c7-a8e2-cce55d74cd46 / EGO
+:SYN-FUNC: uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e
+:SEM-FEAT: uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325
+:CHARPOS: 54
+:END:
+我@wǒ	[[tls:concept:EGO::#uuid-38601b54-9867-41c7-a8e2-cce55d74cd46][EGO]]	N [[tls:syn-func::#uuid-aaab350d-f2c6-4568-a284-3fdb7f210a5e][npro.postVt]] {[[tls:sem-feat::#uuid-71ddcf8a-e595-4e36-ac47-c7125faaa325][non-contrastive]]} / me (non-contrastive)
+*** 艱@jiān
+:PROPERTIES:
+:CONCEPT: uuid-aaed9313-57ef-4a8a-be0f-b6a95a5b4feb / DISTRESS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:CHARPOS: 56
+:END:
+艱@jiān	[[tls:concept:DISTRESS::#uuid-aaed9313-57ef-4a8a-be0f-b6a95a5b4feb][DISTRESS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] / archaic: difficulties; problems; tribulations
+** 若汝予嘉	One like you I find exellent.
+:PROPERTIES:
+:SRC: SHU 48.3, tr. Karlgren 78
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_056:2a27:50::若汝 / 尚書
+:CHARPOS: 50
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-dde53ef7-a1cc-4961-aa09-503972e7125f
+:CHARPOS: 52
+:END:
+予@yú	[[tls:concept:EGO::#uuid-5516ae62-c486-4409-ae21-e3af6cdde8ed][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-dde53ef7-a1cc-4961-aa09-503972e7125f][experiential]]} / I (as a non-agential experiencer participant)
+*** 嘉@jiā
+:PROPERTIES:
+:CONCEPT: uuid-4e1d65e8-7a45-4a98-9f98-f5b30c155a6c / PRAISE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 53
+:END:
+嘉@jiā	[[tls:concept:PRAISE::#uuid-4e1d65e8-7a45-4a98-9f98-f5b30c155a6c][PRAISE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / declare to be excellent; commend
+** 柔遠能邇	Be gentle with the distant ones, (treat well=) be kind to the near ones.
+:PROPERTIES:
+:SRC: SHU 48.4.2, tr. Karlgren 78
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_056:2a39:1::柔遠 / 尚書
+:CHARPOS: 1
+:END:
+*** 能@néng
+:PROPERTIES:
+:CONCEPT: uuid-2e6505fa-0909-4ad6-8094-eb5e35ddef25 / GENEROUS
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+能@néng	[[tls:concept:GENEROUS::#uuid-2e6505fa-0909-4ad6-8094-eb5e35ddef25][GENEROUS]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / treat well

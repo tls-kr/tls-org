@@ -1,0 +1,765 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 孝經 KR1f0001_008
+#+DATE: 2017-02-08T16:40:10+0900
+#+PROPERTY: COMMIT f2d155e179399ea4b6de200698895be0743588f4
+** 子曰	The Master said:
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 00i3
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a01:50::子曰 / 孝經
+:CHARPOS: 50
+:END:
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-85f74e57-c4d7-4d7f-a330-ae20510026b1 / TEACHER
+:SYN-FUNC: uuid-6ab785dc-a037-40f5-936b-420a19e6f59b
+:CHARPOS: 50
+:END:
+子@zǐ	[[tls:concept:TEACHER::#uuid-85f74e57-c4d7-4d7f-a330-ae20510026b1][TEACHER]]	N [[tls:syn-func::#uuid-6ab785dc-a037-40f5-936b-420a19e6f59b][n{post-N}]] / our master; person in authority [Note that the [post-N] can never in fact be made explicit without breaking the rules of the grammar! CH]
+*** 曰@yuē
+:PROPERTIES:
+:CONCEPT: uuid-8fff2d95-8f01-41c6-9344-b798d74d2831 / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8
+:CHARPOS: 51
+:END:
+曰@yuē	[[tls:concept:SPEAK::#uuid-8fff2d95-8f01-41c6-9344-b798d74d2831][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-84b0fb27-1faa-4c8b-a19c-e47d287102a8][direct-speech]]} / say: S
+** 昔者明王之以孝治天下也	In ancient times, as the enlightened kings governed the world by filial piety,
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 00i3
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a02:50::「昔 / 孝經
+:CHARPOS: 50
+:END:
+*** 昔者@xīzhě
+:PROPERTIES:
+:CONCEPT: uuid-e31d3a11-d110-486e-9663-e32fb30bba13 / PAST
+:SYN-FUNC: uuid-004e220e-4832-4621-826a-6e1453de9747
+:SEM-FEAT: uuid-b663d835-2b5f-4e42-bd4f-cbd5f129f8b1
+:CHARPOS: 50
+:END:
+昔者@xīzhě	[[tls:concept:PAST::#uuid-e31d3a11-d110-486e-9663-e32fb30bba13][PAST]]	N [[tls:syn-func::#uuid-004e220e-4832-4621-826a-6e1453de9747][NPadSS]] {[[tls:sem-feat::#uuid-b663d835-2b5f-4e42-bd4f-cbd5f129f8b1][antiquity]]} / in ancient times (those of the tyrant Jiè etc)
+*** 明王@míngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f29172e3-e64b-4fd9-83d5-e66d2f015c12 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 52
+:END:
+明王@míngwáng	[[tls:concept:RULER::#uuid-f29172e3-e64b-4fd9-83d5-e66d2f015c12][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / the entlightened king
+*** 孝@xiào
+:PROPERTIES:
+:CONCEPT: uuid-40fa35ca-d157-4d1f-bae8-47abdd68a636 / VIRTUE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 56
+:END:
+孝@xiào	[[tls:concept:VIRTUE::#uuid-40fa35ca-d157-4d1f-bae8-47abdd68a636][VIRTUE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / filial piety, devotion to one's living and dead forbears
+*** 治@chí
+:PROPERTIES:
+:CONCEPT: uuid-e31a89e1-0f05-4892-8858-678d58463f3c / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 57
+:END:
+治@chí	[[tls:concept:GOVERN::#uuid-e31a89e1-0f05-4892-8858-678d58463f3c][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to reduce to order; to put in order (the administration etc); to be in administrative charge of, to deal with, take care of; to be in charge of, take administrative responsibility for; to regulate, make regular, control (as breath)
+*** 天下@tiānxià
+:PROPERTIES:
+:CONCEPT: uuid-7450226e-8771-4c7c-b52c-b5c33582de13 / STATE
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 58
+:END:
+天下@tiānxià	[[tls:concept:STATE::#uuid-7450226e-8771-4c7c-b52c-b5c33582de13][STATE]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / all the states in the world
+** 不敢遺小國之臣	they dind't dare neglect servants of small states,
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 00i3
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a03:50::不敢 / 孝經
+:CHARPOS: 50
+:END:
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a / NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 50
+:END:
+不@bù	[[tls:concept:NOT::#uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a][NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / not
+*** 敢@gǎn
+:PROPERTIES:
+:CONCEPT: uuid-db28742f-97b0-47e9-a368-58fd03c27b3a / COURAGE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 51
+:END:
+敢@gǎn	[[tls:concept:COURAGE::#uuid-db28742f-97b0-47e9-a368-58fd03c27b3a][COURAGE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / have the courage to V
+*** 遺@yí
+:PROPERTIES:
+:CONCEPT: uuid-b8be508d-0de1-4d1b-95eb-5ed48e2d954d / NEGLECT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 52
+:END:
+遺@yí	[[tls:concept:NEGLECT::#uuid-b8be508d-0de1-4d1b-95eb-5ed48e2d954d][NEGLECT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / neglect, bypass, leave out; ignore
+*** 小@xiǎo
+:PROPERTIES:
+:CONCEPT: uuid-0fdd5582-2a8d-49d4-bd09-ad747b79d14b / SMALL
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 53
+:END:
+小@xiǎo	[[tls:concept:SMALL::#uuid-0fdd5582-2a8d-49d4-bd09-ad747b79d14b][SMALL]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / small; small in circumference
+*** 國@guó
+:PROPERTIES:
+:CONCEPT: uuid-2d58abf2-955a-447d-8098-ede2ae9da613 / STATE
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 54
+:END:
+國@guó	[[tls:concept:STATE::#uuid-2d58abf2-955a-447d-8098-ede2ae9da613][STATE]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / (not necessarily large, territorially conceived) state (within the empire)
+*** 臣@chén
+:PROPERTIES:
+:CONCEPT: uuid-ed47481b-3d22-4e99-87e4-8cfcac72d8e0 / MINISTER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 56
+:END:
+臣@chén	[[tls:concept:MINISTER::#uuid-ed47481b-3d22-4e99-87e4-8cfcac72d8e0][MINISTER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / servant, public servant; minister
+** 而況於公侯伯子男乎	how much less the dukes, marquises, earls, viscounts and barons,
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 00i3
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a04:50::而況 / 孝經
+:CHARPOS: 50
+:END:
+*** 而況@érkuàng
+:PROPERTIES:
+:CONCEPT: uuid-ba8569cb-e009-47bb-b4c1-0cc89cfb05a7 / HOW
+:SYN-FUNC: uuid-a9e51915-33f6-4995-9e68-d369df016b99
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 50
+:END:
+而況@érkuàng	[[tls:concept:HOW::#uuid-ba8569cb-e009-47bb-b4c1-0cc89cfb05a7][HOW]]	P [[tls:syn-func::#uuid-a9e51915-33f6-4995-9e68-d369df016b99][PPadV.postS]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how much more
+*** 公@gōng
+:PROPERTIES:
+:CONCEPT: uuid-21741054-74b0-4360-9e57-1c95933b5b52 / RANK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 53
+:END:
+公@gōng	[[tls:concept:RANK::#uuid-21741054-74b0-4360-9e57-1c95933b5b52][RANK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / ruler - not necessarily of the status of a Duke
+*** 侯@hóu
+:PROPERTIES:
+:CONCEPT: uuid-77fd2d14-ca6d-44bf-abcb-d453674b738e / RULER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CHARPOS: 54
+:END:
+侯@hóu	[[tls:concept:RULER::#uuid-77fd2d14-ca6d-44bf-abcb-d453674b738e][RULER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / as in 諸侯: enfeoffed ruler in early Zhou times;
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-a28dea2d-6cd7-420c-87aa-e91f23e96650 / RANK
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:CONCEPT: uuid-907fb213-c087-49d8-abdd-e3bd51357b13 / RULER
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 56
+:END:
+子@zǐ	[[tls:concept:RANK::#uuid-a28dea2d-6cd7-420c-87aa-e91f23e96650][RANK]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] / viscount
+〓#霸@bà / @	[[tls:concept:RULER::#uuid-907fb213-c087-49d8-abdd-e3bd51357b13][RULER]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / leader; paramount leader, hegemon 五霸
+** 故得萬國之懽心	therefore they won the delight of ten thousand states.
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 00i3
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a05:50::故得 / 孝經
+:CHARPOS: 50
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-4788bc76-7c4a-4616-b928-2a8edec67db4 / THEREFORE
+:SYN-FUNC: uuid-9846fcc7-7fe2-437f-8163-5564343b7ee2
+:CHARPOS: 50
+:END:
+故@gù	[[tls:concept:THEREFORE::#uuid-4788bc76-7c4a-4616-b928-2a8edec67db4][THEREFORE]]	N [[tls:syn-func::#uuid-9846fcc7-7fe2-437f-8163-5564343b7ee2][nadV.postN{SUBJ}:postS]] / therefore; thus; and similarly [new paragraph]; the point is thusNOTE: the syntax is nadV.postS
+*** 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-9030175f-5f4d-4160-a66d-ae06522c4aa1 / FAVOURITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+得@dé	[[tls:concept:FAVOURITE::#uuid-9030175f-5f4d-4160-a66d-ae06522c4aa1][FAVOURITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gain the favours of; become a favourite of; win the confidence of (the ruler); win the full support of (the people); be popular with
+*** 萬@wàn
+:PROPERTIES:
+:CONCEPT: uuid-2d536af2-dfbe-4f2b-ab6a-fee04d9a0abc / NUMBER
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:SEM-FEAT: uuid-b9ab3d43-7185-4009-a096-329b5ccea73b
+:CHARPOS: 52
+:END:
+萬@wàn	[[tls:concept:NUMBER::#uuid-2d536af2-dfbe-4f2b-ab6a-fee04d9a0abc][NUMBER]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] {[[tls:sem-feat::#uuid-b9ab3d43-7185-4009-a096-329b5ccea73b][number]]} / ten thousand; 10 000
+*** 國@guó
+:PROPERTIES:
+:CONCEPT: uuid-2d58abf2-955a-447d-8098-ede2ae9da613 / STATE
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CONCEPT: uuid-15835732-9554-4508-b566-f1f23dda2b9d / HAPPY
+:SYN-FUNC: uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9
+:CHARPOS: 53
+:END:
+國@guó	[[tls:concept:STATE::#uuid-2d58abf2-955a-447d-8098-ede2ae9da613][STATE]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / (not necessarily large, territorially conceived) state (within the empire)
+歡@huān / 歡@huān / 驩@huān	[[tls:concept:HAPPY::#uuid-15835732-9554-4508-b566-f1f23dda2b9d][HAPPY]]	V [[tls:syn-func::#uuid-fed035db-e7bd-4d23-bd05-9698b26e38f9][vadN]] / characterised by happy good-will
+*** 心@xīn
+:PROPERTIES:
+:CONCEPT: uuid-623a82f8-6169-4fe8-98eb-6d1f1cc25236 / FEELING
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 56
+:END:
+心@xīn	[[tls:concept:FEELING::#uuid-623a82f8-6169-4fe8-98eb-6d1f1cc25236][FEELING]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / feelings
+** 以事其先王	By this, they served the Former Kings.
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 00i3
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a06:50::以事 / 孝經
+:CHARPOS: 50
+:END:
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-1b3a8086-8850-4725-a462-7234e9901467 / SERVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+事@shì	[[tls:concept:SERVE::#uuid-1b3a8086-8850-4725-a462-7234e9901467][SERVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / serve (as minister or aide, as one state another etc.), be in the service of; enter the services of; side with; specifically: serve and cultivate through gifts; attend to
+*** 先王@xiānwáng
+:PROPERTIES:
+:CONCEPT: uuid-c82dacc9-55fe-4ade-a237-2f153de2aa61 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:SEM-FEAT: uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9
+:CHARPOS: 53
+:END:
+先王@xiānwáng	[[tls:concept:RULER::#uuid-c82dacc9-55fe-4ade-a237-2f153de2aa61][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] {[[tls:sem-feat::#uuid-792d0c88-0cc3-4051-85bc-a81539f27ae9][definite]]} / the former kings; one series: 堯舜禹湯文武孝己
+** 治國者不敢侮於鰥寡	The one who governed a state well didn't dare treat widowers and widows with disrespect,
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0085
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a07:50::治國 / 孝經
+:CHARPOS: 50
+:END:
+*** 治@chí
+:PROPERTIES:
+:CONCEPT: uuid-e31a89e1-0f05-4892-8858-678d58463f3c / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+治@chí	[[tls:concept:GOVERN::#uuid-e31a89e1-0f05-4892-8858-678d58463f3c][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to reduce to order; to put in order (the administration etc); to be in administrative charge of, to deal with, take care of; to be in charge of, take administrative responsibility for; to regulate, make regular, control (as breath)
+*** 國@guó
+:PROPERTIES:
+:CONCEPT: uuid-2d58abf2-955a-447d-8098-ede2ae9da613 / STATE
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 51
+:END:
+國@guó	[[tls:concept:STATE::#uuid-2d58abf2-955a-447d-8098-ede2ae9da613][STATE]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / (not necessarily large, territorially conceived) state (within the empire)
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a / NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 53
+:END:
+不@bù	[[tls:concept:NOT::#uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a][NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / not
+*** 敢@gǎn
+:PROPERTIES:
+:CONCEPT: uuid-db28742f-97b0-47e9-a368-58fd03c27b3a / COURAGE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 54
+:END:
+敢@gǎn	[[tls:concept:COURAGE::#uuid-db28742f-97b0-47e9-a368-58fd03c27b3a][COURAGE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / have the courage to V
+*** 侮@wǔ
+:PROPERTIES:
+:CONCEPT: uuid-d3fd1deb-7cd5-4c7f-b1b7-88bef75a5150 / HUMILIATE
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 55
+:END:
+侮@wǔ	[[tls:concept:HUMILIATE::#uuid-d3fd1deb-7cd5-4c7f-b1b7-88bef75a5150][HUMILIATE]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / to treat someone with disrespect
+*** 鰥@guān
+:PROPERTIES:
+:CONCEPT: uuid-cbb81f8b-18cb-47f7-a6c8-8e64017a963d / WIDOWER
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-d4180c2b-fab5-47cb-98ae-0655da1c313a
+:CHARPOS: 57
+:END:
+鰥@guān	[[tls:concept:WIDOWER::#uuid-cbb81f8b-18cb-47f7-a6c8-8e64017a963d][WIDOWER]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-d4180c2b-fab5-47cb-98ae-0655da1c313a][plur]]} / the widowers
+*** 寡@guǎ
+:PROPERTIES:
+:CONCEPT: uuid-d7d7e7cb-9921-42ad-bef5-318d9fc3336b / BEREAVED
+:SYN-FUNC: uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be
+:SEM-FEAT: uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de
+:CHARPOS: 58
+:END:
+寡@guǎ	[[tls:concept:BEREAVED::#uuid-d7d7e7cb-9921-42ad-bef5-318d9fc3336b][BEREAVED]]	V [[tls:syn-func::#uuid-a7e8eabf-866e-42db-88f2-b8f753ab74be][v{adN}]] {[[tls:sem-feat::#uuid-1ddeb9e4-67de-4466-b517-24cfd829f3de][N=hum]]} / the bereaved; often specifically widow GUAN 35 鰥寡"widowers and widows"; widower
+** 而況於士民乎	how much less the citizens,
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0085
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a08:50::而況 / 孝經
+:CHARPOS: 50
+:END:
+*** 而況@érkuàng
+:PROPERTIES:
+:CONCEPT: uuid-ba8569cb-e009-47bb-b4c1-0cc89cfb05a7 / HOW
+:SYN-FUNC: uuid-a9e51915-33f6-4995-9e68-d369df016b99
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 50
+:END:
+而況@érkuàng	[[tls:concept:HOW::#uuid-ba8569cb-e009-47bb-b4c1-0cc89cfb05a7][HOW]]	P [[tls:syn-func::#uuid-a9e51915-33f6-4995-9e68-d369df016b99][PPadV.postS]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how much more
+*** 士民@shìmín
+:PROPERTIES:
+:CONCEPT: uuid-f186213d-593a-455c-8a06-9883be5bea4b / CITIZEN
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 53
+:END:
+士民@shìmín	[[tls:concept:CITIZEN::#uuid-f186213d-593a-455c-8a06-9883be5bea4b][CITIZEN]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / citizen; citizenry
+** 故得百姓之懽心	therefore he won delight of the people;
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0085
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a09:50::故得 / 孝經
+:CHARPOS: 50
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-4788bc76-7c4a-4616-b928-2a8edec67db4 / THEREFORE
+:SYN-FUNC: uuid-9846fcc7-7fe2-437f-8163-5564343b7ee2
+:CHARPOS: 50
+:END:
+故@gù	[[tls:concept:THEREFORE::#uuid-4788bc76-7c4a-4616-b928-2a8edec67db4][THEREFORE]]	N [[tls:syn-func::#uuid-9846fcc7-7fe2-437f-8163-5564343b7ee2][nadV.postN{SUBJ}:postS]] / therefore; thus; and similarly [new paragraph]; the point is thusNOTE: the syntax is nadV.postS
+*** 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-9030175f-5f4d-4160-a66d-ae06522c4aa1 / FAVOURITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+得@dé	[[tls:concept:FAVOURITE::#uuid-9030175f-5f4d-4160-a66d-ae06522c4aa1][FAVOURITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gain the favours of; become a favourite of; win the confidence of (the ruler); win the full support of (the people); be popular with
+*** 百姓@bǎixìng
+:PROPERTIES:
+:CONCEPT: uuid-89d90399-8b58-43c2-a3fb-3d78a5e5d274 / PEOPLE
+:SYN-FUNC: uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a
+:SEM-FEAT: uuid-268274cc-d7e0-43e9-97e3-20e7f564f277
+:CHARPOS: 52
+:END:
+百姓@bǎixìng	[[tls:concept:PEOPLE::#uuid-89d90399-8b58-43c2-a3fb-3d78a5e5d274][PEOPLE]]	N [[tls:syn-func::#uuid-571d47c2-3f81-44cb-962c-e5fac729aa8a][NP{vadN}]] {[[tls:sem-feat::#uuid-268274cc-d7e0-43e9-97e3-20e7f564f277][wellborn]]} / the people who count; the gentry (i.e. primarily the wellborn people)
+** 以事其先君	thus he served the former rulers.
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0085
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a10:50::以事 / 孝經
+:CHARPOS: 50
+:END:
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-1b3a8086-8850-4725-a462-7234e9901467 / SERVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+事@shì	[[tls:concept:SERVE::#uuid-1b3a8086-8850-4725-a462-7234e9901467][SERVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / serve (as minister or aide, as one state another etc.), be in the service of; enter the services of; side with; specifically: serve and cultivate through gifts; attend to
+*** 先君@xiānjūn
+:PROPERTIES:
+:CONCEPT: uuid-242e187e-2ab6-43ff-989c-87ccc52eadcb / RULER
+:SYN-FUNC: uuid-0c513944-f90e-42df-a8ad-65300f05c945
+:SEM-FEAT: uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e
+:CHARPOS: 53
+:END:
+先君@xiānjūn	[[tls:concept:RULER::#uuid-242e187e-2ab6-43ff-989c-87ccc52eadcb][RULER]]	N [[tls:syn-func::#uuid-0c513944-f90e-42df-a8ad-65300f05c945][NP{post-N}]] {[[tls:sem-feat::#uuid-5fae11b4-4f4e-441e-8dc7-4ddd74b68c2e][plural]]} / (our/my) former rulers
+** 治家者不敢失於臣妾	The one who took control of a family didn't dare overlook servants and concubines,
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0085
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a11:50::治家 / 孝經
+:CHARPOS: 50
+:END:
+*** 治@chí
+:PROPERTIES:
+:CONCEPT: uuid-e31a89e1-0f05-4892-8858-678d58463f3c / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+治@chí	[[tls:concept:GOVERN::#uuid-e31a89e1-0f05-4892-8858-678d58463f3c][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to reduce to order; to put in order (the administration etc); to be in administrative charge of, to deal with, take care of; to be in charge of, take administrative responsibility for; to regulate, make regular, control (as breath)
+*** 家@jiā
+:PROPERTIES:
+:CONCEPT: uuid-c7e420cf-dbc2-46a6-86b8-1a03a7611a9f / FAMILY
+:SYN-FUNC: uuid-b6da65fd-429f-4245-9f94-a22078cc0512
+:CHARPOS: 51
+:END:
+家@jiā	[[tls:concept:FAMILY::#uuid-c7e420cf-dbc2-46a6-86b8-1a03a7611a9f][FAMILY]]	N [[tls:syn-func::#uuid-b6da65fd-429f-4245-9f94-a22078cc0512][ncc]] / one's family in the broadest sense of the term; extended family including employees, who live together; LY 三家
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a / NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 53
+:END:
+不@bù	[[tls:concept:NOT::#uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a][NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / not
+*** 敢@gǎn
+:PROPERTIES:
+:CONCEPT: uuid-db28742f-97b0-47e9-a368-58fd03c27b3a / COURAGE
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 54
+:END:
+敢@gǎn	[[tls:concept:COURAGE::#uuid-db28742f-97b0-47e9-a368-58fd03c27b3a][COURAGE]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / have the courage to V
+*** 失@shī
+:PROPERTIES:
+:CONCEPT: uuid-4ec506cc-e80d-4103-8f9d-998116cfd4bb / NEGLECT
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 55
+:END:
+失@shī	[[tls:concept:NEGLECT::#uuid-4ec506cc-e80d-4103-8f9d-998116cfd4bb][NEGLECT]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / overlook, fail to take proper note of
+*** 臣妾@chénqiè
+:PROPERTIES:
+:CONCEPT: uuid-014dc190-a599-4f02-9cc4-ed7c6a472054 / SERVANT
+:SYN-FUNC: uuid-0e71a24c-2529-482a-a575-a4f143a9890b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 57
+:END:
+臣妾@chénqiè	[[tls:concept:SERVANT::#uuid-014dc190-a599-4f02-9cc4-ed7c6a472054][SERVANT]]	N [[tls:syn-func::#uuid-0e71a24c-2529-482a-a575-a4f143a9890b][NP{N1&N2}]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / servants and cocubines
+** 而況於妻子乎	how much less his wife and children,
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0085
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a12:50::而況 / 孝經
+:CHARPOS: 50
+:END:
+*** 而況@érkuàng
+:PROPERTIES:
+:CONCEPT: uuid-ba8569cb-e009-47bb-b4c1-0cc89cfb05a7 / HOW
+:SYN-FUNC: uuid-a9e51915-33f6-4995-9e68-d369df016b99
+:SEM-FEAT: uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa
+:CHARPOS: 50
+:END:
+而況@érkuàng	[[tls:concept:HOW::#uuid-ba8569cb-e009-47bb-b4c1-0cc89cfb05a7][HOW]]	P [[tls:syn-func::#uuid-a9e51915-33f6-4995-9e68-d369df016b99][PPadV.postS]] {[[tls:sem-feat::#uuid-ff53e5da-89f7-4601-ae05-d2119e933dfa][rhetorical question]]} / how much more
+*** 妻@qī
+:PROPERTIES:
+:CONCEPT: uuid-61758fb6-833f-4301-9b7a-1ebe5a620798 / WIFE
+:SYN-FUNC: uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f
+:CHARPOS: 53
+:END:
+妻@qī	[[tls:concept:WIFE::#uuid-61758fb6-833f-4301-9b7a-1ebe5a620798][WIFE]]	N [[tls:syn-func::#uuid-3f430d08-15bf-43c3-bfa9-c41e445dfc2f][n(post-N)]] / main wife of a contextually determinate person; someone's main wife; one's main wife
+*** 子@zǐ
+:PROPERTIES:
+:CONCEPT: uuid-2af39464-6cf4-4e6d-bc88-003c832f3566 / CHILD
+:SYN-FUNC: uuid-9fda0181-1777-4402-a30f-1a136ab5fde1
+:SEM-FEAT: uuid-663f7a18-307a-4c5f-aadd-7455d054ced8
+:CHARPOS: 54
+:END:
+子@zǐ	[[tls:concept:CHILD::#uuid-2af39464-6cf4-4e6d-bc88-003c832f3566][CHILD]]	N [[tls:syn-func::#uuid-9fda0181-1777-4402-a30f-1a136ab5fde1][npost-N]] {[[tls:sem-feat::#uuid-663f7a18-307a-4c5f-aadd-7455d054ced8][male of female]]} / offspring; child; also: child (i.e. daughter)
+** 故得人之懽心	therefore he won delight of the people;
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0085
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a13:50::故得 / 孝經
+:CHARPOS: 50
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-4788bc76-7c4a-4616-b928-2a8edec67db4 / THEREFORE
+:SYN-FUNC: uuid-9846fcc7-7fe2-437f-8163-5564343b7ee2
+:CHARPOS: 50
+:END:
+故@gù	[[tls:concept:THEREFORE::#uuid-4788bc76-7c4a-4616-b928-2a8edec67db4][THEREFORE]]	N [[tls:syn-func::#uuid-9846fcc7-7fe2-437f-8163-5564343b7ee2][nadV.postN{SUBJ}:postS]] / therefore; thus; and similarly [new paragraph]; the point is thusNOTE: the syntax is nadV.postS
+*** 得@dé
+:PROPERTIES:
+:CONCEPT: uuid-9030175f-5f4d-4160-a66d-ae06522c4aa1 / FAVOURITE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+得@dé	[[tls:concept:FAVOURITE::#uuid-9030175f-5f4d-4160-a66d-ae06522c4aa1][FAVOURITE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / gain the favours of; become a favourite of; win the confidence of (the ruler); win the full support of (the people); be popular with
+*** 人@rén
+:PROPERTIES:
+:CONCEPT: uuid-5bd9d782-4f36-4d08-86b1-e28d2acf39e5 / HUMAN
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba
+:CHARPOS: 52
+:END:
+人@rén	[[tls:concept:HUMAN::#uuid-5bd9d782-4f36-4d08-86b1-e28d2acf39e5][HUMAN]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-f8182437-4c38-4cc9-a6f8-b4833cdea2ba][nonreferential]]} / man in general; man in the true sense of that word, man who deserves the name of man
+** 以事其親	thus he served his parents.
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0085
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a14:50::以事 / 孝經
+:CHARPOS: 50
+:END:
+*** 事@shì
+:PROPERTIES:
+:CONCEPT: uuid-1b3a8086-8850-4725-a462-7234e9901467 / SERVE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 51
+:END:
+事@shì	[[tls:concept:SERVE::#uuid-1b3a8086-8850-4725-a462-7234e9901467][SERVE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / serve (as minister or aide, as one state another etc.), be in the service of; enter the services of; side with; specifically: serve and cultivate through gifts; attend to
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-1cfb1034-c8e6-4e0f-9412-30268bc6c3e9 / PARENT
+:SYN-FUNC: uuid-f688791d-a18c-4bab-854f-b17a9f193cc5
+:CHARPOS: 53
+:END:
+親@qīn	[[tls:concept:PARENT::#uuid-1cfb1034-c8e6-4e0f-9412-30268bc6c3e9][PARENT]]	N [[tls:syn-func::#uuid-f688791d-a18c-4bab-854f-b17a9f193cc5][nt(post-N)]] / parents, one's parents
+** 夫然	Now it is so,
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0086
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a15:50::夫然 / 孝經
+:CHARPOS: 50
+:END:
+*** 夫@fú
+:PROPERTIES:
+:CONCEPT: uuid-96b09dfd-4a2c-4ae5-a683-e2740fc6f83b / MODAL PARTICLES
+:SYN-FUNC: uuid-4459c6a0-0146-44b6-9cf7-126234da725f
+:CHARPOS: 50
+:END:
+夫@fú	[[tls:concept:MODAL PARTICLES::#uuid-96b09dfd-4a2c-4ae5-a683-e2740fc6f83b][MODAL PARTICLES]]	N [[tls:syn-func::#uuid-4459c6a0-0146-44b6-9cf7-126234da725f][npro.adS]] / "Now,", "In fact," introducing new subject for the discourse, and introducing non-narrative theoretical discourse.
+*** 然@rán
+:PROPERTIES:
+:CONCEPT: uuid-22c7f8ee-d2d2-4b60-8df4-f271db709a88 / TRUE
+:SYN-FUNC: uuid-484b3e3c-93cc-4f9f-ba51-a1f4c2e04e41
+:SEM-FEAT: uuid-19235a96-7318-40ac-9dcd-8777d40db132
+:CHARPOS: 51
+:END:
+然@rán	[[tls:concept:TRUE::#uuid-22c7f8ee-d2d2-4b60-8df4-f271db709a88][TRUE]]	V [[tls:syn-func::#uuid-484b3e3c-93cc-4f9f-ba51-a1f4c2e04e41][vi(0)]] {[[tls:sem-feat::#uuid-19235a96-7318-40ac-9dcd-8777d40db132][sentence pro-form]]} / the contextually determinate S is true; it is so (mostly, the word in this meaning is used pro-sententially, as a pro-sentence)
+** 故生則親安之	therefore when he lives, then the parents find comfort in him,
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0086
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a16:50::故生 / 孝經
+:CHARPOS: 50
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-46411c62-20cf-4252-a454-66239611b824 / THEREFORE
+:SYN-FUNC: uuid-ffe8b29b-2e3a-4821-b3c9-9bdf54cfec5e
+:SEM-FEAT: uuid-2e959f8a-db74-4130-98f4-38026d957374
+:CHARPOS: 50
+:END:
+故@gù	[[tls:concept:THEREFORE::#uuid-46411c62-20cf-4252-a454-66239611b824][THEREFORE]]	N [[tls:syn-func::#uuid-ffe8b29b-2e3a-4821-b3c9-9bdf54cfec5e][nadS1.postS2]] {[[tls:sem-feat::#uuid-2e959f8a-db74-4130-98f4-38026d957374][objective reason]]} / the result is; consequently
+*** 親@qīn
+:PROPERTIES:
+:CONCEPT: uuid-1cfb1034-c8e6-4e0f-9412-30268bc6c3e9 / PARENT
+:SYN-FUNC: uuid-f688791d-a18c-4bab-854f-b17a9f193cc5
+:CHARPOS: 53
+:END:
+親@qīn	[[tls:concept:PARENT::#uuid-1cfb1034-c8e6-4e0f-9412-30268bc6c3e9][PARENT]]	N [[tls:syn-func::#uuid-f688791d-a18c-4bab-854f-b17a9f193cc5][nt(post-N)]] / parents, one's parents
+** 祭則鬼享之	when he sacrifices, then the ghosts enjoy it.
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0086
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a17:50::祭則 / 孝經
+:CHARPOS: 50
+:END:
+*** 鬼@guǐ
+:PROPERTIES:
+:CONCEPT: uuid-e1c38b23-e8f4-4a13-afaf-d6dfbf06803c / GHOST
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d
+:CHARPOS: 52
+:END:
+鬼@guǐ	[[tls:concept:GHOST::#uuid-e1c38b23-e8f4-4a13-afaf-d6dfbf06803c][GHOST]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-887fdec5-f18d-4faf-8602-f5c5c2f99a1d][metaphysical]]} / ghost of a deceased person or creature, spirit of a feature of nature
+** 是以天下和平	Therefore the world is in harmony and peace,
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0086
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a18:50::是以 / 孝經
+:CHARPOS: 50
+:END:
+*** 天下@tiānxià
+:PROPERTIES:
+:CONCEPT: uuid-2e330002-f16a-465f-a2cf-db8b92cf5bb8 / WORLD
+:SYN-FUNC: uuid-90983043-e151-4ef8-9571-43c345f5af42
+:CHARPOS: 52
+:END:
+天下@tiānxià	[[tls:concept:WORLD::#uuid-2e330002-f16a-465f-a2cf-db8b92cf5bb8][WORLD]]	N [[tls:syn-func::#uuid-90983043-e151-4ef8-9571-43c345f5af42][NP{NadN{PLACE}}]] / the inhabited world cf. 天之下
+*** 和@hé
+:PROPERTIES:
+:CONCEPT: uuid-0957cb0c-abba-40cc-afeb-3471ee035085 / HARMONY
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 54
+:END:
+和@hé	[[tls:concept:HARMONY::#uuid-0957cb0c-abba-40cc-afeb-3471ee035085][HARMONY]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / be harmonious, be in harmonious good order; be concordant; be well balanced
+*** 平@píng
+:PROPERTIES:
+:CONCEPT: uuid-f2cc1599-fc09-4196-8684-93de0eefd949 / PEACEFUL
+:SYN-FUNC: uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742
+:CHARPOS: 55
+:END:
+平@píng	[[tls:concept:PEACEFUL::#uuid-f2cc1599-fc09-4196-8684-93de0eefd949][PEACEFUL]]	V [[tls:syn-func::#uuid-a922807b-cc05-48ad-ae43-c0d30b9bb742][vi0]] / be tranquil and at peace together; keep the peace; make peace
+** 災害不生	no disasters occur,
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0086
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a19:50::災害 / 孝經
+:CHARPOS: 50
+:END:
+*** 災@zāi / 菑@zī
+:PROPERTIES:
+:CONCEPT: uuid-1b851b68-0004-47d0-bf7a-2dc792f98669 / DISASTER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 50
+:END:
+災@zāi / 菑@zī	[[tls:concept:DISASTER::#uuid-1b851b68-0004-47d0-bf7a-2dc792f98669][DISASTER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / OBI 5: disaster (from Heaven/Nature; occasionally self-inflicted as in CC 9.1); the reference is sometimes to a fire
+*** 害@hài
+:PROPERTIES:
+:CONCEPT: uuid-67825ba4-f849-4eaa-8bfe-a269be81d003 / DAMAGE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 51
+:END:
+害@hài	[[tls:concept:DAMAGE::#uuid-67825ba4-f849-4eaa-8bfe-a269be81d003][DAMAGE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / specifically, ancestral harm; CC generally, harmful impact; kinds of damage done
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a / NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 52
+:END:
+不@bù	[[tls:concept:NOT::#uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a][NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / not
+*** 生@shēng
+:PROPERTIES:
+:CONCEPT: uuid-933ed1e9-7340-4db1-a72f-228c6f17fa33 / ARISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-229a701e-1341-4719-9af8-a0b4e69c6c71
+:CHARPOS: 53
+:END:
+生@shēng	[[tls:concept:ARISE::#uuid-933ed1e9-7340-4db1-a72f-228c6f17fa33][ARISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-229a701e-1341-4719-9af8-a0b4e69c6c71][perfective]]} / originate; come to emerge; be naturally found in (of inanimate subjects), occur naturally in
+** 禍亂不作	disaster and chaos don't arise.
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0086
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a20:50::禍亂 / 孝經
+:CHARPOS: 50
+:END:
+*** 禍@huò
+:PROPERTIES:
+:CONCEPT: uuid-ce028b85-92d3-4813-9249-712c401e5ffb / DISASTER
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 50
+:END:
+禍@huò	[[tls:concept:DISASTER::#uuid-ce028b85-92d3-4813-9249-712c401e5ffb][DISASTER]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / disaster; disastrous fate, unhappy outcome; bad luck; sad fate
+*** 亂@luàn
+:PROPERTIES:
+:CONCEPT: uuid-bd31f9f1-3501-4e74-b465-9c59dfbad5b0 / CHAOS
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-9b914785-f29d-41c6-855f-d555f67a67be
+:CHARPOS: 51
+:END:
+亂@luàn	[[tls:concept:CHAOS::#uuid-bd31f9f1-3501-4e74-b465-9c59dfbad5b0][CHAOS]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-9b914785-f29d-41c6-855f-d555f67a67be][event]]} / confused unruliness
+*** 不@bù
+:PROPERTIES:
+:CONCEPT: uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a / NOT
+:SYN-FUNC: uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1
+:CHARPOS: 52
+:END:
+不@bù	[[tls:concept:NOT::#uuid-a30b7221-bf70-4e03-a32c-9deb65b1d75a][NOT]]	V [[tls:syn-func::#uuid-dd717b3f-0c98-4de8-bac6-2e4085805ef1][vt+V{0}]] / not
+*** 作@zuò / 作@zuò / 作@zuò
+:PROPERTIES:
+:CONCEPT: uuid-4d5f160c-ac3b-4bed-a601-26563ab6c724 / ARISE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:CHARPOS: 53
+:END:
+作@zuò / 作@zuò / 作@zuò	[[tls:concept:ARISE::#uuid-4d5f160c-ac3b-4bed-a601-26563ab6c724][ARISE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] / come into being for the first time, make one's appearance, appear on the scene
+** 故明王之以孝治天下也如此	Therefore the way the enlightened kings ruled the world by filial piety was like this.
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0086
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a21:50::故明 / 孝經
+:CHARPOS: 50
+:END:
+*** 故@gù
+:PROPERTIES:
+:CONCEPT: uuid-46411c62-20cf-4252-a454-66239611b824 / THEREFORE
+:SYN-FUNC: uuid-ffe8b29b-2e3a-4821-b3c9-9bdf54cfec5e
+:SEM-FEAT: uuid-2e959f8a-db74-4130-98f4-38026d957374
+:CHARPOS: 50
+:END:
+故@gù	[[tls:concept:THEREFORE::#uuid-46411c62-20cf-4252-a454-66239611b824][THEREFORE]]	N [[tls:syn-func::#uuid-ffe8b29b-2e3a-4821-b3c9-9bdf54cfec5e][nadS1.postS2]] {[[tls:sem-feat::#uuid-2e959f8a-db74-4130-98f4-38026d957374][objective reason]]} / the result is; consequently
+*** 明王@míngwáng
+:PROPERTIES:
+:CONCEPT: uuid-f29172e3-e64b-4fd9-83d5-e66d2f015c12 / RULER
+:SYN-FUNC: uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4
+:CHARPOS: 51
+:END:
+明王@míngwáng	[[tls:concept:RULER::#uuid-f29172e3-e64b-4fd9-83d5-e66d2f015c12][RULER]]	N [[tls:syn-func::#uuid-a8e89bab-49e1-4426-b230-0ec7887fd8b4][NP]] / the entlightened king
+*** 孝@xiào
+:PROPERTIES:
+:CONCEPT: uuid-40fa35ca-d157-4d1f-bae8-47abdd68a636 / VIRTUE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 55
+:END:
+孝@xiào	[[tls:concept:VIRTUE::#uuid-40fa35ca-d157-4d1f-bae8-47abdd68a636][VIRTUE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / filial piety, devotion to one's living and dead forbears
+*** 治@chí
+:PROPERTIES:
+:CONCEPT: uuid-e31a89e1-0f05-4892-8858-678d58463f3c / GOVERN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 56
+:END:
+治@chí	[[tls:concept:GOVERN::#uuid-e31a89e1-0f05-4892-8858-678d58463f3c][GOVERN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / to reduce to order; to put in order (the administration etc); to be in administrative charge of, to deal with, take care of; to be in charge of, take administrative responsibility for; to regulate, make regular, control (as breath)
+*** 天下@tiānxià
+:PROPERTIES:
+:CONCEPT: uuid-2e330002-f16a-465f-a2cf-db8b92cf5bb8 / WORLD
+:SYN-FUNC: uuid-90983043-e151-4ef8-9571-43c345f5af42
+:CHARPOS: 57
+:END:
+天下@tiānxià	[[tls:concept:WORLD::#uuid-2e330002-f16a-465f-a2cf-db8b92cf5bb8][WORLD]]	N [[tls:syn-func::#uuid-90983043-e151-4ef8-9571-43c345f5af42][NP{NadN{PLACE}}]] / the inhabited world cf. 天之下
+*** 如@rú
+:PROPERTIES:
+:CONCEPT: uuid-8bc7b883-c5ae-4ba9-a837-75f10303cf69 / EQUAL
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 60
+:END:
+如@rú	[[tls:concept:EQUAL::#uuid-8bc7b883-c5ae-4ba9-a837-75f10303cf69][EQUAL]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / resemble and come up to the standards of, be as good as; be to as high a degree as
+*** 此@cǐ
+:PROPERTIES:
+:CONCEPT: uuid-d6578a53-159d-4790-8707-0fb0e6775e27 / THIS
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-20e72b12-d3da-4d93-82a7-4d85d052a415
+:CHARPOS: 61
+:END:
+此@cǐ	[[tls:concept:THIS::#uuid-d6578a53-159d-4790-8707-0fb0e6775e27][THIS]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-20e72b12-d3da-4d93-82a7-4d85d052a415][abstract]]} / this situation, this fact, this state of affairs 如此
+** 詩云	The Book of Songs says:
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0086
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a22:50::《詩 / 孝經
+:CHARPOS: 50
+:END:
+*** 詩@shī
+:PROPERTIES:
+:CONCEPT: uuid-9529c84b-cdef-4b06-8cfb-d96eb5ce16f0 / SONG
+:SYN-FUNC: uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770
+:SEM-FEAT: uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d
+:CHARPOS: 50
+:END:
+詩@shī	[[tls:concept:SONG::#uuid-9529c84b-cdef-4b06-8cfb-d96eb5ce16f0][SONG]]	N [[tls:syn-func::#uuid-bdf5c789-bfd8-4a3d-b6f7-2123f345d770][npr]] {[[tls:sem-feat::#uuid-e8b7b671-bbc2-4146-ac30-52aaea08c87d][text]]} / the Book of Songs
+*** 云@yún
+:PROPERTIES:
+:CONCEPT: uuid-0f85c878-f238-492e-87a0-e094cef58525 / SPEAK
+:SYN-FUNC: uuid-ccee9f93-d493-43f0-b41f-64aa72876a47
+:SEM-FEAT: uuid-153f0cde-b1b2-4dde-8f6a-a6a5189019ba
+:CHARPOS: 51
+:END:
+云@yún	[[tls:concept:SPEAK::#uuid-0f85c878-f238-492e-87a0-e094cef58525][SPEAK]]	V [[tls:syn-func::#uuid-ccee9f93-d493-43f0-b41f-64aa72876a47][vtoS]] {[[tls:sem-feat::#uuid-153f0cde-b1b2-4dde-8f6a-a6a5189019ba][subject=text]]} / of texts, untensed: say, run as follows, German: lauten
+** 有覺德行	He has behaviour of great moral integrity,
+:PROPERTIES:
+:SRC: XIAOJING 8, ed. SSJZS p. 0086
+:DATE: 6230	early Western Han
+:LOCATION: KR1f0001_008:1a23:50::『有 / 孝經
+:CHARPOS: 50
+:END:
+*** 有@yǒu
+:PROPERTIES:
+:CONCEPT: uuid-67db5718-b459-4b11-9763-080ecc443d48 / ACT
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 50
+:END:
+有@yǒu	[[tls:concept:ACT::#uuid-67db5718-b459-4b11-9763-080ecc443d48][ACT]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / engage in (action); to bring (something) about; to make (an effort etc)
+*** 德@dé
+:PROPERTIES:
+:CONCEPT: uuid-74997a20-1bcf-4c47-a9d8-b67e6f139ad2 / VIRTUE
+:SYN-FUNC: uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d
+:CHARPOS: 52
+:END:
+德@dé	[[tls:concept:VIRTUE::#uuid-74997a20-1bcf-4c47-a9d8-b67e6f139ad2][VIRTUE]]	N [[tls:syn-func::#uuid-516d3836-3a0b-4fbc-b996-071cc48ba53d][nadN]] / magnanimous; virtuous; based on superior virtue
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-3153abac-5d72-44c0-ae8b-2d6f444d2c1d / ACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 53
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-3153abac-5d72-44c0-ae8b-2d6f444d2c1d][ACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / xìng: professional conduct, public demeanour, public conduct; personal conduct, behaviour

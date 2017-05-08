@@ -1,0 +1,92 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 尚書 KR1b0001_039
+#+DATE: 2017-02-08T16:35:52+0900
+#+PROPERTY: COMMIT de9767f9ceba938155d1ff855004139013966634
+** 我有師師	"I have (host-like=) in a great array,
+:PROPERTIES:
+:SRC: SHU 31.2, tr. Karlgren 46
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_039:1a06:1::『我 / 尚書
+:CHARPOS: 1
+:END:
+*** 我@wǒ
+:PROPERTIES:
+:CONCEPT: uuid-014a2756-d28f-4515-9f4b-823e216aa020 / WE
+:SYN-FUNC: uuid-74ace9ce-3be4-452c-8c91-2323adc6186f
+:SEM-FEAT: uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d
+:CHARPOS: 1
+:END:
+我@wǒ	[[tls:concept:WE::#uuid-014a2756-d28f-4515-9f4b-823e216aa020][WE]]	N [[tls:syn-func::#uuid-74ace9ce-3be4-452c-8c91-2323adc6186f][npro]] {[[tls:sem-feat::#uuid-8b00f365-46d9-4394-804c-8c8834ac9a9d][inclusive]]} / we (including the audience)
+** 予罔厲殺人	I declare that I do not tyrannically kill people";
+:PROPERTIES:
+:SRC: SHU 31.2, tr. Karlgren 46
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_039:1a10:4::予罔 / 尚書
+:CHARPOS: 4
+:END:
+*** 予@yú
+:PROPERTIES:
+:CONCEPT: uuid-e01096db-36f9-4548-8a67-85f0a8529d01 / EGO
+:SYN-FUNC: uuid-05c5b71e-5e2b-4505-80e6-9877b8635483
+:SEM-FEAT: uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7
+:CHARPOS: 4
+:END:
+予@yú	[[tls:concept:EGO::#uuid-e01096db-36f9-4548-8a67-85f0a8529d01][EGO]]	 [[tls:syn-func::#uuid-05c5b71e-5e2b-4505-80e6-9877b8635483][npro+V{PRED}]] {[[tls:sem-feat::#uuid-ee80ba53-f7eb-484d-b807-f36f9e0404a7][subjective]]} / I (as a responsible agent)
+** 曰無胥戕	saying: Do not injure eachother,
+:PROPERTIES:
+:SRC: SHU 31.3, tr. Karlgren 46
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_039:1a20:1::曰： / 尚書
+:CHARPOS: 1
+:END:
+*** 胥@xū
+:PROPERTIES:
+:CONCEPT: uuid-75980732-d9a8-4dcb-82ed-859ab7f1f64e / PRONOUN
+:SYN-FUNC: uuid-c90c2301-7d28-4681-a168-fa798aa91a6f
+:SEM-FEAT: uuid-21084068-98c2-459f-b5c1-20b9aad49988
+:CHARPOS: 3
+:END:
+胥@xū	[[tls:concept:PRONOUN::#uuid-75980732-d9a8-4dcb-82ed-859ab7f1f64e][PRONOUN]]	N [[tls:syn-func::#uuid-c90c2301-7d28-4681-a168-fa798aa91a6f][npro{OBJ}+Vt]] {[[tls:sem-feat::#uuid-21084068-98c2-459f-b5c1-20b9aad49988][mutual]]} / one another
+*** 戕@qiāng
+:PROPERTIES:
+:CONCEPT: uuid-0b6c577e-3985-4afe-bc13-e4839dd7dcb4 / INJURE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+戕@qiāng	[[tls:concept:INJURE::#uuid-0b6c577e-3985-4afe-bc13-e4839dd7dcb4][INJURE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / injure, inflict injury on
+** 皇天既付中國民	Great Heaven has delivered the people of the Central kingdom
+:PROPERTIES:
+:SRC: SHU 31.6, tr. Karlgren 46
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_039:1a45:1::皇天 / 尚書
+:CHARPOS: 1
+:END:
+*** 付@fù
+:PROPERTIES:
+:CONCEPT: uuid-5baeddb8-a177-4bd3-a15d-978679731500 / GIVE
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:CHARPOS: 4
+:END:
+付@fù	[[tls:concept:GIVE::#uuid-5baeddb8-a177-4bd3-a15d-978679731500][GIVE]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] / give N2 to the contextually determinate N1
+*** 中國@zhōngguó
+:PROPERTIES:
+:CONCEPT: uuid-27feb1d2-a6bf-4b9a-a46f-a12f3910db36 / CHINA
+:SYN-FUNC: uuid-14b56546-32fd-4321-8d73-3e4b18316c15
+:CHARPOS: 5
+:END:
+中國@zhōngguó	[[tls:concept:CHINA::#uuid-27feb1d2-a6bf-4b9a-a46f-a12f3910db36][CHINA]]	N [[tls:syn-func::#uuid-14b56546-32fd-4321-8d73-3e4b18316c15][NPadN]] / of the central state(s) 中國民
+** 用懌先王受命	and thus gladden the former kings who recieved the mandate.
+:PROPERTIES:
+:SRC: SHU 31.7, tr. Karlgren 46
+:DATE: 3100	Ancient Chinese
+:LOCATION: KR1b0001_039:1a48:1::用懌 / 尚書
+:CHARPOS: 1
+:END:
+*** 懌@yì
+:PROPERTIES:
+:CONCEPT: uuid-2b4cfcac-5f5f-468c-ae6f-239425e7e229 / HAPPY
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 2
+:END:
+懌@yì	[[tls:concept:HAPPY::#uuid-2b4cfcac-5f5f-468c-ae6f-239425e7e229][HAPPY]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / cause to be happily pleased

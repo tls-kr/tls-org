@@ -1,0 +1,230 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 郭店楚簡・五行 KR2p0021_001
+#+DATE: 2017-02-08T16:41:35+0900
+#+PROPERTY: COMMIT 9fcd10cd4fad60bb32ed7e96229a2e9d42f4dd50
+** 仁形於內	When kind-heartedness takes shape within
+:PROPERTIES:
+:SRC: from Heaven];
+:DATE: --
+:LOCATION: KR2p0021_001:00:0::仁形 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 仁@rén
+:PROPERTIES:
+:CONCEPT: uuid-db0c36c1-1c31-46d5-a1ce-63dc2b95270b / BENEVOLENCE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 0
+:END:
+仁@rén	[[tls:concept:BENEVOLENCE::#uuid-db0c36c1-1c31-46d5-a1ce-63dc2b95270b][BENEVOLENCE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / humaneness, kindliness, kind-heartedness; benevolence, Goodness as a moral value
+*** 形@xíng
+:PROPERTIES:
+:CONCEPT: uuid-edd71773-d625-4a1a-9e51-ea301149e20f / VISIBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 1
+:END:
+形@xíng	[[tls:concept:VISIBLE::#uuid-edd71773-d625-4a1a-9e51-ea301149e20f][VISIBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / take shape, be formed
+*** 內@nèi
+:PROPERTIES:
+:CONCEPT: uuid-20f8b638-7e82-4cf4-b107-39476bd663c3 / INSIDE
+:SYN-FUNC: uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b
+:SEM-FEAT: uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd
+:CHARPOS: 3
+:END:
+內@nèi	[[tls:concept:INSIDE::#uuid-20f8b638-7e82-4cf4-b107-39476bd663c3][INSIDE]]	N [[tls:syn-func::#uuid-8717712d-14a4-4ae2-be7a-6e18e61d929b][n]] {[[tls:sem-feat::#uuid-667d0048-c84a-46f4-8974-c4df90ffa5cd][subj=nonhuman]]} / WHAT IS INSIDE> internal situation
+** 謂之德之行	then that is to be called proper enactment of spiritual power [as we shall see: from Heaven];
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2p0021_001:00:0::謂之 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 謂@wèi
+:PROPERTIES:
+:CONCEPT: uuid-1c9ed2e2-d827-4da2-aee8-d14444ec3347 / NAME
+:SYN-FUNC: uuid-5c4b8c42-2898-4d12-b732-4c6169e3e08b
+:CHARPOS: 0
+:END:
+謂@wèi	[[tls:concept:NAME::#uuid-1c9ed2e2-d827-4da2-aee8-d14444ec3347][NAME]]	V [[tls:syn-func::#uuid-5c4b8c42-2898-4d12-b732-4c6169e3e08b][vtt{0}oN1pro.+N2:postN1]] / A 謂之B: A is called B
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-e2918757-3d57-4275-b0df-a7381185dd17 / GENITIVE PARTICLES
+:SYN-FUNC: uuid-db3e24ed-d18b-454f-9f8f-47822681721b
+:SEM-FEAT: uuid-69b401a4-7fa0-4d82-8a37-dea2761bbc79
+:CHARPOS: 1
+:END:
+之@zhī	[[tls:concept:GENITIVE PARTICLES::#uuid-e2918757-3d57-4275-b0df-a7381185dd17][GENITIVE PARTICLES]]	 [[tls:syn-func::#uuid-db3e24ed-d18b-454f-9f8f-47822681721b][npropostN1.adN2]] {[[tls:sem-feat::#uuid-69b401a4-7fa0-4d82-8a37-dea2761bbc79][genitive]]} / NP1 is the object of the action in NP2 禘之說
+*** 德@dé
+:PROPERTIES:
+:CONCEPT: uuid-1cdab186-9017-4847-a833-2ab92f47da4a / VIRTUE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-98e7674b-b362-466f-9568-d0c14470282a
+:CHARPOS: 2
+:END:
+德@dé	[[tls:concept:VIRTUE::#uuid-1cdab186-9017-4847-a833-2ab92f47da4a][VIRTUE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-98e7674b-b362-466f-9568-d0c14470282a][psych]]} / the highest form of virtue, true virtue, true inner power
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-8dc9bbd5-7449-4892-a3da-16819f96f8d7 / ACT
+:SYN-FUNC: uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-8dc9bbd5-7449-4892-a3da-16819f96f8d7][ACT]]	N [[tls:syn-func::#uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1][nab.t]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / enactment of N, proper enactment of N
+** 不形於內	when it does not take shape within [like this]
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2p0021_001:00:0::不形 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 形@xíng
+:PROPERTIES:
+:CONCEPT: uuid-edd71773-d625-4a1a-9e51-ea301149e20f / VISIBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 1
+:END:
+形@xíng	[[tls:concept:VISIBLE::#uuid-edd71773-d625-4a1a-9e51-ea301149e20f][VISIBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / take shape, be formed
+** 謂之行	this is to be called [mere external] decent behaviour.
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2p0021_001:00:0::謂之 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 謂@wèi
+:PROPERTIES:
+:CONCEPT: uuid-1c9ed2e2-d827-4da2-aee8-d14444ec3347 / NAME
+:SYN-FUNC: uuid-5c4b8c42-2898-4d12-b732-4c6169e3e08b
+:CHARPOS: 0
+:END:
+謂@wèi	[[tls:concept:NAME::#uuid-1c9ed2e2-d827-4da2-aee8-d14444ec3347][NAME]]	V [[tls:syn-func::#uuid-5c4b8c42-2898-4d12-b732-4c6169e3e08b][vtt{0}oN1pro.+N2:postN1]] / A 謂之B: A is called B
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-71ac6108-1a66-4c9c-82c1-f9e790fbbf5d / ACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-71ac6108-1a66-4c9c-82c1-f9e790fbbf5d][ACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / proper conduct, moral behaviour; ideal of behaviour; proper conduct
+** 義形於內	When wisdom takes shape within
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2p0021_001:00:0::義形 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 形@xíng
+:PROPERTIES:
+:CONCEPT: uuid-edd71773-d625-4a1a-9e51-ea301149e20f / VISIBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 1
+:END:
+形@xíng	[[tls:concept:VISIBLE::#uuid-edd71773-d625-4a1a-9e51-ea301149e20f][VISIBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / take shape, be formed
+** 謂之德之行	that is to be called proper enactment of spiritual power;
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2p0021_001:00:0::謂之 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 之@zhī
+:PROPERTIES:
+:CONCEPT: uuid-e2918757-3d57-4275-b0df-a7381185dd17 / GENITIVE PARTICLES
+:SYN-FUNC: uuid-db3e24ed-d18b-454f-9f8f-47822681721b
+:SEM-FEAT: uuid-69b401a4-7fa0-4d82-8a37-dea2761bbc79
+:CHARPOS: 1
+:END:
+之@zhī	[[tls:concept:GENITIVE PARTICLES::#uuid-e2918757-3d57-4275-b0df-a7381185dd17][GENITIVE PARTICLES]]	 [[tls:syn-func::#uuid-db3e24ed-d18b-454f-9f8f-47822681721b][npropostN1.adN2]] {[[tls:sem-feat::#uuid-69b401a4-7fa0-4d82-8a37-dea2761bbc79][genitive]]} / NP1 is the object of the action in NP2 禘之說
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-8dc9bbd5-7449-4892-a3da-16819f96f8d7 / ACT
+:SYN-FUNC: uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 4
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-8dc9bbd5-7449-4892-a3da-16819f96f8d7][ACT]]	N [[tls:syn-func::#uuid-d128d787-1ecb-4c4f-8e89-5dd3edea91d1][nab.t]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / enactment of N, proper enactment of N
+** 不形於內	when it does not take shape within [like this]
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2p0021_001:00:0::不形 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 形@xíng
+:PROPERTIES:
+:CONCEPT: uuid-edd71773-d625-4a1a-9e51-ea301149e20f / VISIBLE
+:SYN-FUNC: uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f
+:SEM-FEAT: uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07
+:CHARPOS: 1
+:END:
+形@xíng	[[tls:concept:VISIBLE::#uuid-edd71773-d625-4a1a-9e51-ea301149e20f][VISIBLE]]	V [[tls:syn-func::#uuid-c20780b3-41f9-491b-bb61-a269c1c4b48f][vi]] {[[tls:sem-feat::#uuid-3d95d354-0c16-419f-9baf-f1f6cb6fbd07][change]]} / take shape, be formed
+** 謂之行	that is called [mere external] decent behaviour [tout court].
+:PROPERTIES:
+:SRC: --
+:DATE: --
+:LOCATION: KR2p0021_001:00:0::謂之 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 謂@wèi
+:PROPERTIES:
+:CONCEPT: uuid-1c9ed2e2-d827-4da2-aee8-d14444ec3347 / NAME
+:SYN-FUNC: uuid-5c4b8c42-2898-4d12-b732-4c6169e3e08b
+:CHARPOS: 0
+:END:
+謂@wèi	[[tls:concept:NAME::#uuid-1c9ed2e2-d827-4da2-aee8-d14444ec3347][NAME]]	V [[tls:syn-func::#uuid-5c4b8c42-2898-4d12-b732-4c6169e3e08b][vtt{0}oN1pro.+N2:postN1]] / A 謂之B: A is called B
+*** 行@xíng
+:PROPERTIES:
+:CONCEPT: uuid-71ac6108-1a66-4c9c-82c1-f9e790fbbf5d / ACT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89
+:CHARPOS: 2
+:END:
+行@xíng	[[tls:concept:ACT::#uuid-71ac6108-1a66-4c9c-82c1-f9e790fbbf5d][ACT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-f55cff2f-f0e3-4f08-a89c-5d08fcf3fe89][act]]} / proper conduct, moral behaviour; ideal of behaviour; proper conduct
+** 禮形於內	When a sense for ritual propriety takes shape inside
+:PROPERTIES:
+:SRC: WXP 1:2 ed. Pang Pu p. 44
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_001:00:0::禮形 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 禮@lǐ
+:PROPERTIES:
+:CONCEPT: uuid-a4337779-0f11-42f0-8361-7d31c40351ff / RITUAL
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588
+:CHARPOS: 0
+:END:
+禮@lǐ	[[tls:concept:RITUAL::#uuid-a4337779-0f11-42f0-8361-7d31c40351ff][RITUAL]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-2d895e04-08d2-44ab-ab04-9a24a4b21588][concept]]} / ritual propriety, the rules and principles of ritual propriety; the demands of ritual
+** 智形於內
+:PROPERTIES:
+:SRC: WXP 1:2 ed. Pang Pu p. 44
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_001:00:0::智形 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 智@zhì / 知@zhī
+:PROPERTIES:
+:CONCEPT: uuid-27763dc2-a332-4f0f-8675-f0acbf1c09c9 / INTELLIGENT
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-bd32ce03-4320-4add-a79a-55d012763198
+:CHARPOS: 0
+:END:
+智@zhì / 知@zhī	[[tls:concept:INTELLIGENT::#uuid-27763dc2-a332-4f0f-8675-f0acbf1c09c9][INTELLIGENT]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-bd32ce03-4320-4add-a79a-55d012763198][disposition]]} / intellect; intellectual competence, professional competence; intelligence, intellectual capacity
+** 聖形於內	When supreme human perfection takes shape within
+:PROPERTIES:
+:SRC: WXP 1:2 ed. Pang Pu p. 44
+:DATE: 8110	late Warring States
+:LOCATION: KR2p0021_001:00:0::聖形 / 郭店楚簡・五行
+:CHARPOS: 0
+:END:
+*** 聖@shèng
+:PROPERTIES:
+:CONCEPT: uuid-90d7bcaf-c410-4a47-ba32-9c2f963be749 / WISE
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-4e92cef6-5753-4eed-a76b-7249c223316f
+:CHARPOS: 0
+:END:
+聖@shèng	[[tls:concept:WISE::#uuid-90d7bcaf-c410-4a47-ba32-9c2f963be749][WISE]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-4e92cef6-5753-4eed-a76b-7249c223316f][feature]]} / quality of a sage, sageliness

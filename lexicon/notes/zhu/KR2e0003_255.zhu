@@ -1,0 +1,76 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_255
+#+DATE: 2017-02-08T16:41:27+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 賢人也	was a sage", replied the mother,
+:PROPERTIES:
+:SRC: ZGC 20.10.4, tr. Crump no 265, ed. Sha4ngha3igu3jí p. 691
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_255:1a23:1::賢人 / 戰國策
+:CHARPOS: 1
+:END:
+*** 賢人@xiánrén
+:PROPERTIES:
+:CONCEPT: uuid-6986e38a-1b09-4175-86a3-67f16e54d84f / HERO
+:SYN-FUNC: uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29
+:CHARPOS: 1
+:END:
+賢人@xiánrén	[[tls:concept:HERO::#uuid-6986e38a-1b09-4175-86a3-67f16e54d84f][HERO]]	N [[tls:syn-func::#uuid-d6de1ff3-03d0-4bd5-8d6b-066f38000e29][NP{PRED}]] / be a worthy
+** 入見王	and came to have an audience.
+:PROPERTIES:
+:SRC: ZGC 20.10.7, tr. Crump no 265, ed. Sha4ngha3igu3jí p. 693
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_255:2a02:1::入見 / 戰國策
+:CHARPOS: 1
+:END:
+*** 入見@rùjiàn
+:PROPERTIES:
+:CONCEPT: uuid-60aa76f0-2d47-419d-85a5-77341105f193 / VISIT
+:SYN-FUNC: uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 1
+:END:
+入見@rùjiàn	[[tls:concept:VISIT::#uuid-60aa76f0-2d47-419d-85a5-77341105f193][VISIT]]	V [[tls:syn-func::#uuid-5b3376f4-75c4-4047-94eb-fc6d1bca520d][VPt(oN)]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / go in to have an audience with N
+** 入見於王	and came in for an audience,
+:PROPERTIES:
+:SRC: ZGC 20.10.19, tr. Crump no 265, ed. Sha4ngha3igu3jí p. 695
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_255:5a02:1::入見 / 戰國策
+:CHARPOS: 1
+:END:
+*** 入見@rùjiàn
+:PROPERTIES:
+:CONCEPT: uuid-5b6f80a4-3d0f-41f7-a565-aca96caa5deb / VISIT
+:SYN-FUNC: uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c
+:CHARPOS: 1
+:END:
+入見@rùjiàn	[[tls:concept:VISIT::#uuid-5b6f80a4-3d0f-41f7-a565-aca96caa5deb][VISIT]]	V [[tls:syn-func::#uuid-b0372307-1c92-4d55-a0a9-b175eef5e94c][VPt+prep+N]] / go in to have an audience with N
+** 夫秦趙構難	when Ch'in and Chao engage,
+:PROPERTIES:
+:SRC: ZGC 20.10.19, tr. Crump no 265, ed. Sha4ngha3igu3jí p. 695
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_255:5a07:1::夫秦 / 戰國策
+:CHARPOS: 1
+:END:
+*** 構@gòu
+:PROPERTIES:
+:CONCEPT: uuid-918231e3-5eaf-43e6-8f45-10aa1a030df2 / PLAN
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 4
+:END:
+構@gòu	[[tls:concept:PLAN::#uuid-918231e3-5eaf-43e6-8f45-10aa1a030df2][PLAN]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / plot against; make plans for (trouble)
+** 又入見王曰	and again had audience with the king.
+:PROPERTIES:
+:SRC: ZGC 20.10.21, tr. Crump no 265, ed. Sha4ngha3igu3jí p. 679
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_255:6a02:1::又入 / 戰國策
+:CHARPOS: 1
+:END:
+*** 入見@rùjiàn
+:PROPERTIES:
+:CONCEPT: uuid-ba40b595-bf51-48cf-8626-a1b38062e4fd / VISIT
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 2
+:END:
+入見@rùjiàn	[[tls:concept:VISIT::#uuid-ba40b595-bf51-48cf-8626-a1b38062e4fd][VISIT]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / go in to have an audience with

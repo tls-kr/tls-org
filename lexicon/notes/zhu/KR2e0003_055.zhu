@@ -1,0 +1,149 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: Notes for 戰國策 KR2e0003_055
+#+DATE: 2017-02-08T16:41:14+0900
+#+PROPERTY: COMMIT ef8ddaea8bfec7c43d341a26c311678bcaaec22e
+** 不如與魏以勁之	'You should side with Wei to stiffen her spine.
+:PROPERTIES:
+:SRC: ZGC 3.10.1; tr. Crump 1979 no. 52, p.61, ed. Shanghaiguji p. 123 Beyond Hsi-ho
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_055:1a03:1::「不 / 戰國策
+:CHARPOS: 1
+:END:
+*** 不如@bùrú
+:PROPERTIES:
+:CONCEPT: uuid-ed405fc1-db4d-40a2-a803-fc30e4f70633 / SHOULD
+:SYN-FUNC: uuid-7918d628-430e-4537-afca-f2b1b4144611
+:CHARPOS: 1
+:END:
+不如@bùrú	[[tls:concept:SHOULD::#uuid-ed405fc1-db4d-40a2-a803-fc30e4f70633][SHOULD]]	V [[tls:syn-func::#uuid-7918d628-430e-4537-afca-f2b1b4144611][VPt+V{0}]] / had better, should ideally, should under the circumstances, should given the alternatives that the situation presents
+*** 與@yǔ
+:PROPERTIES:
+:CONCEPT: uuid-7cdd7cc6-ffec-41fc-879b-a32ffc94e4fd / COOPERATE
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:CHARPOS: 3
+:END:
+與@yǔ	[[tls:concept:COOPERATE::#uuid-7cdd7cc6-ffec-41fc-879b-a32ffc94e4fd][COOPERATE]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] / be on theside of; associate with, cooperate with, have dealings with; join in with
+*** 勁@jìng
+:PROPERTIES:
+:CONCEPT: uuid-a83450d3-478b-4f76-9c48-7ff65eda5deb / STRONG
+:SYN-FUNC: uuid-fbfb2371-2537-4a99-a876-41b15ec2463c
+:SEM-FEAT: uuid-fac754df-5669-4052-9dda-6244f229371f
+:CHARPOS: 6
+:END:
+勁@jìng	[[tls:concept:STRONG::#uuid-a83450d3-478b-4f76-9c48-7ff65eda5deb][STRONG]]	V [[tls:syn-func::#uuid-fbfb2371-2537-4a99-a876-41b15ec2463c][vtoN]] {[[tls:sem-feat::#uuid-fac754df-5669-4052-9dda-6244f229371f][causative]]} / strengthen; give added force to; "stiffen (someone's) spine
+** 魏戰勝	If she wins
+:PROPERTIES:
+:SRC: ZGC 3.10.1; tr. Crump 1979 no. 52, p.61, ed. Shanghaiguji p. 123 Beyond Hsi-ho
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_055:1a04:50::魏戰 / 戰國策
+:CHARPOS: 50
+:END:
+*** 戰勝@zhànshèng
+:PROPERTIES:
+:CONCEPT: uuid-23b6e4ea-a6dc-45b9-86dd-352ab050acb8 / WIN
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 51
+:END:
+戰勝@zhànshèng	[[tls:concept:WIN::#uuid-23b6e4ea-a6dc-45b9-86dd-352ab050acb8][WIN]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / fight so as to win> fight a victorious battle, win a/the battle
+** 復聽於秦	she will once again obey Ch'in
+:PROPERTIES:
+:SRC: ZGC 3.10.1; tr. Crump 1979 no. 52, p.61, ed. Shanghaiguji p. 123 Beyond Hsi-ho
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_055:1a05:50::復聽 / 戰國策
+:CHARPOS: 50
+:END:
+*** 聽@tīng / @
+:PROPERTIES:
+:CONCEPT: uuid-0531c3ee-af46-4e88-813c-547e6e940f34 / OBEY
+:SYN-FUNC: uuid-739c24ae-d585-4fff-9ac2-2547b1050f16
+:CHARPOS: 51
+:END:
+聽@tīng / @	[[tls:concept:OBEY::#uuid-0531c3ee-af46-4e88-813c-547e6e940f34][OBEY]]	V [[tls:syn-func::#uuid-739c24ae-d585-4fff-9ac2-2547b1050f16][vt+prep+N]] / serve under, obey
+** 王用儀言	The king took Yi's advice
+:PROPERTIES:
+:SRC: ZGC 3.10.2; tr. Crump 1979 no. 52, p.62, , ed. Shanghaiguji p. 123
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_055:2a01:1::王用 / 戰國策
+:CHARPOS: 1
+:END:
+*** 言@yán
+:PROPERTIES:
+:CONCEPT: uuid-58248328-733b-4587-bbd8-7c8aa830eebf / SPEAK
+:SYN-FUNC: uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8
+:SEM-FEAT: uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa
+:CHARPOS: 4
+:END:
+言@yán	[[tls:concept:SPEAK::#uuid-58248328-733b-4587-bbd8-7c8aa830eebf][SPEAK]]	N [[tls:syn-func::#uuid-76be1df4-3d73-4e5f-bbc2-729542645bc8][nab]] {[[tls:sem-feat::#uuid-7bbb1c42-06ca-4f3b-81e5-682c75fe8eaa][object]]} / statements of opinion, proposal; public or formal utterance which commits the speaker; pronouncement; public or formal pronouncement, public or formal suggestion; Sometimes less specifically: proposal; what one says, speech; language; public proposal, public speech, words
+** 犀首戰勝威王	They were victorious102
+:PROPERTIES:
+:SRC: ZGC 3.10.2; tr. Crump 1979 no. 52, p.62, , ed. Shanghaiguji p. 123
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_055:2a05:1::犀首 / 戰國策
+:CHARPOS: 1
+:END:
+*** 犀首@xīshǒu
+:PROPERTIES:
+:CONCEPT: uuid-f6e37311-71cf-4c41-9226-1733526f840b / MALES OF WEI
+:SYN-FUNC: uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632
+:CHARPOS: 1
+:END:
+犀首@xīshǒu	[[tls:concept:MALES OF WEI::#uuid-f6e37311-71cf-4c41-9226-1733526f840b][MALES OF WEI]]	N [[tls:syn-func::#uuid-c43c0bab-2810-42a4-a6be-e4641d9b6632][NPpr]] / See Unger no. 34, and 公孫衍
+*** 戰勝@zhànshèng
+:PROPERTIES:
+:CONCEPT: uuid-d51e9277-12d8-4a5b-9a2f-3359d3f2c112 / WIN
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6
+:CHARPOS: 3
+:END:
+戰勝@zhànshèng	[[tls:concept:WIN::#uuid-d51e9277-12d8-4a5b-9a2f-3359d3f2c112][WIN]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-f2783e17-b4a1-4e3b-8b47-6a579c6e1eb6][resultative]]} / win in battle against
+** 魏兵罷弊	but Wei's troops were spent
+:PROPERTIES:
+:SRC: ZGC 3.10.2; tr. Crump 1979 no. 52, p.62, , ed. Shanghaiguji p. 123
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_055:2a06:50::魏兵 / 戰國策
+:CHARPOS: 50
+:END:
+*** 罷敝@píbì / 疲敝@píbì / 疲@pí / 罷弊@píbì
+:PROPERTIES:
+:CONCEPT: uuid-bd7cc8cb-fd5e-44d0-aba6-c4ecfda8f33c / TIRED
+:SYN-FUNC: uuid-091af450-64e0-4b82-98a2-84d0444b6d19
+:CHARPOS: 50
+:END:
+罷敝@píbì / 疲敝@píbì / 疲@pí / 罷弊@píbì	[[tls:concept:TIRED::#uuid-bd7cc8cb-fd5e-44d0-aba6-c4ecfda8f33c][TIRED]]	V [[tls:syn-func::#uuid-091af450-64e0-4b82-98a2-84d0444b6d19][VPi]] / be very exhausted
+** 恐畏秦	and in fear of Ch'in she offered,
+:PROPERTIES:
+:SRC: ZGC 3.10.2; tr. Crump 1979 no. 52, p.62, , ed. Shanghaiguji p. 123
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_055:2a07:50::恐畏 / 戰國策
+:CHARPOS: 50
+:END:
+*** 恐畏@kǒngwèi
+:PROPERTIES:
+:CONCEPT: uuid-f61fe12d-5dbe-47cb-bc74-c7903bb427d8 / FEAR
+:SYN-FUNC: uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33
+:SEM-FEAT: uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8
+:CHARPOS: 50
+:END:
+恐畏@kǒngwèi	[[tls:concept:FEAR::#uuid-f61fe12d-5dbe-47cb-bc74-c7903bb427d8][FEAR]]	V [[tls:syn-func::#uuid-98f2ce75-ae37-4667-90ff-f418c4aeaa33][VPtoN]] {[[tls:sem-feat::#uuid-2a66fc1c-6671-47d2-bd04-cfd6ccae64b8][stative]]} / be very much afraid of
+** 果獻西河之外	as predicted, the area beyond Hsi-ho.
+:PROPERTIES:
+:SRC: ZGC 3.10.2; tr. Crump 1979 no. 52, p.62, , ed. Shanghaiguji p. 123
+:DATE: 8110	late Warring States
+:LOCATION: KR2e0003_055:2a07:50::果獻 / 戰國策
+:CHARPOS: 50
+:END:
+*** 果@guǒ
+:PROPERTIES:
+:CONCEPT: uuid-28a722b0-e98d-45ac-96a9-b3f9b98b33da / REALITY
+:SYN-FUNC: uuid-9e261ad1-59c5-4818-90e7-cc726a717900
+:CHARPOS: 50
+:END:
+果@guǒ	[[tls:concept:REALITY::#uuid-28a722b0-e98d-45ac-96a9-b3f9b98b33da][REALITY]]	N [[tls:syn-func::#uuid-9e261ad1-59c5-4818-90e7-cc726a717900][nab.adV]] / as a fruit> eventually; i n the event, as predicted, as one suspected, really, indeed; as it happened
+*** 獻@xiàn
+:PROPERTIES:
+:CONCEPT: uuid-3f6a819e-a82e-4947-95a7-ab50b22aabc0 / HAND UP
+:SYN-FUNC: uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff
+:CHARPOS: 51
+:END:
+獻@xiàn	[[tls:concept:HAND UP::#uuid-3f6a819e-a82e-4947-95a7-ab50b22aabc0][HAND UP]]	V [[tls:syn-func::#uuid-0bcf295a-0ea1-450f-8a23-bf9130c190ff][vtt(oN1.)+N2]] / hand the contextually determinate N1 to N2
